@@ -6,9 +6,9 @@ from PIL import Image
 from io import BytesIO
 
 # Backend API endpoint
-BACKEND_API_URL = "http://192.168.0.40:5000/search-dialouge"  # Update with your backend URL
+BACKEND_API_URL = "/search-dialouge"  # Update with your backend URL
 # Backend API for getting images
-GET_IMAGE_API = "http://192.168.0.40:5000/get-image"
+GET_IMAGE_API = "/get-image"
 
 col1, col2 = st.columns([1, 3])
 with col1:
@@ -43,7 +43,7 @@ query = st.text_input("Dialogue:", value=st.session_state.get("chosen_suggestion
 def search_dialogue_api(query, top_k=10):
     try:
         payload = {"text": query, "top_k": top_k}
-        response = requests.post(BACKEND_API_URL, json=payload)
+        response = requests.post(st.session_state.back_end_url + BACKEND_API_URL, json=payload)
         
         if response.status_code == 200:
             return response.json()  # Return the search results as JSON
@@ -58,7 +58,7 @@ def search_dialogue_api(query, top_k=10):
 @st.cache_resource
 def fetch_image_from_backend(image_path):
     try:
-        response = requests.get(f"{GET_IMAGE_API}/{image_path}", stream=True)
+        response = requests.get(f"{st.session_state.back_end_url + GET_IMAGE_API}/{image_path}", stream=True)
         if response.status_code == 200:
             # Load the image from response content
             return Image.open(BytesIO(response.content))

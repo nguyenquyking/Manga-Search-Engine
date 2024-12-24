@@ -6,10 +6,10 @@ import io
 from io import BytesIO
 
 # Backend API endpoint
-BACKEND_API_URL = "http://192.168.0.40:5000/upload-image"  # Update with your backend URL
-SEARCH_SCENE_API_URL = "http://192.168.0.40:5000/search-scene"
-GET_IMAGE_API_URL = "http://192.168.0.40:5000/get-image"
-REFINE_RESULT_API_URL = "http://192.168.0.40:5000/refine-result"
+BACKEND_API_URL = "/upload-image"  # Update with your backend URL
+SEARCH_SCENE_API_URL = "/search-scene"
+GET_IMAGE_API_URL = "/get-image"
+REFINE_RESULT_API_URL = "/refine-result"
 
 col1, col2 = st.columns([1, 3]) 
 with col1:
@@ -65,7 +65,7 @@ def upload_image_to_backend(image_file):
         files = {"file": (image_file.name, file_buffer, image_file.type)}
         
         # Call the API
-        response = requests.post(BACKEND_API_URL, files=files)
+        response = requests.post(st.session_state.back_end_url + BACKEND_API_URL, files=files)
         
         # Check for success
         if response.status_code == 201:
@@ -104,7 +104,7 @@ def call_search_scene_api(image_paths, text_inputs, top_k):
         "top_k": top_k
     }
     try:
-        response = requests.post(SEARCH_SCENE_API_URL, json=payload)
+        response = requests.post(st.session_state.back_end_url + SEARCH_SCENE_API_URL, json=payload)
         if response.status_code == 200:
             return response.json()["results"]
         else:
@@ -120,7 +120,7 @@ def call_refine_result_api(user_id, selections, top_k):
         "top_k": top_k
     }
     try:
-        response = requests.post(REFINE_RESULT_API_URL, json=payload)
+        response = requests.post(st.session_state.back_end_url + REFINE_RESULT_API_URL, json=payload)
         if response.status_code == 200:
             return response.json()["results"]
         else:
@@ -133,7 +133,7 @@ def call_refine_result_api(user_id, selections, top_k):
 @st.cache_resource
 def fetch_image_from_backend(image_path):
     try:
-        response = requests.get(f"{GET_IMAGE_API_URL}/{image_path}", stream=True)
+        response = requests.get(f"{st.session_state.back_end_url + GET_IMAGE_API_URL}/{image_path}", stream=True)
         if response.status_code == 200:
             return Image.open(BytesIO(response.content))
         else:

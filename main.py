@@ -1,15 +1,19 @@
 import streamlit as st
 import requests  # Import requests for API calls
 
-REGISTER_USER_API_URL = " https://6140-171-243-49-202.ngrok-free.app/register-user"
-SET_API_KEY_API_URL = "http:/192.168.0.40:5000/set-api-key"
+BACK_END_URL = "https://badger-prepared-iguana.ngrok-free.app"
+REGISTER_USER_API_URL = "/register-user"
+SET_API_KEY_API_URL = "/set-api-key"
 
 st.set_page_config(page_title="Manga Retrieval", page_icon=":material/edit:")
+
+if "back_end_url" not in st.session_state:
+    st.session_state.back_end_url = BACK_END_URL
 
 # Call backend API to register user and store the ID
 if "session_state_id_turn" not in st.session_state:
     try:
-        response = requests.post(REGISTER_USER_API_URL)
+        response = requests.post(st.session_state.back_end_url + REGISTER_USER_API_URL)
         if response.status_code == 201:
             st.session_state.session_state_id_turn = response.json().get("user_id")
         else:
@@ -47,7 +51,7 @@ if st.session_state.send_button_visible:
                 "api_key": api_key,
                 "user_id": st.session_state.session_state_id_turn
             }
-            response = requests.post(SET_API_KEY_API_URL, json=payload)
+            response = requests.post(st.session_state.back_end_url + SET_API_KEY_API_URL, json=payload)
             
             if response.status_code == 200:
                 st.sidebar.success("API key sent successfully!")
