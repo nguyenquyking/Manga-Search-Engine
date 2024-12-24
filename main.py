@@ -4,6 +4,8 @@ import requests  # Import requests for API calls
 REGISTER_USER_API_URL = "http://127.0.0.1:5000/register-user"
 SET_API_KEY_API_URL = "http://127.0.0.1:5000/set-api-key"
 
+st.set_page_config(page_title="Manga Retrieval", page_icon=":material/edit:")
+
 # Call backend API to register user and store the ID
 if "session_state_id_turn" not in st.session_state:
     try:
@@ -14,8 +16,6 @@ if "session_state_id_turn" not in st.session_state:
             st.error(f"Error registering user: {response.json().get('message')}")
     except requests.exceptions.RequestException as e:
         st.error(f"Error connecting to the server: {e}")
-
-st.set_page_config(page_title="Manga Retrieval", page_icon=":material/edit:")
 
 # Sidebar input for API key
 st.sidebar.title("Gemini API 🔑")
