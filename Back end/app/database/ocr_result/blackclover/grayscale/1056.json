@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            791,
+            193,
+            862,
+            283
+        ],
+        "text": "Sorry, but no can do.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            109,
+            1109,
+            213
+        ],
+        "text": "No matter how far beneath you we are...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

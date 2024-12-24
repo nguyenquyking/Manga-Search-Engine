@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            192,
+            120,
+            436,
+            292
+        ],
+        "text": "...AND THEN I ACTUALLY MET A DEVIL! HOW CRAZY IS THAT, HUH?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            228,
+            842,
+            409,
+            1041
+        ],
+        "text": "I FOUND A GRIMOIRE WITH A FIVE-LEAF CLOVER THE OTHER DAY...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            241,
+            632,
+            323
+        ],
+        "text": "IS THAT \"FIFTH LEAF\" SUPERSTITION TRUE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            395,
+            782,
+            484
+        ],
+        "text": "YOU'RE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            283,
+            833,
+            355
+        ],
+        "text": "...NOT AFRAID OF ME?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            950,
+            135,
+            980,
+            162
+        ],
+        "text": "S",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            961,
+            424,
+            1033,
+            470
+        ],
+        "text": "Tsk tsk tsk!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1128,
+            96,
+            1276,
+            261
+        ],
+        "text": "AND ANYWAY, IF WE'RE TALKING ABOUT BEING LOATHED, I CAN GIVE YOU A RUN FOR YOUR MONEY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            517,
+            1180,
+            636
+        ],
+        "text": "BESIDES, YOU DON'T HAVE MAGIC. YOU'RE ALL FRAIL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            889,
+            1174,
+            1005
+        ],
+        "text": "BWA HA HA! WHO'D BE SCARED OF AN INJURED LITTLE KID?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1377,
+            148,
+            1396,
+            243
+        ],
+        "text": "Zz",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1444,
+            417,
+            1480,
+            452
+        ],
+        "text": "!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

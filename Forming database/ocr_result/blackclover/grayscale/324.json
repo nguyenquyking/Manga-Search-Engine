@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            236,
+            27,
+            377,
+            181
+        ],
+        "text": "I told you to hurry and change out of your pajamas, didn't I?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            201,
+            533,
+            294,
+            683
+        ],
+        "text": "Honestly, Lolopechka, what are you doing?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            169,
+            877,
+            328,
+            937
+        ],
+        "text": "What the heck was that for?! Bwaaaah!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            489,
+            290,
+            556,
+            397
+        ],
+        "text": "There There",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            976,
+            34,
+            1115,
+            177
+        ],
+        "text": "This... is the Princess of the Heart Kingdom?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1083,
+            852,
+            1192,
+            951
+        ],
+        "text": "I'm sorry. I'm sorry.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

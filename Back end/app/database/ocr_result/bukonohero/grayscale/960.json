@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            1033,
+            121,
+            1091,
+            222
+        ],
+        "text": "POWER... SUDDENLY... ALL GONE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            930,
+            341,
+            938,
+            380
+        ],
+        "text": "WOB!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

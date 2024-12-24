@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            217,
+            173,
+            278,
+            299
+        ],
+        "text": "DAMMIT!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            106,
+            961,
+            269
+        ],
+        "text": "YOU AREN'T A BAD GUY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

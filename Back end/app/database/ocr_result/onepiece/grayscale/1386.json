@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            108,
+            469,
+            138,
+            947
+        ],
+        "text": "SHONEN JUMP MANGA",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            218,
+            331,
+            464,
+            1208
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1933,
+            570,
+            2123,
+            876
+        ],
+        "text": "Vol. 97\nMY BIBLE\nSTORY AND ART BY\nEIICHIRO ODA",
+        "panel_id": "1",
+        "type": "caption"
+    }
+]

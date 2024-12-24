@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            35,
+            193,
+            152,
+            285
+        ],
+        "text": "I'VE NEVER HEARD OF SUCH A THING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            37,
+            414,
+            214,
+            698
+        ],
+        "text": "HOWEVER... A DRUG THAT CAN MAKE QUIRKS COMPLETELY UNUSABLE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            31,
+            703,
+            169,
+            878
+        ],
+        "text": "I KNOW ABOUT DRUGS THAT BOOST QUIRKS. THE IDEA WAS ORIGINALLY PLANNED FOR THE SALVATION OF WEAK QUIRKS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            668,
+            629,
+            853
+        ],
+        "text": "MAN...THIS DOESN'T LOOK GOOD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            555,
+            549,
+            632
+        ],
+        "text": "LET'S HAVE THEM EXAMINED AT THE HOSPITAL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            432,
+            562,
+            531
+        ],
+        "text": "I'VE ALSO GOT SOME THINGS I WANT TO LOOK INTO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            566,
+            223,
+            655,
+            436
+        ],
+        "text": "OKAY. FOR STARTERS, LET'S HEAD BACK TO THE OFFICE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            157,
+            705,
+            218
+        ],
+        "text": "YES SIR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            51,
+            1066,
+            201
+        ],
+        "text": "HEY, KIRISHIMA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1229,
+            78,
+            1255,
+            131
+        ],
+        "text": "MM.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

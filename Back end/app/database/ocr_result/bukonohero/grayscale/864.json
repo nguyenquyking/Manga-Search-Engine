@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            67,
+            93,
+            90,
+            731
+        ],
+        "text": "SIX HOURS AFTER THE ATTACK ON TARTARUS",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            192,
+            565,
+            224,
+            668
+        ],
+        "text": "3:06 A.M.",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            406,
+            383,
+            432,
+            525
+        ],
+        "text": "SHIHAN PRISON",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            509,
+            260,
+            589,
+            357
+        ],
+        "text": "Boom...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

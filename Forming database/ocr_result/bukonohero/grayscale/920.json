@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            54,
+            177,
+            127,
+            284
+        ],
+        "text": "THERE WAS NO GUARANTEE HERE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            263,
+            565,
+            336,
+            684
+        ],
+        "text": "\"WHEN I HAVE THE WHOLE FAMILY ON ME...\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            476,
+            124,
+            585,
+            222
+        ],
+        "text": "...BUT I ALSO KINDA FEEL AT PEACE... IT'S WEIRD!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            667,
+            596,
+            751
+        ],
+        "text": "...I FEEL SO SICK THAT I WANT TO VOMIT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            60,
+            825,
+            173
+        ],
+        "text": "...I SPOTTED THAT THING, ALL BURNED AND SQUASHED.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            589,
+            812,
+            702
+        ],
+        "text": "INSIDE YOUR BEATEN-UP, HALF-MELTED SUIT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            77,
+            1049,
+            192
+        ],
+        "text": "...PROVIDING AN ENDLESS SOURCE OF RAGE THAT BURSTS OUT!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            953,
+            566,
+            1045,
+            686
+        ],
+        "text": "IT'S LIKE THERE'S A LUMP OF LEAD DEEP DOWN IN MY HEART...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

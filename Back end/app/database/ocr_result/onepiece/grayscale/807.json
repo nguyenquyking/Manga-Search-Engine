@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            42,
+            664,
+            88,
+            740
+        ],
+        "text": "ONIGA-SHIMA\nENTRANCE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            398,
+            276,
+            483,
+            374
+        ],
+        "text": "Oh, what a shame this is for you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            68,
+            678,
+            228
+        ],
+        "text": "That your potential victory should require the luck of the weather above!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            577,
+            262,
+            597,
+            372
+        ],
+        "text": "...Moonlight Warriors!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            430,
+            451,
+            441,
+            502
+        ],
+        "text": "GRRG",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            514,
+            636,
+            525,
+            673
+        ],
+        "text": "GRR...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            562,
+            670,
+            612,
+            733
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            645,
+            656,
+            703,
+            743
+        ],
+        "text": "Heh heh heh...Perorin!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            162,
+            794,
+            252
+        ],
+        "text": "Urgh...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1040,
+            699,
+            1068,
+            750
+        ],
+        "text": "KSH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

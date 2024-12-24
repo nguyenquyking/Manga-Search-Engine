@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            2,
+            283,
+            204,
+            921
+        ],
+        "text": "BE-BENG\nAFTER 20 YEARS OF\nTREMBLING AT YOUR\nGHOSTS,\nYOU WILL\nFEEL MY\nWRATH!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            644,
+            204,
+            732
+        ],
+        "text": "I WILL\nDEVOUR\nEVERY\nLAST\nONE OF\nYOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            43,
+            934,
+            180,
+            1072
+        ],
+        "text": "I HAVE\nNOTHING TO\nFEAR FROM\nYOU NOW,\nIN YOUR\nWOUNDED\nSTATE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            1166,
+            171,
+            1346
+        ],
+        "text": "SILENCE, FOOL!!\nI'LL BE SURROUNDED BY\nENEMIES ON ALL SIDES IF\nI GO BACK INTO THE\nCASTLE!! BESIDES, I CAN\nSEE KAIDO'S ALREADY\nSOFTENED THEM UP...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            1386,
+            107,
+            1484
+        ],
+        "text": "FLEE FROM\nHERE, MY\nLORD! I WILL\nSTOP THEM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            234,
+            28,
+            281,
+            111
+        ],
+        "text": "BE-BENG",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            329,
+            468,
+            361,
+            708
+        ],
+        "text": "BUWEAAH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            424,
+            1155,
+            512,
+            1282
+        ],
+        "text": "DID I CATCH\nYOU BY\nSURPRISE WITH\nKANJURO?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            1293,
+            507,
+            1404
+        ],
+        "text": "SO TELL\nME, ALL YOU\nKOZUKI\nLEFTOVERS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            1430,
+            495,
+            1506
+        ],
+        "text": "GU HU\nHA HA\nHA HA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            779,
+            1169,
+            863,
+            1320
+        ],
+        "text": "GU HU HU... BUT\nLET US OVERLOOK\nALL THOSE PAST\nTREACHERIES!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            1362,
+            854,
+            1499
+        ],
+        "text": "YOU GOT\nME TOO,\nKYOSHIRO!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

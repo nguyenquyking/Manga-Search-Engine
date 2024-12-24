@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            97,
+            85,
+            168,
+            196
+        ],
+        "text": "...I can't stop any of this.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            101,
+            519,
+            227,
+            645
+        ],
+        "text": "Unless I draw out One For All's full power...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            8,
+            946,
+            206
+        ],
+        "text": "\"Now play nice, you two... You have to cooperate with our successor.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

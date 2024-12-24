@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            162,
+            188,
+            183,
+            327
+        ],
+        "text": "ARGHHHH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            875,
+            279,
+            930,
+            344
+        ],
+        "text": "KILL,\nKILL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1007,
+            75,
+            1067,
+            276
+        ],
+        "text": "HAAATE\nTHEM!!\nKILL\nTHEM\nALL!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            433,
+            890,
+            510
+        ],
+        "text": "ALL\nWILL BE\nWELL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            959,
+            396,
+            1095,
+            514
+        ],
+        "text": "YOUR QUIRK\nFACTORS ARE\nSIMPLY WORN\nAND WEARY\nAFTER THAT\nFRACAS\nWITHIN YOU.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            618,
+            910,
+            707
+        ],
+        "text": "WORRY\nNOT, MY\nOTHER\nSELF.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

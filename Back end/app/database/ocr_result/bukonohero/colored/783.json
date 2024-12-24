@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            54,
+            524,
+            94,
+            819
+        ],
+        "text": "MY HERO",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            161,
+            562,
+            191,
+            755
+        ],
+        "text": "BY KOHEI HORIKOSHI",
+        "panel_id": "1",
+        "type": "author"
+    },
+    {
+        "text_box": [
+            343,
+            202,
+            354,
+            266
+        ],
+        "text": "BLUB",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            546,
+            619,
+            556,
+            687
+        ],
+        "text": "BLUB",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1017,
+            4,
+            1033,
+            259
+        ],
+        "text": "Colorist: HEXAMENDLE",
+        "panel_id": "3",
+        "type": "credit"
+    },
+    {
+        "text_box": [
+            1048,
+            2,
+            1077,
+            298
+        ],
+        "text": "NO. 262 - MIRKO, THE NO. 5 HERO",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1053,
+            497,
+            1074,
+            910
+        ],
+        "text": "Translation: Caleb Cook  Lettering: John Hunt",
+        "panel_id": "3",
+        "type": "credit"
+    },
+    {
+        "text_box": [
+            1137,
+            504,
+            1187,
+            715
+        ],
+        "text": "COMPLETION STATUS\n71%",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1214,
+            791,
+            1254,
+            863
+        ],
+        "text": "BEEP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

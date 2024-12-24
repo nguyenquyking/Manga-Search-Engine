@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            371,
+            9,
+            474,
+            120
+        ],
+        "text": "I stalled your engines... Didn't I...? I'm sorry...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            664,
+            638,
+            733,
+            759
+        ],
+        "text": "...Why are you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            77,
+            982,
+            184
+        ],
+        "text": "...Apologizing?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1137,
+            710,
+            1164,
+            817
+        ],
+        "text": "Why is he... still alive?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

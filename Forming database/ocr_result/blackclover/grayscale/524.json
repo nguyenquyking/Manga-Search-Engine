@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            200,
+            874,
+            348,
+            1028
+        ],
+        "text": "...are ten devils matched to Qliphoth, in separate locations.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            884,
+            128,
+            1009,
+            275
+        ],
+        "text": "The deeper the level, the stronger the devil.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1272,
+            113,
+            1292,
+            184
+        ],
+        "text": "And...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1337,
+            482,
+            1444,
+            624
+        ],
+        "text": "The lower-level devils are even more powerful.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1243,
+            696,
+            1416,
+            786
+        ],
+        "text": "The upper devils are the equals of the Dark Triad.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

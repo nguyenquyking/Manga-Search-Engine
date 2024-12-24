@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            32,
+            196,
+            143,
+            937
+        ],
+        "text": "SHNK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            904,
+            889,
+            908,
+            935
+        ],
+        "text": "SHNK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1144,
+            893,
+            1236,
+            964
+        ],
+        "text": "WIRES FROM THE SKY!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

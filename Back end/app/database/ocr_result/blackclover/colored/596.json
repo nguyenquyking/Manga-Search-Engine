@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            181,
+            105,
+            438,
+            331
+        ],
+        "text": "He blends in with them, and I can't even tell where he is!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            165,
+            916,
+            343,
+            1078
+        ],
+        "text": "The shadows won't disappear until you defeat me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            129,
+            776,
+            389
+        ],
+        "text": "Twitter: @ZenoSora",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            751,
+            1013,
+            774,
+            1273
+        ],
+        "text": "Team: ColorClovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            816,
+            122,
+            976,
+            295
+        ],
+        "text": "I should be able to draw out more power!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            397,
+            1001,
+            666
+        ],
+        "text": "Our connection's stronger than it was before we made our contract.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            701,
+            1226,
+            936
+        ],
+        "text": "Does that mean he's been face-to-face with death that often?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1060,
+            1095,
+            1221,
+            1287
+        ],
+        "text": "So he's got contracts with four devils?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1511,
+            126,
+            1642,
+            284
+        ],
+        "text": "This is the path you chose.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1509,
+            373,
+            1776,
+            616
+        ],
+        "text": "Since the devil isn't your servant, using 100 percent of his power won't be easy for you.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1457,
+            1082,
+            1621,
+            1281
+        ],
+        "text": "You made a contract on equal terms with a devil.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

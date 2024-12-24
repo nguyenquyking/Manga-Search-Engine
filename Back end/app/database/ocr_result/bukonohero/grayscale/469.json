@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            409,
+            633,
+            463,
+            701
+        ],
+        "text": "Whoa! Are you okay?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            12,
+            610,
+            98
+        ],
+        "text": "Won't\nBreak!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            767,
+            197,
+            918,
+            291
+        ],
+        "text": "Some kid my age\ndashed into\ndanger\nto save\na pal!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            976,
+            343,
+            1100,
+            497
+        ],
+        "text": "A while back...\n...This one story\nthrew me for\na loop!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1062,
+            530,
+            1078,
+            632
+        ],
+        "text": "Midoriya!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            26,
+            1098,
+            134
+        ],
+        "text": "That had\nto be you,\nright?!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

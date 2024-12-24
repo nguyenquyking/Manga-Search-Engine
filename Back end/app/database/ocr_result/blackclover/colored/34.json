@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            91,
+            58,
+            202,
+            170
+        ],
+        "text": "WAIT... THIS FEELING... THIS EVIL MANA ISN'T THE MINISTER'S!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            120,
+            195,
+            175,
+            270
+        ],
+        "text": "...!! ...NO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            607,
+            152,
+            698
+        ],
+        "text": "HOW DO YOU DO, MY PRINCE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            846,
+            165,
+            892
+        ],
+        "text": "HO HO HO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            315,
+            479,
+            401
+        ],
+        "text": "MINISTER ...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            50,
+            547,
+            128
+        ],
+        "text": "WHAT ARE YOU ...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            473,
+            759,
+            540,
+            782
+        ],
+        "text": ".....!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            739,
+            59,
+            916,
+            204
+        ],
+        "text": "CALL ME WHAT YOU WISH. IT MATTERS NOT TO ME!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1124,
+            481,
+            1249,
+            591
+        ],
+        "text": "I AM FAITHLESSNESS, OR... DEMISE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1050,
+            610,
+            1177,
+            719
+        ],
+        "text": "I'M SOMETHING LIKE DESPAIR OR HATRED...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1079,
+            788,
+            1159,
+            844
+        ],
+        "text": "WHAT AM I?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            843,
+            799,
+            887
+        ],
+        "text": "...HN",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

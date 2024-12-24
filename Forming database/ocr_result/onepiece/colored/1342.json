@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            70,
+            47,
+            180,
+            185
+        ],
+        "text": "...so instead, their bounties get higher and they get more infamous.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            219,
+            169,
+            331
+        ],
+        "text": "Yes. They're not in it to be heroes...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            370,
+            204,
+            472
+        ],
+        "text": "But now that I think about it, he's been adventuring all over the world!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            528,
+            172,
+            684
+        ],
+        "text": "I never knew I'd have a chance to talk so much about Lucy here at the Reverie.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            40,
+            332,
+            141
+        ],
+        "text": "But I'm sure that won't change who they are!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            418,
+            59,
+            562,
+            172
+        ],
+        "text": "The government declared this the work of the Marines, however.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            420,
+            195,
+            626,
+            369
+        ],
+        "text": "The former Warlord of the Sea, Crocodile, was behind a rebellion in Vivi's homeland. Thanks to Luffy and his crew, the plot was foiled and the kingdom was saved.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            421,
+            396,
+            584,
+            558
+        ],
+        "text": "Vivi, the Princess of the Kingdom of Sand on the Grand Line, once rode on the Straw Hats' ship with them on their adventures.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            464,
+            596,
+            532,
+            696
+        ],
+        "text": "A Kingdom of Alabasta Refresher",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            883,
+            61,
+            950,
+            164
+        ],
+        "text": "Yep! That's right!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            305,
+            958,
+            418
+        ],
+        "text": "They must've gotten it into their heads to save someone",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            445,
+            960,
+            525
+        ],
+        "text": "\"That's Luffy and crew!\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            600,
+            996,
+            703
+        ],
+        "text": "When I read the articles about Dressrosa, I thought...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

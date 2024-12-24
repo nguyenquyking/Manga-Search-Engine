@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            69,
+            65,
+            160,
+            224
+        ],
+        "text": "HAVE MERCY,\nHAVE MERCY! I'LL\nGIVE THE BABOON\nBACK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            263,
+            129,
+            352
+        ],
+        "text": "IT HURTS!\nIT REALLY\nHURTS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            411,
+            115,
+            479
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            86,
+            494,
+            163,
+            585
+        ],
+        "text": "I GOTTA\nRIP THIS\nKID'S CHEEK\nOFF!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            606,
+            170,
+            696
+        ],
+        "text": "I'M TOO\nBUSY TO\nDEAL WITH\nTHAT RIGHT\nNOW!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            46,
+            409,
+            141
+        ],
+        "text": "JUST STOP\nPULLIN' ON\nMEEE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            582,
+            15,
+            690,
+            116
+        ],
+        "text": "THE CLAN\nOF EVIL\nSPIRITS\n!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            491,
+            268,
+            620,
+            393
+        ],
+        "text": "THE KOZUKIS\nARE THE ONES\nWHO TRIED TO\nDESTROY WANO\n20 YEARS\nAGO...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            474,
+            443,
+            560,
+            523
+        ],
+        "text": "DON'T GO\nCHASIN'\nGHOSTS\nNOW.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            568,
+            556,
+            682
+        ],
+        "text": "FROM WHAT\nI HEAR...YOU\nDROPPED THE\nNAME KOZUKI.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            27,
+            879,
+            133
+        ],
+        "text": "HE IS FAR\nBEYOND\nYOUR\nABILITY!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            777,
+            167,
+            886,
+            321
+        ],
+        "text": "HE'S GOT\nA STRAW HAT\nAROUND HIS NECK,\nI EXPECT. DO NOT\nENGAGE HIM!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            768,
+            399,
+            889,
+            530
+        ],
+        "text": "I WARNED YOU\nNOT TO EAT THE\nFISH OUT OF THE\nRIVER. WHY DID\nYOU HAVE TO DO\nTHIS NOW?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            570,
+            850,
+            665
+        ],
+        "text": "AM...AM\nI DYING,\nCAPTAIN?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            10,
+            1054,
+            121
+        ],
+        "text": "I'M ON\nMY WAY\nNOW.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

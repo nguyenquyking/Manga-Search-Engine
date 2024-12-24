@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            88,
+            48,
+            192,
+            136
+        ],
+        "text": "WHO ARE YOU PEOPLE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            242,
+            193,
+            318,
+            297
+        ],
+        "text": "I THINK SOME GRATITUDE IS IN ORDER FIRST.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            349,
+            240,
+            384,
+            297
+        ],
+        "text": "KOO-KAROO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            568,
+            49,
+            676,
+            159
+        ],
+        "text": "BY INTERVENING JUST NOW, WE HAVE SAVED A NUMBER OF NATIONS FROM DISASTER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            708,
+            49,
+            822,
+            148
+        ],
+        "text": "EVEN CHILDREN KNOW NOT TO CROSS THE CELESTIAL DRAGONS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            686,
+            330,
+            750,
+            546
+        ],
+        "text": "CIPHER POL \"AIGIS\" ZERO\nROB LUCCI",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            573,
+            646,
+            656,
+            718
+        ],
+        "text": "CPO!!",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            742,
+            622,
+            766,
+            718
+        ],
+        "text": "STUSSY",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            904,
+            49,
+            1004,
+            118
+        ],
+        "text": "THAT'S RIGHT,\nYOU DUMMIES!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            910,
+            163,
+            993,
+            310
+        ],
+        "text": "ALL OF THESE\nPEOPLE HERE ARE\nTHE KINGS OF THE\nLOWER REALM.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            962,
+            587,
+            1080,
+            728
+        ],
+        "text": "THE CELESTIAL\nDRAGONS ARE\nTHE GODS WHO\nCREATED THIS\nWORLD.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1045,
+            156,
+            1131,
+            326
+        ],
+        "text": "IT IS THE NATURAL\nORDER FOR GODS\nTO HAVE WHATEVER\nTHEY DESIRE.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

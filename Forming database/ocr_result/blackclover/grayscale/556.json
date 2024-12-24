@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            150,
+            392,
+            241,
+            558
+        ],
+        "text": "...THEN USE\nTHE NEXT TWO\nDAYS TO GET\nSTRONGER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1024,
+            140,
+            1153,
+            212
+        ],
+        "text": "WERE\nTHE\nOTHER\nBLACK\nBULLS\nOKAY?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            261,
+            1121,
+            353
+        ],
+        "text": "SO\nIT'S LIKE\nSPATIAL\nMAGIC!\nHANDY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            804,
+            1124,
+            933
+        ],
+        "text": "I'VE BEEN\nWONDERING,\nTHIS\nMAGIC...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1156,
+            455,
+            1224,
+            545
+        ],
+        "text": "IT'S\nSHADOW\nMAGIC.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1336,
+            389,
+            1465,
+            548
+        ],
+        "text": "I, AND\nWHATEVER I'M\nTOUCHING, CAN\nMOVE FROM\nONE SHADOW\nTO ANOTHER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1284,
+            59,
+            1392,
+            131
+        ],
+        "text": "NEVER\nMIND\nTHAT.\nWE'RE\nHERE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

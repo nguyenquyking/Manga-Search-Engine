@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            121,
+            290,
+            208,
+            407
+        ],
+        "text": "HAND OVER\nONE FOR\nALL, IZUKU\nMIDORIYA.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            177,
+            664,
+            243,
+            787
+        ],
+        "text": "...OF\nDEATH.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            513,
+            1334,
+            576,
+            1460
+        ],
+        "text": "...I\nJUST GOTTA\nHAVE IT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            1699,
+            540,
+            1838
+        ],
+        "text": "THE VOICE IN\nMY HEAD IS\nTELLING ME...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1202,
+            1234,
+            1270,
+            1366
+        ],
+        "text": "THAT\nFEAR...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1383,
+            354,
+            1399,
+            431
+        ],
+        "text": "SHWAP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

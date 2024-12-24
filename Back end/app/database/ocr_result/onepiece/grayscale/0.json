@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            251,
+            119,
+            304,
+            217
+        ],
+        "text": "AAAAAA!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            258,
+            460,
+            294,
+            498
+        ],
+        "text": "RAAAAA...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            116,
+            569,
+            197
+        ],
+        "text": "BSHOOO!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            719,
+            87,
+            777,
+            175
+        ],
+        "text": "WELL DONE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            367,
+            974,
+            474
+        ],
+        "text": "YOU FOUGHT HARD TO REACH THIS POINT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            556,
+            907,
+            629
+        ],
+        "text": "FWOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            998,
+            54,
+            1092,
+            169
+        ],
+        "text": "...YOU CANNOT CHANGE THE WORLD!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            370,
+            1083,
+            518
+        ],
+        "text": "BUT...AAAH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

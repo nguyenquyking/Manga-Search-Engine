@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            149,
+            131,
+            373,
+            329
+        ],
+        "text": "WE'LL GO AND\nRESCUE\nYOU!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            155,
+            427,
+            315,
+            660
+        ],
+        "text": "FIND A WAY TO\nSURVIVE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            745,
+            280,
+            917
+        ],
+        "text": "WHO IS\nTHAT?!\nCUT HIM\nIN TWO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            101,
+            997,
+            313,
+            1320
+        ],
+        "text": "THAT'S\nRIGHT, MOMO!!\nFOR SUCH A\nCOWARDLY, DUMB\nLITTLE BRAT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            1029,
+            751,
+            1313
+        ],
+        "text": "...YOU'RE JUST\nA KID WITH A\nTOPKNOT WHO'S\nALL TALK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            148,
+            1185,
+            283
+        ],
+        "text": "Drip\nDrip",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            991,
+            1097,
+            1220,
+            1340
+        ],
+        "text": "CUZ\nWE'RE\nPALS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1557,
+            155,
+            1637,
+            427
+        ],
+        "text": "LET'S GO TO\nONIGASHIMA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1712,
+            109,
+            1836,
+            180
+        ],
+        "text": "YOU\nGOT\nIT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1280,
+            591,
+            1652,
+            728
+        ],
+        "text": "N\nNOD\nNOD\nNOD",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1959,
+            856,
+            2095,
+            1003
+        ],
+        "text": "NNNN\nOOOO",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

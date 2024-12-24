@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            19,
+            304,
+            24,
+            345
+        ],
+        "text": "SHLK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            74,
+            484,
+            179,
+            619
+        ],
+        "text": "I was so sure you'd understand me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            490,
+            725,
+            689
+        ],
+        "text": "After all, you and I... both fell for the game.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

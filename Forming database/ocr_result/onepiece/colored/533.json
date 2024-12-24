@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            51,
+            140,
+            118,
+            162
+        ],
+        "text": "SHUK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            438,
+            466,
+            477,
+            636
+        ],
+        "text": "SHUK\nSHUK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            490,
+            123,
+            514,
+            146
+        ],
+        "text": "SHUK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            774,
+            54,
+            850,
+            142
+        ],
+        "text": "FORGIVE\nME!! I\nKNOW!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            768,
+            184,
+            810,
+            328
+        ],
+        "text": "YIP\nYIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            776,
+            366,
+            841,
+            468
+        ],
+        "text": "DON'T\nRAISE SUCH\nA FUSS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            501,
+            827,
+            700
+        ],
+        "text": "YIIIP\nYIIIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            894,
+            20,
+            937,
+            87
+        ],
+        "text": "YIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1011,
+            11,
+            1048,
+            103
+        ],
+        "text": "GRRRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            914,
+            384,
+            931,
+            437
+        ],
+        "text": "CLANK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1076,
+            381,
+            1119,
+            459
+        ],
+        "text": "FORGIVE\nME.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

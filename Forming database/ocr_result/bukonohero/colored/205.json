@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            62,
+            710,
+            207,
+            863
+        ],
+        "text": "ITEJIRO SPOTTED HIM WITH HIS OWN EYES!\nHE'S HEADED YOUR WAY!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            131,
+            275,
+            201,
+            390
+        ],
+        "text": "WE WON'T MAKE IT IN TIME...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            170,
+            124,
+            264,
+            237
+        ],
+        "text": "...SO GET OUTTA THERE!\nNOW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            344,
+            434,
+            350,
+            507
+        ],
+        "text": "BOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            725,
+            805,
+            728,
+            868
+        ],
+        "text": "BOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1234,
+            752,
+            1283,
+            854
+        ],
+        "text": "HE'S COMING!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1256,
+            497,
+            1265,
+            558
+        ],
+        "text": "BOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1307,
+            22,
+            1348,
+            126
+        ],
+        "text": "JAIL-BREAKER!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

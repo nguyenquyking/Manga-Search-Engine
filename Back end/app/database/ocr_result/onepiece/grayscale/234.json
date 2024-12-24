@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            88,
+            57,
+            96,
+            243
+        ],
+        "text": "GREIISH\nDEVIANTART | GRECIIAGZZ",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            887,
+            730,
+            934,
+            834
+        ],
+        "text": "GYAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            913,
+            616,
+            952,
+            700
+        ],
+        "text": "MAMA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            478,
+            959,
+            568
+        ],
+        "text": "TRAFFY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            104,
+            1076,
+            195
+        ],
+        "text": "WHAT ARE\nYOU DOING?\nKNOCK IT\nOFF!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            955,
+            252,
+            1073,
+            324
+        ],
+        "text": "YOU\nBARELY\nFEEL THE\nPRICK,\nBUT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            367,
+            1059,
+            437
+        ],
+        "text": "PANT...\nPANT...\nLIKE THE\nLAST\nATTACK...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1173,
+            497,
+            1253,
+            594
+        ],
+        "text": "WHAT'S\nWITH THAT\nHUGE\nBLADE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1183,
+            693,
+            1248,
+            813
+        ],
+        "text": "HE KILLED\nBIG MOM?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

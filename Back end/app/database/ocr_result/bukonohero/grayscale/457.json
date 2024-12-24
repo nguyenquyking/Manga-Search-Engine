@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            111,
+            92,
+            196,
+            239
+        ],
+        "text": "SHIGARAKI'LL COME AFTER HIM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            534,
+            215,
+            669
+        ],
+        "text": "DON'T LET THAT KID ENTER U.A.!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            437,
+            55,
+            528,
+            207
+        ],
+        "text": "U.A. GUARANTEED US WE'D BE SAFE HERE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            519,
+            899,
+            573
+        ],
+        "text": "KEEP HIM OUT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            989,
+            54,
+            1041,
+            105
+        ],
+        "text": "GET LOST, KID!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

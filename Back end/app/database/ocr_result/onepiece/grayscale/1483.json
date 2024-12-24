@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            92,
+            123,
+            308,
+            344
+        ],
+        "text": "I served\nat the castle,\nbelieving that\nthe Kozuki\nwould rule\nonce again...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            146,
+            404,
+            226,
+            542
+        ],
+        "text": "Yes!! It is me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            168,
+            1189,
+            326,
+            1370
+        ],
+        "text": "Is that Shinobu\n?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            704,
+            155,
+            861,
+            479
+        ],
+        "text": "I do not blame\nany who would\nlose faith in a\nfool of a lord!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            604,
+            874,
+            815
+        ],
+        "text": "I dreamed\nof one day\nserving you\nas shogun...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            878,
+            885,
+            1075
+        ],
+        "text": "...chose\nto switch\nallegiance\nto Orochi in\nthe end!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            1139,
+            857,
+            1376
+        ],
+        "text": "...but\nFukurokuju\nand the Kozuki\nninja legion...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            591,
+            1170,
+            766
+        ],
+        "text": "...so I can\nno longer\nstay in the\npalace!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1354,
+            151,
+            1546,
+            345
+        ],
+        "text": "I will\njoin\nyou!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1470,
+            404,
+            1559,
+            799
+        ],
+        "text": "RAAAAAAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1334,
+            1124,
+            1509,
+            1304
+        ],
+        "text": "We walk\na path of\nthorns,\nShinobu!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1879,
+            120,
+            2039,
+            352
+        ],
+        "text": "On one side,\n11 samurai\nventured\ninto battle...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

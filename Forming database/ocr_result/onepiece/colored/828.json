@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            91,
+            26,
+            201,
+            168
+        ],
+        "text": "Trust me,\nit'll take\ntoo long to\nexplain!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            584,
+            190,
+            703
+        ],
+        "text": "Let's just\nget out of\nhere for\nnow!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            34,
+            445,
+            106
+        ],
+        "text": "Did you\nlose too\nmuch\nblood?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            493,
+            17,
+            566,
+            143
+        ],
+        "text": "I could die\nhappy right\nnow!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            558,
+            543,
+            704
+        ],
+        "text": "After them!!\nThey\nescaped\nthrough\nthe air!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            716,
+            24,
+            762,
+            77
+        ],
+        "text": "What\n?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            666,
+            230,
+            745,
+            326
+        ],
+        "text": "Bepo and\nhis friends\nhave been\ncaptured!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            646,
+            359,
+            721,
+            457
+        ],
+        "text": "And there's\none other\nbad piece of\ninformation...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            597,
+            753,
+            705
+        ],
+        "text": "It's no good that\nthey learned\nabout the\nankle\ntattoos!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            39,
+            987,
+            187
+        ],
+        "text": "...or\nthe entire\ncity will\nplunge into\nchaos!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1039,
+            63,
+            1126,
+            184
+        ],
+        "text": "And you\nwere doing\nwhat during\nall of this?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            568,
+            970,
+            696
+        ],
+        "text": "They want\nto use them\nto lure out\nTraffy!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            598,
+            1122,
+            691
+        ],
+        "text": "We need\nto get him\nunder\ncontrol...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

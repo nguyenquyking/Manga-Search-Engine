@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            58,
+            147,
+            115,
+            251
+        ],
+        "text": "GYAAAA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            44,
+            178,
+            132
+        ],
+        "text": "MASTER DAIFUGO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            596,
+            148,
+            730
+        ],
+        "text": "SCORPION DEATH NEEDLE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            210,
+            44,
+            227,
+            75
+        ],
+        "text": "?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            36,
+            486,
+            124
+        ],
+        "text": "HORSE-LINA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            299,
+            490,
+            351
+        ],
+        "text": "HEY, HOP ON!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            603,
+            460,
+            713
+        ],
+        "text": "OH! HI, DAIFUGO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            62,
+            772,
+            232
+        ],
+        "text": "KOMACHIYO WAS KNOCKED OUT BACK THERE!! YOU MUST BE WORRIED, RIGHT?! LET US TAKE CARE OF IT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            323,
+            669,
+            405
+        ],
+        "text": "DUN DUN DUN!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            682,
+            458,
+            745,
+            571
+        ],
+        "text": "OH! MASTER!! I NOTICED SOMETHING...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            685,
+            607,
+            768,
+            729
+        ],
+        "text": "IT WAS A SUCCESS! YOU DID GREAT, MASTER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            617,
+            879,
+            728
+        ],
+        "text": "HEY, ANY EXTRA ROOM FOR ME?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1090,
+            79,
+            1112,
+            230
+        ],
+        "text": "YOU WILL?!\nGEE, THANKS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

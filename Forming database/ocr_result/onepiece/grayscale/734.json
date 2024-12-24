@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            59,
+            603,
+            90,
+            691
+        ],
+        "text": "MOVE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            434,
+            179,
+            540
+        ],
+        "text": "STRAW SWORD!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            275,
+            128,
+            266,
+            181
+        ],
+        "text": "ZOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            374,
+            263,
+            437,
+            386
+        ],
+        "text": "HAWKINS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            275,
+            128,
+            266,
+            181
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            845,
+            51,
+            954,
+            176
+        ],
+        "text": "ALL I DID WAS AVOID A FIGHT I WAS CERTAIN I WOULD LOSE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            390,
+            942,
+            509
+        ],
+        "text": "DON'T FORGET, I WAS BETRAYED BY APOO, JUST LIKE YOU...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            547,
+            945,
+            723
+        ],
+        "text": "SO YOU'VE COME SLITHERING OUT TO FINISH US OFF, HUH?! JUST LIKE A TRAITOR WOULD DO!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            58,
+            1085,
+            183
+        ],
+        "text": "YOU DID WELL TO SURVIVE AFTER THAT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            83,
+            1611,
+            127,
+            1701
+        ],
+        "text": "BASEMENT ARMORY",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            101,
+            972,
+            158,
+            1106
+        ],
+        "text": "HEY!!\nSTOP THAT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            331,
+            1634,
+            429,
+            1717
+        ],
+        "text": "I'VE\nGOT TO\nMAKE\nIT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            1307,
+            462,
+            1364
+        ],
+        "text": "I'VE\nGOT\nTO!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            82,
+            380,
+            204
+        ],
+        "text": "PLEASE,\nHANG ON!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            819,
+            40,
+            908,
+            146
+        ],
+        "text": "IF THAT\nGUNPOW-\nDER GOES\nOFF...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            991,
+            44,
+            1058,
+            148
+        ],
+        "text": "WE'LL\nALL BE\nHISTORY!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            793,
+            287,
+            839,
+            344
+        ],
+        "text": "HUFF...\nHUFF...",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            780,
+            1004,
+            890,
+            1140
+        ],
+        "text": "NAMUJI\nHYOGA!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            1307,
+            676,
+            1392
+        ],
+        "text": "HUFF\nHUFF",
+        "panel_id": "8",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1196,
+            1452,
+            1249,
+            1537
+        ],
+        "text": "THERE\nIT IS!!",
+        "panel_id": "9",
+        "type": "dialogue"
+    }
+]

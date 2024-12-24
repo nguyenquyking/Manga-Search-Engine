@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            1191,
+            168,
+            1529,
+            500
+        ],
+        "text": "...Finral really did do his best to stop you back then, Langris...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2372,
+            2105,
+            2416,
+            2227
+        ],
+        "text": "Tch...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2525,
+            937,
+            2692,
+            1133
+        ],
+        "text": "That stupid brother of mine...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            3228,
+            327,
+            3368,
+            810
+        ],
+        "text": "colorclover team\n@uchihafamille",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

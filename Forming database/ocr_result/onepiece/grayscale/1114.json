@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            1017,
+            86,
+            1083,
+            183
+        ],
+        "text": "Come on, eat it already!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            209,
+            1054,
+            286
+        ],
+        "text": "What luck!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            496,
+            1080,
+            597
+        ],
+        "text": "Although it's not much, it should help.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            637,
+            1073,
+            731
+        ],
+        "text": "Just in the nick of time!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            948,
+            1070,
+            1057
+        ],
+        "text": "In that treasure chest... There's a fruit?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1230,
+            67,
+            1310,
+            177
+        ],
+        "text": "Also, I can do whatever I want!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1212,
+            209,
+            1289,
+            346
+        ],
+        "text": "Don't be sympathetic towards pirates!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1228,
+            435,
+            1308,
+            555
+        ],
+        "text": "I've done far less work than you have!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1222,
+            589,
+            1321,
+            690
+        ],
+        "text": "You're the one who's dying, bastard!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1225,
+            718,
+            1324,
+            803
+        ],
+        "text": "You're the one that found it!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1208,
+            961,
+            1280,
+            1033
+        ],
+        "text": "Wha-aat!!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1340,
+            953,
+            1456,
+            1049
+        ],
+        "text": "Aren't you the one that's going to eat it?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1380,
+            712,
+            1492,
+            817
+        ],
+        "text": "Don't worry about me, you look like you're about to pass out!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1432,
+            69,
+            1483,
+            161
+        ],
+        "text": "You ea...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1428,
+            602,
+            1505,
+            681
+        ],
+        "text": "Just eat it",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

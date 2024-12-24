@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            92,
+            68,
+            225,
+            210
+        ],
+        "text": "...Kaido, King of the Beasts!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            581,
+            223,
+            730
+        ],
+        "text": "Supreme Commander of the Beasts Pirates...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            546,
+            57,
+            609,
+            252
+        ],
+        "text": "4,611,100,000 Belly!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            745,
+            53,
+            892,
+            161
+        ],
+        "text": "That will depend on the Marines' Special Science Group, the SSG.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            753,
+            185,
+            879,
+            307
+        ],
+        "text": "Time will tell if cleansing our own ranks was the right decision.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            764,
+            336,
+            822,
+            434
+        ],
+        "text": "...Against these Emperors!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            747,
+            448,
+            856,
+            598
+        ],
+        "text": "From now on, we will no longer have the option of sending the power of the Seven Warlords...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            750,
+            637,
+            807,
+            749
+        ],
+        "text": "This is all rather overwhelming...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            981,
+            60,
+            1105,
+            199
+        ],
+        "text": "Anyway, since you're here, I might as well reveal the bounties of some legends!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

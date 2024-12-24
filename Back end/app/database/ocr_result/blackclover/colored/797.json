@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            108,
+            1077,
+            172,
+            1048
+        ],
+        "text": "WHIRRROOO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1111,
+            6,
+            1141,
+            446
+        ],
+        "text": "@UIIZZU @COLORCLOVERS",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

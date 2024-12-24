@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            65,
+            481,
+            122,
+            550
+        ],
+        "text": "Peros! Pero?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            735,
+            141,
+            841
+        ],
+        "text": "Skull Dome\n- Front Entrance",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            226,
+            650,
+            336,
+            799
+        ],
+        "text": "Without Pedro, Luffy and the others would never have made it here!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            260,
+            71,
+            341,
+            230
+        ],
+        "text": "The raid would've failed for sure!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            448,
+            65,
+            503,
+            211
+        ],
+        "text": "Your Sulong Form!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            466,
+            250,
+            518,
+            446
+        ],
+        "text": "...A drink and watch!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            361,
+            491,
+            449
+        ],
+        "text": "Pedro, just pour",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            443,
+            487,
+            521,
+            559
+        ],
+        "text": "The full moon is beautiful tonight.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            454,
+            619,
+            488,
+            841
+        ],
+        "text": "Master Nekomamushi!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            675,
+            930,
+            873
+        ],
+        "text": "This is the last moon you-gara will ever see,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1115,
+            79,
+            1218,
+            247
+        ],
+        "text": "Big Tongue!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1272,
+            849,
+            1281,
+            889
+        ],
+        "text": "CREAM",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

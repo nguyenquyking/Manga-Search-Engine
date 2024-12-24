@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            67,
+            546,
+            136,
+            626
+        ],
+        "text": "KOFF!!\nGU HU...!!\nDAMMIT",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            106,
+            47,
+            162,
+            158
+        ],
+        "text": "KOMURA-SAKIIII!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            190,
+            558,
+            208,
+            614
+        ],
+        "text": "BENG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            346,
+            44,
+            436,
+            174
+        ],
+        "text": "NEVER\nCOUNT OUT\nTHE WRATH OF\nKUROZUMI!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            348,
+            591,
+            444,
+            724
+        ],
+        "text": "GU HU HA HA!!\nI'LL DRAG\nYOU DOWN\nWITH ME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            56,
+            737,
+            102
+        ],
+        "text": "AH!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            194,
+            942,
+            294
+        ],
+        "text": "BEDLAM\nHAS\nARRIVED...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            861,
+            376,
+            926,
+            530
+        ],
+        "text": "...WHEN WE\nMEET IN THE\nAFTERLIFE!! BWA",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            614,
+            949,
+            698
+        ],
+        "text": "WE CAN\nSHARE A\nDRINK\nAGAIN...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

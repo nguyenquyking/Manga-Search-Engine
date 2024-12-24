@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            42,
+            334,
+            141,
+            381
+        ],
+        "text": "NO,\nI'LL\nDO\nIT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            283,
+            91,
+            361,
+            160
+        ],
+        "text": "NOPE,\nIT'S\nGONNA\nBE ME!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            156,
+            630,
+            332,
+            754
+        ],
+        "text": "AWRIGHT!!\nI'M GONNA\nKEEP RIGHT\nON GOING\nAND\nRESCUE\nMISTER\nYAMI!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            465,
+            567,
+            517
+        ],
+        "text": "LET'S\nHURRY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            660,
+            602,
+            769
+        ],
+        "text": "THE\nMAGICAL\nINFLUENCE\nAROUND THE\nOTHER DARK\nTRIAD MEMBERS\nIS TOO STRONG.\nI CAN'T TAKE US\nTHERE THROUGH\nSHADOWS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            609,
+            591,
+            622,
+            651
+        ],
+        "text": "Raaaaah!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1028,
+            647,
+            1088,
+            645
+        ],
+        "text": "BADMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

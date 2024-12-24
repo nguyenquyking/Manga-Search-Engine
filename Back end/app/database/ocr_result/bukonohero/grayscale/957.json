@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            95,
+            553,
+            170,
+            722
+        ],
+        "text": "FROPPY STYLE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            441,
+            652,
+            456,
+            688
+        ],
+        "text": "GAH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            491,
+            28,
+            579,
+            155
+        ],
+        "text": "THIS IS A FAMILY AFFAIR! NONE OF YOUR BUSINESS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            217,
+            800,
+            305
+        ],
+        "text": "SURE,\nTHE PAST\nNEVER\nDIES!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            378,
+            1021,
+            501
+        ],
+        "text": "AND\nENDEAVOR'S\nMY MENTOR\nWHO'S MADE\nME STRONGER!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            41,
+            1095,
+            172
+        ],
+        "text": "AND THAT'S\nWHY I'M\nWATCHING\nENDEAVOR\nREAL HARD AS\nHE TRIES TO\nBE BETTER!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            581,
+            1017,
+            695
+        ],
+        "text": "IT IS MY\nBUSINESS!\nCUZ\nTODOROKI'S\nMY FRIEND!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

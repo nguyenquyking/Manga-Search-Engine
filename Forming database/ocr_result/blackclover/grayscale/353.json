@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            72,
+            192,
+            105,
+            291
+        ],
+        "text": "Zenon",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            852,
+            938,
+            881,
+            1009
+        ],
+        "text": "Asta",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1244,
+            43,
+            1424,
+            986
+        ],
+        "text": "Black Clover",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1449,
+            98,
+            1552,
+            956
+        ],
+        "text": "24\nYUKI TABATA\nTHE BEGINNING OF\nHOPE AND DESPAIR",
+        "panel_id": "1",
+        "type": "caption"
+    }
+]

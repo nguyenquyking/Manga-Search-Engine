@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            137,
+            341,
+            161,
+            428
+        ],
+        "text": "MMPH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            152,
+            446,
+            249,
+            556
+        ],
+        "text": "NO!! THE ONE IN MY GRIMOIRE IS A DIFFERENT-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            128,
+            895,
+            352,
+            1031
+        ],
+        "text": "EVERYONE HERE SUSPECTS THAT YOU ARE THE ONES WHO ARE TRULY IN COMMUNICATION WITH THE DEVIL.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            489,
+            364,
+            720,
+            497
+        ],
+        "text": "...THEN WE'LL SIMPLY HAVE TO PASS JUDGMENT ON EVERYONE, IN ORDER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            930,
+            632,
+            1024
+        ],
+        "text": "IF THERE IS NO DEVIL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1140,
+            811,
+            1204,
+            878
+        ],
+        "text": "BRING HER IN.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

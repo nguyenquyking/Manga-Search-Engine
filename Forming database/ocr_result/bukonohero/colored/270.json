@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            327,
+            452,
+            366,
+            606
+        ],
+        "text": "HUFF\nHUFF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            745,
+            102,
+            855,
+            231
+        ],
+        "text": "SEE...?\nLOOK HOW\nSTRONG MY\nFLAMES ARE\nALREADY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            299,
+            829,
+            420
+        ],
+        "text": "I CAN DO IT\nTOO. I CAN\nSURPASS\nHIM.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            798,
+            778,
+            858
+        ],
+        "text": "NO,\nDAD...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1189,
+            164,
+            1256,
+            284
+        ],
+        "text": "LOOK\nAT ME.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

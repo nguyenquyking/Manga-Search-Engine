@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            69,
+            20,
+            167,
+            149
+        ],
+        "text": "...while the dark truth gnaws away at someone else.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            343,
+            174,
+            480
+        ],
+        "text": "The public gets to stargaze at the bright and shiny side...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            365,
+            256,
+            441,
+            387
+        ],
+        "text": "At least a future ruled over by all for one...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            960,
+            114,
+            1045,
+            254
+        ],
+        "text": "...will be a helluva lot more transparent.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

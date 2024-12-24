@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            118,
+            896,
+            217,
+            1031
+        ],
+        "text": "RIGHT.\nTHOUGHT SO.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            285,
+            402,
+            301,
+            478
+        ],
+        "text": "FROPPY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            74,
+            384,
+            116
+        ],
+        "text": "Why's Himiko Toga here?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            630,
+            554,
+            687
+        ],
+        "text": "Thanks for that.\nBuh-bye.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            593,
+            421,
+            618,
+            467
+        ],
+        "text": "Hi,\nTsuyu...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            686,
+            330,
+            745,
+            395
+        ],
+        "text": "Didn't I tell you not to call me that?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            608,
+            97,
+            612,
+            131
+        ],
+        "text": "DOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            744,
+            57,
+            804,
+            252
+        ],
+        "text": "...ASTA.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            557,
+            179,
+            747
+        ],
+        "text": "LOVE",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            60,
+            942,
+            163
+        ],
+        "text": "FOR NOW...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            993,
+            194,
+            1064,
+            337
+        ],
+        "text": "LINDINE!!\nLET'S GO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            609,
+            993,
+            741
+        ],
+        "text": "BUT THIS IS A\nBATTLEFIELD.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

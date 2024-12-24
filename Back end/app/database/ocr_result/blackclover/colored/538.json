@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            168,
+            68,
+            272,
+            142
+        ],
+        "text": "So, what do I do?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            176,
+            126,
+            257
+        ],
+        "text": "Okay!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            243,
+            501,
+            425,
+            650
+        ],
+        "text": "You yourself have a deep connection to the devil.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            144,
+            1028,
+            247,
+            1158
+        ],
+        "text": "However, you're a different story.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            562,
+            807,
+            637,
+            941
+        ],
+        "text": "That arm. That grimoire.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            60,
+            1005,
+            126
+        ],
+        "text": "Ghk...!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1115,
+            17,
+            1273,
+            166
+        ],
+        "text": "What... is this?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1119,
+            996,
+            1139,
+            1124
+        ],
+        "text": "Summon.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1555,
+            42,
+            1593,
+            114
+        ],
+        "text": "...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

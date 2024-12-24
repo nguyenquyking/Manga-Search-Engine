@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            81,
+            867,
+            110,
+            934
+        ],
+        "text": "Wha?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1062,
+            1141,
+            1131,
+            1203
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            659,
+            382,
+            723
+        ],
+        "text": "AAAH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            826,
+            576,
+            875
+        ],
+        "text": "It's HIM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            680,
+            807,
+            735,
+            877
+        ],
+        "text": "A PTERANODON!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            842,
+            814,
+            885,
+            858
+        ],
+        "text": "Is it...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            564,
+            532,
+            674,
+            655
+        ],
+        "text": "HMPH!! So much fuss over one measly ship!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            597,
+            867,
+            718
+        ],
+        "text": "King kicked them outta the air!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1030,
+            811,
+            1105,
+            896
+        ],
+        "text": "KING?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            6,
+            706,
+            249
+        ],
+        "text": "KING\nDRAGON-DRAGON FRUIT,\nANCIENT TYPE, PTERANODON MODEL",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

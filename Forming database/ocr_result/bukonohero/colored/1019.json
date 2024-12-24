@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            65,
+            25,
+            178,
+            157
+        ],
+        "text": "\"You've had the tracks and everything laid out for you, so don't go losing!\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            373,
+            126,
+            451
+        ],
+        "text": "Kacchan told me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            28,
+            529,
+            87,
+            574
+        ],
+        "text": "Mic, stop that.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            26,
+            667,
+            73,
+            787
+        ],
+        "text": "Per-so-nal! Per-so-nal!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            18,
+            505,
+            203
+        ],
+        "text": "If I work under Night Eye, I think I'll be compared to you.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            365,
+            628,
+            473,
+            783
+        ],
+        "text": "My Quirk is very similar to All Might's.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            2,
+            841,
+            171
+        ],
+        "text": "I have to become several times stronger than everyone else!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            403,
+            810,
+            529
+        ],
+        "text": "Become stronger!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            688,
+            705,
+            727,
+            787
+        ],
+        "text": "I've got to...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1012,
+            307,
+            1142,
+            463
+        ],
+        "text": "I don't dislike that attitude... But I really can't give you that introduction...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            617,
+            1052,
+            798
+        ],
+        "text": "This impatience...is because he's my successor...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1168,
+            680,
+            1192,
+            796
+        ],
+        "text": "However...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            908,
+            6,
+            925,
+            113
+        ],
+        "text": "Hexamendle",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

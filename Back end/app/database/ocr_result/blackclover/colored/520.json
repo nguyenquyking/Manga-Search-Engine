@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            94,
+            54,
+            240,
+            151
+        ],
+        "text": "Since all three of them were absent, I was able to act rather dramatically in the Spade Kingdom, but...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            262,
+            148,
+            345
+        ],
+        "text": "Yesterday, the entire Dark Triad left the castle.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            618,
+            158,
+            703
+        ],
+        "text": "Yes, only... We haven't been able to contact them since yesterday.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            517,
+            183,
+            591
+        ],
+        "text": "Don't tell me... Something happened.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            90,
+            565,
+            198
+        ],
+        "text": "What did you say?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            565,
+            540,
+            669
+        ],
+        "text": "...Vanica may have attacked the Heart Kingdom.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            96,
+            1011,
+            159
+        ],
+        "text": "Uhh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

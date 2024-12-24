@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            112,
+            177,
+            311,
+            353
+        ],
+        "text": "They're both on death's door!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            914,
+            117,
+            1038
+        ],
+        "text": "RAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            98,
+            1098,
+            270,
+            1367
+        ],
+        "text": "Take down Kid and Law!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            106,
+            1526,
+            295,
+            1747
+        ],
+        "text": "Heh heh heh!! Hey, now's our chance!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            174,
+            1158,
+            422
+        ],
+        "text": "...But Kaido was always the ultimate adversary!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            991,
+            508,
+            1144,
+            952
+        ],
+        "text": "RAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1043,
+            722,
+            1131,
+            978
+        ],
+        "text": "You might have beaten Big Mom...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            1053,
+            1177,
+            1277
+        ],
+        "text": "!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1554,
+            1042,
+            1587,
+            1227
+        ],
+        "text": "KACHING!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1658,
+            654,
+            1819,
+            963
+        ],
+        "text": "Protect the Captains!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1685,
+            1455,
+            1846,
+            1764
+        ],
+        "text": "You guys never stood a chance!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

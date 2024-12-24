@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            355,
+            249,
+            481,
+            404
+        ],
+        "text": "...Asta will die.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1092,
+            28,
+            1198,
+            107
+        ],
+        "text": "Or possibly both.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1083,
+            747,
+            1272,
+            929
+        ],
+        "text": "Say what?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

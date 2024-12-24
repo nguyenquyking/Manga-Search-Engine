@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            55,
+            249,
+            168,
+            376
+        ],
+        "text": "We're burnin' daylight just getting to the real issue of what they're plotting.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            63,
+            667,
+            161,
+            799
+        ],
+        "text": "Hey, even if they're U.A. students, what's with the brats? Can't talk with them around.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            581,
+            728,
+            764
+        ],
+        "text": "Enough outta you\u2014these two are super important witnesses!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            1,
+            992,
+            83
+        ],
+        "text": "Oh! Here's some candy!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            114,
+            1005,
+            160
+        ],
+        "text": "So round and cute!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            892,
+            207,
+            1032,
+            337
+        ],
+        "text": "Besides, I think there's a ton of people who're meeting for the first time, so better get to it! The name's Fat Gum, pleasure to meet y'all!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1101,
+            702,
+            1181,
+            793
+        ],
+        "text": "The two...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1146,
+            451,
+            1181,
+            553
+        ],
+        "text": "Enthusiasm... smothering...",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            138,
+            56,
+            216,
+            220
+        ],
+        "text": "...Flame-Rend!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            89,
+            634,
+            180,
+            731
+        ],
+        "text": "...Fire!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            666,
+            238,
+            722,
+            303
+        ],
+        "text": "Whoa!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            330,
+            751,
+            438
+        ],
+        "text": "Aaaagh!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            49,
+            831,
+            149
+        ],
+        "text": "That's Kin'emon's Technique!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            910,
+            249,
+            966,
+            319
+        ],
+        "text": "Yeoow!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            337,
+            989,
+            435
+        ],
+        "text": "Pro-metheus!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            627,
+            1123,
+            730
+        ],
+        "text": "Heh heh...\nI stole it.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

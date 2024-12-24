@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            67,
+            41,
+            226,
+            212
+        ],
+        "text": "They were particularly cautious of being followed, and I was unable to continue tracking them, but here I was able to cooperate with the police.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            656,
+            180,
+            800
+        ],
+        "text": "He made contact with one Bubaiagara Jin.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            310,
+            14,
+            415,
+            178
+        ],
+        "text": "They were able to confirm that during this meeting, some kind of skirmish had occurred.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            300,
+            652,
+            385,
+            761
+        ],
+        "text": "Villain Name,\n\"Twice.\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            567,
+            25,
+            627,
+            168
+        ],
+        "text": "There was other information from witnesses, so he's checking on that.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            560,
+            200,
+            612,
+            297
+        ],
+        "text": "And where is Tsukauchi?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            615,
+            637,
+            685,
+            800
+        ],
+        "text": "So it's related to the Villain Alliance... That's why you called me and Tsukauchi.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            387,
+            1075,
+            516
+        ],
+        "text": "I never thought it would come to this... You've been dragged into quite an annoying situation...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            559,
+            975,
+            635
+        ],
+        "text": "Listen, boy...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            158,
+            30,
+            220,
+            125
+        ],
+        "text": "...who's going to die.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            154,
+            625,
+            220,
+            701
+        ],
+        "text": "You're the one...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            581,
+            910,
+            695
+        ],
+        "text": "Die regretting that you ever meddled with...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            940,
+            448,
+            1013,
+            550
+        ],
+        "text": "...the Golden Dawn!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

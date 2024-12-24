@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            692,
+            152,
+            752,
+            301
+        ],
+        "text": "...or somebody can help you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            734,
+            767,
+            886
+        ],
+        "text": "I'm sure the police or a hero...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            278,
+            1047,
+            347
+        ],
+        "text": "It all builds up...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1184,
+            106,
+            1250,
+            239
+        ],
+        "text": "...little by little, over time.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1038,
+            499,
+            1355,
+            593
+        ],
+        "text": "Hff...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1349,
+            529,
+            1378,
+            589
+        ],
+        "text": "Hff...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            912,
+            733,
+            1091,
+            886
+        ],
+        "text": "That means... Your system's all rotten from the inside...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1260,
+            654,
+            1348,
+            755
+        ],
+        "text": "...with maggots crawling out.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

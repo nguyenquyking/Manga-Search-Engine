@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            92,
+            360,
+            177,
+            432
+        ],
+        "text": "The fault can't lie with my tools.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            85,
+            627,
+            155,
+            712
+        ],
+        "text": "All of my knives are in top condition.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            247,
+            241,
+            334
+        ],
+        "text": "What the heck do I have to do to fillet this thing?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            149,
+            84,
+            222,
+            219
+        ],
+        "text": "There has to be a way. Think.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            348,
+            306,
+            486,
+            450
+        ],
+        "text": "It's not designed to cut through the tough skin and tendons needed during the filleting stage.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            364,
+            78,
+            451,
+            192
+        ],
+        "text": "My deba knife is...but its blade is much too short.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            369,
+            522,
+            435,
+            613
+        ],
+        "text": "The yanagiba knife is probably too thin.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            585,
+            252,
+            643,
+            322
+        ],
+        "text": "What, still haven't",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            957,
+            77,
+            1062,
+            232
+        ],
+        "text": "Lame. And after all that bragging you did too.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            400,
+            1030,
+            541
+        ],
+        "text": "I need a blade with all three qualities for this to work!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            577,
+            956,
+            722
+        ],
+        "text": "Length, sharpness, sturdiness.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

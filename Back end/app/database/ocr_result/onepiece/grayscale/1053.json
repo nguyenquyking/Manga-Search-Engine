@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            81,
+            395,
+            209,
+            656
+        ],
+        "text": "You gotta give 'em a fighting chance, or it ain't no game!! Killing, betrayal, no rules whatsoever!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            773,
+            224,
+            988
+        ],
+        "text": "Okay, I think we're ready to start! Queen presents: Game Night!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            113,
+            141,
+            214,
+            301
+        ],
+        "text": "Let's play some Freeze Tag!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            264,
+            527,
+            310,
+            587
+        ],
+        "text": "Anti-dote?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            214,
+            436,
+            291
+        ],
+        "text": "Anti-dote?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            749,
+            440,
+            803
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            260,
+            628,
+            365
+        ],
+        "text": "Don't let the samurai recover!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            425,
+            625,
+            644
+        ],
+        "text": "Don't let the enemy have it, or our guys will die!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            536,
+            706,
+            593,
+            802
+        ],
+        "text": "You got it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            867,
+            624,
+            997
+        ],
+        "text": "Zoro!! Grab that from him!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            820,
+            1104,
+            980
+        ],
+        "text": "What are you thinking, Queen?! This is insane!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1268,
+            801,
+            1484,
+            1004
+        ],
+        "text": "If you can play keep-away for an hour, you win, Apoo!! They'll all be dead!! Mwa ha ha ha!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1350,
+            118,
+            1502,
+            291
+        ],
+        "text": "Steal and kill!! Do whatever it takes!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

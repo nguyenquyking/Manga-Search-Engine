@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            133,
+            46,
+            229,
+            157
+        ],
+        "text": "I WILL NEVER FORGET THIS FOOD...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            291,
+            42,
+            364,
+            138
+        ],
+        "text": "...FOR AS LONG AS I LIVE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            216,
+            615,
+            349,
+            721
+        ],
+        "text": "THANK YOU, SABURAI!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            401,
+            556,
+            484
+        ],
+        "text": "...I COULD BE A SAMURAI TOO...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            509,
+            540,
+            576
+        ],
+        "text": "DO YOU THINK...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            605,
+            519,
+            677
+        ],
+        "text": "SAY...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            551,
+            68,
+            591,
+            124
+        ],
+        "text": "KCHING!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            634,
+            396,
+            701,
+            457
+        ],
+        "text": "EVEN THOUGH I GET HUNGRY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            74,
+            879,
+            209
+        ],
+        "text": "WHAT NAME DOES A FALLEN SAMURAI NEED...? JUST CALL ME SO-AND-SO.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            248,
+            867,
+            332
+        ],
+        "text": "WHAT IS YOUR NAME, SIR SAMURAI?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            779,
+            375,
+            864,
+            477
+        ],
+        "text": "THAT MAN WAS BELOVED TO ALL OF US.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            794,
+            504,
+            859,
+            576
+        ],
+        "text": "I HEARD YOU SAY IT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            622,
+            859,
+            711
+        ],
+        "text": "YOU ARE KOZUKI ODEN, ARE YOU NOT?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            398,
+            967,
+            474
+        ],
+        "text": "HUH... YOU WERE FRIENDS?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1075,
+            57,
+            1101,
+            126
+        ],
+        "text": "HEH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

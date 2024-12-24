@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            74,
+            89,
+            160,
+            184
+        ],
+        "text": "Is it really you?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            511,
+            138,
+            608
+        ],
+        "text": "Kawa-Matsu!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            649,
+            147,
+            729
+        ],
+        "text": "Udon, Wano",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            478,
+            55,
+            559,
+            150
+        ],
+        "text": "I can't get any closer. I'm chained up!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            179,
+            550,
+            287
+        ],
+        "text": "Show me your face, Kawamatsu!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            333,
+            558,
+            476
+        ],
+        "text": "Yes. Thirteen years of eating rotten fish has finally paid off.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            616,
+            577,
+            722
+        ],
+        "text": "So you are alive after all!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            61,
+            974,
+            202
+        ],
+        "text": "That is ideal! I am prepared to fight whenever I'm needed!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            73,
+            1134,
+            215
+        ],
+        "text": "But first you must break me out of here, Raizo.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            617,
+            942,
+            719
+        ],
+        "text": "When is the day of the battle?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            612,
+            1086,
+            735
+        ],
+        "text": "Nine days from now, the night of the Fire Festival!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

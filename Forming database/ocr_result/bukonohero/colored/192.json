@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            70,
+            184,
+            158,
+            293
+        ],
+        "text": "...to unleash his full power...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            412,
+            164,
+            494
+        ],
+        "text": "He needs your help...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            35,
+            762,
+            101,
+            979
+        ],
+        "text": "Inside the One For All realm before Midoriya woke up.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            691,
+            451,
+            769,
+            615
+        ],
+        "text": "I implore you... My heroes...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

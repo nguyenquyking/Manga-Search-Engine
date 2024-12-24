@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            124,
+            427,
+            213,
+            487
+        ],
+        "text": "GEH\nGEH\nGEH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1181,
+            62,
+            1220,
+            129
+        ],
+        "text": "You...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            307,
+            1037,
+            404
+        ],
+        "text": "My Senior...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1015,
+            796,
+            1145,
+            872
+        ],
+        "text": "Nice to meet you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

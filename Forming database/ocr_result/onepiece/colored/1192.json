@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            48,
+            125,
+            108,
+            214
+        ],
+        "text": "How long you gonna sit there just holding it?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            344,
+            465,
+            439,
+            552
+        ],
+        "text": "And it's your birthday too!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            352,
+            617,
+            426,
+            686
+        ],
+        "text": "Lucky you, right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            332,
+            444,
+            408
+        ],
+        "text": "Is that true?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            500,
+            333,
+            561,
+            397
+        ],
+        "text": "That's what I heard!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            734,
+            25,
+            872,
+            150
+        ],
+        "text": "I never knew food could be this good!!!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            745,
+            396,
+            806,
+            500
+        ],
+        "text": "It's so good!!!",
+        "panel_id": "4",
+        "type": "thought"
+    }
+]

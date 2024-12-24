@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            225,
+            89,
+            321,
+            164
+        ],
+        "text": "IZO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            875,
+            882,
+            960,
+            1004
+        ],
+        "text": "MROW!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1184,
+            387,
+            1265,
+            479
+        ],
+        "text": "...AND BE AS A CHILD!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1208,
+            571,
+            1353,
+            715
+        ],
+        "text": "HMM?! IS THAT YOU, KYOSHIRO?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1456,
+            581,
+            1524,
+            697
+        ],
+        "text": "SURRENDER YOUR NAME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1424,
+            97,
+            1536,
+            213
+        ],
+        "text": "PUT YOUR LIFE INTO THIS ATTACK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

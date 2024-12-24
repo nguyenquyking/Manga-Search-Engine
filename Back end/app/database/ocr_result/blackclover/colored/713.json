@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            343,
+            1065,
+            526,
+            1243
+        ],
+        "text": "It's absorbing mana through its wings...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            557,
+            112,
+            879,
+            501
+        ],
+        "text": "...and now its magic is even greater!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1263,
+            1127,
+            1236,
+            1296
+        ],
+        "text": "RROOOOOOH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1721,
+            387,
+            1837,
+            1225
+        ],
+        "text": "*Page 281: Assault on the Kingdom\nBlack Clover\nBY YUKI TABATA",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

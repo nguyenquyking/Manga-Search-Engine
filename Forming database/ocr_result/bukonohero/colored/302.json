@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            68,
+            78,
+            203,
+            257
+        ],
+        "text": "It's only right that he pays for that loss.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1106,
+            82,
+            1197,
+            279
+        ],
+        "text": "All for my sake.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            337,
+            629,
+            430,
+            719
+        ],
+        "text": "EWWW!\nLEAVE ME\nALONE,\nBOYS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            217,
+            426,
+            314
+        ],
+        "text": "WHOAAA!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            508,
+            59,
+            550,
+            183
+        ],
+        "text": "SO... WHAT\nIS IT YOU WANT\nTO DO?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            220,
+            613,
+            330
+        ],
+        "text": "STAND\nSTRONG! HE'S\nGOT SOME\nKIND OF\nPOWERS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            525,
+            340,
+            608,
+            470
+        ],
+        "text": "THE GROUND'S\nLIKE SOFT\nCLAY!! WHAT'S\nGOING ON?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            500,
+            582,
+            589
+        ],
+        "text": "WHO IS HE,\nANYWAY...\nA MARINE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            609,
+            594,
+            738
+        ],
+        "text": "DO... DO GIANTS\nLIVE IN THE\nEARTH?! I'VE\nNEVER SEEN ONE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            60,
+            787,
+            183
+        ],
+        "text": "YOU PASSIVE,\nUNRESISTING...\nTRASH.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            866,
+            77,
+            896,
+            207
+        ],
+        "text": "WE ARE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            879,
+            665,
+            993,
+            738
+        ],
+        "text": "HUH?\nTRASH\n...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            273,
+            1140,
+            384
+        ],
+        "text": "WHO ARE\nYOU?! WHAT\nARE YOU\nPEOPLE DOING\nHERE...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1058,
+            650,
+            1100,
+            734
+        ],
+        "text": "WHAT DO\nWE WANT\nTO DO?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            140,
+            83,
+            165,
+            200
+        ],
+        "text": "HEROES",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            608,
+            110,
+            671,
+            201
+        ],
+        "text": "DON'T\nCRY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            910,
+            319,
+            935,
+            372
+        ],
+        "text": "NO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            66,
+            1155,
+            179
+        ],
+        "text": "HEROES\nALSO HAVE\nTIMES WHEN\nTHEY CRY...\nMAYBE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            616,
+            1200,
+            704
+        ],
+        "text": "THE\nTURMOIL\nPILING\nUP IN MY\nHEART\nHAD\nBEGUN\nTO SEEP\nOUT.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            869,
+            750,
+            1003,
+            837
+        ],
+        "text": "ALWAYS\nFEELING\nSAD AND\nFEELING\nREGRET-\nFUL...",
+        "panel_id": "2",
+        "type": "thought"
+    }
+]

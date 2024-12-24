@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            350,
+            17,
+            439,
+            98
+        ],
+        "text": "\"MISSING PERSON,\" HUH? YEAH, RIGHT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            29,
+            766,
+            142
+        ],
+        "text": "YOU! YOU'RE SUPPOSED TO BE DEAD! THAT CORPSE WAS REAL!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            28,
+            996,
+            115
+        ],
+        "text": "...LIKE CHEAP, INFERIOR DENIM!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            264,
+            1108,
+            388
+        ],
+        "text": "YOU'VE OVERREACHED, AND NOW YOU'RE COMING APART AT THE SEAMS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            735,
+            462,
+            817,
+            667
+        ],
+        "text": "A THREAD OF HOPE!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            699,
+            1120,
+            825,
+            1341
+        ],
+        "text": "BECAUSE WE SHALL WEAVE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            990,
+            1250,
+            1090,
+            1361
+        ],
+        "text": "HE CAN CONTROL ANY FIBER AT WILL!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            949,
+            1433,
+            1086,
+            1545
+        ],
+        "text": "BEST JEANIST\nQUIRK:\nFIBER\nMASTER",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            40,
+            52,
+            120,
+            207
+        ],
+        "text": "Ka ka ka... Controlling it remotely saps so much strength!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            42,
+            294,
+            106,
+            389
+        ],
+        "text": "Where is your real body?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            414,
+            97,
+            501
+        ],
+        "text": "Is this only a painting?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            620,
+            141,
+            723
+        ],
+        "text": "This battle just gets harder by the minute...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            177,
+            45,
+            220,
+            135
+        ],
+        "text": "Remotely?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            266,
+            49,
+            395,
+            165
+        ],
+        "text": "And I am deeply wounded!! I expect I will die in this battle.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            71,
+            607,
+            147
+        ],
+        "text": "Ka ka ka...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            469,
+            312,
+            559,
+            460
+        ],
+        "text": "As Kurozumi Kanjuro!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            501,
+            562,
+            722
+        ],
+        "text": "But I will die having pierced the very heart of the Kozuki clan!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            56,
+            888,
+            192
+        ],
+        "text": "...Saying that Lord Momonosuke was with a kunoichi...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            242,
+            893,
+            376
+        ],
+        "text": "That's right... I remember hearing a voice somewhere...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            462,
+            894,
+            677
+        ],
+        "text": "Lord Momonosuke's in danger!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

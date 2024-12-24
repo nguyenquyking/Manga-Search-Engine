@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            322,
+            49,
+            444,
+            719
+        ],
+        "text": "Q: I noticed that in Otama's house, there's a tanuki (raccoon dog) that looks like the famous folklore character Bunbuku Chagama, the shape-shifting tanuki that turns into a teakettle. I don't think she tamed that with her Devil Fruit powers. I'm guessing there's a sweet and touching story behind it. Am I right?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            468,
+            468,
+            576
+        ],
+        "text": "--Ryota Ehara",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            84,
+            744,
+            711
+        ],
+        "text": "A: You noticed him, huh? As a matter of fact, that's a teakettle that ate the Dog-Dog Fruit, Model Tanuki. It was Hitetsu's prized teakettle, and well taken care of, so when it gained its powers, it stuck around with Hitetsu and Otama. Since it's alive, it can't be put over a fire. It's just a pet that can't boil water anymore.\nHowever, there's one thing I wanted people to notice and point out, and nobody sent in any letters about it, so I guess I have to announce it here! Look closely at little Bunbuku there...\nHe's sitting on his own balls!! (LMAO)\nAnd nobody noticed!! I was cracking up to myself when I drew it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            50,
+            804,
+            719
+        ],
+        "text": "Q: What's the name of Whitebeard's enormous naginata weapon? Is that one of the Supreme-Grade Weapons?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            236,
+            827,
+            337
+        ],
+        "text": "--Mizumoto",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            83,
+            879,
+            456
+        ],
+        "text": "A: It's called Murakumogiri, which means \"Cloud Cutter.\" It's a Supreme-Grade!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            50,
+            996,
+            431
+        ],
+        "text": "Q: Will Nami's Happiness Punch still set you back about 100,000 Belly? Or as her assets have matured, has the price undergone inflation as well?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1003,
+            296,
+            1020,
+            401
+        ],
+        "text": "--Sanadacchi",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            85,
+            1134,
+            394
+        ],
+        "text": "A: But of course. This one wasn't by Nami's choice, though. When was the previous time, Alabasta? Let's assume that it'll be a good 300,000 this time.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1090,
+            452,
+            1106,
+            477
+        ],
+        "text": "FWAP!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

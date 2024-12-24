@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            137,
+            626,
+            380,
+            895
+        ],
+        "text": "...wound up being meant for those who lacked power to start with. They are the ones who can draw out its true value.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            845,
+            78,
+            1046,
+            225
+        ],
+        "text": "(Especially now that the predecessors' quirks are manifesting, I definitely can't pass this on to a normal person.)",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            852,
+            265,
+            892,
+            344
+        ],
+        "text": "(You mean...?)",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

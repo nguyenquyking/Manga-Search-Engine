@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            74,
+            110,
+            144,
+            196
+        ],
+        "text": "...I figured it out!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            39,
+            225,
+            128,
+            340
+        ],
+        "text": "But after taking that hit from your club...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            402,
+            142,
+            596
+        ],
+        "text": "It is in the midst of danger that power truly blossoms!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            652,
+            116,
+            739
+        ],
+        "text": "...Too shallow!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            43,
+            813,
+            88,
+            881
+        ],
+        "text": "It was still...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            347,
+            44,
+            365,
+            208
+        ],
+        "text": "@LITTLEXGARDEN",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            786,
+            60,
+            847,
+            224
+        ],
+        "text": "Woro ro ro ro ro ro!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            491,
+            313,
+            585,
+            439
+        ],
+        "text": "...With Supreme King Haki, can't you?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            489,
+            570,
+            544,
+            672
+        ],
+        "text": "GRRRRMMM...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            476,
+            755,
+            560,
+            871
+        ],
+        "text": "You can infuse things...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            841,
+            505,
+            858,
+            629
+        ],
+        "text": "@ASSIA_LIN",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            950,
+            195,
+            1078,
+            334
+        ],
+        "text": "Not a dead man walking!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1012,
+            16,
+            1016,
+            58
+        ],
+        "text": "VMM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1143,
+            720,
+            1292,
+            875
+        ],
+        "text": "Only a handful of the very strongest can!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

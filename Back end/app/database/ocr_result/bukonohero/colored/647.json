@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            37,
+            378,
+            98,
+            648
+        ],
+        "text": "\u30b4\u30a9\u30aa...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            107,
+            621,
+            118,
+            713
+        ],
+        "text": "WHOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            709,
+            776,
+            850,
+            825
+        ],
+        "text": "Tremble...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1018,
+            26,
+            1171,
+            318
+        ],
+        "text": "After the Doc went to all that trouble to make more, most of 'em are now ruined.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1287,
+            43,
+            1353,
+            184
+        ],
+        "text": "Overhaul would be so disappointed.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1060,
+            243,
+            1081,
+            318
+        ],
+        "text": "Darn...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1054,
+            682,
+            1103,
+            772
+        ],
+        "text": "KAKLANG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1360,
+            639,
+            1393,
+            699
+        ],
+        "text": "KLANG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

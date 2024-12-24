@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            94,
+            233,
+            191,
+            365
+        ],
+        "text": "PEOPLE... AIN'T GONNA LOSE FAITH IN A HERO OVER THIS!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            177,
+            431,
+            236,
+            543
+        ],
+        "text": "WHO'D EVER BELIEVE THIS JUNK...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            180,
+            824,
+            244,
+            938
+        ],
+        "text": "He's lying... He's gotta be...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            135,
+            526,
+            296
+        ],
+        "text": "THOSE WHO KEEP COMPANY WITH ENDEAVOR ARE NO DIFFERENT.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            400,
+            756,
+            539,
+            929
+        ],
+        "text": "WE'RE NOT THAT FREAKIN' STUPID!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            127,
+            1068,
+            206
+        ],
+        "text": "?",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1071,
+            735,
+            1243,
+            909
+        ],
+        "text": "TAKE HAWKS, THE NUMBER TWO HERO.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

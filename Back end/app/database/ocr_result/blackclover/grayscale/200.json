@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            198,
+            266,
+            296,
+            387
+        ],
+        "text": "However, without proof of that...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            196,
+            964,
+            225,
+            1050
+        ],
+        "text": "True.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            526,
+            593,
+            744,
+            699
+        ],
+        "text": "If a devil truly exists, then no doubt she was manipulated.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            119,
+            806,
+            234
+        ],
+        "text": "...All that exists is her undeniable crime. And so...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            969,
+            469,
+            1032,
+            556
+        ],
+        "text": "?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            992,
+            948,
+            1064,
+            1053
+        ],
+        "text": "She must be judged.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1379,
+            176,
+            1428,
+            287
+        ],
+        "text": "In the name of Justice!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            142,
+            135,
+            170,
+            206
+        ],
+        "text": "Huh.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            639,
+            198,
+            752,
+            347
+        ],
+        "text": "I guess I'll join the Magic Knights.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            132,
+            1172,
+            358
+        ],
+        "text": "JUST",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1009,
+            1020,
+            1104,
+            1129
+        ],
+        "text": "I...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1333,
+            1065,
+            1324,
+            1157
+        ],
+        "text": "BOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

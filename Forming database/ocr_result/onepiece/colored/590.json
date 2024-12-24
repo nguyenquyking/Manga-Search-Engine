@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            96,
+            48,
+            199,
+            174
+        ],
+        "text": "...AND THEY ALL DIED!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            109,
+            822,
+            229,
+            963
+        ],
+        "text": "THEY COULDN'T TAKE IT ANY LONGER. THEY HEADED TO ONIGASHIMA...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            100,
+            1402,
+            159,
+            1483
+        ],
+        "text": "KURI, WANO",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            394,
+            1372,
+            476,
+            1478
+        ],
+        "text": "THIS IS 20 YEARS FOR YOU.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            1077,
+            782,
+            1197
+        ],
+        "text": "THIS IS HOW HARD IT IS TO CONTINUE BELIEVING IN LEGENDS...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            837,
+            805,
+            951
+        ],
+        "text": "IT'S BEEN TEN YEARS. WE'RE OLDER NOW.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            726,
+            25,
+            840,
+            124
+        ],
+        "text": "THEY'LL HAVE LORD MOMONOSUKE WITH THEM!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            729,
+            145,
+            824,
+            308
+        ],
+        "text": "TRUST IN THEM!! KIN'EMON AND THE OTHERS WILL COME BACK!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            711,
+            378,
+            832,
+            522
+        ],
+        "text": "AND YOU WANT US TO KEEP WAITING FOR PEOPLE WHO MIGHT NEVER ACTUALLY RETURN?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            586,
+            807,
+            706
+        ],
+        "text": "IF WE HAVE TO WAIT 20, WE'LL BE EVEN WEAKER!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            1073,
+            1014,
+            1174
+        ],
+        "text": "TEN YEARS WAS AS FAR AS WE COULD GET...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            908,
+            1358,
+            997,
+            1489
+        ],
+        "text": "...AS INSUBSTANTIAL AS THE CLOUDS...",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

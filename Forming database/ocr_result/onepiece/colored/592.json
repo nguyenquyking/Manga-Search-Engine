@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            69,
+            83,
+            140,
+            171
+        ],
+        "text": "...and be as a child!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            213,
+            142,
+            290
+        ],
+        "text": "Surrender your name...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            354,
+            150,
+            449
+        ],
+        "text": "After all, when people value themselves too much...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            479,
+            139,
+            561
+        ],
+        "text": "How we would scream to test our mettle?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            604,
+            102,
+            700
+        ],
+        "text": "Do you remember...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            222,
+            24,
+            332,
+            139
+        ],
+        "text": "Leap before you look! Remember our abbreviation!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            336,
+            332,
+            420
+        ],
+        "text": "...They become cowards who take no risks!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            270,
+            609,
+            338,
+            691
+        ],
+        "text": "...When we were just strapping boys?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            421,
+            119,
+            465,
+            446
+        ],
+        "text": "SUNACCHI!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            402,
+            608,
+            475,
+            693
+        ],
+        "text": "You raise your voice and shout...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            116,
+            560,
+            216
+        ],
+        "text": "RAAAAAAH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            873,
+            92,
+            946,
+            171
+        ],
+        "text": "Come back here!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            391,
+            931,
+            482
+        ],
+        "text": "Come back!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            222,
+            930,
+            336
+        ],
+        "text": "RAAAAAAAA...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

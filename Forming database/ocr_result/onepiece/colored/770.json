@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            74,
+            51,
+            144,
+            153
+        ],
+        "text": "...Whom I mean to release!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            213,
+            144,
+            293
+        ],
+        "text": "He is the first one...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            345,
+            156,
+            446
+        ],
+        "text": "I've exchanged words with Kawamatsu.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            469,
+            159,
+            539
+        ],
+        "text": "I'm already aware of it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            594,
+            162,
+            692
+        ],
+        "text": "And Raizo! Do you see that cell there...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            49,
+            471,
+            140
+        ],
+        "text": "Don't shout like that, Sir Luffy!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            183,
+            650,
+            295
+        ],
+        "text": "...Then everyone's going to join our side?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            584,
+            627,
+            691
+        ],
+        "text": "That's great!! So if we tear this place down...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            66,
+            832,
+            162
+        ],
+        "text": "Our Sharkodile seems tired from the journey...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            739,
+            233,
+            810,
+            358
+        ],
+        "text": "When are we gonna get to the Oshiruko, Okiku?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            409,
+            810,
+            546
+        ],
+        "text": "I'm sleepy. I'm hungry. I'm sleepy. I'm hungry.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            604,
+            840,
+            692
+        ],
+        "text": "Wilderness, Udon",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            882,
+            33,
+            964,
+            161
+        ],
+        "text": "But don't worry, we're already within Udon!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1029,
+            102,
+            1116,
+            191
+        ],
+        "text": "Do we actually want to get there... or not?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1116,
+            228,
+            1129,
+            289
+        ],
+        "text": "GRRRGGG",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

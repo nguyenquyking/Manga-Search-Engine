@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            92,
+            21,
+            194,
+            169
+        ],
+        "text": "...I had taken control of it and used it for my own ends.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            588,
+            194,
+            717
+        ],
+        "text": "Although a powerful curse had been cast on me...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            285,
+            102,
+            309,
+            611
+        ],
+        "text": "Or so I thought, but I was wrong.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            420,
+            37,
+            523,
+            166
+        ],
+        "text": "...I found the true way to use the cursed briars!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            423,
+            278,
+            503,
+            399
+        ],
+        "text": "By mastering rune arrays...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            423,
+            571,
+            515,
+            709
+        ],
+        "text": "The curse was a mighty shackle that restrained my magic!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            733,
+            54,
+            818,
+            137
+        ],
+        "text": "Meg\u00edcula is the father of all curses.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            342,
+            827,
+            445
+        ],
+        "text": "The curse magic of this world originated with Meg\u00edcula.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            641,
+            812,
+            718
+        ],
+        "text": "Dorothy told me...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            109,
+            1060,
+            208
+        ],
+        "text": "Because of you...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

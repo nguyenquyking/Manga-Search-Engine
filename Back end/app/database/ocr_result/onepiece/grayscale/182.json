@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            30,
+            255,
+            107,
+            328
+        ],
+        "text": "THIS CASTLE'S READY TO FALL!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            43,
+            355,
+            121,
+            452
+        ],
+        "text": "KEEP LOOKING FOR AN EXIT, HAMLET!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            36,
+            482,
+            104,
+            586
+        ],
+        "text": "SO STAY STRONG, GOT THAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            626,
+            111,
+            724
+        ],
+        "text": "WE'RE NOT GONNA LET YOU DIE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            352,
+            39,
+            401,
+            140
+        ],
+        "text": "I'M ON IT, BOSS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            502,
+            41,
+            557,
+            153
+        ],
+        "text": "HOW LONG WILL THIS ISLAND STAY UP?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            494,
+            402,
+            590,
+            485
+        ],
+        "text": "WHO KNOWS WHEN THIS THING'LL FALL!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            502,
+            529,
+            538,
+            570
+        ],
+        "text": "YES, SIR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            493,
+            632,
+            570,
+            717
+        ],
+        "text": "WANDA, CARROT, UNDER THE DOME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            78,
+            886,
+            208
+        ],
+        "text": "YOU AIN'T DEAD, ARE YA?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            817,
+            291,
+            889,
+            367
+        ],
+        "text": "TALK TO ME, ZOLO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            588,
+            894,
+            681
+        ],
+        "text": "HEY! YOU ALIVE DOWN THERE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

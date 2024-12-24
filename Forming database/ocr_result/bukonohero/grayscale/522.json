@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            85,
+            650,
+            129,
+            724
+        ],
+        "text": "I CAN'T LET...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            233,
+            83,
+            340,
+            712
+        ],
+        "text": "TUG\n...ALL FOR ONE\nTAKE YOU\nALL AWAY\nFROM ME!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            471,
+            100,
+            656,
+            198
+        ],
+        "text": "THAT'S\nWHY...\n...I\nHAD TO\nLEAVE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            950,
+            82,
+            1088,
+            742
+        ],
+        "text": "BAM\nTHRUST,\nDARK\nSHADOW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

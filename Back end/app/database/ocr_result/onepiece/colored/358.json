@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            73,
+            55,
+            156,
+            178
+        ],
+        "text": "ANYTHING COULD HAPPEN!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            229,
+            124,
+            320
+        ],
+        "text": "DAAA HA HA HA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            82,
+            346,
+            150,
+            447
+        ],
+        "text": "...ABOUT 800 YEARS AGO.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            490,
+            141,
+            560
+        ],
+        "text": "BUT I WAS BORN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            597,
+            135,
+            695
+        ],
+        "text": "MY AGE? I'M 26 YEARS OLD.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            386,
+            35,
+            447,
+            139
+        ],
+        "text": "...AND HE'S A REAL WILD MAN!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            378,
+            201,
+            456,
+            314
+        ],
+        "text": "IT SAYS THEY'VE GOT A NEW SAMURAI FROM WANO...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            381,
+            354,
+            457,
+            453
+        ],
+        "text": "WHEN WE'RE RAISING ALL THIS RUCKUS OVER HERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            477,
+            448,
+            574
+        ],
+        "text": "YET ANOTHER ARTICLE ABOUT WHITEBEARD.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            397,
+            602,
+            468,
+            692
+        ],
+        "text": "IN ANOTHER SEA...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            683,
+            527,
+            811,
+            684
+        ],
+        "text": "A SAMURAI FROM A CLOSED-OFF NATION!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            997,
+            33,
+            1095,
+            182
+        ],
+        "text": "I'D LIKE TO MEET THIS FELLOW!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            333,
+            1105,
+            557
+        ],
+        "text": "THE GREAT PIRATE GOLD ROGER",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

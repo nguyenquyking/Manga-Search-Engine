@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            82,
+            63,
+            144,
+            141
+        ],
+        "text": "MINGLING COURT-YARD...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            294,
+            124,
+            397
+        ],
+        "text": "THE CROWD'S REALLY CLEARED OUT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            93,
+            634,
+            138,
+            722
+        ],
+        "text": "PANGAEA CASTLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            211,
+            66,
+            285,
+            159
+        ],
+        "text": "WELL, AFTER THE UPROAR THAT HAPPENED...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            456,
+            58,
+            526,
+            156
+        ],
+        "text": "...SHIWA-HOSHI?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            440,
+            632,
+            540,
+            720
+        ],
+        "text": "HOW DO YOU FEEL NOW...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            734,
+            67,
+            825,
+            195
+        ],
+        "text": "TEE HEE! THIS MUST BE A MEETING OF THE WORLD'S LARGEST PRINCESS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            224,
+            796,
+            294
+        ],
+        "text": "HEH HEH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            860,
+            41,
+            944,
+            149
+        ],
+        "text": "...AND THE WORLD'S SMALLEST PRINCESS, BOTH AT ONCE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            611,
+            786,
+            716
+        ],
+        "text": "THE BRUISE HAS COMPLETELY VANISHED!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            858,
+            585,
+            988,
+            730
+        ],
+        "text": "THANK YOU EVER SO MUCH, MISS LADY MANSHERRY!\u2661 YOUR POWER IS LOVELY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            60,
+            1092,
+            150
+        ],
+        "text": "I'M SOWWY FOR BEING SCARED AT FIRST.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

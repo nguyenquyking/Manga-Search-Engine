@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            147,
+            656,
+            284,
+            802
+        ],
+        "text": "NGAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            674,
+            1431,
+            841,
+            1753
+        ],
+        "text": "ONIGASHIMA...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1538,
+            162,
+            1540,
+            374
+        ],
+        "text": "DA-DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1756,
+            735,
+            2002,
+            1094
+        ],
+        "text": "...IS GOING TO FALL!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1510,
+            1341,
+            1529,
+            1453
+        ],
+        "text": "RAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2696,
+            757,
+            2721,
+            1068
+        ],
+        "text": "To be continued!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

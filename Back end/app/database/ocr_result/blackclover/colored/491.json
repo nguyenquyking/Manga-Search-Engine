@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            71,
+            58,
+            833,
+            781
+        ],
+        "text": "AAAAGH AAAAGH\nNO...\nNO, IT CAN'T\nBE...\nYAMI'S\nNO..!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            285,
+            1624,
+            711,
+            1853
+        ],
+        "text": "MAGIC KNIGHT\nBRIGADE\nCAPTAINS,\nBOTH OF\nTHEM,\nAND YET...\nPATHETIC\nMEN!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1027,
+            35,
+            1658,
+            1130
+        ],
+        "text": "@silentreigns\nI HAVEN'T\nMANAGED\nTO TELL\nHIM I\nLOVE HIM\nYET!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1181,
+            1538,
+            1577,
+            1888
+        ],
+        "text": "IS HE\nALL\nRIGHT?!\nIS HE\nALIVE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1551,
+            812,
+            1679,
+            1371
+        ],
+        "text": "AAAAGH\nAAAAGH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1711,
+            828,
+            2268,
+            1546
+        ],
+        "text": "@ColorClovers\nAT\nTHE VERY\nLEAST, THE\nDARK TRIAD\nMEMBERS\nARE MORE\nPOWERFUL\nTHAN A\nBRIGADE\nCAPTAIN!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1902,
+            310,
+            1943,
+            441
+        ],
+        "text": "Haw!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2333,
+            1693,
+            2610,
+            1878
+        ],
+        "text": "WE\nFOUGHT\nWITH\nEVERY-\nTHING\nWE HAD.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2467,
+            593,
+            2685,
+            845
+        ],
+        "text": "NOT ONLY\nTHAT, BUT...\nHE WASN'T\nEVEN\nSERIOUS",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2545,
+            162,
+            2738,
+            365
+        ],
+        "text": "NOW\nTHERE'S\nA FUN\nSTORY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

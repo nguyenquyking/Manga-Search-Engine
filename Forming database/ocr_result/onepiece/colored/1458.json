@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            116,
+            458,
+            328,
+            683
+        ],
+        "text": "UGK\u5be9\u67fb\u59d4\u54e1\u9577\n(\u5927\u962a\u5e9c Beef\u3055\u3093)",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            381,
+            102,
+            421,
+            254
+        ],
+        "text": "\u30ad\u30e3\u30ed\u30c3\u30c8\u306e\u5909\u8c8c!!\n\u30b9\u30fc\u30ed\u30f3!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            432,
+            402,
+            630,
+            425
+        ],
+        "text": "(\u795e\u5948\u5ddd\u770c\n\u7259\u5c71\u96c4\u4e00\u3055\u3093)",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            679,
+            437,
+            724,
+            660
+        ],
+        "text": "\u3053\u306e\u3064\u3068\u3081\u3092\u77e5\u308b\u7537\u3002\u30da\u30c9\u30ed!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            720,
+            219,
+            1036,
+            516
+        ],
+        "text": "\u5927\u733f\u30ad\u30b8\u3092\u5f93\u3048\u3066\uff5e\u30bd\u30ed\u822a\u6d77!!\n(\u5927\u5206\u770c MENO\u3055\u3093)\n\u25ce\u6f2b\u753b\u95a2\u4fc2\u306e\n\u3042\u3066\u5148\n\u3012119-0163\n\u25ce\u30a2\u30cb\u30e1\u95a2\u4fc2\u306e\n\u3042\u3066\u5148\n\u3012178-8567",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            992,
+            94,
+            1006,
+            141
+        ],
+        "text": "\u30ad\u30e3\u30d7\u30c6\u30f3\n120\u4e07",
+        "panel_id": "6",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1086,
+            635,
+            1122,
+            655
+        ],
+        "text": "\u30c7\u30a3\u30fc\u30bc\u30eb",
+        "panel_id": "7",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1154,
+            19,
+            1166,
+            46
+        ],
+        "text": "213",
+        "panel_id": "8",
+        "type": "page_number"
+    }
+]

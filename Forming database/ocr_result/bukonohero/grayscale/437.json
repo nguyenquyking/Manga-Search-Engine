@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            293,
+            156,
+            359,
+            229
+        ],
+        "text": "Kinda weak and worn-out...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            309,
+            401,
+            381,
+            473
+        ],
+        "text": "He's looking ragged, huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            99,
+            538,
+            149
+        ],
+        "text": "YMMR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            832,
+            379,
+            886,
+            460
+        ],
+        "text": "He saved me out there...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            294,
+            1027,
+            380
+        ],
+        "text": "...and he's been fighting this whole time...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            29,
+            873,
+            107
+        ],
+        "text": "You want us to look at him? So what?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            18,
+            1020,
+            58
+        ],
+        "text": "Don't tell me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            530,
+            855,
+            609
+        ],
+        "text": "Yes, he's been fighting.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            666,
+            1054,
+            698
+        ],
+        "text": "SHOV",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

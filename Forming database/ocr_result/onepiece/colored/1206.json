@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            70,
+            131,
+            147,
+            247
+        ],
+        "text": "Are you aware of who controls this country...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            200,
+            72,
+            240,
+            167
+        ],
+        "text": "...from the shadows?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            608,
+            165,
+            696
+        ],
+        "text": "I would advise you not to sightsee here...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            447,
+            69,
+            532,
+            171
+        ],
+        "text": "...We're not supposed to know that...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            446,
+            192,
+            528,
+            266
+        ],
+        "text": "Shut up, Luffy! Kin'emon said...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            305,
+            525,
+            424
+        ],
+        "text": "And I'm here to whup that Emperor of the sea!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            457,
+            534,
+            537
+        ],
+        "text": "It's Kaido!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            650,
+            531,
+            730
+        ],
+        "text": "Nope! Don't know!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            573,
+            59,
+            706,
+            153
+        ],
+        "text": "I was just kidding!! I don't know who!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            154,
+            882,
+            261
+        ],
+        "text": "...of being alive one month from now...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            340,
+            866,
+            446
+        ],
+        "text": "The cards say your probability",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            51,
+            866,
+            146
+        ],
+        "text": "...is 19 percent.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            63,
+            961,
+            110
+        ],
+        "text": "FLIP.",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            919,
+            377,
+            958,
+            429
+        ],
+        "text": "FLIP...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            787,
+            499,
+            843,
+            573
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            786,
+            619,
+            844,
+            752
+        ],
+        "text": "GRRR...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1072,
+            145,
+            1153,
+            391
+        ],
+        "text": "WORST GENERATION\nBASIL HAWKINS\nBOUNTY: 320 MILLION BELLY",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            54,
+            57,
+            116,
+            168
+        ],
+        "text": "FATHER?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            25,
+            409,
+            92,
+            523
+        ],
+        "text": "LORD ODEN?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            21,
+            620,
+            99,
+            718
+        ],
+        "text": "HUH?! IT CAN'T BE...!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            320,
+            250,
+            369,
+            324
+        ],
+        "text": "NOT AGAIN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            370,
+            375,
+            535
+        ],
+        "text": "AND YOU TOO, SHINOBU! IT'S GOOD TO SEE YOU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            446,
+            231,
+            503,
+            308
+        ],
+        "text": "YOU MUST NOT WATCH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            46,
+            508,
+            144
+        ],
+        "text": "GET BACK, SHINOBU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            608,
+            606,
+            725
+        ],
+        "text": "IT'S NOT HIM!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            47,
+            586,
+            145
+        ],
+        "text": "IT'S AN IMPOSTOR!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            237,
+            669,
+            307
+        ],
+        "text": "FWAP!! F-FATHER!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            621,
+            62,
+            670,
+            105
+        ],
+        "text": "HUH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            52,
+            851,
+            192
+        ],
+        "text": "WHAT DO YOU MEAN, KIKU?! WHY ARE YOU SO ANGRY?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            257,
+            840,
+            386
+        ],
+        "text": "...YOU SHOW US THESE MOCKING LIES!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            755,
+            595,
+            843,
+            732
+        ],
+        "text": "NOT ONCE, BUT TWICE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            72,
+            1103,
+            149
+        ],
+        "text": "IT'S ME!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

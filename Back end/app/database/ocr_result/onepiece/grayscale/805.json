@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            60,
+            82,
+            137,
+            168
+        ],
+        "text": "HE\nIS!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            33,
+            239,
+            62,
+            334
+        ],
+        "text": "BEER!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            34,
+            490,
+            136,
+            682
+        ],
+        "text": "MOMONOSUKE\nIS TOGETHER WITH\nYOUNG MASTER\nYAMATO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            335,
+            616,
+            388,
+            691
+        ],
+        "text": "HUFF,\nHUFF...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            72,
+            574,
+            178
+        ],
+        "text": "CAN WE\nCHOOSE\nA LESS\nVISIBLE\nROUTE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            443,
+            525,
+            552
+        ],
+        "text": "THIS WAY,\nSHINOBU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            64,
+            921,
+            191
+        ],
+        "text": "THEY'RE\nGOING AFTER\nMOMO AND\nSHINOBU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            335,
+            877,
+            442
+        ],
+        "text": "ANOTHER\nBROADCAST...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            855,
+            473,
+            894,
+            554
+        ],
+        "text": "A\nKUNOICHI\n!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            841,
+            638,
+            1060,
+            728
+        ],
+        "text": "YAMATO\nIS WITH!!\nTHIRD\nFLOOR\nOF THE\nCASTLE",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            983,
+            53,
+            1074,
+            153
+        ],
+        "text": "AND WHO'S\n\"YOUNG\nMASTER\nYAMATO\"?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

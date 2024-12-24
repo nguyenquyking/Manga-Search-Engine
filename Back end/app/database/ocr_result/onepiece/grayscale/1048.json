@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            118,
+            715,
+            220,
+            802
+        ],
+        "text": "MWA HA HA HA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            121,
+            880,
+            200,
+            984
+        ],
+        "text": "PERFORMANCE FLOOR",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            203,
+            69,
+            284,
+            190
+        ],
+        "text": "I'M SO COLD!! HELP ME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            342,
+            847,
+            396,
+            967
+        ],
+        "text": "I'VE BEEN BITTEN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            80,
+            833,
+            228
+        ],
+        "text": "ALL YOU DO IS LAUGH ANYWAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            263,
+            814,
+            418
+        ],
+        "text": "SO WHAT, PLEASURES?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            742,
+            471,
+            843,
+            614
+        ],
+        "text": "DA HA HA HA!\nI'M SO COLD!!\nI'M TURNING\nINTO AN ONI!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            837,
+            944,
+            995
+        ],
+        "text": "WHY DID\nYOU DO THIS\nTO US TOO,\nMASTER\nQUEEN?! GYA\nHA HA HA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            905,
+            64,
+            1000,
+            181
+        ],
+        "text": "MAYBE\nNOW YOU'LL\nBE USEFUL,\nMWA HA HA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1084,
+            82,
+            1196,
+            259
+        ],
+        "text": "DON'T LET\nYOUR SKIN\nTOUCH THEM!!\nUSE WEAPONS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1084,
+            300,
+            1171,
+            413
+        ],
+        "text": "IS THIS\nSOME\nPLAGUE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1124,
+            843,
+            1208,
+            996
+        ],
+        "text": "GRAAAA\n!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

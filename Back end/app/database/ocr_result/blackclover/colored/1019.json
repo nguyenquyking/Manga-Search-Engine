@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            53,
+            60,
+            151,
+            153
+        ],
+        "text": "They're both going to be killed!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            273,
+            70,
+            377
+        ],
+        "text": "Langris!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            52,
+            438,
+            95,
+            577
+        ],
+        "text": "Langris's brother!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            653,
+            131,
+            757
+        ],
+        "text": "He's from Asta's Brigade...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            242,
+            354,
+            588
+        ],
+        "text": "Nothing worked.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            449,
+            215,
+            461,
+            234
+        ],
+        "text": "...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            460,
+            615,
+            548,
+            733
+        ],
+        "text": "Ghk...Uu...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            648,
+            86,
+            675,
+            736
+        ],
+        "text": "Even if I get back up, what can I do?",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            910,
+            73,
+            938,
+            176
+        ],
+        "text": "...Win.",
+        "panel_id": "5",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            910,
+            682,
+            938,
+            728
+        ],
+        "text": "I...",
+        "panel_id": "5",
+        "type": "thought"
+    }
+]

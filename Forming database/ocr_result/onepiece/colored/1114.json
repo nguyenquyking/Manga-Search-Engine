@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            72,
+            36,
+            159,
+            209
+        ],
+        "text": "OUR HERO VANQUISHED THOSE BAD SAMURAI ALREADY!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            256,
+            153,
+            340
+        ],
+        "text": "BUT THAT WAS ALL 20 YEARS AGO...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            56,
+            425,
+            124,
+            542
+        ],
+        "text": "EEEK! THERE SHE GOES!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            562,
+            139,
+            701
+        ],
+        "text": "NOW, NOW! I DIDN'T ASK FOR THE ANSWER,",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            170,
+            399,
+            225,
+            511
+        ],
+        "text": "NO ONE WANTS TO HEAR THAT NAME.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            454,
+            177,
+            532,
+            536
+        ],
+        "text": "SHOGUN KUROZUMI OROCHI!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            546,
+            50,
+            639,
+            123
+        ],
+        "text": "OROCHI TWO-SWORD STYLE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            864,
+            91,
+            958,
+            216
+        ],
+        "text": "...AND NOW WANO IS HEALTHY AND PEACEFUL.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            864,
+            266,
+            951,
+            401
+        ],
+        "text": "THAT'S RIGHT. ALL OF THE BAD GUYS DIED 20 YEARS AGO...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            879,
+            453,
+            939,
+            539
+        ],
+        "text": "I'VE BEEN VANQUISHED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            547,
+            918,
+            706
+        ],
+        "text": "OWWW!! HIYAAA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

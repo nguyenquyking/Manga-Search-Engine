@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            26,
+            36,
+            125,
+            175
+        ],
+        "text": "But how's he still alive?\nHe blew himself up.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            37,
+            335,
+            130,
+            482
+        ],
+        "text": "Huff, huff... That was close. I'd be dead if I hadn't put up my Armament Haki in time...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            549,
+            105,
+            606
+        ],
+        "text": "GRRRG...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            291,
+            43,
+            342,
+            178
+        ],
+        "text": "One Sword Style, Iai...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            446,
+            546,
+            578,
+            717
+        ],
+        "text": "Death Lion Song!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

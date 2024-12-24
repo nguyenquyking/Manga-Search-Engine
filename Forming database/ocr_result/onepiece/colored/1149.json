@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            97,
+            80,
+            150,
+            171
+        ],
+        "text": "WAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            240,
+            42,
+            352,
+            179
+        ],
+        "text": "DON'T FORGET, I OWE YOU ONE FOR BUSTING DOWN MY HOUSE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            614,
+            174,
+            707
+        ],
+        "text": "GA HA HA HA!! HEY, I COULD GET USED TO THIS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            218,
+            618,
+            308,
+            719
+        ],
+        "text": "THE PAINED SCREAMS OF THE INFERIOR!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            610,
+            600,
+            720
+        ],
+        "text": "WHAT'S ALL THE RUCKUS HERE, HOLDEM?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1026,
+            42,
+            1110,
+            143
+        ],
+        "text": "IT'S MISS SPEED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

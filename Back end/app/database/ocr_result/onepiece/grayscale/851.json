@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            46,
+            625,
+            107,
+            724
+        ],
+        "text": "BUT KEEP YOUR WITS ABOUT",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            193,
+            632,
+            287,
+            719
+        ],
+        "text": "FOR IN THAT ROOM... I SEE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            225,
+            48,
+            286,
+            140
+        ],
+        "text": "...TEN!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            102,
+            500,
+            210
+        ],
+        "text": "...BUT SOMEONE IS ATTEMPTING TO SAVE THE SAMURAI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            565,
+            62,
+            635,
+            166
+        ],
+        "text": "GO NOW!! GO QUICK, AND KILL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            569,
+            470,
+            686
+        ],
+        "text": "IT'S HARD TO MAKE OUT THROUGH THE GLOOM...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            941,
+            111,
+            1041,
+            250
+        ],
+        "text": "SOMEONE IS THERE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            10,
+            1128,
+            354
+        ],
+        "text": "Next chapter hits Feb. 28! BENG!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

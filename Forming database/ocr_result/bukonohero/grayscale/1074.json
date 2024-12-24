@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            50,
+            253,
+            101,
+            323
+        ],
+        "text": "GET OUT OF HERE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            473,
+            90,
+            497
+        ],
+        "text": "EN-",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            259,
+            306,
+            291,
+            500
+        ],
+        "text": "PROMINENCE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            266,
+            552,
+            275,
+            604
+        ],
+        "text": "HMM",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            64,
+            456,
+            331
+        ],
+        "text": "BUUURN!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            570,
+            615,
+            605,
+            670
+        ],
+        "text": "YOU AGAIN!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

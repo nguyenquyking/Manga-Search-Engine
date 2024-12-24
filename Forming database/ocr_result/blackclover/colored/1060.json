@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            40,
+            87,
+            124,
+            635
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            458,
+            471,
+            527,
+            613
+        ],
+        "text": "I, a royal...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            85,
+            864,
+            269
+        ],
+        "text": "...Learned something from that peasant.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1428,
+            884,
+            1461,
+            1022
+        ],
+        "text": "VANISH.",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1496,
+            263,
+            1722,
+            495
+        ],
+        "text": "Anyone can fight those who are far above them!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            221,
+            706,
+            274,
+            746
+        ],
+        "text": "BOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            536,
+            72,
+            567,
+            287
+        ],
+        "text": "@minaxaArt",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

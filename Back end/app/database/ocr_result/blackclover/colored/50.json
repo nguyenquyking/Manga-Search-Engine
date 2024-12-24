@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            369,
+            1399,
+            507,
+            1576
+        ],
+        "text": "He...He defeated the monster!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            533,
+            105,
+            771,
+            265
+        ],
+        "text": "OUR SAVIOR",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            756,
+            972,
+            947,
+            1154
+        ],
+        "text": "The Prince!! The Prince saved the whole country!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1192,
+            126,
+            1252,
+            1566
+        ],
+        "text": "Twitter: @BlackCloverTeam  @Jatesque",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1305,
+            798,
+            1547,
+            995
+        ],
+        "text": "Hn hn hn... That hindered my incarnation... But it was quite the entertaining show indeed.",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1492,
+            116,
+            1670,
+            261
+        ],
+        "text": "I won't hand over that grimoire to you!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1750,
+            1070,
+            2021,
+            1272
+        ],
+        "text": "At least I have the grimoire... 'Tis a good start.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1963,
+            717,
+            2074,
+            828
+        ],
+        "text": "Stop right there!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

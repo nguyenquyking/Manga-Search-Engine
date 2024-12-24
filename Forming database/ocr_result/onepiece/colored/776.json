@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            76,
+            59,
+            189,
+            212
+        ],
+        "text": "...It's clearly a bad thing that the actual meeting place is known...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            247,
+            38,
+            348,
+            200
+        ],
+        "text": "...and that our comrades are getting arrested. Things are looking a bit dicey...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            88,
+            563,
+            260,
+            694
+        ],
+        "text": "While having the information spreading out in the open feels like a shortcut to our goal...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            445,
+            69,
+            514,
+            175
+        ],
+        "text": "That's the spirit, Sir Zorojuro.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            462,
+            472,
+            505
+        ],
+        "text": "\u2026roll\u2026",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            446,
+            563,
+            597,
+            700
+        ],
+        "text": "But we don't need every last guy trying to steer the ship at the same time. I'm gonna stop worrying about this...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            582,
+            33,
+            669,
+            176
+        ],
+        "text": "For now, just relax and heal up! Go back to sleep.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            35,
+            897,
+            138
+        ],
+        "text": "Maybe it's best if I don't see them before the battle...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            165,
+            874,
+            256
+        ],
+        "text": "I wonder what will happen when I see them...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            270,
+            861,
+            344
+        ],
+        "text": "They'll all be just as I remember them...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            359,
+            860,
+            453
+        ],
+        "text": "But he's only eight! How mysterious that is.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            769,
+            494,
+            855,
+            564
+        ],
+        "text": "Yeah, I know! It's great! Aha ha!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            593,
+            837,
+            705
+        ],
+        "text": "Yaaay! My brother is alive, Otoko!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            492,
+            972,
+            592
+        ],
+        "text": "How am I supposed to sleep with you yappin' over there...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            614,
+            924,
+            680
+        ],
+        "text": "\u2026",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1047,
+            96,
+            1136,
+            229
+        ],
+        "text": "It wouldn't be right to throw cold water on a warrior's fight... right, Otoko?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1057,
+            13,
+            1094,
+            76
+        ],
+        "text": "ZZZ",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

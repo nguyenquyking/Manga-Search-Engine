@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            48,
+            162,
+            82,
+            204
+        ],
+        "text": "Huff!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            55,
+            228,
+            108,
+            293
+        ],
+        "text": "Stab him if you want!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            667,
+            114,
+            718
+        ],
+        "text": "Hit him if you want!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            184,
+            27,
+            202,
+            74
+        ],
+        "text": "Huff...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            331,
+            25,
+            387,
+            109
+        ],
+        "text": "I swear it...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            310,
+            402,
+            374,
+            492
+        ],
+        "text": "You'll pay!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            307,
+            539,
+            363,
+            714
+        ],
+        "text": "I didn't think I'd run across him right in the open like that!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            686,
+            480,
+            714
+        ],
+        "text": "GRRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            604,
+            564,
+            648,
+            686
+        ],
+        "text": "Well, I made it inside!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            686,
+            480,
+            714
+        ],
+        "text": "GRRR",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            738,
+            217,
+            835,
+            468
+        ],
+        "text": "Worst Generation Pirate\nCaptain of the\nBonney Pirates\nJewelry Bonney",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            883,
+            35,
+            1024,
+            135
+        ],
+        "text": "I'm dying\nof envy,\nFather!!\nActually,\nI'm just\ndying!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            305,
+            1047,
+            393
+        ],
+        "text": "I swear it!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            452,
+            1119,
+            559
+        ],
+        "text": "GANK! GONK!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            884,
+            587,
+            981,
+            716
+        ],
+        "text": "He's the finest possible slave--one that doesn't even scream!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1152,
+            636,
+            1165,
+            674
+        ],
+        "text": ".....",
+        "panel_id": "5",
+        "type": "other"
+    }
+]

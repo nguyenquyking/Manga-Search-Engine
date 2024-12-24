@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            435,
+            33,
+            659,
+            208
+        ],
+        "text": "...What the Black Bulls are all about!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1249,
+            368,
+            1446,
+            489
+        ],
+        "text": "It appears you really don't understand.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

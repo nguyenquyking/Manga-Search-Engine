@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            66,
+            102,
+            120,
+            270
+        ],
+        "text": "HEY!! ARE YOU ALIVE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            632,
+            249,
+            745
+        ],
+        "text": "OH!!\nGOOD,\nTHEY'RE\nOUT NOW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            61,
+            456,
+            148
+        ],
+        "text": "GET UP,\nMASTER\nQUEEN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            642,
+            423,
+            730
+        ],
+        "text": "MASTER\nQUEEN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            610,
+            61,
+            757,
+            190
+        ],
+        "text": "THAT'S\nTHE REAL BIG MOM!\nSHE'S ON ANOTHER\nLEVEL\nENTIRELY!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            606,
+            237,
+            733,
+            334
+        ],
+        "text": "...IN\nJUST\nTWO\nHITS!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            616,
+            582,
+            742,
+            733
+        ],
+        "text": "AAAAH!! SHE\nKNOCKED OUT\nA GUY WORTH\n1.3 BILLION\nBELLY...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            840,
+            70,
+            919,
+            190
+        ],
+        "text": "WE GOTTA\nREPORT TO\nKAIDO!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            567,
+            1072,
+            742
+        ],
+        "text": "SHWOOO...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

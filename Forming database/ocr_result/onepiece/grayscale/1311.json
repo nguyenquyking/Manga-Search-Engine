@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            151,
+            87,
+            401,
+            313
+        ],
+        "text": "What's going on?! We're tipping over!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            142,
+            1150,
+            352,
+            1303
+        ],
+        "text": "Whoa, whoa, whoa, whoa!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            639,
+            108,
+            721,
+            296
+        ],
+        "text": "What was that?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            411,
+            846,
+            581
+        ],
+        "text": "Oh no!! The feast area's a total mess!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            1019,
+            751,
+            1232
+        ],
+        "text": "AAAAGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            775,
+            550,
+            974,
+            1016
+        ],
+        "text": "KRASH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            799,
+            237,
+            881,
+            324
+        ],
+        "text": "FWA FWA!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1134,
+            436,
+            1246,
+            580
+        ],
+        "text": "You okay over there?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1488,
+            141,
+            1598,
+            303
+        ],
+        "text": "Who's that?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1442,
+            396,
+            1561,
+            802
+        ],
+        "text": "GRRRG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1479,
+            838,
+            1630,
+            1012
+        ],
+        "text": "You just had to cause a scene!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1483,
+            1137,
+            1615,
+            1265
+        ],
+        "text": "Well, way to go.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1890,
+            820,
+            2000,
+            1016
+        ],
+        "text": "I heard the noise in the distance...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1928,
+            292,
+            2064,
+            495
+        ],
+        "text": "...and walked straight in this direction to see...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

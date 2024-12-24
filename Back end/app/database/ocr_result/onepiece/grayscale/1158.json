@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            827,
+            264,
+            903,
+            377
+        ],
+        "text": "DASH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            860,
+            72,
+            929,
+            174
+        ],
+        "text": "Straw Hat?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            562,
+            990,
+            660
+        ],
+        "text": "Don't push it, you guys!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            770,
+            896,
+            842
+        ],
+        "text": "Ting...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            892,
+            897,
+            968,
+            1008
+        ],
+        "text": "Zoro-Juro!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            62,
+            1112,
+            205
+        ],
+        "text": "That thing's a monster!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1249,
+            160,
+            1331,
+            272
+        ],
+        "text": "That was a close one!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1364,
+            69,
+            1436,
+            160
+        ],
+        "text": "Whoa!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1232,
+            845,
+            1289,
+            981
+        ],
+        "text": "Aaah!! The club!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

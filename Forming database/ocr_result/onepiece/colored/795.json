@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            69,
+            77,
+            96,
+            144
+        ],
+        "text": "HMM?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            642,
+            171,
+            741
+        ],
+        "text": "NORTHERN GRAVE-YARD,\nRINGO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            396,
+            66,
+            490,
+            171
+        ],
+        "text": "PLEASE...\nYOU NEED\nYOUR REST\nFOR NOW.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            782,
+            141,
+            861,
+            270
+        ],
+        "text": "YOU'LL\nREINJURE YOURSELF\nWALKING\nABOUT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            454,
+            556,
+            752
+        ],
+        "text": "EEK!!\nSWORDS!!!\nYOU SCARED ME!!\nKYA HA HA HA!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            956,
+            54,
+            1086,
+            190
+        ],
+        "text": "...FOR SAVING\nOUR LIVES\nEARLIER.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            967,
+            624,
+            1062,
+            726
+        ],
+        "text": "THANK\nYOU SO\nMUCH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

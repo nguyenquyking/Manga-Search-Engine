@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            68,
+            46,
+            148,
+            265
+        ],
+        "text": "SANJI?! I THOUGHT YOU WERE CHASING AFTER WOMEN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            349,
+            131,
+            492
+        ],
+        "text": "SANGORO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            231,
+            552,
+            291,
+            626
+        ],
+        "text": "URGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            441,
+            130,
+            531,
+            357
+        ],
+        "text": "GIVE BACK THE BOY!! HE MUST BE ELIMINATED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            66,
+            1040,
+            192
+        ],
+        "text": "HEY!! MOMO!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1201,
+            56,
+            1334,
+            209
+        ],
+        "text": "WAY TO DROP YOUR NAME LIKE A MAN!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            243,
+            1144,
+            336
+        ],
+        "text": "SANGO...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            428,
+            1078,
+            612
+        ],
+        "text": "TAKE MOMO, SHINOBU!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            627,
+            993,
+            822
+        ],
+        "text": "FWOO!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            950,
+            840,
+            1024,
+            979
+        ],
+        "text": "?! HMPH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1433,
+            446,
+            1508,
+            556
+        ],
+        "text": "MY LORD!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

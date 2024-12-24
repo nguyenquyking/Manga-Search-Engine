@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            22,
+            714,
+            77,
+            787
+        ],
+        "text": "KRK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            656,
+            41,
+            732,
+            168
+        ],
+        "text": "No... You must retreat...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            737,
+            623,
+            863
+        ],
+        "text": "Tomura...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1217,
+            59,
+            1330,
+            208
+        ],
+        "text": "...the boss...of me...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1242,
+            722,
+            1312,
+            860
+        ],
+        "text": "You're... not...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

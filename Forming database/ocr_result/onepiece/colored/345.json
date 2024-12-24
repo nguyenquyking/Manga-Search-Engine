@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            63,
+            77,
+            145,
+            219
+        ],
+        "text": "This would be like kidnapping royalty. Only causes trouble",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            64,
+            279,
+            166,
+            380
+        ],
+        "text": "Let's say I did like the guy.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            452,
+            166,
+            564
+        ],
+        "text": "He would've been a good addition, just in terms of muscle...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            608,
+            153,
+            730
+        ],
+        "text": "I feel bad for Oden, but we're shipping out in the middle of",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            217,
+            65,
+            312,
+            159
+        ],
+        "text": "We left a treasure chest as thanks, right?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            415,
+            57,
+            513,
+            154
+        ],
+        "text": "For all the food and lumber they gave us.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            60,
+            786,
+            146
+        ],
+        "text": "Hey, what's that?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            607,
+            621,
+            624,
+            727
+        ],
+        "text": "Swoop swoop",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            792,
+            612,
+            800,
+            726
+        ],
+        "text": "Woop woop!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            884,
+            49,
+            972,
+            140
+        ],
+        "text": "You're not going anywhere!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            174,
+            972,
+            302
+        ],
+        "text": "And I knew you would try this, Lord Oden!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            903,
+            357,
+            988,
+            451
+        ],
+        "text": "White-Beard!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            636,
+            987,
+            741
+        ],
+        "text": "I just knew you would try this!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

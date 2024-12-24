@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            132,
+            177,
+            191,
+            264
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            285,
+            226,
+            305,
+            305
+        ],
+        "text": "RAAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            337,
+            520,
+            423,
+            621
+        ],
+        "text": "HE BUSTED A HOLE IN THE FLOOR!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            558,
+            55,
+            605,
+            124
+        ],
+        "text": "WHO'S THAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            661,
+            635,
+            745
+        ],
+        "text": "AAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            700,
+            74,
+            767,
+            213
+        ],
+        "text": "FRANKY THE CYBORG!! TAKE CARE OF THIS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            649,
+            807,
+            740
+        ],
+        "text": "OH, RIGHT!! DOWN WAS AN OPTION!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            261,
+            907,
+            369
+        ],
+        "text": "MOMO, SHINOBU!! YOU OKAY?! ARE YOU CAUGHT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            877,
+            655,
+            943,
+            747
+        ],
+        "text": "MOMONO-SUKE!! SHINOBU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            957,
+            595,
+            1036,
+            689
+        ],
+        "text": "WE'LL ESCAPE THROUGH THE FLOOR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            68,
+            1096,
+            192
+        ],
+        "text": "LUFFY PUT ME IN CHARGE OF THESE TWO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1022,
+            270,
+            1094,
+            392
+        ],
+        "text": "NO!! WE'RE BEING RESCUED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

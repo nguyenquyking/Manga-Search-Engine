@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            33,
+            22,
+            403,
+            225
+        ],
+        "text": "It's been many years, and I've been unexpectedly transformed, but my intuition is screaming! You look like you're able to use some unusual magic!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            742,
+            347,
+            857
+        ],
+        "text": "What in the world kind of magic do you possess?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            332,
+            657,
+            484
+        ],
+        "text": "We can't help ya if ya don't.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            766,
+            644,
+            859
+        ],
+        "text": "All right, all right, m'lord, get back to your story.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            531,
+            87,
+            648,
+            157
+        ],
+        "text": "He really is the same magic emperor, huh...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            548,
+            178,
+            631,
+            340
+        ],
+        "text": "He's the same magic emperor, or...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            553,
+            278,
+            618,
+            334
+        ],
+        "text": "He's the same magic emperor, isn't he?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1055,
+            91,
+            1121,
+            183
+        ],
+        "text": "At this rate, I foresee...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            978,
+            205,
+            1082,
+            360
+        ],
+        "text": "So, the second and third problems concern close relations, but...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            967,
+            777,
+            1060,
+            852
+        ],
+        "text": "Sorry, sorry! Ha ha ha!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

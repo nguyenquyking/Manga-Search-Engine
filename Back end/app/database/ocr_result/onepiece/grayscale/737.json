@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            52,
+            613,
+            155,
+            741
+        ],
+        "text": "NEVER!! WE'RE NOT DYING HERE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            147,
+            50,
+            249,
+            134
+        ],
+        "text": "GET OUT OF HERE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            218,
+            645,
+            290,
+            742
+        ],
+        "text": "GET OFF, YOU BIG LIZARD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            77,
+            247,
+            93,
+            324
+        ],
+        "text": "GYAAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            325,
+            295,
+            439,
+            558
+        ],
+        "text": "GONK!! WHAM!! CRAK!! TEMPLE! JAW!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            346,
+            572,
+            456,
+            714
+        ],
+        "text": "GANK!! AIM FOR THE WEAK SPOTS, USOPP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            206,
+            421,
+            281
+        ],
+        "text": "ADAM'S APPLE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            113,
+            451,
+            182
+        ],
+        "text": "SOLAR PLEXUS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            490,
+            456,
+            506,
+            510
+        ],
+        "text": "YAAAA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            596,
+            72,
+            640,
+            177
+        ],
+        "text": "EYEBALLS! NOSTRILS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            62,
+            715,
+            131
+        ],
+        "text": "URGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            822,
+            59,
+            912,
+            224
+        ],
+        "text": "...I CAN GIVE A COMMAND TO ALL OF THE ENEMY FIGHTERS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            255,
+            906,
+            347
+        ],
+        "text": "IF WE CAN JUST REACH THE STAGE IN THE OPEN AREA...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            818,
+            385,
+            899,
+            458
+        ],
+        "text": "WEEZ HURF... WEEZ",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            809,
+            511,
+            881,
+            590
+        ],
+        "text": "WE'RE ALMOST THERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            618,
+            882,
+            741
+        ],
+        "text": "HANG IN THERE, KOMACHIYO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            973,
+            56,
+            1079,
+            165
+        ],
+        "text": "...THAT HORSELINA HELPED FEED MILLET DUMPLINGS",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

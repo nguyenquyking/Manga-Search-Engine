@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            179,
+            418,
+            240,
+            507
+        ],
+        "text": "WHIP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            189,
+            200,
+            327,
+            202
+        ],
+        "text": "SCREECH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            176,
+            1934,
+            249,
+            2032
+        ],
+        "text": "SHEEP CLOUD...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            402,
+            1885,
+            485,
+            2019
+        ],
+        "text": "RELAXING AWA!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            763,
+            1970,
+            846,
+            2077
+        ],
+        "text": "I'LL BLOW IT ALL AWAY WITH A GUST OF WIND!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            1294,
+            872,
+            1345
+        ],
+        "text": "AH!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            852,
+            1663,
+            881,
+            1736
+        ],
+        "text": "CYCLONE...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            880,
+            1194,
+            889,
+            1224
+        ],
+        "text": "CLACK!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            938,
+            731,
+            993,
+            772
+        ],
+        "text": "OH N-",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1007,
+            1574,
+            1120,
+            1702
+        ],
+        "text": "BENDING FINGER PISTOL!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            993,
+            1962,
+            1083,
+            2075
+        ],
+        "text": "IT'S NO GOOD...MY STRENGTH IS...!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1298,
+            763,
+            1345,
+            912
+        ],
+        "text": "MUST GET... CLIMA TACT...!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1319,
+            151,
+            1365,
+            215
+        ],
+        "text": "AHH!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1371,
+            1966,
+            1403,
+            2066
+        ],
+        "text": "CLASH!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

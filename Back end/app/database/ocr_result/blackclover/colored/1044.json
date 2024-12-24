@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            696,
+            64,
+            735,
+            358
+        ],
+        "text": "@Jutoon2/ColorClovers",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            746,
+            199,
+            801,
+            333
+        ],
+        "text": "The stronger...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            831,
+            61,
+            966,
+            225
+        ],
+        "text": "...the mage...\nthe more...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            112,
+            69,
+            184,
+            182
+        ],
+        "text": "...is the Supreme Devil",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            578,
+            211,
+            696
+        ],
+        "text": "The Underworld is ruled by three devils of gravity, time, and space.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            196,
+            442,
+            267,
+            547
+        ],
+        "text": "One of the devils who supports them...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            472,
+            37,
+            555,
+            131
+        ],
+        "text": "Don't do it, brother!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            448,
+            264,
+            543,
+            355
+        ],
+        "text": "Huh. Interesting...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            417,
+            523,
+            504
+        ],
+        "text": "A Supreme Devil!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            27,
+            1005,
+            113
+        ],
+        "text": "Morgen!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

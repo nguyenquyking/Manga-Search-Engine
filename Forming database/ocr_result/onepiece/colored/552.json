@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            86,
+            63,
+            147,
+            157
+        ],
+        "text": "Bandit's Bridge,\nRingo",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            73,
+            659,
+            138,
+            715
+        ],
+        "text": "The Next Day...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            375,
+            244,
+            468,
+            349
+        ],
+        "text": "Are you friend or foe?! Who are you?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            386,
+            627,
+            458,
+            731
+        ],
+        "text": "What's your deal, anyway?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            573,
+            45,
+            680,
+            164
+        ],
+        "text": "Don't waste your life for the sake of one measly weapon!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            190,
+            649,
+            285
+        ],
+        "text": "Give back my sword already!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            580,
+            502,
+            618,
+            590
+        ],
+        "text": "What are you trying",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            617,
+            673,
+            725
+        ],
+        "text": "Why do you keep stealing the weapons of people passing through?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            649,
+            890,
+            716
+        ],
+        "text": "Huff...Huff...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            894,
+            60,
+            946,
+            130
+        ],
+        "text": "Weez...Weez...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            831,
+            1373,
+            911,
+            1503
+        ],
+        "text": "DEMON-DESTROYER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            996,
+            490,
+            1021,
+            570
+        ],
+        "text": "What?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            106,
+            1445,
+            91,
+            1500
+        ],
+        "text": "ZWAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            130,
+            162,
+            223,
+            269
+        ],
+        "text": "There is no limit to the sky above!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            108,
+            320,
+            225,
+            431
+        ],
+        "text": "Brothers!! See how bright and warm it shines!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            128,
+            586,
+            190,
+            718
+        ],
+        "text": "Father... It is the sun!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            265,
+            66,
+            362,
+            197
+        ],
+        "text": "And no limit to the sea beyond, glittering in",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            616,
+            92,
+            702,
+            214
+        ],
+        "text": "It sure is a pretty sight! Mambo!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            823,
+            27,
+            902,
+            153
+        ],
+        "text": "What a beautiful world!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            774,
+            142,
+            878,
+            273
+        ],
+        "text": "I never knew the surface would be so wonderful!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            975,
+            110,
+            1092,
+            266
+        ],
+        "text": "You're right. The light from the Sun Tree on the ocean floor is nothing compared to this.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            86,
+            872,
+            184,
+            966
+        ],
+        "text": "Hmm? What is it, Shirahoshi?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            1083,
+            625,
+            1150
+        ],
+        "text": "We're so high...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            770,
+            1083,
+            807,
+            1146
+        ],
+        "text": "It's amazing",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            144,
+            623,
+            205,
+            724
+        ],
+        "text": "AND THIS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            621,
+            37,
+            741,
+            176
+        ],
+        "text": "...is my rightful Red Rose.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            868,
+            616,
+            1007,
+            769
+        ],
+        "text": "True Briar Magic:",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1064,
+            276,
+            1148,
+            368
+        ],
+        "text": "AT THIS POINT...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

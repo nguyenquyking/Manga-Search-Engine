@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            48,
+            104,
+            141,
+            205
+        ],
+        "text": "The true key- ...is this stone to my broth",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            125,
+            258,
+            210,
+            354
+        ],
+        "text": "Whoops! I almost forgot the star of my own dish!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            418,
+            170,
+            477
+        ],
+        "text": "What's special about that?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            622,
+            160,
+            713
+        ],
+        "text": "Wait. Those are all average ingredients.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            319,
+            424,
+            350
+        ],
+        "text": "Wha...? ",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            358,
+            376,
+            511,
+            715
+        ],
+        "text": "Pwoof\nBUBL BUBL BUBL BUBL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            541,
+            601,
+            573,
+            639
+        ],
+        "text": "Doom",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            795,
+            177,
+            959,
+            286
+        ],
+        "text": "Koi\nFish?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            938,
+            62,
+            977,
+            119
+        ],
+        "text": "It's huge!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

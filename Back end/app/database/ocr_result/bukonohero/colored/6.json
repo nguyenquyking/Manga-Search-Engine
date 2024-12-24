@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            13,
+            492,
+            111,
+            671
+        ],
+        "text": "MEANWHILE,\n200 KM\nOFFSHORE...\n...IN THE\nPACIFIC OCEAN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            148,
+            91,
+            162,
+            213
+        ],
+        "text": "OKUTO ISLAND",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            362,
+            21,
+            508,
+            171
+        ],
+        "text": "BUT THE CROWN JEWEL OF THE ISLAND IS OKUTO AQUARIUM, WHICH ATTRACTS BOTH DOMESTIC AND INTERNATIONAL TOURISTS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            364,
+            327,
+            416,
+            427
+        ],
+        "text": "...AND A NUMBER OF RESORTS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            362,
+            471,
+            455,
+            640
+        ],
+        "text": "A SOUTHERN ISLAND WITH WIDE SHOALS, GORGEOUS VIEWS OF THE OCEAN...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            934,
+            21,
+            988,
+            167
+        ],
+        "text": "INCOMING!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            793,
+            567,
+            940,
+            677
+        ],
+        "text": "THE AQUARIUM'S DIRECTOR IS NONE OTHER THAN KUGO SAKAMATA,\nA.K.A. GANG ORCA.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1106,
+            147,
+            1133,
+            327
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

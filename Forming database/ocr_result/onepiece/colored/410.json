@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            106,
+            63,
+            229,
+            171
+        ],
+        "text": "I WOULD\nDIE FOR\nTHAT\nMAN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            283,
+            70,
+            348,
+            150
+        ],
+        "text": "HOW IS\nTHAT NOT\nCRYING?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            408,
+            150,
+            503
+        ],
+        "text": "LISTEN\nTO ME,\nOTSURU",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            539,
+            140,
+            625
+        ],
+        "text": "NO!!\nI'M NOT\nCRYING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            649,
+            141,
+            727
+        ],
+        "text": "ARE YOU\nCRYING,\nKIN?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            424,
+            66,
+            525,
+            171
+        ],
+        "text": "NO, I'M\nINFATUATED\nMORE! I'LL\nBE HIS FIRST\nFOLLOWER!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            489,
+            505,
+            591
+        ],
+        "text": "HEY!\nWAIT UP,\nDENJIRO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            630,
+            496,
+            744
+        ],
+        "text": "AGREED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            501,
+            630,
+            591
+        ],
+        "text": "I WAS\nINFATUATED\nWITH HIM\nFIRST!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            53,
+            811,
+            203
+        ],
+        "text": "RIGHT THIS\nWAY, LORD ODEN!!\nAN HONOR TO\nMEET YOU, SIR!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            243,
+            786,
+            348
+        ],
+        "text": "HAKUMAI,\nWANO",
+        "panel_id": "3",
+        "type": "sign"
+    },
+    {
+        "text_box": [
+            711,
+            428,
+            804,
+            581
+        ],
+        "text": "THEY SAY THAT THE\nONE HESITANT STEP\nOF ALL THE MEN WHO\nWISHED THEY COULD\nGO WITH ODEN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            708,
+            648,
+            784,
+            737
+        ],
+        "text": "MUST BE\nNICE TO BE\nAS FREE AS\nTHEY ARE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            54,
+            943,
+            193
+        ],
+        "text": "LORD YASUIE\nIS AWAITING\nYOU EAGERLY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            58,
+            1111,
+            173
+        ],
+        "text": "LIAR!! HE\nHASN'T BEEN\nWAITING\nFOR ME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            425,
+            1134,
+            549
+        ],
+        "text": "...CAUSED THE\nCAPITAL ITSELF\nTO TILT, EVER\nSO SLIGHTLY...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1062,
+            649,
+            1132,
+            736
+        ],
+        "text": "I WISH\nI COULD\nGO TOO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

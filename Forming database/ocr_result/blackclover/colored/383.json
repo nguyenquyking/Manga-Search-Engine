@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            85,
+            123,
+            288,
+            196
+        ],
+        "text": "NOELLE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            433,
+            180,
+            571
+        ],
+        "text": "My spell makes it hard for blood to congeal, yet even in here she's still this powerful!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            251,
+            433,
+            367,
+            521
+        ],
+        "text": "Ordinary attacks really won't be enough to defeat her!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            501,
+            453,
+            584
+        ],
+        "text": "WHROOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

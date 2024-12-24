@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            740,
+            114,
+            780,
+            395
+        ],
+        "text": "Twitter: @ColorClover",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            743,
+            517,
+            782,
+            791
+        ],
+        "text": "Artist: @xCatharsys",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            826,
+            247,
+            877,
+            318
+        ],
+        "text": "WHAT...!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1101,
+            61,
+            1194,
+            175
+        ],
+        "text": "WHAT IS THE MEANING OF THIS, SIR GAJA!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            68,
+            72,
+            111,
+            166
+        ],
+        "text": "Ha ha\nHa ha ha!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            304,
+            144,
+            397
+        ],
+        "text": "...At least I know I'll never miss a meal!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            485,
+            123,
+            592
+        ],
+        "text": "Hey, if I stick around with you, friend...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            649,
+            178,
+            727
+        ],
+        "text": "Ruins,\nKibi,\nWano",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            96,
+            197,
+            134,
+            274
+        ],
+        "text": "Just shut up for a bit.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            391,
+            380,
+            466,
+            459
+        ],
+        "text": "How kind of you to tell me to shut up!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            391,
+            697,
+            439,
+            752
+        ],
+        "text": "Well,\nwell!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            61,
+            848,
+            196
+        ],
+        "text": "What a hunk!\nWhat a stud!\nThe girls must never leave you alone, my young friend!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            754,
+            304,
+            846,
+            445
+        ],
+        "text": "It's a clever way to spare my throat the rigors of speech, and I thankee warmly!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            599,
+            831,
+            722
+        ],
+        "text": "Sycophant\nTonoyasu\nAka: Yasu",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            920,
+            349,
+            1009,
+            467
+        ],
+        "text": "Now don't you go bein' a fool and thankin' me!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            57,
+            1120,
+            162
+        ],
+        "text": "It said, if I follow this gentleman, he'll lead me true!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1058,
+            352,
+            1116,
+            476
+        ],
+        "text": "I merely had a bolt of inspiration out",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            654,
+            1038,
+            741
+        ],
+        "text": "Listen, I appreciate you paying for the sushi and all...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

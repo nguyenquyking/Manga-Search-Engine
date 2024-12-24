@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            351,
+            63,
+            440,
+            174
+        ],
+        "text": "But I'm also Kaido's son, the man who killed Oden.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            367,
+            734,
+            426,
+            807
+        ],
+        "text": "I call myself Oden...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            757,
+            153,
+            822,
+            264
+        ],
+        "text": "...in a scramble for that bowl of rice?!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            743,
+            400,
+            822,
+            490
+        ],
+        "text": "Does Father expect them to kill each other...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            538,
+            702,
+            644,
+            808
+        ],
+        "text": "These samurai must hate me for that!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            923,
+            104,
+            1008,
+            198
+        ],
+        "text": "They're bound to kill me first!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            599,
+            995,
+            672
+        ],
+        "text": "But... But...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

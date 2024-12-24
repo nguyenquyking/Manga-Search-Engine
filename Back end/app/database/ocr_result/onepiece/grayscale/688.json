@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            30,
+            132,
+            133,
+            312
+        ],
+        "text": "MWA HA HA HA!\nA guy who's winning wouldn't be panting like that, Raccoon Dog!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            377,
+            108,
+            444
+        ],
+        "text": "Weez, Weez...\nHuff...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            500,
+            116,
+            575
+        ],
+        "text": "Owww!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            49,
+            616,
+            136,
+            733
+        ],
+        "text": "Serves you right, Queen,\nyou back-stabber!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            51,
+            177,
+            110
+        ],
+        "text": "Weez, Weez...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            367,
+            68,
+            429,
+            166
+        ],
+        "text": "Shu ho ho! That's pointless.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            351,
+            213,
+            550,
+            327
+        ],
+        "text": "I'm finally able to extend my monster time, and already I have less than ten minutes left!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            351,
+            409,
+            429,
+            485
+        ],
+        "text": "Dammit!! Nothing seems to hurt Queen!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            357,
+            515,
+            433,
+            631
+        ],
+        "text": "Let's see how long you can hold out, Perorin!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            674,
+            411,
+            759
+        ],
+        "text": "Kuh kuh kuh!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            664,
+            57,
+            770,
+            168
+        ],
+        "text": "\"Rumble Balls\"?\nLook at that sloppy work!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            677,
+            380,
+            739,
+            467
+        ],
+        "text": "What?!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            674,
+            498,
+            764,
+            598
+        ],
+        "text": "But if I'm in monster form any longer than that...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            646,
+            761,
+            730
+        ],
+        "text": "Just three minutes?! What can you do with that?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            820,
+            163,
+            836,
+            284
+        ],
+        "text": "Shu ho ho ho!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            866,
+            363,
+            927,
+            457
+        ],
+        "text": "Get this list of chemicals...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            53,
+            1000,
+            138
+        ],
+        "text": "Sure, there are risks...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            336,
+            1099,
+            466
+        ],
+        "text": "...and you can stretch that gigantification time to 30 minutes!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            55,
+            1116,
+            149
+        ],
+        "text": "...but you're not a coward, are you?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            488,
+            1112,
+            700
+        ],
+        "text": "Then what? Are you so precious about your looks?! And you call yourself a pirate!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

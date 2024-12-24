@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            264,
+            321,
+            281,
+            420
+        ],
+        "text": "EEYAAAAAAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            280,
+            486,
+            289,
+            559
+        ],
+        "text": "FWAAP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            444,
+            277,
+            466,
+            347
+        ],
+        "text": "HEEEENG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            525,
+            401,
+            530,
+            466
+        ],
+        "text": "SHWAP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            575,
+            35,
+            648,
+            156
+        ],
+        "text": "FSHOOO... THUD",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            687,
+            246,
+            762,
+            350
+        ],
+        "text": "IT'S LIKE SOMETHING FROM A COMIC STRIP...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            843,
+            65,
+            928,
+            132
+        ],
+        "text": "YOU CANNOT DEFEAT ME.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            182,
+            907,
+            287
+        ],
+        "text": "BUT YOU'VE REACHED YOUR LIMIT, HAVEN'T YOU?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            314,
+            917,
+            415
+        ],
+        "text": "WELL, THAT WAS A VERY ENTERTAINING SHOW.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            659,
+            875,
+            729
+        ],
+        "text": "OOOF!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1060,
+            57,
+            1112,
+            135
+        ],
+        "text": "SHUD-DUP!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            1010,
+            368,
+            1071,
+            474
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1458,
+            659,
+            1572,
+            788
+        ],
+        "text": "Just you wait...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1550,
+            106,
+            1630,
+            252
+        ],
+        "text": "VANICA!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1784,
+            828,
+            2058,
+            1063
+        ],
+        "text": "I wonder what happened! I wonder how those work! Think they'll let me research them later?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1810,
+            1220,
+            2023,
+            1444
+        ],
+        "text": "Woooow!! They're using those arrays to keep their attacks from hitting their allies...",
+        "panel_id": "2",
+        "type": "thought"
+    }
+]

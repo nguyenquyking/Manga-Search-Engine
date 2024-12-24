@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            298,
+            314,
+            323,
+            412
+        ],
+        "text": "GREIISH",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            596,
+            264,
+            634,
+            421
+        ],
+        "text": "GREIISH",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            642,
+            226,
+            664,
+            418
+        ],
+        "text": "DeviantART | GreciiA_ZZ",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1334,
+            77,
+            1422,
+            292
+        ],
+        "text": "KAIDO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1518,
+            158,
+            1537,
+            301
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1318,
+            827,
+            1458,
+            1035
+        ],
+        "text": "I'M HAVING THE TIME OF MY LIFE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1539,
+            695,
+            1574,
+            819
+        ],
+        "text": "GREIISH",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

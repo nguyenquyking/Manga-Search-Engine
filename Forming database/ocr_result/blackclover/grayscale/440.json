@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            113,
+            253,
+            172,
+            323
+        ],
+        "text": "You really are...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            284,
+            56,
+            323,
+            135
+        ],
+        "text": "detestable.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            835,
+            73,
+            936,
+            189
+        ],
+        "text": "...Yami Sukehiro.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            820,
+            916,
+            929
+        ],
+        "text": "Thank you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            28,
+            34,
+            219,
+            234
+        ],
+        "text": "Our little back-and-forth thus far told me new order can only affect two things at once, so I also knew that the situation was about to shift.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            28,
+            273,
+            132,
+            401
+        ],
+        "text": "I knew she was preparing something big for me.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            333,
+            31,
+            530,
+            159
+        ],
+        "text": "If I'd run and hid before the big something hit, she would've caught me in the act and adapted.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            330,
+            274,
+            487,
+            402
+        ],
+        "text": "The instant that shift came, I wasted no time in using decay to tunnel into the earth.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            628,
+            9,
+            745,
+            124
+        ],
+        "text": "A second's delay would've been a fatal error.",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            622,
+            251,
+            720,
+            370
+        ],
+        "text": "It was a gamble that relied on exact timing!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            527,
+            538,
+            567,
+            648
+        ],
+        "text": "I can control...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            130,
+            949,
+            196
+        ],
+        "text": "I'm just playing along...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            318,
+            981,
+            403
+        ],
+        "text": "He used the Nomu as a decoy!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            83,
+            1095,
+            175
+        ],
+        "text": "...with your nasty game of hot potato.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            588,
+            1053,
+            699
+        ],
+        "text": "...what my decay affects.",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

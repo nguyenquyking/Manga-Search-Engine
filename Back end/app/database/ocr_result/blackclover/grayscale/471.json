@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            73,
+            81,
+            187,
+            266
+        ],
+        "text": "GL",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            129,
+            343,
+            220,
+            480
+        ],
+        "text": "Th-th-th-Thank goodness!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            284,
+            283,
+            422,
+            420
+        ],
+        "text": "OMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            504,
+            542,
+            523,
+            644
+        ],
+        "text": "GAUCHE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            843,
+            481,
+            912
+        ],
+        "text": "What...did I...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            707,
+            469,
+            785,
+            555
+        ],
+        "text": "My, my! What's going on over there?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            77,
+            822,
+            156
+        ],
+        "text": "What's the matter, Mister Yami?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            663,
+            777,
+            754
+        ],
+        "text": "I'm sorry- yyyyy!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            774,
+            785,
+            936
+        ],
+        "text": "Huh?! Eep! Hey... Grey.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            758,
+            860,
+            795
+        ],
+        "text": "Eeep!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1027,
+            168,
+            1136,
+            298
+        ],
+        "text": "Well, we nabbed the enemy's top devil host.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1152,
+            30,
+            1249,
+            133
+        ],
+        "text": "This'll make for a decent happy ending...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            705,
+            1161,
+            865
+        ],
+        "text": "Even if he's on his way out, we should tie that guy up tight.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1363,
+            380,
+            1491,
+            563
+        ],
+        "text": "You caused me one helluva lot of trouble, you hardcore psycho stalker freak.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1448,
+            774,
+            1516,
+            831
+        ],
+        "text": "Oh, very true.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

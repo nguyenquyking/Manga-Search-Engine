@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            142,
+            526,
+            163,
+            613
+        ],
+        "text": "Undine",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            176,
+            1024,
+            350,
+            1260
+        ],
+        "text": "I WANTED HER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            663,
+            691,
+            886,
+            894
+        ],
+        "text": "BUT AS A RESULT...\nSHE WAS\nCURSED,\nAND THEN\nKIDNAPPED.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1205,
+            78,
+            1306,
+            299
+        ],
+        "text": "I WAS\nWRONG!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1341,
+            1057,
+            1505,
+            1223
+        ],
+        "text": "...TO\nSTAY\nKIND.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1852,
+            349,
+            1902,
+            491
+        ],
+        "text": "Yes...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

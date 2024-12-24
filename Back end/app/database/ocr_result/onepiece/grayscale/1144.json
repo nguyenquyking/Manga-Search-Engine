@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            83,
+            101,
+            193,
+            268
+        ],
+        "text": "OH, DRAAAAAKE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            27,
+            377,
+            184,
+            1006
+        ],
+        "text": "DUN DUNDUN GYAAAA!! AAHH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            561,
+            93,
+            720,
+            275
+        ],
+        "text": "DON'T THINK YOU CAN JUST WALTZ OUT OF HERE, YOU TRAITOR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            96,
+            958,
+            192
+        ],
+        "text": "NO!! MAKE THAT SPY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            909,
+            801,
+            1032
+        ],
+        "text": "MWA HA HA HA HA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            132,
+            1200,
+            300
+        ],
+        "text": "UNLESS... THESE BULLETS--!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            372,
+            1265,
+            481
+        ],
+        "text": "DID YOU REALLY THINK YOU COULD KILL ME WITH THAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1116,
+            511,
+            1196,
+            622
+        ],
+        "text": "THAT WAS A WEIRD WEAPON...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1120,
+            663,
+            1176,
+            782
+        ],
+        "text": "AAAH!! IT HURTS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1248,
+            898,
+            1321,
+            1028
+        ],
+        "text": "HEY! YOU'RE GOING TO BE ALL RIGHT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1489,
+            407,
+            1513,
+            447
+        ],
+        "text": "?!",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

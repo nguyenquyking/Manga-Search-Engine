@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            120,
+            194,
+            308,
+            447
+        ],
+        "text": "...We can avoid the whirlpools that keep ships at bay...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            110,
+            524,
+            302,
+            707
+        ],
+        "text": "If we take this submarine around the back...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            425,
+            110,
+            619,
+            345
+        ],
+        "text": "...and I can use my power to send you onto the island.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            1101,
+            289,
+            1284
+        ],
+        "text": "There's just one way\u2014the sea!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            92,
+            948,
+            290
+        ],
+        "text": "Got it. So the rest of us will be together...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            393,
+            1034,
+            568
+        ],
+        "text": "I will take the other side of the mountains! You send the rest of them in!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            633,
+            1017,
+            813
+        ],
+        "text": "That is a good point! Then we should have one of us for each path!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            872,
+            1004,
+            1082
+        ],
+        "text": "...But at the very least, I must be there to lead the troops.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            1134,
+            948,
+            1313
+        ],
+        "text": "Ahh. That would be most appreciated, Sir Law...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1254,
+            73,
+            1352,
+            296
+        ],
+        "text": "...an' use our full strength against Kaido!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1531,
+            293,
+            1656,
+            570
+        ],
+        "text": "Wait, I don't see the Straw Hats' ship!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1527,
+            708,
+            1684,
+            947
+        ],
+        "text": "Well done, Kin! You're so thorough and thoughtful!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1527,
+            1003,
+            1697,
+            1314
+        ],
+        "text": "Perfect!! Just as I planned it!! We'll go with this strategy!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

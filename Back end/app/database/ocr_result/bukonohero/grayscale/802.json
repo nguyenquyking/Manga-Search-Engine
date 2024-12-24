@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            72,
+            553,
+            175,
+            682
+        ],
+        "text": "WHAT THE HELL DO YOU KNOW, MOM?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            74,
+            444,
+            213
+        ],
+        "text": "WHERE'DJA GET THAT TIDBIT? SOME SELF-HELP BOOK?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            642,
+            88,
+            717,
+            167
+        ],
+        "text": "YOU HAD NO CHOICE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            214,
+            693,
+            291
+        ],
+        "text": "...SO THEY HAD TO SELL YOU OFF.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            317,
+            693,
+            422
+        ],
+        "text": "I KNOW ABOUT GRANDMA AND THEM BEING REAL POOR...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            173,
+            928,
+            305
+        ],
+        "text": "THAT'S WHY I WAS BORN, RIGHT?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1021,
+            357,
+            1043,
+            400
+        ],
+        "text": "TO-",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

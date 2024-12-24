@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            46,
+            1332,
+            239,
+            1510
+        ],
+        "text": "WE'LL TAKE IT DOWN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            187,
+            495,
+            230,
+            732
+        ],
+        "text": "INSTANTLY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            47,
+            845,
+            123
+        ],
+        "text": "WATCH ME, I'M GONNA...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            257,
+            764,
+            362
+        ],
+        "text": "MAGIC PARLIAMENT GUY.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            976,
+            18,
+            1009,
+            75
+        ],
+        "text": "THAT'S!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            203,
+            1049,
+            269
+        ],
+        "text": "WHAT'S GOING ON?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

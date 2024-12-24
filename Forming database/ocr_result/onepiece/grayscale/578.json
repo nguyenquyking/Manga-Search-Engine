@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            56,
+            58,
+            122,
+            148
+        ],
+        "text": "DERESHI SHI SHI!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            32,
+            494,
+            116,
+            597
+        ],
+        "text": "I'VE BEEN DYIN' TO SEE YOU AGAIN, ROBIN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            638,
+            133,
+            736
+        ],
+        "text": "SAUL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            395,
+            177,
+            459,
+            255
+        ],
+        "text": "BUT WHY ARE YOU HERE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            613,
+            476,
+            679
+        ],
+        "text": "DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            667,
+            60,
+            687,
+            164
+        ],
+        "text": "AND I TOO!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            668,
+            206,
+            691,
+            300
+        ],
+        "text": "SO HAVE I.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            438,
+            596,
+            526
+        ],
+        "text": "I'VE MISSED YOU SO MUCH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            80,
+            887,
+            182
+        ],
+        "text": "STOP, ROBIN!! DON'T GO!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            566,
+            861,
+            655
+        ],
+        "text": "LOOK HOW BIG YOU ARE NOW, ROBIN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

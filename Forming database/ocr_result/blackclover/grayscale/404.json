@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            123,
+            86,
+            316,
+            247
+        ],
+        "text": "...What we've been waiting for!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            692,
+            66,
+            865,
+            179
+        ],
+        "text": "Knowing her, I'm sure she'll start using the devil's power!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            231,
+            854,
+            354
+        ],
+        "text": "Increase the amount of blood she sheds and get her to use up her power.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            672,
+            800,
+            892,
+            922
+        ],
+        "text": "We'll make Vanica expend all the devil power she can currently use.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1080,
+            444,
+            1276,
+            604
+        ],
+        "text": "Then, the moment she's released all the devil's power, we'll play our trump card!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1129,
+            868,
+            1281,
+            988
+        ],
+        "text": "As we are now, we should be able to sustain a fight with her!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1275,
+            80,
+            1388,
+            212
+        ],
+        "text": "That's you. The Arcane Stage-",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            76,
+            287,
+            185,
+            507
+        ],
+        "text": "FLAME-REND!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            73,
+            733,
+            184,
+            848
+        ],
+        "text": "IT NEVER EVEN OCCURRED TO ME.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            203,
+            68,
+            480,
+            665
+        ],
+        "text": "BOOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            481,
+            738,
+            544,
+            859
+        ],
+        "text": "FOXFIRE STYLE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            153,
+            1870,
+            316,
+            2064
+        ],
+        "text": "BLAST BREATH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1011,
+            426,
+            1174,
+            652
+        ],
+        "text": "ONCE WE'VE TAKEN YOUR HEAD, THAT IS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1012,
+            748,
+            1168,
+            981
+        ],
+        "text": "JUST LET US DIE!!! AS LORD ODEN'S SAMURAI!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            1158,
+            1184,
+            1322
+        ],
+        "text": "WE'RE TIRED OF RUNNING!! TIRED OF HIDING!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            1382,
+            1172,
+            1546
+        ],
+        "text": "RUN? DON'T MAKE ME LAUGH!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            57,
+            504,
+            138,
+            582
+        ],
+        "text": "QUICK! HELP JACK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            631,
+            107,
+            715
+        ],
+        "text": "TREASURE ROOM,\n2ND FLOOR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            111,
+            40,
+            175,
+            130
+        ],
+        "text": "DON'T LET THEM GET PAST!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            319,
+            109,
+            386
+        ],
+        "text": "RAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            251,
+            146,
+            256,
+            260
+        ],
+        "text": "DUN DUN DUN",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            279,
+            604,
+            314,
+            734
+        ],
+        "text": "PAWOOO!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            512,
+            50,
+            628,
+            185
+        ],
+        "text": "...FOR GOING INTO RUIN TO\nUPHOLD THE LIE ABOUT THE\nSAMURAI!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            599,
+            601,
+            725
+        ],
+        "text": "I KNOW YOU\nCAN'T GO ANY\nLONGER! SLEEP,\nKING OF THE\nDAY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            659,
+            620,
+            725,
+            717
+        ],
+        "text": "I FORGIVE\nYOUR\nCOUNTRY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            757,
+            50,
+            794,
+            555
+        ],
+        "text": "WEEZ...\nWEEZ...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            878,
+            160,
+            932,
+            230
+        ],
+        "text": "WEEZ,\nWEEZ...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1032,
+            197,
+            1106,
+            306
+        ],
+        "text": "WE WOULD\nBE SO\nASHAMED...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            877,
+            658,
+            925,
+            726
+        ],
+        "text": "WEEZ,\nWEEZ!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1023,
+            607,
+            1116,
+            719
+        ],
+        "text": "IF WE\nHAD HANDED\nOVER RAIZO\nTO DIE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

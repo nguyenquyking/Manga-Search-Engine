@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            62,
+            187,
+            144,
+            292
+        ],
+        "text": "So is he the next in line, brother?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            580,
+            158,
+            718
+        ],
+        "text": "Since my brother is as obstinate as I am.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            952,
+            151,
+            1036,
+            305
+        ],
+        "text": "It's such a shame that I could never make you mine!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

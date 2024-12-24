@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            48,
+            572,
+            98,
+            625
+        ],
+        "text": "YOU'VE GOT IT ALL WRONG!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            497,
+            135,
+            553
+        ],
+        "text": "PLEASE, LEAVE ME ALONE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            581,
+            600,
+            588,
+            635
+        ],
+        "text": "BLAM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            478,
+            118,
+            567,
+            264
+        ],
+        "text": "I HAVEN'T DONE ANYTHING WRONG! I'M JUST SCARED! PLEASE, STOP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            71,
+            676,
+            122
+        ],
+        "text": "BLAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            954,
+            408,
+            978,
+            500
+        ],
+        "text": "NOOO!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            572,
+            1071,
+            677
+        ],
+        "text": "YEAH, RIGHT! YOU'RE TRYING TO GET US TO DROP OUR GUARD AND THEN YOU'LL STRIKE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

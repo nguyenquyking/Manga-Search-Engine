@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            35,
+            170,
+            66,
+            569
+        ],
+        "text": "Hello to everyone at Jump Festa.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            61,
+            139,
+            682
+        ],
+        "text": "And everyone watching, hello! I'm Eiichiro Oda,\ndual wielder of both back pain and stiff shoulders!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            148,
+            60,
+            397,
+            682
+        ],
+        "text": "Well, this year has been a year of parties, starting with a 1000 chapter party of the manga, followed by a 100th volume party, and then a 1000 episode party of the anime. I hope you enjoyed the various projects. Did you enjoy it? We also had some announcements. The cast of the Hollywood live-action ONE PIECE was announced! It's perfect!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            406,
+            43,
+            475,
+            698
+        ],
+        "text": "Those five guys are really good! The production is still moving forward slowly and carefully. And the movie",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            481,
+            58,
+            622,
+            683
+        ],
+        "text": "\"RED\"! Who's the girl? Shanks is still a mysterious character. What is his relationship with the girl? Is he going to meet Luffy? It's the first time that",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            630,
+            54,
+            733,
+            688
+        ],
+        "text": "Shanks will appear in a movie like this, right? He's coming out! I've been stopped from announcing anything, but I don't care, the one who speaks first wins! And next year is the 25th anniversary of the",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            742,
+            42,
+            1066,
+            699
+        ],
+        "text": "manga! The people in charge of the manga are planning all sorts of things for it, so please enjoy it! As for the main story, I'm surprised that Wano-kuni isn't over yet, but anyway, Luffy! Please pay attention to the main character! I hope I can draw him well! I've been wanting to draw the last scene of Wano-kuni for a long time. Aaah! So, I'll be super excited about ONE PIECE next year. Please support me!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1095,
+            31,
+            1209,
+            696
+        ],
+        "text": "He even made a pun to change his name from Oda Eiichiro (\u5c0f\u7530\u745b\u4e00\u90ce) to \u5c0f\u7530\u8c37\u7fd4\u5e73 (Odani Shohei). Note that Otani Shohei is a two-way baseball player from Japan who does pitching and hitting in MLB and became an MVP in American League this year.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1251,
+            72,
+            1283,
+            222
+        ],
+        "text": "2021.12",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

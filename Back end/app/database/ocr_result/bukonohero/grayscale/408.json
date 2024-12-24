@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            85,
+            62,
+            168,
+            151
+        ],
+        "text": "HERO KILLER STAIN!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            571,
+            182,
+            703
+        ],
+        "text": "TAKE IT BACK, YOU WITLESS FOOL.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            681,
+            37,
+            808,
+            206
+        ],
+        "text": "OUR FACE-TO-FACE MEETING GOT DELAYED, BUT I NEVER IMAGINED WE'D MEET LIKE THIS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            548,
+            757,
+            678
+        ],
+        "text": "YOU NEVER CROSSED MY PATH BACK WHEN I WAS STILL ON THE JOB.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            32,
+            1069,
+            137
+        ],
+        "text": "YOU SEE, I AM ALL MIGHT. IN THE FLESH.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            172,
+            1053,
+            277
+        ],
+        "text": "SURE, SURE... YOU MISSED A LOT WHILE YOU WERE LOCKED UP.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            413,
+            1032,
+            529
+        ],
+        "text": "EXPLAIN YOURSELF.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1093,
+            4,
+            1128,
+            102
+        ],
+        "text": "Not that you'd know it, looking at me.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

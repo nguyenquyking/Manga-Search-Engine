@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            150,
+            343,
+            120,
+            474
+        ],
+        "text": "WHROOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            609,
+            82,
+            1397,
+            740
+        ],
+        "text": "Point-Blank\nSea Dragon's\nRoar\nRed Beast",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            484,
+            1300,
+            1665,
+            1403
+        ],
+        "text": "LOLOPECHKA!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1701,
+            1151,
+            1736,
+            1268
+        ],
+        "text": "BLOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

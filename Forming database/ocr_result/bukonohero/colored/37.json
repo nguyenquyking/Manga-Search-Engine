@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            38,
+            213,
+            164,
+            327
+        ],
+        "text": "Another day of dear old Dad strutting around under the sun?\nI can't stand it.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            332,
+            117,
+            387
+        ],
+        "text": "Nah, screw that.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            570,
+            222,
+            725
+        ],
+        "text": "I'm sorry to have to do this after all your prepping, but the rest of you will need to remain on standby a bit longer.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            277,
+            391,
+            338
+        ],
+        "text": "Listen well...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            85,
+            533,
+            253
+        ],
+        "text": "When I find myself with a goal, I'm sure to plan out a number of... routes to the goal, shall we say.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            333,
+            411,
+            349,
+            459
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            359,
+            520,
+            495,
+            639
+        ],
+        "text": "We have much in common, you and I, but let me tell you how we differ.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            327,
+            652,
+            388,
+            714
+        ],
+        "text": "My dear Toya...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            69,
+            827,
+            194
+        ],
+        "text": "A route that inevitably achieves my ends.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            644,
+            569,
+            766,
+            689
+        ],
+        "text": "To be exact, I weave my plots years or even decades prior...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            862,
+            522,
+            960,
+            653
+        ],
+        "text": "...so that I may employ a viable route when the time comes.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

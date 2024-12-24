@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            770,
+            347,
+            836,
+            417
+        ],
+        "text": "JUST YOU WAIT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            817,
+            53,
+            865,
+            136
+        ],
+        "text": "VANICA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            439,
+            1091,
+            564
+        ],
+        "text": "I WONDER WHAT HAPPENED!\nI WONDER HOW THOSE WORK!\nTHINK THEY'LL LET ME\nRESEARCH THEM LATER?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            957,
+            644,
+            1076,
+            769
+        ],
+        "text": "WOOOOOOW!!\nTHEY'RE USING\nTHOSE ARRAYS\nTO KEEP THEIR\nATTACKS FROM\nHITTING THEIR\nALLIES...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

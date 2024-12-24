@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            180,
+            0,
+            716,
+            383
+        ],
+        "text": "WHOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            108,
+            556,
+            300,
+            924
+        ],
+        "text": "ZZZZZ",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            774,
+            78,
+            929,
+            195
+        ],
+        "text": "But... I knew it. It won't work! This distance isn't...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            413,
+            880,
+            523
+        ],
+        "text": "This man! What incredible focus!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1260,
+            69,
+            1416,
+            176
+        ],
+        "text": "Making me a captain... I'm not even from here.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1260,
+            228,
+            1371,
+            325
+        ],
+        "text": "Look, are you sure about this?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1307,
+            333,
+            1457,
+            521
+        ],
+        "text": "GRRRTp",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

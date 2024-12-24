@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            46,
+            215,
+            223,
+            347
+        ],
+        "text": "It began with wannabes copying your costume, but now you're a guiding light for heteromorphs everywhere.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            200,
+            356,
+            287,
+            509
+        ],
+        "text": "When the League of Villains was starting out, the world was exposed to your look, your form.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            178,
+            579,
+            259,
+            705
+        ],
+        "text": "We who remain have paved the way.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            376,
+            172,
+            491,
+            274
+        ],
+        "text": "The escaped convicts are one matter, but the common rioters in the street await your lead.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            341,
+            476,
+            414
+        ],
+        "text": "But the die is already cast. No going back.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            440,
+            36,
+            547,
+            157
+        ],
+        "text": "Though Re-Destro can no longer pull that trigger, you can.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            640,
+            464,
+            721
+        ],
+        "text": "As if I'm a big Messiah? Yeah, right.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            482,
+            476,
+            578,
+            651
+        ],
+        "text": "I'm only here for... I'm out here serving some great cause.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            134,
+            719,
+            196
+        ],
+        "text": "No more...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            738,
+            35,
+            770,
+            134
+        ],
+        "text": "...thinking it over.",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            656,
+            240,
+            766,
+            352
+        ],
+        "text": "HEXAMEN! Bring it all down!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            429,
+            723,
+            515
+        ],
+        "text": "The first solid step from you...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            46,
+            1057,
+            140
+        ],
+        "text": "I'm only here for your sake, Shigaraki.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            402,
+            1095,
+            516
+        ],
+        "text": "...will give them the necessary courage.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            617,
+            928,
+            710
+        ],
+        "text": "No matter how an average dude like me feels about it...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            558,
+            1051,
+            652
+        ],
+        "text": "...We're past the point of no return here, huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            39,
+            16,
+            179,
+            177
+        ],
+        "text": "I don't know why, but my dark magic is effective against that demon...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            122,
+            324,
+            265,
+            452
+        ],
+        "text": "I really want to get back to the fight, but... it looks like we'd have to go in without a plan...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            176,
+            756,
+            288,
+            851
+        ],
+        "text": "Even at this distance, I can sense that nasty magic...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            286,
+            491,
+            449,
+            608
+        ],
+        "text": "And even that powerful attack just now had no effect on it at all, huh...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            10,
+            497,
+            452
+        ],
+        "text": "The other possible weapon we've got is... We've gotta set the stage for a decisive finishing blow to that guy...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            716,
+            969,
+            855
+        ],
+        "text": "Our lively brat, I guess...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

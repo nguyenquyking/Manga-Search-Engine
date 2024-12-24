@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            26,
+            192,
+            185,
+            338
+        ],
+        "text": "Had anyone discovered I had this poster, I'd have been sent straight to jail, but every night I admired it nonetheless.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            590,
+            192,
+            732
+        ],
+        "text": "As another man working in the food trade, I idolized him from the bottom of my heart!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            30,
+            201,
+            138
+        ],
+        "text": "I even started calling him \"Big Bro Sanji\" in my mind.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            417,
+            281,
+            522,
+            343
+        ],
+        "text": "Uh, what's wrong? You're acting weird.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            379,
+            475,
+            448
+        ],
+        "text": "Agh! Couldn't get the words out right.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            502,
+            528,
+            588
+        ],
+        "text": "Um! Ah! B-b-bwig... Uh...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            628,
+            539,
+            730
+        ],
+        "text": "To think I'd get to meet him in person!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            668,
+            578,
+            787,
+            700
+        ],
+        "text": "The gorgeous golden locks. The swirling eyebrows. It's him, no doubt! Ah, he's so stylish!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            166,
+            1055,
+            251
+        ],
+        "text": "Don't you know in whose distinguished presence you stand?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            297,
+            1049,
+            405
+        ],
+        "text": "Stop right there, you craven scoundrels!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1111,
+            663,
+            1120,
+            722
+        ],
+        "text": "Rstl...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

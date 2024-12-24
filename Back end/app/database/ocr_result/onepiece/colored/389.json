@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            98,
+            65,
+            200,
+            224
+        ],
+        "text": "...who quit the Kozuki Clan's Oniwabanshu after a kunoichi turned him down.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            242,
+            178,
+            364
+        ],
+        "text": "But it turned out to be only the genius ninja Raizo...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            105,
+            428,
+            231,
+            532
+        ],
+        "text": "...who kidnapped women and beat men half to death.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            553,
+            180,
+            711
+        ],
+        "text": "In the deep forests of Udon, rumor spoke of an infamous bandit...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            234,
+            643,
+            308,
+            709
+        ],
+        "text": "Why are you following me?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            288,
+            55,
+            373,
+            149
+        ],
+        "text": "I'm at my wits' end, Lord Oden!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            49,
+            483,
+            140
+        ],
+        "text": "I cannot live in the shadows!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            209,
+            486,
+            355
+        ],
+        "text": "Former Kozuki Oniwabanshu Raizo",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            561,
+            43,
+            661,
+            156
+        ],
+        "text": "He's got the Shogun's bloodline... I wanna kill him!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            55,
+            774,
+            137
+        ],
+        "text": "Capture him and bring him to me!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            898,
+            66,
+            956,
+            127
+        ],
+        "text": "Yes, Sir!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1018,
+            60,
+            1114,
+            194
+        ],
+        "text": "If I hate anyone... it's the high and mighty!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            286,
+            1118,
+            482
+        ],
+        "text": "Strongest Monster in Kuri Ashura Doji",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            570,
+            511,
+            640,
+            605
+        ],
+        "text": "Kozuki Oden's in Kuri?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            650,
+            644,
+            736
+        ],
+        "text": "In the lawless land of Kuri...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

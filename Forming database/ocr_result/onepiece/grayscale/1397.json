@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            112,
+            131,
+            291,
+            450
+        ],
+        "text": "...They wouldn't\nbe getting\nto Onigashima\nwithout ships!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            133,
+            663,
+            250,
+            825
+        ],
+        "text": "Even if\nthey had\nmade it...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            105,
+            885,
+            246,
+            1095
+        ],
+        "text": "That's why\nnone of your\nfriends\nshowed up!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            442,
+            125,
+            635,
+            385
+        ],
+        "text": "If you miss this\nopportunity,\nyou'll never\nget another\nchance!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            822,
+            135,
+            1010,
+            411
+        ],
+        "text": "And I hate to\nadd despair onto\ndespair, but\ntoday's feast is\ncelebrating...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1134,
+            126,
+            1285,
+            456
+        ],
+        "text": "...the alliance of\nthe Animal Kingdom\nPirates and the Big\nMom Pirates!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            825,
+            1149,
+            1280,
+            1368
+        ],
+        "text": "Because\nall the\nrebels we've\nlured into\nthe open...\n...are going\nto die, slowly\nand painfully,\nstarting\ntomorrow!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1481,
+            499,
+            1617,
+            735
+        ],
+        "text": "An\nalliance of\nemperor's?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1464,
+            904,
+            1650,
+            1160
+        ],
+        "text": "Big\nMom and\nKaido?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1671,
+            118,
+            1751,
+            266
+        ],
+        "text": "Murmur!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1630,
+            1281,
+            1732,
+            1422
+        ],
+        "text": "Murmur!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1944,
+            144,
+            2043,
+            358
+        ],
+        "text": "Big Mom...?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

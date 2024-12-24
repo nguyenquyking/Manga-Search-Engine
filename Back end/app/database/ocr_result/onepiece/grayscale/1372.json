@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            146,
+            123,
+            287,
+            390
+        ],
+        "text": "NOW THAT I KNOW SHE'S ALIVE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            302,
+            1242,
+            390,
+            1349
+        ],
+        "text": "AAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            708,
+            1120,
+            896,
+            1347
+        ],
+        "text": "NEXT I WILL FIND HIYORI AND KILL HER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1242,
+            139,
+            1466,
+            434
+        ],
+        "text": "EITHER WAY, YOU WILL NEVER TRIUMPH OVER MASTER KAIDO'S FORCES!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1285,
+            722,
+            1423,
+            944
+        ],
+        "text": "FAREWELL, YOU FOOLS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1289,
+            1016,
+            1458,
+            1349
+        ],
+        "text": "YOU KNAVE!! I SEE HOW SMOOTHLY THAT BIRD YOU'VE PAINTED FLIES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1308,
+            516,
+            1423,
+            686
+        ],
+        "text": "IT'S TOO HIGH!! I'M SCARED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1820,
+            131,
+            2041,
+            358
+        ],
+        "text": "YOU'LL NEVER EVEN SET FOOT ON THE ISLAND!! KA KA KA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1874,
+            725,
+            1963,
+            864
+        ],
+        "text": "LET ME DOWN!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1842,
+            931,
+            2045,
+            1180
+        ],
+        "text": "...BUT UGLY MONSTROSITIES THAT WASHED AWAY IN WATER!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1836,
+            1219,
+            2034,
+            1353
+        ],
+        "text": "BUT YOU NEVER SHOWED US ANYTHING...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

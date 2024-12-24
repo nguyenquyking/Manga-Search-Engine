@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            12,
+            234,
+            40,
+            278
+        ],
+        "text": "SIZZ",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            972,
+            61,
+            1063,
+            151
+        ],
+        "text": "What is this guy?\nWhen did he...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            785,
+            286,
+            809,
+            319
+        ],
+        "text": "Huh...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            405,
+            887,
+            469
+        ],
+        "text": "KABOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1062,
+            142,
+            1068,
+            189
+        ],
+        "text": "SNAP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            139,
+            1484,
+            213,
+            1548
+        ],
+        "text": "Come, humans.\nLet's play.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            221,
+            1114,
+            307,
+            1207
+        ],
+        "text": "Entertain us with your screams.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            1122,
+            1060,
+            1213
+        ],
+        "text": "Let's play with these guys and see what we've really got!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            1520,
+            1089,
+            1556
+        ],
+        "text": "SKRT",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

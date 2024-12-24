@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            64,
+            941,
+            272,
+            1057
+        ],
+        "text": "WE HAVE TWO DAYS. THAT'S IT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            179,
+            173,
+            276,
+            361
+        ],
+        "text": "THIS IS A WORLD YOU ENTERED...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            921,
+            903,
+            1160,
+            1112
+        ],
+        "text": "DID YOU THINK YOU COULD GET STRONGER IN THAT TIME FRAME BY DECENT",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            974,
+            171,
+            1137,
+            374
+        ],
+        "text": "...BECAUSE YOU HAD NO MAGIC AND WANTED STRENGTH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1255,
+            84,
+            1324,
+            1304
+        ],
+        "text": "@Hawks_red_wings @colorclover",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

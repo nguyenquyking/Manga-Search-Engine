@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            114,
+            365,
+            195,
+            515
+        ],
+        "text": "ROBIN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            59,
+            514,
+            189
+        ],
+        "text": "I spent a lot of time working in evil organizations.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            567,
+            65,
+            666,
+            180
+        ],
+        "text": "And when someone does horrible things to my friends...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            727,
+            64,
+            830,
+            211
+        ],
+        "text": "...the demon part of me starts to emerge!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            612,
+            611,
+            719,
+            736
+        ],
+        "text": "AAAH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            22,
+            1304,
+            279,
+            1486
+        ],
+        "text": "KAWAP!! SPANK!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            833,
+            611,
+            917,
+            725
+        ],
+        "text": "Did you imagine that if you lured me inside...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            617,
+            1073,
+            725
+        ],
+        "text": "...I would be that easy to capture?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1007,
+            932,
+            1078,
+            1030
+        ],
+        "text": "I can bloom anywhere.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1012,
+            1075,
+            1084,
+            1161
+        ],
+        "text": "How did you get inside?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            818,
+            1103,
+            893
+        ],
+        "text": "You dare hit my face...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            1404,
+            952,
+            1506
+        ],
+        "text": "Miss Black Maria!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

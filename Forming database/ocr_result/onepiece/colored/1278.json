@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            36,
+            333,
+            236,
+            440
+        ],
+        "text": "KATAKURI",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            338,
+            118,
+            355,
+            285
+        ],
+        "text": "(\u5927\u5206\u770c MENO\u3055\u3093)",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            300,
+            468,
+            358,
+            664
+        ],
+        "text": "SNAKY\nMONKEY",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            390,
+            156,
+            648,
+            247
+        ],
+        "text": "\u3012119-0163",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            741,
+            60,
+            752,
+            108
+        ],
+        "text": "DO!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            826,
+            145,
+            904,
+            231
+        ],
+        "text": "\u30a2\u30cb\u30e1\u30fb\u58f0\u512a\u3055\u3093\n\u3078\u306e\u30d5\u30a1\u30f3\u30ec\u30bf\u30fc\n\u306f\u3053\u3061\u3089!",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            842,
+            263,
+            966,
+            428
+        ],
+        "text": "\u3012178-8567\n\u6771\u4eac\u90fd\u7df4\u99ac\u533a\u6771\u5927\u6cc9\n2-10-5",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1023,
+            314,
+            1046,
+            468
+        ],
+        "text": "ONE PIECE\u4fc2",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1120,
+            522,
+            1165,
+            646
+        ],
+        "text": "\u3053\u3063\u3061\u3059\u3088\u306d\u30fc\u2661",
+        "panel_id": "6",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            108,
+            690,
+            220,
+            710
+        ],
+        "text": "(\u6c96\u7e04\u770c \u30b5\u30b5\u30fc\u30ad\u3055\u3093)",
+        "panel_id": "7",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            522,
+            695,
+            571,
+            704
+        ],
+        "text": "(\u9ce5\u53d6\u770c \u4e2d\u539f\u8def\u3055\u3093)",
+        "panel_id": "8",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1152,
+            27,
+            1170,
+            45
+        ],
+        "text": "197",
+        "panel_id": "9",
+        "type": "page_number"
+    }
+]

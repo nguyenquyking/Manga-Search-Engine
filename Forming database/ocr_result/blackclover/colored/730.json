@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1648,
+            57,
+            1848,
+            271
+        ],
+        "text": "...and uses primitive, repetitive attacks to crush and mow down everything!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1656,
+            334,
+            1743,
+            521
+        ],
+        "text": "It repels all spells in existence...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1629,
+            978,
+            1801,
+            1211
+        ],
+        "text": "The ancient demon is an enormous mass of supercharged magic!!!",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

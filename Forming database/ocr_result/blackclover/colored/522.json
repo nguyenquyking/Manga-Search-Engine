@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            185,
+            245,
+            249,
+            316
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            183,
+            1104,
+            354,
+            1269
+        ],
+        "text": "They're the descendants of your Clover Kingdom's royal family...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            948,
+            591,
+            1009,
+            690
+        ],
+        "text": "...and Licht.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1369,
+            1111,
+            1453,
+            1258
+        ],
+        "text": "Back then...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1675,
+            112,
+            1715,
+            147
+        ],
+        "text": "!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

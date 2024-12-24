@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            33,
+            50,
+            80,
+            262
+        ],
+        "text": "JUMP COMICS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            90,
+            42,
+            154,
+            383
+        ],
+        "text": "\u5dfb\u4e5d\u5341\u4e00\u4f8d\u306e\u56fd\u306e\u5192\u967a",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            152,
+            171,
+            276,
+            637
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1017,
+            442,
+            1066,
+            711
+        ],
+        "text": "\u5c3e\u7530\u6804\u4e00\u90ce",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

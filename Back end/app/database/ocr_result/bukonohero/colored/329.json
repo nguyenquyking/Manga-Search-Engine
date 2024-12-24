@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            75,
+            106,
+            141,
+            202
+        ],
+        "text": "STARTING\nTODAY,\nI'M...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            14,
+            285,
+            171,
+            537
+        ],
+        "text": "\"ONCE YOU'VE EARNED YOUR PROVISIONAL LICENSE IN YOUR SECOND YEAR, RETURN TO ME, AND ON THAT DAY TELL ME YOUR CHOSEN NAME.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            5,
+            625,
+            141,
+            831
+        ],
+        "text": "\"YOUR ALIAS REPRESENTS YOUR DESIRES, BUT YOU ARE STILL NAIVE TO THE WAYS OF THE WORLD.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            307,
+            37,
+            339,
+            108
+        ],
+        "text": "HOW\nCHILDISH!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            550,
+            36,
+            579,
+            118
+        ],
+        "text": "WHAT A\nMOUTHFUL!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            920,
+            32,
+            941,
+            83
+        ],
+        "text": "TACKY!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1123,
+            206,
+            1154,
+            260
+        ],
+        "text": "SUPER\nTACKY!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            998,
+            424,
+            1230,
+            830
+        ],
+        "text": "GREAT\nEXPLOSION\nMURDER GOD\nDYNAMIGHT!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1306,
+            45,
+            1352,
+            90
+        ],
+        "text": "HA\nHA!",
+        "panel_id": "7",
+        "type": "thought"
+    }
+]

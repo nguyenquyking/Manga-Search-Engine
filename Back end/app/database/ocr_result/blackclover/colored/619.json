@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            81,
+            248,
+            177,
+            333
+        ],
+        "text": "You know that as well as I do.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            666,
+            148,
+            757
+        ],
+        "text": "Yes, but only for a moment.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            294,
+            234,
+            312,
+            307
+        ],
+        "text": "Don't you?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            333,
+            582,
+            417,
+            692
+        ],
+        "text": "You haven't mastered it yet!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            77,
+            651,
+            117
+        ],
+        "text": "But I-",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            394,
+            670,
+            478
+        ],
+        "text": "If you went into enemy territory like this...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            319,
+            738,
+            388
+        ],
+        "text": "...You'd end up dead.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            532,
+            654,
+            683,
+            755
+        ],
+        "text": "He's right!! But we've come this far...!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            80,
+            956,
+            121
+        ],
+        "text": "Huh...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            953,
+            405,
+            1046,
+            495
+        ],
+        "text": "...I watched you and the other Black Bulls.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            691,
+            965,
+            761
+        ],
+        "text": "Using shadow magic...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

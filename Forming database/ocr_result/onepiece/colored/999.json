@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            60,
+            327,
+            171,
+            408
+        ],
+        "text": "Urp... Hang on, let me digest this.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            599,
+            153,
+            695
+        ],
+        "text": "Here they are! These are your culprits!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            276,
+            28,
+            372,
+            162
+        ],
+        "text": "I've never seen a prisoner get fat in here!! I'm almost kind of jealous!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            288,
+            299,
+            368,
+            402
+        ],
+        "text": "They've stuffed themselves silly!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            138,
+            540,
+            260
+        ],
+        "text": "Thanks to the two of you, I won't have enough for my huge portion!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            490,
+            541,
+            589
+        ],
+        "text": "So it was you!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            27,
+            619,
+            158
+        ],
+        "text": "Does three measly dumplings sound right for a",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            32,
+            792,
+            144
+        ],
+        "text": "Th-they're shrinking...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            44,
+            967,
+            187
+        ],
+        "text": "If you do it a third time, you'll be put to death! So watch out!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            228,
+            956,
+            311
+        ],
+        "text": "...and your legs for the second!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            352,
+            957,
+            458
+        ],
+        "text": "...we cut off your arms for the first infraction...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            516,
+            973,
+            676
+        ],
+        "text": "Listen up!! Just to warn you, if you should be bold enough to actually defy a jailer...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

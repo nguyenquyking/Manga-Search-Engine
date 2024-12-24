@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            351,
+            106,
+            441,
+            197
+        ],
+        "text": "...Can we use our magic to remake humanity?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            403,
+            529,
+            480,
+            634
+        ],
+        "text": "...We four, the Zogratis siblings...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            661,
+            368,
+            743
+        ],
+        "text": "With the devils' power...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            657,
+            780,
+            760
+        ],
+        "text": "Fortunate citizens who have no fear of death.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            883,
+            653,
+            1014,
+            757
+        ],
+        "text": "Let us create a truly peaceful Spade Kingdom!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            81,
+            1031,
+            298
+        ],
+        "text": "...For the prosperity of the Spade Kingdom!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

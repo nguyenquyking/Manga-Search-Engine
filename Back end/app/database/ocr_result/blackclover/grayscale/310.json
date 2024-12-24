@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            616,
+            50,
+            732,
+            187
+        ],
+        "text": "...Deal with you in earnest.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            804,
+            614,
+            913
+        ],
+        "text": "I will also...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1292,
+            134,
+            1352,
+            252
+        ],
+        "text": "What?! That's...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1249,
+            843,
+            1296,
+            883
+        ],
+        "text": "!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

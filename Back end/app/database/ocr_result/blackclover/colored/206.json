@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            55,
+            120,
+            162,
+            217
+        ],
+        "text": "AN ORPHAN OF THE FORSAKEN REGION, YOU SAY...?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            357,
+            197,
+            374,
+            260
+        ],
+        "text": "...WELL...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            266,
+            638,
+            425
+        ],
+        "text": "AN ORPHAN OF THE MASSES,\nWITHOUT A SHRED OF MAGIC POWER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            607,
+            51,
+            686,
+            143
+        ],
+        "text": "A FILTHY PEASANT, EH...!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            163,
+            570,
+            276,
+            701
+        ],
+        "text": "HAILING FROM THE HAGE VILLAGE\nCHURCH OF THE FORSAKEN REGION.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            104,
+            697,
+            162,
+            790
+        ],
+        "text": "ASTA OF THE BLACK BULLS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            852,
+            51,
+            1027,
+            180
+        ],
+        "text": "THOSE HORNS\nARE PROOF\nOF HAVING\nPERFORMED\nFORBIDDEN\nMAGIC...!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            896,
+            447,
+            971,
+            560
+        ],
+        "text": "HAVING NARY A RECORD OF\nBIRTH IN THIS KINGDOM...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            794,
+            629,
+            838,
+            664
+        ],
+        "text": "AND... THAT YOUNG",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            795,
+            817,
+            832
+        ],
+        "text": "WOMAN...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            746,
+            1086,
+            834
+        ],
+        "text": "WHAT ARE THOSE,\nHORNS\n...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

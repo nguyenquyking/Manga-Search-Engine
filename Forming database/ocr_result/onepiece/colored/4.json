@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            96,
+            103,
+            216,
+            231
+        ],
+        "text": "I DIDN'T MEAN TO DROP YOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            798,
+            132,
+            931
+        ],
+        "text": "OH NO!! KIN!! KIKU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            107,
+            529,
+            229
+        ],
+        "text": "TAKE KAIDO DOWN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            609,
+            534,
+            738
+        ],
+        "text": "SIR STRAW HAT,\nWE'RE COUNTING\nON YOU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            919,
+            489,
+            1051
+        ],
+        "text": "PLEASE BE ALIVE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            94,
+            862,
+            213
+        ],
+        "text": "FINISH HIM FOR GOOD!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            934,
+            888,
+            1042
+        ],
+        "text": "DON'T GO DYING\nON ME NOW!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1043,
+            99,
+            1105,
+            229
+        ],
+        "text": "DON'T LET\nA SINGLE ONE\nESCAPE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            268,
+            1096,
+            383
+        ],
+        "text": "HIS\nRETAINERS\nARE GETTING\nAWAY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            618,
+            1089,
+            708
+        ],
+        "text": "ODEN-SAMA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            922,
+            1076,
+            1009
+        ],
+        "text": "PANT...\nPANT...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1409,
+            828,
+            1553,
+            1011
+        ],
+        "text": "THIS\nNIGHTMARE\nWON'T END\nUNLESS KAIDO\nIS DRIVEN FROM\nTHIS LAND!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

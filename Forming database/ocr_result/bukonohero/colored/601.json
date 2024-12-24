@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            131,
+            724,
+            223,
+            865
+        ],
+        "text": "HE ALTERED COURSE!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            653,
+            294,
+            741,
+            391
+        ],
+        "text": "I'LL TRY TO LURE HIM AWAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            742,
+            168,
+            834,
+            292
+        ],
+        "text": "KLK\nFWOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            858,
+            45,
+            902,
+            111
+        ],
+        "text": "HUH?!\nKID?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            734,
+            801,
+            899
+        ],
+        "text": "HE'S HEADING SOUTHWEST NOW!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1237,
+            60,
+            1378,
+            194
+        ],
+        "text": "IT'S ANNOYING\nHOW THEY'RE\nALL LINKED\nUP... MIGHT AS\nWELL PUT A\nSTOP TO THAT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            542,
+            1058,
+            645
+        ],
+        "text": "THOUGHT\nSO!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1194,
+            446,
+            1303,
+            606
+        ],
+        "text": "THANK YOU! I\nCAN BUY THE\nEVACUATION\nEFFORT SOME\nTIME!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

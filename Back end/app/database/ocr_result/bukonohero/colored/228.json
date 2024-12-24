@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            104,
+            150,
+            125,
+            213
+        ],
+        "text": "GOOD.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            427,
+            790,
+            497,
+            924
+        ],
+        "text": "That's why we have your back.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            742,
+            486,
+            831,
+            621
+        ],
+        "text": "...that our power passed to you two.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            765,
+            775,
+            918
+        ],
+        "text": "It's fortunate...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1106,
+            253,
+            1177,
+            397
+        ],
+        "text": "Sorry...for testing you like that.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1219,
+            684,
+            1240,
+            744
+        ],
+        "text": "FWAHH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1403,
+            831,
+            1428,
+            978
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

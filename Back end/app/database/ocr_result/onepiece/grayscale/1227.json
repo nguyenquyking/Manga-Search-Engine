@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            80,
+            148,
+            164,
+            313
+        ],
+        "text": "As we speak, on the stage inside...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            355,
+            169,
+            474
+        ],
+        "text": "But his suffering will ease soon.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            588,
+            177,
+            706
+        ],
+        "text": "I suppose that must be Oden's blood!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            848,
+            212,
+            1002
+        ],
+        "text": "To my surprise, however, the boy still lives!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            419,
+            136,
+            558,
+            337
+        ],
+        "text": "In just a few minutes, the history of the Kozuki clan will officially end!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            425,
+            417,
+            544,
+            615
+        ],
+        "text": "Ka ka ka kah! All we have to do is buy some extra time!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            811,
+            616,
+            1001
+        ],
+        "text": "...They are about to carry out Momonosuke's public execution!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            582,
+            646,
+            652,
+            768
+        ],
+        "text": "What's with yourgara hand?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            592,
+            361,
+            652,
+            424
+        ],
+        "text": "It's nice.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            595,
+            534,
+            680,
+            602
+        ],
+        "text": "Hmm? Nifty, eh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            604,
+            86,
+            652,
+            211
+        ],
+        "text": "CLANK.",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            836,
+            91,
+            1097,
+            328
+        ],
+        "text": "How like snow that remains into the spring...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1193,
+            88,
+            1345,
+            269
+        ],
+        "text": "...They will continue to torment your soul for eternity!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            964,
+            821,
+            1092,
+            981
+        ],
+        "text": "You may shut your mouth now, Kanjuro.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1196,
+            803,
+            1337,
+            1000
+        ],
+        "text": "The wounds this one's katana leaves do not vanish in the afterlife...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1331,
+            570,
+            1352,
+            768
+        ],
+        "text": "VASSAL of KOZUKI",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1512,
+            512,
+            1542,
+            823
+        ],
+        "text": "OF THE FALLEN SNOW",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

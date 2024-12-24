@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            323,
+            521,
+            416,
+            689
+        ],
+        "text": "People with inexplicable powers such as yours...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            444,
+            747,
+            601,
+            852
+        ],
+        "text": "...But she has ancient sealing magic and has used forbidden magic.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            160,
+            938,
+            369,
+            1012
+        ],
+        "text": "In terms of combat power alone, Nero is only stage six or so...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            777,
+            109,
+            888,
+            253
+        ],
+        "text": "...are known as Arcane Stage.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            812,
+            893,
+            948,
+            1008
+        ],
+        "text": " Asta has no magic... But as a result, he managed to acquire anti-magic.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1089,
+            72,
+            1220,
+            202
+        ],
+        "text": "Let's use a transmission magic item and ask Captain Yami!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1273,
+            361,
+            1380,
+            479
+        ],
+        "text": "That isn't a decision we have clearance to make!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1372,
+            523,
+            1524,
+            659
+        ],
+        "text": "In exchange, I'll provide you with any information I can.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1320,
+            892,
+            1491,
+            1006
+        ],
+        "text": "Please lend us your arcane powers, and help us defeat the devil!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

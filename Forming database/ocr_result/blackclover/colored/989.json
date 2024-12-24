@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            57,
+            331,
+            59,
+            402
+        ],
+        "text": "SHUNK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            436,
+            23,
+            480,
+            64
+        ],
+        "text": "SHUNK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            827,
+            191,
+            904,
+            294
+        ],
+        "text": "THAT IS THE REALITY.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            919,
+            721,
+            988,
+            820
+        ],
+        "text": "ALL THAT EXISTS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1095,
+            632,
+            1233,
+            751
+        ],
+        "text": "...IS THE FACT THAT I AM STRONGER THAN YOU BOTH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

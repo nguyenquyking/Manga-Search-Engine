@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            21,
+            691,
+            50,
+            730
+        ],
+        "text": "Murmur",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            136,
+            642,
+            168,
+            722
+        ],
+        "text": "Am I still dreaming?",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            164,
+            82,
+            250,
+            153
+        ],
+        "text": "I never thought I'd see one in person!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            299,
+            229,
+            378
+        ],
+        "text": "Is that... dragon salmon?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            255,
+            244,
+            275,
+            296
+        ],
+        "text": "Murmur",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            262,
+            580,
+            441,
+            701
+        ],
+        "text": "Sanji's Wedding Special:\nDragon Boat of Dragon Salmon Sashimi",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            596,
+            222,
+            783,
+            329
+        ],
+        "text": "At least let me introduce you to my friends and family!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            93,
+            812,
+            160
+        ],
+        "text": "I owe you so much!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            560,
+            796,
+            714
+        ],
+        "text": "How the heck did you manage to fillet that thing?\nTell us, Ruibei...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            933,
+            370,
+            1029,
+            432
+        ],
+        "text": "What?! You're setting out already?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            506,
+            1055,
+            656
+        ],
+        "text": "Heh. I happened across an amazing man out at sea.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            66,
+            1038,
+            145
+        ],
+        "text": "We don't belong at a wedding banquet.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            141,
+            1069,
+            248
+        ],
+        "text": "Sorry, we're pirates. Just a bunch of lawbreakers sailing through.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            603,
+            1029,
+            667
+        ],
+        "text": "Heh. It wasn't me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            46,
+            66,
+            127,
+            175
+        ],
+        "text": "To ensure your bloodline is kept secret!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            234,
+            96,
+            301
+        ],
+        "text": "That is right!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            360,
+            130,
+            463
+        ],
+        "text": "You want me to call you \"Father\"?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            89,
+            677,
+            117,
+            749
+        ],
+        "text": "Weez...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            393,
+            87,
+            438,
+            143
+        ],
+        "text": "Urgh!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            354,
+            177,
+            430,
+            261
+        ],
+        "text": "Come on, get it right! Ki... Father!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            311,
+            439,
+            393
+        ],
+        "text": "Aaah! It just feels so wrong!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            458,
+            439,
+            580
+        ],
+        "text": "You said \"Lord\" again, Father!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            633,
+            433,
+            725
+        ],
+        "text": "Hey... Lord Momonosuke!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            491,
+            64,
+            567,
+            157
+        ],
+        "text": "Wa ha ha! Should I try it instead?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            666,
+            374,
+            763,
+            462
+        ],
+        "text": "What will these extra seconds buy you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            674,
+            495,
+            712,
+            541
+        ],
+        "text": "Huff... Huff...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            656,
+            608,
+            701,
+            706
+        ],
+        "text": "Momonosuke!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            60,
+            1088,
+            171
+        ],
+        "text": "What will their escape change, exactly?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1059,
+            604,
+            1111,
+            693
+        ],
+        "text": "Father!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            687,
+            897,
+            732
+        ],
+        "text": "Beng!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            77,
+            63,
+            196,
+            150
+        ],
+        "text": "...so fighting was the only way to stop them.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            194,
+            153,
+            302
+        ],
+        "text": "They've refused to back down...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            120,
+            385,
+            219,
+            498
+        ],
+        "text": "Up till now, I've come up against all types.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            47,
+            850,
+            182
+        ],
+        "text": "Or, who knows? Maybe I still would've had to fight them anyway.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            749,
+            322,
+            847,
+            450
+        ],
+        "text": "If I had, maybe things would've worked out differently.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            725,
+            524,
+            826,
+            668
+        ],
+        "text": "But...I never understood what made them turn out that way.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

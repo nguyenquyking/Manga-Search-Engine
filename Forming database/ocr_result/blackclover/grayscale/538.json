@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            203,
+            299,
+            308,
+            442
+        ],
+        "text": "We, the Golden Dawn...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            695,
+            336,
+            825
+        ],
+        "text": "That Zenon guy thinks he killed the entire Golden Dawn.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            576,
+            897,
+            668,
+            985
+        ],
+        "text": "He didn't wipe us out",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            697,
+            1123,
+            851
+        ],
+        "text": "We're alive!! Captain Vengeance's spell saved us!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1201,
+            264,
+            1377,
+            469
+        ],
+        "text": "...are the Clover Kingdom's strongest Brigade.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1324,
+            817,
+            1416,
+            911
+        ],
+        "text": "We're not done yet!!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

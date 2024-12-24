@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            51,
+            69,
+            98,
+            194
+        ],
+        "text": "Boy...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            585,
+            128,
+            678
+        ],
+        "text": "DAMMIT\n...!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            717,
+            93,
+            899
+        ],
+        "text": "HUFF!!\nHUFF!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            529,
+            52,
+            632,
+            214
+        ],
+        "text": "...The\nColor of\nthe Supreme\nKing too?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            520,
+            791,
+            630,
+            883
+        ],
+        "text": "Don't\ntell me\nyou can\nuse...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            125,
+            784,
+            166
+        ],
+        "text": "?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            915,
+            69,
+            994,
+            159
+        ],
+        "text": "Oh,\nyou did\nenough.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            376,
+            1059,
+            510
+        ],
+        "text": "Huff, huff...\nI was hoping\nI'd at least...\nKnock you\noff your\nfeet...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            933,
+            538,
+            1029,
+            650
+        ],
+        "text": "That was\nthe best\nattack I\ncould do!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            700,
+            1031,
+            879
+        ],
+        "text": "Huh...? What\nare you talking\nabout?! Huff,\nhuff...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1283,
+            709,
+            1358,
+            865
+        ],
+        "text": "Don't have\nany idea what\nyou mean...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1282,
+            61,
+            1363,
+            197
+        ],
+        "text": "This wound\nwill remain\nwith me...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

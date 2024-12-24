@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            81,
+            37,
+            96,
+            174
+        ],
+        "text": "GRAAOH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            42,
+            516,
+            95,
+            665
+        ],
+        "text": "OF COURSE I'M IN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            299,
+            530,
+            395
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            803,
+            605,
+            881,
+            708
+        ],
+        "text": "OUTSIDE THE DOME,\nZOLO VS. KING",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

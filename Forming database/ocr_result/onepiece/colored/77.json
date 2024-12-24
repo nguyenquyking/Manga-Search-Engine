@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            256,
+            237,
+            396,
+            518
+        ],
+        "text": "...Then let's face death together!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            267,
+            1433,
+            461,
+            1683
+        ],
+        "text": "If you're going to let it go to waste...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            322,
+            628,
+            412,
+            802
+        ],
+        "text": "KABOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            248,
+            797,
+            352,
+            873
+        ],
+        "text": "RAAAAH...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            609,
+            202,
+            688,
+            303
+        ],
+        "text": "?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            999,
+            1238,
+            1043,
+            1386
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1095,
+            1098,
+            1139,
+            1294
+        ],
+        "text": "KACHING!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2081,
+            1195,
+            2073,
+            1444
+        ],
+        "text": "BADOOOM!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2499,
+            194,
+            2548,
+            349
+        ],
+        "text": "RAAAAH...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

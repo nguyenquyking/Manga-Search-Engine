@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            73,
+            78,
+            127,
+            127
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            508,
+            66,
+            600,
+            190
+        ],
+        "text": "But some of these look like normal people who wouldn't wanna fight, right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            237,
+            582,
+            337
+        ],
+        "text": "Doesn't seem like anyone here would tell us.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            416,
+            523,
+            507
+        ],
+        "text": "How do we search for 'em?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            454,
+            532,
+            481,
+            613
+        ],
+        "text": "Haki.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            651,
+            470,
+            734
+        ],
+        "text": "Did you do something?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            729,
+            419,
+            800,
+            527
+        ],
+        "text": "That's a huge Komainu! Whose is that?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            547,
+            798,
+            614
+        ],
+        "text": "Woof! Woof!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            878,
+            67,
+            966,
+            245
+        ],
+        "text": "This was a lively castle town originally, until 20 years ago...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1014,
+            64,
+            1122,
+            238
+        ],
+        "text": "One day, Orochi's henchmen came and seized whatever houses they desired.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            892,
+            617,
+            972,
+            735
+        ],
+        "text": "The villagers here have always lived here.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

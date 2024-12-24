@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            84,
+            76,
+            180,
+            234
+        ],
+        "text": "BUT IF BIG MOM AND KAIDO INDEED FORM AN ALLIANCE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            258,
+            67,
+            382,
+            231
+        ],
+        "text": "...THEIR TOTAL COMBINED BOUNTY WILL EASILY SURPASS THOSE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            542,
+            187,
+            724
+        ],
+        "text": "THERE ARE NO BOUNTIES IN PIRATING HISTORY THAT SURPASS THOSE OF THESE TWO MEN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            477,
+            65,
+            546,
+            162
+        ],
+        "text": "WE'RE NOT TOUCHING WANO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            57,
+            655,
+            165
+        ],
+        "text": "WE DON'T HAVE THE MANPOWER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            358,
+            646,
+            426
+        ],
+        "text": "FLEET ADMIRAL",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            490,
+            611,
+            614,
+            745
+        ],
+        "text": "THIS IS HAPPENING AS WE SPEAK IN THE UNAFFILIATED COUNTRY OF WANO...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            752,
+            58,
+            810,
+            222
+        ],
+        "text": "PIRATES ARE HUMAN BEINGS WITH THEIR OWN RELATIONSHIPS!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            64,
+            873,
+            218
+        ],
+        "text": "WHATEVER THEY DO NEXT WILL HAVE A REASON.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            290,
+            867,
+            425
+        ],
+        "text": "I'M SIMPLY PROVIDING THESE YOUNG MARINES WITH SOME OF THE WISDOM OF EXPERIENCE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            461,
+            841,
+            546
+        ],
+        "text": "I HAVE NO DESIRE TO INTERFERE EITHER.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            596,
+            852,
+            723
+        ],
+        "text": "...TO SPARE ON THIS AT THE MOMENT, SENGOKU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            57,
+            1110,
+            181
+        ],
+        "text": "AND YOU WON'T ANTICIPATE THE FUTURE IF YOU DON'T KNOW YOUR HISTORY!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

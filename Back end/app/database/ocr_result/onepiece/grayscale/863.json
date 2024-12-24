@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            304,
+            50,
+            366,
+            143
+        ],
+        "text": "Hey, Linlin...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            275,
+            313,
+            343,
+            440
+        ],
+        "text": "It must be his \"Hybrid\" form!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            295,
+            478,
+            349,
+            548
+        ],
+        "text": "Kaido...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            285,
+            614,
+            348,
+            707
+        ],
+        "text": "Why does he look like that?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            595,
+            77,
+            676,
+            196
+        ],
+        "text": "Mamamama, ha ha ha ha!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            46,
+            867,
+            170
+        ],
+        "text": "I was just thinking the same thing, Kaido!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            574,
+            601,
+            677,
+            721
+        ],
+        "text": "This is fun!! Woro ro ro ro ro ro!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1088,
+            332,
+            1100,
+            427
+        ],
+        "text": "DA-DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1125,
+            7,
+            1139,
+            184
+        ],
+        "text": "Next chapter hits Feb. 14!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

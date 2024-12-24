@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            349,
+            97,
+            411,
+            203
+        ],
+        "text": "No, it's not! My job's not over...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            236,
+            387,
+            315
+        ],
+        "text": "It's over!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            363,
+            400,
+            418
+        ],
+        "text": "No way...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            77,
+            504,
+            96,
+            595
+        ],
+        "text": "SWISH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            65,
+            868,
+            168,
+            1009
+        ],
+        "text": "LIGHTNING BLAST!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            1128,
+            84,
+            1251
+        ],
+        "text": "Here I am!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            1382,
+            132,
+            1503
+        ],
+        "text": "Weather Egg!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            188,
+            1390,
+            275,
+            1478
+        ],
+        "text": "Time to hatch, storm cloud!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            585,
+            868,
+            719,
+            998
+        ],
+        "text": "...until I hit the target!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            824,
+            835,
+            918
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            453,
+            1387,
+            483,
+            1484
+        ],
+        "text": "Zeus!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            1232,
+            545,
+            1318
+        ],
+        "text": "Technically, I'm not the same thing!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            1088,
+            625,
+            1194
+        ],
+        "text": "Go ahead and give me a new name, Nami!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            1089,
+            687,
+            1135
+        ],
+        "text": "Huh?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            1395,
+            807,
+            1503
+        ],
+        "text": "Fluff!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            1083,
+            986,
+            1186
+        ],
+        "text": "Fine!! Let's go, Zeus!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            1354,
+            1022,
+            1500
+        ],
+        "text": "I am the mighty Zeus, right arm of Nami!! Prepare for pain!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1088,
+            260,
+            1093,
+            346
+        ],
+        "text": "KABAAAM!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1100,
+            1089,
+            1114,
+            1125
+        ],
+        "text": "BAM!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

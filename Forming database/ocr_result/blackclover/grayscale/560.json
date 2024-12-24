@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            216,
+            123,
+            340,
+            255
+        ],
+        "text": "YOU'RE ONLY USING POWER THAT TRICKLES DOWN FROM THE DEVIL.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            536,
+            313,
+            657
+        ],
+        "text": "AS THINGS STAND, YOU AREN'T MAKING FULL USE OF THE DEVIL'S POWER.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            222,
+            832,
+            278,
+            935
+        ],
+        "text": "SO WE'RE GONNA BE TRAINING?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            566,
+            249,
+            737,
+            425
+        ],
+        "text": "YOU'LL MAKE A CONTRACT WITH A DEVIL AND FORMALLY MAKE ITS POWER YOUR OWN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            128,
+            937,
+            259
+        ],
+        "text": "IT'S A FORBIDDEN CEREMONY THAT PUTS A DEVIL'S POWER AT YOUR COMMAND.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            704,
+            852,
+            852,
+            1002
+        ],
+        "text": "WHAT WE ARE ABOUT TO PERFORM IS A DEVIL-BINDING RITUAL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1129,
+            216,
+            1236,
+            357
+        ],
+        "text": "ORDINARILY, YOU'D USE A RELIC LINKED TO THE DEVIL, AS I HAVE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1262,
+            104,
+            1432,
+            246
+        ],
+        "text": "THE CONNECTION TEMPORARILY MAKES IT POSSIBLE TO SUMMON THE DEVIL TO OUR WORLD.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1208,
+            546,
+            1291,
+            671
+        ],
+        "text": "THIS RITUAL REQUIRES A CONNECTION TO A DEVIL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1129,
+            723,
+            1236,
+            833
+        ],
+        "text": "A DEVIL-BINDING RITUAL...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            911,
+            1281,
+            1020
+        ],
+        "text": "AFTERWARD, YOU'LL BE ABLE TO DRAW OUT THAT POWER AS WELL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

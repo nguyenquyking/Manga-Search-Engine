@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            72,
+            77,
+            168,
+            229
+        ],
+        "text": "...for the artificial Devil Fruits known as SMILE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            266,
+            156,
+            411
+        ],
+        "text": "...while he does deals with Doflamingo and Caesar...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            456,
+            170,
+            595
+        ],
+        "text": "Let's start at the beginning. Kaido is making weapons in this country...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            633,
+            145,
+            739
+        ],
+        "text": "But that's all that happened!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            435,
+            55,
+            502,
+            112
+        ],
+        "text": "Sir Luffy?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            140,
+            510,
+            202
+        ],
+        "text": "Where are you going, Luffy?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            424,
+            235,
+            532,
+            314
+        ],
+        "text": "All he wants is me and Straw Hat!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            388,
+            552,
+            500
+        ],
+        "text": "...and sent his trading partner Doflamingo to prison.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            444,
+            552,
+            547,
+            733
+        ],
+        "text": "We destroyed the factories that did the heavy lifting on Punk Hazard and Dressrosa...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            626,
+            366,
+            721,
+            479
+        ],
+        "text": "In other words, we're the ones who picked a fight with him.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            833,
+            54,
+            878,
+            147
+        ],
+        "text": "Be rational.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            198,
+            930,
+            339
+        ],
+        "text": "It will kick off a massive nationwide manhunt for us!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            367,
+            942,
+            534
+        ],
+        "text": "If anyone else gets exposed, they'll know that all of the Straw Hat and Heart Pirates are here!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            595,
+            895,
+            729
+        ],
+        "text": "Don't chase him!! I'll go!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

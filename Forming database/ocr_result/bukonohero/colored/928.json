@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            68,
+            674,
+            223,
+            816
+        ],
+        "text": "No, that alone is more than enough for us to learn a variety of things.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            177,
+            293,
+            240,
+            418
+        ],
+        "text": "So what do you mean by \"I can't?\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            252,
+            445,
+            338
+        ],
+        "text": "Death approaches...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            390,
+            752,
+            428,
+            824
+        ],
+        "text": "For example,",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            446,
+            107,
+            548,
+            242
+        ],
+        "text": "If only a gruesome death awaits,",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            520,
+            687,
+            581,
+            790
+        ],
+        "text": "If, in that person's near future...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            615,
+            158,
+            690,
+            259
+        ],
+        "text": "What would you do?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            786,
+            422,
+            866,
+            595
+        ],
+        "text": "Because of All Might...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            783,
+            688,
+            826,
+            844
+        ],
+        "text": "Nighteye...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

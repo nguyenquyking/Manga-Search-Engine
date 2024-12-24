@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            53,
+            32,
+            89,
+            92
+        ],
+        "text": "Is that...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            244,
+            66,
+            288
+        ],
+        "text": "Huff...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            62,
+            625,
+            149,
+            694
+        ],
+        "text": "...Kill Twice Like That!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            239,
+            272,
+            245,
+            348
+        ],
+        "text": "FWOOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            440,
+            531,
+            543,
+            670
+        ],
+        "text": "...The face of a man who's just watched a friend die?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            831,
+            50,
+            938,
+            166
+        ],
+        "text": "With Twice around, my dream had a way better chance of coming true!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            49,
+            1099,
+            147
+        ],
+        "text": "So of course I'm sad he's gone!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1003,
+            335,
+            1071,
+            467
+        ],
+        "text": "I haven't cried since my tear ducts got all burned!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            610,
+            941,
+            716
+        ],
+        "text": "Hey, now!! That was rude!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

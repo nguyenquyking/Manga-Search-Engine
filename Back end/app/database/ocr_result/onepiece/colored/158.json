@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            59,
+            66,
+            193,
+            237
+        ],
+        "text": "Should Luffy manage to triumph over Kaido, the flame clouds holding Onigashima would dissipate and the island would come crashing down...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            276,
+            60,
+            390,
+            243
+        ],
+        "text": "That would ignite the gunpowder stores in the castle's basement, resulting in an explosion that would consume the Flower Capital.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            666,
+            167,
+            792
+        ],
+        "text": "As events unfold, this conflict approaches a potentially disastrous end.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            250,
+            528,
+            293,
+            693
+        ],
+        "text": "Flame Clouds\nGunpowder Cache",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            504,
+            223,
+            575,
+            299
+        ],
+        "text": "I will stop this!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            704,
+            624,
+            814
+        ],
+        "text": "Countless people are enjoying the Fire Festival...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            596,
+            52,
+            715,
+            173
+        ],
+        "text": "They remain unaware of the fact that their lives could be snuffed out at any moment!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            819,
+            216,
+            899,
+            297
+        ],
+        "text": "It may explode Onigashima in mid-air...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            861,
+            370,
+            926,
+            481
+        ],
+        "text": "Spurred on by the words of Orochi.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            845,
+            545,
+            921,
+            681
+        ],
+        "text": "A manifestation of Kanjuro's hatred heads for that same basement,",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            837,
+            735,
+            913,
+            819
+        ],
+        "text": "And another crisis approaches:",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            995,
+            504,
+            1034,
+            569
+        ],
+        "text": "Burning Hatred",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            986,
+            639,
+            1059,
+            657
+        ],
+        "text": "5\n4\n3\n2\n1",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1215,
+            774,
+            1229,
+            812
+        ],
+        "text": "Yamato",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1084,
+            67,
+            1141,
+            163
+        ],
+        "text": "Fortunately, Yamato is in hot pursuit!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

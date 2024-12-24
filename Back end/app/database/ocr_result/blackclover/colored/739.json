@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            106,
+            1145,
+            633,
+            1185
+        ],
+        "text": "RRAAAARGH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            709,
+            83,
+            753,
+            165
+        ],
+        "text": "SKREE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1322,
+            20,
+            1354,
+            284
+        ],
+        "text": "COLOR CLOVERS",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1423,
+            1181,
+            1885,
+            1217
+        ],
+        "text": "GRAAAUUGH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1423,
+            570,
+            1726,
+            615
+        ],
+        "text": "KRIK\nKRIK",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1514,
+            95,
+            1808,
+            498
+        ],
+        "text": "EEEEEEK!\n00000",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

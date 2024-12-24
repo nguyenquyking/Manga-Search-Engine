@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            36,
+            31,
+            186,
+            119
+        ],
+        "text": "\"I'M AFRAID I JUST DON'T HAVE THE COURAGE TO DO THE SAME.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            325,
+            140,
+            406
+        ],
+        "text": "\"YOU BROKE FREE OF ALL THAT, KEN.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            619,
+            96,
+            694
+        ],
+        "text": "TUG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            336,
+            552,
+            480,
+            721
+        ],
+        "text": "I'M HERE BECAUSE I WANTED TO LIVE WITHOUT BEING BOUND BY ANYTHING!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            550,
+            727,
+            718
+        ],
+        "text": "WE'LL DECIDE WHERE WE BELONG BY OURSELVES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            444,
+            1045,
+            540
+        ],
+        "text": "SKRTCH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            31,
+            1081,
+            65,
+            1710
+        ],
+        "text": "_WILDFIREMATT #COLORCLOVERS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1739,
+            114,
+            1871,
+            2456
+        ],
+        "text": "DEVIL POWER AT 100 PERCENT!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

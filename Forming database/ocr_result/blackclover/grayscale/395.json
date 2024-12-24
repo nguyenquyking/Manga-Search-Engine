@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            132,
+            565,
+            283,
+            747
+        ],
+        "text": "My spell makes it hard for blood to congeal, yet even in here she's still this powerful!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            384,
+            565,
+            536,
+            681
+        ],
+        "text": "Ordinary attacks really won't be enough to defeat her!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            144,
+            44,
+            422,
+            245
+        ],
+        "text": "NOELLE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

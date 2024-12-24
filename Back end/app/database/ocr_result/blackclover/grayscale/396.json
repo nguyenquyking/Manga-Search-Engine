@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            824,
+            123,
+            960,
+            245
+        ],
+        "text": "So all you care about is fulfilling your own desires!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            784,
+            550,
+            913,
+            676
+        ],
+        "text": "Just one percent more gave her a phenomenal increase in power!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1140,
+            403,
+            1249,
+            511
+        ],
+        "text": "Is that how you killed my mother...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1089,
+            654,
+            1174,
+            706
+        ],
+        "text": "Ah ha ha!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1308,
+            46,
+            1499,
+            183
+        ],
+        "text": "...Acier Silva of the Clover Kingdom?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            1625,
+            792,
+            1763
+        ],
+        "text": "51 Percent!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            1970,
+            816,
+            2066
+        ],
+        "text": "Ah ha!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1348,
+            1751,
+            1553,
+            1885
+        ],
+        "text": "Nice!!! I'm getting all fired up!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1448,
+            526,
+            1497,
+            644
+        ],
+        "text": "52 Percent.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

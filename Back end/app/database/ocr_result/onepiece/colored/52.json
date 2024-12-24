@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            30,
+            1511,
+            68,
+            1665
+        ],
+        "text": "GWANG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            890,
+            1479,
+            1057,
+            1779
+        ],
+        "text": "HAAAGH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1273,
+            1597,
+            1311,
+            1717
+        ],
+        "text": "AAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1374,
+            130,
+            1499,
+            422
+        ],
+        "text": "AAAAOW!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1726,
+            301,
+            1726,
+            454
+        ],
+        "text": "ZWOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1803,
+            1519,
+            1912,
+            1769
+        ],
+        "text": "WHAAAA?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2161,
+            136,
+            2283,
+            387
+        ],
+        "text": "HGYAAAA!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

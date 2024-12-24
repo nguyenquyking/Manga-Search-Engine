@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            73,
+            223,
+            174,
+            348
+        ],
+        "text": "If I didn't exist...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            589,
+            38,
+            851,
+            216
+        ],
+        "text": "...It's likely you would have been the ultimate spatial mage.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            498,
+            517,
+            712,
+            714
+        ],
+        "text": "He even interferes with and blocks the mana in his opponent's spells!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            967,
+            354,
+            1376
+        ],
+        "text": "Using spatial magic, he takes full control of the mana within that space!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            898,
+            310,
+            924,
+            1082
+        ],
+        "text": "@SHIKAREDEMPTION @COLORCLOVERS",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1062,
+            57,
+            1334,
+            656
+        ],
+        "text": "Spatial Magic: Archangel's Destruction",
+        "panel_id": "4",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1112,
+            909,
+            1125,
+            1023
+        ],
+        "text": "VWORP",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1691,
+            1154,
+            1825,
+            1356
+        ],
+        "text": "It's been a long time since I met anyone...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1816,
+            144,
+            1950,
+            295
+        ],
+        "text": "...who talked down to me!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2045,
+            448,
+            2049,
+            567
+        ],
+        "text": "00000",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

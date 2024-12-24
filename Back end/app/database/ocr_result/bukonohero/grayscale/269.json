@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            46,
+            120,
+            144,
+            228
+        ],
+        "text": "AND WHEN YOU\nDO RETURN,\nYOU LEAVE\nWITHOUT A\nMOMENT'S\nNOTICE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            59,
+            566,
+            208,
+            715
+        ],
+        "text": "WHAT HE SAID.\nYOU HAVEN'T\nNOTICED\nBECAUSE YOU\nAND DEKU LEFT\nTHE SCHOOL,\nALL MIGHT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            51,
+            471,
+            188
+        ],
+        "text": "WHERE MIDORIYA\nGOES, WE\nFOLLOW...\nUNDAUNTED, WE\nSHALL FIGHT\nUNTIL SHIGARAKI\nHAS FALLEN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            547,
+            30,
+            599,
+            103
+        ],
+        "text": "NOT\nDAUNTED\nAT ALL!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            398,
+            634,
+            548
+        ],
+        "text": "IN THE WAKE\nOF GUNGA AND\nJAKU, WE'VE\nBEEN DOING\nINTENSIVE\nTRAINING\nWITH THE\nPUSSYCATS.\nAs much as we\ncan without leaving\nthe dorms.\nWhy're you\nchanging\nhere?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            743,
+            218,
+            842,
+            409
+        ],
+        "text": "...TO\nHELP ME\nCOMPLETE\nONE FOR\nALL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            737,
+            579,
+            836,
+            705
+        ],
+        "text": "KACCHAN AND\nTHE OTHERS\nEVEN AGREED\nTO SPAR WITH\nME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            107,
+            1049,
+            213
+        ],
+        "text": "I NEVER\nSAID THAT!\nDID SOME\nPRISON\nBREAKER\nRIP YER\nEARS OFF?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            26,
+            1032,
+            88
+        ],
+        "text": "I THOUGHT\nYOU'D\nCHANGED!",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

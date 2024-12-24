@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            37,
+            1022,
+            184,
+            1536
+        ],
+        "text": "Groundswell of Su Telon",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            93,
+            95,
+            106,
+            155
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            575,
+            70,
+            731,
+            319
+        ],
+        "text": "Sirens' Game",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            911,
+            206,
+            998,
+            310
+        ],
+        "text": "...and the dark magic guy who took out Dante.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            865,
+            613,
+            974,
+            716
+        ],
+        "text": "Maaan... I wish I could've fought the anti-magic kid...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            992,
+            835,
+            1067,
+            943
+        ],
+        "text": "There's the compatibility thing, so she's holding you back.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1028,
+            1016,
+            1090,
+            1085
+        ],
+        "text": "Briar magic is a total no-go.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            998,
+            1154,
+            1096,
+            1230
+        ],
+        "text": "But it's sort of like, \"Is that all you've got?\"",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            881,
+            1408,
+            1001,
+            1528
+        ],
+        "text": "Hmm. Picture magic can take on all sorts of attributes, so sure, it's interesting...",
+        "panel_id": "4",
+        "type": "thought"
+    }
+]

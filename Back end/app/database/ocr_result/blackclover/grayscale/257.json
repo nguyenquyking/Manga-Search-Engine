@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            137,
+            69,
+            256,
+            174
+        ],
+        "text": "WHAT ARE YOU GOING ALL STIFF AND MUTTERING FOR?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            260,
+            74,
+            332,
+            168
+        ],
+        "text": "Are you Gordon or something?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            236,
+            301,
+            376,
+            431
+        ],
+        "text": "CAPTAIN!!! HE CAN'T HEAR YOU!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            315,
+            486,
+            392
+        ],
+        "text": "She's so cute!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            93,
+            772,
+            221
+        ],
+        "text": "THAT INDESCRIBABLE, ONE-OF-A-KIND...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            640,
+            830,
+            761,
+            944
+        ],
+        "text": "I ALREADY KNOW HOW YOU FEEL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            822,
+            848,
+            912
+        ],
+        "text": "Have for ages.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            190,
+            1161,
+            320
+        ],
+        "text": "YOU'LL WOUND MY SENSITIVE HEART, ALL RIGHT?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            349,
+            1152,
+            476
+        ],
+        "text": "BUT THAT DOESN'T MAKE IT OKAY TO RUN AWAY SCREAMING.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1080,
+            811,
+            1219,
+            953
+        ],
+        "text": "I MAKE YOU UNCOMFORTABLE,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1257,
+            824,
+            1310,
+            954
+        ],
+        "text": "You just can't stand me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

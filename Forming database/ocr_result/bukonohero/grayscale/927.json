@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            51,
+            279,
+            111,
+            352
+        ],
+        "text": "...SHALL\nMEET\nAGAIN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            425,
+            134,
+            468,
+            254
+        ],
+        "text": "SH-\nSHIGARAKI!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            357,
+            684,
+            460
+        ],
+        "text": "THAT IS\nUNFORGIVABLE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            670,
+            73,
+            762,
+            213
+        ],
+        "text": "...BACK THERE...\nWHEN YOU GOT\nSWALLOWED UP\nBY ALL FOR\nONE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            747,
+            852,
+            772,
+            904
+        ],
+        "text": "YES,\nWE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            359,
+            992,
+            429
+        ],
+        "text": "IT'S\nUNFORGIVABLE...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            974,
+            186,
+            1024,
+            252
+        ],
+        "text": "WAIT!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            4,
+            1029,
+            84
+        ],
+        "text": "MARK MY\nWORDS...\nI WILL...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            986,
+            523,
+            1072,
+            644
+        ],
+        "text": "YOU KILLED SO\nMANY OF US!\nAND HURT\nCOUNTLESS\nOTHERS.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            962,
+            1055,
+            1096,
+            1191
+        ],
+        "text": "YOU SHUT\nYOUR\nMOUTH...\nALL FOR\nONE!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            967,
+            1252,
+            1086,
+            1444
+        ],
+        "text": "OH, WORTHLESS\nIZUKU MIDORIYA...\nWHEN THIS BODY IS\nPERFECTED, WE\nSHALL MEET AGAIN.",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

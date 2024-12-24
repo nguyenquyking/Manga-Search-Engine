@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            51,
+            86,
+            79,
+            147
+        ],
+        "text": "How childish!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            259,
+            85,
+            287,
+            155
+        ],
+        "text": "What a mouthful!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            399,
+            255,
+            514,
+            268
+        ],
+        "text": "Disturbing!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            759,
+            234,
+            786,
+            276
+        ],
+        "text": "Super Tacky.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            651,
+            422,
+            854,
+            774
+        ],
+        "text": "Great Explosion Murder God Dynamight!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            918,
+            95,
+            956,
+            131
+        ],
+        "text": "Ha ha!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

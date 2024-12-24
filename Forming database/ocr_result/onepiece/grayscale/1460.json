@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            125,
+            122,
+            257,
+            308
+        ],
+        "text": "...Why is my life in danger?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            155,
+            391,
+            194,
+            552
+        ],
+        "text": "Mother...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            936,
+            250,
+            1121
+        ],
+        "text": "It hasn't been tasted for poison yet.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            1157,
+            265,
+            1368
+        ],
+        "text": "Don't eat that, Momonosuke!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            115,
+            1064,
+            372
+        ],
+        "text": "...And you are meant to one day carry this nation on your shoulders.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            915,
+            997,
+            1080
+        ],
+        "text": "Because your father is a great man...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            1183,
+            879,
+            1290
+        ],
+        "text": "Munch Munch",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1393,
+            712,
+            1544,
+            912
+        ],
+        "text": "Is it true...that today...Father will be...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1419,
+            982,
+            1447,
+            1103
+        ],
+        "text": "Mother...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1406,
+            1166,
+            1548,
+            1369
+        ],
+        "text": "It's safe for you, Lord Momonosuke, Lady Hiyori.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1708,
+            260,
+            1881,
+            316
+        ],
+        "text": "Drip Drip...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1974,
+            113,
+            2032,
+            221
+        ],
+        "text": "Brother?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

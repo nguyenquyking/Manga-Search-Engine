@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            70,
+            72,
+            161,
+            198
+        ],
+        "text": "My Lord, is something troubling you?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            319,
+            137,
+            533
+        ],
+        "text": "Hurry, Fukurokuju!! We have to flee before the island blows up!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            576,
+            127,
+            679
+        ],
+        "text": "Am I dreaming or not...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            731,
+            144,
+            839
+        ],
+        "text": "Treasure Repository - 2nd Floor",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            319,
+            65,
+            361,
+            158
+        ],
+        "text": "Oh!! Not really...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            316,
+            525,
+            389
+        ],
+        "text": "Right away!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            429,
+            561,
+            523
+        ],
+        "text": "The one I like!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            712,
+            574,
+            838
+        ],
+        "text": "Hey, Komurasaki, play me that song!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            72,
+            806,
+            199
+        ],
+        "text": "These guys mean business!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            236,
+            730,
+            306
+        ],
+        "text": "BB!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            692,
+            544,
+            822,
+            670
+        ],
+        "text": "We're gettin' outta here, Inbi!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            732,
+            777,
+            843
+        ],
+        "text": "2nd Basement",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1197,
+            576,
+            1224,
+            675
+        ],
+        "text": "GYAAH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

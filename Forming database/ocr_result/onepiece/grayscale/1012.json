@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            49,
+            84,
+            153,
+            213
+        ],
+        "text": "THAT WAS A KOMAINU LION-DOG FROM THE WANO MAINLAND!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            475,
+            131,
+            573
+        ],
+        "text": "WHERE DID THAT THING COME FROM?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            22,
+            622,
+            147,
+            740
+        ],
+        "text": "INSIDE THE DOME MAIN FLOOR:\nBATH HOUSE OF THE BEAST PIRATES",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            218,
+            99,
+            343,
+            193
+        ],
+        "text": "Woof! Woof!!\nOTAMA, KOMACHIYO,\nTHANK YOU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            233,
+            263,
+            243,
+            314
+        ],
+        "text": "RAAAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            466,
+            84,
+            541,
+            198
+        ],
+        "text": "PAY-PAY, GO BITE THAT STUPID DOG IN TWO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            245,
+            535,
+            359
+        ],
+        "text": "USOPP!!\nARE YOU ALL\nRIGHT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            644,
+            538,
+            746
+        ],
+        "text": "HANG ON\nTIGHT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            463,
+            512,
+            570
+        ],
+        "text": "DADADADUM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            579,
+            56,
+            626,
+            139
+        ],
+        "text": "WHY\nME? YOU\nDO IT!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            70,
+            922,
+            140
+        ],
+        "text": "WHAT\n?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            53,
+            1090,
+            180
+        ],
+        "text": "BUT LET'S\nFOCUS ON\nTHE POSITIVE!\nI'M FINE!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            362,
+            1082,
+            469
+        ],
+        "text": "NO, NO,\nOF COURSE\nYOU'RE NOT\nALL RIGHT!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            639,
+            1107,
+            731
+        ],
+        "text": "NO\nMADDER\nWHA'\nHAPPENS,\nI'LL BE\nOKAY!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

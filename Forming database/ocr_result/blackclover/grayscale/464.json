@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            89,
+            647,
+            174,
+            809
+        ],
+        "text": "And...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            465,
+            845,
+            648,
+            1061
+        ],
+        "text": "I'll crush all of this...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            827,
+            953,
+            942
+        ],
+        "text": "KRRRRK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1369,
+            585,
+            1385,
+            617
+        ],
+        "text": "SPLOOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

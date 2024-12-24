@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            497,
+            91,
+            528,
+            212
+        ],
+        "text": "NACHT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            400,
+            757,
+            523,
+            888
+        ],
+        "text": "I'M THE VICE CAPTAIN OF THE BLACK BULLS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1286,
+            44,
+            1440,
+            162
+        ],
+        "text": "...HOW TO USE THE DEVIL'S POWER.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1289,
+            814,
+            1448,
+            927
+        ],
+        "text": "IF YOU WANT, I'LL TEACH YOU...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

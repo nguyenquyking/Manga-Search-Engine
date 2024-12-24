@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            129,
+            230,
+            233,
+            372
+        ],
+        "text": "So, what, anything goes with you?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            849,
+            504,
+            958
+        ],
+        "text": "\"Storm of Blades.\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            708,
+            38,
+            908,
+            164
+        ],
+        "text": "From the looks of it, the black creepy dude's magic does two things.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1068,
+            54,
+            1160,
+            137
+        ],
+        "text": "C'mon, that's just nuts!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            355,
+            1144,
+            495
+        ],
+        "text": "...He can boss matter around, summoning it or moving it.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            992,
+            800,
+            1105,
+            948
+        ],
+        "text": "In addition to casting spells that match what he says...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1406,
+            323,
+            1515,
+            412
+        ],
+        "text": "This storm of blades is both of them at once.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

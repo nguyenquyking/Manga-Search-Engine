@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            188,
+            136,
+            374,
+            256
+        ],
+        "text": "LET'S TRAIN WITH THAT GOAL IN MIND...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            216,
+            782,
+            401,
+            922
+        ],
+        "text": "I'VE FOUGHT THEM ONCE BEFORE, SO I CAN SET UP COUNTER-MEASURES AND PLAN TACTICS!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            921,
+            265,
+            1031
+        ],
+        "text": "VANICA AND MEGICULA.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            665,
+            661,
+            800,
+            988
+        ],
+        "text": "SHOOOOOOOOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            852,
+            893,
+            903,
+            940
+        ],
+        "text": "AH HA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            923,
+            209,
+            1041,
+            316
+        ],
+        "text": "THAT'S JUST LIKE YOU, LOLO-PECHKA.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1240,
+            115,
+            1512,
+            259
+        ],
+        "text": "I GOT THE BEST JOB THOUGH! AFTER ALL, IT'S YOU, LOLO-PECHKA! AND IT'S FINE IF I KILL YOU!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1278,
+            815,
+            1440,
+            975
+        ],
+        "text": "I WONDER IF DANTE AND ZENON ARE HAVING FUN RIGHT NOW TOO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

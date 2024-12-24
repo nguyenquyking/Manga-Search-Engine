@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            66,
+            505,
+            245,
+            678
+        ],
+        "text": "It makes no difference whether or not the League of Villains are true liberators, destined to accept this mission and burden!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            469,
+            59,
+            565,
+            194
+        ],
+        "text": "We shall endow them with divinity!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            580,
+            488,
+            689
+        ],
+        "text": "Hold them sacred!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            462,
+            872,
+            709
+        ],
+        "text": "Once Tomura Shigaraki has destroyed all...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            812,
+            63,
+            942,
+            294
+        ],
+        "text": "...We shall sow the seeds of the future!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

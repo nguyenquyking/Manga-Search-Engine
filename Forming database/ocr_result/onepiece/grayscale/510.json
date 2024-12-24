@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            46,
+            544,
+            138,
+            695
+        ],
+        "text": "Uh, Kaido? The Ogre Princess has been running wild for the past week...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            220,
+            81,
+            277,
+            166
+        ],
+        "text": "I am Oden!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            327,
+            472,
+            431
+        ],
+        "text": "Kozuki Oden!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            455,
+            472,
+            554
+        ],
+        "text": "I am Oden!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            593,
+            476,
+            703
+        ],
+        "text": "Undo my chains, Father!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            53,
+            662,
+            131
+        ],
+        "text": "I am... Huff, huff...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            755,
+            364,
+            802,
+            451
+        ],
+        "text": "Tell me, Yamato...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            486,
+            832,
+            542
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            794,
+            652,
+            819,
+            744
+        ],
+        "text": "Oden!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            57,
+            859,
+            137
+        ],
+        "text": "Did you do this...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

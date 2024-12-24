@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            164,
+            35,
+            392,
+            139
+        ],
+        "text": "I can't field them with my word soul magic as they come!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            397,
+            262,
+            565
+        ],
+        "text": "With attacks this swift and powerful...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            180,
+            847,
+            248,
+            950
+        ],
+        "text": "Wha... Wooow!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            609,
+            544,
+            719
+        ],
+        "text": "They're too fast!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

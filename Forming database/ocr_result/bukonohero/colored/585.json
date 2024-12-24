@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            254,
+            477,
+            342,
+            608
+        ],
+        "text": "My erasure hasn't been undone!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            64,
+            463,
+            188
+        ],
+        "text": "Does that mean...he's like a perfected Nomu?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            895,
+            816,
+            915,
+            921
+        ],
+        "text": "Monster!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

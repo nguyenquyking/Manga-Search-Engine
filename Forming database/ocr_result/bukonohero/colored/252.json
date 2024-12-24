@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            1,
+            95,
+            25,
+            252
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            81,
+            113,
+            260,
+            271
+        ],
+        "text": "I'VE ALREADY THOUGHT UP A STATEMENT, MORE OR LESS, BUT THERE'S ONE POINT I'M STILL FUZZY ON...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            82,
+            327,
+            218,
+            457
+        ],
+        "text": "NOW THAT DABI'S ACCUSATION IS PUBLIC, THERE'S NO AVOIDING IT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            720,
+            218,
+            871
+        ],
+        "text": "SORRY IF I SEEM PUSHY, BUT FIRST, IT'S YOUR DUTY TO PROVIDE THE PEOPLE WITH AN EXPLANATION!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            503,
+            99,
+            570,
+            183
+        ],
+        "text": "That... REMINDS ME...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            457,
+            448,
+            623,
+            579
+        ],
+        "text": "ONE FOR ALL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            64,
+            980,
+            284
+        ],
+        "text": "RAH RAH RMBL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1051,
+            14,
+            1190,
+            85
+        ],
+        "text": "RAH RAH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1077,
+            208,
+            1239,
+            338
+        ],
+        "text": "I GUESS THE ONLY PEOPLE ENTERING CENTRAL HOSPITAL RIGHT NOW ARE CONNECTED TO THE HEROES INSIDE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1187,
+            433,
+            1277,
+            586
+        ],
+        "text": "WHAT IS IT, EXACTLY?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

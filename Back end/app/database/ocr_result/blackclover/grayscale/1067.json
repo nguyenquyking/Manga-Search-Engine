@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            96,
+            636,
+            151,
+            696
+        ],
+        "text": "It's him...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            471,
+            594,
+            551,
+            692
+        ],
+        "text": "He's the cause of all this!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            610,
+            86,
+            673,
+            199
+        ],
+        "text": "Die!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            398,
+            1051,
+            503
+        ],
+        "text": "That filthy brat!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

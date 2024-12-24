@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            124,
+            12,
+            271,
+            218
+        ],
+        "text": "ENDURE IT, FINRAL!\nYOU ONLY HAVE\nEYES FOR MS.\nFINESSE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            55,
+            621,
+            392,
+            828
+        ],
+        "text": "WHAT TERRIBLE\nTIMING! WHY\nAM I OFF ON A\nSAILING VACATION\nWITH THESE TWO\nRIDICULOUSLY CUTE\nROYAL BEAUTIES,\nAND A BIRD WHO\nTRANSFORMS\nINTO A COOL\nBEAUTY!!?\n...AND ASTA.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            595,
+            118,
+            665,
+            228
+        ],
+        "text": "THE FOG\nIS ROLLING\nIN...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            553,
+            699,
+            575,
+            758
+        ],
+        "text": "OH...!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            932,
+            239,
+            1040,
+            336
+        ],
+        "text": "JUST\nWHAT KIND\nOF PLACE IS\nTHE HEART\nKINGDOM\nLIKE...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            952,
+            421,
+            1132,
+            549
+        ],
+        "text": "OH, MAN,\nWHAT KIND OF\nGIRL WILL THE\nHEART KING-\nDOM'S QUEEN\nBE LIKE!!?\nCRAAAAP! IS SHE A\nBEAUTY, TOO???",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            688,
+            1093,
+            838
+        ],
+        "text": "TO PASS\nTHROUGH THIS\nFOG, WE JUST\nNEED THE PERMITS\nTHAT THE HEART\nKINGDOM'S QUEEN\nAPPROVED\nFOR US.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1183,
+            411,
+            1232,
+            468
+        ],
+        "text": "WHAT'S\nWRONG,\nFINRAL?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

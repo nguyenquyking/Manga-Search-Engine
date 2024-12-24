@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            84,
+            89,
+            199,
+            200
+        ],
+        "text": "...That guy and my brother both joined the Gray Deer Brigade.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            611,
+            196,
+            687
+        ],
+        "text": "Half a year later, by some weird coincidence...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            432,
+            52,
+            564,
+            160
+        ],
+        "text": "Maybe because of him, Yami managed to feel at home in the Brigade as well.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            458,
+            373,
+            589,
+            483
+        ],
+        "text": "However, my brother could get along with anyone, and the two of them hit it off.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            425,
+            617,
+            516,
+            721
+        ],
+        "text": "I figured there was no way a guy like Yami...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            534,
+            523,
+            606,
+            626
+        ],
+        "text": "...would make it as a magic knight.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            828,
+            74,
+            925,
+            190
+        ],
+        "text": "Every time he said it, he tried to get me to join the Knights. What a pain.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            812,
+            292,
+            903,
+            375
+        ],
+        "text": "You've got the greatest talent for magic, brother,",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            964,
+            432,
+            1047,
+            520
+        ],
+        "text": "...But for some reason, I didn't like that.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            825,
+            609,
+            922,
+            729
+        ],
+        "text": "My brother said Yami and I were a lot alike, and it wasn't just our magic...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

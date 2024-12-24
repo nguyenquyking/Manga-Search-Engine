@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            359,
+            68,
+            472,
+            174
+        ],
+        "text": "...An endless, hellish game of tag with",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            68,
+            472,
+            174
+        ],
+        "text": "me!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            349,
+            149,
+            424
+        ],
+        "text": "Come and play...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            33,
+            498,
+            240,
+            736
+        ],
+        "text": "Shadow Magic: Monument of Atonement",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            82,
+            1392,
+            251,
+            1497
+        ],
+        "text": "...of a single spell to the class of a Supreme Devil!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            916,
+            534,
+            1020,
+            617
+        ],
+        "text": "A place with no light, life or death!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            986,
+            989,
+            1091,
+            1094
+        ],
+        "text": "I'll lock you inside a world of shadows.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            898,
+            1384,
+            958,
+            1503
+        ],
+        "text": "By sacrificing myself...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

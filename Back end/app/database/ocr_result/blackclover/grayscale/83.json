@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            164,
+            37,
+            286,
+            135
+        ],
+        "text": "If I can fight like those people, then...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            116,
+            252,
+            332,
+            370
+        ],
+        "text": "The anti-magic power was weak, but it did have an effect!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            115,
+            496,
+            380,
+            651
+        ],
+        "text": "Is there still some sort of power or potential in my sword that I haven't managed to access yet?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            377,
+            404,
+            616,
+            522
+        ],
+        "text": "It didn't erase that devil's spear, but it did block it! That means...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            288,
+            685,
+            404,
+            783
+        ],
+        "text": "...The true power of that sword.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            289,
+            850,
+            310,
+            933
+        ],
+        "text": "That's...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            944,
+            55,
+            1100,
+            393
+        ],
+        "text": "...Because I've got no magic!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            942,
+            715,
+            1212,
+            950
+        ],
+        "text": "There's a power I can use...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

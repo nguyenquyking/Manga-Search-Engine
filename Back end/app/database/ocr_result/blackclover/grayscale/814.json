@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            95,
+            628,
+            146,
+            679
+        ],
+        "text": "Give us...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            172,
+            55,
+            267,
+            136
+        ],
+        "text": "...an even better show!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            461,
+            555,
+            438,
+            640
+        ],
+        "text": "WHROOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

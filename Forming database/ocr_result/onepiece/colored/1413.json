@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            57,
+            76,
+            123,
+            165
+        ],
+        "text": "You... you dummy!! I'm...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            134,
+            222,
+            240,
+            321
+        ],
+        "text": "...you're fine the way you are.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            639,
+            175,
+            723
+        ],
+        "text": "Don't worry, it doesn't hurt...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            240,
+            636,
+            288,
+            736
+        ],
+        "text": "If you ask me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            318,
+            71,
+            399,
+            157
+        ],
+        "text": "It was my fault this happened to her...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            502,
+            399,
+            568,
+            480
+        ],
+        "text": "Whoa... Katakuri?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            627,
+            554,
+            732
+        ],
+        "text": "I was too soft, too naive!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            686,
+            54,
+            728,
+            125
+        ],
+        "text": "L-look, sorry...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            646,
+            266,
+            738,
+            372
+        ],
+        "text": "You'll pay for what you did to my sister's face!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            65,
+            882,
+            169
+        ],
+        "text": "Brulee.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            55,
+            1014,
+            116
+        ],
+        "text": "What?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            820,
+            424,
+            896,
+            533
+        ],
+        "text": "I'll make them fear my perfection!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            650,
+            889,
+            737
+        ],
+        "text": "I'll show no weakness!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            68,
+            23,
+            192,
+            177
+        ],
+        "text": "...IN MY PET FLAVOR CEMETERY!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            94,
+            613,
+            183,
+            696
+        ],
+        "text": "ALONG WITH ALL CONFECTIONARY!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            322,
+            114,
+            386,
+            185
+        ],
+        "text": "AND RICH",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            232,
+            382,
+            285
+        ],
+        "text": "AND RICH",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            328,
+            333,
+            380,
+            407
+        ],
+        "text": "AND MILKY",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            327,
+            439,
+            379,
+            500
+        ],
+        "text": "AND MILKY",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            334,
+            532,
+            370,
+            684
+        ],
+        "text": "SO SWEET",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            633,
+            381,
+            703
+        ],
+        "text": "SO SWEET",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            344,
+            577,
+            456
+        ],
+        "text": "SHIP-PY",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            660,
+            466,
+            751,
+            565
+        ],
+        "text": "SHIP-PY SHIP-PY",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            630,
+            599,
+            704,
+            700
+        ],
+        "text": "AND RISKY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            361,
+            1113,
+            410
+        ],
+        "text": "??!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

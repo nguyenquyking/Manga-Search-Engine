@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            81,
+            395,
+            158,
+            513
+        ],
+        "text": "DON'T JUMP FROM THIS HEIGHT! IT'S DANGEROUS!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            756,
+            191,
+            908
+        ],
+        "text": "NOT SO FAST, YOUNG LADY! UGH! IF ONLY I HADN'T",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            530,
+            96,
+            633,
+            221
+        ],
+        "text": "I HAVE TO GO ASK THEM. I HAVE TO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            493,
+            777,
+            602,
+            925
+        ],
+        "text": "FEELING ALL CONFUSED AND GLOOMY JUST MAKES ME FEEL SICK.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            837,
+            68,
+            900,
+            171
+        ],
+        "text": "YOU PEOPLE, I SWEAR!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            213,
+            911,
+            357
+        ],
+        "text": "HEY. STOP SPYING ON RANDOM CRAP AND HURRY UP! UNLESS YOU WANNA GET BURNED?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            789,
+            421,
+            855,
+            505
+        ],
+        "text": "UHHH... WHO CARES?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            782,
+            606,
+            902,
+            718
+        ],
+        "text": "SAY SOMETHING, DABI! DON'T JUST STAND THERE GRINNING!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            748,
+            865,
+            854
+        ],
+        "text": "AT THIS VERY MOMENT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1083,
+            118,
+            1126,
+            200
+        ],
+        "text": "...OVER TWICE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1077,
+            272,
+            1164,
+            416
+        ],
+        "text": "...BUT YOU'RE NOT THE ONLY ONE FEELING MESSED UP...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1067,
+            776,
+            1088,
+            838
+        ],
+        "text": "TOGA.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1257,
+            490,
+            1389,
+            658
+        ],
+        "text": "I KNOW WE'RE JUST A GANG OF STRAYS WHO HAPPENED TO FIND EACH OTHER...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

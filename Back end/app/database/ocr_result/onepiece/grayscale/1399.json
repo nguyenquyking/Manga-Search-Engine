@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            479,
+            852,
+            708,
+            1120
+        ],
+        "text": "PUNK ROTTEN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1159,
+            797,
+            1270,
+            1042
+        ],
+        "text": "BOUNCE-MAN!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1864,
+            885,
+            2071,
+            1173
+        ],
+        "text": "ROOM!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            324,
+            55,
+            401,
+            220
+        ],
+        "text": "GYAAAAA!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            37,
+            440,
+            117,
+            506
+        ],
+        "text": "FWOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            60,
+            654,
+            106,
+            744
+        ],
+        "text": "LORD OROCHI...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            155,
+            706,
+            180,
+            759
+        ],
+        "text": "WOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            357,
+            663,
+            435,
+            739
+        ],
+        "text": "FWAH?! HEY!! NO, NOT OVER HERE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            46,
+            499,
+            163
+        ],
+        "text": "DOOM-DUT-DA-DA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            533,
+            197,
+            595,
+            291
+        ],
+        "text": "...ALWAYS KEEPS ITS PROMISES!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            532,
+            321,
+            595,
+            382
+        ],
+        "text": "THE KOZUKI CLAN...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            519,
+            414,
+            602,
+            543
+        ],
+        "text": "KANJURO, YOU IDIOT!! HELP ME, HIYORI!! YEEEOW!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            588,
+            760,
+            721
+        ],
+        "text": "THE DAWN IS SURE TO COME.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            755,
+            62,
+            766,
+            85
+        ],
+        "text": "...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            777,
+            269,
+            795,
+            336
+        ],
+        "text": "GRRRGG...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            883,
+            63,
+            914,
+            88
+        ],
+        "text": "ZST!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            928,
+            138,
+            1024,
+            304
+        ],
+        "text": "GEAR FIVE!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            929,
+            343,
+            1033,
+            468
+        ],
+        "text": "THIS IS THE PINNACLE OF WHAT I CAN DO!! THIS IS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            952,
+            44,
+            956,
+            112
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            825,
+            535,
+            822,
+            664
+        ],
+        "text": "DOOM-DUT-DA-DA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            913,
+            512,
+            988,
+            599
+        ],
+        "text": "MY HEARTBEAT SOUNDS SO FUNNY!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            875,
+            615,
+            969,
+            748
+        ],
+        "text": "OOOH, I CAN DO EVERYTHING I WANTED TO DO!! I THINK I CAN FIGHT A BIT LONGER...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1122,
+            614,
+            1128,
+            749
+        ],
+        "text": "DOOM-DUT-DA-DA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

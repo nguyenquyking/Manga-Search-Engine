@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            144,
+            699,
+            422,
+            976
+        ],
+        "text": "CAN YOU MAKE MISS FINNES HAPPY WHEN YOU'VE GOT THAT HANGING OVER YOU?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            632,
+            72,
+            872,
+            261
+        ],
+        "text": "SO WAS BREAKING MY CURSE ONE OF THE REASONS BEHIND THIS INVESTIGATION?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            593,
+            877,
+            769,
+            974
+        ],
+        "text": "DO YOUR LEVEL BEST TO BREAK THAT CURSE, ALL RIGHT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            651,
+            1019,
+            761
+        ],
+        "text": "IF YOU DON'T, I MIGHT WIND UP MARRYING MISS FINNES FIRST.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1257,
+            61,
+            1400,
+            206
+        ],
+        "text": "I WON'T LET YOU GET A HAPPY ENDING THAT EASILY, FINRAL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1228,
+            686,
+            1249,
+            752
+        ],
+        "text": "HMPH",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

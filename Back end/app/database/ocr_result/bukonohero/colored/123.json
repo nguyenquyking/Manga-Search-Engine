@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            62,
+            296,
+            115,
+            391
+        ],
+        "text": "You've certainly matured...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            613,
+            162,
+            703
+        ],
+        "text": "It's too dangerous out there. Law and order is a thing of the past.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            154,
+            523,
+            201,
+            601
+        ],
+        "text": "Even you kids would be-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            204,
+            70,
+            220,
+            187
+        ],
+        "text": "...Todoroki!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            514,
+            417,
+            624
+        ],
+        "text": "Given that the villains now pursue him...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            373,
+            114,
+            459,
+            239
+        ],
+        "text": "...and that he wished to leave U.A., I authorized the team-up.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            438,
+            355,
+            470,
+            408
+        ],
+        "text": "FSSHH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            562,
+            252,
+            597,
+            292
+        ],
+        "text": "Huh?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            597,
+            73,
+            706,
+            170
+        ],
+        "text": "From the moment a student is accepted into this school...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            588,
+            616,
+            622,
+            678
+        ],
+        "text": "However...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            785,
+            148,
+            819,
+            182
+        ],
+        "text": "...your hero academy!",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            788,
+            341,
+            851,
+            394
+        ],
+        "text": "Join us! This will be...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            951,
+            60,
+            1013,
+            187
+        ],
+        "text": "...They fall under our protection.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            976,
+            545,
+            1043,
+            604
+        ],
+        "text": "...at any time.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            634,
+            985,
+            705
+        ],
+        "text": "...He's free to return to us...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            70,
+            54,
+            168,
+            185
+        ],
+        "text": "It's the actual signal for a real raid!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            239,
+            174,
+            356
+        ],
+        "text": "That flyer wasn't actually Lord Yasui'e's prank...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            392,
+            122,
+            450
+        ],
+        "text": "What?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            551,
+            202,
+            704
+        ],
+        "text": "Did you hear the rumor that Lord Yasui was covering for the Red-Scabbards samurai?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            114,
+            516,
+            309
+        ],
+        "text": "Even if Kin'emon and his gang are alive, their spirits will be broken by now.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            426,
+            375,
+            513,
+            532
+        ],
+        "text": "Remember what happened to the Kozuki Clan 20 years ago...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            423,
+            587,
+            505,
+            688
+        ],
+        "text": "Don't go giving me pointless hope, now...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            40,
+            750,
+            133
+        ],
+        "text": "There won't be no more uprisin'.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            532,
+            19,
+            589,
+            45
+        ],
+        "text": "KCHANK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            844,
+            43,
+            958,
+            150
+        ],
+        "text": "There's no help for a locked-up nation like ours!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1014,
+            25,
+            1119,
+            160
+        ],
+        "text": "And nobody can come along...and put up a fight against Kaido!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            836,
+            430,
+            908,
+            503
+        ],
+        "text": "Whoa! Get up, man!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            842,
+            610,
+            1098,
+            708
+        ],
+        "text": "Hey!! We'll still be slaves...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            215,
+            925,
+            319
+        ],
+        "text": "GONG...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

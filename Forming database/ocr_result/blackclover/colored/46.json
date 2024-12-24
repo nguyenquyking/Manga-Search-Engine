@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            94,
+            0,
+            234,
+            91
+        ],
+        "text": "But...with the way things are going...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            59,
+            362,
+            279,
+            528
+        ],
+        "text": "Ah, well, I wouldn't have been able to contend with that guy's light magic, should I have taken over his body anyway...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            101,
+            723,
+            293,
+            848
+        ],
+        "text": "Is all of this honestly better than just handing your body over to me?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            708,
+            660,
+            843
+        ],
+        "text": "Will there be anything left after all this...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1102,
+            4,
+            1141,
+            81
+        ],
+        "text": "PRINCE",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1033,
+            278,
+            1129,
+            420
+        ],
+        "text": "Can I even defend against this to begin with?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            612,
+            1140,
+            734
+        ],
+        "text": "Will...even if I defend against it, the guy will...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1245,
+            291,
+            1296,
+            527
+        ],
+        "text": "OneHoox",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            718,
+            334,
+            730,
+            359
+        ],
+        "text": "...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

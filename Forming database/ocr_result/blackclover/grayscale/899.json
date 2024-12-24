@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            32,
+            121,
+            57,
+            151
+        ],
+        "text": "AAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            108,
+            570,
+            129,
+            636
+        ],
+        "text": "LISTEN.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            249,
+            71,
+            338,
+            153
+        ],
+        "text": "THIS IS ALL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            570,
+            849,
+            705
+        ],
+        "text": "...YOUR FAULT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            703,
+            966,
+            729
+        ],
+        "text": "AAA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            84,
+            1510,
+            564,
+            1910
+        ],
+        "text": "IF HE REFUSES TO RECOGNIZE ALL THAT, I CAN'T TAKE IT LYING DOWN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1173,
+            94,
+            1282,
+            302
+        ],
+        "text": "I WILL GET YOUR APPROVAL!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1221,
+            754,
+            1335,
+            946
+        ],
+        "text": "CHOSE ME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1212,
+            1168,
+            1317,
+            1322
+        ],
+        "text": "I'LL BE TAKING THAT SEAL FROM YOU NOW.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1128,
+            1682,
+            1267,
+            1886
+        ],
+        "text": "BECAUSE ALL MIGHT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1432,
+            12,
+            1495,
+            120
+        ],
+        "text": "END",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1446,
+            1710,
+            1488,
+            1986
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

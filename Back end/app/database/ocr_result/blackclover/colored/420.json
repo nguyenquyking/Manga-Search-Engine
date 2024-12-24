@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            707,
+            21,
+            703,
+            177
+        ],
+        "text": "COLOR BY @SSKEYR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            898,
+            135,
+            899,
+            183
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            646,
+            445,
+            647,
+            574
+        ],
+        "text": "COLOR CLOVERS",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            679,
+            380,
+            746,
+            494
+        ],
+        "text": "EVERYTHING AROUND THAT THING JUST VANISHED?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            552,
+            767,
+            607
+        ],
+        "text": "What the...?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

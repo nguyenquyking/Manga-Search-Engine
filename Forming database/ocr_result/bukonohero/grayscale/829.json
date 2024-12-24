@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            85,
+            558,
+            141,
+            682
+        ],
+        "text": "As Hawks had explained to Endeavor...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            167,
+            465,
+            325,
+            610
+        ],
+        "text": "...Rumors of Nomu sightings had been spreading nationwide, and for a time, people weren't sure what to believe.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            453,
+            87,
+            553,
+            207
+        ],
+        "text": "And as the rumors grew more pervasive, so too did people's anxieties and fears.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            482,
+            595,
+            679
+        ],
+        "text": "...had been gnawing away at society's collective consciousness ever since the first attack on U.A. The concept of uncanny, not-quite-human entities...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            764,
+            122,
+            849,
+            203
+        ],
+        "text": "...until the levees burst.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            769,
+            533,
+            854,
+            669
+        ],
+        "text": "That frustration had built up over time...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

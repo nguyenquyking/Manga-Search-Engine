@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            64,
+            1293,
+            68,
+            1419
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            654,
+            1226,
+            622,
+            1401
+        ],
+        "text": "VWIIIIISH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            966,
+            31,
+            1332,
+            321
+        ],
+        "text": "I'd love to know what sort of spell they used to take him out.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1227,
+            426,
+            1284,
+            523
+        ],
+        "text": "...Kh... Kh...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1035,
+            1213,
+            1154,
+            1417
+        ],
+        "text": "DANTE LOST.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1394,
+            9,
+            1431,
+            628
+        ],
+        "text": "@ Nacht //@Colorclovers",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1543,
+            34,
+            1802,
+            302
+        ],
+        "text": "There aren't many left, and I doubt they'll recover you entirely, but I do have some recovery magic sweets.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1973,
+            106,
+            2044,
+            174
+        ],
+        "text": "Eat up.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1925,
+            715,
+            2159,
+            975
+        ],
+        "text": "However, unless we defeat the remaining two, we won't be able to stop it entirely.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1916,
+            1238,
+            2184,
+            1442
+        ],
+        "text": "Defeating a Dark Triad member is bound to have lowered Qliphorth's efficiency.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

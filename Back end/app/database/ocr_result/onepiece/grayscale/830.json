@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            54,
+            84,
+            170,
+            238
+        ],
+        "text": "...with the\nICY CHILL OF\nHELL!! YO HO\nHO HO!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            107,
+            597,
+            223,
+            744
+        ],
+        "text": "BEGGING\nYOUR\nPARDON!!\nI'VE CUT YOUR\nTHREADS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            297,
+            644,
+            322,
+            730
+        ],
+        "text": "WHOA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            73,
+            509,
+            131
+        ],
+        "text": "TING!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            711,
+            527,
+            799,
+            723
+        ],
+        "text": "BLACK MARIA, HE'S\nFROZEN AND CRACKED\nALL OF YOUR SPIDER\nTHREAD TRAPS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            850,
+            392,
+            873,
+            443
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            953,
+            53,
+            1052,
+            163
+        ],
+        "text": "YOU\nDON'T GET\nTO SAY\nTHAT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            351,
+            1029,
+            441
+        ],
+        "text": "AAAH!\nSPOOKY\nMONSTERS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            515,
+            1103,
+            615
+        ],
+        "text": "THAT\nWORKED\nOUT WELL!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            656,
+            1096,
+            725
+        ],
+        "text": "YO HO\nHO!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

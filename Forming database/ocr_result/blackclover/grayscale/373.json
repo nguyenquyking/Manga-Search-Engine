@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            83,
+            717,
+            231,
+            833
+        ],
+        "text": "Who's putting these people through this?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            883,
+            131,
+            954
+        ],
+        "text": "Who is it?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            200,
+            545,
+            409,
+            661
+        ],
+        "text": "The captain who rules this fortress has an eerie magic.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            254,
+            46,
+            392,
+            166
+        ],
+        "text": "It's a dreadful power, as if he isn't even human!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            571,
+            849,
+            630,
+            911
+        ],
+        "text": "Got it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            69,
+            768,
+            205
+        ],
+        "text": "...I'll go crush all the bad guys that are in here!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            757,
+            832,
+            892
+        ],
+        "text": "In that case, for starters...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            45,
+            1380,
+            117
+        ],
+        "text": "Weeooo!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1360,
+            275,
+            1464,
+            362
+        ],
+        "text": "It'll be fine.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1084,
+            799,
+            1182,
+            938
+        ],
+        "text": "But... that can't be done!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1345,
+            695,
+            1473,
+            811
+        ],
+        "text": "There are still hordes of soldiers, and besides...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

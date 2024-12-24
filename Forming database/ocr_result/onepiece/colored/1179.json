@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            106,
+            54,
+            199,
+            164
+        ],
+        "text": "What's with that rebellious look?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            341,
+            140,
+            409,
+            264
+        ],
+        "text": "AAAAGH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            348,
+            689,
+            369,
+            756
+        ],
+        "text": "FWIP!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            648,
+            76,
+            709,
+            219
+        ],
+        "text": "It's the Lion's patented Family Jewels Attack!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            798,
+            61,
+            901,
+            176
+        ],
+        "text": "Master Holdem,\nWhat should we do with the kid?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            819,
+            212,
+            878,
+            293
+        ],
+        "text": "Why does he never learn...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            342,
+            920,
+            442
+        ],
+        "text": "So they're the Lion's Jewels at the same time!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            802,
+            481,
+            892,
+            570
+        ],
+        "text": "But they share the same body!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            603,
+            846,
+            745
+        ],
+        "text": "GROWWR!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

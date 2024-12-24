@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            128,
+            71,
+            177,
+            145
+        ],
+        "text": "Incoming, from Midnight.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            225,
+            144,
+            322
+        ],
+        "text": "Mt. Lady really got tossed aside?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            609,
+            168,
+            753
+        ],
+        "text": "Yes, thanks to Jiro's sound waves and Shoji's eyes!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            811,
+            177,
+            922
+        ],
+        "text": "Are you aware... of what's going on?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            116,
+            513,
+            267
+        ],
+        "text": "...Put him to sleep!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            742,
+            538,
+            944
+        ],
+        "text": "Since brute force won't stop him...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            742,
+            346,
+            807,
+            478
+        ],
+        "text": "I don't understand, Sensei!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            548,
+            807,
+            674
+        ],
+        "text": "TMP TMP TMP TMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            726,
+            829,
+            749,
+            898
+        ],
+        "text": "Huh?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1206,
+            220,
+            1253,
+            289
+        ],
+        "text": "She's mine.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1194,
+            552,
+            1272,
+            681
+        ],
+        "text": "He must be sedated!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1229,
+            774,
+            1362,
+            938
+        ],
+        "text": "You'll be breaking the law, sure, but...the situation's desperate!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

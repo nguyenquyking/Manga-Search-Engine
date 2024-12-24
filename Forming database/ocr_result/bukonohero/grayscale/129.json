@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            204,
+            355,
+            215,
+            421
+        ],
+        "text": "ZWSHH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            131,
+            1362,
+            267,
+            1516
+        ],
+        "text": "DEKU AIN'T HERE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            857,
+            933,
+            947
+        ],
+        "text": "...DIDN'T TRIGGER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            1136,
+            961,
+            1210
+        ],
+        "text": "THE 4TH'S DANGER SENSE",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            957,
+            1235,
+            1088,
+            1353
+        ],
+        "text": "YOU'RE SUPPOSED TO BE WITH SHIGA-RAKI...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            1389,
+            1109,
+            1473
+        ],
+        "text": "DEKU? WHY'RE YOU HERE...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1119,
+            59,
+            1133,
+            232
+        ],
+        "text": "To be continued!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

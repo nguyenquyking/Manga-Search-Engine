@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            231,
+            818,
+            401,
+            956
+        ],
+        "text": "We've brought a mission from the Wizard King.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            572,
+            192,
+            873,
+            819
+        ],
+        "text": "...and those suspected of ties to the devils are to be exiled from the kingdom and kept under observation. And...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            547,
+            750,
+            769,
+            954
+        ],
+        "text": "The Black Bulls Magic Knight Brigade...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1121,
+            747,
+            1328,
+            908
+        ],
+        "text": "...While they are abroad, they are assigned the mission of exploring and investigating the devils.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1284,
+            202,
+            1345,
+            278
+        ],
+        "text": "Wha...?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

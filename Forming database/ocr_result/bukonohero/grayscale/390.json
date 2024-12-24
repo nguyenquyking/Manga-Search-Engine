@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            169,
+            599,
+            229,
+            720
+        ],
+        "text": "ANNND, DUNK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            724,
+            452,
+            808,
+            565
+        ],
+        "text": "Most things in the world can be solved by a good bath.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            906,
+            65,
+            1013,
+            196
+        ],
+        "text": "Gotta mind the instructions and the suggested amount though!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            916,
+            624,
+            1093,
+            762
+        ],
+        "text": "You trying to fill the tub with dirt?! Scrub his skin raw with a wire brush and industrial-strength cleanser first!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

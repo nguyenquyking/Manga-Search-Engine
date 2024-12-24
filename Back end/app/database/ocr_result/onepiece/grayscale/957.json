@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            48,
+            103,
+            123,
+            231
+        ],
+        "text": "All these fetching young heads, ripe for the taking!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            38,
+            317,
+            88,
+            389
+        ],
+        "text": "Straw Hat.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            568,
+            145,
+            726
+        ],
+        "text": "And here's another one!! All of you, stay back and watch me fight!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            981,
+            102,
+            1031
+        ],
+        "text": "DOOM!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1027,
+            881,
+            1069,
+            952
+        ],
+        "text": "ZSH...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            962,
+            148,
+            1087,
+            286
+        ],
+        "text": "...They will be the ones to strike down Kaido!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            984,
+            353,
+            1066,
+            449
+        ],
+        "text": "If I am dead by then...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            968,
+            524,
+            1063,
+            660
+        ],
+        "text": "...Will come swarming into the new world!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            936,
+            1317,
+            1046,
+            1428
+        ],
+        "text": "Over 20 years in the future...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            948,
+            1133,
+            1051,
+            1287
+        ],
+        "text": "...Powerful pirates leading the next generation...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

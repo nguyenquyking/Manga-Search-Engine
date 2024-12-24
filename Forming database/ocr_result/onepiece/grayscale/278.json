@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            107,
+            56,
+            198,
+            169
+        ],
+        "text": "He didn't blot out the soba flavor?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            129,
+            201,
+            184,
+            275
+        ],
+        "text": "What?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            430,
+            606,
+            567,
+            724
+        ],
+        "text": "...the undeniable flavor of soba blooms in my mouth!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            538,
+            53,
+            607,
+            189
+        ],
+        "text": "I'd understand it if he was using top-quality flour...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            820,
+            74,
+            912,
+            171
+        ],
+        "text": "Good, good! Let me knead a fresh batch of noodles real quick.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            714,
+            312,
+            792,
+            386
+        ],
+        "text": "Yikes! This line appeared outta nowhere!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            424,
+            853,
+            478
+        ],
+        "text": "I'll take three!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            540,
+            790,
+            620
+        ],
+        "text": "Pa, I wanna try those noodles!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            511,
+            911,
+            569
+        ],
+        "text": "One bowl for me, please!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            701,
+            632,
+            822,
+            708
+        ],
+        "text": "But what he's using is clearly second-rate!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            656,
+            932,
+            686
+        ],
+        "text": "So how?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

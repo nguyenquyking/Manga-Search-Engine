@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            51,
+            114,
+            169,
+            276
+        ],
+        "text": "That flame's gonna go and save Big Mom!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            40,
+            332,
+            159,
+            440
+        ],
+        "text": "Hey!! Traffy!! Huff, huff...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            365,
+            760,
+            434,
+            894
+        ],
+        "text": "Mamaaa!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            52,
+            455,
+            126
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            135,
+            658,
+            303
+        ],
+        "text": "No need to take it too far!! Fwa fwa fwa!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            382,
+            637,
+            544
+        ],
+        "text": "The point was to separate the two of",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            560,
+            606,
+            659,
+            764
+        ],
+        "text": "The plan might as well be a failure if anyone dies...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            575,
+            800,
+            628,
+            887
+        ],
+        "text": "Let him go...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            122,
+            1054,
+            225
+        ],
+        "text": "Zwip!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1010,
+            378,
+            1099,
+            526
+        ],
+        "text": "We'll deal with Big Mom!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1232,
+            180,
+            1290,
+            359
+        ],
+        "text": "Clank clank clank!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1274,
+            53,
+            1337,
+            168
+        ],
+        "text": "Kid!! Killer!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1279,
+            566,
+            1369,
+            699
+        ],
+        "text": "Clank!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

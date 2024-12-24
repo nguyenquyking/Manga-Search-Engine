@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            653,
+            150,
+            730,
+            294
+        ],
+        "text": "FOR YOU\nTO BE MY\nBOYFRIEND.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            898,
+            30,
+            953,
+            160
+        ],
+        "text": "...OUT OF PURE,\nGENUINE\nAFFECTION.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            909,
+            573,
+            981,
+            712
+        ],
+        "text": "THAT'S BECAUSE\nWHEN SHE\nHURTS PEOPLE,\nSHE DOES SO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            58,
+            1135,
+            233
+        ],
+        "text": "To be continued!",
+        "panel_id": "2",
+        "type": "caption"
+    }
+]

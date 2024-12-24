@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            93,
+            478,
+            226,
+            694
+        ],
+        "text": "(One for all can't be transferred anymore.)",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            101,
+            427,
+            198
+        ],
+        "text": "(That's what you're saying.)",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            326,
+            749,
+            465
+        ],
+        "text": "...and you're unlikely to come across another who needs such power.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            607,
+            513,
+            735,
+            651
+        ],
+        "text": "Quirkless individuals have all but vanished in your generation...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            39,
+            1024,
+            172
+        ],
+        "text": "If only we had found a way to interact with the wielder sooner...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            887,
+            221,
+            1087,
+            392
+        ],
+        "text": "None of us knew any of this at the time... But as fate would have it, it passed into his hands and then yours.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

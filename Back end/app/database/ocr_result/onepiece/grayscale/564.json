@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            424,
+            114,
+            446,
+            157
+        ],
+        "text": "SHAK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            499,
+            657,
+            507,
+            692
+        ],
+        "text": "FWAP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            678,
+            46,
+            761,
+            178
+        ],
+        "text": "MARICADE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            28,
+            996,
+            165
+        ],
+        "text": "FOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            976,
+            339,
+            1062,
+            457
+        ],
+        "text": "MY THREADS ARE FLAMMABLE,\nYOU KNOW.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            969,
+            668,
+            1035,
+            717
+        ],
+        "text": "HA HA!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

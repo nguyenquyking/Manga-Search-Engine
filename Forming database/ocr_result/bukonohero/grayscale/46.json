@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            128,
+            496,
+            326,
+            655
+        ],
+        "text": "JUST AIM ALL YOUR RAGE AT US!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            404,
+            740,
+            711
+        ],
+        "text": "PHOSPHOR!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1120,
+            60,
+            1134,
+            231
+        ],
+        "text": "To be continued!",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

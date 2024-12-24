@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            72,
+            184,
+            144,
+            262
+        ],
+        "text": "I'm like \"BWAH\" over here!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            116,
+            564,
+            167,
+            690
+        ],
+        "text": "HRAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            335,
+            616,
+            414,
+            700
+        ],
+        "text": "This is totally nuts, manga!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            446,
+            507,
+            517,
+            589
+        ],
+        "text": "You hanging in there?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            78,
+            385,
+            161
+        ],
+        "text": "Focus up, first-years!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            78,
+            527,
+            190
+        ],
+        "text": "Hey, we're basically second-years at this point! Ain't that right, Manga?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            260,
+            516,
+            460
+        ],
+        "text": "COMICMAN\n(Manga Fukidashi)\nU.A. Hero Course\nClass 1-B",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            665,
+            23,
+            755,
+            156
+        ],
+        "text": "Your boy Chargebolt is mega-charged!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            314,
+            724,
+            375
+        ],
+        "text": "You bet!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            568,
+            807,
+            660
+        ],
+        "text": "This plan falls apart without us!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            454,
+            999,
+            567
+        ],
+        "text": "We gotta give it our all to keep Shigaraki locked in here!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            50,
+            1065,
+            168
+        ],
+        "text": "...is powering this tomb of yours.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            975,
+            214,
+            1088,
+            356
+        ],
+        "text": "Everything we have built up and worked toward...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            86,
+            50,
+            201,
+            150
+        ],
+        "text": "...But when their father was arrested, the family split apart.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            172,
+            188,
+            269
+        ],
+        "text": "Apparently they were sons of a traditional dancing school...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            326,
+            180,
+            448
+        ],
+        "text": "They tried to make money by dancing, but the townsfolk were cold to them.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            563,
+            186,
+            676
+        ],
+        "text": "In Ringo, we met two hungry urchin brothers.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            283,
+            44,
+            357,
+            111
+        ],
+        "text": "I didn't say you could eat!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            54,
+            540,
+            247
+        ],
+        "text": "The little brats started gobbling up our Oden and crying.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            489,
+            338,
+            576,
+            483
+        ],
+        "text": "Son of Hanayanagi Dance Master\nIZO",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            498,
+            565,
+            535,
+            650
+        ],
+        "text": "Little Brother\nKikunojo",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            669,
+            47,
+            788,
+            181
+        ],
+        "text": "He tried to go after my hair, and once I walloped him, he started following us.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            666,
+            297,
+            786,
+            426
+        ],
+        "text": "It turned out to be a little freak who sold brushes made with hair for a living.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            685,
+            479,
+            807,
+            573
+        ],
+        "text": "...That cut the hair off of both the living and the dead.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            673,
+            590,
+            780,
+            697
+        ],
+        "text": "In Kibi, we came across a monstrous creature...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            830,
+            130,
+            897,
+            205
+        ],
+        "text": "AAAH!\nI give!\nI give!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            33,
+            948,
+            124
+        ],
+        "text": "I thought you were a corpse!!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1009,
+            47,
+            1111,
+            195
+        ],
+        "text": "He said he was persecuted for this in the past. If you ask me, he deserved it.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1058,
+            275,
+            1112,
+            445
+        ],
+        "text": "Goblin of Kibi\nKanjuro",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

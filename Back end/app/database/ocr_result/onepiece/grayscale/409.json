@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            35,
+            79,
+            137,
+            208
+        ],
+        "text": "GO AND LIGHT THEM ALL UP, KANJURO!! BLOW IT ALL TO KINGDOM COME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            626,
+            140,
+            730
+        ],
+        "text": "DON'T THINK I DON'T KNOW, KAIDO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            200,
+            616,
+            306,
+            750
+        ],
+        "text": "YOU'VE GOT THAT HUGE ARMORY BENEATH THE CASTLE... ALL THOSE WEAPONS I HAD YOU CREATE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            208,
+            60,
+            333,
+            230
+        ],
+        "text": "AND WHERE ARE YOU, FUKUROKUJU?! GET HERE SO WE CAN ESCAPE!! THIS PIRATE WAR DOES NOT CONCERN US!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            53,
+            496,
+            137
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            430,
+            630,
+            499,
+            724
+        ],
+        "text": "YOUNG MASTER YAMATO?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            635,
+            735,
+            732
+        ],
+        "text": "WHERE ARE YOU--",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            59,
+            1015,
+            216
+        ],
+        "text": "DO WHATEVER YOU CAN TO SLOW THE ISLAND'S DESCENT, MOMONOSUKE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            842,
+            576,
+            986,
+            753
+        ],
+        "text": "THE ARMORY IS ON THE BOTTOM FLOOR OF THE CASTLE BASEMENT!! I HOPE I CAN MAKE",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

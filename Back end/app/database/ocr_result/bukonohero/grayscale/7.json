@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            14,
+            456,
+            39,
+            662
+        ],
+        "text": "TAKOBA NATIONAL STADIUM",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            289,
+            352,
+            432,
+            479
+        ],
+        "text": "Despite the fact he told us, the gap between Dabi and himself was far too big!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            680,
+            536,
+            841
+        ],
+        "text": "When this battle's done and dusted, we oughta congratulate him properly!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            719,
+            704,
+            796
+        ],
+        "text": "THE SKY",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            808,
+            230,
+            886,
+            428
+        ],
+        "text": "U.A. SCHOOL BUILDING",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1127,
+            73,
+            1189,
+            192
+        ],
+        "text": "That Todoroki...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            656,
+            1107,
+            766
+        ],
+        "text": "Of course he won...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

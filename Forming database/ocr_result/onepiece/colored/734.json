@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            33,
+            193,
+            354,
+            387
+        ],
+        "text": "(?\u770c ?\u3055\u3093)",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            288,
+            124,
+            312,
+            297
+        ],
+        "text": "\u30cf\u30b3\u56db\u7687\uff5e!!\u5f37\u30a7\u305e!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            294,
+            447,
+            321,
+            667
+        ],
+        "text": "\u9ea6\u308f\u3089\u3061\u3083\u3093\u30d5\u30a1\u30f3\u30af\u30e9\u30d6!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            324,
+            267,
+            354,
+            387
+        ],
+        "text": "(?\u770c ?\u3055\u3093)",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            696,
+            399,
+            733,
+            583
+        ],
+        "text": "\u4f55\u4eba\u3044\u308b\u3093\u3060!? \u52aa\u529b\u8cde!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            525,
+            47,
+            730,
+            67
+        ],
+        "text": "\u30b7\u30f3\u30d7\u30eb\u306b\u308a\u308a\u3057\u304f\u30ca\u30df\u2661",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            804,
+            329,
+            926,
+            350
+        ],
+        "text": "\u30b4\u30fc\u30b9\u30c8\u30d7\u30ea\u30f3\u30bb\u30b9\u306e\u5348\u5f8c\u2661",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            932,
+            643,
+            949,
+            687
+        ],
+        "text": "\u5fcd\u8005\u8ecd\u56e3\u63c3\u3044\u8e0f\u307f!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1027,
+            173,
+            1148,
+            662
+        ],
+        "text": "\u30a6\u30bd\u30c3\u30d7\u69d8\u3088\u308a\u544a\u77e5\n[ONE PIECE.com]\u3067\u300c\u30a6\u30bd\u30c3\u30d7\u30ae\u30e3\u30e9\u30ea\u30fc\u6d77\u8cca\u56e3\u300d\u304c\u30ab\u30e9\u30fc\u3067\u898b\u308c\u308b\u305e!!!\n\u60dc\u3057\u304f\u3082\u30b3\u30df\u30c3\u30af\u30b9\u306b\u8f09\u308c\u306a\u304b\u3063\u305f\u30af\u30eb\u30fc\u9054\u306e\u4f5c\u54c1\u3082\u53b3\u9078\u516c\u958b\u3060!!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1154,
+            710,
+            1171,
+            747
+        ],
+        "text": "202",
+        "panel_id": "6",
+        "type": "page_number"
+    }
+]

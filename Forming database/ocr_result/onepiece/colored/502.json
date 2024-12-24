@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            75,
+            28,
+            192,
+            154
+        ],
+        "text": "But those are hardy samurai locked up in there...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            229,
+            184,
+            334
+        ],
+        "text": "They'll even arrest the family members who dare to protest!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            88,
+            366,
+            153,
+            481
+        ],
+        "text": "...for those captured in the capital.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            64,
+            506,
+            162,
+            571
+        ],
+        "text": "Sadly, there's nothing we can do...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            604,
+            165,
+            699
+        ],
+        "text": "Rasetsu Prisoners' Quarters,\nFlower Capital",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            68,
+            556,
+            175
+        ],
+        "text": "We want to join in when everyone is risking their lives!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            457,
+            224,
+            528,
+            317
+        ],
+        "text": "This is our final chance!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            349,
+            516,
+            431
+        ],
+        "text": "Dammit!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            448,
+            555,
+            544,
+            688
+        ],
+        "text": "Hey, Guard! It's nearly the day of the festival! We want to take part!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            536,
+            466,
+            609,
+            547
+        ],
+        "text": "No!! Silence!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            60,
+            945,
+            122
+        ],
+        "text": "Got it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            182,
+            948,
+            316
+        ],
+        "text": "Let us meet at the promised port!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            359,
+            933,
+            517
+        ],
+        "text": "Use your remaining time to travel and prepare!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            570,
+            930,
+            643
+        ],
+        "text": "Well done, everyone!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            21,
+            1009,
+            60
+        ],
+        "text": "RAAAAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            80,
+            88,
+            142,
+            211
+        ],
+        "text": "Do you mind waiting a bit longer?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            299,
+            153,
+            385
+        ],
+        "text": "Sabo, there's trouble nearby!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            498,
+            123,
+            596
+        ],
+        "text": "Lindbergh speaking!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            192,
+            539,
+            264,
+            615
+        ],
+        "text": "What's going on? We're all waiting!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            214,
+            16,
+            306,
+            95
+        ],
+        "text": "Fine, as long as you're safe.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            28,
+            516,
+            96
+        ],
+        "text": "I'm all about Betty!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            133,
+            486,
+            238
+        ],
+        "text": "I can't wait to see Morley!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            525,
+            541,
+            612
+        ],
+        "text": "Gathering right here!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            616,
+            571,
+            709
+        ],
+        "text": "Oooh, it's so thrilling! All the officers of the Revolutionary Army...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            697,
+            47,
+            796,
+            165
+        ],
+        "text": "...to declare war, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1021,
+            27,
+            1105,
+            195
+        ],
+        "text": "Against the Celestial Dragons!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            661,
+            565,
+            750,
+            699
+        ],
+        "text": "I suppose we could firm up our plans first, Sabo.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1026,
+            568,
+            1134,
+            693
+        ],
+        "text": "At this Reverie, it's finally time...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

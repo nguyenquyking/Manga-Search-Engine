@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            128,
+            57,
+            230,
+            153
+        ],
+        "text": "The Madness\nI could never understand...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            102,
+            163,
+            242,
+            313
+        ],
+        "text": "Yes, he bears a resemblance to the madness inherent to All Might's being...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            166,
+            620,
+            230,
+            756
+        ],
+        "text": "I think they're very alike...",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            57,
+            90,
+            187,
+            184
+        ],
+        "text": "STOP\nMARCO!!!\nSTOP HIM\nRIGHT\nNOW!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            42,
+            663,
+            137,
+            726
+        ],
+        "text": "PERFORMANCE\nFLOOR,\nINSIDE\nTHE\nDOME",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            420,
+            53,
+            508,
+            189
+        ],
+        "text": "LOOK, I'M NOT\nGOING RIGHT\nAFTER KAIDO AT\nTHIS POINT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            218,
+            496,
+            379
+        ],
+        "text": "RAAAHHH\n!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            412,
+            415,
+            480,
+            519
+        ],
+        "text": "BUT HE\nSAVED OUR\nLIVES...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            407,
+            576,
+            483,
+            721
+        ],
+        "text": "DON'T LET\nHIM GET AWAY\nWITH THIS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            632,
+            399,
+            709,
+            478
+        ],
+        "text": "YOU WANT\nMASTER\nQUEEN TO\nKILL US?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            81,
+            887,
+            221
+        ],
+        "text": "I'VE GOT\nHIM!! MARCO\nTHE PHOENIX\nIS MINE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            53,
+            975,
+            194
+        ],
+        "text": "AAAH\n!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            800,
+            474,
+            857,
+            542
+        ],
+        "text": "WE\nWILL!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            584,
+            880,
+            716
+        ],
+        "text": "NICO ROBIN!!\nBONE-MAN!!\nRUN INTO THE\nCASTLE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            311,
+            1091,
+            420
+        ],
+        "text": "IF YOU\nINSIST!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

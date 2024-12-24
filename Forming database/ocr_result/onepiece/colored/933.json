@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            84,
+            27,
+            166,
+            121
+        ],
+        "text": "Are Linlin's brats with her?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            300,
+            183,
+            401
+        ],
+        "text": "The idea that they would come up the falls...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            222,
+            316,
+            298,
+            395
+        ],
+        "text": "...Never occurred to us, sir!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            111,
+            434,
+            260,
+            545
+        ],
+        "text": "What are you doing, you fools?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            118,
+            790,
+            235,
+            870
+        ],
+        "text": "Don't let them in!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            530,
+            566,
+            709
+        ],
+        "text": "...Are her officers!! If they disembark, it'll be a full-scale war!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            393,
+            535,
+            471
+        ],
+        "text": "Like it or not...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            934,
+            519,
+            1010
+        ],
+        "text": "Fish that climb water-falls?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            773,
+            501,
+            839
+        ],
+        "text": "The brats",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            1393,
+            582,
+            1492
+        ],
+        "text": "Raaah!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            121,
+            1349,
+            292,
+            1472
+        ],
+        "text": "Climb those falls!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            300,
+            885,
+            398
+        ],
+        "text": "...Here we are, Wano!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            28,
+            1125,
+            120
+        ],
+        "text": "Ha ha ha haaaa!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            411,
+            1110,
+            503
+        ],
+        "text": "Maaaa ma ma ma!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            987,
+            566,
+            1131,
+            712
+        ],
+        "text": "But, sir!! We don't have enough manpower ready to fight them back atop the waterfall!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            916,
+            1128,
+            1022
+        ],
+        "text": "It's hard to believe my eyes!! Perorin!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            25,
+            320,
+            115
+        ],
+        "text": "It seems there's a number of them on board!!",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

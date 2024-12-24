@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            204,
+            793,
+            263,
+            810
+        ],
+        "text": "00000000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            561,
+            311,
+            609,
+            423
+        ],
+        "text": "FISHMAN JUJUTSU...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1202,
+            461,
+            1289,
+            736
+        ],
+        "text": "EBB TIDE SHOULDER THROW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

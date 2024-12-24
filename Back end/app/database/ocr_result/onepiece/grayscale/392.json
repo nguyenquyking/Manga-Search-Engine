@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            42,
+            19,
+            164,
+            131
+        ],
+        "text": "Tell me, Luffy... Which would you prefer?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            34,
+            438,
+            108,
+            557
+        ],
+        "text": "With fear in her eyes!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            639,
+            109,
+            734
+        ],
+        "text": "She was looking at me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            344,
+            20,
+            601,
+            168
+        ],
+        "text": "Or a cruel, cold, emotionless warrior of science who can crush even monsters like him, as long as you give me the order?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            342,
+            592,
+            599,
+            718
+        ],
+        "text": "The regular flesh-and-blood me, who turns into a helpless wreck whenever I face an opponent who's a woman?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            61,
+            934,
+            167
+        ],
+        "text": "Ooooh!\u2661 Is that your Germa suit?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            212,
+            949,
+            323
+        ],
+        "text": "I've made up my mind.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            842,
+            385,
+            921,
+            433
+        ],
+        "text": "Swish...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1017,
+            214,
+            1101,
+            353
+        ],
+        "text": "I don't know what'll happen yet... but here goes!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            848,
+            624,
+            998,
+            730
+        ],
+        "text": "Which one's going to be more useful to the King of the Pirates...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

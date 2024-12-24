@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            116,
+            59,
+            183,
+            180
+        ],
+        "text": "The proud Kozuki name, scorned...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            201,
+            201,
+            332
+        ],
+        "text": "Our ruined daimyo and city, the land barren and dry!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            75,
+            400,
+            217,
+            520
+        ],
+        "text": "Water that was undrinkable. Food supplies that were tightly controlled.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            578,
+            206,
+            718
+        ],
+        "text": "We saw rows of factories... and towering smokestacks sending their filth into the air all around us.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            530,
+            92,
+            570,
+            209
+        ],
+        "text": "But we were wrong.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            532,
+            276,
+            628,
+            387
+        ],
+        "text": "It seemed we could not find any who would fight on our side.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            550,
+            603,
+            644,
+            739
+        ],
+        "text": "This is not the land of Wano that we knew.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            840,
+            114,
+            906,
+            258
+        ],
+        "text": "I have awaited you... for 20 long years!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            71,
+            1112,
+            209
+        ],
+        "text": "I trusted the words of your mother, Lady Toki... all for this day!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            410,
+            937,
+            539
+        ],
+        "text": "My name is Jibuemon, and I was once a retainer of Kibi!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            586,
+            944,
+            706
+        ],
+        "text": "And you are indeed Lord Kozuki Momonosuke?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

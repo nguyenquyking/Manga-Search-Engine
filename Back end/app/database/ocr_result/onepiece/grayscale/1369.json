@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            62,
+            53,
+            203,
+            993
+        ],
+        "text": "RAAAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            166,
+            1103,
+            285,
+            1288
+        ],
+        "text": "Just be honest with us, Kin'emon!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            84,
+            892,
+            351
+        ],
+        "text": "ADMIT IT. ADMIT YOU THOUGHT IT WAS TOKAGE PORT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            437,
+            896,
+            528
+        ],
+        "text": "STOP RIGHT NOW!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            1068,
+            889,
+            1319
+        ],
+        "text": "ALL'S WELL THAT ENDS WELL. WE WON'T BE MAD, SO FESS UP.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            874,
+            894,
+            972
+        ],
+        "text": "STOP IT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1080,
+            97,
+            1343,
+            406
+        ],
+        "text": "IT FEELS AS THOUGH I'VE JUST USED UP AN ENTIRE LIFETIME'S WORTH OF GOOD LUCK!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1103,
+            1049,
+            1321,
+            1301
+        ],
+        "text": "PERHAPS I WILL DIE IN THE BATTLE AHEAD!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1514,
+            456,
+            1572,
+            699
+        ],
+        "text": "RAAH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1520,
+            732,
+            1626,
+            864
+        ],
+        "text": "THAT'S OUR LEADER!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1529,
+            915,
+            1648,
+            1056
+        ],
+        "text": "SIR KIN'EMON!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1548,
+            1108,
+            1712,
+            1314
+        ],
+        "text": "HE'S NOT KIDDING ABOUT BEING LUCKY!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1550,
+            93,
+            1710,
+            372
+        ],
+        "text": "IF ANYTHING, YOU'VE BEEN CHANNELING OUR GOOD LUCK...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1818,
+            103,
+            1989,
+            357
+        ],
+        "text": "...FOR HAVING YOU AS A COMRADE IN ARMS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

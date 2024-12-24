@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            68,
+            634,
+            125,
+            711
+        ],
+        "text": "PERFORMANCE FLOOR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            143,
+            55,
+            226,
+            152
+        ],
+        "text": "OUR CAPTAINS CAN'T MOVE ANYMORE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            138,
+            510,
+            217,
+            578
+        ],
+        "text": "STOP IT, BIG MOM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            149,
+            398,
+            145,
+            490
+        ],
+        "text": "KADOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            305,
+            10,
+            306,
+            100
+        ],
+        "text": "ZA DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            305,
+            339,
+            370,
+            433
+        ],
+        "text": "...THEY'RE GOING TO DIE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            304,
+            646,
+            373,
+            718
+        ],
+        "text": "IF YOU KEEP GOING...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            42,
+            488,
+            128
+        ],
+        "text": "CUT THEM A BREAK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            564,
+            658,
+            643
+        ],
+        "text": "HAH!! LISTEN TO YOUR MEN PITYING YOU...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            574,
+            44,
+            632,
+            183
+        ],
+        "text": "MUST MAKE YOU FEEL PRETTY PATHETIC, BOYS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            573,
+            671,
+            625,
+            732
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            629,
+            766,
+            721
+        ],
+        "text": "CAPTAIN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            37,
+            745,
+            152
+        ],
+        "text": "MAAAMA MAMA HA HA HA HA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            37,
+            847,
+            146
+        ],
+        "text": "BOSS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

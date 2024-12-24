@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            96,
+            856,
+            231,
+            964
+        ],
+        "text": "MY NAME IS MASKED DEUCE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1174,
+            7,
+            1198,
+            419
+        ],
+        "text": "THE BIG NEW SPIN-OFF SERIES!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1065,
+            858,
+            1212,
+            949
+        ],
+        "text": "THE TALE I'M ABOUT TO TELL YOU",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1366,
+            183,
+            1468,
+            285
+        ],
+        "text": "LIKE A RAGING FIRE",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1329,
+            521,
+            1446,
+            603
+        ],
+        "text": "OF THE MAN THAT LIVED",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1264,
+            636,
+            1348,
+            704
+        ],
+        "text": "IS THE REAL STORY",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

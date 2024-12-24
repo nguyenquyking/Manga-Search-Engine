@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            968,
+            567,
+            1016,
+            692
+        ],
+        "text": "Devil, Please!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1022,
+            36,
+            1123,
+            156
+        ],
+        "text": "You can take more of me!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1390,
+            296,
+            1462,
+            423
+        ],
+        "text": "Just lend me your power, one more time!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

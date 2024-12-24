@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            247,
+            1380,
+            418,
+            1481
+        ],
+        "text": "King of Hell... Three-Dragon Style...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            813,
+            1088,
+            1029,
+            1287
+        ],
+        "text": "Soaring Jigoku Dragon!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            1535,
+            988,
+            1659
+        ],
+        "text": "\"103 Senses\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1245,
+            131,
+            1264,
+            252
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

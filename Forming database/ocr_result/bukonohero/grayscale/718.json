@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            85,
+            172,
+            185,
+            279
+        ],
+        "text": "Cuz all you'll find in my soul...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            605,
+            169,
+            729
+        ],
+        "text": "You trying to sympathize with me or something?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            321,
+            598,
+            431,
+            735
+        ],
+        "text": "Peddle that crap somewhere else!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            96,
+            506,
+            243
+        ],
+        "text": "\"If I had known, maybe things would've worked out differently.\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            848,
+            614,
+            871,
+            722
+        ],
+        "text": "...is blood...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            133,
+            1057,
+            303
+        ],
+        "text": "...and violence!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

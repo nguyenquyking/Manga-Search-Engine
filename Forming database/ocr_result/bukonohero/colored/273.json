@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            45,
+            645,
+            165,
+            707
+        ],
+        "text": "WE HAVE TO COOL HIM DOWN!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            271,
+            764,
+            393,
+            905
+        ],
+        "text": "YOU LIT THIS FIRE IN ME, DAD...AND IT'S NOT GOING OUT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            400,
+            161,
+            470,
+            316
+        ],
+        "text": "I CAN'T JUST PRETEND IT'S NOT THERE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            672,
+            539,
+            765,
+            796
+        ],
+        "text": "BWOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            818,
+            93,
+            842,
+            198
+        ],
+        "text": "LOOK...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            620,
+            910,
+            708
+        ],
+        "text": "LOOK AT ME!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1021,
+            95,
+            1099,
+            203
+        ],
+        "text": "...AT ME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1315,
+            495,
+            1349,
+            788
+        ],
+        "text": "ENDEAVOR!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

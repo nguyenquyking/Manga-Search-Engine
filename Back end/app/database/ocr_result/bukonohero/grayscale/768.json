@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            30,
+            46,
+            107,
+            179
+        ],
+        "text": "...We've been blessed with wonderful disciples!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            42,
+            402,
+            70,
+            461
+        ],
+        "text": "But...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            588,
+            186,
+            664
+        ],
+        "text": "Gran Torino still lives...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            259,
+            532,
+            314,
+            602
+        ],
+        "text": "Sorahiko... We made a bad decision.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            570,
+            537,
+            681
+        ],
+        "text": "...So when you wake up, please give him my best.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            137,
+            799,
+            248
+        ],
+        "text": "...to unleash his full power.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            294,
+            777,
+            374
+        ],
+        "text": "He needs your help...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            641,
+            678,
+            708,
+            721
+        ],
+        "text": "FWRL\nVNO",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1014,
+            570,
+            1100,
+            708
+        ],
+        "text": "Now play nice, you two...\nYou have to cooperate with our successor.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1116,
+            26,
+            1133,
+            277
+        ],
+        "text": "Next chapter hits Mar. 21!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

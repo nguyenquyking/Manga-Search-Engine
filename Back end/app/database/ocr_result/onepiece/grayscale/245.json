@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            22,
+            170,
+            123,
+            303
+        ],
+        "text": "\u30ae\u30ae\u30ae\u30ae\u30fc!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            109,
+            340,
+            116,
+            410
+        ],
+        "text": "HRRRG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            414,
+            363,
+            432,
+            418
+        ],
+        "text": "GANK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            454,
+            33,
+            599,
+            151
+        ],
+        "text": "JUST WHEN\nI'M FINALLY GOOD\nAND DRUNK...\nYOU'RE GOING\nTO...\nURP!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            231,
+            510,
+            336
+        ],
+        "text": "WOBBL...\nHRRG\n...!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            462,
+            647,
+            488,
+            730
+        ],
+        "text": "AAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            586,
+            387,
+            642,
+            472
+        ],
+        "text": "HIS HAKI'S\nGETTING\nSTRONGER\n...!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            775,
+            20,
+            768,
+            84
+        ],
+        "text": "BOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            817,
+            577,
+            952,
+            724
+        ],
+        "text": "...\nSOBER\nME\nUP!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            46,
+            1033,
+            222
+        ],
+        "text": "DRUNKEN\nRAGE",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

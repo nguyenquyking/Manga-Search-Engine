@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            46,
+            136,
+            138,
+            273
+        ],
+        "text": "While you, Maman and Papa, grappled with your own angst...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            476,
+            187,
+            602
+        ],
+        "text": "I suffered at the hands of my new Quirk, which was a poor fit for my body.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            141,
+            633,
+            167,
+            664
+        ],
+        "text": "DB",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            177,
+            73,
+            240,
+            170
+        ],
+        "text": "...as you raised me.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            111,
+            366,
+            693
+        ],
+        "text": "Because you so feared my being different.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            472,
+            613,
+            563,
+            734
+        ],
+        "text": "My own dream sprang from that desire to conform.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            836,
+            135,
+            959,
+            275
+        ],
+        "text": "They say All Might has been hired to teach at the school.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            973,
+            320,
+            1070,
+            425
+        ],
+        "text": "So, you will be attending U.A.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            693,
+            481,
+            843,
+            582
+        ],
+        "text": "...I hoped to give back, as you had done so much for me.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            664,
+            725,
+            754
+        ],
+        "text": "Yes, at some point...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            106,
+            541,
+            140,
+            694
+        ],
+        "text": "ROOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            576,
+            36,
+            640,
+            117
+        ],
+        "text": "Those tattoos!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            576,
+            193,
+            625,
+            314
+        ],
+        "text": "That power...!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            589,
+            382,
+            675,
+            522
+        ],
+        "text": "He wouldn't be stupid enough to let Holdem get crushed.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            584,
+            558,
+            675,
+            695
+        ],
+        "text": "Roronoa's over there, and he knows the plan!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            744,
+            375,
+            808,
+            494
+        ],
+        "text": "If they mess with him, it's all over.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            879,
+            182,
+            920,
+            306
+        ],
+        "text": "Zwip!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            928,
+            23,
+            1018,
+            141
+        ],
+        "text": "Get lost, Hawkins!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            599,
+            951,
+            698
+        ],
+        "text": "It is possible...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1040,
+            579,
+            1111,
+            698
+        ],
+        "text": "They had an alliance, after all!!",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

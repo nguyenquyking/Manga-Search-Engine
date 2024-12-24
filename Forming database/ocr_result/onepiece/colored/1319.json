@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            314,
+            80,
+            360,
+            577
+        ],
+        "text": "Odacchi! Since we've seen Luffy and Ace at ages 40 and 60, please do Sabo next.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            95,
+            382,
+            324
+        ],
+        "text": "--Oda Freak's Older Brother",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            397,
+            91,
+            434,
+            572
+        ],
+        "text": "Okay, I'll draw it, but just to be clear, even I don't know the future of the series.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            69,
+            595,
+            169
+        ],
+        "text": "AGE\n40\nHe's lucky.\nHe gets to\nbe so free.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            440,
+            338,
+            561,
+            437
+        ],
+        "text": "AGE\n60\nForget\nit, pal...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            474,
+            582,
+            548,
+            655
+        ],
+        "text": "Straw Hat\ncaused an\nincident?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            63,
+            804,
+            143
+        ],
+        "text": "AGE\n40\nEveryone\nbelow\nnobility",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            363,
+            819,
+            464
+        ],
+        "text": "AGE\n60\nHe's good\nfor the money.\nJust pour me\none lil' drink...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            642,
+            627,
+            765,
+            696
+        ],
+        "text": "D-do\nyou know\nLuffy?\nHe's my\nbrother!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            87,
+            916,
+            682
+        ],
+        "text": "Also, I received some questions from Maccha-man, Atsugon, and Momota about various members of the Big Mom Pirates, like \"What are their names?\" and \"How old are they?\"",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            91,
+            955,
+            635
+        ],
+        "text": "So I'll answer them all in one go! These are mostly from chapters 848, 854, and 864.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1071,
+            49,
+            1128,
+            112
+        ],
+        "text": "Bassquarte\n13th Son\n(42)",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1071,
+            120,
+            1129,
+            173
+        ],
+        "text": "Noisette\n15th Son\n(41)",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1071,
+            183,
+            1129,
+            243
+        ],
+        "text": "Saintmarc\n22nd Son\n(34)",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1070,
+            253,
+            1128,
+            311
+        ],
+        "text": "Dacquoise\n24th Son\n(32)",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1071,
+            323,
+            1128,
+            375
+        ],
+        "text": "Fructose\n28th Son\n(28)",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1069,
+            387,
+            1149,
+            444
+        ],
+        "text": "Myukuru\n25th\nDaughter\n(25)",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1071,
+            457,
+            1128,
+            510
+        ],
+        "text": "Anglais\n42nd Son\n(14)",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1070,
+            526,
+            1128,
+            579
+        ],
+        "text": "Dolce\n45th Son\n(9)",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1068,
+            594,
+            1128,
+            647
+        ],
+        "text": "Dragee\n46th Son\n(9)",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1070,
+            650,
+            1126,
+            723
+        ],
+        "text": "Anana\n39th Daughter\n(8)",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

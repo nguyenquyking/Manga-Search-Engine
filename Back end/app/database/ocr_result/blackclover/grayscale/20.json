@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            65,
+            145,
+            144,
+            407
+        ],
+        "text": "Woohoo!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            236,
+            104,
+            424,
+            201
+        ],
+        "text": "If you'd told me sooner, we could have dated-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            231,
+            404,
+            331,
+            520
+        ],
+        "text": "You're a girl?! A really cute one?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            179,
+            604,
+            527
+        ],
+        "text": "GLARE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            820,
+            115,
+            832,
+            156
+        ],
+        "text": "Sorry!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            363,
+            809,
+            467
+        ],
+        "text": "GLARE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1000,
+            107,
+            1076,
+            201
+        ],
+        "text": "So he acquired a body, did he?",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            977,
+            413,
+            1134,
+            524
+        ],
+        "text": "I sense magic that's not of this world, from the Shadow Palace.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            993,
+            767,
+            1076,
+            887
+        ],
+        "text": "Nero...?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1396,
+            101,
+            1481,
+            232
+        ],
+        "text": "You two... What in the world...? Why...?!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

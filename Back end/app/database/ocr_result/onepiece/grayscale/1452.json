@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            69,
+            1098,
+            241,
+            1311
+        ],
+        "text": "DON'T TURN BACK!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            797,
+            241,
+            974
+        ],
+        "text": "THAT WAS A FASCINATING STORY YOU JUST SAID.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            280,
+            440,
+            403
+        ],
+        "text": "KOZUKI\nODEN?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            61,
+            766,
+            241
+        ],
+        "text": "LORD\nODEN!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            1020,
+            721,
+            1316
+        ],
+        "text": "HUFF!!\nHUFF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            876,
+            1124,
+            1056,
+            1317
+        ],
+        "text": "SHOOT\nTHEM\nALL!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            650,
+            892,
+            817
+        ],
+        "text": "BLAM! BABLAM!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            930,
+            321,
+            1062,
+            450
+        ],
+        "text": "AFTER\nTHEM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            90,
+            1172,
+            286
+        ],
+        "text": "WIPE\nOUT THE\nNAME OF\nKOZUKI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1317,
+            489,
+            1475,
+            741
+        ],
+        "text": "DON'T\nMAKE THE\nMISTAKE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1365,
+            133,
+            1458,
+            241
+        ],
+        "text": "LORD\nODEN",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1404,
+            306,
+            1483,
+            375
+        ],
+        "text": "BLAM!\nBABLAM!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1280,
+            1147,
+            1470,
+            1306
+        ],
+        "text": "EITHER\nWAY, YOUR\nBODY IS\nALREADY\nDEAD.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1298,
+            871,
+            1488,
+            1071
+        ],
+        "text": "I'LL DO YOU\nA KINDNESS\nAND PUT YOU\nOUT OF YOUR\nMISERY.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1890,
+            472,
+            2080,
+            754
+        ],
+        "text": "...OF UNDER-\nESTIMATING\nOUR SAMURAI\n!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1756,
+            852,
+            1814,
+            907
+        ],
+        "text": "CH-CHK!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1937,
+            871,
+            2056,
+            1111
+        ],
+        "text": "...IS OVER FOR\nGOOD!! YOU'LL\nALL DIE...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1935,
+            1156,
+            2039,
+            1321
+        ],
+        "text": "AND NOW\nTHE AGE OF\nKOZUKI...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

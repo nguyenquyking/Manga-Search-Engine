@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            60,
+            103,
+            121,
+            217
+        ],
+        "text": "WHAT DOES ALL FOR ONE WANT?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            461,
+            58,
+            502,
+            128
+        ],
+        "text": "WHERE IS HE?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            673,
+            321,
+            757,
+            445
+        ],
+        "text": "I HAVE TO PUT A STOP TO SHIGARAKI...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            787,
+            527,
+            870,
+            698
+        ],
+        "text": "EVERYONE'S GOT IT ROUGH...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            983,
+            49,
+            1024,
+            159
+        ],
+        "text": "...AND THE LEAGUE.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            109,
+            174,
+            251,
+            464
+        ],
+        "text": "AAAAAAAH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            245,
+            674,
+            406,
+            997
+        ],
+        "text": "DAMNED PUNK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            2177,
+            741,
+            2349
+        ],
+        "text": "You think you can beat me?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            587,
+            2415,
+            703,
+            2617
+        ],
+        "text": "Give me all you've got, then!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            311,
+            1102,
+            489
+        ],
+        "text": "Your Era...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1715,
+            243,
+            1849,
+            521
+        ],
+        "text": "...is OVER!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1122,
+            2174,
+            1289,
+            2598
+        ],
+        "text": "I'm... BIG MOM!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1694,
+            2171,
+            1847,
+            2354
+        ],
+        "text": "And that's why we're getting rid of you!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

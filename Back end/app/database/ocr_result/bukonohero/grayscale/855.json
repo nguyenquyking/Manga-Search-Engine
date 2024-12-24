@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            50,
+            175,
+            54,
+            229
+        ],
+        "text": "WOOO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            528,
+            236,
+            575,
+            310
+        ],
+        "text": "THE BIG ONE IN THE BACK.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            364,
+            535,
+            417
+        ],
+        "text": "WHICH IS IT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            599,
+            969,
+            711
+        ],
+        "text": "BEFORE I RECOVER AND SHOW MY FACE IN PUBLIC AGAIN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            961,
+            519,
+            1025,
+            606
+        ],
+        "text": "...THERE'S SOMETHING I NEED TO CONFIRM.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1080,
+            106,
+            1098,
+            204
+        ],
+        "text": "*SIGN: UKAI",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

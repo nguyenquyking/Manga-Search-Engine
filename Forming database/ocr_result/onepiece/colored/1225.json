@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            81,
+            38,
+            171,
+            156
+        ],
+        "text": "...A pirate ship washed ashore nearby.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            90,
+            219,
+            165,
+            320
+        ],
+        "text": "When all seemed lost for the village...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            332,
+            165,
+            431
+        ],
+        "text": "Our people were beginning to starve to death.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            475,
+            162,
+            575
+        ],
+        "text": "The village was completely out of food to eat.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            608,
+            164,
+            698
+        ],
+        "text": "It was nearly four years ago, I believe...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            236,
+            38,
+            321,
+            160
+        ],
+        "text": "The villagers tied up the weakened pirates.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            418,
+            51,
+            510,
+            166
+        ],
+        "text": "We feared retribution, but all he said was...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            422,
+            234,
+            510,
+            363
+        ],
+        "text": "...The pirate captain easily broke out of his ropes!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            408,
+            399,
+            518,
+            491
+        ],
+        "text": "Once we had eaten all of their food...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            418,
+            530,
+            506,
+            696
+        ],
+        "text": "We devoured all of their food and water for our own survival.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            610,
+            41,
+            720,
+            142
+        ],
+        "text": "\"Where can a guy go to get some good dessert?\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            247,
+            910,
+            363
+        ],
+        "text": "Otama was particularly fond of them.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            817,
+            404,
+            915,
+            516
+        ],
+        "text": "Ace's group stayed with us for several weeks.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            822,
+            543,
+            937,
+            700
+        ],
+        "text": "We were stunned. After all of that, our lives had been saved by these shipwrecked pirates...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            840,
+            16,
+            882,
+            130
+        ],
+        "text": "Ohhh...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1022,
+            9,
+            1066,
+            111
+        ],
+        "text": "I see!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            52,
+            111,
+            138,
+            208
+        ],
+        "text": "I'VE\nMISSED\nYOU, LITTLE\nGUY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            216,
+            75,
+            317,
+            227
+        ],
+        "text": "ALL THESE\nPATHETIC WIMPS\nJUST DON'T\nMEASURE UP! IT'S\nNOT ENOUGH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            121,
+            639,
+            138,
+            755
+        ],
+        "text": "MIDORIYA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            485,
+            224,
+            503,
+            278
+        ],
+        "text": "HMPH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            203,
+            629,
+            292
+        ],
+        "text": "NOT SO\nFAST...\nDON'T RUN\nAWAY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            150,
+            1052,
+            237
+        ],
+        "text": "BUT\nI'M ONLY\nHUMAN,\nY'KNOW?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            313,
+            1072,
+            435
+        ],
+        "text": "...GOING\nWILD WITH MY\nQUIRK IS ALL I\nCOULD EVER\nASK FOR.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            974,
+            465,
+            1048,
+            513
+        ],
+        "text": "THE\nWAY\nI SEE\nIT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            550,
+            1084,
+            631
+        ],
+        "text": "I AIN'T\nOUT FOR\nREVENGE\nOR ANYTHING SO\nDRAMATIC,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            650,
+            1027,
+            716
+        ],
+        "text": "YOU'VE\nGOT ME\nALL\nWRONG.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            722,
+            959,
+            766
+        ],
+        "text": "IT'S\nNOT\nLIKE\nTHAT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            782,
+            731,
+            1106,
+            773
+        ],
+        "text": "HUFF\nHUFF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            845,
+            490,
+            856,
+            524
+        ],
+        "text": "HUFF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

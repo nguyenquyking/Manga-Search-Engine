@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            116,
+            116,
+            246,
+            321
+        ],
+        "text": "MAY LUCK SHINE UPON US!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            179,
+            1141,
+            300,
+            1324
+        ],
+        "text": "RAHHH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            546,
+            84,
+            864,
+            537
+        ],
+        "text": "STOMP! TROMP! STOMP! TROMP! QUEEN!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            665,
+            372,
+            838,
+            594
+        ],
+        "text": "IT'S THE GOLDEN FESTIVAL THAT ONLY COMES ONCE A YEAR!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            537,
+            918,
+            805,
+            1071
+        ],
+        "text": "GYA HAHA! SWISH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1017,
+            57,
+            1302,
+            236
+        ],
+        "text": "DOOM! DOOM! SWISH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1038,
+            300,
+            1257,
+            593
+        ],
+        "text": "MMM!! IF I GET ANY THINNER, I'LL STEAL ALL YOUR HEARTS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1270,
+            864,
+            1425,
+            1327
+        ],
+        "text": "SHANG! SHANG! QUEEN!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1406,
+            696,
+            1548,
+            902
+        ],
+        "text": "OOMF! OOMF!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1784,
+            679,
+            1890,
+            849
+        ],
+        "text": "QUEEN!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1794,
+            1229,
+            1881,
+            1355
+        ],
+        "text": "KEPT YA WAITIN'?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1807,
+            921,
+            1848,
+            1048
+        ],
+        "text": "EEEK!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1836,
+            162,
+            2026,
+            440
+        ],
+        "text": "SO I CHOOSE THE WAY I AM, I STAY...!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

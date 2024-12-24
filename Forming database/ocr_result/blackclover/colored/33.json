@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            179,
+            81,
+            195,
+            146
+        ],
+        "text": "FATHER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            34,
+            295,
+            93
+        ],
+        "text": "WHERE\nARE\nY...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            290,
+            241,
+            339,
+            292
+        ],
+        "text": "NO ONE'S\nHERE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            778,
+            170,
+            844
+        ],
+        "text": "WHY\nWOULD\nFATHER\nCALL ME\nTODAY?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            119,
+            688,
+            247,
+            769
+        ],
+        "text": "I DIDN'T TELL\nANYONE\nABOUT THE\nCEREMONY,\nSO IT MUST\nBE A COINCIDENCE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            437,
+            721,
+            506,
+            821
+        ],
+        "text": "I HAVE TO\nHURRY BACK\nTO THEIR\nCEREMONY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            754,
+            939,
+            840
+        ],
+        "text": "\"BIND.\"",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1306,
+            18,
+            1330,
+            110
+        ],
+        "text": "@Reizung1",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1311,
+            710,
+            1327,
+            920
+        ],
+        "text": "twitter.com/BlackCloverTeam",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

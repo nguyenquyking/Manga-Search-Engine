@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            128,
+            769,
+            151,
+            838
+        ],
+        "text": "You...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            171,
+            217,
+            214,
+            296
+        ],
+        "text": "All Might...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            226,
+            350,
+            291,
+            453
+        ],
+        "text": "...Haven't been eating!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            729,
+            503,
+            803
+        ],
+        "text": "You...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            515,
+            571,
+            532,
+            623
+        ],
+        "text": "TMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            898,
+            112,
+            1001,
+            282
+        ],
+        "text": "...Don't have to tag along anymore. I'm fine.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1169,
+            34,
+            1227,
+            182
+        ],
+        "text": "Now",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1242,
+            381,
+            1263,
+            457
+        ],
+        "text": "Really.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1339,
+            277,
+            1363,
+            332
+        ],
+        "text": "I'm...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

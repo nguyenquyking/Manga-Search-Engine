@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            62,
+            598,
+            206,
+            729
+        ],
+        "text": "You're helping those others blow this joint on the simple promise that they can \"go wild\"...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            209,
+            218,
+            296
+        ],
+        "text": "You killed a fellow hero.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            161,
+            471,
+            248,
+            589
+        ],
+        "text": "...So why am I the only one who gets a homework assignment?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            365,
+            74,
+            435,
+            192
+        ],
+        "text": "Another one clinging to those phony hopes, huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            264,
+            510,
+            355
+        ],
+        "text": "...As long as that boy is around.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            371,
+            468,
+            472
+        ],
+        "text": "...But your dream will never be realized...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            630,
+            460,
+            748
+        ],
+        "text": "You seek the downfall of hero society...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            77,
+            1090,
+            205
+        ],
+        "text": "Another victim, kept down by this wicked hero society.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            693,
+            281,
+            800,
+            413
+        ],
+        "text": "He's got some screws loose and I thought he might come in handy, somehow.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            436,
+            708,
+            485
+        ],
+        "text": "Nah...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            551,
+            778,
+            614
+        ],
+        "text": "The boss...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            590,
+            1116,
+            709
+        ],
+        "text": "Oh? The young Shie Hassaikai leader... a friend of yours?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

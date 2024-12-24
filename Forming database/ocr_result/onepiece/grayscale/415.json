@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            76,
+            108,
+            153,
+            216
+        ],
+        "text": "YOU'LL NEED TO BACK ME UP AND PLAY THAT ACE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            466,
+            191,
+            576
+        ],
+        "text": "MINE'S THE SAME... BUT WE'RE NOT GETTING ANYWHERE LIKE THIS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            334,
+            559,
+            367,
+            648
+        ],
+        "text": "GLOW",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            677,
+            158,
+            754,
+            253
+        ],
+        "text": "ANAES-THESIA...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            372,
+            763,
+            511
+        ],
+        "text": "KROOM!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            865,
+            105,
+            952,
+            252
+        ],
+        "text": "THAT INCISION IS HARMLESS... BUT KROOM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1196,
+            137,
+            1264,
+            265
+        ],
+        "text": "...INFLUENCES YOUR BODY IN OTHER WAYS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1201,
+            351,
+            1227,
+            441
+        ],
+        "text": "AAH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1153,
+            517,
+            1170,
+            621
+        ],
+        "text": "PIERCE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

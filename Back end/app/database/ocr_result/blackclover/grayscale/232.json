@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            107,
+            724,
+            248,
+            950
+        ],
+        "text": "Scale Magic:",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            196,
+            43,
+            312,
+            321
+        ],
+        "text": "Scale Regulate",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1012,
+            30,
+            1120,
+            117
+        ],
+        "text": "My magic... It's shrinking?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1304,
+            38,
+            1476,
+            169
+        ],
+        "text": "No matter how powerful your magic is, it's meaningless.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1076,
+            894,
+            1128,
+            958
+        ],
+        "text": "Wha...?!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1305,
+            814,
+            1478,
+            956
+        ],
+        "text": "My scale magic measures ability, shifts the balance and establishes order.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            161,
+            119,
+            377,
+            323
+        ],
+        "text": "...From the very heart of an enemy country, its most dangerous area!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            160,
+            532,
+            312,
+            746
+        ],
+        "text": "He acquired all this information by himself...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            284,
+            790,
+            350,
+            911
+        ],
+        "text": "This man...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            289,
+            924,
+            428
+        ],
+        "text": "...Do something that dangerous?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            804,
+            924,
+            890
+        ],
+        "text": "Why would the Dark Triad...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            416,
+            1193,
+            540
+        ],
+        "text": "As Magic Knight Brigade members...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1297,
+            121,
+            1449,
+            227
+        ],
+        "text": "...You've seen far too much of it already, haven't you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1201,
+            826,
+            1313,
+            975
+        ],
+        "text": "Probably for no reason we could understand.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

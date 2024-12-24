@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            98,
+            93,
+            239,
+            248
+        ],
+        "text": "BUT YOU'RE THE ONE THAT DECIDED TO WALK THE PATH OF MURDER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            158,
+            432,
+            243,
+            580
+        ],
+        "text": "OUR HOUSE WAS HELL AND OUR FATHER WAS INSANE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            5,
+            705,
+            237,
+            886
+        ],
+        "text": "@BRBarts THERE'S SOMETHING YOUR STUPID BROTHER WANTS TO TELL YOU TOO!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            557,
+            496,
+            722,
+            877
+        ],
+        "text": "FLASHFIRE FIST",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            894,
+            144,
+            1106,
+            338
+        ],
+        "text": "DON'T YOU EVER AGAIN DARE TO STEAL THE LIVES OF PEOPLE WHO HAD NOTHING TO DO WITH YOUR DOWNFALL!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1089,
+            795,
+            1198,
+            892
+        ],
+        "text": "YOU DAMN GOLDEN BOY...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

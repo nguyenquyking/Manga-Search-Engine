@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            76,
+            352,
+            140,
+            445
+        ],
+        "text": "I'VE HEARD A DISQUIETING STORY ABOUT YOU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            523,
+            134,
+            589
+        ],
+        "text": "SPEED?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            649,
+            130,
+            722
+        ],
+        "text": "WHERE ARE YOU GOING...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            127,
+            500,
+            232
+        ],
+        "text": "...I'LL NEVER FORGET THE FLAVORS I TASTED TODAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            415,
+            378,
+            487,
+            479
+        ],
+        "text": "BETWEEN THE OSHIRUKO AND THE APPLES...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            411,
+            602,
+            478,
+            690
+        ],
+        "text": "BIG BRO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            57,
+            931,
+            172
+        ],
+        "text": "...AT HER SIDE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            357,
+            914,
+            464
+        ],
+        "text": "I SHOULD HAVE STAYED...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            494,
+            898,
+            586
+        ],
+        "text": "DAMMIT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            681,
+            987,
+            710
+        ],
+        "text": "SCRUNCH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

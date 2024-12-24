@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            981,
+            100,
+            1011,
+            170
+        ],
+        "text": "... Asta.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            841,
+            274,
+            1167,
+            858
+        ],
+        "text": "Is Asta...? This light...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1075,
+            270,
+            1167,
+            392
+        ],
+        "text": "Already at his limit...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1136,
+            687,
+            1186,
+            875
+        ],
+        "text": "It's brimming with power...",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

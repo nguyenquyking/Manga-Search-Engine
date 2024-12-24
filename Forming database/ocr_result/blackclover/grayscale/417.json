@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            385,
+            25,
+            521,
+            202
+        ],
+        "text": "...SHOULD\nNEVER BE\nFORGIVEN\n!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            518,
+            196,
+            581
+        ],
+        "text": "This\ngirl-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            538,
+            745,
+            651
+        ],
+        "text": "...to avoid\nany\nlethal\nwounds",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            696,
+            696,
+            774,
+            795
+        ],
+        "text": "WHAT\nYOU'RE\nDOING...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            582,
+            849,
+            784,
+            961
+        ],
+        "text": "She used\nValkyrie\nArmor\nand\nmanaged,\njust\nbarely...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            958,
+            751,
+            1084,
+            876
+        ],
+        "text": "M",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

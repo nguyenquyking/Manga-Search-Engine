@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            58,
+            212,
+            120,
+            319
+        ],
+        "text": "Kaido!! What are you doing?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            145,
+            85,
+            252,
+            355
+        ],
+        "text": "How could you let him hit you like that?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            279,
+            229,
+            356,
+            318
+        ],
+        "text": "And I'm the man...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            276,
+            358,
+            345,
+            450
+        ],
+        "text": "I am Monkey D. Luffy.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            132,
+            705,
+            255
+        ],
+        "text": "...to be King of the Pirates!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            566,
+            301,
+            669,
+            477
+        ],
+        "text": "...who will surpass you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            134,
+            1308,
+            348,
+            1447
+        ],
+        "text": "Red Roc!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1054,
+            118,
+            1038,
+            188
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1119,
+            31,
+            1135,
+            294
+        ],
+        "text": "Next chapter hits Jan. 17!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

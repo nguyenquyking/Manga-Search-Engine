@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            573,
+            659,
+            611,
+            712
+        ],
+        "text": "BWAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            719,
+            266,
+            829,
+            393
+        ],
+        "text": "No ordinary person could function without protection in this heat.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            774,
+            31,
+            847,
+            152
+        ],
+        "text": "And that speed! Right after he got burned...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            955,
+            308,
+            1078,
+            447
+        ],
+        "text": "HEXAMENDLE\nHe regenerated.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1090,
+            158,
+            1103,
+            212
+        ],
+        "text": "SIZZL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

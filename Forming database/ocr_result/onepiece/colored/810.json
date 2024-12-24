@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            164,
+            173,
+            245,
+            323
+        ],
+        "text": "I don't like the trouble that comes from slicing up someone with a boss, but in this instance...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            356,
+            198,
+            440
+        ],
+        "text": "...to kill anyone who gets in my way.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            617,
+            186,
+            696
+        ],
+        "text": "No matter! I am under orders...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            306,
+            359,
+            362,
+            492
+        ],
+        "text": "Not to worry!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            619,
+            77,
+            677,
+            274
+        ],
+        "text": "You'll be the one dying!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            637,
+            960,
+            685
+        ],
+        "text": "WHOO!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

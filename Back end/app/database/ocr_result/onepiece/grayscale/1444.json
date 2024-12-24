@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            146,
+            273,
+            336,
+            470
+        ],
+        "text": "...was in fact the one shining hope for Wano.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            116,
+            561,
+            324,
+            815
+        ],
+        "text": "They realized that the man undergoing the extended execution they'd been watching...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            123,
+            961,
+            300,
+            1291
+        ],
+        "text": "The crowd instantly understood the threat a madman bent on revenge posed to them.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            442,
+            131,
+            533,
+            267
+        ],
+        "text": "Lord Oden!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            768,
+            552,
+            871
+        ],
+        "text": "Lord Oden",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            565,
+            937,
+            641,
+            1071
+        ],
+        "text": "Silence, trash.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            187,
+            1006,
+            447
+        ],
+        "text": "...by Kaido and Orochi's men, bristling with weapons...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            777,
+            493,
+            943,
+            974
+        ],
+        "text": "BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            883,
+            1022,
+            993,
+            1324
+        ],
+        "text": "The people suddenly noticed they were surrounded...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1676,
+            195,
+            1777,
+            387
+        ],
+        "text": "It spurred the people into motion.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1890,
+            355,
+            2021,
+            470
+        ],
+        "text": "Man, we look so stupid now!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1706,
+            552,
+            1855,
+            692
+        ],
+        "text": "Then... he was actually saving us...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1669,
+            792,
+            1805,
+            992
+        ],
+        "text": "...spread throughout the crowd like wildfire.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1656,
+            1072,
+            1820,
+            1296
+        ],
+        "text": "The reason for Oden's five-year stretch of odd behavior...",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

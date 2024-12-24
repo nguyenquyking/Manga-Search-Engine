@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            184,
+            137,
+            384,
+            303
+        ],
+        "text": "...DEFEAT AFO AND SHIGA-RAKI.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            140,
+            549,
+            261,
+            724
+        ],
+        "text": "FOR WE MUST...",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

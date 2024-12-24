@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            84,
+            144,
+            174,
+            285
+        ],
+        "text": "WHAT THE...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            71,
+            728,
+            177,
+            833
+        ],
+        "text": "AAAH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            936,
+            216,
+            1147
+        ],
+        "text": "NO MORE JOKES! DON'T BEG FOR YOUR LIFE NOW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            1186,
+            185,
+            1337
+        ],
+        "text": "INTO THE POT ALREADY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            434,
+            604,
+            676
+        ],
+        "text": "FZSH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            749,
+            169,
+            788,
+            216
+        ],
+        "text": "FWOSH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            762,
+            1130,
+            982,
+            1347
+        ],
+        "text": "BWAA-EAEAH!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            472,
+            1200,
+            645
+        ],
+        "text": "HELP!! HELP MEEE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1170,
+            1080,
+            1220,
+            1278
+        ],
+        "text": "SPLASH SPLOSH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1345,
+            623,
+            1445,
+            709
+        ],
+        "text": "THUMP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1358,
+            864,
+            1419,
+            1101
+        ],
+        "text": "RAAAAH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1378,
+            1127,
+            1544,
+            1349
+        ],
+        "text": "AAAH, NO!! STAY AWAY!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1788,
+            879,
+            1838,
+            999
+        ],
+        "text": "WOBBLE...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2090,
+            1294,
+            2103,
+            1321
+        ],
+        "text": "CRAASH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1993,
+            290,
+            2056,
+            421
+        ],
+        "text": "FSSS---",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

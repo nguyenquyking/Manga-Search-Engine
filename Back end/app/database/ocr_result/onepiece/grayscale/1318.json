@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            110,
+            116,
+            209,
+            251
+        ],
+        "text": "WHOA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            354,
+            339,
+            503,
+            470
+        ],
+        "text": "OOH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            680,
+            95,
+            797,
+            231
+        ],
+        "text": "ZOLO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            950,
+            105,
+            1116,
+            272
+        ],
+        "text": "What are those powers he has?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            565,
+            1244,
+            813
+        ],
+        "text": "He doesn't have a blade, and I didn't see the trajectory of his attack at all!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            908,
+            1071,
+            1062
+        ],
+        "text": "A slashing attack?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            967,
+            1222,
+            1000,
+            1363
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1600,
+            355,
+            1637,
+            518
+        ],
+        "text": "I KNOW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1514,
+            763,
+            1680,
+            908
+        ],
+        "text": "HERE COMES ANOTHER ONE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1512,
+            1019,
+            1617,
+            1337
+        ],
+        "text": "MMM!\u266a CHECK IT OUT!\u266a",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

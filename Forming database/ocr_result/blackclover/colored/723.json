@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            162,
+            20,
+            318,
+            219
+        ],
+        "text": "In this world...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            428,
+            107,
+            466,
+            146
+        ],
+        "text": "IT'S ALL OVER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            440,
+            654,
+            454,
+            685
+        ],
+        "text": "NO...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            65,
+            595,
+            580
+        ],
+        "text": "...magic is everything...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            592,
+            715,
+            626,
+            756
+        ],
+        "text": "WIZARD... KING...?!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            651,
+            609,
+            650,
+            661
+        ],
+        "text": "00000",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            552,
+            1047,
+            612,
+            1109
+        ],
+        "text": "I'M OUT OF TIME ALREADY?!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            734,
+            721,
+            811,
+            970
+        ],
+        "text": "...ANY LONGER I CAN'T HOLD IT AT BAY... IT'S TOO SOON-",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

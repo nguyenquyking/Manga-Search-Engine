@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            129,
+            134,
+            150,
+            224
+        ],
+        "text": "FAVORS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            314,
+            132,
+            462
+        ],
+        "text": "I AM SPEED,\nHEADLINER OF THE\nBEASTS PIRATES!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            538,
+            139,
+            714
+        ],
+        "text": "TAKE\nHER AWAY,\nHORSELINA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            297,
+            54,
+            370,
+            155
+        ],
+        "text": "WHY IS SPEED\nFOLLOWING\nTHAT KID'S\nORDERS...?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            58,
+            582,
+            122
+        ],
+        "text": "...I'LL\nNEVER\nFORGET\nTHE\nFLAVORS\nI TASTED\nTODAY!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            472,
+            252,
+            570,
+            356
+        ],
+        "text": "BIG BRO...\nBETWEEN THE\nOSHIRUKO\nAND THE\nAPPLES...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            434,
+            388,
+            526,
+            489
+        ],
+        "text": "IT IS\nNATURAL FOR\nA SERVANT TO\nPROTECT HER\nMASTER!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            662,
+            62,
+            742,
+            141
+        ],
+        "text": "SAY HI TO\nTHE NOSE\nGRAMPS\nFOR ME!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            195,
+            729,
+            317
+        ],
+        "text": "I SAVED THIS\nAPPLE FOR\nMASTER!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            59,
+            850,
+            145
+        ],
+        "text": "I'LL\nCOME BACK\nTO RETURN\nTHE DOG TO",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            55,
+            1020,
+            120
+        ],
+        "text": "BUT YOU\nDIDN'T\nEVEN\nUSE IT.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            159,
+            1030,
+            307
+        ],
+        "text": "JUST LET ME\nBORROW THIS SWORD\nA BIT LONGER! YOU\nCAN'T BE A SAMURAI\nWITHOUT A KATANA!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            51,
+            1136,
+            153
+        ],
+        "text": "AND SERIOUSLY,\nLUFFY... JUST\nLET ME SEE\nTHE SWORD...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

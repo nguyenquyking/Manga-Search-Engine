@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            88,
+            227,
+            246,
+            333
+        ],
+        "text": "I WILL SAVE YOU.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            89,
+            633,
+            253
+        ],
+        "text": "NO MATTER WHAT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            734,
+            607,
+            878,
+            740
+        ],
+        "text": "JUST HOLD ON...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1113,
+            161,
+            1148,
+            299
+        ],
+        "text": "...YAMI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1155,
+            816,
+            1236,
+            973
+        ],
+        "text": "AS IF I'D LET YOU DIE LIKE THIS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

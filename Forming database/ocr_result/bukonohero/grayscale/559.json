@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            650,
+            332,
+            723,
+            453
+        ],
+        "text": "...SMILE TOGETHER AGAIN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            894,
+            50,
+            976,
+            143
+        ],
+        "text": "A RECKLESS RAMPAGE,\nBORN OF\nANXIETY AND\nIMPATIENCE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            906,
+            365,
+            921,
+            412
+        ],
+        "text": "SPLASH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            893,
+            507,
+            906,
+            538
+        ],
+        "text": "TMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

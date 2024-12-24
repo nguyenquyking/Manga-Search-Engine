@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            107,
+            82,
+            167,
+            222
+        ],
+        "text": "I have to complete One For All...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            186,
+            339,
+            356,
+            480
+        ],
+        "text": "\"NOW IT'S YOUR TURN.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            107,
+            588,
+            169,
+            728
+        ],
+        "text": "I can't let them hurt anyone else.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            662,
+            585,
+            749,
+            713
+        ],
+        "text": "...so that everyone can live their lives in peace and safety.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

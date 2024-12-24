@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            85,
+            159,
+            151,
+            306
+        ],
+        "text": "DELAY THE INEVITABLE ALL YOU LIKE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            706,
+            173,
+            823
+        ],
+        "text": "SO YOU PROTECTED HIM. SO WHAT?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            676,
+            585,
+            837
+        ],
+        "text": "DESTRUCTION IS ALL THAT AWAITS YOU.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

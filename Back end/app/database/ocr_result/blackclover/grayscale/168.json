@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            521,
+            779,
+            612,
+            893
+        ],
+        "text": "What's Going On?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            64,
+            889,
+            162
+        ],
+        "text": "It's Gone?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            563,
+            812,
+            678
+        ],
+        "text": "Julius's Body...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1180,
+            40,
+            1292,
+            172
+        ],
+        "text": "This Magic! It's...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1182,
+            847,
+            1336,
+            959
+        ],
+        "text": "But I Know It Was In Here.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

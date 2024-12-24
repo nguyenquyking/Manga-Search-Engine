@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            34,
+            585,
+            155,
+            624
+        ],
+        "text": "SNAG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            193,
+            144,
+            304,
+            774
+        ],
+        "text": "DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            404,
+            193,
+            449,
+            249
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            693,
+            491,
+            711
+        ],
+        "text": "RRRRG...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            535,
+            63,
+            632,
+            223
+        ],
+        "text": "SO HE'S SUPPOSED TO PULL ON THE BACK OF HIS CREST LIKE",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            502,
+            699,
+            558,
+            733
+        ],
+        "text": "HRRG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            804,
+            340,
+            903,
+            503
+        ],
+        "text": "\u30ad\u30e5\u30f3!! ZING!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1053,
+            235,
+            1103,
+            324
+        ],
+        "text": "...DEEP PRIDE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1061,
+            545,
+            1080,
+            637
+        ],
+        "text": "IMPERIAL...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

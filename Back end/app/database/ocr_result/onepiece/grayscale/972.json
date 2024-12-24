@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            45,
+            70,
+            133,
+            214
+        ],
+        "text": "THE FAMILIES OF THESE ABDUCTED CHILDREN ARE WAITING!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            40,
+            274,
+            122,
+            351
+        ],
+        "text": "LET'S GO BACK TO THE MAINLAND!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            378,
+            108,
+            435
+        ],
+        "text": "SHALL WE, ACE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            229,
+            33,
+            275,
+            153
+        ],
+        "text": "THANK YOU! THANK YOU!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            48,
+            520,
+            190
+        ],
+        "text": "I AM YAMATO!! I'VE BEEN SITTING AROUND BORED ANYWAY-- I'LL BE YOUR OPPONENT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            347,
+            523,
+            437
+        ],
+        "text": "I WANNA SETTLE THIS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            588,
+            522,
+            729
+        ],
+        "text": "IT DOESN'T MAKE SENSE THAT SOMEONE THIS POWERFUL ISN'T THE CAPTAIN!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            604,
+            248,
+            697,
+            356
+        ],
+        "text": "YAAA!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            603,
+            439,
+            688,
+            550
+        ],
+        "text": "RAHH!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            827,
+            80,
+            930,
+            150
+        ],
+        "text": "GAGANK!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            870,
+            551,
+            943,
+            618
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

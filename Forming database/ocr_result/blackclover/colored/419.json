@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            196,
+            355,
+            356,
+            518
+        ],
+        "text": "I think I'll tear off a leg or two, at least.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            83,
+            1117,
+            347,
+            1264
+        ],
+        "text": "As long as you're alive, we'll have what we need.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            608,
+            159,
+            1253,
+            814
+        ],
+        "text": "KRUNKL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1808,
+            23,
+            1887,
+            399
+        ],
+        "text": "UMY\nTWITTER @Umy_250",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

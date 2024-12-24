@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            96,
+            78,
+            257,
+            206
+        ],
+        "text": "NOW I'LL HEAD OFF TO WHERE KIN'EMON IS!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            132,
+            588,
+            284,
+            708
+        ],
+        "text": "NICE ONE. I KNEW I COULD COUNT ON FRANKY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            89,
+            836,
+            252,
+            991
+        ],
+        "text": "SHE'LL BE FURIOUS!! WE GOTTA GET OUTTA HERE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            63,
+            612,
+            172
+        ],
+        "text": "YOU CAN TRUST HIM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            209,
+            563,
+            296
+        ],
+        "text": "LUFFY-TARO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            497,
+            332,
+            608,
+            479
+        ],
+        "text": "DON'T WORRY, SHINOBU! HE'S AN ALLY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            473,
+            648,
+            571,
+            682
+        ],
+        "text": "TMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            100,
+            1158,
+            201,
+            1407
+        ],
+        "text": "THEY RAN OVER BIG MOM WITH A MOTORCYCLE!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            88,
+            1580,
+            241,
+            1783
+        ],
+        "text": "THOSE PEOPLE ARE FINISHED!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            105,
+            1845,
+            244,
+            2022
+        ],
+        "text": "THEY'RE DONE FOR!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            336,
+            1919,
+            483,
+            2115
+        ],
+        "text": "MAMA!! MAMA!! HH",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            496,
+            1273,
+            572,
+            1403
+        ],
+        "text": "THANK YOU, BIG BRO!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            85,
+            1136,
+            245
+        ],
+        "text": "I AM ODEN!! I WILL PROTECT YOU!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            554,
+            1088,
+            723
+        ],
+        "text": "KOZUKI MOMONOSUKE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            969,
+            846,
+            1068,
+            961
+        ],
+        "text": "ARE YOU OKAY, NAMI?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            1183,
+            1057,
+            1330
+        ],
+        "text": "THINGS ARE REALLY KICKIN' OFF!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1206,
+            1139,
+            1315,
+            1258
+        ],
+        "text": "CERTAINLY. JUST GIVE ME ORDERS.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1209,
+            1311,
+            1304,
+            1437
+        ],
+        "text": "HELP ME OUT, NICO ROBIN.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1192,
+            1473,
+            1300,
+            1625
+        ],
+        "text": "THIS HAS TAKEN A TURN FOR THE CHAOTIC.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1300,
+            535,
+            1440,
+            729
+        ],
+        "text": "ACK!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

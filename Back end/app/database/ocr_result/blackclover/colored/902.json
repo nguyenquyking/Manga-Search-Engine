@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1082,
+            260,
+            1160,
+            323
+        ],
+        "text": "SPARK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            352,
+            1405,
+            1929,
+            1526
+        ],
+        "text": "NOOOOOOOOOOOO!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1627,
+            815,
+            1686,
+            1250
+        ],
+        "text": "@Shiuryy @ColorClovers",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

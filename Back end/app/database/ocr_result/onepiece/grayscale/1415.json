@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            153,
+            144,
+            330,
+            444
+        ],
+        "text": "I thought the same thing... In fact, I suspect we all did!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            125,
+            570,
+            295,
+            907
+        ],
+        "text": "Doesn't this mean that our plan was leaked?! Again?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            1128,
+            300,
+            1264
+        ],
+        "text": "But... it just doesn't make sense!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            125,
+            1172,
+            292
+        ],
+        "text": "But at this point, I do not even want to know!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            936,
+            965,
+            1072
+        ],
+        "text": "...But it might be that one of us...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            1159,
+            965,
+            1356
+        ],
+        "text": "I did not want to consider this possibility...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            927,
+            1220,
+            1078
+        ],
+        "text": "...is in league with the enemy!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1442,
+            149,
+            1596,
+            335
+        ],
+        "text": "Kiku is right, Kin!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1445,
+            455,
+            1641,
+            653
+        ],
+        "text": "...Then none of us can do so!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1438,
+            750,
+            1656,
+            1069
+        ],
+        "text": "If you aren't prepared to find the traitor, cut him down and move onward...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1432,
+            1156,
+            1620,
+            1337
+        ],
+        "text": "Master Kin!! This isn't like you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1909,
+            165,
+            2080,
+            316
+        ],
+        "text": "Let us clear it all up now!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1956,
+            446,
+            2064,
+            676
+        ],
+        "text": "But whoever it is, they will not confess!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

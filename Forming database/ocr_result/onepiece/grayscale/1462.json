@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            613,
+            159,
+            756,
+            308
+        ],
+        "text": "So what was he good for anyway?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            367,
+            758,
+            580
+        ],
+        "text": "...I thought his strength was the real deal...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            846,
+            749,
+            1007
+        ],
+        "text": "Even for a fool of a lord...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            585,
+            1149,
+            745,
+            1334
+        ],
+        "text": "So he couldn't beat Kaido in the end.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            396,
+            995,
+            476
+        ],
+        "text": "Murmur",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1343,
+            201,
+            1544,
+            419
+        ],
+        "text": "It is imperative that I survive.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1384,
+            1146,
+            1555,
+            1339
+        ],
+        "text": "I request that you give me a chance!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

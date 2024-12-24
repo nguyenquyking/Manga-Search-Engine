@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            50,
+            61,
+            125,
+            172
+        ],
+        "text": "THEY'RE JUST TOO STRONG!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            384,
+            120,
+            466
+        ],
+        "text": "PROTECT NICO ROBIN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            491,
+            117,
+            593
+        ],
+        "text": "RUN, BARON CORPSE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            345,
+            54,
+            408,
+            160
+        ],
+        "text": "BE CAREFUL, MY MINK FRIENDS!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            649,
+            125,
+            717
+        ],
+        "text": "2ND FLOOR OF THE CASTLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            163,
+            657,
+            429,
+            739
+        ],
+        "text": "5\n4\n3\n\u00d7\n2\n1\nB1\nB2",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            654,
+            135,
+            753,
+            245
+        ],
+        "text": "WE SAW THOSE PEOPLE BACK IN DRESSROSA...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            57,
+            786,
+            138
+        ],
+        "text": "WHY ARE THEY HERE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            611,
+            575,
+            657,
+            693
+        ],
+        "text": "TIME TO JUMP DOWN, ROBIN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            357,
+            1088,
+            456
+        ],
+        "text": "...THE AGENTS WEARING MASKS ARE THE MOST ELITE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            938,
+            641,
+            1092,
+            739
+        ],
+        "text": "OUT OF EVERYONE IN CPO, THE HIGHEST LEVEL OF CIPHER POL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

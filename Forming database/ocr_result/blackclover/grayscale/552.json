@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            720,
+            811,
+            897,
+            957
+        ],
+        "text": "Three days from now, we'll marshal the Magic Knights' elite...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            911,
+            32,
+            1024,
+            186
+        ],
+        "text": "...and storm the Spade Kingdom.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1257,
+            618,
+            1339,
+            724
+        ],
+        "text": "You're... the vice captain of the Black",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1313,
+            93,
+            1465,
+            212
+        ],
+        "text": "You've never come here before, not even once. Why?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1480,
+            481,
+            1518,
+            562
+        ],
+        "text": "Why now...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

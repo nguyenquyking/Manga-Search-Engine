@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            79,
+            96,
+            151,
+            222
+        ],
+        "text": "In the way that's simplest for you lot!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            599,
+            139,
+            720
+        ],
+        "text": "Yes, muster the warriors.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            251,
+            54,
+            319,
+            157
+        ],
+        "text": "The League may rub me the wrong way...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            56,
+            464,
+            194
+        ],
+        "text": "...But their influence certainly has its uses!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            405,
+            804,
+            555
+        ],
+        "text": "Re-Destro himself saw the light and hope they represent!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            598,
+            964,
+            723
+        ],
+        "text": "The Tragedy of Himiko Toga\nPlays out to this day!",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

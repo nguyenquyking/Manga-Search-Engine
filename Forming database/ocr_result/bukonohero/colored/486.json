@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            124,
+            495,
+            191,
+            597
+        ],
+        "text": "AND SO, I HAVE NO SON.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            214,
+            55,
+            280,
+            163
+        ],
+        "text": "SORAHIKO,\nI HAVE NO\nSON...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            241,
+            348,
+            284,
+            419
+        ],
+        "text": "I\nNEVER\nDID.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            485,
+            757,
+            570,
+            885
+        ],
+        "text": "YOU HEROES\nHURT YOUR\nOWN\nFAMILIES...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            90,
+            874,
+            255
+        ],
+        "text": "...JUST TO\nHELP COMPLETE\nSTRANGERS!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1067,
+            116,
+            1161,
+            234
+        ],
+        "text": "THE\nDECISION\nWE MADE...\nWAS IT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            278,
+            1091,
+            397
+        ],
+        "text": "SHIMURA...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1154,
+            767,
+            1237,
+            878
+        ],
+        "text": "DAD\nTOLD ME\nTHAT.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

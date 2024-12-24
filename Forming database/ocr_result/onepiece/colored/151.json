@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            15,
+            788,
+            72,
+            876
+        ],
+        "text": "WODEN CREATIV",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            540,
+            93,
+            622,
+            198
+        ],
+        "text": "AAAAAAA AAAAAAH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            715,
+            624,
+            831
+        ],
+        "text": "HAAAAA AAAAAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            881,
+            784,
+            943,
+            883
+        ],
+        "text": "WODEN CREATIV",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1225,
+            233,
+            1287,
+            334
+        ],
+        "text": "WODEN CREATIV",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

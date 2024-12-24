@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            357,
+            117,
+            384,
+            159
+        ],
+        "text": "BAM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            502,
+            161,
+            516,
+            576
+        ],
+        "text": "CHAPTER 1036: BUSHIDO IS THE WAY OF DEATH",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            567,
+            74,
+            589,
+            151
+        ],
+        "text": "WEEZ!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            704,
+            560,
+            759,
+            627
+        ],
+        "text": "HUFF,\nHUFF...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            917,
+            63,
+            942,
+            137
+        ],
+        "text": "KING?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            368,
+            948,
+            462
+        ],
+        "text": "ARE\nYOU STILL\nUNDER THAT\nBELIEF...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            875,
+            545,
+            902,
+            693
+        ],
+        "text": "\u2026\nKAIDO...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            207,
+            754,
+            256,
+            836
+        ],
+        "text": "FROM\nABOVE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            408,
+            18,
+            483,
+            124
+        ],
+        "text": "INTO\nANOTHER\nASSAULT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            729,
+            97,
+            822,
+            160
+        ],
+        "text": "I SEE\nALL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            774,
+            851,
+            887
+        ],
+        "text": "IFF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1008,
+            516,
+            1098,
+            647
+        ],
+        "text": "I'LL\nOVERWHELM\nHIM WITH A\nFLURRY OF\nMOVES...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            757,
+            1089,
+            862
+        ],
+        "text": "HE\nSURE\nCAN...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1336,
+            709,
+            1368,
+            779
+        ],
+        "text": "BUT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

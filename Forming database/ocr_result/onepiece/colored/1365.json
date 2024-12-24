@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            350,
+            48,
+            447,
+            492
+        ],
+        "text": "Q: Hello, Oda Sensei!! Big Mom sure has a bunch of ex-husbands. How does she handle that sort of thing? Do they have betrothal interviews?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            48,
+            540,
+            465
+        ],
+        "text": "A: She's a pirate. She takes by force. And when she has her kid, she dumps them!! Her intent is to have children of a variety of races. She's a scary lady.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            49,
+            644,
+            688
+        ],
+        "text": "Q: If Big Mom has her hunger pangs and wants wedding cake again, what will happen to Totto Land? I can't imagine that anyone will be able to bake such a wedding cake again...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            50,
+            897,
+            711
+        ],
+        "text": "A: Good point! That's very kind of you to be concerned for Totto Land's well-being. Do you suppose they'll flee the country if disaster strikes? But the New World is a very treacherous sea. The family and citizens are largely protected by the menacing name of Big Mom. So even though danger might eventually strike, they can't help but stick close to her. This is a major concern for Totto Land, and part of what it means to live under a major power, perhaps! (Wow, what a serious answer.)",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            48,
+            1005,
+            709
+        ],
+        "text": "Q: Is the Gerd whom Big Mom lived with in her childhood the same person as the beautiful ship doctor Gerd from the New Giant Pirates on the cover of chapter 901?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            47,
+            1156,
+            380
+        ],
+        "text": "A: That's right. 63 years ago, Big Mom was five years old, and Gerd was 12. So now Big Mom is 68, and Gerd is 75. Since giants live to be 300 years old, she's still in the prime of her life.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

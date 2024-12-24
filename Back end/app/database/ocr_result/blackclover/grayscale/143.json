@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            171,
+            803,
+            308,
+            949
+        ],
+        "text": "BOTH I... AND THE ONE I BELIEVED IN WERE WRETCHED SINNERS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            420,
+            634,
+            515,
+            722
+        ],
+        "text": "I WILL ATONE FOR MY SINS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            524,
+            614,
+            599
+        ],
+        "text": "THIS IS THE FIRST STEP.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            600,
+            906,
+            667,
+            986
+        ],
+        "text": "Why are you clinging to me, Dorkstar?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            688,
+            881,
+            721,
+            911
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            817,
+            256,
+            985,
+            340
+        ],
+        "text": "ONCE AGAIN, YOU DIDN'T DO A THING HERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            397,
+            1040,
+            498
+        ],
+        "text": "DON'T GET THE WRONG IDEA! I HAVEN'T BEEN WRONG, EVER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            881,
+            928,
+            937,
+            981
+        ],
+        "text": "YOU GUYS...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            897,
+            64,
+            1040,
+            187
+        ],
+        "text": "SHADDUP! I'LL DO STUFF THE WAY I WANT TO DO IT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1230,
+            311,
+            1284,
+            394
+        ],
+        "text": "...I MUST DO.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1190,
+            567,
+            1307,
+            679
+        ],
+        "text": "THERE ARE STILL THINGS",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1281,
+            82,
+            1329,
+            120
+        ],
+        "text": "HM?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

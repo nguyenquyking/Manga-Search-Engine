@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            38,
+            121,
+            180,
+            284
+        ],
+        "text": "I'VE READ ABOUT IT IN BOOKS... AN EXISTENCE FROM ANOTHER WORLD...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            36,
+            582,
+            109,
+            667
+        ],
+        "text": "A SOUL OF EVIL MANA...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            321,
+            224,
+            542,
+            413
+        ],
+        "text": "THE ELVES WILL BE SHOCKED, WON'T THEY? SINCE THE SECRET LOCATION FOR THE CEREMONY ONLY YOU KNEW ABOUT WILL BE FLOODED WITH THE VIOLENCE AND AMBITION OF HUMAN BEINGS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            512,
+            786,
+            644
+        ],
+        "text": "YOU'LL DESTROY THE FOREIGN RACE THAT CAUSED HARM TO THE PRINCESS...AND THEREFORE, THE NATION... RIGHT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            719,
+            428,
+            779
+        ],
+        "text": "WHAT ABOUT MY FATHER AND THE OTHERS...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            30,
+            726,
+            101
+        ],
+        "text": "...WHAT DID YOU SAY...!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            379,
+            714,
+            446
+        ],
+        "text": "...!!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            578,
+            688,
+            627,
+            748
+        ],
+        "text": "WHO KNOWS?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            15,
+            1008,
+            146
+        ],
+        "text": "MAY WE MEET AGAIN... AFTER BOTH THE GRIMOIRE AND THE VESSEL FALL INTO MY HANDS...! HN HN HN HN!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1107,
+            30,
+            1134,
+            101
+        ],
+        "text": "WAIT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1005,
+            266,
+            1142,
+            398
+        ],
+        "text": "BUT! I MADE SURE TO PREPARE FOR IT, SO EVEN YOU WON'T BE ABLE TO GET OUT THAT EASILY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            395,
+            1141,
+            507
+        ],
+        "text": "HN HN... AS EXPECTED OF THE COUNTRY'S STRONGEST... SUCH FRIGHTENING MAGIC POWER...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            734,
+            1038,
+            795
+        ],
+        "text": "KRG..!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

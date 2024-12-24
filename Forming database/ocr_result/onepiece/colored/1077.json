@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            72,
+            67,
+            169,
+            184
+        ],
+        "text": "I STILL BELIEVE THE WORDS OF LADY OTOKI.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            228,
+            145,
+            331
+        ],
+        "text": "WAAAH! GRANDMAAA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            377,
+            147,
+            473
+        ],
+        "text": "I WILL SLICE HER MYSELF.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            505,
+            144,
+            592
+        ],
+        "text": "RUN AWAY, OLD WOMAN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            629,
+            159,
+            714
+        ],
+        "text": "PLEASE! DON'T DO THIS, MR. THIEF!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            336,
+            524,
+            508
+        ],
+        "text": "I BELIEVE THAT THE NINE SAMURAI... WILL FULFILL LORD ODEN'S WISH!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            442,
+            613,
+            495,
+            699
+        ],
+        "text": "A DEAD WOMAN.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            452,
+            63,
+            508,
+            171
+        ],
+        "text": "SHUTEN-MARU!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            209,
+            501,
+            290
+        ],
+        "text": "GYAAAA!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            582,
+            319,
+            677,
+            432
+        ],
+        "text": "FOOL! THERE'S NO BATTLE TO FIGHT WITHOUT A GENERAL TO LEAD!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            591,
+            49,
+            642,
+            131
+        ],
+        "text": "GWAAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            158,
+            622,
+            209
+        ],
+        "text": "KABOOM!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            764,
+            404,
+            849,
+            546
+        ],
+        "text": "IT'S HIM, SHUTENMARU!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            876,
+            372,
+            943,
+            508
+        ],
+        "text": "KABOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            946,
+            302,
+            983,
+            422
+        ],
+        "text": "\u308f\u3042\u3042\u3041\u3042",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1267,
+            113,
+            1292,
+            698
+        ],
+        "text": "Page 206: A Reunion Across Time and Space",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1388,
+            643,
+            1504,
+            775
+        ],
+        "text": "Hey, Yuno!\nIsn't that...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1484,
+            351,
+            1507,
+            410
+        ],
+        "text": "Yeah...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

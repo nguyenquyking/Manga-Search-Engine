@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            72,
+            60,
+            139,
+            155
+        ],
+        "text": "I LOOK\nUP TO YOU\nSO MUCH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            197,
+            146,
+            266
+        ],
+        "text": "YOU'RE\nSUCH A\nPLAYER,\nBRO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            317,
+            123,
+            391
+        ],
+        "text": "YESSIR!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            605,
+            183,
+            700
+        ],
+        "text": "OKIKU\nHAS\nCOME TO\nSEE ME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            252,
+            601,
+            322,
+            701
+        ],
+        "text": "BRING\nHER HERE,\nBOYS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            35,
+            561,
+            158
+        ],
+        "text": "TELL ME\nWHERE TO\nFIND THE\nBOSS OF\nTHIS TOWN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            40,
+            729,
+            134
+        ],
+        "text": "SHE'S\nBOUND\nTO BE\nTHERE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            564,
+            554,
+            697
+        ],
+        "text": "HEY, WAIT\nUP, YOU\nGUYS!! WE'RE\nLOOKING FOR\nSOMEONE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            589,
+            714,
+            694
+        ],
+        "text": "SHE'S A\nLITTLE KID\nNAMED\nTAMA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            15,
+            933,
+            115
+        ],
+        "text": "DIDN'T\nSEEM RIGHT\nTO SLICE UP\nA NAKED\nGUY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            144,
+            928,
+            232
+        ],
+        "text": "ZORO,\nWHY'D YOU\nLET HIM\nTAKE HER\nAWAY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            257,
+            891,
+            342
+        ],
+        "text": "EEEEEK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            824,
+            376,
+            906,
+            506
+        ],
+        "text": "SHE MIGHT BE\nTALL, BUT SHE'S\nJUST RIGHT FOR\nURASHIMA!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            600,
+            904,
+            697
+        ],
+        "text": "OOH, I'M SO JEALOUS!\nSHE'S GONNA\nSNAG THAT\nHUNK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

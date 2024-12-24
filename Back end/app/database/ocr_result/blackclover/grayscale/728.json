@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            69,
+            205,
+            127,
+            290
+        ],
+        "text": "I COULDN'T WIN... AT 70 PERCENT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            358,
+            26,
+            419,
+            108
+        ],
+        "text": "IT'S OVER, ZENON!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            196,
+            689,
+            270
+        ],
+        "text": "A WORTHY EFFORT, BUT NO.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1001,
+            15,
+            1039,
+            102
+        ],
+        "text": "...JUST OPENED!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            967,
+            246,
+            1086,
+            351
+        ],
+        "text": "THE FIRST GATE... THE BARRIER THAT MAKES OUR CONTRACTS WITH THE DEVILS INCOMPLETE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            948,
+            376,
+            1009,
+            465
+        ],
+        "text": "...BUT HER MAGIC IS SWELLING?!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            964,
+            652,
+            1065,
+            729
+        ],
+        "text": "WHAT?! HER CURSE POWER WAS SEALED...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

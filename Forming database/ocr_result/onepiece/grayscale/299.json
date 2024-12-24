@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            46,
+            53,
+            119,
+            118
+        ],
+        "text": "Sir Usopp...!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            32,
+            254,
+            170,
+            379
+        ],
+        "text": "And it's the entire reason I'm standing here alive today!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            416,
+            136,
+            540
+        ],
+        "text": "I don't care if it looks pathetic!! I survive\u2014it's what I do!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            37,
+            577,
+            175,
+            725
+        ],
+        "text": "I cling to life with snot running from my nose, if I have to!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            335,
+            41,
+            408,
+            206
+        ],
+        "text": "Why are you idiots so satisfied with just pulling off your raid?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            37,
+            525,
+            114
+        ],
+        "text": "Get down!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            271,
+            548,
+            362
+        ],
+        "text": "He's right, of course!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            627,
+            561,
+            732
+        ],
+        "text": "Gyaaa!! I can't do this!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            605,
+            387,
+            628,
+            457
+        ],
+        "text": "Gaching!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            746,
+            162,
+            725,
+            342
+        ],
+        "text": "Blam! Blam! Blam! Blam!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            707,
+            630,
+            759,
+            728
+        ],
+        "text": "Gyaaaa!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1012,
+            33,
+            1070,
+            156
+        ],
+        "text": "Aaaagh!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            78,
+            98,
+            150,
+            206
+        ],
+        "text": "I'M NOT GIVING YOU ANYTHING. WORK FOR IT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            307,
+            121,
+            385
+        ],
+        "text": "CARIBOU!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            606,
+            157,
+            718
+        ],
+        "text": "HEY, BOSS!! KEE HEE HEE HEE!! SPARE A TICKET FOR ME TOO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            198,
+            615,
+            282,
+            710
+        ],
+        "text": "MILLET DUMPLINGS FOR THE NEEDY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            95,
+            438,
+            226
+        ],
+        "text": "I'LL BE YOUR HENCHMAN IF YOU GIVE ME SOME DUMPLINGS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            50,
+            594,
+            200
+        ],
+        "text": "AND I'VE BEEN IN HERE A LOT LONGER THAN YOU, SO I KNOW THINGS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            355,
+            619,
+            434,
+            735
+        ],
+        "text": "APPARENTLY THEY DESIGN THESE SEASTONE CUFFS TO HAVE A MILD EFFECT...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            487,
+            633,
+            591,
+            734
+        ],
+        "text": "...SO THAT YOU CAN WORK WITH THEM ON... BUT I CAN BARELY MOVE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            668,
+            52,
+            757,
+            192
+        ],
+        "text": "C'MON, TAKE ME ALONG!! I'LL DO ANYTHING FOR YA, PAL!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            237,
+            748,
+            336
+        ],
+        "text": "YOU'RE TRYING TO FLY THE COOP, EH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            499,
+            798,
+            724
+        ],
+        "text": "CAPTAIN, CARIBOU PIRATES\nWET-HAIRED CARIBOU\nBOUNTY: 210 MILLION",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            964,
+            390,
+            1052,
+            494
+        ],
+        "text": "HE ATTEMPTED TO TAKE LUFFY DOWN IN THE PAST BUT FAILED.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            964,
+            503,
+            1053,
+            633
+        ],
+        "text": "A NINE-DIGIT BOUNTY ROOKIE WHO ENTERED THE NEW WORLD NOT LONG AGO!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1026,
+            654,
+            1066,
+            726
+        ],
+        "text": "A Caribou Refresher",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1047,
+            49,
+            1124,
+            142
+        ],
+        "text": "JUST TEAM UP WITH JAGGY INSTEAD.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            207,
+            1128,
+            334
+        ],
+        "text": "IF YOU AND ME TEAM UP, NOBODY CAN STOP US!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

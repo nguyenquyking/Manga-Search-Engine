@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            72,
+            294,
+            156,
+            384
+        ],
+        "text": "BECAUSE THAT IS THE ONLY WAY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            616,
+            140,
+            737
+        ],
+        "text": "TO ALLOW HIM TO TAKE OUR HAND.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            269,
+            149,
+            299,
+            199
+        ],
+        "text": "ZABAM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            334,
+            425,
+            406,
+            534
+        ],
+        "text": "...WE CAN ONCE AGAIN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            573,
+            70,
+            644,
+            207
+        ],
+        "text": "...MAKE HIM OUR EQUAL. OUR PEER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            30,
+            899,
+            200
+        ],
+        "text": "AOYAMA, YOU THOUGHT YOU WERE HELPLESS AGAINST ALL FOR ONE, YEAH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            18,
+            1116,
+            208
+        ],
+        "text": "THAT'S WHY YOU OBEYED! BUT THINGS HAVE CHANGED! YOU TRIED TO GET YOUR FOLKS TO PUT AN END TO THIS BAD DEAL, DIDN'TCHA?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            288,
+            1046,
+            347
+        ],
+        "text": "THAT'S RIGHT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            403,
+            1126,
+            497
+        ],
+        "text": "HAR HAR... A LITTLE EXTREME, DON'TCHA THINK?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            806,
+            628,
+            905,
+            716
+        ],
+        "text": "THE CRAP I WENT THROUGH BECAUSE OF HIM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            568,
+            1084,
+            700
+        ],
+        "text": "FIVE GOOD BLASTS OF MY HOWITZER SHOULD MAKE US EVEN.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

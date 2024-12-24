@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            520,
+            65,
+            628,
+            164
+        ],
+        "text": "THE FORCE BEHIND IT IS INCREDIBLE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            454,
+            481,
+            500,
+            510
+        ],
+        "text": "!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            688,
+            617,
+            854,
+            740
+        ],
+        "text": "WHAT IN THE WORLD IS THAT CREEPY STUFF?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            899,
+            544,
+            964
+        ],
+        "text": "BLORP!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            883,
+            62,
+            1041,
+            261
+        ],
+        "text": "IT'S GOING TO SWALLOW ME UP!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            480,
+            1049,
+            555
+        ],
+        "text": "NOT GOOD...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            38,
+            21,
+            180,
+            216
+        ],
+        "text": "It's just like Lolopechka said! She's...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            35,
+            745,
+            212,
+            885
+        ],
+        "text": "Blood magic and curse warding magic!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            530,
+            32,
+            585,
+            157
+        ],
+        "text": "\u307b\u3051\u30fc",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            528,
+            677,
+            550,
+            783
+        ],
+        "text": "DWEEEEEH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            908,
+            101,
+            961,
+            153
+        ],
+        "text": "Oh! Yes! That's right.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            875,
+            194,
+            941,
+            263
+        ],
+        "text": "Never mind that, the Spade Kingdom!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            323,
+            974,
+            451
+        ],
+        "text": "I-I-I'm sorry! I was checking into something.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            498,
+            934,
+            553
+        ],
+        "text": "Ah!! Yesh?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            905,
+            669,
+            935,
+            731
+        ],
+        "text": "Lolo-Pechka!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            846,
+            945,
+            910
+        ],
+        "text": "Excuse me?! Lolo-Pechka!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1111,
+            71,
+            1244,
+            229
+        ],
+        "text": "Their own and the magic of the devil possessing them.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1108,
+            714,
+            1268,
+            873
+        ],
+        "text": "The members of the Dark Triad can use two types of magic...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1326,
+            57,
+            1376,
+            91
+        ],
+        "text": "!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

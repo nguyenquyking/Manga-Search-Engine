@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            72,
+            69,
+            134,
+            214
+        ],
+        "text": "...by fighting\nwith Lord Kaido\nover in Kuri!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            49,
+            547,
+            145,
+            680
+        ],
+        "text": "So that's the guy\nwho supposedly\ndestroyed a\nwhole town...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            49,
+            238,
+            118
+        ],
+        "text": "Hope you're\nready for\nthis!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            278,
+            619,
+            337,
+            705
+        ],
+        "text": "Good to\nsee ya,\nnew guy!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            123,
+            576,
+            243
+        ],
+        "text": "I thought\nhe'd be as big\nas the lead\nperformers...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            508,
+            497,
+            550,
+            599
+        ],
+        "text": "Really?\nThat little",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            615,
+            522,
+            708
+        ],
+        "text": "JANGLE!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            627,
+            237,
+            660,
+            547
+        ],
+        "text": "Huff\nHuff",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            776,
+            288,
+            871,
+            412
+        ],
+        "text": "What was\nthat?! He just\nchallenged his\nown jailers\nwith a look!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            506,
+            872,
+            598
+        ],
+        "text": "Can't wait\nto haze\nthat light\nright outta\nthem!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            627,
+            852,
+            706
+        ],
+        "text": "That's\nquite a\nlook in\nyour eyes!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            613,
+            1009,
+            671
+        ],
+        "text": "GLARE!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

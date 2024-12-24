@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            52,
+            79,
+            114,
+            204
+        ],
+        "text": "WHEN DID YOU INFILTRATE MY PAYROLL?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            334,
+            102,
+            384
+        ],
+        "text": "EEEK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            49,
+            421,
+            154,
+            578
+        ],
+        "text": "BLAM!!\nBABLAM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            72,
+            617,
+            189,
+            712
+        ],
+        "text": "AAAH!!\nIT'S CIPHER POL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            328,
+            39,
+            465,
+            161
+        ],
+        "text": "...BUT FIRST AND FOREMOST,\nI'M A JOURNALIST!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            188,
+            420,
+            293
+        ],
+        "text": "I MAY BE A MONEY-HUNGRY SCROOGE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            562,
+            457,
+            704
+        ],
+        "text": "DON'T MESS\nWITH BIG NEWS\nMORGANS IF YOU\nKNOW WHAT'S\nGOOD FOR YOU!!!\nI'M KING OF\nTHE NEWS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            490,
+            622,
+            564,
+            716
+        ],
+        "text": "BOSS\nBEAT UP A\nGOVERNMENT\nAGENT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            26,
+            798,
+            193
+        ],
+        "text": "AS THE DJ OF\nTHE PRINTED PAGE,\nI GET PEOPLE'S\nHEARTS DANCING!!\nAND I'M THE ONE\nWHO DECIDES\nWHAT NEWS IS\nFIT TO PRINT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            163,
+            956,
+            289
+        ],
+        "text": "I'VE GOT A MESSAGE FROM\nKING WAPOL,\nMR. MORGANS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            323,
+            933,
+            384
+        ],
+        "text": "YES,\nBOSS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            418,
+            956,
+            517
+        ],
+        "text": "WE'RE\nMOVIN'\nOFFICE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            583,
+            958,
+            699
+        ],
+        "text": "OUR\nLOCATION'S\nTOO HOT,\nPEOPLE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            76,
+            972,
+            136
+        ],
+        "text": "SOUNDS",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            974,
+            52,
+            1029,
+            156
+        ],
+        "text": "LIKE HE'S GOT\nSOME LEAKED\nINTEL.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1070,
+            60,
+            1128,
+            136
+        ],
+        "text": "WHAT?",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1060,
+            185,
+            1116,
+            234
+        ],
+        "text": "COO\nCOO COO",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

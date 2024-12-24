@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            70,
+            571,
+            88,
+            676
+        ],
+        "text": "BASH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            110,
+            738,
+            178,
+            814
+        ],
+        "text": "MEANWHILE, ONIGASHIMA CONTINUES ITS APPROACH",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            302,
+            76,
+            356,
+            145
+        ],
+        "text": "Pant... Pant...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            457,
+            55,
+            546,
+            189
+        ],
+        "text": "WHY ARE YOU DRINKING?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            659,
+            324,
+            717,
+            423
+        ],
+        "text": "WODEN CREATIV",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            794,
+            76,
+            919,
+            239
+        ],
+        "text": "AND WE WERE SUPPOSED TO HOST A GRAND BANQUET HERE ON ONIGASHIMA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            417,
+            887,
+            543
+        ],
+        "text": "THE CAPITAL IS CELEBRATING THE FIRE FESTIVAL TODAY...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            825,
+            586,
+            878,
+            681
+        ],
+        "text": "YOU WANT A SWIG?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1214,
+            423,
+            1288,
+            543
+        ],
+        "text": "WODEN CREATIV",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1144,
+            70,
+            1258,
+            225
+        ],
+        "text": "ALTHOUGH YOU'VE PRETTY MUCH RUINED THAT!! FUFUFU...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1192,
+            725,
+            1251,
+            835
+        ],
+        "text": "BECAUSE I'M HAVING FUN..!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

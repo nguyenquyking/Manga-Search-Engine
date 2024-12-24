@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            120,
+            109,
+            336,
+            206
+        ],
+        "text": "I was just thinking having nothing but mana detection and ki to rely on felt real unsafe.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            97,
+            362,
+            254,
+            470
+        ],
+        "text": "By the way, you said you could tell what's going on up there, right?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            188,
+            492,
+            363,
+            802
+        ],
+        "text": "ZZZT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            480,
+            317,
+            692,
+            468
+        ],
+        "text": "Tell me what that nasty thing's doing, prickly queen.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            105,
+            822,
+            197
+        ],
+        "text": "You! You can't be planning to\u2014from here?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            625,
+            562,
+            801,
+            653
+        ],
+        "text": "Hey, how about some payback for earlier? Lemme in too.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            922,
+            704,
+            1028
+        ],
+        "text": "I told you, don't get so close to me, human.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1201,
+            355,
+            1328,
+            457
+        ],
+        "text": "Don't you dare miss!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            765,
+            1161,
+            872
+        ],
+        "text": "...I'll add momentum to your strike, at least!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            976,
+            1020,
+            1039
+        ],
+        "text": "Hmph.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1256,
+            906,
+            1376,
+            991
+        ],
+        "text": "I don't appreciate the way you asked, but...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

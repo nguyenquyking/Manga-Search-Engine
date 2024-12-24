@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            340,
+            806,
+            488,
+            954
+        ],
+        "text": "There's no way I'll acknowledge...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            46,
+            840,
+            196
+        ],
+        "text": "...your Justice!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1264,
+            113,
+            1403,
+            250
+        ],
+        "text": "...to reach an understanding with a devil!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1225,
+            811,
+            1336,
+            933
+        ],
+        "text": "And we won't even attempt...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1540,
+            41,
+            1561,
+            440
+        ],
+        "text": "TO BE CONTINUED IN VOLUME 23!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

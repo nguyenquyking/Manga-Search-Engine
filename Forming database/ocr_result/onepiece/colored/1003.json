@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            94,
+            163,
+            118,
+            285
+        ],
+        "text": "GYAAAAA!!\u2661\u2661",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            115,
+            632,
+            199,
+            732
+        ],
+        "text": "RUINS\nOF MUGGY\nKINGDOM,\nGRAND LINE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            428,
+            68,
+            456,
+            267
+        ],
+        "text": "MORIA'S STILL\nALIVE!!\u2661\u2661",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            327,
+            507,
+            372
+        ],
+        "text": "\u308f\u3042\u3042\u3042\u3042",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            745,
+            60,
+            835,
+            229
+        ],
+        "text": "WHY DIDN'T YOU\nTELL ME THEN,\nYOU JERK?! THIS\nIS A HUGE DEAL\nTO ME!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            267,
+            838,
+            357
+        ],
+        "text": "I KNOW.\nI READ IT\nTHIS\nMORNING...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            380,
+            840,
+            546
+        ],
+        "text": "CHECK IT OUT!\nOH, I'M SO HAPPY!\nLORD MORIA'S\nSTILL ALIVE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            589,
+            825,
+            737
+        ],
+        "text": "GECKO MORIA\nAND HIS ZOMBIE\nARMY ATTACK!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1050,
+            55,
+            1110,
+            126
+        ],
+        "text": "BECAUSE\nI DON'T\nCARE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            323,
+            1144,
+            522
+        ],
+        "text": "THRILLER BARK PIRATES\nGHOST PRINCESS\nPERONA",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

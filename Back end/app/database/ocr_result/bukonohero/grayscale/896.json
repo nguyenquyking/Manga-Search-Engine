@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            9,
+            62,
+            26,
+            111
+        ],
+        "text": "FWAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            152,
+            609,
+            179,
+            645
+        ],
+        "text": "KCHK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            463,
+            142,
+            480,
+            204
+        ],
+        "text": "BOSS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            613,
+            80,
+            701,
+            199
+        ],
+        "text": "If it's freedom you desire, then submit to me, my brethren.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            77,
+            804,
+            120
+        ],
+        "text": "KSHH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            720,
+            365,
+            815,
+            474
+        ],
+        "text": "Aw, gimme a break! I'm dying to set foot in the world of the free and",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            618,
+            796,
+            734
+        ],
+        "text": "Wait a sec! We ain't going anywhere without the bridge!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            87,
+            936,
+            191
+        ],
+        "text": "And bear witness, by my side.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            244,
+            986,
+            280
+        ],
+        "text": "KSHH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1059,
+            59,
+            1101,
+            161
+        ],
+        "text": "SHIGARAKI?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

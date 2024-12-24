@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            80,
+            136,
+            148,
+            271
+        ],
+        "text": "Arguing won't solve anything!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            412,
+            146,
+            492
+        ],
+        "text": "Stop it, you two!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            595,
+            156,
+            674
+        ],
+        "text": "Ebisu Town",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            378,
+            24,
+            477,
+            136
+        ],
+        "text": "How does a human face get punched to make that shape?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            171,
+            484,
+            261
+        ],
+        "text": "You're the least trustworthy of all of us!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            386,
+            585,
+            491,
+            705
+        ],
+        "text": "We shouldn't be casting doubt on each other!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            584,
+            606,
+            684
+        ],
+        "text": "I didn't see anything, either...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            43,
+            876,
+            196
+        ],
+        "text": "Stop!! That's just what the enemy wants, Traffy!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            267,
+            867,
+            384
+        ],
+        "text": "We'll get to the bottom of this once we rescue and ask them!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            424,
+            898,
+            539
+        ],
+        "text": "Bepo and the others would die before they talk!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            789,
+            565,
+            912,
+            703
+        ],
+        "text": "That little bear and his friends must have spilled all the secrets to our operation!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1057,
+            420,
+            1128,
+            521
+        ],
+        "text": "Don't insult my crew!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

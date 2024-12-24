@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            119,
+            68,
+            171,
+            161
+        ],
+        "text": "After all, you're the next me.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            527,
+            155,
+            635
+        ],
+        "text": "I won't be your stinkin' pawn!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            668,
+            521,
+            757,
+            601
+        ],
+        "text": "You're so very near and dear to me...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            641,
+            627,
+            731,
+            707
+        ],
+        "text": "Pawn? You have it all wrong, Tomura!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

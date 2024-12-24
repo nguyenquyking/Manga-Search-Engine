@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            75,
+            71,
+            151,
+            177
+        ],
+        "text": "C'MON, CHOPPER-EMON!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            158,
+            182,
+            156,
+            274
+        ],
+        "text": "RAAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            36,
+            603,
+            179,
+            727
+        ],
+        "text": "HEY! I WAS ONLY PLAYING GAMES WITH YOU BECAUSE I THOUGHT YOU WANTED TO PLAY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            437,
+            174,
+            502,
+            272
+        ],
+        "text": "HE JUST SHOT MORE ARROWS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            302,
+            480,
+            353
+        ],
+        "text": "OH NO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            407,
+            389,
+            561,
+            504
+        ],
+        "text": "SHWIP!\nPERORIN\n!\u266a\nWIP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            435,
+            638,
+            571,
+            752
+        ],
+        "text": "KUH KUH KUH... THE SLAUGHTER OF THEIR GENERAL HAS THROWN THEM INTO DISARRAY!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            687,
+            337,
+            757,
+            429
+        ],
+        "text": "...CANDY SHOWER!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            693,
+            642,
+            748,
+            743
+        ],
+        "text": "APOCALYPTIC...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1009,
+            211,
+            1071,
+            308
+        ],
+        "text": "I'M DEAD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1013,
+            625,
+            1119,
+            720
+        ],
+        "text": "STOP!\nNO MORE!\nTHERE'S NOWHERE\nTO RUN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

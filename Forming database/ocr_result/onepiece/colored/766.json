@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            91,
+            38,
+            212,
+            182
+        ],
+        "text": "AND I'M GONNA\nBE THE PIRATE\nKING, SO I'VE\nGOTTA BEAT\n'EM ALL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            289,
+            32,
+            374,
+            166
+        ],
+        "text": "THE\nPIRATE KING...\nWOULD THAT BE\nLIKE ROGER?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            574,
+            126,
+            700
+        ],
+        "text": "YOU KNOW\nWHAT THE FOUR\nEMPERORS ARE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            268,
+            500,
+            378,
+            697
+        ],
+        "text": "THERE ARE FOUR\nGREAT PIRATES CALLED\nTHE EMPERORS OF\nTHE SEA, AND KAIDO'S\nONE OF 'EM.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            69,
+            546,
+            171
+        ],
+        "text": "OH YEAH...\nKIN'EMON\nMENTIONED\nTHAT TOO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            35,
+            663,
+            186
+        ],
+        "text": "KIN'EMON?! HOW\nDO YOU KNOW\nTHAT NAME?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            199,
+            568,
+            289
+        ],
+        "text": "SLURP...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            469,
+            567,
+            536,
+            698
+        ],
+        "text": "OH, YOU KNOW\nABOUT GOLD\nROGER?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            584,
+            570,
+            666,
+            690
+        ],
+        "text": "MANY YEARS\nAGO...WHEN\nHE LANDED ON\nTHIS ISLAND.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            47,
+            826,
+            119
+        ],
+        "text": "HUH\n?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            172,
+            862,
+            304
+        ],
+        "text": "HUH? WHAT\nTHE--?!\nRAIZO?!\nCARIBOU?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            335,
+            800,
+            430
+        ],
+        "text": "KEE HEE\nHEE HEE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            554,
+            849,
+            696
+        ],
+        "text": "ALLOW ME TO\nEXPLAIN, SIR\nHYOGORO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            559,
+            983,
+            659
+        ],
+        "text": "BLOOP!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1068,
+            27,
+            1123,
+            137
+        ],
+        "text": "R...\nRAIZO?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

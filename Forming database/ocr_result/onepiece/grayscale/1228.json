@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            78,
+            805,
+            142,
+            967
+        ],
+        "text": "THEN SHOW\nME, KIKU!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            51,
+            628,
+            153
+        ],
+        "text": "READY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            545,
+            430,
+            593,
+            515
+        ],
+        "text": "SWI-\nSWISH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            580,
+            866,
+            689,
+            969
+        ],
+        "text": "LET'S\nGET\nGOIN'!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            64,
+            764,
+            130
+        ],
+        "text": "GHK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            133,
+            491,
+            482,
+            738
+        ],
+        "text": "NO MATTER HOW MUCH MAGIC YOU THROW AROUND,\nYOU WON'T BE ABLE TO BEAT ME, AND\nMY MAGIC WILL CONTINUE TO\nOVERFLOW...!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            179,
+            1321,
+            477,
+            1469
+        ],
+        "text": "THEN LET'S\nSPEED\nTHINGS\nUP...!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            886,
+            163,
+            1139,
+            334
+        ],
+        "text": "THE EXIT\nIS AT THE\nBOTTOM\nOF THIS\nROOM...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1433,
+            136,
+            1619,
+            251
+        ],
+        "text": "...YOU DON'T\nHAVE TO\nTELL ME\nTHAT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1444,
+            748,
+            1477,
+            875
+        ],
+        "text": "YOU...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1748,
+            186,
+            1942,
+            552
+        ],
+        "text": "HALF-\nHEARTED\nATTACKS\nWON'T EVEN\nSCRATCH\nHIM...!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1739,
+            676,
+            1970,
+            878
+        ],
+        "text": "...EVEN\nBOTH OF\nTHEIR MAGIC\nTOGETHER\nWASN'T ABLE\nTO BEAT\nHIM...?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1828,
+            950,
+            2168,
+            1028
+        ],
+        "text": "HN\nHN\nHN\nHN\nHN\n...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1666,
+            1319,
+            2102,
+            1534
+        ],
+        "text": "IF YOU\nKEEP PLAYING\nAROUND, YOUR\nFRIENDS ON\nTHE BOTTOM\nFLOORS WILL\nBE SWALLOWED\nTO THEIR\nDEATHS,\nYOU KNOW?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            174,
+            55,
+            311,
+            221
+        ],
+        "text": "IT'S T-T-TOO CRAMPED!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            194,
+            715,
+            224,
+            890
+        ],
+        "text": "GAHHH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            66,
+            672,
+            184
+        ],
+        "text": "IS THAT NOMU TALKING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            297,
+            775,
+            432
+        ],
+        "text": "WHA-?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            672,
+            447,
+            1130,
+            830
+        ],
+        "text": "SKFF SKFF SKFF SKFF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1303,
+            33,
+            1346,
+            168
+        ],
+        "text": "GENTLEMEN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

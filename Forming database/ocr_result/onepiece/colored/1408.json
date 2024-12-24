@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            78,
+            67,
+            160,
+            251
+        ],
+        "text": "...You may\nlift the veil\nand kiss\nthe bride.\nNow...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            304,
+            144,
+            465
+        ],
+        "text": "No one will ever\nfall in love with\nme. I'm a hideous,\nmonstrous freak.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            509,
+            114,
+            591
+        ],
+        "text": "Let's get\nmarried!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            633,
+            136,
+            694
+        ],
+        "text": "Ga ha ha!\nIt's a\nperfect\nimitation!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            429,
+            493,
+            502
+        ],
+        "text": "What\na...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            421,
+            589,
+            474,
+            674
+        ],
+        "text": "Go on,\nSanji...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            518,
+            399,
+            546,
+            530
+        ],
+        "text": "Gul P!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            736,
+            565,
+            800,
+            697
+        ],
+        "text": "Get a look\nat my hideous\nthird eye!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            276,
+            787,
+            348
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            754,
+            405,
+            810,
+            517
+        ],
+        "text": "Beautiful\neye...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            48,
+            960,
+            160
+        ],
+        "text": "I have a\nrequest!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            252,
+            952,
+            338
+        ],
+        "text": "H...hey!\nSanji!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            951,
+            192,
+            969,
+            237
+        ],
+        "text": "Dear.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            375,
+            979,
+            506
+        ],
+        "text": "If somebody had\nto play the role\nof my fianc\u00e9e, I'm\nglad it was you,\nPudding.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            566,
+            948,
+            678
+        ],
+        "text": "Then let\nthe cooking\nbegin!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            164,
+            1121,
+            369,
+            1301
+        ],
+        "text": "LET'S GET 'EM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            1110,
+            1056,
+            1298
+        ],
+        "text": "TAKE EVERYTHING THEY'VE GOT!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1404,
+            262,
+            1561,
+            534
+        ],
+        "text": "THE ROGER PIRATES VS. THE WHITEBEARD PIRATES.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1399,
+            1080,
+            1533,
+            1291
+        ],
+        "text": "IT WAS A CLASH OF TWO GREAT PIRATES OF THE TIME...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1600,
+            99,
+            1751,
+            241
+        ],
+        "text": "THEIR PITCHED BATTLE LASTED...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1892,
+            113,
+            2043,
+            269
+        ],
+        "text": "...FOR THREE DAYS AND NIGHTS!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1689,
+            312,
+            1879,
+            1193
+        ],
+        "text": "RAAAAAAAAAAAAH... KABOOM!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            88,
+            942,
+            160,
+            1115
+        ],
+        "text": "5/Despair",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            940,
+            1065,
+            1002,
+            1205
+        ],
+        "text": "DEVIL POWER...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1473,
+            165,
+            1536,
+            315
+        ],
+        "text": "...50 PERCENT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

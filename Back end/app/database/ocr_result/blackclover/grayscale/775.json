@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            131,
+            73,
+            409,
+            349
+        ],
+        "text": "Dark Prison Hunting Ground",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            135,
+            538,
+            275,
+            738
+        ],
+        "text": "Mana Zone:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            975,
+            67,
+            993,
+            174
+        ],
+        "text": "...BEGIN!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            663,
+            1053,
+            764
+        ],
+        "text": "Let this hellish game of tag...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

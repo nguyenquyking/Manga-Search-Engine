@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            85,
+            44,
+            118,
+            128
+        ],
+        "text": "HUH?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            70,
+            276,
+            117,
+            368
+        ],
+        "text": "GYAHH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            42,
+            502,
+            126,
+            628
+        ],
+        "text": "THE CEILING!!\nIT'S COMING DOWN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            156,
+            759,
+            172,
+            837
+        ],
+        "text": "CREAK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            546,
+            32,
+            653,
+            177
+        ],
+        "text": "I THOUGHT THERE MIGHT BE A FEW STRAGGLERS...\nGET MOVING, QUICK!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            42,
+            743,
+            101
+        ],
+        "text": "PANT...\nPANT...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            497,
+            697,
+            588,
+            827
+        ],
+        "text": "YOU'RE ONE OF THE\nSTRAW HATS...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            295,
+            1064,
+            423
+        ],
+        "text": "AT THIS RATE,\nCOUNTLESS ARE\nGOING TO BURN\nTO DEATH...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            976,
+            618,
+            1046,
+            813
+        ],
+        "text": "PANT... PANT...\nHOW IS THE FIRE\nSPREADING THIS FAST?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1186,
+            63,
+            1257,
+            211
+        ],
+        "text": "DYING IN BATTLE\nWOULD BE LESS\nCRUEL!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

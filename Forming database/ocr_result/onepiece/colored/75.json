@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            79,
+            145,
+            254,
+            619
+        ],
+        "text": "MROWWWR...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            98,
+            1491,
+            240,
+            1708
+        ],
+        "text": "WE GOTTA GET UP THERE!! C'MON!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            1236,
+            696,
+            1324
+        ],
+        "text": "YES,\nSIR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            555,
+            1013,
+            722
+        ],
+        "text": "IS THERE\nNO WAY\nOUT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            269,
+            1043,
+            434
+        ],
+        "text": "SEARCH\nFOR AN\nEXIT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            873,
+            1084,
+            1311
+        ],
+        "text": "IT'S NOTHING\nBUT FLAMES ON\nALL SIDES!! WE\nMUST GO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            931,
+            1513,
+            1068,
+            1685
+        ],
+        "text": "CASTLE\nBASE-\nMENT",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1756,
+            39,
+            1874,
+            258
+        ],
+        "text": "WOBBLE...\n\u30e8\u30ed...\nRAAAAAA",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1794,
+            735,
+            1977,
+            1038
+        ],
+        "text": "NO\nSURRENDER...\nNO GOING OUT\nWITHOUT A PEEP.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1816,
+            1120,
+            1958,
+            1373
+        ],
+        "text": "I'M GONNA\nFIGHT,\nTRAFALGAR...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1764,
+            1478,
+            1931,
+            1691
+        ],
+        "text": "\u30ac\u30c1\u30f3!!!\nCLINK!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1942,
+            0,
+            2013,
+            215
+        ],
+        "text": "\u3042",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2100,
+            969,
+            2103,
+            1057
+        ],
+        "text": "CLANK!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2469,
+            119,
+            2611,
+            379
+        ],
+        "text": "DAMMIT,\nSTRAW HAT...\nHUFF, HUFF...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2644,
+            1509,
+            2715,
+            1668
+        ],
+        "text": "\u30ac\u30b7\u30e3\u30f3!!!\nCLANK!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

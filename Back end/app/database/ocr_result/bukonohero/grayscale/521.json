@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            37,
+            586,
+            163,
+            727
+        ],
+        "text": "TORNADO\nDUN",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            314,
+            81,
+            420,
+            190
+        ],
+        "text": "Remember that stuff with Shinso, back at the Sports Festival?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            594,
+            378,
+            721
+        ],
+        "text": "DANCE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            589,
+            220,
+            628,
+            320
+        ],
+        "text": "...on my behalf!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            586,
+            643,
+            690
+        ],
+        "text": "I'll never forget how mad you got...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            757,
+            34,
+            822,
+            111
+        ],
+        "text": "TUG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            816,
+            164,
+            887,
+            278
+        ],
+        "text": "My presence is a danger to all of you!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            340,
+            1076,
+            499
+        ],
+        "text": "So how can I sit back when you're the only one fighting and running yourself ragged out here?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

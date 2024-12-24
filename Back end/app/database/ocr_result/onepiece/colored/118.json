@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            69,
+            137,
+            94,
+            286
+        ],
+        "text": "Oh, yeah...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            109,
+            215,
+            314
+        ],
+        "text": "What comes after the bull?\nA hippo? An elephant?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            351,
+            247,
+            581
+        ],
+        "text": "The ultimate attack I've got up my sleeve is the one that'll end that hag!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            635,
+            219,
+            785
+        ],
+        "text": "Don't tell me what to do!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            877,
+            227,
+            1048
+        ],
+        "text": "Put a real big hurt on her! Then I can finish the job.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            1123,
+            206,
+            1289
+        ],
+        "text": "If you really think so, then you go first next time!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            305,
+            84,
+            454,
+            295
+        ],
+        "text": "Shut up!! Like I'd tell you my secrets!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            92,
+            1015,
+            309
+        ],
+        "text": "Gotta watch out for Trafalgar's moves, they're dangerous!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            357,
+            1007,
+            517
+        ],
+        "text": "Feels like I cracked some ribs too!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            872,
+            1005,
+            1024
+        ],
+        "text": "A shock wave from the inside...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            1108,
+            972,
+            1285
+        ],
+        "text": "Look at Big Mom's arm!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1486,
+            813,
+            1527,
+            935
+        ],
+        "text": "Mama!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1409,
+            1027,
+            1576,
+            1285
+        ],
+        "text": "Here, I'll give you life! Come back to me, bones!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1464,
+            487,
+            1495,
+            594
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1816,
+            77,
+            1951,
+            281
+        ],
+        "text": "Mwahahaha!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

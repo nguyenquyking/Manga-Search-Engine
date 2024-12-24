@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            81,
+            201,
+            188,
+            336
+        ],
+        "text": "You got a day off, right? So you gotta do quirk training with me!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            75,
+            332,
+            206
+        ],
+        "text": "Why'd you change your mind all of a sudden, huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            496,
+            554,
+            551,
+            632
+        ],
+        "text": "Like I keep saying...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            258,
+            672,
+            349
+        ],
+        "text": "...It's for your own good.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            457,
+            922,
+            585
+        ],
+        "text": "Your son has inherited an even more powerful form of the fire-based quirk factor...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            986,
+            360,
+            1049,
+            480
+        ],
+        "text": "...But he takes after his mother physically.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            993,
+            624,
+            1065,
+            702
+        ],
+        "text": "An unusual case, to be sure.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            938,
+            76,
+            1061,
+            225
+        ],
+        "text": "Meaning...he's not built to endure fire, but rather, to withstand freezing temperatures.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

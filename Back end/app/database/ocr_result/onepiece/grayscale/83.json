@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            767,
+            127,
+            861,
+            253
+        ],
+        "text": "I'LL TURN YOU INTO A BEEHIVE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            153,
+            607,
+            258,
+            712
+        ],
+        "text": "THERE'S NO ESCAPE FROM HERE OUT...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            156,
+            1318,
+            186,
+            1377
+        ],
+        "text": "HAH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            254,
+            1258,
+            359,
+            1343
+        ],
+        "text": "HERE I THOUGHT IT COULD BE ANOTHER MIRAGE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            1185,
+            629,
+            1298
+        ],
+        "text": "UGH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            143,
+            1973,
+            218,
+            2075
+        ],
+        "text": "FINGER PISTOL!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            898,
+            1992,
+            944,
+            2086
+        ],
+        "text": "AHH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

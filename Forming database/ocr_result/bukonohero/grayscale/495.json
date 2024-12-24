@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            14,
+            342,
+            42,
+            511
+        ],
+        "text": "BOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            472,
+            151,
+            490,
+            224
+        ],
+        "text": "HRM...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            37,
+            1080,
+            140
+        ],
+        "text": "NOT BAD,\nSHOTO!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

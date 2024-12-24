@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            66,
+            54,
+            144,
+            129
+        ],
+        "text": "YOU LIKE OSHIRUKO TOO?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            164,
+            133,
+            223
+        ],
+        "text": "IS THAT RIGHT, OTAMA?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            415,
+            156,
+            518
+        ],
+        "text": "MAAAAMA MAMAMA, HA HA HA!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            584,
+            177,
+            649
+        ],
+        "text": "GOING FROM KURI TO UDON, WANO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            274,
+            21,
+            376,
+            155
+        ],
+        "text": "YUP! IT WAS SO TASTY I THOUGHT MY CHEEKS WOULD EXPLODE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            22,
+            554,
+            120
+        ],
+        "text": "HAAA HA HA HA, DO I? GOSH, I'M SO HUNGRY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            466,
+            268,
+            538,
+            377
+        ],
+        "text": "NO, OLIN, YOU MAKE IT SOUND SO SCARY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            470,
+            410,
+            577,
+            546
+        ],
+        "text": "OH, I KNOW! AND THE WAY THE LITTLE PIECE OF MOCHI SHINES LIKE A FROG'S EYEBALL IS JUST...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            579,
+            590,
+            703
+        ],
+        "text": "I FELT THE SWEETNESS OF THE RED BEAN PASTE SPREADING ACROSS THE INSIDE OF MY CHEEKS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            10,
+            650,
+            111
+        ],
+        "text": "I CAN'T WAIT FOR THAT OSHIRUKO.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            327,
+            683,
+            378
+        ],
+        "text": "YAA!! TOH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            724,
+            19,
+            822,
+            124
+        ],
+        "text": "THEY'RE GETTING VERY EXCITED ABOUT THIS OSHIRUKO...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            930,
+            12,
+            1095,
+            158
+        ],
+        "text": "THAT'S ONLY GOING TO MAKE THINGS MORE DANGEROUS FOR LUFFY!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            915,
+            546,
+            1092,
+            692
+        ],
+        "text": "BUT WHAT IF SHE LEARNS THERE ISN'T ANY...AND RETURNS TO BEING BIG MOM?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

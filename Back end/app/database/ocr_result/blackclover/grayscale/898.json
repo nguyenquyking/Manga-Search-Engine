@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            44,
+            431,
+            147,
+            506
+        ],
+        "text": "C'MON, C'MON! YOU ATTACK TOO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            233,
+            208,
+            345
+        ],
+        "text": "THEN YOU'LL BOTH FEEL GOOD TOGETHER! LUCKY",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            338,
+            85,
+            401,
+            168
+        ],
+        "text": "ENOUGH OF THAT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            886,
+            52,
+            985,
+            196
+        ],
+        "text": "LET'S ENJOY OURSELVES TOO!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            666,
+            919,
+            764
+        ],
+        "text": "OKAY, NOELLE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            210,
+            90,
+            321,
+            167
+        ],
+        "text": "...I'VE BEEN A MAN FALLING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            523,
+            110,
+            586,
+            211
+        ],
+        "text": "...LOWER AND LOWER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            824,
+            218,
+            868,
+            305
+        ],
+        "text": "GETTING DUPED.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            94,
+            771,
+            104,
+            826
+        ],
+        "text": "SHNK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1214,
+            66,
+            1280,
+            236
+        ],
+        "text": "TO YOU, MY LIFE LOOKS PATHETIC. MEANINGLESS.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

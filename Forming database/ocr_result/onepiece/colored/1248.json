@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            92,
+            22,
+            186,
+            129
+        ],
+        "text": "So is this at the top of the falls? Or did I slip back down?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            177,
+            614,
+            254,
+            703
+        ],
+        "text": "...I was right here on this beach.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            250,
+            22,
+            312,
+            114
+        ],
+        "text": "Did I make it to Wano...?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            410,
+            525,
+            488,
+            604
+        ],
+        "text": "Wait, where's the vivre card...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            415,
+            648,
+            468,
+            696
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            399,
+            505,
+            481
+        ],
+        "text": "Oh no, I lost it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            396,
+            626,
+            488
+        ],
+        "text": "It fell into the sea!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            564,
+            518,
+            652,
+            591
+        ],
+        "text": "...That's supposed to be stuck in here?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            482,
+            30,
+            501,
+            133
+        ],
+        "text": "Oh well! Whatever.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            494,
+            820,
+            587
+        ],
+        "text": "Hey, have mercy!! Lemme go already!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            34,
+            830,
+            157
+        ],
+        "text": "You're a servant of the wicked Kozuki clan!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            196,
+            818,
+            290
+        ],
+        "text": "No, I heard you say it, loud and clear!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            323,
+            816,
+            442
+        ],
+        "text": "I said nothin' like that!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            643,
+            793,
+            700
+        ],
+        "text": "Further Inland",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            997,
+            13,
+            1102,
+            157
+        ],
+        "text": "That's a serious crime! You'll either be sold to the red-light district... or thrown in jail!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1044,
+            321,
+            1123,
+            440
+        ],
+        "text": "And gimme back my rice!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1102,
+            19,
+            1137,
+            152
+        ],
+        "text": "You're not gettin' off easy!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

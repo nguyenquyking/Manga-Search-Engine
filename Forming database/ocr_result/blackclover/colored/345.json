@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            872,
+            1140,
+            1148,
+            1343
+        ],
+        "text": "WE'LL DO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            27,
+            1570,
+            236
+        ],
+        "text": "EVERYTHING WE CAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1124,
+            291,
+            1193,
+            1106
+        ],
+        "text": "Colorist: @iluvluvnutella  Team: @ColorClovers",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

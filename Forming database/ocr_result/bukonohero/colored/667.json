@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            191,
+            427,
+            210,
+            521
+        ],
+        "text": "BWOOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            738,
+            11,
+            960,
+            145
+        ],
+        "text": "FWAH\nAND THE BRIGHT FLAMES ARE HOLDING BACK DARK SHADOW!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            838,
+            301,
+            878,
+            408
+        ],
+        "text": "SORRY, FUMIKAGE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            486,
+            918,
+            593
+        ],
+        "text": "TOO CRAMPED!\nCAN'T DODGE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            799,
+            995,
+            904
+        ],
+        "text": "SZZL\nURGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1047,
+            198,
+            1054,
+            404
+        ],
+        "text": "TWITCH\nTWITCH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1074,
+            4,
+            1107,
+            274
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1151,
+            369,
+            1283,
+            481
+        ],
+        "text": "I HAVE TO\nESCAPE\nAND GET\nHAWKS\nSOME\nFIRST AID!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1180,
+            264,
+            1194,
+            312
+        ],
+        "text": "HE'LL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1230,
+            527,
+            1240,
+            561
+        ],
+        "text": "SHP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1147,
+            799,
+            1214,
+            893
+        ],
+        "text": "THERE'S\nNO TIME\nTO LOSE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1320,
+            235,
+            1353,
+            305
+        ],
+        "text": "...KEEP\nTALKING...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

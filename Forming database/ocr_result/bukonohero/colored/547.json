@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            598,
+            400,
+            619,
+            452
+        ],
+        "text": "See?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            185,
+            805,
+            242
+        ],
+        "text": "BWAM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            908,
+            10,
+            995,
+            116
+        ],
+        "text": "THE LEAGUE'S ON HIS BACK!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            912,
+            665,
+            955,
+            747
+        ],
+        "text": "NOT SO FAST!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

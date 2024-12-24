@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            64,
+            72,
+            134,
+            148
+        ],
+        "text": "Yes, sir, of course.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            213,
+            144,
+            301
+        ],
+        "text": "Approaching this room!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            334,
+            134,
+            411
+        ],
+        "text": "I won't have anyone...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            543,
+            145,
+            615
+        ],
+        "text": "No geisha needed.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            651,
+            114,
+            718
+        ],
+        "text": "Ah ah ah ah!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            464,
+            69,
+            549,
+            158
+        ],
+        "text": "Is there going to be a war, or what?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            474,
+            188,
+            532,
+            256
+        ],
+        "text": "This is quite a number!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            266,
+            501,
+            347
+        ],
+        "text": "Huh? I am?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            453,
+            381,
+            516,
+            517
+        ],
+        "text": "Ooh, you're a wicked fellow! Ah ah ah!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            585,
+            564,
+            735
+        ],
+        "text": "This is the order sheet for the next round of armor and weapons.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            53,
+            720,
+            161
+        ],
+        "text": "I don't know what goes on across the sea.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            54,
+            885,
+            169
+        ],
+        "text": "You'll be fine! Just watch closely and carefully.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            188,
+            883,
+            304
+        ],
+        "text": "Look closely, Onami. My eyes are too old for this.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            323,
+            856,
+            404
+        ],
+        "text": "Huh? I am?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            438,
+            888,
+            532
+        ],
+        "text": "Ooh, you're a wicked fellow. Ah ah...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            562,
+            872,
+            650
+        ],
+        "text": "...is build what is requested.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            679,
+            874,
+            743
+        ],
+        "text": "All we have to do...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            76,
+            1129,
+            186
+        ],
+        "text": "Hmm, I can't see around his head...",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

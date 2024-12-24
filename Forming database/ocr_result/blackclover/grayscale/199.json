@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            188,
+            492,
+            260,
+            620
+        ],
+        "text": "MARIE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            84,
+            470,
+            148
+        ],
+        "text": "ASTA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            55,
+            801,
+            142
+        ],
+        "text": "HER OLDER BROTHER IS AN EX-CONVICT!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            766,
+            176,
+            921,
+            329
+        ],
+        "text": "A RUINED NOBLE WHO WAS ONCE A DAUGHTER OF THE HOUSE OF ADLAI, BUT WHO NOW LIVES AT A CHURCH WITH ORPHANS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            758,
+            821,
+            857,
+            909
+        ],
+        "text": "THIS GIRL IS MARIE ADLAI.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            45,
+            1262,
+            199
+        ],
+        "text": "MARIE DIDN'T DO ANY OF THAT ON PURPOSE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1116,
+            377,
+            1220,
+            474
+        ],
+        "text": "QUIT MAKING STUFF UP!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1289,
+            535,
+            1464,
+            647
+        ],
+        "text": "NO DOUBT SHE WAS MOTIVATED BY A GRUDGE AGAINST THE NOBLE REALM...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1104,
+            783,
+            1318,
+            960
+        ],
+        "text": "WE HAVE DETERMINED THAT, DURING THE RECENT GREAT WAR, HER EYE MAGIC CAUSED INDIRECT HARM TO MAGIC KNIGHTS AND THE CITIZENRY!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

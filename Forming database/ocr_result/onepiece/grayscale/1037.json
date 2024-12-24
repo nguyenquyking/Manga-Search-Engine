@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            38,
+            280,
+            125,
+            352
+        ],
+        "text": "You're basically a corpse to begin with!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            389,
+            125,
+            532
+        ],
+        "text": "Yeah, that's good!! It's cuz you don't have any skin or blood or warmth...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            573,
+            151,
+            648
+        ],
+        "text": "But look at me!! I'm just fine!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            672,
+            152,
+            748
+        ],
+        "text": "Aaah!! I thought I was going to turn into an oni...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            89,
+            65,
+            137,
+            224
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            54,
+            147,
+            82,
+            239
+        ],
+        "text": "BOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            449,
+            55,
+            502,
+            188
+        ],
+        "text": "Chopper!! Your arm!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            230,
+            502,
+            349
+        ],
+        "text": "Could it be that this virus is...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            392,
+            566,
+            468
+        ],
+        "text": "But is that possible from the inside?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            498,
+            528,
+            595
+        ],
+        "text": "The virus spreads because the body gets chilled...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            631,
+            520,
+            743
+        ],
+        "text": "That's... rather shocking!! But it means I'm invincible!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            54,
+            691,
+            117
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            63,
+            921,
+            226
+        ],
+        "text": "Nooo!! Chopper's going to die!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            614,
+            842,
+            743
+        ],
+        "text": "AAAAAH?!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            822,
+            277,
+            836,
+            300
+        ],
+        "text": "AAAA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            960,
+            624,
+            1040,
+            738
+        ],
+        "text": "Oh crap!! I didn't realize!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

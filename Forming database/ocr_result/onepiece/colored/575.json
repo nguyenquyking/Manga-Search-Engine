@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            63,
+            78,
+            153,
+            235
+        ],
+        "text": "THAT'S REALLY IMPORTANT!! I'LL HAVE TO PASS THIS ON TO KIN'EMON!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            219,
+            306,
+            307,
+            395
+        ],
+        "text": "IT WAS IN YASUIE'S FINAL MESSAGE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            593,
+            170,
+            711
+        ],
+        "text": "THAT WOULD SUGGEST THE MEANING OF THE CODE HAS CHANGED.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            223,
+            606,
+            310,
+            723
+        ],
+        "text": "BUT THE WANO PEOPLE UNDERSTOOD IT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            408,
+            69,
+            510,
+            161
+        ],
+        "text": "IF YOU REFUSE, TRAFALGAR LAW WILL CHOOSE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            196,
+            500,
+            326
+        ],
+        "text": "GET OUT! YOUR LIVES ARE BARGAINING CHIPS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            619,
+            74,
+            745,
+            161
+        ],
+        "text": "...TO COME FOR MY LIFE... AND THAT INCLUDES YOURS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            532,
+            456,
+            624
+        ],
+        "text": "NO WORRIES!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            657,
+            462,
+            739
+        ],
+        "text": "THANKS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            654,
+            653,
+            750,
+            743
+        ],
+        "text": "IF ANYTHING HAPPENS, WE MEET AT AMIGASA VILLAGE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            62,
+            934,
+            210
+        ],
+        "text": "...ARE JUST AS DANGEROUS AS THEY SEEM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            841,
+            287,
+            927,
+            321
+        ],
+        "text": "...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1023,
+            61,
+            1128,
+            196
+        ],
+        "text": "SORRY, CAPTAIN!! WE SCREWED UP...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            597,
+            954,
+            732
+        ],
+        "text": "THE THREATS OF A MAN WHO INCLUDES NO HOPE IN HIS FUTURE PLANS...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

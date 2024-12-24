@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            200,
+            40,
+            328,
+            117
+        ],
+        "text": "...to those 500 years of ours!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            193,
+            564,
+            324,
+            641
+        ],
+        "text": "Here and now, we'll put an end...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            137,
+            885,
+            225,
+            964
+        ],
+        "text": "What we can do now...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            361,
+            688,
+            576,
+            811
+        ],
+        "text": "...is fight this looming tragedy without letting our mistakes break our spirits!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            164,
+            768,
+            249
+        ],
+        "text": "Yes, I believe we will.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            724,
+            772,
+            813
+        ],
+        "text": "Neh heh heh heh heh heh",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1096,
+            26,
+            1211,
+            124
+        ],
+        "text": "...and that will be the end of it!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1001,
+            823,
+            1145,
+            975
+        ],
+        "text": "I'll swallow up all your trivial little feelings...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

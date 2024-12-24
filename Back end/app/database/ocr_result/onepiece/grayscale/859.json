@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            67,
+            1320,
+            200,
+            1494
+        ],
+        "text": "DRAGON TWISTER\nDEMOLITION\nBREATH!!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            308,
+            51,
+            392,
+            153
+        ],
+        "text": "...THE\nRUBBLE\nJUST KEEPS\nRAINING\nDOWN!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            304,
+            432,
+            368,
+            543
+        ],
+        "text": "THE BATTLE\nUP ABOVE IS\nSO FIERCE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            720,
+            59,
+            804,
+            136
+        ],
+        "text": "...TURNS\nINTO A\nBATTLE-\nFIELD.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            708,
+            175,
+            817,
+            261
+        ],
+        "text": "THEN\nTHE PARTY\nWE WERE\nINVITED\nTO...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            719,
+            308,
+            804,
+            394
+        ],
+        "text": "FIRST OUR\nBUSINESS\nPARTNER\nDIES...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            722,
+            426,
+            766,
+            490
+        ],
+        "text": "GOOD\nGRIEF...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            853,
+            95,
+            907,
+            269
+        ],
+        "text": "194!\nRAHH\nPCHIK!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            711,
+            711,
+            713,
+            863
+        ],
+        "text": "SHING!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            703,
+            1165,
+            714,
+            1311
+        ],
+        "text": "SHING!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            870,
+            673,
+            880,
+            736
+        ],
+        "text": "SLICE!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            933,
+            1013,
+            954,
+            1084
+        ],
+        "text": "WHOA!",
+        "panel_id": "4",
+        "type": "exclamation"
+    }
+]

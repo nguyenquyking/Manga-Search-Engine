@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            689,
+            176,
+            768,
+            267
+        ],
+        "text": "Tell me, Straw Hat. Did you know...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            685,
+            622,
+            767,
+            718
+        ],
+        "text": "Very well, then. I will take your punch...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            911,
+            120,
+            978,
+            225
+        ],
+        "text": "...the hero of this country...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1025,
+            52,
+            1072,
+            161
+        ],
+        "text": "...was burned to",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1038,
+            636,
+            1103,
+            720
+        ],
+        "text": "...that 20 years ago...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

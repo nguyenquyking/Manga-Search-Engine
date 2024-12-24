@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            35,
+            85,
+            184,
+            238
+        ],
+        "text": "OUR SURPRISE ATTACK WAS PERFECTLY PLANNED, SO WHAT ARE THESE GUYS DOING HERE?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            29,
+            667,
+            222,
+            835
+        ],
+        "text": "HE WAS ALWAYS STRUGGLING WITH HIS QUIRK, SO I WAS WORRIED ABOUT HIM. LOOKS LIKE HE'S GOT SOME SKILL! I LIKE HIS FLAIR!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            454,
+            90,
+            663,
+            240
+        ],
+        "text": "FROM THE LOOKS OF IT, YOU EVEN ANTICIPATED THE SIMULTANEOUS DEPLOYMENT OF THIS DETACHED FORCE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            530,
+            646,
+            671
+        ],
+        "text": "WHEN IN REALITY YOU HAD HUNDREDS OF HEROES ON THE WING SPREAD THROUGHOUT THE WHOLE AREA...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            691,
+            611,
+            823
+        ],
+        "text": "YOU RATS MADE IT LOOK LIKE YOU WERE ON YOUR LAST LEGS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            743,
+            80,
+            874,
+            194
+        ],
+        "text": "YOUR SACRIFICE WILL BE IN VAIN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            666,
+            812,
+            775
+        ],
+        "text": "HOWEVER,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1062,
+            121,
+            1168,
+            243
+        ],
+        "text": "JUST LIKE THAT UA TEACHER.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            659,
+            1263,
+            842
+        ],
+        "text": "THE TIME OF LIBERATION IS UPON US, THOSE THAT SPEAK LIES WILL BE RUN DOWN INTO THE GROUND.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

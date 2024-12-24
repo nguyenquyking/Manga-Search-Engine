@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            45,
+            723,
+            94,
+            851
+        ],
+        "text": "JAKU CITY SUBURBS",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            209,
+            273,
+            406
+        ],
+        "text": "THE RESCUE SQUADS AND POLICE WILL ESCORT THE CITIZENS OF JAKU! HEROES WILL PROCEED TO INTERCEPT THE GIANT VILLAIN!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            188,
+            46,
+            321,
+            188
+        ],
+        "text": "ALL EVACUATION, RELIEF AND BATTLE TEAMS\u2014GET MOVING!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            599,
+            60,
+            732,
+            270
+        ],
+        "text": "COMMS ARE STILL DOWN, SO WE CAN'T GET IN TOUCH WITH THEM! PASS THE MESSAGE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            667,
+            716,
+            811
+        ],
+        "text": "THE HEROES FIGHTING SHIGARAKI DON'T KNOW THE WHOLE SITUATION!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            726,
+            417,
+            782,
+            611
+        ],
+        "text": "TOMP\nTOMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1260,
+            133,
+            1372,
+            278
+        ],
+        "text": "ANY LIVES THAT CAN BE SAVED... MUST BE SAVED!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1126,
+            628,
+            1223,
+            735
+        ],
+        "text": "LET'S MOVE!\nON THE DOUBLE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

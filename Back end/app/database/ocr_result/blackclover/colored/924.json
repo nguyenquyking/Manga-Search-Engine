@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            32,
+            483,
+            40,
+            506
+        ],
+        "text": "RMBL",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            372,
+            273,
+            391,
+            317
+        ],
+        "text": "AAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            510,
+            41,
+            527,
+            271
+        ],
+        "text": "@SHIURYY @COLORCLOVERS",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            628,
+            710,
+            635,
+            779
+        ],
+        "text": "00000",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            794,
+            52,
+            1021,
+            185
+        ],
+        "text": "I NEED JUST ENOUGH SAINT STAGE POWER TO PIERCE ITS EXPOSED WEAK POINT",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            794,
+            286,
+            889,
+            380
+        ],
+        "text": "I DON'T CARE IF IT'S WEAK!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            644,
+            865,
+            768
+        ],
+        "text": "JUST ONE MORE ATTACK!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

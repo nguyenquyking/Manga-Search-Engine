@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            146,
+            627,
+            216,
+            715
+        ],
+        "text": "URGH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            767,
+            71,
+            839,
+            187
+        ],
+        "text": "WHAT KINDA MOBILITY IS THAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            66,
+            1106,
+            159
+        ],
+        "text": "I WASN'T EXPECTING AN AIR BATTLE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

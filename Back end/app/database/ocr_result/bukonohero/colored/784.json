@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            45,
+            8,
+            153,
+            126
+        ],
+        "text": "The old fart can't get away. He's cornered.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            203,
+            166,
+            248,
+            222
+        ],
+        "text": "HNNGH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            44,
+            393,
+            131,
+            509
+        ],
+        "text": "So, he's deeper inside the lair...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1392,
+            647,
+            1409,
+            711
+        ],
+        "text": "WGGL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            417,
+            289,
+            549,
+            485
+        ],
+        "text": "Yer just clack-clack-clacking away back there, huh?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1200,
+            377,
+            1210,
+            459
+        ],
+        "text": "HNNNGH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            245,
+            362,
+            311,
+            479
+        ],
+        "text": "VANICA!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            841,
+            948,
+            906,
+            1067
+        ],
+        "text": "YOU LOSE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            470,
+            203,
+            482,
+            225
+        ],
+        "text": "BRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            581,
+            1012,
+            583,
+            1078
+        ],
+        "text": "00000",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            872,
+            1442,
+            879,
+            1506
+        ],
+        "text": "00000",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

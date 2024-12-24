@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            77,
+            666,
+            210,
+            789
+        ],
+        "text": "I DON'T CARE IF YOU DON'T UNDERSTAND...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            301,
+            140,
+            394,
+            212
+        ],
+        "text": "THAT'S WHAT MAKES US...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1204,
+            111,
+            1287,
+            260
+        ],
+        "text": "...HEROES AND VILLAINS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

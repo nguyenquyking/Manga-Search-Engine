@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            132,
+            131,
+            210,
+            213
+        ],
+        "text": "...What a closed nation is?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            126,
+            477,
+            188,
+            578
+        ],
+        "text": "Now! Can anyone tell me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            134,
+            623,
+            180,
+            711
+        ],
+        "text": "Flower Capital",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            438,
+            55,
+            546,
+            173
+        ],
+        "text": "Me!!\nMe!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            434,
+            218,
+            499,
+            325
+        ],
+        "text": "And what is an open nation?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            356,
+            482,
+            420
+        ],
+        "text": "That's right.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            467,
+            518,
+            610
+        ],
+        "text": "It means closing the entrances to the country to protect the nation's peace!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            634,
+            484,
+            720
+        ],
+        "text": "Yes, Teacher!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            62,
+            884,
+            271
+        ],
+        "text": "Oden and the Nine Red Scabbards!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            313,
+            864,
+            434
+        ],
+        "text": "...There were fools who attempted to do just such a thing.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            454,
+            827,
+            517
+        ],
+        "text": "But in the past...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            558,
+            859,
+            732
+        ],
+        "text": "It's a very bad thing where you let in people and ideas that are harmful to the nation!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            563,
+            1138,
+            711
+        ],
+        "text": "Countries from across the sea desire to take many things from Wano!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            864,
+            624,
+            911,
+            916
+        ],
+        "text": "ACIDMAN!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            997,
+            65,
+            1117,
+            353
+        ],
+        "text": "I CAN PUSH FORWARD! AND SINCE I CAN, THAT MEANS I GOTTA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            616,
+            1114,
+            845
+        ],
+        "text": "NO FIRE'S TOUCHING ME THROUGH THIS STICKY ARMOR!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            100,
+            111,
+            167,
+            174
+        ],
+        "text": "SAY WHAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            425,
+            96,
+            530,
+            247
+        ],
+        "text": "WHATEVER! HELP'S COMING YOUR WAY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            505,
+            593,
+            568,
+            689
+        ],
+        "text": "WHAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            495,
+            757,
+            526,
+            874
+        ],
+        "text": "ONE FOR...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

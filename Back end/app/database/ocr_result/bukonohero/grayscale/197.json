@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            45,
+            272,
+            98,
+            352
+        ],
+        "text": "So Lady Nagant's fate...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            589,
+            158,
+            731
+        ],
+        "text": "After a full exam, we found no irregularities.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            130,
+            484,
+            218,
+            549
+        ],
+        "text": "Brain waves were normal too.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            148,
+            234,
+            278
+        ],
+        "text": "...was courtesy of something All For One obtained after his grand defeat by All Might.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            302,
+            90,
+            478,
+            281
+        ],
+        "text": "...Then why murder that other peon as a lesson? Why threaten the family with death for lying to him? Why leave anything to the imagination?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            309,
+            540,
+            467,
+            712
+        ],
+        "text": "In retrospect, if he'd really planted an explosive ability in the boy that would trigger in the event of betrayal...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            251,
+            607,
+            332
+        ],
+        "text": "Inside the boy...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            533,
+            427,
+            602,
+            542
+        ],
+        "text": "...was a seed of fear...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            735,
+            586,
+            833,
+            709
+        ],
+        "text": "The only thing All For One planted...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            921,
+            230,
+            969,
+            348
+        ],
+        "text": "...and his parents.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            945,
+            26,
+            985,
+            111
+        ],
+        "text": "Are you scared?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1065,
+            39,
+            1126,
+            92
+        ],
+        "text": "\u4e16\nJOLT",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

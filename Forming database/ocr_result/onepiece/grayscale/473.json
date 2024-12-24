@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            37,
+            619,
+            145,
+            729
+        ],
+        "text": "TWO DRAGONS,\nFACE-TO-\nFACE!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            449,
+            75,
+            550,
+            177
+        ],
+        "text": "MASTER\nKAIDO'S\nAZURE\nDRAGON!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            666,
+            69,
+            736,
+            157
+        ],
+        "text": "...I COULD\nACTUALLY\nHELP\nEVERYONE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            649,
+            185,
+            737,
+            285
+        ],
+        "text": "IF ONLY I\nCOULD BE A\nGREAT BIG\nMONSTER LIKE\nTHAT...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            635,
+            508,
+            744,
+            595
+        ],
+        "text": "AND A\nPIRATE\nRIDING\nA PINK\nDRAGON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            810,
+            360,
+            886,
+            445
+        ],
+        "text": "STRAW\nHAT\nLUFFY!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1000,
+            67,
+            1084,
+            210
+        ],
+        "text": "BUT IT IS\nCLEARLY AN\nENEMY!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            974,
+            398,
+            1030,
+            525
+        ],
+        "text": "SO YAMATO WAS\nKEEPING KAIDO\nBUSY UP THERE?",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            980,
+            619,
+            1075,
+            735
+        ],
+        "text": "THE\nDRAGON'S\nIDENTITY IS\nUNKNOWN!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1094,
+            450,
+            1096,
+            516
+        ],
+        "text": "RAAAAH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

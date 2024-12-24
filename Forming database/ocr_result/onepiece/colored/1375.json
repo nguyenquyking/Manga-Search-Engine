@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            78,
+            26,
+            175,
+            147
+        ],
+        "text": "...calls forth the strength within you!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            305,
+            162,
+            423
+        ],
+        "text": "I bet you do!! That's the power of Betty's Pump-Pump Fruit!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            480,
+            160,
+            578
+        ],
+        "text": "Drive out those stinking pirates!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            610,
+            182,
+            718
+        ],
+        "text": "How strange... I suddenly feel pumped up and full of strength!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            228,
+            38,
+            312,
+            133
+        ],
+        "text": "Betty's the flag bearer of freedom!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            222,
+            336,
+            307,
+            419
+        ],
+        "text": "A single wave of her banner...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            397,
+            53,
+            454,
+            155
+        ],
+        "text": "...That gettin' shot hurts!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            179,
+            468,
+            270
+        ],
+        "text": "They never found out the hard way...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            668,
+            36,
+            768,
+            141
+        ],
+        "text": "My gun just froze solid!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            401,
+            778,
+            460
+        ],
+        "text": "Yow, that's cold!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            103,
+            927,
+            177
+        ],
+        "text": "Yeoww!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            860,
+            214,
+            918,
+            297
+        ],
+        "text": "Gyaaa!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            860,
+            330,
+            949,
+            464
+        ],
+        "text": "Get out of our town, you miscreant pirates!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            668,
+            518,
+            718,
+            698
+        ],
+        "text": "Eat this!! Cool shooter!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

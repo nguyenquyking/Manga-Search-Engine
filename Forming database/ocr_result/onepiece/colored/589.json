@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            45,
+            12,
+            216,
+            152
+        ],
+        "text": "...must be my father... the great shadow cast by the Kozuki Clan that supported Wano for all those years!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            45,
+            275,
+            132,
+            389
+        ],
+        "text": "It's not me!! What I see reflected in their eyes...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            109,
+            635,
+            170,
+            712
+        ],
+        "text": "Lord Momonosuke...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            198,
+            960,
+            212,
+            994
+        ],
+        "text": "ZMF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            259,
+            633,
+            337,
+            706
+        ],
+        "text": "I see what we were missing.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            303,
+            1136,
+            325,
+            1199
+        ],
+        "text": "Aah...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            318,
+            0,
+            398,
+            217
+        ],
+        "text": "It's never felt so heavy upon me until now!! Don't be afraid, Momonosuke!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            186,
+            614,
+            285
+        ],
+        "text": "I will tell you what happened that terrible day...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            310,
+            602,
+            381
+        ],
+        "text": "Everyone, please hear me out.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            541,
+            66,
+            631,
+            153
+        ],
+        "text": "...and what we have been doing up to this point...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            47,
+            698,
+            92
+        ],
+        "text": "Yes, sir!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            531,
+            494,
+            627,
+            612
+        ],
+        "text": "Something that lies beyond the battle!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            889,
+            38,
+            968,
+            156
+        ],
+        "text": "But I will rejoin the group before the battle!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            209,
+            986,
+            370
+        ],
+        "text": "It is a relief to see Lord Momonosuke looking so bold. But for now, there is a place I urgently wish to go.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            34,
+            1051,
+            183
+        ],
+        "text": "Very well,",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            465,
+            907,
+            589,
+            1076
+        ],
+        "text": "It is good to see you alive and well!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            506,
+            1337,
+            564,
+            1447
+        ],
+        "text": "...was a dream.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            614,
+            1260,
+            627,
+            1292
+        ],
+        "text": "Swish!!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

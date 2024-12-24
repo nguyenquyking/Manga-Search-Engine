@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            22,
+            74,
+            129,
+            213
+        ],
+        "text": "BUT THEN\nYOU REACHED OUT\nWITH THE CLIMATE\nBATON...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            267,
+            104,
+            376
+        ],
+        "text": "I WAS BARELY\nCONSCIOUS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            170,
+            274,
+            303,
+            364
+        ],
+        "text": "...AS THAT\nHERA GIRL\nWAS JUST\nABOUT TO\nABSORB ME.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            32,
+            594,
+            131,
+            738
+        ],
+        "text": "THE MOMENT THAT\nHAPPENED, MY SOUL\nHAD SLIPPED OUT OF\nMY ORIGINAL BODY.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            262,
+            80,
+            322,
+            205
+        ],
+        "text": "ONE LAST\nGIFT OF BLACK\nBALLS!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            413,
+            63,
+            477,
+            159
+        ],
+        "text": "I'VE BEEN\nREBORN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            400,
+            346,
+            476,
+            440
+        ],
+        "text": "SO ANYWAY,\nLOOK AT ME\nNOW!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            414,
+            497,
+            491,
+            604
+        ],
+        "text": "...IT SEEMS TO\nHAVE PUSHED\nME INTO THIS",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            640,
+            491,
+            743
+        ],
+        "text": "AND THE\nINSTANT HERA\nBIT DOWN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            587,
+            59,
+            701,
+            183
+        ],
+        "text": "WHAT?! EW!!\nI DON'T WANT\nAN ANNOYING\nTALKING\nWEAPON!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            58,
+            878,
+            165
+        ],
+        "text": "TAMA!! YOU\nCAN GIVE THE\nORDER FROM\nUP HERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            283,
+            875,
+            402
+        ],
+        "text": "AH!\nHEY, WE'VE\nREACHED THE\nSTAGE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            58,
+            1041,
+            123
+        ],
+        "text": "OKAY\n!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            561,
+            767,
+            640
+        ],
+        "text": "GONNNG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1007,
+            446,
+            1103,
+            578
+        ],
+        "text": "THE PROBLEM\nIS... I CAN'T GET\nBACK OUT WITHOUT\nMAMA'S POWER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            616,
+            1100,
+            736
+        ],
+        "text": "OH! I FORGOT,\nYOU HAVEN'T\nFORGIVEN ME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            61,
+            240,
+            139,
+            355
+        ],
+        "text": "I'LL ACCEPT YOU INTO THE FOLD IF YOU SUBMIT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            393,
+            166,
+            517
+        ],
+        "text": "AND WE'RE STILL HERE WHILE YOU PISSED YOURSELF...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            699,
+            161,
+            840
+        ],
+        "text": "WE FOUGHT THROUGH THE IMPOSSIBLE ODDS YOU FORESAW,",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            389,
+            302,
+            469
+        ],
+        "text": "AND QUIT, FAFA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            63,
+            431,
+            202
+        ],
+        "text": "WE'LL SEE WHO MADE THE RIGHT DECISION WHEN THIS IS OVER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            533,
+            70,
+            640,
+            193
+        ],
+        "text": "IT'S ALL OR NOTHING NOW... HUFF, HUFF...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            72,
+            789,
+            189
+        ],
+        "text": "I'VE JUST THOUGHT OF A COUPLE OF QUESTIONS FOR YOU.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            542,
+            712,
+            614,
+            846
+        ],
+        "text": "WELL... I DON'T WANNA HAVE REGRETS EITHER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            752,
+            744,
+            834
+        ],
+        "text": "SO I'M GONNA GIVE THIS ANOTHER SHOT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            874,
+            127,
+            1006,
+            310
+        ],
+        "text": "WHAT ARE YOU TALKING ABOUT?! YOU SHOULD UNDERSTAND MY POWERS BY NOW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1093,
+            97,
+            1244,
+            279
+        ],
+        "text": "AS LONG AS I HAVE HIS STRAW DOLL IN ME, ANY DAMAGE I TAKE GOES TO KID!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            518,
+            1002,
+            619
+        ],
+        "text": "THAT HAS NOWHERE ELSE TO GO?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            699,
+            999,
+            828
+        ],
+        "text": "WHAT HAPPENS IF YOU TAKE DAMAGE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1059,
+            491,
+            1111,
+            552
+        ],
+        "text": "HUFF... HUFF...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

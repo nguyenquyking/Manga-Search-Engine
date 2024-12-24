@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            555,
+            848,
+            841,
+            888
+        ],
+        "text": "ASTAAAA!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            956,
+            14,
+            1259,
+            508
+        ],
+        "text": "SKASHSKASH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1376,
+            75,
+            1457,
+            128
+        ],
+        "text": "!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1384,
+            869,
+            1446,
+            949
+        ],
+        "text": "ASTA!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

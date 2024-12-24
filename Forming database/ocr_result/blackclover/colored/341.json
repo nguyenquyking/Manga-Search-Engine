@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            110,
+            85,
+            261,
+            222
+        ],
+        "text": "If you'd like, I can come along, too!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            124,
+            654,
+            319,
+            829
+        ],
+        "text": "Of course, that's perfectly fine with me! You guys might get some big information while you're over there, too!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            194,
+            406,
+            250
+        ],
+        "text": "Absolutely not!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            29,
+            728,
+            114
+        ],
+        "text": "She's so blunt!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            561,
+            309,
+            711,
+            429
+        ],
+        "text": "But with how things are now, all of you will get killed so easily...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            536,
+            730,
+            605,
+            837
+        ],
+        "text": "Negotiations complete!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            687,
+            743,
+            750,
+            803
+        ],
+        "text": "Thank goodness!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1110,
+            9,
+            1154,
+            133
+        ],
+        "text": "Stronger than him...?",
+        "panel_id": "5",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1086,
+            413,
+            1227,
+            531
+        ],
+        "text": "I believe it is stronger than the demon you fought before.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1073,
+            551,
+            1092,
+            604
+        ],
+        "text": "Yes...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1077,
+            724,
+            1171,
+            831
+        ],
+        "text": "...So it's really that strong? This Spade demon...!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            881,
+            300,
+            1011,
+            409
+        ],
+        "text": "\"Little Garden\", where giants live",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            876,
+            561,
+            1006,
+            631
+        ],
+        "text": "Oh, I've read that a long time ago",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1436,
+            72,
+            1473,
+            121
+        ],
+        "text": "He...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1433,
+            306,
+            1504,
+            391
+        ],
+        "text": "Hehe, sounds fun.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1380,
+            395,
+            1478,
+            484
+        ],
+        "text": "Depending on our course, we might stumble upon it.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1105,
+            686,
+            1195,
+            784
+        ],
+        "text": "There's no such thing as giants",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1140,
+            871,
+            1240,
+            998
+        ],
+        "text": "Do you really still believe in that book of lies?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1299,
+            702,
+            1376,
+            798
+        ],
+        "text": "Wake up, you idiot!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

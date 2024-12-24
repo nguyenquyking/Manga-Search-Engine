@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            225,
+            56,
+            245,
+            111
+        ],
+        "text": "Kid...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            77,
+            440,
+            211
+        ],
+        "text": "That one didn't have any intel. Be careful\u2014he might explode too.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            929,
+            519,
+            990,
+            625
+        ],
+        "text": "He won!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            311,
+            1014,
+            397
+        ],
+        "text": "Wait just a minute!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

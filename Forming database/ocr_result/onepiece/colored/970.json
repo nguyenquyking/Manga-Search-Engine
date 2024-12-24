@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            68,
+            47,
+            135,
+            138
+        ],
+        "text": "WHO DO YOU THINK I AM?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            171,
+            142,
+            267
+        ],
+        "text": "THAT IS A RUDE FORM OF ADDRESS, TAMA!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            439,
+            142,
+            562
+        ],
+        "text": "SO YOU GOT A LITTLE SISTER, MOMO?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            604,
+            156,
+            689
+        ],
+        "text": "AMIGASA VILLAGE, KURI!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            182,
+            105,
+            204,
+            168
+        ],
+        "text": "MOMO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            242,
+            14,
+            336,
+            134
+        ],
+        "text": "YES, I HAVE A SISTER! IF ALIVE, SHE WOULD BE 26 YEARS OLD NOW.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            264,
+            150,
+            304,
+            209
+        ],
+        "text": "FORGET IT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            415,
+            38,
+            475,
+            150
+        ],
+        "text": "HMM. WELL, I HOPE YOU GET TO MEET HER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            196,
+            490,
+            292
+        ],
+        "text": "...THAT SHE IS STILL ALIVE SOMEWHERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            317,
+            486,
+            433
+        ],
+        "text": "SO I HAPPEN TO HAVE FAITH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            480,
+            499,
+            589
+        ],
+        "text": "...NO ONE HAS YET BEEN ABLE TO TELL ME THAT HIYORI IS DEAD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            612,
+            487,
+            709
+        ],
+        "text": "WHILE SOME DID WITNESS MY MOTHER'S DEATH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            534,
+            26,
+            579,
+            84
+        ],
+        "text": "I WILL NOT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            41,
+            896,
+            192
+        ],
+        "text": "I CANNOT GO TO FIND HER UNTIL THE BATTLE IS WON!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            571,
+            852,
+            705
+        ],
+        "text": "IF HIYORI'S IDENTITY IS KNOWN...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            570,
+            1047,
+            701
+        ],
+        "text": "...OROCHI WILL SET HIS SIGHTS ON HER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

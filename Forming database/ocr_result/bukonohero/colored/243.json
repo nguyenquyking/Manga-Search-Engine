@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            118,
+            190,
+            191,
+            287
+        ],
+        "text": "YOU GET IT NOW, KIDDO?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            814,
+            190,
+            949
+        ],
+        "text": "...SO MUCH PAIN AND SUFFERING COULD HAVE BEEN AVOIDED.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            605,
+            811,
+            902
+        ],
+        "text": "YOU MIGHT BE THE LAST WIELDER OF ONE FOR ALL.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

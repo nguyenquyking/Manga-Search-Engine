@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            97,
+            9,
+            196,
+            192
+        ],
+        "text": "I'LL END THIS IN 30 SECONDS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            77,
+            657,
+            109,
+            722
+        ],
+        "text": "NO!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            327,
+            768,
+            398
+        ],
+        "text": "WHIRRR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            835,
+            658,
+            836,
+            737
+        ],
+        "text": "WHROOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

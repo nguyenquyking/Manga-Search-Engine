@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            136,
+            85,
+            208,
+            191
+        ],
+        "text": "And shouldn't Aizawa Sensei be the man to teach whip techniques?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            161,
+            543,
+            217,
+            627
+        ],
+        "text": "I'm still learning how to use my wires.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            651,
+            138,
+            721
+        ],
+        "text": "Then tell me what I can do!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            115,
+            377,
+            186
+        ],
+        "text": "Like, hippity, hoppity.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            283,
+            403,
+            382
+        ],
+        "text": "But Deku's already good at bouncing around.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            322,
+            594,
+            464,
+            742
+        ],
+        "text": "Professor Uraraka, you're here to teach him about body control while braking in midair!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            286,
+            638,
+            366
+        ],
+        "text": "As for Aizawa...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            570,
+            454,
+            678,
+            555
+        ],
+        "text": "And he needs to master advanced mobility in midair.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            582,
+            627,
+            653,
+            751
+        ],
+        "text": "Well, more power means increased hangtime.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            594,
+            754,
+            648
+        ],
+        "text": "Ohhh!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            764,
+            80,
+            834,
+            185
+        ],
+        "text": "Your teacher is busy at the moment.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            567,
+            1110,
+            669
+        ],
+        "text": "I think we can find some common ground in terms of how we use our bodies.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            672,
+            1071,
+            763
+        ],
+        "text": "I've already got everyone's moves written down. Sensei's too.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

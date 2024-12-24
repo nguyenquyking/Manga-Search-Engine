@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            787,
+            68,
+            854,
+            810
+        ],
+        "text": "Team: @ColorClovers  Artist: @xCatharsys",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            899,
+            815,
+            920,
+            882
+        ],
+        "text": "...Wha...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1053,
+            567,
+            1101,
+            633
+        ],
+        "text": "WHAT\nTHE\nHELL\nARE\nYOU\n\u2026!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            127,
+            162,
+            220,
+            301
+        ],
+        "text": "...AND WITNESS THAT STRENGTH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            153,
+            676,
+            175,
+            751
+        ],
+        "text": "LIVE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            129,
+            1088,
+            202
+        ],
+        "text": "WAS I...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

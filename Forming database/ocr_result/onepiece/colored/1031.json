@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            56,
+            245,
+            126,
+            491
+        ],
+        "text": "I'LL GET YOU... KAIDO!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            502,
+            81,
+            524,
+            121
+        ],
+        "text": "Oh...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            668,
+            76,
+            714,
+            124
+        ],
+        "text": "It's you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            424,
+            486,
+            478
+        ],
+        "text": "HMM?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            288,
+            1029,
+            419
+        ],
+        "text": "WANO,\nACT ONE\nEND",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

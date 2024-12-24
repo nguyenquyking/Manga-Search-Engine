@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            66,
+            26,
+            147,
+            160
+        ],
+        "text": "Well, we don't get items like that too often...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            368,
+            138,
+            450
+        ],
+        "text": "Plans for a mansion?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            475,
+            136,
+            578
+        ],
+        "text": "Collateral from ten years ago?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            620,
+            146,
+            685
+        ],
+        "text": "Pawn Shop",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            192,
+            34,
+            270,
+            145
+        ],
+        "text": "I'm guessin' I know which one you mean...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            20,
+            524,
+            171
+        ],
+        "text": "Oh, that's right! Kumago from the row house! He wanted to learn from it.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            412,
+            498,
+            514
+        ],
+        "text": "Oh, no, I sold it off ages ago, of course.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            576,
+            472,
+            695
+        ],
+        "text": "Huh?! You got it?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            423,
+            631,
+            526
+        ],
+        "text": "But who was it that bought the thing...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            580,
+            32,
+            645,
+            100
+        ],
+        "text": "Who?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            729,
+            45,
+            827,
+            262
+        ],
+        "text": "The mansion plans? Oh, they were very finely done, indeed. I gave them to my favorite geisha as a gift.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            734,
+            302,
+            833,
+            428
+        ],
+        "text": "...Until the landlord took it when I got backed up on the rent.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            746,
+            445,
+            826,
+            539
+        ],
+        "text": "Oh, yeah, I did own that years back...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            602,
+            787,
+            686
+        ],
+        "text": "Mansion plans?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            13,
+            936,
+            130
+        ],
+        "text": "Her name is Kisegawa! You know her?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            305,
+            964,
+            377
+        ],
+        "text": "That'd be Kobei!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            20,
+            1090,
+            108
+        ],
+        "text": "Why would I know her?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            300,
+            1092,
+            366
+        ],
+        "text": "Who?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

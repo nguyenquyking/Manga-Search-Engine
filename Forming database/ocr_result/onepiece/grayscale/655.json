@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            107,
+            95,
+            174,
+            201
+        ],
+        "text": "THAT'S RIGHT. AS IT STANDS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            51,
+            283,
+            116,
+            392
+        ],
+        "text": "...NONE ARE SURRENDERING.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            43,
+            474,
+            133,
+            595
+        ],
+        "text": "EVEN AFTER LOSING STRAW HAT LUFFY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            49,
+            650,
+            121,
+            743
+        ],
+        "text": "GUEST PARLOR,\nINSIDE THE CASTLE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            488,
+            68,
+            603,
+            184
+        ],
+        "text": "THE DIFFERENCE\nIN STRENGTH\nIS 24,000\nVS. 3,000.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            493,
+            625,
+            575,
+            753
+        ],
+        "text": "ANOTHER 5,000\nSOLDIERS ARE\nNOW OUT OF\nTHE BATTLE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            753,
+            66,
+            866,
+            184
+        ],
+        "text": "THAT\nTURNS 4,000\nSOLDIERS TO\nTHE OTHER\nSIDE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            921,
+            63,
+            1024,
+            173
+        ],
+        "text": "...MAKING\nIT 20,000\nVS.\n7,000!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            764,
+            577,
+            880,
+            745
+        ],
+        "text": "BUT ALL OF\nTHE PLEASURES\nAND WAITERS ON\nTHE PERFORMANCE\nFLOOR...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            942,
+            617,
+            1040,
+            716
+        ],
+        "text": "...ARE\nREBELLING\nAGAINST\nQUEEN.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1063,
+            216,
+            1110,
+            299
+        ],
+        "text": "20\n(20,000)",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1087,
+            501,
+            1108,
+            572
+        ],
+        "text": "7\n(7,000)",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

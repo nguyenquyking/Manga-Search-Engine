@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            30,
+            18,
+            172,
+            175
+        ],
+        "text": "I LOST CONTROL LIKE WHEN I FOUGHT KACCHAN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            233,
+            399,
+            328,
+            490
+        ],
+        "text": "WAIT, WAIT, WAIT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            568,
+            2,
+            650,
+            143
+        ],
+        "text": "SO BASICALLY...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            861,
+            30,
+            1019,
+            195
+        ],
+        "text": "...THEN MY LEGS SHOULD BE...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1082,
+            588,
+            1293,
+            710
+        ],
+        "text": "LIKE ALL MIGHT'S NEW HAMPSHIRE SMASH?!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            88,
+            710,
+            270,
+            968
+        ],
+        "text": "DID I JUST TRAVEL THROUGH THE AIR AT HIGH SPEED USING WIND PRESSURE?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            71,
+            1005,
+            198,
+            1147
+        ],
+        "text": "I TRIED TO KICK...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1043,
+            1044,
+            1220,
+            1222
+        ],
+        "text": "...AND SOMEHOW GOT BLOWN AWAY!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1382,
+            9,
+            1412,
+            211
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1438,
+            295,
+            1596,
+            407
+        ],
+        "text": "WHOOSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1546,
+            46,
+            1697,
+            202
+        ],
+        "text": "WHAT THE HELL WAS THAT... A SHOCK WAVE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

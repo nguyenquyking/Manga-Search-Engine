@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            92,
+            705,
+            188,
+            829
+        ],
+        "text": "THE FORECAST IS RAIN!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            188,
+            243,
+            300,
+            418
+        ],
+        "text": "RAIN TEMPO!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            480,
+            915,
+            561,
+            1052
+        ],
+        "text": "DON'T TELL ME...!\nTHAT IT MIGHT BE THAT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            580,
+            773,
+            617,
+            860
+        ],
+        "text": "COOL\nBALL!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1432,
+            487,
+            1489,
+            580
+        ],
+        "text": "POUR\nDOWN!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

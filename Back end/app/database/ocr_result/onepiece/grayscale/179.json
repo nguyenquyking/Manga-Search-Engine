@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            22,
+            90,
+            35,
+            134
+        ],
+        "text": "Koff",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            69,
+            398,
+            112,
+            478
+        ],
+        "text": "Just Survive...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            58,
+            645,
+            125,
+            730
+        ],
+        "text": "Castle Basement",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            204,
+            57,
+            257,
+            134
+        ],
+        "text": "...Kiku!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            839,
+            358,
+            851,
+            448
+        ],
+        "text": "KRAAASH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

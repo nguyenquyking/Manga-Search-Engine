@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            76,
+            186,
+            234,
+            272
+        ],
+        "text": "But if you cannot prove that, then...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            104,
+            792,
+            149,
+            892
+        ],
+        "text": "I see.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            42,
+            670,
+            159
+        ],
+        "text": "We will judge whomever has clearly committed a crime... In other words...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            403,
+            436,
+            599,
+            586
+        ],
+        "text": "If the demon truly did exist, then it manipulated her, right?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            374,
+            845,
+            429
+        ],
+        "text": "!!?",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            783,
+            778,
+            913,
+            883
+        ],
+        "text": "She will be judged...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1110,
+            101,
+            1264,
+            201
+        ],
+        "text": "In the name of Justice!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

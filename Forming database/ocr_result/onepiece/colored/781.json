@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            74,
+            14,
+            163,
+            126
+        ],
+        "text": "What's up with him?\nWhy can't I hit him?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            384,
+            134,
+            450
+        ],
+        "text": "Left!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            152,
+            134,
+            240
+        ],
+        "text": "Zip Zip",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            97,
+            604,
+            177,
+            701
+        ],
+        "text": "Enough of this!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            57,
+            522,
+            254
+        ],
+        "text": "That's not gonna work!!\nArma-Defense!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            490,
+            482,
+            504,
+            521
+        ],
+        "text": "Hop!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            745,
+            435,
+            811,
+            520
+        ],
+        "text": "What?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            393,
+            955,
+            488
+        ],
+        "text": "No, that's not right...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            631,
+            919,
+            707
+        ],
+        "text": "Hmm?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            384,
+            1104,
+            490
+        ],
+        "text": "That's just normal armament haki.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            23,
+            1116,
+            131
+        ],
+        "text": "Huh?\nHe didn't punch me!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

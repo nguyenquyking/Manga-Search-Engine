@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            25,
+            869,
+            60,
+            1288
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            585,
+            119,
+            872,
+            685
+        ],
+        "text": "Q: Nice to meet you, Odacchi!! The full lineup of the Tobi Roppo as introduced in chapter 978 is so cool! I just had to write you a letter! Like I'm sure everyone else is asking, I want to know their height, age, and favorite food!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            476,
+            915,
+            684
+        ],
+        "text": "--Haruki Genia",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            116,
+            1043,
+            1260
+        ],
+        "text": "A: Ah, all right. People really seem to love the Tobi Roppo. Why are they so popular? Save some compliments for Master Queen too!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1114,
+            321,
+            1280,
+            470
+        ],
+        "text": "Who's-Who\n11'0\"\n38 years old\nCrab paella",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1112,
+            730,
+            1319,
+            885
+        ],
+        "text": "Black Maria\n26'11\"\n29 years old\nGlazed rice dumplings",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1112,
+            1134,
+            1283,
+            1296
+        ],
+        "text": "Sasaki\n10'5\"\n34 years old\nAsparagus",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1388,
+            318,
+            1553,
+            519
+        ],
+        "text": "Ulti\n5'8\"\n22 years old\nTornado potato",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1388,
+            730,
+            1557,
+            885
+        ],
+        "text": "Page One\n5'7\"\n20 years old\nNachos",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1393,
+            1134,
+            1553,
+            1340
+        ],
+        "text": "X. (Diez) Drake\n7'8\"\n33 years old\nChicken and rice",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1650,
+            192,
+            1812,
+            1278
+        ],
+        "text": "In volume 96, you introduced the main members of the Roger Pirates, but the character you called \"Nozudon\" was previously introduced in the data book Blue Deep under the name of \"Seagull,\" which is what I've known him as... What am I supposed to do now?",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1820,
+            473,
+            1853,
+            950
+        ],
+        "text": "--Ohta, Captain of the Toppi Fleet",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1894,
+            131,
+            2103,
+            1185
+        ],
+        "text": "A: Huh?!...Oh!!?\nAhhh...Him? Ha hah, yes, yes, I see. You mean Seagull Ganz Nozudon? That's a good question. Well... You can call him whatever name you want... Or you could not bother to memorize his name at all...It's up to you...",
+        "panel_id": "7",
+        "type": "dialogue"
+    }
+]

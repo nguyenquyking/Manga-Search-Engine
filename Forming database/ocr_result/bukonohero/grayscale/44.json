@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            46,
+            350,
+            116,
+            456
+        ],
+        "text": "Let's reconsider which teams we're on...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            625,
+            103,
+            699
+        ],
+        "text": "Shoto...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            119,
+            37,
+            171,
+            134
+        ],
+        "text": "Then what about All For One?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            96,
+            446,
+            189
+        ],
+        "text": "Shigaraki.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            258,
+            456,
+            335
+        ],
+        "text": "Just as Midoriya has to face...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            501,
+            486,
+            621
+        ],
+        "text": "...You're the only one with any hope of opposing him.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            627,
+            408,
+            724
+        ],
+        "text": "Out of the remaining heroes...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            46,
+            751,
+            129
+        ],
+        "text": "We're doing this together, remember?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            249,
+            707,
+            316
+        ],
+        "text": "That should be my duty...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            380,
+            727,
+            472
+        ],
+        "text": "More than that, it's what I want.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            482,
+            725,
+            618
+        ],
+        "text": "I've got just the right power set to go up against Toya.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            959,
+            77,
+            1044,
+            250
+        ],
+        "text": "And together, we'll stop Toya and the rest of the villains!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            547,
+            1021,
+            674
+        ],
+        "text": "Everyone's got their part to play...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

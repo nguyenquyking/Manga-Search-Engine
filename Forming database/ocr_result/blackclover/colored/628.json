@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            185,
+            94,
+            249,
+            306
+        ],
+        "text": "IT'S THE RESISTANCE!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1385,
+            391,
+            1623,
+            632
+        ],
+        "text": "LISTEN UP,\nDARK\nTRIAD!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

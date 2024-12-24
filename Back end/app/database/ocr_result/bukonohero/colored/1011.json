@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            103,
+            62,
+            212,
+            173
+        ],
+        "text": "YOU WILL PUT SOME DISTANCE BETWEEN US, FOR A MOMENT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            105,
+            453,
+            189,
+            580
+        ],
+        "text": "AFTER ONE FULL MINUTE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            412,
+            47,
+            484,
+            157
+        ],
+        "text": "AND THEN GROW UNEASY.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            753,
+            57,
+            888,
+            246
+        ],
+        "text": "...THAT YOU HAVE NO COUNTER FOR MY \"FORESIGHT.\"",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            718,
+            708,
+            856,
+            859
+        ],
+        "text": "YOU'RE COMING TO TERMS WITH THE FACT...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

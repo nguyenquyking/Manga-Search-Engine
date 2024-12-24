@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            92,
+            86,
+            121,
+            212
+        ],
+        "text": "THAT'S WHY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            92,
+            585,
+            204,
+            707
+        ],
+        "text": "I KNOW MY LIMITS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            295,
+            889,
+            380
+        ],
+        "text": "SOMEDAY, I'M GONNA MAKE MY OWN BRIGADE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

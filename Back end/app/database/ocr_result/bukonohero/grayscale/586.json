@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            109,
+            238,
+            174,
+            319
+        ],
+        "text": "He's all I've got left!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            591,
+            138,
+            669
+        ],
+        "text": "Take me to the boss!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            400,
+            132,
+            469,
+            212
+        ],
+        "text": "...Tell him I'm sorry!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            274,
+            415,
+            347
+        ],
+        "text": "I gotta...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            29,
+            662,
+            89
+        ],
+        "text": "Ah, of course...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            167,
+            659,
+            221
+        ],
+        "text": "Eri...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            12,
+            790,
+            82
+        ],
+        "text": "With Eri, I could...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            303,
+            731,
+            460
+        ],
+        "text": "Do you remember everything you did to Eri?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            517,
+            632,
+            580
+        ],
+        "text": "Chisaki...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            953,
+            76,
+            1025,
+            161
+        ],
+        "text": "You want to say sorry, do you?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            546,
+            1120,
+            699
+        ],
+        "text": "Shut up, you diseased maggot... I'm talking to her!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

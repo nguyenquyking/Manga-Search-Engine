@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            201,
+            364,
+            361,
+            515
+        ],
+        "text": "Devil\nIce\nMagic.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            149,
+            818,
+            388,
+            1320
+        ],
+        "text": "IT BURNS\nAWAY\nEVERYTHING",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1302,
+            81,
+            1444,
+            592
+        ],
+        "text": "FREEZES\nEVERYTHING",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1228,
+            883,
+            1390,
+            1032
+        ],
+        "text": "Devil\nFlame\nMagic.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1743,
+            158,
+            1852,
+            498
+        ],
+        "text": "...INVISIBLE\nCONCEPTS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1738,
+            633,
+            1848,
+            836
+        ],
+        "text": "...AND\nEVEN...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1734,
+            1027,
+            1959,
+            1258
+        ],
+        "text": "EVEN\nSHADOW\nAND\nLIGHT...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            81,
+            1220,
+            208,
+            1372
+        ],
+        "text": "...But I'm getting a really bad feeling from these wave patterns unique to Wano...I've never seen anything like them.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            1401,
+            182,
+            1489
+        ],
+        "text": "Well, I'd love to keep us moving forward...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            188,
+            1030,
+            279,
+            1162
+        ],
+        "text": "The way these waves are roiling can't just be from wind currents.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            273,
+            621,
+            331,
+            703
+        ],
+        "text": "Not only is the sea menacing,",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            294,
+            490,
+            370,
+            597
+        ],
+        "text": "...but just look at the weather back there!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            322,
+            47,
+            420,
+            190
+        ],
+        "text": "It's probably best to avoid the storm. Shall we hang back for now...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            48,
+            583,
+            179
+        ],
+        "text": "Why would you say that, Brook?! C'mon, let's go to Wano!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            39,
+            765,
+            186
+        ],
+        "text": "And why would you deliberately drag your crew into danger, Luffy?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            1226,
+            912,
+            1317
+        ],
+        "text": "The wind gets stronger the closer we get...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            877,
+            814,
+            942,
+            1182
+        ],
+        "text": "What? But the thing is, Brook...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            1232,
+            1046,
+            1320
+        ],
+        "text": "...and the waves only get taller.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            885,
+            72,
+            968,
+            702
+        ],
+        "text": "Foul weather. Entrance will be perilous. As I will explain on the snail when you approach... Kin'emon did warn us...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1014,
+            65,
+            1110,
+            171
+        ],
+        "text": "...The waves churn, and the tides come and go rapidly!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

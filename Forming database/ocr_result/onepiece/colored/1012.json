@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            126,
+            323,
+            230,
+            425
+        ],
+        "text": "WANO,\nACT\nTWO",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            405,
+            59,
+            462,
+            117
+        ],
+        "text": "HAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            336,
+            799,
+            440
+        ],
+        "text": "HEAD\nMOUNTAIN,\nKURI, WANO",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

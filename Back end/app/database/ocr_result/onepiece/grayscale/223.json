@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            37,
+            121,
+            97,
+            202
+        ],
+        "text": "WHO THE HELL ARE YOU?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            29,
+            319,
+            73,
+            375
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            46,
+            592,
+            114,
+            701
+        ],
+        "text": "HE'S NOT GOING TO DIE, IS HE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            88,
+            684,
+            193
+        ],
+        "text": "NO, STOP...\nDON'T DO IT!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            683,
+            263,
+            724,
+            337
+        ],
+        "text": "...WON'T...\nMOVE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            666,
+            625,
+            735,
+            729
+        ],
+        "text": "WHAT'S...\nGOING ON?!\nMY BODY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            86,
+            895,
+            223
+        ],
+        "text": "STUPID ZOLO...\nHOW FAR DID\nHE GO?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            333,
+            891,
+            515
+        ],
+        "text": "AAAAH\nMOVE\nIT!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            836,
+            616,
+            902,
+            703
+        ],
+        "text": "RIGHTBRAIN\nTOWER,\nUNDER THE\nDOME",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

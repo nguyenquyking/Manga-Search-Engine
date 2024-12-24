@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            62,
+            108,
+            221,
+            605
+        ],
+        "text": "Archangel's Crash",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            114,
+            894,
+            175,
+            959
+        ],
+        "text": "OOAAA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            331,
+            1112,
+            511,
+            1272
+        ],
+        "text": "I'm not the type who can sit idly by...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            581,
+            152,
+            700,
+            267
+        ],
+        "text": "A spatial mage, hm?",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            599,
+            976,
+            774,
+            1153
+        ],
+        "text": "...while a guy like that is on the loose!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            549,
+            940,
+            698
+        ],
+        "text": "And, through the devil's power...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            862,
+            758,
+            936,
+            1292
+        ],
+        "text": "@Hawks_red_wing",
+        "panel_id": "7",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1030,
+            948,
+            1043,
+            1052
+        ],
+        "text": "SHREEE",
+        "panel_id": "8",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1661,
+            942,
+            1732,
+            1151
+        ],
+        "text": "...Absolute Space.",
+        "panel_id": "9",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1835,
+            91,
+            1892,
+            539
+        ],
+        "text": "@colorclovers",
+        "panel_id": "10",
+        "type": "background"
+    }
+]

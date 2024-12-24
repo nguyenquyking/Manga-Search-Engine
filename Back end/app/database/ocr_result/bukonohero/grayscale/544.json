@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            109,
+            120,
+            200,
+            203
+        ],
+        "text": "I'm talking about the U.A. barrier.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            269,
+            199,
+            392
+        ],
+        "text": "Our security system was fortified for the school festival, though it has yet to see any use.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            635,
+            125,
+            729
+        ],
+        "text": "But what about the safety of the evacuees...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            184,
+            484,
+            272,
+            570
+        ],
+        "text": "Among them, there's still...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            596,
+            531,
+            734
+        ],
+        "text": "A proper evacuation shelter must be more than simply a plot of land.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            649,
+            539,
+            744,
+            640
+        ],
+        "text": "I shall have to reassure them somehow.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            133,
+            717,
+            239
+        ],
+        "text": "It will prove its worth.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            112,
+            1062,
+            270
+        ],
+        "text": "So, go on... Do what you must to bring them back to us.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            863,
+            609,
+            989,
+            741
+        ],
+        "text": "In any case, All Might also attended this school, you know?",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            105,
+            105,
+            278,
+            328
+        ],
+        "text": "What's the meaning of this?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            116,
+            817,
+            235,
+            1007
+        ],
+        "text": "Huh?! What are you doing, Kyoshiro?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            395,
+            119,
+            552,
+            276
+        ],
+        "text": "Gag him while you're at it!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            103,
+            689,
+            174
+        ],
+        "text": "Yes, sir.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            537,
+            987,
+            673
+        ],
+        "text": "Sasaki?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            1192,
+            984,
+            1353
+        ],
+        "text": "Do you know much about Wano's history...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1512,
+            557,
+            1648,
+            740
+        ],
+        "text": "...to bring themselves closer to Kaido!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1470,
+            815,
+            1669,
+            990
+        ],
+        "text": "...the Southern forces split in two, like the Eastern...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1494,
+            1091,
+            1637,
+            1332
+        ],
+        "text": "With one of the dangerous Tobi Roppo out of the way...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1855,
+            1209,
+            2000,
+            1349
+        ],
+        "text": "Go inside the dome from here!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1658,
+            364,
+            1730,
+            475
+        ],
+        "text": "Assault Team",
+        "panel_id": "3",
+        "type": "label"
+    },
+    {
+        "text_box": [
+            1982,
+            372,
+            2077,
+            511
+        ],
+        "text": "Dome Infiltration Team",
+        "panel_id": "3",
+        "type": "label"
+    },
+    {
+        "text_box": [
+            1760,
+            974,
+            1881,
+            1074
+        ],
+        "text": "SWISH SWISH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            105,
+            613,
+            213,
+            736
+        ],
+        "text": "TOUYA DIED...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            699,
+            147,
+            846,
+            311
+        ],
+        "text": "...AND DABI WAS BORN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1093,
+            21,
+            1225,
+            163
+        ],
+        "text": "THE KIND OF HEAT THAT CAN ONLY DRIVE YOU TOWARDS DEATH.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1132,
+            192,
+            1202,
+            261
+        ],
+        "text": "...COULD NEVER HAVE IT.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1082,
+            291,
+            1190,
+            397
+        ],
+        "text": "AFO, WHO TRIES TO LIVE FOREVER...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1016,
+            489,
+            1163,
+            597
+        ],
+        "text": "...ENERGY BORN FROM ALL THINGS IN CREATION SPRINGING FORTH AND MOVING.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1027,
+            699,
+            1085,
+            765
+        ],
+        "text": "HEAT IS...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            41,
+            881,
+            75,
+            1297
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            583,
+            192,
+            654,
+            781
+        ],
+        "text": "Odacchi!! Is Shinobu modeled after Jane?\n--World Economic Part-Timer",
+        "panel_id": "1",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            689,
+            197,
+            1116,
+            920
+        ],
+        "text": "Oh! You think so?! Yeah, I kinda figured it out along the way, myself. Initially I was thinking about how the comedian and actress Naomi Watanabe has such an incredible and vibrant presence, so I based Shinobu on her. But eventually I started thinking, you know, she reminds me of someone... Then I figured out that it was none other than the legendary character Jane from my manga mentor Masaya Tokuhiro's classic series, *King of the Jungle Tar-chan*. Plus, Jane was beautiful when she was younger too, so it's really impossible to deny!",
+        "panel_id": "2",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            1183,
+            198,
+            1254,
+            957
+        ],
+        "text": "We now know that Kawamatsu isn't a real kappa, but a fish-man. What kind of fish-man is he?",
+        "panel_id": "3",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            1326,
+            198,
+            1388,
+            961
+        ],
+        "text": "He's a tiger pufferfish. But he claims that he's a kappa, so let's just say he's a kappa!",
+        "panel_id": "4",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            1425,
+            192,
+            1628,
+            764
+        ],
+        "text": "Odacchi! I want to see the human form of Brook's weapon, Soul Solid. I think it should be female, like Mihawk's swords. I think Brook would be very happy with that.",
+        "panel_id": "5",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            1697,
+            198,
+            1721,
+            482
+        ],
+        "text": "A woman. Got it!",
+        "panel_id": "6",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            2017,
+            812,
+            2058,
+            1012
+        ],
+        "text": "SHAA!! RAH!!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2060,
+            1288,
+            2121,
+            1385
+        ],
+        "text": "98",
+        "panel_id": "7",
+        "type": "page_number"
+    }
+]

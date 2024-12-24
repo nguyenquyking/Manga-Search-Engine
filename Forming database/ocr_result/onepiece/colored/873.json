@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            43,
+            396,
+            68,
+            463
+        ],
+        "text": "TING...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            68,
+            22,
+            144,
+            161
+        ],
+        "text": "The most beautiful woman in Wano... Oh, what a shame!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            86,
+            215,
+            146,
+            294
+        ],
+        "text": "OIRAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            593,
+            135,
+            701
+        ],
+        "text": "NOOOO! Sister!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            205,
+            589,
+            288,
+            703
+        ],
+        "text": "Kyoshiro, why would you do such a thing?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            23,
+            504,
+            156
+        ],
+        "text": "Any who dare defy the Shogun are to be judged guilty!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            390,
+            238,
+            480,
+            356
+        ],
+        "text": "I gave Komurasaki a warrior's mercy.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            413,
+            468,
+            533
+        ],
+        "text": "Who told you to kill her?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            556,
+            460,
+            678
+        ],
+        "text": "What have you done, Kyoshiro?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            592,
+            28,
+            636,
+            137
+        ],
+        "text": "The law is ironclad!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            909,
+            29,
+            924,
+            98
+        ],
+        "text": "FLIP...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            918,
+            330,
+            1008,
+            446
+        ],
+        "text": "Would Kyoshiro truly go that far?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            585,
+            1012,
+            703
+        ],
+        "text": "Was he making a show of his loyalty?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1122,
+            71,
+            1136,
+            124
+        ],
+        "text": "...!",
+        "panel_id": "3",
+        "type": "other"
+    }
+]

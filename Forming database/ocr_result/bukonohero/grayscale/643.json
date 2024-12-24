@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            83,
+            86,
+            218,
+            233
+        ],
+        "text": "...'All For One' and Shigaraki will come next.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            94,
+            630,
+            204,
+            784
+        ],
+        "text": "If we manage to stop Lady Nagant...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            425,
+            437,
+            475,
+            521
+        ],
+        "text": "3RD",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            730,
+            664,
+            822,
+            808
+        ],
+        "text": "I'll learn how to use your quirk right now!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            702,
+            1214,
+            852
+        ],
+        "text": "I'm so sorry for having to use your cape like this, Gran Torino.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            226,
+            1158,
+            353
+        ],
+        "text": "FA\nJIN",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1253,
+            4,
+            1293,
+            389
+        ],
+        "text": "*TN: The 3rd quirk is an explosive release of internal power, similar to a move in Chinese martial arts.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

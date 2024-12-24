@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            88,
+            681,
+            99,
+            734
+        ],
+        "text": "AAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            361,
+            622,
+            385,
+            681
+        ],
+        "text": "YO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            53,
+            741,
+            140
+        ],
+        "text": "CHIEF!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            118,
+            1080,
+            216
+        ],
+        "text": "WHAT... ARE THESE PEOPLE?",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1028,
+            569,
+            1049,
+            622
+        ],
+        "text": "HUH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            10,
+            1242,
+            54,
+            1377
+        ],
+        "text": "AAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            35,
+            426,
+            43,
+            561
+        ],
+        "text": "RAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1021,
+            1111,
+            1005,
+            1272
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1021,
+            1111,
+            1005,
+            1272
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1223,
+            149,
+            1510,
+            522
+        ],
+        "text": "THIS IS HUGE NEWS!!! THIS IS MONUMENTAL!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1248,
+            1453,
+            1461,
+            1738
+        ],
+        "text": "THEY BEAT BIG MOM!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1330,
+            935,
+            1401,
+            1103
+        ],
+        "text": "RAAAAAAA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2256,
+            630,
+            2436,
+            959
+        ],
+        "text": "\u308f\u3042\u3042\u3042",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2368,
+            720,
+            2420,
+            836
+        ],
+        "text": "WAHHH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2273,
+            1131,
+            2412,
+            1272
+        ],
+        "text": "RAAA",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2415,
+            1539,
+            2518,
+            1786
+        ],
+        "text": "BOSSSSS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2442,
+            271,
+            2554,
+            490
+        ],
+        "text": "CAPTAIN!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

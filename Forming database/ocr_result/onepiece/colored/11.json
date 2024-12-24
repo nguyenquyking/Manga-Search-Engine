@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            137,
+            81,
+            225,
+            206
+        ],
+        "text": "KOMURA-SAKI!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            128,
+            759,
+            182,
+            894
+        ],
+        "text": "COUGH HEHE...\nCURSE YOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            496,
+            72,
+            608,
+            251
+        ],
+        "text": "YOU\nSHOULDN'T HAVE\nUNDERESTIMATED\nTHE WRATH OF THE\nKUROZUMI CLAN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            492,
+            841,
+            604,
+            1027
+        ],
+        "text": "GUFUHAHA!!\nI'M TAKING YOU\nWITH ME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            79,
+            1030,
+            157
+        ],
+        "text": "AHHH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1211,
+            276,
+            1316,
+            433
+        ],
+        "text": "SEEMS\nTHINGS ARE\nGETTING OUT OF\nHAND HERE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1200,
+            562,
+            1328,
+            732
+        ],
+        "text": "WE CAN DRINK\nTOGETHER\nDOWN THERE!!\nBUHAHAHA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1211,
+            872,
+            1307,
+            1004
+        ],
+        "text": "I'LL BE\nSEEING YOU\nIN HELL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

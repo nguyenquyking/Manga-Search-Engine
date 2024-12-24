@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            144,
+            55,
+            196,
+            148
+        ],
+        "text": "SEE TO THEM!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            106,
+            597,
+            190,
+            688
+        ],
+        "text": "MY NAME... IS PEDRO!! PLEASE HELP...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            391,
+            28,
+            456,
+            109
+        ],
+        "text": "THEY MUST BE SAVED...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            610,
+            466,
+            692
+        ],
+        "text": "THE WORLD AWAITS THEM!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            610,
+            274,
+            692,
+            413
+        ],
+        "text": "THEY MUST NOT DIE, UNDER ANY CIRCUMSTANCES!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            34,
+            860,
+            106
+        ],
+        "text": "So...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            198,
+            843,
+            228
+        ],
+        "text": "...",
+        "panel_id": "4",
+        "type": "thought"
+    }
+]

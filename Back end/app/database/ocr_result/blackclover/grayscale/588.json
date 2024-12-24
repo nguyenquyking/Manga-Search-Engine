@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            30,
+            411,
+            131,
+            706
+        ],
+        "text": "I'll never forgive them.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            468,
+            711,
+            507,
+            922
+        ],
+        "text": "This malice...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            521,
+            62,
+            558,
+            420
+        ],
+        "text": "...will never disappear.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            625,
+            145,
+            804,
+            283
+        ],
+        "text": "...are scum. Every last one of them. And so...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            830,
+            716,
+            966
+        ],
+        "text": "Devils...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            59,
+            1371,
+            227
+        ],
+        "text": "Even if I have to steal your body to do it!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1113,
+            867,
+            1320,
+            1004
+        ],
+        "text": "I'm gonna kill them all!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

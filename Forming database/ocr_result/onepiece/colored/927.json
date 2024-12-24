@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            70,
+            188,
+            180,
+            283
+        ],
+        "text": "THIS IS THE SETTLEMENT LIVING OFF THE LEFTOVER SCRAPS OF THE FLOWER CAPITAL...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            100,
+            442,
+            189,
+            591
+        ],
+        "text": "DWA HA HA HA HA HA HA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            118,
+            429,
+            207,
+            576
+        ],
+        "text": "\u304e\u3083\u306f\u306f\u306f\u306f!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            103,
+            632,
+            168,
+            717
+        ],
+        "text": "SLIGHTLY EARLIER IN TIME...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            504,
+            70,
+            595,
+            190
+        ],
+        "text": "GYA HA HA HA HA!! I'M SO HUNGRY!! I'M DYIN'!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            237,
+            571,
+            389
+        ],
+        "text": "WHY'D YA COME BACK, YASU? WE AIN'T GOT NO FOOD HERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            408,
+            536,
+            528
+        ],
+        "text": "BWA HA HA HA!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            512,
+            543,
+            565,
+            625
+        ],
+        "text": "IT'S TONOYASU!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            653,
+            585,
+            746
+        ],
+        "text": "WELL, WELL, LOOK WHO'S BACK!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            65,
+            912,
+            211
+        ],
+        "text": "AFTER ALL, OF THE MANY LIVING THINGS IN THE WORLD, ONLY A HUMAN BEING HAS THE ABILITY TO SMILE!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            950,
+            99,
+            975,
+            161
+        ],
+        "text": "IYO!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1039,
+            63,
+            1141,
+            198
+        ],
+        "text": "SO WHY WASTE A GOOD THING?\u266a LET THOSE SMILES RING!\u266a AHA HA HA!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            298,
+            889,
+            441
+        ],
+        "text": "IYO! VERY ASTUTE, MY GOOD MAN! THE PEOPLE ARE CHEERFUL, NO?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            486,
+            844,
+            608
+        ],
+        "text": "BWA HA HA HA!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            800,
+            635,
+            877,
+            745
+        ],
+        "text": "WHY ARE THESE PEOPLE SO CHEERFUL...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1024,
+            624,
+            1122,
+            750
+        ],
+        "text": "THIS LEFT-OVER TOWN IS DIFFERENT FROM THE OKOBORE IN KURI...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

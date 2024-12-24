@@ -1,0 +1,225 @@
+[
+    {
+        "text_box": [
+            158,
+            69,
+            300,
+            271
+        ],
+        "text": "...the entire castle!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            174,
+            679,
+            284,
+            843
+        ],
+        "text": "Flush out...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            963,
+            461,
+            1077
+        ],
+        "text": "DOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            461,
+            346,
+            516,
+            499
+        ],
+        "text": "ZSSSHH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            592,
+            675,
+            737,
+            815
+        ],
+        "text": "Let it be in time!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            72,
+            893,
+            286
+        ],
+        "text": "Save everyone, water of Zou!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            172,
+            1141,
+            890,
+            1582
+        ],
+        "text": "DOOM\nAiee!!",
+        "panel_id": "2",
+        "type": [
+            "sound_effect",
+            "dialogue"
+        ]
+    },
+    {
+        "text_box": [
+            513,
+            1635,
+            592,
+            1740
+        ],
+        "text": "AAAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1379,
+            222,
+            1570,
+            574
+        ],
+        "text": "Yeow!! Where do we go, though? There's no escape!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1371,
+            879,
+            1598,
+            1081
+        ],
+        "text": "Please, Killer!! At least let us do this for you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1385,
+            652,
+            1543,
+            802
+        ],
+        "text": "FWA FWA FWAA!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1439,
+            1253,
+            1595,
+            1401
+        ],
+        "text": "Let me down, boys.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1450,
+            1502,
+            1554,
+            1685
+        ],
+        "text": "First Floor",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1693,
+            132,
+            1822,
+            342
+        ],
+        "text": "Hmm? It's really rumbling...",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1986,
+            1247,
+            2092,
+            1365
+        ],
+        "text": "FWA FWA!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2089,
+            239,
+            2133,
+            353
+        ],
+        "text": "ZRRD...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2125,
+            920,
+            2136,
+            1064
+        ],
+        "text": "ZRRD!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2461,
+            284,
+            2584,
+            538
+        ],
+        "text": "We're saved!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2314,
+            982,
+            2253,
+            1197
+        ],
+        "text": "KABLOOSH!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2502,
+            1335,
+            2671,
+            1506
+        ],
+        "text": "It's water!!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

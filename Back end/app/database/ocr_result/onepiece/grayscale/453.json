@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            82,
+            73,
+            130,
+            155
+        ],
+        "text": "...SPLIT\nOPEN!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            50,
+            630,
+            87,
+            704
+        ],
+        "text": "THE\nHEAVENS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            466,
+            98,
+            517,
+            161
+        ],
+        "text": "WHOA!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            52,
+            633,
+            138
+        ],
+        "text": "WHAT'S\nHAPPENING\nUP\nTHERE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            549,
+            520,
+            665
+        ],
+        "text": "WHAT JUST\nCAUSED THAT\nRUMBLING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            541,
+            317,
+            567,
+            377
+        ],
+        "text": "RAAAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            865,
+            344,
+            869,
+            442
+        ],
+        "text": "DA-DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

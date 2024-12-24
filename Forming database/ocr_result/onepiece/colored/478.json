@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            88,
+            24,
+            214,
+            184
+        ],
+        "text": "...while urging their smaller allies into fights, using resources and tools as leverage.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            213,
+            192,
+            330
+        ],
+        "text": "The greater powers silently stare each other down...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            354,
+            186,
+            453
+        ],
+        "text": "Each of them has internal trouble on their plate.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            517,
+            192,
+            689
+        ],
+        "text": "You've got 50 heads of state together in one place. Do you think they're going to get along?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            493,
+            44,
+            619,
+            188
+        ],
+        "text": "How many kings can actually speak equally for both their own people and others?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            488,
+            252,
+            604,
+            396
+        ],
+        "text": "When it comes time to join hands, they smile and grind each other's boots under the table.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            491,
+            445,
+            603,
+            562
+        ],
+        "text": "...will ensure that kings are never truly equals!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            501,
+            597,
+            585,
+            704
+        ],
+        "text": "Differences in wealth and religion...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            721,
+            20,
+            790,
+            110
+        ],
+        "text": "A \"round table,\" indeed...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            878,
+            59,
+            974,
+            162
+        ],
+        "text": "...I'm willing to call it peace...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            204,
+            952,
+            311
+        ],
+        "text": "As long as no blood is spilled...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            361,
+            997,
+            498
+        ],
+        "text": "Roots grow deep in the history between countries. We're just another part of that.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            888,
+            571,
+            996,
+            695
+        ],
+        "text": "Yes, the discussion was fraught with tension...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1041,
+            25,
+            1128,
+            119
+        ],
+        "text": "But this meeting was a bad one...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            82,
+            1167,
+            250,
+            1327
+        ],
+        "text": "AT SEA, NEAR ONIGASHIMA",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            194,
+            218,
+            397,
+            377
+        ],
+        "text": "YOU'RE LATE!\nDID YOU JUST GET HERE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            311,
+            963,
+            429,
+            1087
+        ],
+        "text": "IS THAT YOU, CAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            136,
+            881,
+            326
+        ],
+        "text": "DO YOU HAVE ANY IDEA WHAT DATE AND TIME IT IS?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            686,
+            1064,
+            844,
+            1288
+        ],
+        "text": "YEP, WE JUST CLIMBED THE FALLS!\nMROWWWR!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1114,
+            156,
+            1248,
+            336
+        ],
+        "text": "GOTCHA!!\nSEE YA THERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1090,
+            447,
+            1317,
+            650
+        ],
+        "text": "WE ARE ALREADY HEADING TO THE NORTH-WEST TIP OF ONIGASHIMA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1131,
+            714,
+            1248,
+            892
+        ],
+        "text": "THAT WILL DEPEND ON YOUGARA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1092,
+            992,
+            1272,
+            1116
+        ],
+        "text": "JUST IN TIME FOR THE ACTION,\nRIGHT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1101,
+            1173,
+            1267,
+            1332
+        ],
+        "text": "THE NIGHT OF THE FIRE FESTIVAL,\nTHE BIG BATTLE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1386,
+            136,
+            1522,
+            332
+        ],
+        "text": "NO, WAIT!\nHEY!!\nCAT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

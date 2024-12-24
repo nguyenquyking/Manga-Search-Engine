@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            104,
+            436,
+            291,
+            604
+        ],
+        "text": "To sum up, the Tree of Qliphoth will connect this world to the Underworld, where devils dwell...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            206,
+            848,
+            344,
+            989
+        ],
+        "text": "...and that concludes the report from the Black Bulls.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            310,
+            105,
+            449,
+            256
+        ],
+        "text": "...And in order to create it, they need Yami and Vengeance!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1003,
+            142,
+            1025,
+            214
+        ],
+        "text": "Hmph.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1014,
+            750,
+            1081,
+            879
+        ],
+        "text": "Abducted? Those two?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            910,
+            1032,
+            979
+        ],
+        "text": "It can't be...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1352,
+            101,
+            1417,
+            231
+        ],
+        "text": "They must have been careless!",
+        "panel_id": "2",
+        "type": "thought"
+    }
+]

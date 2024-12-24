@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            69,
+            103,
+            190,
+            232
+        ],
+        "text": "I can't be wakin' up to this kind of bad joke, Kaido!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            494,
+            142,
+            586
+        ],
+        "text": "You're lyin'!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            109,
+            643,
+            223,
+            723
+        ],
+        "text": "Excavation Labor Camp Udon",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            432,
+            86,
+            547,
+            165
+        ],
+        "text": "Hook up your Light-Scroll Snail.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            442,
+            440,
+            508,
+            548
+        ],
+        "text": "WAAAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            584,
+            443,
+            661,
+            552
+        ],
+        "text": "My sweet Komurasaki!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            636,
+            445,
+            710
+        ],
+        "text": "It's true!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            597,
+            69,
+            648,
+            143
+        ],
+        "text": "Woro Roro...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            64,
+            844,
+            171
+        ],
+        "text": "Hey! Balloon!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            768,
+            209,
+            849,
+            279
+        ],
+        "text": "Huh?! Hey you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            489,
+            823,
+            582
+        ],
+        "text": "Y...yes, sir! Right away, sir!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            616,
+            836,
+            727
+        ],
+        "text": "Hey!! Show me the Flower Capital!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            490,
+            1124,
+            585
+        ],
+        "text": "Uh-oh... He found out Komurasaki died!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1063,
+            636,
+            1122,
+            708
+        ],
+        "text": "Light-Scroll Snail",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

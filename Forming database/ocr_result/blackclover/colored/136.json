@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            170,
+            59,
+            384,
+            238
+        ],
+        "text": "EPHEMERAL\nSTAIRCASE\nTO SIRIUS",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            452,
+            274,
+            658
+        ],
+        "text": "SEAL\nREGENERATION\nMAGIC",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            579,
+            164,
+            700,
+            319
+        ],
+        "text": "CAN HE\nDRAW OUT THE\nPOWER OF HIS\nANTI-MAGIC\nNOW...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            518,
+            721,
+            610
+        ],
+        "text": "I'VE\nSEALED\nTHE\nDAMAGE\nTO HIS\nBODY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            655,
+            69,
+            682,
+            144
+        ],
+        "text": "ASTA...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            837,
+            803,
+            1093,
+            890
+        ],
+        "text": "\"DIE\"\n\"PERISH\"",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1124,
+            348,
+            1206,
+            468
+        ],
+        "text": "BEGOOOO-\nOONE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            860,
+            452,
+            891,
+            518
+        ],
+        "text": "JERE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

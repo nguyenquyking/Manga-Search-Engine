@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            38,
+            635,
+            146,
+            755
+        ],
+        "text": "Secret Flame Magic:",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            194,
+            56,
+            354,
+            199
+        ],
+        "text": "Soul Chain Death Match",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            737,
+            162,
+            897,
+            237
+        ],
+        "text": "What the...? No way could a peasant use a spell like that!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            349,
+            862,
+            445
+        ],
+        "text": "If you yank it out or break it, you'll go insane. So better be careful.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            693,
+            912,
+            759
+        ],
+        "text": "Lemme give you a heads-up.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            497,
+            1071,
+            563
+        ],
+        "text": "That chain is our souls.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            57,
+            444,
+            145,
+            543
+        ],
+        "text": "They're approaching from the Southeast Seas!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            617,
+            176,
+            720
+        ],
+        "text": "At present, Onigashima",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            111,
+            115,
+            193,
+            237
+        ],
+        "text": "Shoot them under! Don't you dare let that hag...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            237,
+            76,
+            302,
+            176
+        ],
+        "text": "...into this country!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            440,
+            55,
+            536,
+            181
+        ],
+        "text": "We knew they were coming either way!! So sink them already!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            209,
+            491,
+            291
+        ],
+        "text": "Shut your mouth!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            316,
+            546,
+            438
+        ],
+        "text": "Big Mom's intelligence gathering is said to be the very best in the business...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            444,
+            484,
+            540,
+            602
+        ],
+        "text": "How do they know about the water-fall-climbing method?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            631,
+            540,
+            745
+        ],
+        "text": "They've got the koi fish pulling their ships!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            990,
+            69,
+            1092,
+            187
+        ],
+        "text": "Ma ma ma ma!! Ha ha ha ha haaaa!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

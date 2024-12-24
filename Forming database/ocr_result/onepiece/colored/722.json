@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            96,
+            80,
+            199,
+            205
+        ],
+        "text": "...BUT A VERMIN!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            570,
+            150,
+            675
+        ],
+        "text": "YOU ARE NOTHING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            489,
+            25,
+            586,
+            157
+        ],
+        "text": "ARE YOU FAMILIAR WITH THE RIDDLE IMAGE THAT HAS BEEN CIRCULATING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            179,
+            589,
+            307
+        ],
+        "text": "NOW I HAVE AN APOLOGY FOR YOU ALL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            329,
+            567,
+            424
+        ],
+        "text": "OR THINGS WILL REALLY GO OUT OF CONTROL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            443,
+            559,
+            536
+        ],
+        "text": "STOP, LORD YASUIE! DON'T SAY ANY MORE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            474,
+            584,
+            546,
+            691
+        ],
+        "text": "YOU'LL PAY FOR THIS, YASUIE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            24,
+            1042,
+            166
+        ],
+        "text": "I CREATED THAT IMAGE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            536,
+            960,
+            690
+        ],
+        "text": "IN THE 20 YEARS SINCE THE DEATH OF THE KOZUKI NAME, WITHOUT ANY MANPOWER TO AVENGE THEM...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1016,
+            564,
+            1130,
+            684
+        ],
+        "text": "...I MOURNED THE LOSS OF THAT GREAT HOUSE, AND SO...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

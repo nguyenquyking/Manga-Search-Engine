@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            144,
+            411,
+            234,
+            558
+        ],
+        "text": "...would've been much worse off if you'd gotten attention any later.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            291,
+            80,
+            400,
+            221
+        ],
+        "text": "You can thank Rock Lock and the others for making your lives top priority.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            664,
+            296,
+            701,
+            361
+        ],
+        "text": "Enough, Yamada.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            964,
+            93,
+            1061,
+            187
+        ],
+        "text": "I just want to know... How are the kids?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            415,
+            992,
+            498
+        ],
+        "text": "Why...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            952,
+            558,
+            998,
+            661
+        ],
+        "text": "Even Kayama...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

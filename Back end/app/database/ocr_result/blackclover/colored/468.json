@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            72,
+            461,
+            244,
+            620
+        ],
+        "text": "In the first place, your body can't move anymore...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            230,
+            875,
+            337,
+            1074
+        ],
+        "text": "Not possible.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            301,
+            100,
+            541,
+            252
+        ],
+        "text": "...and as things stand, I can't make any more contracts with it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            711,
+            143,
+            864,
+            310
+        ],
+        "text": "...for being weak!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            719,
+            1112,
+            873,
+            1256
+        ],
+        "text": "It's your fault...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            948,
+            1119,
+            1270
+        ],
+        "text": "PLEASE!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1431,
+            481,
+            1507,
+            616
+        ],
+        "text": "ROUGE!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1759,
+            979,
+            1848,
+            993
+        ],
+        "text": "SHLOO",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

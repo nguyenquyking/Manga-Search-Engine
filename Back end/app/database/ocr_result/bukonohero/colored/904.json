@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            6,
+            5,
+            438,
+            208
+        ],
+        "text": "ONE FOR ALL",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1455,
+            0,
+            1941,
+            408
+        ],
+        "text": "FULL COWLING 100 PERCENT!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2163,
+            252,
+            2421,
+            664
+        ],
+        "text": "ERI... MIND LENDING ME A HAND, HERE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2916,
+            36,
+            2991,
+            159
+        ],
+        "text": "END",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

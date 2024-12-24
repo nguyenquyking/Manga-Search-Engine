@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            66,
+            60,
+            178,
+            251
+        ],
+        "text": "Oh, darling!\u2661 You're the funniest in the universe!\u2661 Gold-dig dig dig dig!!\u2661",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            277,
+            150,
+            405
+        ],
+        "text": "So that was me being facetious!! Ma ha ha ha!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            420,
+            152,
+            545
+        ],
+        "text": "Actually, I just saw him a moment ago, and he did not look well!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            589,
+            165,
+            693
+        ],
+        "text": "And how's that old fuddy-duddy King Cobra doing?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            252,
+            20,
+            307,
+            106
+        ],
+        "text": "Dig dig dig!\u2661",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            27,
+            456,
+            175
+        ],
+        "text": "Shame on the World Government for letting this idiot back into their good graces!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            368,
+            202,
+            421,
+            285
+        ],
+        "text": "Hee hee hee hee!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            617,
+            565,
+            703
+        ],
+        "text": "Wapol!! That's enough of the tasteless jokes!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            648,
+            604,
+            738,
+            711
+        ],
+        "text": "Looks like you've built another nation of the misfortunate.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            836,
+            57,
+            914,
+            247
+        ],
+        "text": "Doctor of Cherry Blossom Kingdom\nDr. Kureha",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            831,
+            390,
+            906,
+            573
+        ],
+        "text": "King of Cherry Blossom Kingdom\nDalton",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1020,
+            25,
+            1134,
+            119
+        ],
+        "text": "I wasn't asking!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            290,
+            1117,
+            377
+        ],
+        "text": "What? You wanna know my youthful secret?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            578,
+            1128,
+            703
+        ],
+        "text": "Dalton!! The witch hag!! You're still alive?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

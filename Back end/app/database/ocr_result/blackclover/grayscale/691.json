@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            273,
+            69,
+            416,
+            136
+        ],
+        "text": "...so maybe he wasn't much after all, hm?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            277,
+            300,
+            424,
+            392
+        ],
+        "text": "That said, Zenon managed to catch him and bring him here...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            294,
+            430,
+            440,
+            567
+        ],
+        "text": "Well, the gate to the Underworld's going to open because the guy dies, so I'll deal. I guess.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            259,
+            669,
+            351,
+            761
+        ],
+        "text": "And then I wanted to turn them into my toys.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            757,
+            57,
+            849,
+            175
+        ],
+        "text": "...I studied the Heart Kingdom's rune arrays.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            964,
+            198,
+            1079,
+            263
+        ],
+        "text": "She's an earnest type anyway, so she just doesn't stop...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            311,
+            1065,
+            381
+        ],
+        "text": "Is the Captain learning those arrays again?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            785,
+            491,
+            869,
+            588
+        ],
+        "text": "Good Lord... You're a genius, Charlotte!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            757,
+            634,
+            871,
+            761
+        ],
+        "text": "For half a year, while I kept performing my duties as Captain...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

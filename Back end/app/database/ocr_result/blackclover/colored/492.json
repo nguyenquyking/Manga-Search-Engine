@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            95,
+            150,
+            187,
+            264
+        ],
+        "text": "Mister! I was this close to getting slaughtered, Golden Dawn Vice Captain?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            254,
+            544,
+            361,
+            622
+        ],
+        "text": "Sure you didn't get freaked out and overestimate him?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            470,
+            231,
+            556,
+            306
+        ],
+        "text": "In fact, they may have even linked them already!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            106,
+            495,
+            143
+        ],
+        "text": "Haw!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            527,
+            47,
+            596,
+            107
+        ],
+        "text": "So, what, the world's ending?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            556,
+            528,
+            621
+        ],
+        "text": "That's enough, Jack.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            46,
+            863,
+            113
+        ],
+        "text": "There's still too much that's unclear, though.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            239,
+            842,
+            304
+        ],
+        "text": "In order to ensure that it doesn't, we have to act!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            493,
+            897,
+            602
+        ],
+        "text": "They may be on the verge of linking this world with the Underworld as we speak!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

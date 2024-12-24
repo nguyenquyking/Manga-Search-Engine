@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            101,
+            104,
+            159,
+            221
+        ],
+        "text": "Is that... Endeavor's move?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            121,
+            665,
+            176,
+            709
+        ],
+        "text": "Hot, hot!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            380,
+            58,
+            415,
+            156
+        ],
+        "text": "Oh no! Todoroki!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            361,
+            672,
+            433,
+            760
+        ],
+        "text": "So much thicker though... and so haphazard.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            670,
+            377,
+            724,
+            456
+        ],
+        "text": "Ready yet, Shoto?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            580,
+            793,
+            621
+        ],
+        "text": "WRMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

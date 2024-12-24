@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            337,
+            40,
+            417,
+            161
+        ],
+        "text": "HITTING\nBACK CAN BE\nTHE BEST\nWAY TO\nAVOID DYIN'.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            506,
+            39,
+            616,
+            153
+        ],
+        "text": "AFTER ALL,\nI DID TRAIN\nA CRAZY-\nPOWERFUL\nGUY!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            658,
+            226,
+            663,
+            252
+        ],
+        "text": "\u30ac\u30fc\u30f3",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            828,
+            56,
+            848,
+            154
+        ],
+        "text": "WHO...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1027,
+            757,
+            1047,
+            831
+        ],
+        "text": "NOW\nQUIT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1219,
+            358,
+            1270,
+            555
+        ],
+        "text": "...SHIMURA'S\nMEMORY!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1187,
+            647,
+            1236,
+            830
+        ],
+        "text": "...TRAMPLING\nALL OVER...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

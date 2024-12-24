@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            198,
+            634,
+            320,
+            869
+        ],
+        "text": "ZZT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            45,
+            2444,
+            68,
+            2517
+        ],
+        "text": "AAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            984,
+            457,
+            992,
+            511
+        ],
+        "text": "ZZT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            786,
+            2525,
+            868,
+            2598
+        ],
+        "text": "ZZT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            820,
+            2421,
+            860,
+            2517
+        ],
+        "text": "00000",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1173,
+            96,
+            1188,
+            164
+        ],
+        "text": "ZZT",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1358,
+            5,
+            1396,
+            245
+        ],
+        "text": "Twitter: @OfficialEaero",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1362,
+            809,
+            1396,
+            953
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1490,
+            791,
+            1493,
+            901
+        ],
+        "text": "00000",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1551,
+            493,
+            1619,
+            645
+        ],
+        "text": "X",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1574,
+            1541,
+            1589,
+            1601
+        ],
+        "text": "ZZT",
+        "panel_id": "7",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1646,
+            1125,
+            1656,
+            1183
+        ],
+        "text": "ZZT",
+        "panel_id": "7",
+        "type": "sound_effect"
+    }
+]

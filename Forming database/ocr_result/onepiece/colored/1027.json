@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            70,
+            259,
+            141,
+            339
+        ],
+        "text": "HUH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            492,
+            138,
+            684
+        ],
+        "text": "Oh! Luffy has arrived in...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            272,
+            484,
+            344
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            418,
+            465,
+            469,
+            528
+        ],
+        "text": "EXTRA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            430,
+            623,
+            464,
+            662
+        ],
+        "text": "Wo...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            495,
+            832,
+            573
+        ],
+        "text": "Hey, Whatcha reading?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            176,
+            847,
+            279
+        ],
+        "text": "Eugh! Disgusting!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            331,
+            825,
+            459
+        ],
+        "text": "BLURRRFT!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            788,
+            67,
+            865,
+            134
+        ],
+        "text": "Don't spit Wasabi Sushi everywhere!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            48,
+            940,
+            106
+        ],
+        "text": "Koff, Koff!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1015,
+            34,
+            1124,
+            155
+        ],
+        "text": "That's what happens when you overeat!! Are you sure you can pay for all of this?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            487,
+            1140,
+            616
+        ],
+        "text": "Ahh, there's a samurai named Luffy Taro who fought against Lord Kaido...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            674,
+            859,
+            709
+        ],
+        "text": "Whew!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1000,
+            717,
+            1059,
+            732
+        ],
+        "text": "*Wasabi",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

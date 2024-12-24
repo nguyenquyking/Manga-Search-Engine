@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            479,
+            8,
+            511,
+            1094
+        ],
+        "text": "COLORIST: @TOKYOMANJIKHE TEAM: @COLORCLOVERS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            552,
+            121,
+            652,
+            368
+        ],
+        "text": "WHAT THE...?!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            1136,
+            835,
+            1205
+        ],
+        "text": "ERK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1131,
+            1122,
+            1460,
+            1274
+        ],
+        "text": "!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1404,
+            39,
+            1563,
+            262
+        ],
+        "text": "I... CAN'T MOVE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1825,
+            102,
+            1993,
+            284
+        ],
+        "text": "WHERE ARE YOU GOING, HM?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

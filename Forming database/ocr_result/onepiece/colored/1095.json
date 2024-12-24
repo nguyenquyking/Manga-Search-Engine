@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            90,
+            209,
+            146,
+            285
+        ],
+        "text": "But that is just a moniker.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            502,
+            138,
+            608
+        ],
+        "text": "Once, Oden Castle stood here.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            118,
+            655,
+            216,
+            738
+        ],
+        "text": "Ruins of Oden Castle,\nKuri, Wano",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            123,
+            80,
+            213,
+            159
+        ],
+        "text": "It's true name is Kuri Castle.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            444,
+            67,
+            491,
+            175
+        ],
+        "text": "That is correct!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            229,
+            504,
+            313
+        ],
+        "text": "You mean Momo's Dad?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            532,
+            510,
+            610
+        ],
+        "text": "...Out of their love for Lord Oden.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            457,
+            637,
+            541,
+            743
+        ],
+        "text": "The people of Kuri called it by that title...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            786,
+            70,
+            888,
+            259
+        ],
+        "text": "...His willful ways and repeated acts of violence earned him banishment from the Flower Capital.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            927,
+            55,
+            968,
+            114
+        ],
+        "text": "Wha--?",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            997,
+            76,
+            1134,
+            237
+        ],
+        "text": "Meanwhile, at that time there was a place in Wano known for being a lawless area...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            784,
+            576,
+            921,
+            722
+        ],
+        "text": "Our Lord Oden was a rather boisterous fellow, as a matter of fact...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            990,
+            546,
+            1132,
+            726
+        ],
+        "text": "...And despite being the son of Kozuki Sukiyaki, the Shogun of Wano at the time...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

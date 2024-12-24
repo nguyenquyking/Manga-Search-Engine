@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            104,
+            448,
+            168,
+            634
+        ],
+        "text": "NO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            495,
+            74,
+            562,
+            192
+        ],
+        "text": "LA BRAVA!!\nCHANGE OF PLANS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            148,
+            882,
+            240
+        ],
+        "text": "WAIT, WAIT!\nYOU'RE\nGONNA\nFIGHT!?\nHERE!?\nIS THAT\nREALLY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            265,
+            803,
+            349
+        ],
+        "text": "OF COURSE,\nGENTLE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            933,
+            2,
+            972,
+            77
+        ],
+        "text": "A GOOD\nIDEA!!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            797,
+            531,
+            970,
+            678
+        ],
+        "text": "FROM\nNOW ON,\nNO\nMATTER\nWHAT\nHAPPENS,\nDON'T STOP\nFILMING!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

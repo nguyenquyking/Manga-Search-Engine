@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            87,
+            158,
+            182,
+            281
+        ],
+        "text": "THAT'S AN INDEFENSIBLE TORPEDO ATTACK!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            671,
+            156,
+            735
+        ],
+        "text": "SINK 'EM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            594,
+            501,
+            652
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            282,
+            670,
+            331,
+            741
+        ],
+        "text": "ROGER THAT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

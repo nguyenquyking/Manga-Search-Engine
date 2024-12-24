@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            98,
+            62,
+            299,
+            238
+        ],
+        "text": "However, Langris had only been able to evade attacks with Yuno's help. The difference between his skills and Zenon's was blindingly obvious.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            51,
+            665,
+            153,
+            760
+        ],
+        "text": "I'll have to distract him and guard Yuno!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            340,
+            79,
+            368
+        ],
+        "text": "SHF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            621,
+            356,
+            741,
+            490
+        ],
+        "text": "It's not going to be possible to buy three whole minutes...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            890,
+            171,
+            920,
+            663
+        ],
+        "text": "BUT I HAVE TO DO IT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

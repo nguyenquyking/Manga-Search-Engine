@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            62,
+            85,
+            296,
+            253
+        ],
+        "text": "My magic can stand against the devil! We'll send it through the sword to the rest of them!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            818,
+            406,
+            1005
+        ],
+        "text": "The Demon-Dweller Sword bestows and stores up magic for those who have ties to each other. It's a blade that connects others.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            836,
+            78,
+            1129,
+            294
+        ],
+        "text": "Combo Spell:\nDemon-Dweller\nSword-Protecting\nLight",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

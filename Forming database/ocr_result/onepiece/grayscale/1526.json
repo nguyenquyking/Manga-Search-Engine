@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            99,
+            230,
+            224,
+            437
+        ],
+        "text": "YO HO HO HO!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            902,
+            196,
+            1028
+        ],
+        "text": "YO HO HO HO!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            1090,
+            220,
+            1208
+        ],
+        "text": "YO HO HO HO!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            304,
+            964,
+            330,
+            1249
+        ],
+        "text": "GYAHAHAHAHA!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            814,
+            459,
+            900,
+            656
+        ],
+        "text": "...BINK'S BREW!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            781,
+            1143,
+            922,
+            1291
+        ],
+        "text": "TIME TO SHIP OUT...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1512,
+            136,
+            1686,
+            357
+        ],
+        "text": "IT'S NO LESS DEADLY ON THE SECOND TRIP!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1470,
+            607,
+            1645,
+            806
+        ],
+        "text": "WELL, DON'T BE CARELESS, GOT THAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1488,
+            882,
+            1656,
+            1078
+        ],
+        "text": "I WENT THERE WITH WHITE-KICHI TOO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1507,
+            1123,
+            1643,
+            1297
+        ],
+        "text": "AH YES, FISH-MAN ISLAND!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

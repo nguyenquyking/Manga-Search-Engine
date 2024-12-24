@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            65,
+            121,
+            145,
+            269
+        ],
+        "text": "...OVER\nME!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            527,
+            240,
+            756
+        ],
+        "text": "I CAN'T\nLET YOU\nKEEP YOUR\nVICTORY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            676,
+            311,
+            752
+        ],
+        "text": "CLANG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            983,
+            60,
+            1032,
+            140
+        ],
+        "text": "HE'S\nSIMPLY...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            893,
+            332,
+            1019,
+            429
+        ],
+        "text": "HAS HE\nTAKEN\nCONTROL\nOVER IT\nWITH EVEN\nGREATER\nPOWER?!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            909,
+            647,
+            1036,
+            760
+        ],
+        "text": "WHAT?!\nTHE MANA\nINSIDE\nABSOLUTE\nSPACE ISN'T\nUNDER MY\nCONTROL!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1038,
+            569,
+            1045,
+            618
+        ],
+        "text": "AAAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

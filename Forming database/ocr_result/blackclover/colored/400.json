@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            36,
+            70,
+            137,
+            203
+        ],
+        "text": "...the one who was closest to me-",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            30,
+            639,
+            115,
+            760
+        ],
+        "text": "You've always been...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            487,
+            158,
+            520,
+            223
+        ],
+        "text": "Ah. My apologies.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            64,
+            811,
+            167
+        ],
+        "text": "I see my approaching you made the curse react.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            41,
+            59,
+            143,
+            197
+        ],
+        "text": "No, I seek nothing from you anymore. My life belongs to you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            218,
+            109,
+            323
+        ],
+        "text": "Legends are legends, that is all...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            34,
+            344,
+            135,
+            459
+        ],
+        "text": "...Really the one you wished for?! Woro ro ro ro!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            486,
+            103,
+            579
+        ],
+        "text": "Is the world I'm creating...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            34,
+            620,
+            109,
+            730
+        ],
+        "text": "You think I'm Joyboy?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            58,
+            327,
+            143
+        ],
+        "text": "Just continue to be the strongest there is!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            414,
+            66,
+            503,
+            178
+        ],
+        "text": "From now to the day I beat him to become the greatest swordsman...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            338,
+            433,
+            414
+        ],
+        "text": "Gahk!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            414,
+            522,
+            492,
+            619
+        ],
+        "text": "I'll make you the King of the Pirates!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            647,
+            479,
+            739
+        ],
+        "text": "And I won't lose any fight, either.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            93,
+            662,
+            149
+        ],
+        "text": "Huff, huff!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            741,
+            420,
+            796,
+            482
+        ],
+        "text": "Hee hee hee hee!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            763,
+            522,
+            842,
+            597
+        ],
+        "text": "Got a problem with that...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            618,
+            819,
+            727
+        ],
+        "text": "...I will never lose again!!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            87,
+            1049,
+            212
+        ],
+        "text": "Guess I might as well become...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            416,
+            1088,
+            488
+        ],
+        "text": "Not at all!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            519,
+            1041,
+            602
+        ],
+        "text": "...King of the Pirates?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

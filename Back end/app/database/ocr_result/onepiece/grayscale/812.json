@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            109,
+            47,
+            204,
+            173
+        ],
+        "text": "I DON'T THINK I HAVE MUCH TIME LEFT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            259,
+            45,
+            368,
+            163
+        ],
+        "text": "IF THAT RACCOON DOG CAN'T FINISH THE MEDICINE IN TIME...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            40,
+            273,
+            104,
+            382
+        ],
+        "text": "YES,\nBOSS!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            542,
+            133,
+            726
+        ],
+        "text": "HEAR ME OUT,\nYAKUZA LEADERS!!!\nHUFF,\nHUFF...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            81,
+            567,
+            286
+        ],
+        "text": "...THEN I WILL\nGO ON TO SLAY EVERY\nLAST PERSON HERE,\nFRIEND OR FOE--\nINCLUDING YOU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            324,
+            523,
+            396
+        ],
+        "text": "IF YOU\nDON'T...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            444,
+            571,
+            554
+        ],
+        "text": "...I WANT\nYOU TO PUT\nAN END TO\nME BEFORE\nI TURN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            614,
+            557,
+            713
+        ],
+        "text": "...AND I\nBEGIN TO\nTRANSFORM\nINTO AN ICE\nONI...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            204,
+            997,
+            286
+        ],
+        "text": "YOU\nMUST DO\nTHIS FOR\nME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            332,
+            992,
+            507
+        ],
+        "text": "BUT HE'S RIGHT...\nIF HE TURNS INTO AN\nICE ONI, NO ONE HERE\nCAN STOP HIM.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            657,
+            974,
+            726
+        ],
+        "text": "I...I\nDON'T\nKNOW...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

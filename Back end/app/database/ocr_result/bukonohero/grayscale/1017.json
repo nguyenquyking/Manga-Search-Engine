@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            103,
+            62,
+            132,
+            113
+        ],
+        "text": "RATTL",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            215,
+            462,
+            235,
+            497
+        ],
+        "text": "RMMB",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            297,
+            59,
+            349,
+            126
+        ],
+        "text": "No... She ran away...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            306,
+            310,
+            407,
+            430
+        ],
+        "text": "She might be aiming for our blind spots! Let's stand back-to-back...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            690,
+            378,
+            731
+        ],
+        "text": "She's",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            51,
+            578,
+            169
+        ],
+        "text": "...I thought maybe we could confide in each other about love...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            471,
+            187,
+            539,
+            272
+        ],
+        "text": "Since we like the same boy.",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            475,
+            349,
+            492,
+            420
+        ],
+        "text": "Ochaco...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            492,
+            521,
+            621,
+            611
+        ],
+        "text": "The giant villain... getting bigger... won't stop... KZZT",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            733,
+            130,
+            787,
+            247
+        ],
+        "text": "My confusion's all cleared away.",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            709,
+            350,
+            760,
+            457
+        ],
+        "text": "I'm going back to the League.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            493,
+            780,
+            596
+        ],
+        "text": "Ah... We're losing... Live feed... Airwaves are...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1007,
+            235,
+            1043,
+            312
+        ],
+        "text": "She was crying...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

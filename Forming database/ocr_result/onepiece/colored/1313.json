@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            120,
+            111,
+            174,
+            185
+        ],
+        "text": "As a brief reminder...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            93,
+            622,
+            159,
+            714
+        ],
+        "text": "The day of the Reverie...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            226,
+            65,
+            300,
+            133
+        ],
+        "text": "...the seas of the world...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            429,
+            63,
+            600,
+            231
+        ],
+        "text": "...and the dangerous Grand Line stretch of sea, of which Luffy's crew is voyaging the portion known as the New World.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            393,
+            267,
+            633,
+            567
+        ],
+        "text": "East Blue\nThe Holy Land Mary Geoise\nSouth Blue\nNorth Blue\nWest Blue\nThe Red Line\nThe Grand Line",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            432,
+            608,
+            578,
+            722
+        ],
+        "text": "...are split into four parts by the Red Line, the looming continental wall...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            762,
+            65,
+            837,
+            187
+        ],
+        "text": "...numbering 170 in total!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            997,
+            72,
+            1113,
+            183
+        ],
+        "text": "Of those nations, 50 chosen monarchs gather...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            734,
+            551,
+            852,
+            713
+        ],
+        "text": "The World Government is a massive organization made up of the majority of the world nations...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            930,
+            444,
+            967,
+            608
+        ],
+        "text": "GOV'T",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

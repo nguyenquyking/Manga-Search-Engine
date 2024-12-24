@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            90,
+            30,
+            148,
+            176
+        ],
+        "text": "If you're not going to say I can't, Eraser...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            88,
+            512,
+            202
+        ],
+        "text": "I would like to be allowed to assist.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            5,
+            643,
+            122
+        ],
+        "text": "We can't let those who would hurt a small girl get away with it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            696,
+            181,
+            801
+        ],
+        "text": "After hearing that kind of story,",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            434,
+            670,
+            585,
+            789
+        ],
+        "text": "You can't tell me I can't go!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            407,
+            955,
+            535
+        ],
+        "text": "If my strength will help that kid even a little,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            26,
+            1155,
+            176
+        ],
+        "text": "I'll do it, Eraser-head!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            579,
+            853,
+            690
+        ],
+        "text": "I think... the heroes have already recognized the freshmen's abilities.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            742,
+            701,
+            845,
+            801
+        ],
+        "text": "Seeing as they've already let them participate in the meeting,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            739,
+            1140,
+            802
+        ],
+        "text": "Actually, in comparison to someone like me...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1075,
+            562,
+            1161,
+            643
+        ],
+        "text": "Any opportunity to put yourself down, huh, Amajiki?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1110,
+            657,
+            1190,
+            751
+        ],
+        "text": "These freshmen are considerably more brilliant.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

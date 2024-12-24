@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            277,
+            136,
+            487,
+            397
+        ],
+        "text": "It's only logical that they'd use the greater confusion and chaos to keep a low profile while going after their target\u2014one for all.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            208,
+            574,
+            447,
+            772
+        ],
+        "text": "We're assuming the escapees\u2014the supervillains from Tartarus, in particular\u2014received orders of some kind.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            95,
+            892,
+            240
+        ],
+        "text": "If I were All For One, I would go on the offensive.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            301,
+            858,
+            441
+        ],
+        "text": "But heroes are fraying at the seams...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1083,
+            77,
+            1267,
+            252
+        ],
+        "text": "Right now, his top priority might be hijacking Shigaraki.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1137,
+            687,
+            1224,
+            857
+        ],
+        "text": "It must be like Deku said...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

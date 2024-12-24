@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            56,
+            554,
+            117,
+            652
+        ],
+        "text": "AND YOU...\nDIDN'T GO\nAFTER HIM.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            126,
+            248,
+            202
+        ],
+        "text": "QUIT CRYING\nALREADY!\nSTUPID\nTEARS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            334,
+            536,
+            406,
+            663
+        ],
+        "text": "I THOUGHT\nI'D ONLY BE\nTHROWING FUEL\nON HIS FIRE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            96,
+            440,
+            166
+        ],
+        "text": "NO,\nTHAT'S\nNOT IT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            531,
+            478,
+            545,
+            541
+        ],
+        "text": "DAMMIT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            569,
+            719,
+            653
+        ],
+        "text": "THE\nTRUTH\nIS, I HAD\nNO IDEA...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            701,
+            71,
+            764,
+            151
+        ],
+        "text": "...WHAT\nTO SAY\nTO HIM.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            791,
+            541,
+            808,
+            601
+        ],
+        "text": "FWOOM",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            849,
+            345,
+            866,
+            390
+        ],
+        "text": "DAD...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            67,
+            1049,
+            156
+        ],
+        "text": "...DID I.",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1019,
+            577,
+            1039,
+            686
+        ],
+        "text": "NEITHER...",
+        "panel_id": "7",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            148,
+            134,
+            296,
+            277
+        ],
+        "text": "I'm sure your scales will tip in favor of Asta's group someday.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            184,
+            352,
+            414,
+            470
+        ],
+        "text": "It's not about bearing responsibility. It's about trusting them.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            241,
+            910,
+            411,
+            1027
+        ],
+        "text": "I didn't forgive them, I left it in their hands.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            110,
+            860,
+            203
+        ],
+        "text": "On that boy... or even on you.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            667,
+            645,
+            886,
+            785
+        ],
+        "text": "The distortions in this country... The crisis we're confronting is by no means a minor one.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            520,
+            1062,
+            667
+        ],
+        "text": "If the kingdom seems about to go under, I'll have no choice but to pass judgment.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            894,
+            1073,
+            1028
+        ],
+        "text": "It seems you haven't changed at all on the inside. That's a relief.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1344,
+            308,
+            1380,
+            380
+        ],
+        "text": "Pardon me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1321,
+            986,
+            1404,
+            1024
+        ],
+        "text": "...!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

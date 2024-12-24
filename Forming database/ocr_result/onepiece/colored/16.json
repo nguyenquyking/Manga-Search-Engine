@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            270,
+            699,
+            497,
+            579
+        ],
+        "text": "GUM-GUM!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            286,
+            1211,
+            368,
+            1372
+        ],
+        "text": "PSHAK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            762,
+            147,
+            849,
+            224
+        ],
+        "text": "ZAP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            980,
+            134,
+            1122,
+            334
+        ],
+        "text": "GUM-GUM...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            845,
+            909,
+            914
+        ],
+        "text": "HUFF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            975,
+            935,
+            1204,
+            1172
+        ],
+        "text": "WORO RO RO RO!! PREPOSTEROUS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            939,
+            1565,
+            1185,
+            1767
+        ],
+        "text": "SO YOU GRABBED THE LIGHTNING, EH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1743,
+            607,
+            1712,
+            834
+        ],
+        "text": "ZAP ZAAP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2352,
+            1357,
+            2527,
+            1731
+        ],
+        "text": "...LIGHT-NIIIING!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2568,
+            514,
+            2710,
+            1084
+        ],
+        "text": "RMMB!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

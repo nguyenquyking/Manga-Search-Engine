@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            508,
+            892,
+            648,
+            969
+        ],
+        "text": "If you can't keep up...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            478,
+            820,
+            596
+        ],
+        "text": "...I'm leaving you behind!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1180,
+            855,
+            1412,
+            962
+        ],
+        "text": "Wait up, Yuno, you jerk!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            93,
+            228,
+            148,
+            345
+        ],
+        "text": "...He replied, \"I don't know...\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            571,
+            146,
+            698
+        ],
+        "text": "When Endeavor was asked about One For All...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            362,
+            187,
+            433,
+            278
+        ],
+        "text": "...so that Deku and All Might...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            414,
+            534,
+            480,
+            596
+        ],
+        "text": "Hey, guys! This is nuts!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            625,
+            193,
+            703,
+            301
+        ],
+        "text": "Midoriya left a letter on my door!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            340,
+            1051,
+            692
+        ],
+        "text": "Uraraka,\nThank you for everything. I felt that I had to reveal my secret to everyone in class A, so I'm leaving these letters for you guys. My unique power was passed down to me from All Might,",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            651,
+            623,
+            723,
+            742
+        ],
+        "text": "...wouldn't have targets on their backs.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            51,
+            70,
+            154,
+            201
+        ],
+        "text": "Well, I happen to have a soft spot for boys with rough edges.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            43,
+            493,
+            125,
+            654
+        ],
+        "text": "What a boor! You want to turn our banquet hall into a battlefield?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            231,
+            67,
+            279,
+            168
+        ],
+        "text": "What do you say?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            81,
+            577,
+            177
+        ],
+        "text": "Do you... like me too?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            184,
+            648,
+            236
+        ],
+        "text": "BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            681,
+            199,
+            735,
+            279
+        ],
+        "text": "I LOVE YOU!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            382,
+            798,
+            473
+        ],
+        "text": "Untie me!! You want the truth?! The truth is...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            688,
+            640,
+            760,
+            717
+        ],
+        "text": "\"Boy\"?! Don't insult me!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            98,
+            795,
+            158
+        ],
+        "text": "EEK!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            47,
+            1023,
+            163
+        ],
+        "text": "I don't know. He rushed off with a ferocious look in his eyes...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            897,
+            476,
+            974,
+            578
+        ],
+        "text": "Where did Sanji go?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            618,
+            995,
+            712
+        ],
+        "text": "Else-where on the third floor...",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            935,
+            359,
+            959,
+            428
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

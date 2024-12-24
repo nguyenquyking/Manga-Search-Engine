@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            252,
+            57,
+            332,
+            118
+        ],
+        "text": "It feels sort of...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            108,
+            326,
+            152,
+            394
+        ],
+        "text": "My body!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            169,
+            691,
+            279
+        ],
+        "text": "Creepy-crawly!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            474,
+            585,
+            591
+        ],
+        "text": "The light is dimming!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            472,
+            213,
+            763,
+            1034
+        ],
+        "text": "RM RM RM RM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            916,
+            800,
+            984,
+            950
+        ],
+        "text": "I can tell through my connection",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1321,
+            90,
+            1480,
+            218
+        ],
+        "text": "The only way out is on the very top floor!!! Hurry!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

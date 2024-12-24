@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            109,
+            481,
+            218,
+            563
+        ],
+        "text": "Maybe so, but I can't just say...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            80,
+            482,
+            184
+        ],
+        "text": "...\"Oh, is that right?\" And back down!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            102,
+            891,
+            206
+        ],
+        "text": "We belong...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

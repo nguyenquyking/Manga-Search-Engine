@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            95,
+            1137,
+            244,
+            1314
+        ],
+        "text": "BE CAREFUL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            561,
+            589,
+            780
+        ],
+        "text": "SOME OF THEM ARE VERY DANGEROUS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            1116,
+            606,
+            1288
+        ],
+        "text": "ON THE OTHER, A THOUSAND PIRATES.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            997,
+            911,
+            1294
+        ],
+        "text": "BUT THE BATTLE LASTED LONGER THAN EXPECTED...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1095,
+            119,
+            1280,
+            400
+        ],
+        "text": "...AS KOZUKI ODEN'S STRENGTH SURPASSED THE ENEMY'S IMAGINATION...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1358,
+            1059,
+            1393,
+            1170
+        ],
+        "text": "AAAH!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1406,
+            450,
+            1537,
+            673
+        ],
+        "text": "ODEN TWO-SWORD STYLE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1913,
+            699,
+            2054,
+            923
+        ],
+        "text": "THE ONLY THING I WANT TO CUT IS YOUR SCALY NECK!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1818,
+            1104,
+            1840,
+            1320
+        ],
+        "text": "KABAM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            116,
+            1017,
+            120,
+            1040
+        ],
+        "text": "BOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            581,
+            143,
+            602,
+            195
+        ],
+        "text": "Whoa!! Dang, I hurt all over!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            25,
+            735,
+            75
+        ],
+        "text": "We're gonna get dragged in!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            489,
+            1001,
+            661,
+            1022
+        ],
+        "text": "RAAAAAAAAAAH!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

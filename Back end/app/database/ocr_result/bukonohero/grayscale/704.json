@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            455,
+            17,
+            512,
+            135
+        ],
+        "text": "Whether you like it or not!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            443,
+            279,
+            496,
+            352
+        ],
+        "text": "...I'm coming too!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            377,
+            553,
+            465
+        ],
+        "text": "...I can't stop you from going, so...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            470,
+            428,
+            538
+        ],
+        "text": "I know...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            79,
+            740,
+            156
+        ],
+        "text": "What a neat way to hold a phone.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            713,
+            197,
+            818,
+            331
+        ],
+        "text": "He may be the only one who can determine Shigaraki and the villains' location.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            895,
+            63,
+            1088,
+            226
+        ],
+        "text": "We were already considering making him the focal point of our efforts... Yes, very well. In that case, we shall follow in his wake while maintaining a safe distance...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            682,
+            616,
+            754,
+            688
+        ],
+        "text": "The boy is leaving?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            792,
+            528,
+            899,
+            644
+        ],
+        "text": "Ah, not at all! Yes, I see... Right. This works in our favor, I suppose...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

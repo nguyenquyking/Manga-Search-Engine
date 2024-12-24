@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            72,
+            71,
+            153,
+            174
+        ],
+        "text": "LAUGHING BAG? KYA HA HA HA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            349,
+            126,
+            463
+        ],
+        "text": "...OF THAT LAUGHING BAG OF A KID.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            617,
+            174,
+            733
+        ],
+        "text": "THE ONLY THING I WANT HERE IS THE LIFE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            352,
+            52,
+            445,
+            163
+        ],
+        "text": "SO YOU DARE REFER TO OUR SHOGUN BY NAME, WITHOUT HIS TITLE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            344,
+            309,
+            458,
+            421
+        ],
+        "text": "NO ONE ELSE WOULD HAVE ANY REASON TO KILL OTOKO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            449,
+            442,
+            567
+        ],
+        "text": "...BUT YOU'RE ACTUALLY AN ASSASSIN OF OROCHI'S, POSING AS A CRIMINAL, AREN'T YOU?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            322,
+            604,
+            477,
+            731
+        ],
+        "text": "KAMAZO THE MANSLAYER! THEY CALL YOU AN INDISCRIMINATE KILLER IN THE CAPITAL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            64,
+            613,
+            158
+        ],
+        "text": "AND WHO ARE YOU?! FWA FWA FWA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            703,
+            61,
+            792,
+            172
+        ],
+        "text": "I'LL DO IT FOR A GOOD MEAL AND A DRINK.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            703,
+            365,
+            810,
+            537
+        ],
+        "text": "WELL, I'D HATE TO SEE A WOMAN AND CHILD SLAUGHTERED RIGHT BEFORE MY EYES, SO...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            697,
+            603,
+            787,
+            742
+        ],
+        "text": "PLEASE, SIR SAMURAI! I BEG OF YOU-- HELP US!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            852,
+            54,
+            888,
+            122
+        ],
+        "text": "OF COURSE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            59,
+            1078,
+            152
+        ],
+        "text": "THEN YOU GOT A DEAL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1042,
+            617,
+            1128,
+            738
+        ],
+        "text": "I WILL DO ANYTHING I CAN TO THANK YOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

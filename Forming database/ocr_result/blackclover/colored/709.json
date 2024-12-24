@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            772,
+            1164,
+            753,
+            1278
+        ],
+        "text": "SCREEEE",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1274,
+            70,
+            1327,
+            629
+        ],
+        "text": "@Hawks_red_wings",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1650,
+            108,
+            1799,
+            238
+        ],
+        "text": "...was just a fragile, fleeting dream.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1455,
+            565,
+            1511,
+            681
+        ],
+        "text": "YOUR VICTORY",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1295,
+            733,
+            1509,
+            1223
+        ],
+        "text": "@colorclovers\nTHE DAMAGE\nI DID TO\nHIS BODY\nHEALED UP\nTOO!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1356,
+            1147,
+            1585,
+            1278
+        ],
+        "text": "HIS\nBONES'\nPOWER TO\nREGENERATE AND\nATTACK\nIS EVEN\nHIGHER\nNOW!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

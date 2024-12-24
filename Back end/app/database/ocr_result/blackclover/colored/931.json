@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            571,
+            533,
+            648,
+            742
+        ],
+        "text": "OUR STRENGTH...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            59,
+            855,
+            193
+        ],
+        "text": "...LIES IN NOT GIVING UP!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            1554,
+            129,
+            1940,
+            441
+        ],
+        "text": "...Off this World!!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            816,
+            1827,
+            811,
+            2016
+        ],
+        "text": "ZUUUSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            678,
+            2601,
+            1444,
+            2976
+        ],
+        "text": "...Are a human and devil who have no magic at all.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1735,
+            2295,
+            2045,
+            2592
+        ],
+        "text": "Get your dirty hands...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

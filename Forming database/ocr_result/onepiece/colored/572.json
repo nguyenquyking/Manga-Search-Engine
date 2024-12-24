@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            81,
+            20,
+            183,
+            133
+        ],
+        "text": "We just needed to find all the samurai with the mark of the moon.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            202,
+            195,
+            296
+        ],
+        "text": "But, in a sense, our mission in the capital is already complete.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            103,
+            342,
+            170,
+            419
+        ],
+        "text": "The flyers are going all over the nation.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            448,
+            176,
+            564
+        ],
+        "text": "Well, this isn't good. We can't stick around the capital anymore.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            267,
+            14,
+            354,
+            130
+        ],
+        "text": "And they're all locked up in the prison.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            486,
+            24,
+            561,
+            149
+        ],
+        "text": "The prisoners' quarters are quite large, by my estimate...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            465,
+            354,
+            540,
+            440
+        ],
+        "text": "I suppose it didn't work out that well.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            528,
+            592,
+            688
+        ],
+        "text": "I thought that Tonoyasu's sacrificial speech meant that they were considered innocent again.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            36,
+            822,
+            211
+        ],
+        "text": "...They've got a thousand locked up in there.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            946,
+            26,
+            1082,
+            143
+        ],
+        "text": "What? You think Lord Orochi's gonna admit he made a mistake?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            286,
+            1140,
+            386
+        ],
+        "text": "Why aren't we letting 'em walk?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            557,
+            1092,
+            699
+        ],
+        "text": "Hey, these are the folks we jailed because of Shogun Orochi's mistake, right?",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

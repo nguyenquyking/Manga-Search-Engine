@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            89,
+            851,
+            185,
+            1062
+        ],
+        "text": "MARI-ARSON!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            223,
+            307,
+            214,
+            449
+        ],
+        "text": "FWOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            732,
+            82,
+            885,
+            245
+        ],
+        "text": "...You're both going to look like idiots if you lose next!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            482,
+            905,
+            653
+        ],
+        "text": "After you stuck up for that pathetic Black-Leg Sanji's failure...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            719,
+            901,
+            882,
+            1049
+        ],
+        "text": "What happened to \"This won't take long\"?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1035,
+            76,
+            1142,
+            309
+        ],
+        "text": "That was a very foolish thing I just heard you say, Miss Black Maria...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            393,
+            1160,
+            583
+        ],
+        "text": "Or do you need that ghostly skeleton to put out the flames again?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1027,
+            670,
+            1183,
+            849
+        ],
+        "text": "Actually, can flowers bloom while on fire? I suppose you'll have to show me, hee hee!\u2661",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1035,
+            896,
+            1164,
+            1071
+        ],
+        "text": "Go on, little flower!! Bloom in the midst of this sea of flames!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1352,
+            976,
+            1538,
+            1062
+        ],
+        "text": "Ah! Oh no...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1455,
+            79,
+            1571,
+            305
+        ],
+        "text": "If I were you, I would be running for my life!! Yo ho ho...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

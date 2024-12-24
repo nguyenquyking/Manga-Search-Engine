@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            26,
+            225,
+            200,
+            379
+        ],
+        "text": "Was so gentle.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            98,
+            801,
+            120,
+            841
+        ],
+        "text": "His hand...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1046,
+            25,
+            1186,
+            158
+        ],
+        "text": "Next time,\nhe won't\nbe letting\ngo.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1242,
+            183,
+            1283,
+            455
+        ],
+        "text": "MY HERO ACADEMIA  No.136\nEND",
+        "panel_id": "2",
+        "type": "caption"
+    }
+]

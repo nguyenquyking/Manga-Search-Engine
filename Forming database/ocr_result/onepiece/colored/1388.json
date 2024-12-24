@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            72,
+            6,
+            136,
+            111
+        ],
+        "text": "OH?\nWHAT'S THE MATTER?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            444,
+            170,
+            598
+        ],
+        "text": "YESSSSSS!!!\nIN YOUR FACE,\nSTUPID MOSS-HEAD!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            619,
+            147,
+            704
+        ],
+        "text": "I BELIEVE\nIT IS... 320\nMILLION\nBELLY.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            242,
+            8,
+            337,
+            120
+        ],
+        "text": "OH...\nIT SAYS\nVINSMOKE\nSANJI!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            278,
+            323,
+            356,
+            406
+        ],
+        "text": "MY\nNAME\n...!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            280,
+            443,
+            336,
+            524
+        ],
+        "text": "ALL OVER\nA SILLY\nNUMBER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            50,
+            494,
+            200
+        ],
+        "text": "MY BOUNTY\nWENT DOWN...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            262,
+            518,
+            365
+        ],
+        "text": "WHATEVER\nIS THE MATTER,\nLUFFY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            533,
+            505,
+            693
+        ],
+        "text": "NWAH--?!\nAND I FEEL\nAN EVEN GLOOMIER\nAURA FROM OVER HERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            249,
+            607,
+            391
+        ],
+        "text": "IT ONLY WENT\nUP... BECAUSE OF\nGERMA'S INFAMY...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            685,
+            54,
+            733,
+            196
+        ],
+        "text": "SEE...?\n150 MILLION...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            140,
+            894,
+            298
+        ],
+        "text": "NAMI, LUFFY IS\nOUR CAPTAIN!! THIS\nIS A REFLECTION\nOF OUR BRAND!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            319,
+            886,
+            433
+        ],
+        "text": "WHAT'S THE\nHARM? A CHEAPER\nNUMBER MEANS\nLESS ATTENTION.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            450,
+            904,
+            568
+        ],
+        "text": "AND I\nJUST GOT TO\n500 MILLION",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            592,
+            912,
+            705
+        ],
+        "text": "WHY, YOU'RE\nRIGHT!! DOES\nTHAT EVEN\nHAPPEN?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1002,
+            602,
+            1068,
+            705
+        ],
+        "text": "DID YOU DO\nSOMETHING\nWRONG?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            45,
+            1010,
+            154
+        ],
+        "text": "THIS\nSUCKS!!\nWHY?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            79,
+            1098,
+            153
+        ],
+        "text": "MEAN-\nWHILE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1070,
+            528,
+            1132,
+            591
+        ],
+        "text": "THAT\nWOULD\nMAKE IT\nGO UP.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            325,
+            356,
+            352,
+            535
+        ],
+        "text": "@SoftNw3t",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            396,
+            320,
+            468,
+            397
+        ],
+        "text": "I... I'm...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            555,
+            417,
+            562
+        ],
+        "text": "...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            461,
+            26,
+            617,
+            105
+        ],
+        "text": "YOU\nARE\nEVIL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            775,
+            626,
+            840
+        ],
+        "text": "WHA-",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            320,
+            777,
+            556
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            887,
+            64,
+            943,
+            179
+        ],
+        "text": "GUILTY.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

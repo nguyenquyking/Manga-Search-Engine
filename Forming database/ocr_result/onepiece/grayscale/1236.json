@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            94,
+            80,
+            180,
+            250
+        ],
+        "text": "The Flower Capital is my Territory!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            288,
+            139,
+            386
+        ],
+        "text": "Kaido!! Wait a",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            480,
+            110,
+            556
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            612,
+            244,
+            814
+        ],
+        "text": "...that all manner of pirates around the world will call Paradise!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            879,
+            219,
+            1013
+        ],
+        "text": "...then it will transform into a lawless land...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            265,
+            443,
+            296,
+            496
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            304,
+            80,
+            444,
+            202
+        ],
+        "text": "Who do you think allowed you to make all those weapons?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

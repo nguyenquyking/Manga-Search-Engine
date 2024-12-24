@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            61,
+            183,
+            159,
+            355
+        ],
+        "text": "WE KNOW!!\nWE'LL GO\nLOOKING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            418,
+            164,
+            603
+        ],
+        "text": "MEEEEAT\n!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            651,
+            180,
+            840
+        ],
+        "text": "HUH...? IS THAT... STRAW\nHAT?! WHAT HAPPENED TO THE\nBIG BATTLE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            39,
+            891,
+            180,
+            1040
+        ],
+        "text": "I'M NOT\nLOSING\nTHE NEXT\nROUND!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            242,
+            76,
+            390,
+            270
+        ],
+        "text": "IF YOU GUYS\nDON'T WIN, I'LL\nNEVER BE ABLE\nTO LEAVE THIS\nISLAND!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            457,
+            97,
+            522,
+            274
+        ],
+        "text": "GET IT\nTOGETHER!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            171,
+            823,
+            346
+        ],
+        "text": "TAKE ME\nBACK UP\nTHERE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            902,
+            755,
+            1024
+        ],
+        "text": "MOMO\n...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            893,
+            100,
+            981,
+            190
+        ],
+        "text": "HUH\n...?!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1362,
+            90,
+            1548,
+            254
+        ],
+        "text": "TURN\nINTO A\nDRAGON...\nAND FLY\nME UP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1561,
+            411,
+            1593,
+            542
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

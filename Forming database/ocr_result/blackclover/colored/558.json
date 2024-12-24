@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            73,
+            383,
+            226,
+            504
+        ],
+        "text": "THAT'S WHY I LIVE WAY OUTSIDE THE VILLAGE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            183,
+            70,
+            236,
+            183
+        ],
+        "text": "...BY MYSELF.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            122,
+            1085,
+            179,
+            1164
+        ],
+        "text": "YOU SEE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            175,
+            628,
+            244,
+            679
+        ],
+        "text": "Whoa, poison snake.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            637,
+            781,
+            822
+        ],
+        "text": "...I'VE GOT THIS BODY THAT STEALS MAGIC AND LIFE FROM WHATEVER'S NEAR ME.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            33,
+            914,
+            155
+        ],
+        "text": "...YOU'RE NOT LOSING MAGIC OR LIFE TO ME!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            412,
+            969,
+            568
+        ],
+        "text": "BUT! YOU'VE GOT NO MAGIC, AND MAYBE BECAUSE YOU'RE A DEVIL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            14,
+            1085,
+            132
+        ],
+        "text": "SO, LISTEN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1359,
+            44,
+            1391,
+            139
+        ],
+        "text": "HUH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1363,
+            334,
+            1559,
+            476
+        ],
+        "text": "C'MON, STAY HERE AND BE MY KID!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1428,
+            1038,
+            1620,
+            1197
+        ],
+        "text": "DOESN'T THIS FEEL LIKE FATE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

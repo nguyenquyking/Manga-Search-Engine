@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            208,
+            516,
+            1095,
+            1212
+        ],
+        "text": "AIZENISLIFE\nJAKEYG21\nMIRRION\nTOSHI/MEGA MILK\nINCOMESCRANE\nBANTCHETT (LAPIS LIOZULI)\nRAVEN\nHOTEMO COFFEEMOM",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            696,
+            1475,
+            822,
+            1693
+        ],
+        "text": "SCANLATION BY:\nIN JOINT\nWITH:\nFALLEN ANGELS",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            873,
+            1383,
+            1079,
+            1666
+        ],
+        "text": "KIBYKIBY          TRANSLATOR\nGLIBLORD          PROOFREADER\nMANHHAI090, K3Y, KIRA CLEANER\nK3Y, KIRA           REDRAWER\nIZN1337           TYPESETTER\nKYOU KAI           QUALITY",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1029,
+            1273,
+            1081,
+            1351
+        ],
+        "text": "RAWS\nHEISENBERG",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1101,
+            1456,
+            1123,
+            1499
+        ],
+        "text": "NOTES",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1167,
+            1288,
+            1240,
+            1499
+        ],
+        "text": "Like us on Facebook:\nhttp://facebook.com/jaiminisbox\nhttp://facebook.com/fallenangelsmatg",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1166,
+            1524,
+            1240,
+            1650
+        ],
+        "text": "And visit:\nhttp://jaiminisbox.com\nhttp://fascans.com/",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

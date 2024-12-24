@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            81,
+            468,
+            170,
+            568
+        ],
+        "text": "I'm sorry. Everything turned so horrible so fast!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            177,
+            396,
+            227
+        ],
+        "text": "FWSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            415,
+            344,
+            512,
+            504
+        ],
+        "text": "I bet... Everyone else is just as scared...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            255,
+            657,
+            317
+        ],
+        "text": "VROOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            695,
+            112,
+            749,
+            218
+        ],
+        "text": "Sorry, but I'd better get going...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            488,
+            822,
+            588
+        ],
+        "text": "I wonder if it'll ever all go back to normal.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            400,
+            997,
+            447
+        ],
+        "text": "Huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1057,
+            624,
+            1115,
+            677
+        ],
+        "text": "I'll make it so.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

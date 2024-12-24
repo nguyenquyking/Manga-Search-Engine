@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            102,
+            63,
+            98,
+            189
+        ],
+        "text": "FUOOOH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            98,
+            675,
+            308,
+            1048
+        ],
+        "text": "This time...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            552,
+            54,
+            718,
+            282
+        ],
+        "text": "FUOOOH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            917,
+            621,
+            1081,
+            809
+        ],
+        "text": "...it truly is over.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1018,
+            913,
+            1050,
+            1177
+        ],
+        "text": "@COLORCLOVERS",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1575,
+            1133,
+            1585,
+            1256
+        ],
+        "text": "FUOOOH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

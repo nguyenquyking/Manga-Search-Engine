@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            104,
+            406,
+            104,
+            477
+        ],
+        "text": "Dak",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            471,
+            1427,
+            446,
+            1546
+        ],
+        "text": "Grunch",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            877,
+            753,
+            884,
+            829
+        ],
+        "text": "Dak",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1254,
+            752,
+            1306,
+            857
+        ],
+        "text": "Whirr",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2029,
+            1490,
+            2156,
+            1455
+        ],
+        "text": "Shining",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

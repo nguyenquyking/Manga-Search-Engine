@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            75,
+            73,
+            178,
+            202
+        ],
+        "text": "HELMSMAN OF THE STRAW HAT CREW!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            225,
+            164,
+            341
+        ],
+        "text": "I'D PREFER MY MORE PRESTIGIOUS TITLE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            149,
+            435,
+            287,
+            575
+        ],
+        "text": "HAVE A LITTLE PRIDE, FORMER WARLORD OF THE SEA.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            139,
+            1191,
+            257,
+            1372
+        ],
+        "text": "WELL, GREAT. STRAW HAT'S GONE ON, AND HE'S SURE TO BOTHER KAIDO NOW.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            299,
+            1318,
+            396,
+            1445
+        ],
+        "text": "WOULD YOU STOP PICKING ON MY SUBORDINATES?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            137,
+            583,
+            232
+        ],
+        "text": "...BECAUSE I SAW YOU ONCE WHEN YOU WERE A WARLORD...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            261,
+            577,
+            363
+        ],
+        "text": "OH, PARDON ME. I ONLY THOUGHT OF THAT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            59,
+            687,
+            142
+        ],
+        "text": "BUT THAT DOESN'T MATTER.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            108,
+            897,
+            227
+        ],
+        "text": "HEH... TOO BAD YOU'LL NEVER SEE IT.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            264,
+            899,
+            396
+        ],
+        "text": "MAYBE IF I SEE YOUR FACE, I'LL RECOGNIZE YOU.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            530,
+            885,
+            543,
+            973
+        ],
+        "text": "TOBI ROPPO",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            651,
+            840,
+            725,
+            1020
+        ],
+        "text": "CAT-CAT FRUIT\nANCIENT TYPE\nSABER-TOOTHED TIGER\nMODEL",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            60,
+            1398,
+            160,
+            1497
+        ],
+        "text": "BIG CAT CAF\u00c9,\nFOURTH FLOOR",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

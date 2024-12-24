@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            42,
+            161,
+            132,
+            271
+        ],
+        "text": "How... How did you cut off my arm?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            417,
+            149,
+            657
+        ],
+        "text": "SPLURT!!\nAAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            113,
+            70,
+            209,
+            157
+        ],
+        "text": "The damage should have gone to...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            293,
+            81,
+            395,
+            193
+        ],
+        "text": "...No left arm!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            289,
+            470,
+            354,
+            563
+        ],
+        "text": "Kid has...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            57,
+            716,
+            173
+        ],
+        "text": "That's the last one!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            642,
+            275,
+            683,
+            368
+        ],
+        "text": "Congratulations...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            782,
+            39,
+            875,
+            123
+        ],
+        "text": "Dammit, I didn't count on this!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            435,
+            681,
+            541
+        ],
+        "text": "...Are protecting your own?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            584,
+            660,
+            674
+        ],
+        "text": "Second question.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            905,
+            49,
+            1035,
+            260
+        ],
+        "text": "BAM!!\nDeath, upright.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            961,
+            276,
+            1037,
+            362
+        ],
+        "text": "Straw-man card...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1048,
+            457,
+            1099,
+            519
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            700,
+            579,
+            1094,
+            730
+        ],
+        "text": "Once I take this one out,\nhow many more lives...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

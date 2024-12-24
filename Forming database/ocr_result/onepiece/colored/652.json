@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            366,
+            20,
+            475,
+            143
+        ],
+        "text": "WE'RE FACING AN UNPREDICTABLE DISASTER!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            366,
+            175,
+            462,
+            257
+        ],
+        "text": "SAVE YOURSELVES!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            390,
+            558,
+            470,
+            704
+        ],
+        "text": "EVACUATE!! ABANDON POSTS!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            408,
+            334,
+            427,
+            517
+        ],
+        "text": "\u2026 AAAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            760,
+            236,
+            861,
+            339
+        ],
+        "text": "THAT OSHIRUKO SURE WAS TASTY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            443,
+            855,
+            559
+        ],
+        "text": "I WISH I COULD EAT THAT STUFF AGAIN TOO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            608,
+            872,
+            689
+        ],
+        "text": "OH, I TOTALLY GET WHY SHE'S SAD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            210,
+            991,
+            308
+        ],
+        "text": "STRAW HAT FELLOW! DON'T!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            55,
+            798,
+            142
+        ],
+        "text": "HMM?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1032,
+            665,
+            1044,
+            670
+        ],
+        "text": "\u2026",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

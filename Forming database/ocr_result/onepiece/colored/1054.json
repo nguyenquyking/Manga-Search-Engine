@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            72,
+            19,
+            138,
+            106
+        ],
+        "text": "That... little dragon?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            268,
+            142,
+            391
+        ],
+        "text": "What?! Lord Momonosuke?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            442,
+            136,
+            541
+        ],
+        "text": "Lord Momonosuke!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            628,
+            86,
+            691
+        ],
+        "text": "OHHH...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            378,
+            70,
+            444,
+            226
+        ],
+        "text": "That looks like it's over Okobore Town!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            381,
+            316,
+            480,
+            434
+        ],
+        "text": "Of all things, to take the form of a hateful dragon!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            456,
+            462,
+            584
+        ],
+        "text": "But yes, he has fallen into this dreadful state!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            608,
+            451,
+            696
+        ],
+        "text": "I shall explain it later!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            697,
+            76,
+            799,
+            259
+        ],
+        "text": "If there's anyone who doesn't have the right to criticize me, it's the Straw Hat Pirates!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            324,
+            800,
+            453
+        ],
+        "text": "As a matter of fact, Straw Hat, Zoro and I all blew our cover there...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            475,
+            778,
+            552
+        ],
+        "text": "Oh! Sorry, Kin'emon.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            697,
+            587,
+            823,
+            699
+        ],
+        "text": "Why would Kaido appear in Kuri without warning?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            852,
+            326,
+            931,
+            392
+        ],
+        "text": "You what?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1050,
+            199,
+            1135,
+            276
+        ],
+        "text": "Oh... It must be Luffy's fault.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            317,
+            1140,
+            427
+        ],
+        "text": "What kind of shoddy operation are you running, Law?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1074,
+            32,
+            1131,
+            123
+        ],
+        "text": "Whatever it is, we're sorry.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

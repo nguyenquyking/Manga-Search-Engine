@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            29,
+            84,
+            40,
+            128
+        ],
+        "text": "SWIF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            115,
+            60,
+            235,
+            115
+        ],
+        "text": "We'll do the count three hours from now.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            188,
+            252,
+            273,
+            347
+        ],
+        "text": "Let's keep this simple and decide it by sales, shall we?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            424,
+            168,
+            494
+        ],
+        "text": "Heh heh heh. He doesn't know when to give up.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            588,
+            140,
+            674
+        ],
+        "text": "Well, well. They really did show up.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            61,
+            471,
+            135
+        ],
+        "text": "Splendid. Well then...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            308,
+            502,
+            364
+        ],
+        "text": "Fine by me.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            605,
+            475,
+            690
+        ],
+        "text": "Whoever's sold the most by then wins.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            596,
+            125,
+            672,
+            182
+        ],
+        "text": "Two soba bowls here!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            34,
+            760,
+            182
+        ],
+        "text": "WSH-",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            661,
+            437,
+            761,
+            522
+        ],
+        "text": "Let the soba battle...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            964,
+            401,
+            989,
+            497
+        ],
+        "text": "Begin!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1014,
+            82,
+            1071,
+            132
+        ],
+        "text": "One bowl here!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

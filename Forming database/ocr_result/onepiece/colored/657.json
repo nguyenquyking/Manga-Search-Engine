@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            54,
+            506,
+            102,
+            561
+        ],
+        "text": "KSHAK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            160,
+            665,
+            174,
+            720
+        ],
+        "text": "SWISH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            216,
+            166,
+            196,
+            220
+        ],
+        "text": "BO-BOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            602,
+            57,
+            710,
+            136
+        ],
+        "text": "Wow, what did I do?! Woo-hoo!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            608,
+            160,
+            688,
+            243
+        ],
+        "text": "I got the collars off, Gramps!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            601,
+            287,
+            667,
+            354
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            407,
+            669,
+            492
+        ],
+        "text": "What?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            603,
+            554,
+            648,
+            611
+        ],
+        "text": "Gunf!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            898,
+            69,
+            969,
+            171
+        ],
+        "text": "We gotta scram, Gramps!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            361,
+            975,
+            457
+        ],
+        "text": "Did you dodge me again...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1074,
+            488,
+            1118,
+            575
+        ],
+        "text": "He just used--!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1052,
+            661,
+            1126,
+            741
+        ],
+        "text": "I don't believe it...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

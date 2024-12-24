@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            123,
+            173,
+            272,
+            331
+        ],
+        "text": "What was going through your head...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            103,
+            700,
+            266
+        ],
+        "text": "...This whole time in school with us?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            935,
+            77,
+            1114,
+            221
+        ],
+        "text": "Say something, Aoyama!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            282,
+            1049,
+            367
+        ],
+        "text": "Well?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            594,
+            1037,
+            759
+        ],
+        "text": "Living in the dorms with us, even?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

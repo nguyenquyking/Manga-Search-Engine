@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            133,
+            20,
+            185,
+            104
+        ],
+        "text": "ERASURE\nIS STILL IN\nEFFECT!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            163,
+            237,
+            198,
+            314
+        ],
+        "text": "I'M STILL\nSTARING!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            152,
+            529,
+            179,
+            592
+        ],
+        "text": "PHANTOM\nTHIEF!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            249,
+            102,
+            269,
+            204
+        ],
+        "text": "\"THIS IS MONOMA\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            399,
+            52,
+            449,
+            124
+        ],
+        "text": "JUST MY\nBODY ON\nITS OWN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            415,
+            206,
+            446,
+            279
+        ],
+        "text": "...SIMPLE\nGROWTH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            345,
+            309,
+            378,
+            340
+        ],
+        "text": "THIS\nIS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            366,
+            620,
+            437,
+            673
+        ],
+        "text": "IS IT\nNOT A\nQUIRK\nTHEN?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            85,
+            641,
+            188
+        ],
+        "text": "THE SAME\nWAY MY\nHAIR...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            632,
+            337,
+            624,
+            432
+        ],
+        "text": "RMMMBBEL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            696,
+            2,
+            719,
+            206
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            723,
+            567,
+            783,
+            673
+        ],
+        "text": "...OR NAILS\nGROW\nLONGER.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            859,
+            123,
+            949,
+            239
+        ],
+        "text": "...IS THE NEXT\nSTEP FOR\nA SUPER-\nPOWERED\nSOCIETY...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1000,
+            44,
+            1090,
+            155
+        ],
+        "text": "IN LINE\nWITH THE\nSINGULARITY\nPROPOSED BY\nGARAKI...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            998,
+            342,
+            1071,
+            437
+        ],
+        "text": "THIS NEW\nFORM THAT\nHUMANITY\nACQUIRES...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            924,
+            575,
+            1014,
+            675
+        ],
+        "text": "THE BODY\nMUST ADAPT\nTO EVER-\nEVOLVING\nQUIRKS.",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

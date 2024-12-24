@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            11,
+            12,
+            20,
+            300
+        ],
+        "text": "2021\u5e741\u670815-16\u65e5\u767a\u884c2020\u5e7412\u670821\u65e5(\u6708)\u767a\u58f2\u7b2c54\u5dfb\u7b2c3\u53f7\u901a\u5dfb2583\u53f7",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            50,
+            50,
+            78,
+            169
+        ],
+        "text": "TCBSCANS.COM",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            553,
+            108,
+            624,
+            270
+        ],
+        "text": "No.3-4",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            622,
+            84,
+            663,
+            194
+        ],
+        "text": "1\u670815\u30fb16\u65e5\u5408\u4f75\u7279\u5927\u53f7\n\u7279\u5225\u5b9a\u4fa1300\u5186",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            7,
+            918,
+            18,
+            1164
+        ],
+        "text": "2021\u5e741\u670822-23\u65e5\u767a\u884c1\u67084\u65e5(\u6708)\u767a\u58f2\u7b2c54\u5dfb\u7b2c4\u53f7\u901a\u5dfb2584\u53f7",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            468,
+            1683,
+            575,
+            1796
+        ],
+        "text": "No.5-6\n1\u670822\u30fb23\u65e5\u5408\u4f75\u7279\u5927\u53f7\n\u7279\u5225\u5b9a\u4fa1300\u5186",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            106,
+            273,
+            133,
+            487
+        ],
+        "text": "WEEKLY JUMP",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            104,
+            1186,
+            128,
+            1400
+        ],
+        "text": "WEEKLY JUMP",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            135,
+            270,
+            154,
+            1380
+        ],
+        "text": "https://www.shonenjump.com",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            217,
+            1537,
+            236,
+            1778
+        ],
+        "text": "1000LOGS\u30dd\u30b9\u30bf\u30fc!!",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            244,
+            1382,
+            288,
+            1477
+        ],
+        "text": "We Were Born\n\u767d\u4e95\u30ab\u30a4\u30a6\n\u51fa\u6c34\u307d\u3059\u304b",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            951,
+            320,
+            986,
+            507
+        ],
+        "text": "1000\u8a71\u76ee\u524d!",
+        "panel_id": "6",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            958,
+            1071,
+            982,
+            1139
+        ],
+        "text": "ONE PIECE\n1000\u8a71",
+        "panel_id": "6",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            985,
+            1272,
+            1033,
+            1427
+        ],
+        "text": "ONE PIECE\n1000\u8a71\u8a18\u5ff5!!",
+        "panel_id": "7",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1121,
+            311,
+            1267,
+            1562
+        ],
+        "text": "ONE PIECE\nONE PIECE",
+        "panel_id": "8",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1233,
+            970,
+            1290,
+            1261
+        ],
+        "text": "1000\u8a71\u8a18\u5ff5!",
+        "panel_id": "8",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1229,
+            1683,
+            1242,
+            1787
+        ],
+        "text": "\u9280\u9b42 THE FINAL",
+        "panel_id": "9",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1272,
+            246,
+            1284,
+            349
+        ],
+        "text": "\u516c\u958b\u76f4\u524d\u8a18\u5ff5!!",
+        "panel_id": "10",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1264,
+            360,
+            1288,
+            883
+        ],
+        "text": "\u30b9\u30da\u30b7\u30e3\u30eb\u30dd\u30b9\u30bf\u30fc",
+        "panel_id": "10",
+        "type": "background"
+    }
+]

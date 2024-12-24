@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            101,
+            283,
+            156,
+            399
+        ],
+        "text": "Quit it, Aoyama!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            132,
+            633,
+            259,
+            744
+        ],
+        "text": "I fell into...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            85,
+            638,
+            285
+        ],
+        "text": "...utter despair!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            674,
+            522,
+            725,
+            671
+        ],
+        "text": "NAVEL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            72,
+            980,
+            176
+        ],
+        "text": "ONE FOR ALL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

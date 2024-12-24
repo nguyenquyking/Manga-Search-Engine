@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            24,
+            71,
+            385,
+            593
+        ],
+        "text": "ZzzT ZzzT ZzzT...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            78,
+            624,
+            211,
+            775
+        ],
+        "text": "I NEED TO HAVE A WORD WITH YOU!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            995,
+            205,
+            1172
+        ],
+        "text": "I SAY, WHAT WAS THAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            622,
+            464,
+            696
+        ],
+        "text": "Hmm?!",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            92,
+            1704,
+            278,
+            2147
+        ],
+        "text": "Dwaaa!!! Grssshhh",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            159,
+            2357,
+            199,
+            2457
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            915,
+            238,
+            1057,
+            391
+        ],
+        "text": "They're not even touching!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

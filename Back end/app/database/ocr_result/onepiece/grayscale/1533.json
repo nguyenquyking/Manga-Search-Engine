@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            110,
+            131,
+            280,
+            362
+        ],
+        "text": "If you are the type of man who stops now...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            456,
+            263,
+            617
+        ],
+        "text": "No, Oden!! You will go!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            738,
+            259,
+            944
+        ],
+        "text": "We will stay here with her, Lord Oden!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            110,
+            1023,
+            226,
+            1356
+        ],
+        "text": "Kin'emon and the others don't know about Lady Toki.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            349,
+            165,
+            527,
+            421
+        ],
+        "text": "...Then I'm getting a divorce!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            386,
+            699,
+            540,
+            840
+        ],
+        "text": "I'm staying too, of course!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            120,
+            905,
+            380
+        ],
+        "text": "If you truly care for Oden...then I beg of you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            455,
+            861,
+            599
+        ],
+        "text": "Wait!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            710,
+            659,
+            876,
+            813
+        ],
+        "text": "...In fact, all of Wano is-",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            686,
+            848,
+            876,
+            1071
+        ],
+        "text": "You left Kuri in our hands when you departed, and now...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            697,
+            1128,
+            887,
+            1352
+        ],
+        "text": "It is so very good to see you again at last, Lord Oden!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1010,
+            103,
+            1092,
+            188
+        ],
+        "text": "Let him...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1434,
+            345,
+            1620,
+            535
+        ],
+        "text": "...I knew that some ominous change was afoot.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1434,
+            583,
+            1585,
+            754
+        ],
+        "text": "Even as I turned my back on Wano...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1427,
+            967,
+            1617,
+            1332
+        ],
+        "text": "I will be leaving again!! For quite some time!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1894,
+            311,
+            2067,
+            550
+        ],
+        "text": "I could sense that if I turned back, I would never again go to sea.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1941,
+            93,
+            2002,
+            253
+        ],
+        "text": "Scoundrel!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

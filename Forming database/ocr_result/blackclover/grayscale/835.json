@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            136,
+            79,
+            248,
+            174
+        ],
+        "text": "I WON'T ALLOW THAT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            1430,
+            231,
+            1550
+        ],
+        "text": "I swear I'll grind you into a bloody pulp!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            430,
+            1169,
+            692,
+            1273
+        ],
+        "text": "Your companions too!!! Every human in this world-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            874,
+            48,
+            1009,
+            448
+        ],
+        "text": "YOU HAVE VAST MAGIC, AND WHAT YOU FEAR...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            926,
+            1008,
+            1053
+        ],
+        "text": "I CAN AT LEAST HOLD YOU FOR A MOMENT!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

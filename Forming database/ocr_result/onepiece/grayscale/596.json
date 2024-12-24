@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            70,
+            50,
+            212,
+            182
+        ],
+        "text": "SHAAAA!!!\nPEW!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            53,
+            619,
+            138,
+            707
+        ],
+        "text": "PERFORMANCE\nFLOOR,\nINSIDE THE\nCASTLE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            385,
+            106,
+            512,
+            208
+        ],
+        "text": "BOOM!\nRAAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            545,
+            396,
+            614,
+            445
+        ],
+        "text": "HEY!!\nYOU'RE\nGOING\nPRETTY\nDEEP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            545,
+            601,
+            619,
+            718
+        ],
+        "text": "I BET FRANKY\nWOULD LOVE TO\nGET HIS HANDS\nON THAT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            176,
+            609,
+            241
+        ],
+        "text": "OH!! I'M\nSORRY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            64,
+            827,
+            209
+        ],
+        "text": "ARE\nYOU SURE\nTHIS--\nAAAAH!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            349,
+            798,
+            462
+        ],
+        "text": "AH, GOOD\nPOINT!\nWELL...HERE\nGOES!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            701,
+            501,
+            802,
+            603
+        ],
+        "text": "TAKE\nTHEM OFF\nBEFORE\nYOU INJECT\nME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            630,
+            790,
+            726
+        ],
+        "text": "IT'S\nJUST, THESE\nBANDAGES\nARE SO\nTHICK...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1107,
+            83,
+            1132,
+            131
+        ],
+        "text": "AAAAAAAA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

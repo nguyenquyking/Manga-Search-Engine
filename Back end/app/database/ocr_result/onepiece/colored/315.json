@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            63,
+            76,
+            144,
+            224
+        ],
+        "text": "KUN-YUUUU!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            229,
+            96,
+            319,
+            207
+        ],
+        "text": "EEEK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            107,
+            659,
+            206,
+            854
+        ],
+        "text": "FREESIA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            908,
+            183,
+            1045
+        ],
+        "text": "YES, I KNOW. IT'S SUCH A SHAME...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            719,
+            889,
+            805,
+            1042
+        ],
+        "text": "TRES MANO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            892,
+            85,
+            903,
+            190
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            898,
+            380,
+            929,
+            499
+        ],
+        "text": "BE-BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1040,
+            210,
+            1079,
+            299
+        ],
+        "text": "BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1056,
+            776,
+            1072,
+            861
+        ],
+        "text": "BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            980,
+            900,
+            1094,
+            1042
+        ],
+        "text": "WHY DIDN'T...THE ILLUSION MIST...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1318,
+            65,
+            1424,
+            179
+        ],
+        "text": "...WORK ON HER...?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1487,
+            99,
+            1559,
+            241
+        ],
+        "text": "TENJO-SAGARI\nWHITE SNAKE\nSMILE FRUIT",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1338,
+            342,
+            1411,
+            459
+        ],
+        "text": "KUN-YUUN!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1489,
+            448,
+            1523,
+            633
+        ],
+        "text": "NUMBERS\nKUNYUN",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1512,
+            803,
+            1546,
+            998
+        ],
+        "text": "NURE-ONNA\nHOGNOSE SNAKE\nSMILE FRUIT",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

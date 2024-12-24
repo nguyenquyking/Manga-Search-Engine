@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            58,
+            132,
+            118,
+            214
+        ],
+        "text": "ZWAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            644,
+            170,
+            847,
+            450
+        ],
+        "text": "...hundred of them.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            266,
+            1412,
+            345,
+            1570
+        ],
+        "text": "A full...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            613,
+            2212,
+            880,
+            2420
+        ],
+        "text": "Dark disciples who died to amuse Vanica and myself sleep below the tower.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1021,
+            1795,
+            1324,
+            2050
+        ],
+        "text": "I will imbue them with the power of devils...and that of Acier Silva and Vanica, whose souls I hold.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1580,
+            2039,
+            1731,
+            2195
+        ],
+        "text": "Living corpses of blood and steel.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1761,
+            2340,
+            1753,
+            2445
+        ],
+        "text": "SKREEK",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

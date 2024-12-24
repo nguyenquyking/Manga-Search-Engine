@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            104,
+            42,
+            193,
+            173
+        ],
+        "text": "I wasn't talking to you!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            545,
+            195,
+            635
+        ],
+        "text": "GACK!\n?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            309,
+            85,
+            386,
+            234
+        ],
+        "text": "HEADLINER\nBEASTS PIRATES\nHOLDEM\nLION SMILE FRUIT",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            316,
+            583,
+            394,
+            710
+        ],
+        "text": "DON'T LOOK\nBACK AT MY\nFACE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            42,
+            698,
+            136
+        ],
+        "text": "WAAAH!\nHE'S\nSCARY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            282,
+            1134,
+            367
+        ],
+        "text": "HE HAS\nA LION\nON HIS\nTUMMY!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

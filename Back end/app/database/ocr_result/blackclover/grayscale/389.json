@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1252,
+            380,
+            1414,
+            540
+        ],
+        "text": "This vast quantity of information is why they are called \"All-Knowing Priestesses.\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1176,
+            915,
+            1360,
+            1011
+        ],
+        "text": "The Princesses of the Heart Kingdom inherit the power...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1356,
+            771,
+            1513,
+            906
+        ],
+        "text": "...of former princesses, including their knowledge and experience.",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

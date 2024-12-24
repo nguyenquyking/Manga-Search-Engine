@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            54,
+            53,
+            149,
+            190
+        ],
+        "text": "That was Pirate-Hunter on the snail just now, wasn't it?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            488,
+            107,
+            568
+        ],
+        "text": "Mwa ha ha ha!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            42,
+            619,
+            136,
+            737
+        ],
+        "text": "Pleasure Hall,\nLeftbrain Tower,\nSkull Dome",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            206,
+            81,
+            267,
+            179
+        ],
+        "text": "Trust me, he can't beat King!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            57,
+            456,
+            162
+        ],
+        "text": "A monster capable of surviving...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            522,
+            53,
+            578,
+            163
+        ],
+        "text": "...in any natural environment!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            366,
+            446,
+            433,
+            547
+        ],
+        "text": "That guy's a remnant...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            498,
+            446,
+            583,
+            555
+        ],
+        "text": "...of the extinct Lunarians!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            370,
+            684,
+            378,
+            706
+        ],
+        "text": "...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            94,
+            753,
+            205
+        ],
+        "text": "Go ask a history book!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            286,
+            770,
+            369
+        ],
+        "text": "You wanna know?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            410,
+            774,
+            531
+        ],
+        "text": "Then why would they have died out?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            674,
+            640,
+            751,
+            718
+        ],
+        "text": "In the distant past...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            796,
+            128,
+            808,
+            179
+        ],
+        "text": "KSHING!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            820,
+            601,
+            832,
+            638
+        ],
+        "text": "RAAAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1017,
+            613,
+            1087,
+            738
+        ],
+        "text": "...His people were known as Gods!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

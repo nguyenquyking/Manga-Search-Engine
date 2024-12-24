@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            36,
+            167,
+            84,
+            428
+        ],
+        "text": "CRACK CRACK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            145,
+            69,
+            220,
+            167
+        ],
+        "text": "AAAGH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            492,
+            166,
+            632
+        ],
+        "text": "WHOAAAA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            693,
+            176,
+            800
+        ],
+        "text": "HEY!\nDON'T\nSHOUT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            839,
+            172,
+            980
+        ],
+        "text": "MOMO!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            77,
+            724,
+            245
+        ],
+        "text": "OR FIGHT\nUS NOW\nAND DIE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            587,
+            293,
+            748,
+            502
+        ],
+        "text": "MAKE YOUR\nCHOICE NOW,\nSAMURAI!!!\nJOIN US AND BE\nPIRATES!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            568,
+            581,
+            720,
+            749
+        ],
+        "text": "BUT WHY?!\nTHEY'VE BEEN\nALLIES FOR\nYEARS AND\nYEARS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            834,
+            716,
+            958
+        ],
+        "text": "HE JUST\nKILLED\nSHOGUN\nOROCHI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            90,
+            1284,
+            280
+        ],
+        "text": "TONIGHT,\nWE MOVE\nONIGASHIMA",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1172,
+            418,
+            1300,
+            658
+        ],
+        "text": "WE'LL BE\nRANGING OUT FOR\nMORE PROPER\nRAIDS!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1204,
+            752,
+            1480,
+            976
+        ],
+        "text": "WE ARE\nTURNING THIS\nCOUNTRY INTO A\nPIRATE EMPIRE\nIN PREPARATION\nFOR THE\nCOMING WORLD\nWAR!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

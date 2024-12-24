@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            648,
+            71,
+            946,
+            202
+        ],
+        "text": "I CAN'T BEAT THIS GUY ON MY OWN.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            587,
+            767,
+            665,
+            894
+        ],
+        "text": "NO GOOD.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            1171,
+            614,
+            1166
+        ],
+        "text": "PHEW...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1308,
+            1050,
+            1392,
+            1164
+        ],
+        "text": "HE DOESN'T DIE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1415,
+            101,
+            1461,
+            220
+        ],
+        "text": "HEY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1547,
+            393,
+            1713,
+            543
+        ],
+        "text": "HE'S ALSO CRAZY AND GROSS,\nAND HIS POWER'S ENDLESS.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

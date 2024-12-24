@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            28,
+            766,
+            70,
+            856
+        ],
+        "text": "A BIT EARLIER",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            542,
+            163,
+            736
+        ],
+        "text": "ABOUT 30 METERS BEHIND THE GUNGA VILLA FRONT LINE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            340,
+            93,
+            410,
+            246
+        ],
+        "text": "OH NO Y'DON'T, TSUKUYOMI!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            606,
+            533,
+            655
+        ],
+        "text": "FWSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            583,
+            624,
+            621,
+            867
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            944,
+            853,
+            954,
+            886
+        ],
+        "text": "ZRM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1097,
+            513,
+            1124,
+            634
+        ],
+        "text": "DON'T...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1209,
+            58,
+            1312,
+            201
+        ],
+        "text": "...DITCH THIS RIDE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

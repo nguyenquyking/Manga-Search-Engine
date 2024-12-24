@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            133,
+            772,
+            244,
+            842
+        ],
+        "text": "\u53e4\u4ee3\u907a\u7269\u3068\n\u53e4\u4ee3\u907a\u7269\u3068",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            247,
+            466,
+            278,
+            572
+        ],
+        "text": "DEAD END",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            576,
+            598,
+            665,
+            665
+        ],
+        "text": "\u5927\u30a4\u30ab\n\u91d1\u7523\u307f\u306e",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            497,
+            829,
+            586,
+            899
+        ],
+        "text": "\u8fd1\u5834\u306e\u304a\u5b9d\u3060\u3068\n\u4e0d\u6b7b\u306e\u5b9d\u7389\u3068",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            820,
+            859,
+            859,
+            926
+        ],
+        "text": "\u6b21\u306e\u5927\u5192\u967a!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

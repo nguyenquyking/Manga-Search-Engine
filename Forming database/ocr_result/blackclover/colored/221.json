@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            663,
+            156,
+            694,
+            505
+        ],
+        "text": "Team: @Color Clovers",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            807,
+            11,
+            896,
+            123
+        ],
+        "text": "WHAT'S GOING ON...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            584,
+            828,
+            638
+        ],
+        "text": "KYA AA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            786,
+            878,
+            868
+        ],
+        "text": "WHAT...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1003,
+            96,
+            1032,
+            624
+        ],
+        "text": "Artist Twitter:@shawnfrostmax11",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1147,
+            69,
+            1170,
+            144
+        ],
+        "text": "AHHHH~",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

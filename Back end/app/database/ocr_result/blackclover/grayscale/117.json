@@ -1,0 +1,244 @@
+[
+    {
+        "text_box": [
+            33,
+            775,
+            81,
+            857
+        ],
+        "text": "BAM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            56,
+            550,
+            115,
+            724
+        ],
+        "text": "IT WAS A SUPER-CLOSE RACE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            70,
+            233,
+            566
+        ],
+        "text": "THE 3RD MAGIC KNIGHT GENERAL ELECTION RESULTS!",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            265,
+            83,
+            315,
+            919
+        ],
+        "text": "THIS CHARACTER POPULARITY POLL WAS WHITE-HOT ONCE AGAIN!! ON THIS PAGE, YOU'LL FIND THE CHARACTERS WHO",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            380,
+            170,
+            531,
+            512
+        ],
+        "text": "11th Fuegoleon Vermillion\n719 votes",
+        "panel_id": "4",
+        "type": "character_info"
+    },
+    {
+        "text_box": [
+            552,
+            215,
+            699,
+            515
+        ],
+        "text": "A MAN WHO REVIVED, CLOAKED IN THE FLAME, SPIRIT, AND IS LITERALLY ON FIRE! HOWEVER, THE OTHER CHARACTERS' DYNAMIC EXPLOITS OVERSHADOWED HIM THIS TIME AROUND, AND HE JUST BARELY MISSED MAKING IT INTO THE TOP TEN!! WILL HE MAKE A COMEBACK?!",
+        "panel_id": "4",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            376,
+            703,
+            532,
+            944
+        ],
+        "text": "12th Magna Swing\n689 votes",
+        "panel_id": "5",
+        "type": "character_info"
+    },
+    {
+        "text_box": [
+            555,
+            712,
+            700,
+            989
+        ],
+        "text": "DUE TO HIS FIGHT WITH LUCK AND HIS FIERY ACTION IN THE ANIME'S ROYAL KNIGHTS SELECTION ARC, MAGNA'S PICKED UP EVEN MORE SUPPORTERS THAN LAST TIME! HOPES ARE HIGH THAT HE'LL KEEP CLIMBING THE RANKS!!",
+        "panel_id": "5",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            724,
+            85,
+            787,
+            351
+        ],
+        "text": "13th Julius Novachrono",
+        "panel_id": "6",
+        "type": "character_info"
+    },
+    {
+        "text_box": [
+            740,
+            402,
+            769,
+            647
+        ],
+        "text": "14th Nozel Silva",
+        "panel_id": "6",
+        "type": "character_info"
+    },
+    {
+        "text_box": [
+            742,
+            782,
+            769,
+            966
+        ],
+        "text": "15th Zora Ideale",
+        "panel_id": "6",
+        "type": "character_info"
+    },
+    {
+        "text_box": [
+            972,
+            75,
+            1104,
+            365
+        ],
+        "text": "618 votes\nTHE ULTIMATE MAGE, THE WIZARD KING!! EVEN THOUGH IT'S BEEN A WHILE SINCE HE WAS LAST SEEN IN ACTION, HIS HUMANITY AND SKILLS WON HIM OVERWHELMING SUPPORT!!",
+        "panel_id": "7",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            980,
+            381,
+            1088,
+            671
+        ],
+        "text": "1552 votes\nHIS TOP-TIER POWER AND HIS BOND WITH HIS SISTER NOELLE ATTRACTED VOTES! WILL THE ALMIGHTY MAGE SHINE EVEN BRIGHTER NEXT TIME?!",
+        "panel_id": "7",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            976,
+            699,
+            1100,
+            990
+        ],
+        "text": "467 votes\nHE MAY BE SARCASTIC, BUT THIS GUY TRIES HARDER TO BE A MAGIC KNIGHT THAN ANYONE ELSE! HIS SURPRISINGLY STRAIGHTFORWARD PERSONALITY AND HIS ENTHUSIASM MADE HIM POPULAR!",
+        "panel_id": "7",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1139,
+            87,
+            1404,
+            277
+        ],
+        "text": "16th Nero\n420 votes",
+        "panel_id": "8",
+        "type": "character_info"
+    },
+    {
+        "text_box": [
+            1424,
+            74,
+            1508,
+            670
+        ],
+        "text": "THE VOTING PERIOD ENDED BEFORE THE FORBIDDEN MAGIC CAME UNDONE AND SHE REGAINED HER HUMAN FORM. EVEN SO, SHE PICKED UP A LOT OF VOTES!",
+        "panel_id": "8",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1137,
+            395,
+            1404,
+            620
+        ],
+        "text": "17th Kahono\n401 votes",
+        "panel_id": "8",
+        "type": "character_info"
+    },
+    {
+        "text_box": [
+            1424,
+            370,
+            1508,
+            667
+        ],
+        "text": "THE SONGSTRESS OF THE UNDER-WATER TEMPLE WHO BECAME CLOSE FRIENDS WITH ASTA AND NOELLE WAS TENACIOUSLY POPULAR IN THIS CONTEST TOO!!",
+        "panel_id": "8",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1131,
+            767,
+            1401,
+            960
+        ],
+        "text": "18th Finral Roulacase\n329 votes",
+        "panel_id": "8",
+        "type": "character_info"
+    },
+    {
+        "text_box": [
+            1424,
+            699,
+            1508,
+            983
+        ],
+        "text": "HIS FIGHT TO SAVE HIS LITTLE BROTHER LANGRIS, WHOSE BODY HAD BEEN HIJACKED BY THE ELVES, WAS A HIT!! IS HE THE REAL MVP OF THE REINCARNATION ARC?!",
+        "panel_id": "8",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1548,
+            124,
+            1571,
+            438
+        ],
+        "text": "Continues on page 106!!",
+        "panel_id": "9",
+        "type": "continuation"
+    },
+    {
+        "text_box": [
+            1553,
+            600,
+            1572,
+            951
+        ],
+        "text": "The top ten are on pages 86~87!",
+        "panel_id": "9",
+        "type": "continuation"
+    }
+]

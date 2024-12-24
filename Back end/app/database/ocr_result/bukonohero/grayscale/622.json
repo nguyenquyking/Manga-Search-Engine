@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            57,
+            344,
+            132,
+            490
+        ],
+        "text": "He analyzed my moves based on my shot trajectories...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            83,
+            542,
+            114,
+            585
+        ],
+        "text": "This kid...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            14,
+            409,
+            64
+        ],
+        "text": "He's fast!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            229,
+            447,
+            333
+        ],
+        "text": "...But I'm starting to see things clearly.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            335,
+            588,
+            390,
+            686
+        ],
+        "text": "Maybe I was ignorant...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            59,
+            898,
+            182
+        ],
+        "text": "A blend of fear and anger.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            769,
+            540,
+            907,
+            674
+        ],
+        "text": "It's not all black-and-white. Most things in this world are in shades of gray.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1014,
+            35,
+            1091,
+            121
+        ],
+        "text": "\"With maggots crawling out\"",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1019,
+            605,
+            1095,
+            703
+        ],
+        "text": "...swept their pain under the rug.\"",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            122,
+            107,
+            175
+        ],
+        "text": "FWP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

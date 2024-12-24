@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            602,
+            41,
+            645,
+            135
+        ],
+        "text": "THIS POWER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            546,
+            313,
+            656,
+            437
+        ],
+        "text": "IT FEELS LIKE I'VE BEEN REBORN WITH IT ALL.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            723,
+            734,
+            865
+        ],
+        "text": "THE QUIRKS THAT MASTER HAD STOCKED UP...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            900,
+            576,
+            1026,
+            704
+        ],
+        "text": "BUT IF YOU CAN OVERCOME IT, YOU'LL FIND THAT YOU HOLD EVERYTHING IN THE PALM OF YOUR HAND.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            878,
+            763,
+            1021,
+            871
+        ],
+        "text": "FOR THE NEXT FOUR MONTHS, YOU'LL ENDURE HELLISH AGONY.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            762,
+            536,
+            782,
+            596
+        ],
+        "text": "CHF...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1193,
+            615,
+            1214,
+            661
+        ],
+        "text": "CHF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

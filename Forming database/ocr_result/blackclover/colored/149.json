@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            510,
+            635,
+            565,
+            704
+        ],
+        "text": "THE LIGHT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            703,
+            11,
+            943,
+            160
+        ],
+        "text": "EVERYONE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

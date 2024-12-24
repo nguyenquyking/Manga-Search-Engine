@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            150,
+            39,
+            258,
+            156
+        ],
+        "text": "I'M AT A LOSS FOR WORDS, ASHURA!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            333,
+            48,
+            404,
+            174
+        ],
+        "text": "WELL, THEY MAY NEED A LITTLE WORK.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            582,
+            57,
+            717,
+            196
+        ],
+        "text": "WE HAULED 'EM HERE FROM ALL THE PORTS AROUND THE COUNTRY KAIDO DESTROYED...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            846,
+            276,
+            946
+        ],
+        "text": "MY WORD!! SHIPS!!! SHIPS!! SHIPS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            1004,
+            184,
+            1077
+        ],
+        "text": "RUINED SOUTH-WEST PORT, KURI",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            92,
+            1255,
+            172,
+            1355
+        ],
+        "text": "SHE CRIED HERSELF TO SLEEP INSIDE MY ROBE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            1384,
+            150,
+            1480
+        ],
+        "text": "WHERE IS OTOKO, BONEKICHI?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            1188,
+            270,
+            1270
+        ],
+        "text": "HERE, I'LL HOLD HER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            315,
+            1194,
+            398,
+            1281
+        ],
+        "text": "YOU DON'T HAVE ANY BODY WARMTH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            474,
+            1231,
+            508,
+            1273
+        ],
+        "text": "UH! I SAY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            68,
+            928,
+            214
+        ],
+        "text": "BUT AT LAST, I CAN SEE OUR RAID COMING TOGETHER!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            837,
+            249,
+            926,
+            392
+        ],
+        "text": "WE'LL NEED SIR FRANOSUKE'S HELP TO REPAIR THESE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            427,
+            921,
+            554
+        ],
+        "text": "I DON'T REMEMBER YOU BEING THIS THOUGHTFUL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            579,
+            920,
+            711
+        ],
+        "text": "WHAT A BOON THIS IS! YOU'VE IMPRESSED ME, ASHURA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            829,
+            902,
+            1074
+        ],
+        "text": "WITH THESE, WE CAN FERRY THOUSANDS OF SOLDIERS TO ONIGASHIMA.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            434,
+            1128,
+            515
+        ],
+        "text": "YOU THINK I SPENT THE LAST 20 YEARS ASLEEP?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1088,
+            1229,
+            1126,
+            1425
+        ],
+        "text": "Usohachi Orobi",
+        "panel_id": "5",
+        "type": "background"
+    }
+]

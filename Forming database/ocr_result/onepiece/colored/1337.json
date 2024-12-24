@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            74,
+            83,
+            136,
+            152
+        ],
+        "text": "Of course we can.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            203,
+            151,
+            314
+        ],
+        "text": "I agree, Brother! Please, can't we, Father?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            361,
+            165,
+            468
+        ],
+        "text": "Let's take our time and soak up the beautiful sights!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            509,
+            168,
+            613
+        ],
+        "text": "I know you want to see the forest, Shirahoshi.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            632,
+            165,
+            739
+        ],
+        "text": "Why don't we stroll along the normal walkway, Father?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            268,
+            55,
+            337,
+            135
+        ],
+        "text": "We shall accompany you, Majesty.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            434,
+            54,
+            491,
+            164
+        ],
+        "text": "I just have a bad feeling about it...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            269,
+            493,
+            342
+        ],
+        "text": "Travel-ator, Majesty.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            376,
+            516,
+            462
+        ],
+        "text": "I do love a good Trou-blooter!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            430,
+            483,
+            526,
+            592
+        ],
+        "text": "I shall have to install one of these back in Goa Kingdom!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            627,
+            507,
+            741
+        ],
+        "text": "I bet they're just afraid of the tools of civilization!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            514,
+            193,
+            584,
+            270
+        ],
+        "text": "You could call it that as well!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            105,
+            865,
+            165
+        ],
+        "text": "Huff, huff, weez...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            810,
+            220,
+            894,
+            304
+        ],
+        "text": "Rotate it at just the right speed!!",
+        "panel_id": "3",
+        "type": "instruction"
+    },
+    {
+        "text_box": [
+            807,
+            333,
+            882,
+            411
+        ],
+        "text": "Not too fast, not too slow!",
+        "panel_id": "3",
+        "type": "instruction"
+    },
+    {
+        "text_box": [
+            826,
+            667,
+            867,
+            737
+        ],
+        "text": "Underground",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            874,
+            604,
+            976,
+            730
+        ],
+        "text": "Huff!! No stopping!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1060,
+            68,
+            1140,
+            169
+        ],
+        "text": "Someone help me...or at least kill me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            508,
+            272,
+            557
+        ],
+        "text": "Fuka-boshi...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

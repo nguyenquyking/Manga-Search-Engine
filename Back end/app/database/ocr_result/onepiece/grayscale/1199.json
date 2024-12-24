@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            88,
+            126,
+            113,
+            285
+        ],
+        "text": "DON'T TELL ME JOKES ABOUT BEATING KAIDO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            695,
+            216,
+            867
+        ],
+        "text": "WHY DID YOU COME HERE, STRAW HAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            921,
+            160,
+            1026
+        ],
+        "text": "PERFORMANCE FLOOR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            350,
+            845,
+            414,
+            937
+        ],
+        "text": "CLANG!!\nKTING!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            323,
+            180,
+            401,
+            268
+        ],
+        "text": "NO... THAT'S NOT IT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            455,
+            102,
+            505,
+            163
+        ],
+        "text": "WHAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            681,
+            101,
+            777,
+            214
+        ],
+        "text": "WHAT DID YOU SAY, STRAW HAT FELLOW...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            683,
+            464,
+            788,
+            572
+        ],
+        "text": "WHAT WAS THAT, STRAW HAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            620,
+            785,
+            738
+        ],
+        "text": "IT'S NOT, LUFFY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            76,
+            950,
+            215
+        ],
+        "text": "IT'S KAIDO AND YOU AND YOUR OFFICERS AND OROCHI AND HIS FOLLOWERS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1211,
+            84,
+            1393,
+            317
+        ],
+        "text": "IT'S AN ALL-OUT WAR!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1139,
+            785,
+            1436,
+            1025
+        ],
+        "text": "I CAME HERE TO WHOOP THE WHOLE LOT OF YOU!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

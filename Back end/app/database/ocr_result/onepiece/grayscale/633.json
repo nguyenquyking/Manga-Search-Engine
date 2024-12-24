@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            50,
+            648,
+            135,
+            734
+        ],
+        "text": "PERFORMANCE FLOOR,\nINSIDE THE DOME",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            192,
+            168,
+            290,
+            279
+        ],
+        "text": "...in the middle of a battle-field?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            204,
+            625,
+            278,
+            720
+        ],
+        "text": "What is that kid doing...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            240,
+            604,
+            348
+        ],
+        "text": "Who are you,\nlittle girl?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            74,
+            581,
+            155
+        ],
+        "text": "EEEK!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            502,
+            586,
+            571,
+            721
+        ],
+        "text": "What happened,\nBao Huang?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            354,
+            846,
+            442
+        ],
+        "text": "FLOP!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            840,
+            620,
+            897,
+            700
+        ],
+        "text": "OTAMA!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            164,
+            1102,
+            251
+        ],
+        "text": "Hang in there,\nTama!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

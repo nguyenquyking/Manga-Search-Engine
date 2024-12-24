@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            208,
+            774,
+            194,
+            865
+        ],
+        "text": "FWOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1229,
+            311,
+            1461,
+            345
+        ],
+        "text": "RRAAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            939,
+            906,
+            1037
+        ],
+        "text": "LUUM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1515,
+            520,
+            1584,
+            568
+        ],
+        "text": "KRAKL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1582,
+            936,
+            1619,
+            1101
+        ],
+        "text": "Pointless.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

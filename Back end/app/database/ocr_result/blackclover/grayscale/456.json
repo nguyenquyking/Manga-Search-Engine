@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            40,
+            249,
+            153,
+            365
+        ],
+        "text": "I'll have to use all!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            65,
+            595,
+            301
+        ],
+        "text": "Of that power I don't understand inside me!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            425,
+            505,
+            548
+        ],
+        "text": "...to my pleasure!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            873,
+            540,
+            1002
+        ],
+        "text": "Everything you do is an offering...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            68,
+            718,
+            1002
+        ],
+        "text": "Hey! You're watching this, right?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1480,
+            367,
+            1550,
+            482
+        ],
+        "text": "DEVIL!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            51,
+            281,
+            72,
+            354
+        ],
+        "text": "SORRY.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            36,
+            512,
+            148
+        ],
+        "text": "YOU'RE\nNOT ON MY\nRADAR\nANYMORE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            568,
+            118,
+            630
+        ],
+        "text": "YANK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            463,
+            445,
+            485,
+            513
+        ],
+        "text": "WHOA!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            784,
+            367,
+            805,
+            449
+        ],
+        "text": "URGH!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            789,
+            804,
+            833
+        ],
+        "text": "WHAP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1250,
+            87,
+            1290,
+            130
+        ],
+        "text": "POW",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1247,
+            611,
+            1290,
+            665
+        ],
+        "text": "WHAP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

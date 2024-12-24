@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            2,
+            724,
+            31,
+            949
+        ],
+        "text": "HEXAMENDLEO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            503,
+            710,
+            658,
+            909
+        ],
+        "text": "HUH?! At least give me a moment to unleash my disembodied buttocks in your general direction!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            797,
+            223,
+            928,
+            357
+        ],
+        "text": "Since Nomu follow Shigaraki's orders, it stands to reason...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            857,
+            60,
+            990,
+            175
+        ],
+        "text": "...that he could control them if he woke up again.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            815,
+            746,
+            945,
+            896
+        ],
+        "text": "Upon arrival, I spotted a large gathering of Nomu in the distance.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1217,
+            105,
+            1326,
+            252
+        ],
+        "text": "...He can command the Nomu to engineer a turnaround.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1193,
+            340,
+            1259,
+            462
+        ],
+        "text": "If we can rouse him properly...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1177,
+            748,
+            1287,
+            925
+        ],
+        "text": "But he's fading in and out of consciousness. Not entirely lucid.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

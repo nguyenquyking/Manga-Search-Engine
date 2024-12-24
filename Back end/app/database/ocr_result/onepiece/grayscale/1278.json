@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            125,
+            84,
+            280,
+            319
+        ],
+        "text": "I thought it better not to disturb the feast...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            406,
+            63,
+            578,
+            312
+        ],
+        "text": "And there are no witness reports of suspicious samurai around.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            378,
+            248,
+            583
+        ],
+        "text": "Master Queen was handling the situation.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            656,
+            254,
+            838
+        ],
+        "text": "Why didn't you report that?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            885,
+            287,
+            1071
+        ],
+        "text": "...Have already disembarked upon the island.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            1136,
+            298,
+            1311
+        ],
+        "text": "It's quite likely that all the members of these pirate crews...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            159,
+            907,
+            385
+        ],
+        "text": "Woro ro ro! That's right! Drink up, Orochi!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            512,
+            946,
+            853
+        ],
+        "text": "Nothing can possibly happen here that will put us in danger!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            946,
+            961,
+            1291
+        ],
+        "text": "In any case, our entire concentrated might is present here on Onigashima.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1142,
+            478,
+            1168,
+            751
+        ],
+        "text": "STOMP TROMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1246,
+            131,
+            1317,
+            332
+        ],
+        "text": "Let me pour, my lord.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1449,
+            54,
+            1667,
+            326
+        ],
+        "text": "No... I don't want to hear reassurances and platitudes!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1676,
+            73,
+            1907,
+            308
+        ],
+        "text": "I want a report that the samurai are good and dead!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1604,
+            1075,
+            1708,
+            1355
+        ],
+        "text": "GYA HA HA HA HA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1995,
+            1123,
+            2062,
+            1296
+        ],
+        "text": "RATTLE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

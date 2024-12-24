@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            35,
+            579,
+            75,
+            680
+        ],
+        "text": "JAKU CITY\nSUBURBS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            59,
+            166,
+            219,
+            324
+        ],
+        "text": "THE RESCUE SQUADS AND POLICE WILL ESCORT THE CITIZENS OF JAKU! HEROES WILL PROCEED TO INTERCEPT THE GIANT VILLAIN!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            151,
+            36,
+            258,
+            151
+        ],
+        "text": "ALL EVACUATION,\nRELIEF\nAND BATTLE\nTEAMS\u2014GET\nMOVING!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            479,
+            47,
+            586,
+            216
+        ],
+        "text": "COMMS ARE STILL DOWN, SO WE CAN'T GET IN TOUCH WITH THEM!\nPASS THE MESSAGE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            533,
+            571,
+            649
+        ],
+        "text": "THE HEROES FIGHTING SHIGARAKI DON'T KNOW THE WHOLE SITUATION!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            899,
+            500,
+            978,
+            589
+        ],
+        "text": "LET'S\nMOVE!\nON THE\nDOUBLE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            105,
+            1096,
+            222
+        ],
+        "text": "ANY LIVES\nTHAT CAN BE\nSAVED...\nMUST BE\nSAVED!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

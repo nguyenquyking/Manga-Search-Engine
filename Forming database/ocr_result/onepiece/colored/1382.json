@@ -1,0 +1,255 @@
+[
+    {
+        "text_box": [
+            43,
+            332,
+            240,
+            432
+        ],
+        "text": "The crewmate who went to sea...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            453,
+            243,
+            716
+        ],
+        "text": "Reverie Arc\nVoyage Record 5\nAlabasta",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            270,
+            425,
+            354,
+            516
+        ],
+        "text": "\u2192 A tearful farewell from the Straw Hats!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            298,
+            529,
+            423,
+            572
+        ],
+        "text": "WILL\nYOU\nCALL\nME\nYOUR\nSHIP-\nMATE\n?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            309,
+            704,
+            391,
+            736
+        ],
+        "text": "BUT\nIF WE\nEVER\nSEE\nEACH\nOTHER\nAGAIN",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            300,
+            46,
+            465,
+            508
+        ],
+        "text": "...and became\npart\nof the\nNefertari Vivi",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            368,
+            234,
+            393,
+            474
+        ],
+        "text": "Princess of Alabasta",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            476,
+            181,
+            547,
+            426
+        ],
+        "text": "The princess who infiltrated Baroque Works in order to stop Crocodile's conspiracy! She keeps her experience as a pirate a secret from the public.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            36,
+            639,
+            168
+        ],
+        "text": "team in\norder to\nsave her\ncountry!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            567,
+            356,
+            584,
+            372
+        ],
+        "text": "LET'S\nGO...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            444,
+            667,
+            761
+        ],
+        "text": "The silent raising of the X marks their eternal connection!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            686,
+            405,
+            811,
+            530
+        ],
+        "text": "...and\nguards the\nsecret of\nthe ancient\nweapon!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            692,
+            200,
+            756,
+            372
+        ],
+        "text": "\u2191 Vivi's partner Karoo.\nHe's a supersonic duck\nwith incredible speed!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            679,
+            652,
+            836,
+            758
+        ],
+        "text": "The wise\nruler who\nloves his\ncountry\nand\npeople...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            836,
+            97,
+            898,
+            190
+        ],
+        "text": "This king\nis honest and\nwell-meaning.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            838,
+            372,
+            883,
+            416
+        ],
+        "text": "BOW...",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            880,
+            544,
+            903,
+            680
+        ],
+        "text": "King of Alabasta",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            901,
+            96,
+            1005,
+            185
+        ],
+        "text": "He will show\ngratitude to\nanyone who\ndeserves it,\neven pirates.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            912,
+            488,
+            951,
+            741
+        ],
+        "text": "Nefertari Cobra",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            966,
+            480,
+            1047,
+            756
+        ],
+        "text": "\u2191 Vivi's father. He is concerned about\nthe conversation he had with Robin in\nfront of the Poneglyph, and is suspicious\nof the World Government.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1070,
+            120,
+            1089,
+            280
+        ],
+        "text": "Alabasta Background",
+        "panel_id": "6",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1098,
+            110,
+            1170,
+            569
+        ],
+        "text": "In his search for military power, Crocodile set his sights on the ancient weapon Pluton, which slumbers in Alabasta. Vivi detects his plot in motion, but despairs at her lack of strength to stop him. Then the Straw Hat Crew pledges to help take down Crocodile!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1072,
+            670,
+            1176,
+            740
+        ],
+        "text": "Volume 18-23\n82",
+        "panel_id": "6",
+        "type": "background"
+    }
+]

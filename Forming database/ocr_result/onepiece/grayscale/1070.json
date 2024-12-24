@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            281,
+            98,
+            353,
+            162
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            340,
+            1744,
+            436,
+            1827
+        ],
+        "text": "Ooh!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            853,
+            641,
+            964
+        ],
+        "text": "DOOM!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            596,
+            1294,
+            664,
+            1431
+        ],
+        "text": "Stay out of this...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            1565,
+            891,
+            1874
+        ],
+        "text": "Shinobu! What's happening?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            1296,
+            878,
+            1480
+        ],
+        "text": "...Kunoichi!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            953,
+            1825,
+            1019,
+            2037
+        ],
+        "text": "Oosh! But now...",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1025,
+            1441,
+            1174,
+            1580
+        ],
+        "text": "Run, Lord Momonosuke!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1206,
+            1629,
+            1267,
+            1717
+        ],
+        "text": "...This ends!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1262,
+            270,
+            1348,
+            486
+        ],
+        "text": "BENG!!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1300,
+            81,
+            1516,
+            249
+        ],
+        "text": "I'm fighting for Kozuki!!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1332,
+            479,
+            1448,
+            633
+        ],
+        "text": "I'm not \"interfering\"!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1315,
+            693,
+            1516,
+            810
+        ],
+        "text": "So, you intend to interfere with this, young Master Yamato?",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1364,
+            1273,
+            1496,
+            1362
+        ],
+        "text": "...What a Shogun should do?!",
+        "panel_id": "8",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1364,
+            1512,
+            1507,
+            1746
+        ],
+        "text": "Run?! Is that...Shinobu!!",
+        "panel_id": "8",
+        "type": "dialogue"
+    }
+]

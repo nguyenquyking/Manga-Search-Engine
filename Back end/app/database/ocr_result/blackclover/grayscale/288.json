@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            553,
+            28,
+            758,
+            155
+        ],
+        "text": "...and then Finral worked very hard and stopped you.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1096,
+            873,
+            1121,
+            938
+        ],
+        "text": "Tch...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1193,
+            365,
+            1236,
+            444
+        ],
+        "text": "Stupid Finral.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1496,
+            80,
+            1520,
+            123
+        ],
+        "text": "103",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            61,
+            62,
+            242,
+            230
+        ],
+        "text": "I knew you people at the Safety Commission always had your eye on us, but when, at last, I was led to believe that you couldn't ignore our products anymore...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            546,
+            185,
+            684
+        ],
+        "text": "Imagine my delight when you came to me with that joint development proposal!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            511,
+            462,
+            594
+        ],
+        "text": "WHOOOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            801,
+            390,
+            890,
+            497
+        ],
+        "text": "...both my faces were overcome with joy, short-lived though it was.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

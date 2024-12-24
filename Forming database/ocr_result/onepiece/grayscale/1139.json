@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            65,
+            427,
+            137,
+            553
+        ],
+        "text": "RAAA!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            105,
+            614,
+            209,
+            720
+        ],
+        "text": "Let's hurry, Luffy!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            307,
+            583,
+            393,
+            737
+        ],
+        "text": "We gotta catch up to Kin'emon!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            791,
+            185,
+            995
+        ],
+        "text": "Usopp, I'm counting on you to keep Nami safe for me!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            118,
+            64,
+            156,
+            192
+        ],
+        "text": "Yeah!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            149,
+            710,
+            250
+        ],
+        "text": "Sanji, cover your ears!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            928,
+            598,
+            1002
+        ],
+        "text": "Ah...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            686,
+            492,
+            728,
+            580
+        ],
+        "text": "Hey!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            140,
+            982,
+            342
+        ],
+        "text": "AAAA pa pa pa pa!! So you learned, huh?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            424,
+            979,
+            584
+        ],
+        "text": "Take a listen to my fighting music!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            911,
+            820,
+            1019,
+            999
+        ],
+        "text": "SLASH!!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1408,
+            85,
+            1536,
+            311
+        ],
+        "text": "But it's a lot harder to fight in silence than you think!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

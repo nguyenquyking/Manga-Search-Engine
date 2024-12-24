@@ -1,0 +1,244 @@
+[
+    {
+        "text_box": [
+            122,
+            59,
+            147,
+            114
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            256,
+            398,
+            271,
+            442
+        ],
+        "text": "BAM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            125,
+            600,
+            202,
+            732
+        ],
+        "text": "TENJIN!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            1248,
+            188,
+            1352
+        ],
+        "text": "GOD OF LIGHTNING...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            1391,
+            154,
+            1509
+        ],
+        "text": "MAAAAMA MAMAMA!! HA HA HA!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            254,
+            367,
+            305
+        ],
+        "text": "DOOM!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            376,
+            56,
+            453,
+            158
+        ],
+        "text": "BECAUSE I'M RUBBER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            393,
+            471,
+            498
+        ],
+        "text": "STRAW HAT!! WHY DIDN'T THAT LIGHTNING WORK ON YOU?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            666,
+            412,
+            744,
+            498
+        ],
+        "text": "YOU'RE GONNA PAY FOR WHAT YOU DID TO",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            672,
+            676,
+            691,
+            710
+        ],
+        "text": "HEH HEH!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            910,
+            749,
+            958
+        ],
+        "text": "HUH?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            567,
+            1134,
+            565,
+            1200
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            501,
+            1397,
+            598,
+            1493
+        ],
+        "text": "THERE'S NOWHERE TO ESCAPE!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            219,
+            684,
+            247
+        ],
+        "text": "!!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            696,
+            1189,
+            775,
+            1294
+        ],
+        "text": "DAMMIT!! WHAT IS SHE, A NATURAL DISASTER?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            704,
+            1408,
+            764,
+            1479
+        ],
+        "text": "AAAH!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            374,
+            956,
+            500
+        ],
+        "text": "BLAST BREATH!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            62,
+            928,
+            158
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            881,
+            865,
+            949
+        ],
+        "text": "DOOM!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            933,
+            819,
+            980,
+            877
+        ],
+        "text": "URGH!!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1009,
+            627,
+            1032,
+            680
+        ],
+        "text": "AAAAH",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1094,
+            1330,
+            1080,
+            1402
+        ],
+        "text": "DOOM!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

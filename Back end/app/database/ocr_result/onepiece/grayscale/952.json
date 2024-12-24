@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            24,
+            525,
+            37,
+            599
+        ],
+        "text": "DADOOM...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            75,
+            583,
+            107,
+            651
+        ],
+        "text": "DEE...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            188,
+            486,
+            287,
+            629
+        ],
+        "text": "And... this is in my father's journal?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            115,
+            470,
+            236
+        ],
+        "text": "This is for you, of course.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            523,
+            63,
+            646,
+            215
+        ],
+        "text": "I picked it up out of the river at the foot of Oden Castle... on that terrible day...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            428,
+            360,
+            439,
+            419
+        ],
+        "text": "RAHHHH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            382,
+            511,
+            485,
+            607
+        ],
+        "text": "...that I would get the chance to meet you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            626,
+            485,
+            723
+        ],
+        "text": "Honestly, I never truly believed...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            121,
+            896,
+            274
+        ],
+        "text": "...about Oden's grand life and the world he experienced!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            338,
+            893,
+            445
+        ],
+        "text": "It contains everything there is to know...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            506,
+            891,
+            585
+        ],
+        "text": "...from the burning castle...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            627,
+            891,
+            714
+        ],
+        "text": "Someone must have kept this journal safe...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1052,
+            57,
+            1077,
+            146
+        ],
+        "text": "Father...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            396,
+            1112,
+            511
+        ],
+        "text": "Lord Oden's Journal...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

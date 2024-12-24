@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            125,
+            122,
+            231,
+            296
+        ],
+        "text": "...Plenty to teach us back at school!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            155,
+            840,
+            224,
+            913
+        ],
+        "text": "She's still got...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            603,
+            203,
+            1038,
+            653
+        ],
+        "text": "THOOM\nTHOOM\nTHOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1203,
+            124,
+            1360,
+            256
+        ],
+        "text": "Wake up... Senpai!\nLoosen your grip... so I can get back up!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1210,
+            775,
+            1277,
+            899
+        ],
+        "text": "This big boy's not stopping!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            85,
+            75,
+            149,
+            145
+        ],
+        "text": "THE FLAMES!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            641,
+            104,
+            727
+        ],
+        "text": "THIRD FLOOR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            420,
+            126,
+            441,
+            207
+        ],
+        "text": "FWOOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            451,
+            419,
+            550,
+            492
+        ],
+        "text": "OR WE WILL BOTH DIE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            453,
+            652,
+            553,
+            741
+        ],
+        "text": "UNDO THE JUTSU, RAIZO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            60,
+            680,
+            113
+        ],
+        "text": "HUFF...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            643,
+            66,
+            680,
+            379
+        ],
+        "text": "HUFF...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            767,
+            63,
+            858,
+            165
+        ],
+        "text": "IT'S A DEAD END!! WE CAN'T ESCAPE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            414,
+            828,
+            498
+        ],
+        "text": "SECOND FLOOR",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            887,
+            389,
+            950,
+            485
+        ],
+        "text": "GET OUT OF THE CASTLE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1065,
+            560,
+            1088,
+            619
+        ],
+        "text": "HUFF...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1065,
+            560,
+            1088,
+            619
+        ],
+        "text": "HUFF...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

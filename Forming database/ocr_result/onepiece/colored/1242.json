@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            80,
+            203,
+            256,
+            553
+        ],
+        "text": "ONE PIECE\nvol. 91\nADVENTURE IN THE\nLAND OF SAMURAI",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            307,
+            220,
+            337,
+            537
+        ],
+        "text": "CONTENTS",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            364,
+            61,
+            398,
+            696
+        ],
+        "text": "\u7b2c91\u8a71 Adventure in the Land of Samurai  008",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            423,
+            62,
+            458,
+            696
+        ],
+        "text": "\u7b2c91\u8a71 Amigasa Village  028",
+        "panel_id": "4",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            484,
+            61,
+            518,
+            696
+        ],
+        "text": "\u7b2c91\u8a71 The Crane Returns the Favor  049",
+        "panel_id": "5",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            543,
+            61,
+            576,
+            696
+        ],
+        "text": "\u7b2c91\u8a71 Okobore Town  067",
+        "panel_id": "6",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            603,
+            62,
+            637,
+            696
+        ],
+        "text": "\u7b2c91\u8a71 Bakura Town  085",
+        "panel_id": "7",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            662,
+            61,
+            697,
+            696
+        ],
+        "text": "\u7b2c91\u8a71 Wano Sumo  102",
+        "panel_id": "8",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            721,
+            61,
+            756,
+            697
+        ],
+        "text": "\u7b2c91\u8a71 Food Treasure Barge  123",
+        "panel_id": "9",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            782,
+            63,
+            816,
+            693
+        ],
+        "text": "\u7b2c91\u8a71 Luffytaro Returns the Favor  141",
+        "panel_id": "10",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            841,
+            62,
+            876,
+            696
+        ],
+        "text": "\u7b2c91\u8a71 The Ruins of Oden Castle  159",
+        "panel_id": "11",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            901,
+            60,
+            936,
+            696
+        ],
+        "text": "\u7b2c92\u8a71 For Love of Oden  177",
+        "panel_id": "12",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            960,
+            62,
+            994,
+            696
+        ],
+        "text": "\u7b2c92\u8a71 Shutenmaru  194",
+        "panel_id": "13",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            1119,
+            292,
+            1171,
+            471
+        ],
+        "text": "\u203b\u4eca\u5dfb\u306f\u30b9\u30c8\u30fc\u30ea\u30fc\u306e\u69cb\u6210\u4e0a\u300111\u8a71\u53ce\u9332\u3055\u308c\u3066\u3044\u307e\u3059\u3002",
+        "panel_id": "14",
+        "type": "caption"
+    }
+]

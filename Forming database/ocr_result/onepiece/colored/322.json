@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            56,
+            438,
+            237,
+            600
+        ],
+        "text": "NOW BLACK-LEG IS THE LAUGHING-STOCK OF ALL OF ONIGA-SHIMA!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            827,
+            154,
+            1017
+        ],
+        "text": "HELP ME, ROBIN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            76,
+            237,
+            221
+        ],
+        "text": "AND HE'S SUPPOSED TO HAVE THE NUMBER-TWO BOUNTY?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            317,
+            82,
+            485,
+            212
+        ],
+        "text": "TELLS YOU A LOT ABOUT THE LEVEL OF YOUR LITTLE CREW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            1033,
+            490,
+            1111
+        ],
+        "text": "DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            696,
+            100,
+            825,
+            193
+        ],
+        "text": "I WAS HOPING YOU'D ASK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            314,
+            789,
+            422
+        ],
+        "text": "THANK YOU!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            532,
+            792,
+            670
+        ],
+        "text": "ROBIN, DO YOU QUITE MIND...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            477,
+            1113,
+            601
+        ],
+        "text": "...IF I LEAVE HER TO YOU?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            792,
+            1121,
+            1041
+        ],
+        "text": "YO HO HO HO HO!! OH, THAT SANJI... I NEARLY SPLIT A SEAM LAUGHING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1235,
+            98,
+            1391,
+            238
+        ],
+        "text": "AND I DO HATE GHOULIES!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1253,
+            851,
+            1452,
+            1058
+        ],
+        "text": "AND I WILL TAKE IT UPON MYSELF TO DEAL WITH THIS PROCESSION OF GHOULIES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1569,
+            312,
+            1598,
+            502
+        ],
+        "text": "@ASSIA_LIN",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

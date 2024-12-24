@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            756,
+            257,
+            828,
+            370
+        ],
+        "text": "Even if I'm still incomplete...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1005,
+            61,
+            1122,
+            196
+        ],
+        "text": "...I'm genuinely startled that you managed to press me this hard.",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

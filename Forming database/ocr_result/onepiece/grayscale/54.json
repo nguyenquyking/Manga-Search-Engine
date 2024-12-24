@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            967,
+            1277,
+            1163,
+            1431
+        ],
+        "text": "CP9 VS. STRAWHAT CREW",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1134,
+            123,
+            1209,
+            236
+        ],
+        "text": "NAMI VS. KALIFA",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1253,
+            1877,
+            1333,
+            1970
+        ],
+        "text": "ENIES LOBBY",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

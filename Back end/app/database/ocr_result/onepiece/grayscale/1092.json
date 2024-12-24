@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            84,
+            415,
+            164,
+            526
+        ],
+        "text": "THAT WILL SHAKE THE WORLD TO ITS CORE!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            933,
+            224,
+            1040
+        ],
+        "text": "ONE DAY, WITHOUT A DOUBT, I'LL WRITE MY OWN ADVENTURE BOOK",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            952,
+            444,
+            1043
+        ],
+        "text": "HOW AM I SUPPOSED TO TELL THAT DAY-DREAMING KID?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            487,
+            438,
+            600
+        ],
+        "text": "ABOUT THE HARSH REALITY I FACE NOW...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1118,
+            435,
+            1212,
+            544
+        ],
+        "text": "FINALLY, A GOOD PLACE TO SET SAIL!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1057,
+            909,
+            1233,
+            1048
+        ],
+        "text": "AHA! SO THE SHORE WAS THIS WAY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

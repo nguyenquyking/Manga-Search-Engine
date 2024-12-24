@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            45,
+            222,
+            275,
+            360
+        ],
+        "text": "NOW THAT I'VE OBTAINED A NEW BODY, IT'S ALL UTTERLY WORTHLESS AGAINST ME!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            55,
+            702,
+            262,
+            852
+        ],
+        "text": "THIS WORLD'S MAGIC...AND THE MAGIC OF A BUNCH OF WORMS THAT DON'T EVEN HAVE FOUR-LEAF GRIMOIRES...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            221,
+            14,
+            261,
+            89
+        ],
+        "text": "...SHUT UP...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            10,
+            770,
+            146
+        ],
+        "text": "JUST LIKE THE MAGIC TOOLS WE'RE MAKING NOW, IF EACH PERSON USES THEIR POWER FOR THE SAKE OF EVERYONE ELSE, DON'T YOU THINK WE'D BE ABLE TO MAKE A GOOD COUNTRY?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            411,
+            627,
+            563
+        ],
+        "text": "YOUR SEALING MAGIC THAT YOU SAID \"JUST OPENS AND CLOSES THINGS\"... THERE HAS TO BE MORE USES THAT ARE LAYING DORMANT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            682,
+            321,
+            847,
+            444
+        ],
+        "text": "WITH SO MANY POSSIBILITIES, THERE ARE DEFINITELY THINGS THAT ONLY YOU CAN DO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            600,
+            845,
+            723
+        ],
+        "text": "...I THINK THAT EVERYONE IS DIFFERENT, AND ANYONE CAN BE AMAZING BECAUSE OF THOSE DIFFERENCES.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            581,
+            734,
+            709,
+            848
+        ],
+        "text": "EVERYONE SAYS THAT MY FOUR-LEAF GRIMOIRE'S LIGHT MAGIC IS AMAZING, BUT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            184,
+            1263,
+            325
+        ],
+        "text": "THE VERY PEOPLE YOU LOOKED DOWN ON, TRAMPLED ON, AND TREATED LIKE TOYS... YOU'LL BE DEFEATED BY THEM TODAY!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1115,
+            63,
+            1211,
+            108
+        ],
+        "text": "HN HN HN...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1062,
+            747,
+            1220,
+            851
+        ],
+        "text": "SOMEONE LIKE YOU WHO DOES NOTHING BUT TAKE THINGS AWAY FROM OTHERS",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

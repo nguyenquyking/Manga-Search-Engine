@@ -1,0 +1,255 @@
+[
+    {
+        "text_box": [
+            109,
+            196,
+            215,
+            508
+        ],
+        "text": "Foo...\nHeeh...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            692,
+            114,
+            838
+        ],
+        "text": "Fsssh...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            155,
+            1044,
+            188,
+            1191
+        ],
+        "text": "Zrrrd...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            152,
+            1395,
+            352,
+            1769
+        ],
+        "text": "Grrrg!!\nWho\nsays I'm\nat my\nlimit?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            119,
+            863,
+            682
+        ],
+        "text": "Heeh...\nWeez!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            803,
+            791,
+            852,
+            937
+        ],
+        "text": "Ooh...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            986,
+            855,
+            1103
+        ],
+        "text": "Huff!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            805,
+            1223,
+            846,
+            1339
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            1403,
+            876,
+            1515
+        ],
+        "text": "Huff!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1057,
+            136,
+            1158,
+            267
+        ],
+        "text": "Huff\n....!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1005,
+            351,
+            1128,
+            617
+        ],
+        "text": "Slump\nmm!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1070,
+            699,
+            1273,
+            911
+        ],
+        "text": "Who\nare\nyou?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1070,
+            1436,
+            1204,
+            1614
+        ],
+        "text": "Ah'm all\ntuckered\nout.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1245,
+            1659,
+            1286,
+            1827
+        ],
+        "text": "Gloom",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1322,
+            1169,
+            1461,
+            1315
+        ],
+        "text": "Droop...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1327,
+            1659,
+            1439,
+            1702
+        ],
+        "text": "Droop",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1876,
+            265,
+            1917,
+            426
+        ],
+        "text": "Kdoom!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2024,
+            147,
+            2253,
+            486
+        ],
+        "text": "Huff, huff... Once we're dead, the only thing that's left is bones, hee hee hee!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2038,
+            737,
+            2308,
+            1100
+        ],
+        "text": "You have my assurances. After you die, someone will tell the tale of your great battle...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2051,
+            1178,
+            2242,
+            1360
+        ],
+        "text": "Wow, it takes a lot of energy...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2065,
+            1453,
+            2204,
+            1738
+        ],
+        "text": "Oh yeah...\nI was dyin'\nbefore this...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2349,
+            609,
+            2559,
+            783
+        ],
+        "text": "I don't\nneed\nany of\nthat!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2464,
+            1208,
+            2614,
+            1388
+        ],
+        "text": "Weez...\nWeez...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

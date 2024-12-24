@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            30,
+            647,
+            34,
+            709
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            326,
+            613,
+            311,
+            700
+        ],
+        "text": "VWIIIIISH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            478,
+            13,
+            669,
+            162
+        ],
+        "text": "I'd love to know what sort of spell they used to take him out.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            511,
+            600,
+            582,
+            715
+        ],
+        "text": "DANTE LOST",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            611,
+            207,
+            643,
+            264
+        ],
+        "text": "...Kh... Kh...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            769,
+            14,
+            903,
+            152
+        ],
+        "text": "There aren't many left, and I doubt they'll recover you entirely, but I do have some recovery magic sweets.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            52,
+            1023,
+            87
+        ],
+        "text": "Eat up.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            357,
+            1079,
+            487
+        ],
+        "text": "However, unless we defeat the remaining two, we won't be able to stop it entirely.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            958,
+            618,
+            1091,
+            722
+        ],
+        "text": "Defeating a Dark Triad member is bound to have lowered Qliphorth's efficiency.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

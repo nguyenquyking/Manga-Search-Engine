@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            274,
+            600,
+            273,
+            651
+        ],
+        "text": "FSHH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            425,
+            69,
+            515,
+            179
+        ],
+        "text": "I'M NOT\nTRYING TO\nESCAPE! I'M\nJUST BUYING\nTIME FOR\nNOW!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            267,
+            507,
+            392
+        ],
+        "text": "THAT MUCH\nSMOKE\nOUTPUT\nPLACES YOU\nAT RISK.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            481,
+            514,
+            573
+        ],
+        "text": "DID YOU\nFORGET\nALREADY?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            623,
+            485,
+            687
+        ],
+        "text": "WHOA\nNOW,\nNINTH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            853,
+            256,
+            1067,
+            407
+        ],
+        "text": "YOU'RE UP\nAGAINST A HIGH-\nSPEED, LONG-\nRANGE MOBILE\nCANNON, SO THE\nSECOND YOU\nEMERGE FROM\nTHE SMOKE,\nYOU'RE A SITTING\nDUCK! YOU'VE CUT\nOFF YOUR OWN\nESCAPE ROUTE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            150,
+            200,
+            180,
+            315
+        ],
+        "text": "ASTA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            154,
+            929,
+            238,
+            1020
+        ],
+        "text": "So we'll be taking back...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            519,
+            156,
+            587,
+            239
+        ],
+        "text": "The Black... Bulls!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            380,
+            655,
+            500
+        ],
+        "text": "Satan.soul",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

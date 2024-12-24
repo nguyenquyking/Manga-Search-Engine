@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            31,
+            3,
+            169,
+            86
+        ],
+        "text": "My sword's being dragged around by her magic!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            154,
+            448,
+            273,
+            593
+        ],
+        "text": "Strong as you are, you cannot hope to fight against me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            321,
+            8,
+            413,
+            146
+        ],
+        "text": "And you have naught an ounce of magic within you.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            425,
+            49,
+            465,
+            100
+        ],
+        "text": "How strange.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            713,
+            42,
+            772,
+            219
+        ],
+        "text": "WHOAAAAAAAA!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            302,
+            667,
+            474,
+            786
+        ],
+        "text": "It seems you are quite adept at wielding it.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            780,
+            380,
+            868,
+            502
+        ],
+        "text": "A person without magic is, at best, Tier 9.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            968,
+            8,
+            1155,
+            134
+        ],
+        "text": "Ah, right. As I recall, your country does not use the \"magic tier\" system.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            378,
+            1146,
+            453
+        ],
+        "text": "What the heck does that mean?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            536,
+            1068,
+            598
+        ],
+        "text": "...!? Tier 9...?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            674,
+            1199,
+            816
+        ],
+        "text": "Pact-bearer of the Queen of the Heart Kingdom and one of the four great spirits.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            258,
+            1636,
+            387,
+            1753
+        ],
+        "text": "Unpleasant as it may be...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            1544,
+            1222,
+            1763
+        ],
+        "text": "Greetings, devil-possessed of the Clover Kingdom. I am Undine.",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

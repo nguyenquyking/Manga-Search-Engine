@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            384,
+            53,
+            515,
+            199
+        ],
+        "text": "Ha ha ha! Way to state the obvious!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            165,
+            860,
+            347
+        ],
+        "text": "That agent of justice did some vile stuff, and I'm the result.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            378,
+            789,
+            516
+        ],
+        "text": "But still\u2014you gotta pity me, right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            659,
+            799,
+            848
+        ],
+        "text": "And guess what?! You aren't Endeavor!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1230,
+            23,
+            1366,
+            218
+        ],
+        "text": "All I'm doing is showing you sentimental dopes who's to blame for that!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1270,
+            279,
+            1350,
+            397
+        ],
+        "text": "Justice is losing this war!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1007,
+            382,
+            1064,
+            516
+        ],
+        "text": "Evil is thriving!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1398,
+            469,
+            1406,
+            517
+        ],
+        "text": "SNAP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

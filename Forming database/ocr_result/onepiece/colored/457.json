@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            19,
+            57,
+            42,
+            289
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            313,
+            86,
+            404,
+            689
+        ],
+        "text": "Oda Sensei, I have been recognized by Guinness World Book for having the world's largest collection of One Piece merchandise, at 5,656 items!! Yippeeee!!! Buying merch for 18 years straight without taking a break wasn't a mistake after all.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            590,
+            429,
+            687
+        ],
+        "text": "--Sanadacchi",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            451,
+            85,
+            472,
+            633
+        ],
+        "text": "What?! Guinness World Book?! Congra..!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            88,
+            498,
+            339
+        ],
+        "text": "What?! \"Sanada\"?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            502,
+            87,
+            762,
+            655
+        ],
+        "text": "Why do I feel like I shouldn't be congratulating you...? Is this a joke?! Or is this serious?! [Looking it up online] Well, it looks like it's true. And how come I didn't know you're a YouTuber, Sanada?! Listen up, people, you don't need to watch this pervert's YouTube's! But I guess I have to admit that you really do love One Piece...despite being a pervert. And it's a real accomplishment to be the greatest in the world! So I'll be the better man and offer my sincere sentiments. Despite being a pervert, congratulations! And despite being a pervert, thank you!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            84,
+            819,
+            516
+        ],
+        "text": "You mentioned three races that can't be found in Totto Land. Is that giants, whatever King is...and me?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            359,
+            844,
+            515
+        ],
+        "text": "--Cora-Loving King",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            853,
+            86,
+            871,
+            122
+        ],
+        "text": "No.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            85,
+            933,
+            532
+        ],
+        "text": "Tell us the name of the toad riding on Usopp's head, and how it got there.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            248,
+            952,
+            395
+        ],
+        "text": "--Match & Takeshi",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            966,
+            87,
+            1134,
+            389
+        ],
+        "text": "His name is Toad Boingnosuke. He was caught in a snake's sights when Usopp happened along, at which point he jumped atop Usopp's head. Usopp saw the snake, freaked out and ran away. Boingnosuke realized that he was safe atop of Usopp, so he's been there ever since.",
+        "panel_id": "7",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            123,
+            76,
+            296,
+            236
+        ],
+        "text": "When they know you'll lose, they will abandon you and sail away.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            110,
+            595,
+            278,
+            697
+        ],
+        "text": "But pirates will betray you.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            523,
+            83,
+            627,
+            204
+        ],
+        "text": "Sir Luffy is not like",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            534,
+            264,
+            593,
+            409
+        ],
+        "text": "You speak slander!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            473,
+            624,
+            697
+        ],
+        "text": "And I've already beaten Straw Hat Luffy into submission once!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            855,
+            140,
+            976
+        ],
+        "text": "Dress-Rosa...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            1149,
+            131,
+            1284
+        ],
+        "text": "Punk Hazard...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            1330,
+            304,
+            1463
+        ],
+        "text": "...Have come to pass! The rumors of figures at Oden Castle...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            121,
+            1874,
+            272,
+            2030
+        ],
+        "text": "All of Orochi's hallucinations no one believed...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            844,
+            572,
+            989
+        ],
+        "text": "So you've allied yourselves with pirates...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            1151,
+            601,
+            1303
+        ],
+        "text": "...Cast by the very man I've had my eye on... Straw Hat!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            1708,
+            576,
+            1864
+        ],
+        "text": "Oddly enough, you have been hiding in the shadow...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            1913,
+            552,
+            2041
+        ],
+        "text": "The lost island of Zou...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            950,
+            83,
+            1137,
+            258
+        ],
+        "text": "Mark my words!! Dawn will come to Wano!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1235,
+            85,
+            1433,
+            266
+        ],
+        "text": "That is the promise I made to my Lord!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            548,
+            1168,
+            697
+        ],
+        "text": "He will one day stand at the pinnacle of this sea!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1273,
+            531,
+            1449,
+            710
+        ],
+        "text": "If every last one of us dies, he will remain!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1251,
+            1173,
+            1336,
+            1339
+        ],
+        "text": "You managed to recruit an army...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1254,
+            1471,
+            1334,
+            1668
+        ],
+        "text": "And in some cases, traveled through time!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1278,
+            1804,
+            1331,
+            2013
+        ],
+        "text": "You persevered for 20 years...",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

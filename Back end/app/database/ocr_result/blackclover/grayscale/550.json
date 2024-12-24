@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            228,
+            45,
+            252,
+            170
+        ],
+        "text": "...GAJA?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            176,
+            749,
+            388,
+            901
+        ],
+        "text": "And so, three days from now we'll invade the Spade Kingdom in the early morning hours.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            664,
+            522,
+            732,
+            598
+        ],
+        "text": "What about you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            958,
+            30,
+            1056,
+            147
+        ],
+        "text": "Whether they make it in time is up to them though...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            353,
+            1136,
+            458
+        ],
+        "text": "The people of your country who are here are also preparing for a second battle.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1136,
+            69,
+            1214,
+            157
+        ],
+        "text": "I see. You have my thanks.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1083,
+            507,
+            1238,
+            631
+        ],
+        "text": "I swear on the honor of the Heart Kingdom that we will retake our queen!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1048,
+            861,
+            1124,
+            947
+        ],
+        "text": "We'll join the fight as well.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1233,
+            801,
+            1369,
+            910
+        ],
+        "text": "We're currently with the elves, building up our strength.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1318,
+            322,
+            1361,
+            428
+        ],
+        "text": "F F",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

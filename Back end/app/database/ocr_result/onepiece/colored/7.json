@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            83,
+            856,
+            172,
+            1021
+        ],
+        "text": "NOW,\nTHE TIME HAS\nCOME FOR YOU\nDAIMYO TO\nCHOOSE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            238,
+            71,
+            340,
+            221
+        ],
+        "text": "WILL YOU\nHELP US\nUSHER IN A\nNEW WANO?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            49,
+            500,
+            189
+        ],
+        "text": "OR WILL\nYOU TRY TO\nWAGE WAR?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            887,
+            700,
+            1008
+        ],
+        "text": "A STUPID\nQUESTION...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            409,
+            984,
+            518
+        ],
+        "text": "...WITH AN\nOBVIOUS\nANSWER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            84,
+            969,
+            327
+        ],
+        "text": "KIBI\nHAKU-\nMAI",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            937,
+            582,
+            976,
+            839
+        ],
+        "text": "RINGO\nUDON",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1123,
+            69,
+            1257,
+            221
+        ],
+        "text": "IT IS\nOUR DUTY\nTO AVENGE\nODEN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1102,
+            837,
+            1248,
+            1014
+        ],
+        "text": "WE REFUSE\nTO RECOGNIZE\nA SHOGUN\nTHAT ISN'T A\nKOZUKI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

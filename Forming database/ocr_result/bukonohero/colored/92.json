@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            69,
+            913,
+            156,
+            991
+        ],
+        "text": "I see a future where heroes have time to kill.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            572,
+            78,
+            630,
+            166
+        ],
+        "text": "One so bright, we can't help but grin.",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

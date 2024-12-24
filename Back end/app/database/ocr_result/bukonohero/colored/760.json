@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            72,
+            673,
+            154,
+            855
+        ],
+        "text": "Lemme give you your hankie back...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            769,
+            503,
+            839
+        ],
+        "text": "GLOOP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            653,
+            713,
+            675,
+            807
+        ],
+        "text": "Twice?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            755,
+            925,
+            798
+        ],
+        "text": "Ahhh",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1048,
+            445,
+            1110,
+            561
+        ],
+        "text": "Tug",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1063,
+            690,
+            1150,
+            827
+        ],
+        "text": "Staying covered keeps you whole, huh?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            41,
+            73,
+            164,
+            185
+        ],
+        "text": "But can it save you from being crushed and compacted to death?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            216,
+            148,
+            320
+        ],
+        "text": "We know you've got tough skin!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            380,
+            94,
+            407,
+            307
+        ],
+        "text": "Gum-Gum...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            713,
+            72,
+            776,
+            188
+        ],
+        "text": "...to deliver a surgical death...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            697,
+            244,
+            772,
+            321
+        ],
+        "text": "I will go straight inside the body...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            444,
+            1051,
+            589
+        ],
+        "text": "They might as well be monsters in their own right!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            927,
+            1333,
+            1038,
+            1482
+        ],
+        "text": "Woro ro ro ro ro!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            16,
+            1454,
+            67,
+            1529
+        ],
+        "text": "Da-doom!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

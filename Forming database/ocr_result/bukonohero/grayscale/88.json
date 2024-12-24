@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            67,
+            90,
+            125,
+            196
+        ],
+        "text": "Ever since we met that day...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            249,
+            12,
+            327,
+            127
+        ],
+        "text": "...I've been thinking hard about you!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            164,
+            616,
+            283
+        ],
+        "text": "...I had a shot with Izuku, but... Nope! I'm over all that now!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            577,
+            280,
+            616,
+            357
+        ],
+        "text": "I thought maybe...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            438,
+            418,
+            531,
+            515
+        ],
+        "text": "Oh? You haven't been on my mind.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            570,
+            392,
+            640,
+            457
+        ],
+        "text": "Not anymore!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            651,
+            10,
+            668,
+            87
+        ],
+        "text": "Uraraka!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            558,
+            790,
+            649
+        ],
+        "text": "The world rejected me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            352,
+            836,
+            428
+        ],
+        "text": "...so I reject the world.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            12,
+            874,
+            84
+        ],
+        "text": "It's sad, really...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            181,
+            826,
+            280
+        ],
+        "text": "Ochaco...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            820,
+            943,
+            934,
+            1072
+        ],
+        "text": "Not so fast, Himiko Toga!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

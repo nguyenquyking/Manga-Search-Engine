@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            65,
+            71,
+            114,
+            157
+        ],
+        "text": "BLAZER!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            303,
+            77,
+            377
+        ],
+        "text": "HENRY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            593,
+            212,
+            680,
+            286
+        ],
+        "text": "YOU GET IT YET?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            380,
+            636,
+            478,
+            734
+        ],
+        "text": "MWA HA HA HA HA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            79,
+            889,
+            175
+        ],
+        "text": "...UNTIL AFTER YOU TRANSFORMED!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            928,
+            60,
+            1063,
+            188
+        ],
+        "text": "SEE,\nJUDGE'S SONS ARE LIKE THE\nAMALGAMATION\nOF ALL OF HIS\nSCIENTIFIC\nTECH!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            778,
+            617,
+            828,
+            748
+        ],
+        "text": "I'M USING\nGERMA 66'S\nMOVES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            886,
+            497,
+            1013,
+            669
+        ],
+        "text": "AAH!!!\nI WAS\nSAVING\nTHEM UP...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            178,
+            575,
+            259,
+            732
+        ],
+        "text": "DEMON-DESTROYER!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            826,
+            237,
+            846,
+            373
+        ],
+        "text": "@NixkSenpai",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            836,
+            4,
+            850,
+            155
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            53,
+            59,
+            214,
+            210
+        ],
+        "text": "YOUR HOME AWAY FROM HOME WENT UP IN THE BLINK OF AN EYE, THANKS TO CEMENTOSS, POWER LOADER, AND ECTOPLASM.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            528,
+            127,
+            664
+        ],
+        "text": "MAKESHIFT FORTRESS:\n TROY",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            288,
+            48,
+            409,
+            166
+        ],
+        "text": "CAN'T HOLD A CANDLE TO U.A. ITSELF, BUT IT'S STURDY ENOUGH.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            731,
+            16,
+            787,
+            80
+        ],
+        "text": "DON'T EVEN JOKE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            172,
+            755,
+            273
+        ],
+        "text": "MAYBE THE LAST PLACE WE'LL EVER LAY OUR HEADS?\nLET'S HOPE NOT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            307,
+            637,
+            356
+        ],
+        "text": "TRULY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            382,
+            692,
+            450
+        ],
+        "text": "WOW. SO FAITHFUL TO THE HEIGHTS ALLIANCE DESIGN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            629,
+            475,
+            777,
+            570
+        ],
+        "text": "NOW TOSS YOUR CARGO IN YOUR NEW ROOMS AND GET IN GEAR.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

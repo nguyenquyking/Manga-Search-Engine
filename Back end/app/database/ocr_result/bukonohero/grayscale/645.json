@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            77,
+            104,
+            149,
+            204
+        ],
+        "text": "...If she's the one who comes for you...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            230,
+            159,
+            325
+        ],
+        "text": "Hunting her down is one of my top priorities, but...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            619,
+            158,
+            715
+        ],
+        "text": "She's actually a former senior colleague of mine.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            148,
+            403,
+            213
+        ],
+        "text": "...and run.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            345,
+            593,
+            383,
+            731
+        ],
+        "text": "...Drop everything...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            86,
+            977,
+            186
+        ],
+        "text": "Yeah, it's her.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            258,
+            1008,
+            363
+        ],
+        "text": "Ammunition made of pink and dark-blue fibers...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            701,
+            532,
+            731,
+            658
+        ],
+        "text": "No. 312\u2014Hired Gun",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

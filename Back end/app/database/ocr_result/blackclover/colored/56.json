@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            318,
+            742,
+            481,
+            852
+        ],
+        "text": "Tch... Usually gettin' all up close and personal all of a sudden would be a good thing, but...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            546,
+            711,
+            644,
+            863
+        ],
+        "text": "We gotta save up our magic, or at this rate, we'll run out...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            453,
+            34,
+            536,
+            176
+        ],
+        "text": "Hey now, really? After I saved your ass?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            36,
+            787,
+            161
+        ],
+        "text": "You might be different on the inside, but you're still that thorny tsundere princess, huh...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            551,
+            847,
+            676
+        ],
+        "text": "Hey. You're too close, human. Back off, why don't you?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1151,
+            31,
+            1242,
+            152
+        ],
+        "text": "Wonder if yer big elf boss man's all right.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1119,
+            730,
+            1222,
+            860
+        ],
+        "text": "But it's a good thing you can use healing magic, dammit.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

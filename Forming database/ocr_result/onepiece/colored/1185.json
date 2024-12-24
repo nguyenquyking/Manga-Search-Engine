@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            72,
+            25,
+            176,
+            163
+        ],
+        "text": "THAT'S 88 BONES IN ALL!\nPLUS FOUR CONTESTANTS\nGONE MISSING!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            221,
+            166,
+            335
+        ],
+        "text": "...FOUR SKULLS, AND\nSEVEN SPINES!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            380,
+            152,
+            484
+        ],
+        "text": "TEN ARMS,\n15 LEGS,\n52 RIBS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            537,
+            157,
+            633
+        ],
+        "text": "...HOW MANY\nBROKEN\nBONES HAVE\nWE HAD?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            649,
+            144,
+            704
+        ],
+        "text": "AND\nOUT OF\nTHAT\nTOTAL...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            453,
+            76,
+            561,
+            201
+        ],
+        "text": "THE UNDEFEATED\nMONSTER,\nURASHIMA THE\nYOKOZUNA!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            454,
+            568,
+            534,
+            692
+        ],
+        "text": "HIS MIGHT\nIS SIMPLY\nINHUMAN!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            597,
+            17,
+            643,
+            106
+        ],
+        "text": "URA-SHIMAAA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            597,
+            712,
+            700
+        ],
+        "text": "BEAT\nURASHIMA,\nYOU SLUGS!\nI PUT MONEY\nON YOU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            475,
+            996,
+            533
+        ],
+        "text": "TAKE\nPOSITIONS!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            456,
+            1106,
+            534
+        ],
+        "text": "AT THE\nREADY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1098,
+            42,
+            1138,
+            99
+        ],
+        "text": "OOOOOH\n!!\u2661",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1095,
+            642,
+            1122,
+            706
+        ],
+        "text": "HMM?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

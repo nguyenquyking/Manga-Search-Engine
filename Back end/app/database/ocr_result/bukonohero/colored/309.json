@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            55,
+            735,
+            289,
+            978
+        ],
+        "text": "BAM!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1091,
+            503,
+            1136,
+            574
+        ],
+        "text": "AND NOW...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1111,
+            60,
+            1177,
+            135
+        ],
+        "text": "...ONE\nFINAL\nPUSH!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1088,
+            669,
+            1100,
+            709
+        ],
+        "text": "SIZZ!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1395,
+            9,
+            1422,
+            258
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "5",
+        "type": "background"
+    }
+]

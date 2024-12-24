@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            407,
+            1337,
+            432,
+            1495
+        ],
+        "text": "Momo... Father!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            360,
+            740,
+            426
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1123,
+            79,
+            1136,
+            250
+        ],
+        "text": "To be continued!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

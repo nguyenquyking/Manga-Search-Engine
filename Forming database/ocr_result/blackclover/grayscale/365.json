@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            129,
+            333,
+            336,
+            471
+        ],
+        "text": "All your piddling magic is good for giving the propulsion system an assist!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            853,
+            318,
+            980
+        ],
+        "text": "You bottom-rung trash can't even cast decent attack spells.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            69,
+            619,
+            195
+        ],
+        "text": "But... I've got an important, extra-special job for you.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            71,
+            924,
+            180
+        ],
+        "text": "A lowly nobody like you gets to entertain me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            737,
+            437,
+            860,
+            532
+        ],
+        "text": "Nooooooooo!!! AAAAAAH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            902,
+            394,
+            963,
+            422
+        ],
+        "text": "Big sister!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1235,
+            51,
+            1464,
+            186
+        ],
+        "text": "You better be happy about it! Gah haw haw haw haw!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1268,
+            894,
+            1422,
+            978
+        ],
+        "text": "One you could do in your sleep.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

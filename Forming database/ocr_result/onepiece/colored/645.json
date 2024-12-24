@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            230,
+            68,
+            322,
+            188
+        ],
+        "text": "You hag, do you have any idea who I...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            335,
+            150,
+            410
+        ],
+        "text": "WHOA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            409,
+            57,
+            508,
+            200
+        ],
+        "text": "AIEEEE!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            60,
+            443,
+            109,
+            848
+        ],
+        "text": "Oof",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            367,
+            826,
+            504,
+            1045
+        ],
+        "text": "Gimme your Oshiruko, you big dumb lizard!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            146,
+            481,
+            301,
+            1203
+        ],
+        "text": "AAAAAAAA",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            49,
+            1255,
+            116,
+            1406
+        ],
+        "text": "MASTER QUEEN!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            361,
+            1123,
+            382,
+            1301
+        ],
+        "text": "CRACK CRACK CRACK CRACK!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            612,
+            1383,
+            666,
+            1491
+        ],
+        "text": "OSHIRU-KOOO!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            799,
+            1415,
+            827,
+            1492
+        ],
+        "text": "O...OLIN?!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1002,
+            1121,
+            1080,
+            1212
+        ],
+        "text": "She's not just some old lady,\nI'll tell you that!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            967,
+            1406,
+            1033,
+            1489
+        ],
+        "text": "Who is that old woman?!",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            45,
+            1112,
+            159
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "8",
+        "type": "sound_effect"
+    }
+]

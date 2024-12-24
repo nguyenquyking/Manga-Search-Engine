@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            382,
+            77,
+            429,
+            196
+        ],
+        "text": "KAIDO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            605,
+            36,
+            708,
+            147
+        ],
+        "text": "WHAT'S HAPPENING!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            371,
+            761,
+            483
+        ],
+        "text": "STRAW HAT-YA?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            719,
+            770,
+            816
+        ],
+        "text": "WHAT IS THAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            60,
+            963,
+            196
+        ],
+        "text": "THAT'S 'CAUSE YOU KEEP SMASHING THROUGH WALLS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            868,
+            492,
+            967,
+            622
+        ],
+        "text": "THERE'S SOMETHING STUCK IN THEM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            873,
+            662,
+            968,
+            834
+        ],
+        "text": "CUT IT OUT ALREADY!! OPEN YOUR EYES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            86,
+            1102,
+            198
+        ],
+        "text": "HELP ME, LUFFY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1166,
+            68,
+            1259,
+            195
+        ],
+        "text": "JUST GRIT YOUR TEETH AND LOOK WHERE YOU'RE GOING!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

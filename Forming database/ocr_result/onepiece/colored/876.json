@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            68,
+            47,
+            154,
+            133
+        ],
+        "text": "WHAT IS THAT?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            103,
+            191,
+            168,
+            294
+        ],
+        "text": "LIGHTNING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            637,
+            150,
+            726
+        ],
+        "text": "EVERYONE, GET DOWN!!\nNINPO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            609,
+            735,
+            725
+        ],
+        "text": "BLAST!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            944,
+            530,
+            996,
+            628
+        ],
+        "text": "AAAAGH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

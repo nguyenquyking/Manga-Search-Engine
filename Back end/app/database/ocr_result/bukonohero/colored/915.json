@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            63,
+            735,
+            258,
+            885
+        ],
+        "text": "Those are the words you told me when I was being a fool all those months ago!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            401,
+            432,
+            448,
+            552
+        ],
+        "text": "I'm sorry, okay...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            468,
+            855,
+            545,
+            940
+        ],
+        "text": "...Remember? Before the workplace experience...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            834,
+            103,
+            928,
+            186
+        ],
+        "text": "It's nothing...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            714,
+            608,
+            793,
+            702
+        ],
+        "text": "What the?! You okay?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            742,
+            839,
+            910
+        ],
+        "text": "Hnn... Hrkk! Moan... Wha, huh?!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1160,
+            98,
+            1245,
+            244
+        ],
+        "text": "But... Thank you, Iida!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            753,
+            1248,
+            907
+        ],
+        "text": "I can't talk about it.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

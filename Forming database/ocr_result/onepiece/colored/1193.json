@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            72,
+            67,
+            156,
+            178
+        ],
+        "text": "...and gets the occasional meal of crude millet, at best!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            205,
+            136,
+            296
+        ],
+        "text": "She weaves hats, day in and out...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            332,
+            138,
+            406
+        ],
+        "text": "NEVER!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            444,
+            122,
+            578
+        ],
+        "text": "You've never had that stuff before?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            69,
+            463,
+            270
+        ],
+        "text": "I'll never have such a nice birthday again! Sorry, Master...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            375,
+            344,
+            440,
+            437
+        ],
+        "text": "I'm not worthy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            489,
+            451,
+            596
+        ],
+        "text": "What an extravagant food!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            640,
+            456,
+            728
+        ],
+        "text": "It even has mochi inside!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            564,
+            68,
+            631,
+            159
+        ],
+        "text": "Mochi! Mochi!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            682,
+            57,
+            748,
+            173
+        ],
+        "text": "Can't you make those dumplings from your cheeks?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            57,
+            832,
+            188
+        ],
+        "text": "Those don't fill my stomach.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            53,
+            1022,
+            173
+        ],
+        "text": "...is the bestest day ever!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            931,
+            350,
+            964,
+            427
+        ],
+        "text": "Today",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            926,
+            676,
+            946,
+            733
+        ],
+        "text": "sniff",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1072,
+            460,
+            1095,
+            542
+        ],
+        "text": "Otsuru",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

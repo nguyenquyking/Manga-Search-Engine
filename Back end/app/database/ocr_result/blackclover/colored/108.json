@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            18,
+            165,
+            75,
+            265
+        ],
+        "text": "THIS IS BAD!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            117,
+            17,
+            256,
+            117
+        ],
+        "text": "MY BODY'S AT ITS LIMIT...!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            312,
+            172,
+            401
+        ],
+        "text": "GUH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            458,
+            190,
+            501,
+            506
+        ],
+        "text": "TEAM: @COLORCLOVERS",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            555,
+            407,
+            678,
+            532
+        ],
+        "text": "WE WILL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            21,
+            928,
+            250
+        ],
+        "text": "SAVE THEIR COMRADES!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            784,
+            669,
+            870
+        ],
+        "text": "ANTI-MAGIC BOY...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            703,
+            561,
+            969,
+            722
+        ],
+        "text": "AND THE WIND MAGIC BOY WHOM HE FIGHTS WITH... WE HAVE NO CHOICE BUT TO LEAVE IT TO THEM...!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1088,
+            7,
+            1118,
+            299
+        ],
+        "text": "ARTIST: @RED_XEROX",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

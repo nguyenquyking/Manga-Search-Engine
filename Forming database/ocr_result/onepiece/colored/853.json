@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            84,
+            93,
+            145,
+            198
+        ],
+        "text": "That was a frightening scene...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            365,
+            150,
+            484
+        ],
+        "text": "I tell you, the town was in quite an uproar!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            103,
+            541,
+            186,
+            734
+        ],
+        "text": "The Northern Graveyard\nRINGO, WANO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            252,
+            576,
+            349,
+            682
+        ],
+        "text": "Kibi\nF.C.\nUdon\nHakumai",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            429,
+            66,
+            546,
+            198
+        ],
+        "text": "I hope it was the right choice to leave Otoko at the brothel. I'm worried for her...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            453,
+            226,
+            493,
+            285
+        ],
+        "text": "Catchy name...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            310,
+            560,
+            463
+        ],
+        "text": "Twenty years ago, the greatest Yakuza boss in all of Wano, without question, was Hyogoro the Flower.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            490,
+            537,
+            595
+        ],
+        "text": "Kyoshiro is a name unfamiliar to the rest of us!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            631,
+            549,
+            736
+        ],
+        "text": "Who goes around slashing pretty women like that?! Samurai are scary...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            706,
+            65,
+            788,
+            146
+        ],
+        "text": "She did incur the Shogun's wrath...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            870,
+            64,
+            976,
+            188
+        ],
+        "text": "Every aspect of life from the bottom up is under his rule in the Flower Capital.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            228,
+            966,
+            381
+        ],
+        "text": "We'll have to go in disguise. The baths and the drinking water are all under Orochi's control.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            426,
+            974,
+            549
+        ],
+        "text": "Why don't we go check on her, and then visit a bathhouse in town? I'm exhausted.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            589,
+            960,
+            725
+        ],
+        "text": "...But do you really think he'd go running around after a mere child?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            57,
+            1119,
+            143
+        ],
+        "text": "I agree, though... Let's take a break.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

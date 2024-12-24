@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            200,
+            72,
+            326,
+            226
+        ],
+        "text": "Even after watching us all this time, it looks like you still don't get it.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            94,
+            349,
+            212,
+            544
+        ],
+        "text": "Phoo",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            176,
+            808,
+            390,
+            949
+        ],
+        "text": "It's kind of late to be saying stuff like that, after you parked yourself at our place without asking.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            608,
+            38,
+            707,
+            136
+        ],
+        "text": "Let's live it up together from now on!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            508,
+            235,
+            648,
+            349
+        ],
+        "text": "You worked hard in the shadows... I think you and I would get along. Come be my friend.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            852,
+            82,
+            960,
+            160
+        ],
+        "text": "First things first\u2014eat a lot.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            939,
+            228,
+            1059,
+            307
+        ],
+        "text": "I'm glad I didn't eat her when she was a bird.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            415,
+            998,
+            543
+        ],
+        "text": "A cutie like you is always more than welcome!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            845,
+            737,
+            928
+        ],
+        "text": "They told us all about you!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            799,
+            1056,
+            951
+        ],
+        "text": "Toughing it out as a bird for 500 freakin' years... You're a lady, but you're totally the man!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1193,
+            452,
+            1350,
+            537
+        ],
+        "text": "Having a weird case like you around won't change a thing.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1368,
+            371,
+            1456,
+            457
+        ],
+        "text": "Your ki seems the same to me anyway.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

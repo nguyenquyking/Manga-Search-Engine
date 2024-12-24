@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            305,
+            128,
+            383,
+            204
+        ],
+        "text": "THIS GUY'S GOT REFLEXES FOR DAYS!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            343,
+            396,
+            389,
+            433
+        ],
+        "text": "!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            412,
+            649,
+            403,
+            713
+        ],
+        "text": "FWOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

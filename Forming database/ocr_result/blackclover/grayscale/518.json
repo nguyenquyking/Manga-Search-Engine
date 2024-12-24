@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            681,
+            512,
+            761,
+            594
+        ],
+        "text": "!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            961,
+            531,
+            1032,
+            602
+        ],
+        "text": "WHO ARE YOU?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            770,
+            1014,
+            872
+        ],
+        "text": "ASTA?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1350,
+            227,
+            1424,
+            343
+        ],
+        "text": "AN INTRUDER?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1361,
+            99,
+            1384,
+            150
+        ],
+        "text": "HM?",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

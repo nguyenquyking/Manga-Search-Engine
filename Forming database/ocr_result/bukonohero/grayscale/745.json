@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            82,
+            213,
+            147,
+            294
+        ],
+        "text": "...I felt I was left with no choice at",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            339,
+            120,
+            456
+        ],
+        "text": "As for the matter of Bubaiagara...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            330,
+            486,
+            425,
+            588
+        ],
+        "text": "...We would be looking at more widespread death and destruction.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            291,
+            602,
+            374,
+            680
+        ],
+        "text": "If he had been allowed to wield his quirk freely...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            543,
+            251,
+            622,
+            368
+        ],
+        "text": "...And that is truly a shame. It speaks to my lack of character.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            538,
+            624,
+            618,
+            742
+        ],
+        "text": "I couldn't find a proper way to help him atone for his crimes...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1014,
+            86,
+            1076,
+            184
+        ],
+        "text": "...My mother was horribly wounded.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            843,
+            401,
+            893,
+            528
+        ],
+        "text": "During Gigantomachia's rampage...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1025,
+            649,
+            1076,
+            732
+        ],
+        "text": "A question, if I may?",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

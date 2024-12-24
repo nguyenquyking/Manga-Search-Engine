@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            68,
+            40,
+            273,
+            190
+        ],
+        "text": "IT LEECHED MAGIC AND LIFE ENERGY RIGHT OUT OF ME?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            228,
+            898,
+            257,
+            964
+        ],
+        "text": "GHK...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            484,
+            524,
+            582,
+            728
+        ],
+        "text": "SHHH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            854,
+            55,
+            1049,
+            174
+        ],
+        "text": "IT'S A SPELL THAT DEVOURS LIFE. I JUST OPENED THE LID A LITTLE BIT, BUT THERE'S NO STOPPING IT NOW.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            881,
+            588,
+            977,
+            678
+        ],
+        "text": "NOW YOU WON'T BE ABLE TO WIELD A BLADE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1361,
+            829,
+            1448,
+            893
+        ],
+        "text": "NEH HEH HEH.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            111,
+            77,
+            266,
+            283
+        ],
+        "text": "There are more of these things up ahead!! We must hurry to Mirko's aid!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            184,
+            633,
+            267,
+            865
+        ],
+        "text": "KSHK KSHK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            616,
+            106,
+            642,
+            184
+        ],
+        "text": "KASHNK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1190,
+            95,
+            1378,
+            222
+        ],
+        "text": "QUIRK:\nSHIELD\nHis entire body can produce shields!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1240,
+            686,
+            1300,
+            865
+        ],
+        "text": "NO. 6 HERO:\nCRUST",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

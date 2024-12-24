@@ -1,0 +1,288 @@
+[
+    {
+        "text_box": [
+            129,
+            134,
+            218,
+            241
+        ],
+        "text": "AHA HA\nHA HA HA\nHA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            613,
+            164,
+            758
+        ],
+        "text": "NIKA",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            41,
+            332,
+            133,
+            583
+        ],
+        "text": "DOOM DUT DA DA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            468,
+            327,
+            488,
+            470
+        ],
+        "text": "DOOM DUT DA DA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            61,
+            912,
+            138,
+            1009
+        ],
+        "text": "THE HALL\nOF POWER,\nPANGAEA\nCASTLE",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            103,
+            1045,
+            138,
+            1139
+        ],
+        "text": "GRRRRMMM...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            235,
+            901,
+            321,
+            1025
+        ],
+        "text": "...AND MADE\nKAIDO ANGRY.\nWHAT WAS THE\nPOINT?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            219,
+            1354,
+            304,
+            1453
+        ],
+        "text": "SO\nWE'VE LOST\nAN ELITE\nAGENT...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            423,
+            1086,
+            535,
+            1216
+        ],
+        "text": "IN EVERY\nERA, THE WORLD\nGOVERNMENT HAS\nATTEMPTED TO\nRECOVER THE GUM-\nGUM FRUIT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            432,
+            896,
+            510,
+            990
+        ],
+        "text": "...AND\nNOT ONCE\nHAS IT EVER\nSUCCEEDED.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            613,
+            893,
+            657,
+            976
+        ],
+        "text": "FOR 800\nYEARS!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            433,
+            1257,
+            524,
+            1350
+        ],
+        "text": "IT IS ALWAYS\nBETTER TO\nELIMINATE\nDANGEROUS\nVARIABLES...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            422,
+            1365,
+            504,
+            1509
+        ],
+        "text": "WHAT IF I TOLD\nYOU THAT THERE WAS\nA POTENTIAL FUTURE\nTHAT WOULD MAKE\nUS BEG FOR THIS\nOUTCOME?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            597,
+            194,
+            697,
+            293
+        ],
+        "text": "THE\nWARRIOR OF\nLIBERATION,\nALSO KNOWN\nAS...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            571,
+            319,
+            687,
+            448
+        ],
+        "text": "...AND FIGHTING\nIN WHATEVER\nWAY HE FANCIES,\nBRINGING SMILES\nTO THE FACES OF\nTHE PEOPLE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            604,
+            471,
+            684,
+            588
+        ],
+        "text": "POSSESSING A\nBODY WITH THE\nPROPERTIES OF\nRUBBER...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            832,
+            119,
+            937,
+            293
+        ],
+        "text": "AWAKENING\nBRINGS HIS RUBBERY\nBODY GREATER\nPHYSICAL STRENGTH\nAND FREEDOM.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            995,
+            79,
+            1057,
+            188
+        ],
+        "text": "IT IS SAID\nTHAT IN ALL\nTHE WORLD...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            898,
+            616,
+            1016,
+            758
+        ],
+        "text": "NIKA,\nTHE SUN\nGOD.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            759,
+            892,
+            838,
+            1001
+        ],
+        "text": "THE ZOAN-\nTYPE HUMAN-\nHUMAN\nFRUIT...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            759,
+            1034,
+            858,
+            1124
+        ],
+        "text": "AND THIS\nPARTICULAR\nFRUIT HAS\nTHE NAME\nOF A GOD...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            768,
+            1143,
+            826,
+            1257
+        ],
+        "text": "ZOAN FRUITS\nCONTAIN A WILL\nOF THEIR OWN.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            774,
+            1354,
+            858,
+            1508
+        ],
+        "text": "IT IS AS THOUGH\nTHE DEVIL FRUIT IS\nTRYING TO ESCAPE\nOUR GRASP.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            936,
+            1398,
+            999,
+            1489
+        ],
+        "text": "AND IT\nVERY WELL\nMIGHT BE.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1001,
+            1039,
+            1080,
+            1138
+        ],
+        "text": "THE OTHER\nNAME OF THE\nGUM-GUM\nFRUIT IS...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1017,
+            898,
+            1085,
+            992
+        ],
+        "text": "MYTHICAL\nTYPE,\nMODEL...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

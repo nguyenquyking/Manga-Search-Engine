@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            94,
+            101,
+            145,
+            213
+        ],
+        "text": "HUH?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            279,
+            88,
+            361,
+            182
+        ],
+        "text": "W...W-W-W...WHAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            625,
+            198,
+            723
+        ],
+        "text": "NOW THEY'RE TEAMING UP.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            530,
+            68,
+            610,
+            187
+        ],
+        "text": "WHAT DOES THAT MEAN?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            427,
+            615,
+            676
+        ],
+        "text": "MARINE HQ\nTOP SECRET SPECIAL FORCE\nCAPTAIN OF \"SWORD\"\nX. DRAKE",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            748,
+            68,
+            830,
+            142
+        ],
+        "text": "I DON'T LIKE THE IMPLICATIONS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            180,
+            807,
+            266
+        ],
+        "text": "WHAT?! WHY ARE THEY IN WANO?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            323,
+            800,
+            374
+        ],
+        "text": "...I SAW CPO.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            513,
+            804,
+            620
+        ],
+        "text": "...THE SITUATION'S STAGNANT. NO NEWS OF A BREAKOUT.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            720,
+            646,
+            786,
+            741
+        ],
+        "text": "AS FOR STRAW HAT LUFFY...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1056,
+            118,
+            1140,
+            315
+        ],
+        "text": "MARINE HQ CAPTAIN\nMEMBER OF \"SWORD\"\nKOBY",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1070,
+            462,
+            1146,
+            541
+        ],
+        "text": "IN THE CAPITAL\nTHE OTHER DAY...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1069,
+            584,
+            1142,
+            679
+        ],
+        "text": "AND THERE'S ONE MORE FOREBODING BIT OF NEWS.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

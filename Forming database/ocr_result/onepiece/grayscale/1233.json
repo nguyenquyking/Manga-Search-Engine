@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            41,
+            155,
+            153,
+            313
+        ],
+        "text": "So that's the world's most powerful hag!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            432,
+            152,
+            575
+        ],
+        "text": "She's terrifying up close!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            4,
+            735,
+            145,
+            981
+        ],
+        "text": "CRACK\nCRUNCH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            46,
+            1333,
+            104,
+            1493
+        ],
+        "text": "ZAP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            118,
+            1955,
+            209,
+            2073
+        ],
+        "text": "In other words...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            180,
+            1697,
+            209,
+            1766
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            272,
+            1887,
+            300,
+            1964
+        ],
+        "text": "Eek!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            108,
+            545,
+            191
+        ],
+        "text": "Nami?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            258,
+            523,
+            592
+        ],
+        "text": "Zeus...Oof!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            521,
+            678,
+            665,
+            900
+        ],
+        "text": "...Calling my name, Kaido?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            465,
+            1872,
+            633,
+            2019
+        ],
+        "text": "Did I hear you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            841,
+            191,
+            977,
+            394
+        ],
+        "text": "But I'm still in time, aren't I?! Mama Mama!! Don't be a stickler!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            450,
+            982,
+            580
+        ],
+        "text": "Took you long enough, Linlin!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            905,
+            663,
+            1024,
+            780
+        ],
+        "text": "Aaah!! It's Big Mom!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1019,
+            78,
+            1123,
+            236
+        ],
+        "text": "If we bicker and fight, it'll stay out of reach...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1174,
+            76,
+            1281,
+            247
+        ],
+        "text": "...But when we join sides, we pull it within range!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1352,
+            87,
+            1489,
+            309
+        ],
+        "text": "Listen up, people!! We're putting our weight into the piracy business!! At long last...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1072,
+            1845,
+            1129,
+            1981
+        ],
+        "text": "Lan-tern\nLan-tern",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1112,
+            908,
+            1193,
+            1025
+        ],
+        "text": "Be-beng\nBe-beng",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1297,
+            1324,
+            1489,
+            1665
+        ],
+        "text": "Captain of the Big Mom Pirates\n Olin the Oiran\n Bounty: 4,388 Billion",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

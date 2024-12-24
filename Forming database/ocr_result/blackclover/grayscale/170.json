@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1377,
+            41,
+            1483,
+            182
+        ],
+        "text": "Excellent work, Yami and William.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1139,
+            499,
+            1204,
+            628
+        ],
+        "text": "Julius?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            876,
+            1164,
+            957
+        ],
+        "text": "What the...?!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

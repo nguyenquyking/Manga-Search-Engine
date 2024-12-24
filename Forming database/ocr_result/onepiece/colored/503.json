@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            88,
+            76,
+            163,
+            206
+        ],
+        "text": "Our Sunny is here on the coast!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            244,
+            134,
+            308
+        ],
+        "text": "Okay!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            347,
+            180,
+            428
+        ],
+        "text": "We must get there before everyone else.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            462,
+            171,
+            581
+        ],
+        "text": "We're going to leave first, Sir Luffy.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            96,
+            637,
+            306,
+            731
+        ],
+        "text": "Amigasa Village, Kuri\nThe day before the raid!!",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            483,
+            81,
+            535,
+            139
+        ],
+        "text": "You bet!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            180,
+            518,
+            244
+        ],
+        "text": "At the port, then!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            328,
+            547,
+            428
+        ],
+        "text": "Remember, we're counting on you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            484,
+            528,
+            584
+        ],
+        "text": "Preposterous! We've been scouting",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            634,
+            518,
+            729
+        ],
+        "text": "Don't get spotted, all right?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            654,
+            300,
+            746,
+            372
+        ],
+        "text": "Go on ahead. We got this!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            59,
+            884,
+            140
+        ],
+        "text": "What's true?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            253,
+            888,
+            337
+        ],
+        "text": "You think it's true...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            819,
+            373,
+            920,
+            498
+        ],
+        "text": "...and even more unfortunate laborers beneath them.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            829,
+            627,
+            930,
+            739
+        ],
+        "text": "There are countless smoke-stacks over this land...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            86,
+            503,
+            145,
+            615
+        ],
+        "text": "Okay, I'm getting the picture now.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            118,
+            29,
+            181,
+            136
+        ],
+        "text": "...so he's still eight years old...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            226,
+            494,
+            318,
+            616
+        ],
+        "text": "Momo traveled 20 years ahead in time...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            242,
+            38,
+            330,
+            125
+        ],
+        "text": "...while his little sister is now 26...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            430,
+            26,
+            534,
+            150
+        ],
+        "text": "Otoko is one of the few friends I have who knows my true nature.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            216,
+            502,
+            340
+        ],
+        "text": "Big sis and me made it our special secret!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            380,
+            500,
+            506
+        ],
+        "text": "Yeah, it's fine! I already know!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            593,
+            500,
+            694
+        ],
+        "text": "And she's allowed to be hearing all of this?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            21,
+            700,
+            141
+        ],
+        "text": "It's her cheeriness that helps me get through the day.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            193,
+            715,
+            279
+        ],
+        "text": "AHA HA HA!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            796,
+            38,
+            920,
+            191
+        ],
+        "text": "Before my eyes, my brother and the others simply vanished among the roaring flames...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            988,
+            46,
+            1086,
+            182
+        ],
+        "text": "It was the same day that I lost my father, Oden...as well as my mother...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            804,
+            545,
+            894,
+            679
+        ],
+        "text": "Twenty years ago, I was as young as she is now...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            968,
+            558,
+            1105,
+            704
+        ],
+        "text": "...But I'll never forget what happened that terrible day!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

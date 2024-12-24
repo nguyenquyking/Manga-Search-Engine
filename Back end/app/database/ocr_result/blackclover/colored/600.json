@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            225,
+            174,
+            405,
+            391
+        ],
+        "text": "You're as nasty as ever, I see.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            796,
+            333,
+            1024
+        ],
+        "text": "That \"former\" was uncalled-for.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1179,
+            152,
+            1290,
+            302
+        ],
+        "text": "Not as nasty as you.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1356,
+            1448,
+            1569,
+            1695
+        ],
+        "text": "Former Vice Captain Langris!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1623,
+            176,
+            1959,
+            380
+        ],
+        "text": "Oh? Where's the noisy spirit that's always with you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2310,
+            172,
+            2502,
+            325
+        ],
+        "text": "Why are you here?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2139,
+            695,
+            2502,
+            926
+        ],
+        "text": "That said, I can't confirm how effective it will actually be...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2139,
+            1022,
+            2358,
+            1257
+        ],
+        "text": "I've worked out a way to defeat Zenon.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2406,
+            1806,
+            2658,
+            1996
+        ],
+        "text": "Bell's holed up in my grimoire right now.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

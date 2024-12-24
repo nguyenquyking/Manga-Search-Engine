@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            121,
+            57,
+            193,
+            181
+        ],
+        "text": "It's pitch black...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            1665,
+            544,
+            2015
+        ],
+        "text": "Mana Zone:\nDark Prison\nHunting Ground",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1160,
+            115,
+            1217,
+            217
+        ],
+        "text": "This is...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

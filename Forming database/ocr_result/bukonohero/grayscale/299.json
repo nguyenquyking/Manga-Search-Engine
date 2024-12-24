@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            29,
+            88,
+            46,
+            156
+        ],
+        "text": "...Yoichi.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            28,
+            252,
+            99,
+            335
+        ],
+        "text": "This is where it truly begins...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            34,
+            386,
+            196,
+            520
+        ],
+        "text": "New Order requires those verbal commands, so you couldn't protect yourself as it was being stolen.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            35,
+            600,
+            143,
+            718
+        ],
+        "text": "Your body began decaying the moment I absorbed your Quirk.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            223,
+            50,
+            254,
+            112
+        ],
+        "text": "Those comics!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            220,
+            257,
+            309,
+            347
+        ],
+        "text": "The stories I read with you that day...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            308,
+            384,
+            430,
+            519
+        ],
+        "text": "You prioritized saving your own skin and lost everything in the process.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            554,
+            2,
+            669,
+            101
+        ],
+        "text": "So I chose to stop reading there!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            689,
+            212,
+            761,
+            272
+        ],
+        "text": "\"The air is...\"",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            556,
+            287,
+            625,
+            380
+        ],
+        "text": "I knew how it would go...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            558,
+            417,
+            760,
+            527
+        ],
+        "text": "I didn't realize there was more to the story? Wrong.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            526,
+            604,
+            575,
+            732
+        ],
+        "text": "You thought...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            936,
+            545,
+            985,
+            641
+        ],
+        "text": "New Order!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

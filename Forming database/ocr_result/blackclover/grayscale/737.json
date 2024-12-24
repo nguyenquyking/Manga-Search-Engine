@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            453,
+            40,
+            665,
+            218
+        ],
+        "text": "Vortex Magic Area Helix",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            873,
+            930,
+            910,
+            972
+        ],
+        "text": "It's too",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            851,
+            1116,
+            919
+        ],
+        "text": "It's just... There's no way to deal with that!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            1035,
+            1111,
+            1115
+        ],
+        "text": "Run for it!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            1443,
+            1098,
+            1545
+        ],
+        "text": "Waaa-aaa-aaa-ugh!!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

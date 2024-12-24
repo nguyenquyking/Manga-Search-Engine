@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            1223,
+            169,
+            1375,
+            1117
+        ],
+        "text": "Black Clover",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            339,
+            1883,
+            456,
+            1828
+        ],
+        "text": "DA-DUUM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1354,
+            1410,
+            1396,
+            2470
+        ],
+        "text": "Page 262: A Turbulent Conference BY YUKI TABATA",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1413,
+            44,
+            1448,
+            219
+        ],
+        "text": "Rooxer9",
+        "panel_id": "4",
+        "type": "signature"
+    },
+    {
+        "text_box": [
+            1413,
+            347,
+            1451,
+            645
+        ],
+        "text": "@colorclovers",
+        "panel_id": "4",
+        "type": "signature"
+    },
+    {
+        "text_box": [
+            1415,
+            2387,
+            1446,
+            2585
+        ],
+        "text": "@COLORCLOVERS",
+        "panel_id": "4",
+        "type": "signature"
+    }
+]

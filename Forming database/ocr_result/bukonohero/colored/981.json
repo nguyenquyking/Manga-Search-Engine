@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            143,
+            328,
+            267,
+            452
+        ],
+        "text": "AND AIZAWA-SENSEI?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            260,
+            475,
+            384,
+            559
+        ],
+        "text": "GRAN TORI-NO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            70,
+            669,
+            153
+        ],
+        "text": "RYUU-KYUU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            577,
+            690,
+            764,
+            783
+        ],
+        "text": "THIS BIG OF A\nCROWD...\nTHIS IS\nCRAZY!\nWHAT IS\nGOING\nON...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            915,
+            131,
+            1002,
+            286
+        ],
+        "text": "THAT\nCASE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            410,
+            995,
+            541
+        ],
+        "text": "NIGHTEYE\nWILL START\nIT SHORTLY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            527,
+            917,
+            616
+        ],
+        "text": "YOU'LL SEE SOON.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            684,
+            1001,
+            860
+        ],
+        "text": "HEY, HEY! WHAT IS\nTHIS?! WHAT ARE WE\nDOING?! YOU SAID IT\nWAS A MEETING! BUT\nI KNEW THAT!! WHAT\nKINDA MEETING?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

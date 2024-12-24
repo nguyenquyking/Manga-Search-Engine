@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            117,
+            64,
+            187,
+            210
+        ],
+        "text": "And the boss probably wants us to stick together.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            543,
+            169,
+            662
+        ],
+        "text": "The League was the only place he felt he could belong.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            958,
+            180,
+            1020,
+            331
+        ],
+        "text": "...but you'd better come back to us.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            863,
+            490,
+            970,
+            634
+        ],
+        "text": "I know that doing as we please is the villain way...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

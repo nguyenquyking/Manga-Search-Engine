@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            77,
+            212,
+            388,
+            308
+        ],
+        "text": "RMBL\nAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            629,
+            713,
+            633,
+            773
+        ],
+        "text": "00000",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            796,
+            54,
+            1020,
+            179
+        ],
+        "text": "I NEED\nJUST\nENOUGH\nSAINT\nSTAGE\nPOWER TO\nPIERCE ITS\nEXPOSED\nWEAK\nPOINT",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            798,
+            286,
+            883,
+            374
+        ],
+        "text": "I DON'T\nCARE\nIF IT'S\nWEAK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

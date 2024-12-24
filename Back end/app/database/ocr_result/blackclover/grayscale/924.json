@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            60,
+            504,
+            247,
+            727
+        ],
+        "text": "Picture Magic: Twilight Valhalla",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            581,
+            21,
+            815,
+            261
+        ],
+        "text": "Curse Warding Magic: Unbound Slave",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            882,
+            71,
+            926,
+            118
+        ],
+        "text": "00000",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

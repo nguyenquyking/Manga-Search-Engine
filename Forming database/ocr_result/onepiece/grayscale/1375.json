@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            86,
+            329,
+            244,
+            495
+        ],
+        "text": "YOUR FATHER,\nODEN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            594,
+            252,
+            846
+        ],
+        "text": "YES, THAT'S\nRIGHT. THEY'RE\nFINALLY GOING\nTO DIE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            917,
+            270,
+            1108
+        ],
+        "text": "THEY'RE\nALL GOING\nTO DIE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            138,
+            1150,
+            228,
+            1365
+        ],
+        "text": "STOP THIS,\nKANJURO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            803,
+            129,
+            1026,
+            440
+        ],
+        "text": "...DELAYED THEIR\nDEATHS BY 20\nYEARS, DANGLING\nPOINTLESS HOPE\nBEFORE THEM!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            790,
+            1175,
+            946,
+            1350
+        ],
+        "text": "...AND\nMOTHER,\nTOKI...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1531,
+            120,
+            1704,
+            316
+        ],
+        "text": "I KNOW\nIT BETTER\nTHAN\nANYONE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1369,
+            319,
+            1542,
+            489
+        ],
+        "text": "...THAT I\nAM NOT\nKOZUKI\nODEN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1369,
+            531,
+            1512,
+            720
+        ],
+        "text": "I KNOW\nMOST OF\nALL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1343,
+            799,
+            1589,
+            1067
+        ],
+        "text": "...IS JUST A\nWAILING CHILD\nWITHOUT\nCONVICTION,\nCOWERING FROM\nHEIGHTS!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1324,
+            1131,
+            1570,
+            1362
+        ],
+        "text": "BUT THE\nGENERAL ALL\nTHOSE BRAVE\nAND HARDY\nSAMURAI\nFOLLOW...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1939,
+            787,
+            2052,
+            936
+        ],
+        "text": "KA KA\nKA! WHAT\nA JOKE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

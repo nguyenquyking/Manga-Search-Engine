@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            331,
+            164,
+            460,
+            475
+        ],
+        "text": "TOMP\nTOMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1204,
+            141,
+            1300,
+            339
+        ],
+        "text": "HE'S NOT\nGOING\nANYWHERE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1398,
+            15,
+            1420,
+            352
+        ],
+        "text": "Next chapter hits July 12!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            141,
+            190,
+            246,
+            341
+        ],
+        "text": "...But I want to save...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            698,
+            862,
+            862
+        ],
+        "text": "Maybe there is no other way besides killing.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1184,
+            159,
+            1317,
+            341
+        ],
+        "text": "...That little boy.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1190,
+            689,
+            1322,
+            874
+        ],
+        "text": "And I dunno what I'm gonna do when the time comes...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

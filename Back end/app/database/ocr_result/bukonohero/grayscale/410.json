@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            87,
+            526,
+            169,
+            633
+        ],
+        "text": "YOU'RE NOT ALL MIGHT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            313,
+            30,
+            395,
+            180
+        ],
+        "text": "...YOU DARE TO FALSELY CLAIM THE MANTLE OF \"HERO\"?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            305,
+            268,
+            368,
+            375
+        ],
+        "text": "HERE, UPON HERO HOLY GROUND...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            482,
+            37,
+            546,
+            121
+        ],
+        "text": "WHO ARE YOU REALLY?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            711,
+            35,
+            735,
+            127
+        ],
+        "text": "SPEAK!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            646,
+            270,
+            752,
+            369
+        ],
+        "text": "WHY PRESUME TO CALL YOURSELF A HERO?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            32,
+            1043,
+            155
+        ],
+        "text": "...I FELT SPURRED TO ACTION.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            890,
+            164,
+            945,
+            224
+        ],
+        "text": "MY WHOLE LIFE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            888,
+            261,
+            921,
+            324
+        ],
+        "text": "FAIR ENOUGH",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            858,
+            317,
+            891,
+            380
+        ],
+        "text": "FALSELY CLAIM?",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            970,
+            539,
+            1051,
+            653
+        ],
+        "text": "YOU SHAM!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

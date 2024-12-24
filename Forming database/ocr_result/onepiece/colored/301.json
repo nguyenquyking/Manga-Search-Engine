@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            48,
+            96,
+            40,
+            214
+        ],
+        "text": "CRAAK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            63,
+            510,
+            138,
+            619
+        ],
+        "text": "SURE THING!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            704,
+            187,
+            840
+        ],
+        "text": "WOULD YOU TEACH ME HOW YOU DO A PALM STRIKE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            878,
+            149,
+            1026
+        ],
+        "text": "HA HA HA... WELL, IF YOU INSIST...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            287,
+            794,
+            420
+        ],
+        "text": "YOU HAVE TO VISUALIZE YOUR OPPONENT'S CORE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            76,
+            1030,
+            232
+        ],
+        "text": "AND SAVE THIS FOR WHEN YOU REALLY NEED IT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            647,
+            476,
+            660,
+            590
+        ],
+        "text": "WHAM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            708,
+            701,
+            757,
+            838
+        ],
+        "text": "GIGANTESCO MANO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            664,
+            962,
+            833,
+            1090
+        ],
+        "text": "THAT KNOWLEDGE HAS BEEN USEFUL ON MANY OCCASIONS!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            918,
+            455,
+            978,
+            533
+        ],
+        "text": "AND NOW...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            713,
+            1061,
+            776
+        ],
+        "text": "HUFF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1194,
+            350,
+            1297,
+            510
+        ],
+        "text": "MIL FLEUR, FISH-MAN KARATE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            633,
+            1263,
+            696
+        ],
+        "text": "SO, FIRST THING IS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1162,
+            728,
+            1256,
+            867
+        ],
+        "text": "...BUT THIS ONE'S A FISH-MAN KARATE SECRET ART!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1142,
+            928,
+            1248,
+            1030
+        ],
+        "text": "IT'S ANOTHER PALM ATTACK...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1536,
+            95,
+            1569,
+            178
+        ],
+        "text": "HUH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

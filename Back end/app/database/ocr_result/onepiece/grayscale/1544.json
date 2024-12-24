@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            995,
+            288,
+            1064,
+            450
+        ],
+        "text": "The ship!! The ship!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1360,
+            1052,
+            1503,
+            1298
+        ],
+        "text": "You seem well to me, Roger!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1488,
+            185,
+            1604,
+            440
+        ],
+        "text": "Drop your valuables and leave!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1946,
+            123,
+            2075,
+            231
+        ],
+        "text": "Wa ha ha ha!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1956,
+            380,
+            2080,
+            479
+        ],
+        "text": "Gura ra ra ra!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1902,
+            573,
+            2043,
+            924
+        ],
+        "text": "How many years has it been, Newgate?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

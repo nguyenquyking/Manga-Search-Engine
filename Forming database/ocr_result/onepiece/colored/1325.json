@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            92,
+            77,
+            156,
+            171
+        ],
+        "text": "Please make your oath.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            204,
+            146,
+            283
+        ],
+        "text": "King Stelly of Goa.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            604,
+            186,
+            686
+        ],
+        "text": "Pangea Castle,\nThe Holy Land\nMary Geoise",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            230,
+            68,
+            256,
+            128
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            32,
+            615,
+            141
+        ],
+        "text": "It is the Empty Throne!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            688,
+            26,
+            777,
+            146
+        ],
+        "text": "You see, the kings of the various nations are on equal standing...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            819,
+            19,
+            906,
+            155
+        ],
+        "text": "...and therefore they each make an oath not to seek control over the others.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            398,
+            621,
+            465,
+            692
+        ],
+        "text": "I get to sit there?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            567,
+            592,
+            677
+        ],
+        "text": "Surely you jest, Your Majesty!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            668,
+            597,
+            777,
+            698
+        ],
+        "text": "No one is allowed to sit upon that throne.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            639,
+            852,
+            669
+        ],
+        "text": "?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

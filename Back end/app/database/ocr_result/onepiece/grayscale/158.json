@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            36,
+            650,
+            113,
+            718
+        ],
+        "text": "ROOF-TOP OF ONIGA-SHIMA",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            156,
+            46,
+            156,
+            111
+        ],
+        "text": "CRAKK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            316,
+            76,
+            370,
+            145
+        ],
+        "text": "URGH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            98,
+            470,
+            194
+        ],
+        "text": "URRRP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            697,
+            576,
+            687,
+            705
+        ],
+        "text": "BABABABABAM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            996,
+            357,
+            1021,
+            440
+        ],
+        "text": "GACHING!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

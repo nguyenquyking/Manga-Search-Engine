@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            61,
+            125,
+            112,
+            246
+        ],
+        "text": "Someone who has killed others",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            58,
+            534,
+            130,
+            666
+        ],
+        "text": "This is someone who has hurt many people.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            391,
+            34,
+            425,
+            139
+        ],
+        "text": "...is inevitable...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            409,
+            539,
+            464,
+            617
+        ],
+        "text": "Seems like this fight...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            599,
+            83,
+            632,
+            148
+        ],
+        "text": "...deep down.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            599,
+            235,
+            651,
+            331
+        ],
+        "text": "...what makes him tick...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            597,
+            415,
+            633,
+            523
+        ],
+        "text": "...I want to learn...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            597,
+            582,
+            633,
+            649
+        ],
+        "text": "But at least...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            746,
+            34,
+            921,
+            133
+        ],
+        "text": "In the gaps between those muscles you coat yourself with...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            996,
+            531,
+            1084,
+            689
+        ],
+        "text": "You turned out real boring, kid.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            59,
+            79,
+            269,
+            321
+        ],
+        "text": "Queen of Briars",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            306,
+            652,
+            370,
+            745
+        ],
+        "text": "...I'm able",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            205,
+            922,
+            368
+        ],
+        "text": "...both blue and red roses!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

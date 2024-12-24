@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            534,
+            618,
+            588,
+            682
+        ],
+        "text": "HOW'S THAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1124,
+            384,
+            1138,
+            531
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

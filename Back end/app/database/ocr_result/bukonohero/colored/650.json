@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            271,
+            63,
+            331,
+            187
+        ],
+        "text": "THIS IS WHEN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1169,
+            241,
+            1250,
+            424
+        ],
+        "text": "...WE DESTROY EVERYTHING.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1380,
+            26,
+            1389,
+            91
+        ],
+        "text": "KCHAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

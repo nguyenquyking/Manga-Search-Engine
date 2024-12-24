@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            120,
+            167,
+            181,
+            345
+        ],
+        "text": "HUH?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            449,
+            224,
+            552
+        ],
+        "text": "PAY-\nPAY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            773,
+            213,
+            908
+        ],
+        "text": "I\nKNOW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            155,
+            1216,
+            272,
+            1350
+        ],
+        "text": "HEY!!\nSIS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            773,
+            1196,
+            885,
+            1349
+        ],
+        "text": "LADY\nULTI?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            106,
+            1265,
+            313
+        ],
+        "text": "MASTER\nPAGE ONE?!\nWHY ARE YOU\nTRANSFORMING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1412,
+            200,
+            1507,
+            529
+        ],
+        "text": "DRAGON-DRAGON FRUIT\nANCIENT TYPE\nSPINOSAURUS MODEL",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1410,
+            823,
+            1512,
+            1254
+        ],
+        "text": "DRAGON-DRAGON FRUIT\nANCIENT TYPE\nPACHYCEPHALOSAURUS MODEL",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1814,
+            267,
+            2064,
+            534
+        ],
+        "text": "IT'S\nBECAUSE WE'VE\nCONFIRMED THAT\nTHIS ONE IS A\nDANGEROUS\nFOE!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1870,
+            1193,
+            2010,
+            1353
+        ],
+        "text": "STOP\nSQUALL-\nING...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1948,
+            1067,
+            2157,
+            1209
+        ],
+        "text": "BLZT\u2026!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

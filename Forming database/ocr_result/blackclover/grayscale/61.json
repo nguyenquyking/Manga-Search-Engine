@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            463,
+            116,
+            492,
+            206
+        ],
+        "text": "LICHT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            867,
+            1100,
+            953
+        ],
+        "text": "AAAAAAA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1416,
+            108,
+            1480,
+            212
+        ],
+        "text": "...I couldn't say back then.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1400,
+            808,
+            1486,
+            905
+        ],
+        "text": "I can finally say the words...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

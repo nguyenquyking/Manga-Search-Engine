@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            113,
+            110,
+            243,
+            243
+        ],
+        "text": "I've never come outside to fight before, either.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            176,
+            370,
+            281,
+            504
+        ],
+        "text": "I was planning to take over your body and fight.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            267,
+            57,
+            369,
+            168
+        ],
+        "text": "That's why even a guy like you beat me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            284,
+            884,
+            336,
+            981
+        ],
+        "text": "I dunno.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            554,
+            473,
+            629
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            622,
+            328,
+            694,
+            413
+        ],
+        "text": "But I dunno how either!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            447,
+            760,
+            542
+        ],
+        "text": "You do something about it!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            566,
+            715,
+            661
+        ],
+        "text": "This nutty contract was all your idea!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            608,
+            747,
+            763,
+            946
+        ],
+        "text": "So you totally don't know anything!! After you talked like a big shot!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            820,
+            1123,
+            917
+        ],
+        "text": "I suppose...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1252,
+            122,
+            1403,
+            217
+        ],
+        "text": "...You'll just have to figure it out as you fight.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

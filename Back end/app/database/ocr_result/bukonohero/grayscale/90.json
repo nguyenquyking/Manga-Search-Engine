@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            81,
+            595,
+            135,
+            673
+        ],
+        "text": "ASUI! Tsuyu... I mean...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            275,
+            48,
+            344,
+            121
+        ],
+        "text": "Sorry, it took me so long!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            327,
+            526,
+            350,
+            655
+        ],
+        "text": "FROPPY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            20,
+            741,
+            152
+        ],
+        "text": "...So we warped her to an isolated island. Too bad that plan backfired.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            599,
+            294,
+            690,
+            406
+        ],
+        "text": "She's the least predictable of our opponents...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            567,
+            447,
+            740,
+            524
+        ],
+        "text": "Nah, just a scratch. Better get that knife. My blood's on it.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            533,
+            651,
+            571,
+            726
+        ],
+        "text": "Are you hurt?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            967,
+            46,
+            1115,
+            192
+        ],
+        "text": "Chatting about romance here is the last thing you need to be doing.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            256,
+            1072,
+            327
+        ],
+        "text": "Get going, Deku.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            400,
+            1030,
+            483
+        ],
+        "text": "SLASH There. I cut it. Tsuyu...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

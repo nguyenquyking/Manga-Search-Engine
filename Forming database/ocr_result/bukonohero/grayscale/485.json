@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            178,
+            94,
+            234,
+            169
+        ],
+        "text": "Who are those men in black?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            528,
+            262,
+            597
+        ],
+        "text": "Well? What's the deal?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            605,
+            217,
+            695
+        ],
+        "text": "I was kinda wondering why you called us to this weird facility.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            79,
+            507,
+            193
+        ],
+        "text": "We will determine here and now whether or not you three are fit to join the coalition.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            376,
+            591,
+            504,
+            701
+        ],
+        "text": "The World Heroes Association is convening operatives on a global scale.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            687,
+            68,
+            762,
+            134
+        ],
+        "text": "But if we pass, we get to join an overseas mission!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            261,
+            657,
+            325
+        ],
+        "text": "Facing Endeavor in combat...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            646,
+            594,
+            743,
+            713
+        ],
+        "text": "Fail this test, and you'll be staying home!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            858,
+            71,
+            929,
+            146
+        ],
+        "text": "We will observe from the monitoring room.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            867,
+            229,
+            924,
+            320
+        ],
+        "text": "Sparring with Number One? I'm down.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            893,
+            347,
+            1037,
+            476
+        ],
+        "text": "If you wanna tag along, you gotta land an attack on me within three minutes!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

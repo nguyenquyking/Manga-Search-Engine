@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            757,
+            58,
+            894,
+            183
+        ],
+        "text": "ANTI-MAGIC... I KNEW IT. IF HE USES THAT AT FULL POWER, THEN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            756,
+            339,
+            910,
+            470
+        ],
+        "text": "HE ALSO ERASED MY MAGIC, WHICH LACKED ANY SUBSTANCE, AND MANA ZONE ALONG WITH IT!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            759,
+            613,
+            854,
+            762
+        ],
+        "text": "HE INTENTIONALLY AVOIDED HITTING ME DIRECTLY.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            927,
+            498,
+            1101,
+            600
+        ],
+        "text": "THE UNION ON MY ARM CAME UNDONE, EVEN THOUGH HE DIDN'T TOUCH IT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            144,
+            705,
+            144,
+            767
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

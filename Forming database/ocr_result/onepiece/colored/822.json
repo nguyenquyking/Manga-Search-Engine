@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            91,
+            20,
+            180,
+            133
+        ],
+        "text": "THESE GUYS AREN'T EVEN GOOD FOR PRACTICE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            597,
+            151,
+            690
+        ],
+        "text": "OKAY,\nNEXT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            542,
+            25,
+            585,
+            98
+        ],
+        "text": "MWA HA\nHA HA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            532,
+            117,
+            600,
+            209
+        ],
+        "text": "SUPREME\nKING HAKI,\nHUH...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            294,
+            558,
+            564
+        ],
+        "text": "WHAAAAAT?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            522,
+            654,
+            561,
+            697
+        ],
+        "text": "HUH\n...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            292,
+            768,
+            566
+        ],
+        "text": "WAS HE USING...?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            51,
+            960,
+            152
+        ],
+        "text": "WE\nNEED HIM,\nLUFFY-\nTARO.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            877,
+            197,
+            948,
+            353
+        ],
+        "text": "JUST DON'T\nLET BOSS\nHYOGORO DIE,\nUNDERSTAND...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            406,
+            922,
+            532
+        ],
+        "text": "THINGS\nHAVE BEEN VERY\nNOISY SINCE HE\nSHOWED UP...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1032,
+            47,
+            1120,
+            124
+        ],
+        "text": "KAPPA\nPA PA\nPA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            330,
+            60,
+            424,
+            203
+        ],
+        "text": "...FOR THE POOR MAN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            319,
+            614,
+            408,
+            732
+        ],
+        "text": "I HAVE ONLY SCORN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            544,
+            74,
+            570,
+            130
+        ],
+        "text": "OH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            558,
+            244,
+            640,
+            334
+        ],
+        "text": "THERE'S NO ESCAPE FOR YOU NOW.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            439,
+            909,
+            549
+        ],
+        "text": "IN THE NAME OF SHOGUN OROCHI, YOU ARE BANISHED FROM THE CITY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            604,
+            882,
+            727
+        ],
+        "text": "THERE'S NO PLACE IN THE FLOWER CAPITAL FOR THOSE WHO CANNOT BUY THE ECONOMY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            327,
+            924,
+            418
+        ],
+        "text": "NO, PLEASE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            365,
+            1018,
+            483
+        ],
+        "text": "LIFE OUTSIDE THE CAPITAL?! IT'S INHUMANE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            330,
+            1142,
+            432
+        ],
+        "text": "DAMN YOU TO HELL, KOMURASAKI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            987,
+            222,
+            1048,
+            293
+        ],
+        "text": "OPEN THE GATES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1026,
+            58,
+            1116,
+            172
+        ],
+        "text": "LADY KOMURASAKI HAS ARRIVED!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

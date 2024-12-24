@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            131,
+            510,
+            150,
+            572
+        ],
+        "text": "HUFF...!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            362,
+            454,
+            403,
+            535
+        ],
+        "text": "You... heroes...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            70,
+            512,
+            176
+        ],
+        "text": "...just to help complete strangers!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            386,
+            218,
+            447,
+            313
+        ],
+        "text": "...hurt your own families...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            134,
+            805,
+            229
+        ],
+        "text": "Dad told me that.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            566,
+            975,
+            675
+        ],
+        "text": "You want ideals...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1196,
+            80,
+            1303,
+            260
+        ],
+        "text": "I have it...! No, I had it...!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1320,
+            556,
+            1343,
+            594
+        ],
+        "text": "KRK",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1398,
+            286,
+            1418,
+            598
+        ],
+        "text": "Next chapter hits Aug. 23!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

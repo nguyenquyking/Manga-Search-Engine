@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            47,
+            64,
+            88,
+            149
+        ],
+        "text": "A HIRED GUN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            551,
+            52,
+            608,
+            154
+        ],
+        "text": "...sent by All For One!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            679,
+            94,
+            742
+        ],
+        "text": "COME QUIETLY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            116,
+            363,
+            172,
+            435
+        ],
+        "text": "...and you get to keep your limbs.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

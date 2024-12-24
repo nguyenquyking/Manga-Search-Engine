@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            421,
+            599,
+            479,
+            693
+        ],
+        "text": "AN ELECTROMAGNETIC BARRIER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            471,
+            221,
+            516,
+            319
+        ],
+        "text": "MY MUSCLES ARE LOCKING UP...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            117,
+            520,
+            157
+        ],
+        "text": "BUT STILL!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            224,
+            970,
+            303
+        ],
+        "text": "THERE'S A GAP IN YOUR SEAMS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            874,
+            381,
+            929,
+            441
+        ],
+        "text": "OH NO, YOU DON'T!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1084,
+            561,
+            1090,
+            627
+        ],
+        "text": "FWRRL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

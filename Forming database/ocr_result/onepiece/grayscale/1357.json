@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            131,
+            632,
+            341,
+            878
+        ],
+        "text": "...the ones they'll seek to crush are you Akazaaya samurai!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            142,
+            1072,
+            332,
+            1317
+        ],
+        "text": "First of all!! Assuming the enemy is aware of the raid already...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            177,
+            133,
+            347,
+            420
+        ],
+        "text": "Plus the three captains\u2014me, Straw Hat, and Eustass.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            112,
+            511,
+            233
+        ],
+        "text": "Indeed.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            123,
+            1237,
+            331
+        ],
+        "text": "So we should send everyone down the side paths as originally planned.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            388,
+            1162,
+            568
+        ],
+        "text": "Those idiots will be a useful diversion!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            646,
+            1218,
+            817
+        ],
+        "text": "...who will charge straight in regardless!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            989,
+            878,
+            1185,
+            1078
+        ],
+        "text": "...I can think of approximately two idiots...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1019,
+            1141,
+            1175,
+            1360
+        ],
+        "text": "No matter what kind of plan you put together...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1380,
+            118,
+            1574,
+            312
+        ],
+        "text": "However... Those soldiers are also a diversion!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1419,
+            352,
+            1475,
+            555
+        ],
+        "text": "Left Idiots Right",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1514,
+            635,
+            1604,
+            781
+        ],
+        "text": "\"Idiots\" ?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1758,
+            110,
+            1909,
+            329
+        ],
+        "text": "But how will the Akazaaya proceed, then?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1756,
+            388,
+            1967,
+            597
+        ],
+        "text": "...that Kin'emon's group can make it to the true decisive battle...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1766,
+            640,
+            1939,
+            843
+        ],
+        "text": "But of course, we are prepared to fight in such a way...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1764,
+            1228,
+            1885,
+            1347
+        ],
+        "text": "Hmm?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

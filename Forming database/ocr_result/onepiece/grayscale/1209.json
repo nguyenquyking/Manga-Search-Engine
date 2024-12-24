@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            84,
+            188,
+            204,
+            396
+        ],
+        "text": "THIS EXECUTION\nIS MEANT TO\nBRING AN END TO\nTHE OLD WANO.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            572,
+            227,
+            791
+        ],
+        "text": "HOW COULD A\nLITTLE COWARD\nLIKE YOU POSSIBLY\nBE THE SON OF\nKOZUKI ODEN?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            865,
+            222,
+            977
+        ],
+        "text": "I ALWAYS\nHAD THIS\nNAGGING\nDOUBT IN\nMY MIND.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            315,
+            88,
+            472,
+            248
+        ],
+        "text": "BUT NOW THAT\nI THINK BACK\nUPON THAT DAY\n20 YEARS AGO,\nIN THE BURNING\nCASTLE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            604,
+            89,
+            755,
+            210
+        ],
+        "text": "...THEN\nI'LL CALL\nOFF THIS\nEXECUTION\n!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            257,
+            752,
+            413
+        ],
+        "text": "IF YOU\nARE NOT\nTHE SON OF\nKOZUKI ODEN\nAND TOKI...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            604,
+            518,
+            680,
+            633
+        ],
+        "text": "I'M GONNA\nFALL! IT'S\nTOO HIGH!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            593,
+            706,
+            667,
+            789
+        ],
+        "text": "WHAT\nIS YOUR\nNAME?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            617,
+            853,
+            712,
+            1012
+        ],
+        "text": "YOU DID NOT\nANSWER MY\nQUESTION.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            90,
+            972,
+            225
+        ],
+        "text": "AND OFFER A\nFULL APOLOGY\nFOR THE\nCONFUSION.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1140,
+            102,
+            1219,
+            243
+        ],
+        "text": "...YOUR\nNAME?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1144,
+            618,
+            1240,
+            734
+        ],
+        "text": "WHAT\nIS...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1104,
+            843,
+            1232,
+            983
+        ],
+        "text": "SO I ASK\nYOU ONE\nMORE TIME,\nBOY...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

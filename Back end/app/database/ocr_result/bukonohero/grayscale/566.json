@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            296,
+            141,
+            385,
+            269
+        ],
+        "text": "Yeah, I know there's still some support for us out there, but...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            297,
+            408,
+            388,
+            520
+        ],
+        "text": "And what do we get for it? Rants, doubts, rage.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            283,
+            623,
+            373,
+            753
+        ],
+        "text": "This job's been running me ragged. I can't seem to catch a break.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            661,
+            130,
+            714,
+            213
+        ],
+        "text": "I'm sure we all did once.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            411,
+            735,
+            506
+        ],
+        "text": "I thought I was different, better.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            646,
+            566,
+            753,
+            705
+        ],
+        "text": "...One loud heckler easily drowns out ten fans. I've never felt like this before.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1024,
+            99,
+            1072,
+            188
+        ],
+        "text": "Only human.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1024,
+            636,
+            1076,
+            712
+        ],
+        "text": "But nah, I'm no hero.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

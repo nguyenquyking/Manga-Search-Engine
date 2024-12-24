@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            32,
+            128,
+            48,
+            247
+        ],
+        "text": "THUD",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            53,
+            737,
+            53,
+            763
+        ],
+        "text": "WHAM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            440,
+            13,
+            486,
+            76
+        ],
+        "text": "Put me down... you armored four-eyes.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            181,
+            473,
+            248
+        ],
+        "text": "Nejire! Shoto!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            568,
+            181,
+            644,
+            263
+        ],
+        "text": "You're conscious! But take it easy! Your vitals have been hit!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            697,
+            166,
+            760,
+            254
+        ],
+        "text": "Gotta achieve... absolute... victory...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

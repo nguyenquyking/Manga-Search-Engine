@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            100,
+            633,
+            149,
+            705
+        ],
+        "text": "THE GRAND COMMAND-",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            183,
+            470,
+            251,
+            560
+        ],
+        "text": "RE-DESTRO CHOSE THESE PEOPLE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            192,
+            622,
+            229,
+            683
+        ],
+        "text": "AHEM! ERM!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            415,
+            593,
+            469,
+            705
+        ],
+        "text": "AND AN ORDER FROM RE-DESTRO...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            446,
+            490,
+            535,
+            574
+        ],
+        "text": "...IS AS GOOD AS ANY FROM DESTRO HIMSELF.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            520,
+            222,
+            548,
+            281
+        ],
+        "text": "ZHWRM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            824,
+            34,
+            843,
+            54
+        ],
+        "text": "B1",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1049,
+            176,
+            1070,
+            199
+        ],
+        "text": "B4",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

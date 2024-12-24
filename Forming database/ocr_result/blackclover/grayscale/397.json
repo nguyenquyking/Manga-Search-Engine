@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            164,
+            352,
+            216,
+            432
+        ],
+        "text": "Who's that?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            352,
+            101,
+            484,
+            202
+        ],
+        "text": "I don't care about the past!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            617,
+            173,
+            752,
+            282
+        ],
+        "text": "Let's enjoy now!!! Together!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            742,
+            904,
+            800,
+            1015
+        ],
+        "text": "53 PERCENT!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1246,
+            904,
+            1318,
+            989
+        ],
+        "text": "Doh ho ho ho ho ho!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

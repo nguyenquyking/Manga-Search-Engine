@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            267,
+            101,
+            406,
+            179
+        ],
+        "text": "I'M\nON\nIT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            172,
+            594,
+            311,
+            741
+        ],
+        "text": "WORK ON\nCHARGING\nUP POWER\nINSIDE\nME...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            91,
+            1123,
+            120,
+            1204
+        ],
+        "text": "YEAH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            1052,
+            600,
+            1201
+        ],
+        "text": "BUT\nWE CAN'T\nBEAT HIM\nWITH STAR\nMAGIC\nALONE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            569,
+            494,
+            692
+        ],
+        "text": "...BELL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            1047,
+            745,
+            1100
+        ],
+        "text": "AAA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

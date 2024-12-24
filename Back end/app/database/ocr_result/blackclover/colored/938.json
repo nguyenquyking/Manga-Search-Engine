@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            594,
+            676,
+            579,
+            853
+        ],
+        "text": "SZZZZZZZZ",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            888,
+            82,
+            1066,
+            302
+        ],
+        "text": "The curse runes vanished?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            951,
+            1075,
+            1010,
+            1264
+        ],
+        "text": "What?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1554,
+            136,
+            1545,
+            255
+        ],
+        "text": "RSSSTL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

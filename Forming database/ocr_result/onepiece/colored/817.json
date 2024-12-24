@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            68,
+            53,
+            132,
+            143
+        ],
+        "text": "...SOME FOOLS TO EXECUTE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            212,
+            134,
+            294
+        ],
+        "text": "WE'VE GOT OURSELVES...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            337,
+            114,
+            399
+        ],
+        "text": "THWUD!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            79,
+            603,
+            162,
+            711
+        ],
+        "text": "ALL RIGHT, LEAVE THE KEY THIEF TO THEM...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            504,
+            156,
+            567
+        ],
+        "text": "GET HAULING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            78,
+            529,
+            231
+        ],
+        "text": "THE SUMO INFERNO!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            368,
+            584,
+            500,
+            738
+        ],
+        "text": "IT'S MASTER QUEEN'S SPECIAL DEVICE PERFORMANCE!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1071,
+            375,
+            1123,
+            443
+        ],
+        "text": "SUMO?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

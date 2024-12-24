@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            109,
+            77,
+            109,
+            121
+        ],
+        "text": "THOK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            115,
+            1429,
+            1081,
+            1541
+        ],
+        "text": "DEMON-SLAYER!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1006,
+            57,
+            1038,
+            108
+        ],
+        "text": "C'MON, MAN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            517,
+            856,
+            582
+        ],
+        "text": "00000",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1006,
+            1227,
+            1009,
+            1278
+        ],
+        "text": "SCREE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            76,
+            118,
+            145,
+            212
+        ],
+        "text": "SIX YEARS AFTER THAT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            282,
+            169,
+            378
+        ],
+        "text": "UGH!! GET OFF!! NO MORE SNOT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            603,
+            146,
+            703
+        ],
+        "text": "LORD ODEN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            183,
+            62,
+            290,
+            164
+        ],
+        "text": "...A FULL 33 YEARS BEFORE THE PRESENT DAY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            426,
+            38,
+            540,
+            146
+        ],
+        "text": "...STEADILY EXPANDING THEIR CLAIMS AND INFAMY...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            390,
+            557,
+            536,
+            691
+        ],
+        "text": "...THE REMNANTS OF THE LEGENDARY FORMER ROCKS PIRATES BEGAN TO GATHER NEW COMRADES...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            703,
+            15,
+            744,
+            154
+        ],
+        "text": "THEY ARE UNSETTLING!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            660,
+            609,
+            727,
+            684
+        ],
+        "text": "KURI BEACH, WANO",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1052,
+            290,
+            1088,
+            399
+        ],
+        "text": "MONSTROUS CREATURES?!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1050,
+            436,
+            1096,
+            534
+        ],
+        "text": "HAIRY HUMANS?!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1056,
+            567,
+            1116,
+            651
+        ],
+        "text": "WHAT ARE THESE? ANIMALS?!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

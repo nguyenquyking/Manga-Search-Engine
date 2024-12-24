@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            70,
+            202,
+            125,
+            285
+        ],
+        "text": "It feels like a story from some other world...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            394,
+            136,
+            452
+        ],
+        "text": "Wha-aat?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            192,
+            572,
+            315,
+            844
+        ],
+        "text": "It contained human blood, and human cells.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            680,
+            60,
+            800,
+            170
+        ],
+        "text": "A quirk to destroy other quirks...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            683,
+            309,
+            793,
+            452
+        ],
+        "text": "In other words... that effect is derived from a person... or, a quirk.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            988,
+            54,
+            1061,
+            294
+        ],
+        "text": "...But how is this linked to the cleansers exactly?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            193,
+            1042,
+            291
+        ],
+        "text": "Uhhhh... I'm afraid I've not really been seeing it for a while now.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

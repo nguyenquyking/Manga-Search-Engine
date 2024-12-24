@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            352,
+            49,
+            529,
+            126
+        ],
+        "text": "Let it walk the same path you do!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            836,
+            497,
+            951
+        ],
+        "text": "That grimoire belongs to you now.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            769,
+            176,
+            816,
+            253
+        ],
+        "text": "Thank you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            841,
+            1107,
+            935
+        ],
+        "text": "Mages...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1025,
+            343,
+            1152,
+            574
+        ],
+        "text": "AA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1145,
+            40,
+            1238,
+            166
+        ],
+        "text": "...of the current Clover Kingdom...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

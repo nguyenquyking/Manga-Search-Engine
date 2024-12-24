@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            85,
+            26,
+            210,
+            131
+        ],
+        "text": "THIS IS\nSTILL A\nBATTLE-\nFIELD!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            305,
+            187,
+            480
+        ],
+        "text": "THE SOUL THAT\nRESIDES IN A KATANA\nMAKES A SAMURAI\nSTRONG, AND ENABLES\nHIM TO DESTROY HIS\nENEMIES!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            63,
+            528,
+            193,
+            701
+        ],
+        "text": "IN BATTLE, WHEN\nYOUR COMPANION\nDIES BEFORE YOUR\nEYES, YOU TAKE\nHIS SWORD AND\nCONTINUE ONWARD!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            276,
+            28,
+            306,
+            131
+        ],
+        "text": "GRRRR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            445,
+            65,
+            534,
+            220
+        ],
+        "text": "...IS\nNOT YET\nFINISHED!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            619,
+            32,
+            706,
+            190
+        ],
+        "text": "IT IS TOO\nEARLY TO LET\nTHESE SWORDS\nSLEEP!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            435,
+            446,
+            505,
+            535
+        ],
+        "text": "GRRRR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            444,
+            568,
+            570,
+            689
+        ],
+        "text": "THE BATTLE\nBETWEEN\nTHE BEASTS\nPIRATES AND\nTHE LAND OF\nWANO...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            793,
+            93,
+            896,
+            267
+        ],
+        "text": "THAT IS THE ONE\nMISSION THAT I\nCAN BE ALLOWED\nTO HAVE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            798,
+            353,
+            903,
+            471
+        ],
+        "text": "I WILL\nRETRIEVE AND\nHIDE THEM ALL\nBEFORE THAT\nCAN HAPPEN!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            806,
+            507,
+            901,
+            697
+        ],
+        "text": "WE CANNOT ALLOW\nTHEM TO BE STOLEN\nBY THIEVES BEFORE\nTHE COMING DAY!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            973,
+            625,
+            985,
+            686
+        ],
+        "text": "GRRRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1070,
+            617,
+            1147,
+            713
+        ],
+        "text": "GRRRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1118,
+            364,
+            1156,
+            466
+        ],
+        "text": "SHUK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            70,
+            343,
+            182,
+            424
+        ],
+        "text": "We'll put a stop to them for sure.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            348,
+            937,
+            432
+        ],
+        "text": "Shall we?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            584,
+            993,
+            652
+        ],
+        "text": "The day of...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            940,
+            67,
+            1029,
+            163
+        ],
+        "text": "...the operation.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

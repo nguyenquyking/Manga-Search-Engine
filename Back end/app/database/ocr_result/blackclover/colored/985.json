@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            94,
+            306,
+            245,
+            553
+        ],
+        "text": "I thought \"There's no way somebody like you could surpass me.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            832,
+            228,
+            959
+        ],
+        "text": "I just never felt as if I'd lose.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            1151,
+            963,
+            1201
+        ],
+        "text": "FWOOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            368,
+            61,
+            467,
+            176
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            731,
+            61,
+            1086,
+            360
+        ],
+        "text": "Vortex Magic: Area Helix",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1610,
+            558,
+            1570,
+            680
+        ],
+        "text": "FWOOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1428,
+            1507,
+            1516,
+            1594
+        ],
+        "text": "It's too big!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1634,
+            1392,
+            1819,
+            1500
+        ],
+        "text": "It's just... there's no way to deal with that!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1568,
+            1689,
+            1819,
+            1820
+        ],
+        "text": "R-Run for it!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1484,
+            2362,
+            1795,
+            2521
+        ],
+        "text": "WAA-AAA-AAA-UGH!!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

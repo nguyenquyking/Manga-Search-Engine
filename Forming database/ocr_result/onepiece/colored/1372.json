@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            57,
+            612,
+            139,
+            703
+        ],
+        "text": "THERE ARE TWO MORE UP THERE, CAPTAIN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            35,
+            266,
+            83
+        ],
+        "text": "KAW!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            318,
+            202,
+            478,
+            300
+        ],
+        "text": "FLAP\nFLAP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            528,
+            71,
+            625,
+            183
+        ],
+        "text": "NOW, NOW, NOW! JUST A MOMENT, MORLEY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            91,
+            468,
+            141
+        ],
+        "text": "KAW!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            693,
+            228,
+            793,
+            291
+        ],
+        "text": "CAPTAIN PINK-BEARD,\nI KNOW THEM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            629,
+            919,
+            711
+        ],
+        "text": "I'VE GOT MY NEWLY INVENTED WEAPONS TO USE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            331,
+            990,
+            457
+        ],
+        "text": "YOU DON'T\nHAVE TO GO\nAND BEAT THEM\nALL BEFORE I\nGET A SHOT!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            36,
+            937,
+            110
+        ],
+        "text": "THOSE\nFOUR\nPEOPLE...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1058,
+            28,
+            1135,
+            160
+        ],
+        "text": "...ARE SUPPOSED\nTO BE SCATTERED\nALL OVER THE\nWORLD!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

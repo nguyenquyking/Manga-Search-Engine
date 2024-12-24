@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            26,
+            350,
+            60,
+            518
+        ],
+        "text": "CHAPTER NOTES:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            95,
+            186,
+            764
+        ],
+        "text": "The reference from the cover page with Law is based on a famous story about Ikkyu-san, a Zen Buddhist monk in the 14-15th century. His mischievous childhood exploits, outwitting adults during his stay at Anokoku-ji temple, have been retold countless times in folklore.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            210,
+            112,
+            306,
+            749
+        ],
+        "text": "Toei animation produced a hit anime series based on these legends between 1975 and 1982. This show popularized the image of Ikkyu-san planning while in lotus position with his index fingers on his head.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            596,
+            99,
+            717,
+            766
+        ],
+        "text": "One of the most famous tales involves a lord trying to test the boy by claiming he needed help taming a tiger that would sneak out of a byobu folding screen. This lie fails as Ikkyu-san is able to make the lord admit it is impossible for the tiger to get out of the painting.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            739,
+            107,
+            812,
+            756
+        ],
+        "text": "Law was probably chosen for this request because he is known for his planning and his nickname \u30c8\u30e9 = \"tora\" is Japanese for tiger.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            62,
+            33,
+            191,
+            169
+        ],
+        "text": "YES. WHAT\nI'M\nFEELING IN\nMY CHEST\nIS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            107,
+            451,
+            254,
+            642
+        ],
+        "text": "...HAS\nBEEN\nUTTERLY\nLIBERATED.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            847,
+            324,
+            846,
+            408
+        ],
+        "text": "SHOOOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1116,
+            254,
+            1136,
+            526
+        ],
+        "text": "Next chapter hits Aug. 18!",
+        "panel_id": "2",
+        "type": "caption"
+    }
+]

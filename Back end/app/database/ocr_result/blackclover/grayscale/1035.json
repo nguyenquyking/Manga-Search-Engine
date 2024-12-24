@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            79,
+            80,
+            190,
+            225
+        ],
+        "text": "You have no way to escape my subspace.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            616,
+            46,
+            674
+        ],
+        "text": "SHREE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            549,
+            279,
+            610,
+            419
+        ],
+        "text": "Star Magic:",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            670,
+            338,
+            723,
+            718
+        ],
+        "text": "Conjunction",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

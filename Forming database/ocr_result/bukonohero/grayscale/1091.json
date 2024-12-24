@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            190,
+            430,
+            304,
+            532
+        ],
+        "text": "Looks like he's adapting to my 100 percent attacks and taking hits! But...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            567,
+            596,
+            670,
+            741
+        ],
+        "text": "...His wounds are healing slower! The damage is sticking!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            861,
+            72,
+            960,
+            221
+        ],
+        "text": "Shigaraki now possesses All For One...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            909,
+            568,
+            1031,
+            731
+        ],
+        "text": "The last two 100 percent attacks wrecked my left arm!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

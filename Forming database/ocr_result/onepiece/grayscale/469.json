@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            319,
+            66,
+            349,
+            174
+        ],
+        "text": "GREIISH\nDEVIANTART | GRECIIAG77",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            765,
+            160,
+            799,
+            234
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            144,
+            1007,
+            216
+        ],
+        "text": "WHA-?!\nHANG\nON!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1242,
+            66,
+            1280,
+            182
+        ],
+        "text": "GREIISH\nDEVIANTART | GRECIIAGZZ",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

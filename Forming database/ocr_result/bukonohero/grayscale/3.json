@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            24,
+            13,
+            185,
+            187
+        ],
+        "text": "We gotta make sure to share our luck with our colleagues. Those poor bastards have to face the escapees!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            437,
+            182,
+            581
+        ],
+        "text": "We didn't have to face any of the Tartarus escapees such as...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            188,
+            269,
+            245,
+            396
+        ],
+        "text": "Kunieda 'n ghastly.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            211,
+            662,
+            322,
+            809
+        ],
+        "text": "We've got a lucky draw here!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            66,
+            562,
+            212
+        ],
+        "text": "...The center of operations where Tsukauchi and the others were stationed.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            432,
+            637,
+            553,
+            756
+        ],
+        "text": "The news of Dabi's defeat made its way to Kamino Ward...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            806,
+            45,
+            868,
+            181
+        ],
+        "text": "Young Todoroki!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1105,
+            151,
+            1222,
+            289
+        ],
+        "text": "You have to be the one to tell them, All Might!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1112,
+            582,
+            1224,
+            670
+        ],
+        "text": "We've made a good start so far.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1073,
+            688,
+            1176,
+            830
+        ],
+        "text": "Although Midoriya has been sent to a different location...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

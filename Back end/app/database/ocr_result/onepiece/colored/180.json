@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            81,
+            177,
+            150,
+            300
+        ],
+        "text": "You... you cut off my arm?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            104,
+            632,
+            187,
+            753
+        ],
+        "text": "Uwaaa! Aaaah!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            158,
+            78,
+            239,
+            161
+        ],
+        "text": "But the damage should have...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            352,
+            531,
+            413,
+            614
+        ],
+        "text": "Kid...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            72,
+            471,
+            222
+        ],
+        "text": "...doesn't have a left arm!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            63,
+            833,
+            177
+        ],
+        "text": "That was the last one.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            722,
+            314,
+            806,
+            408
+        ],
+        "text": "Congratulations!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            490,
+            787,
+            614
+        ],
+        "text": "How many more lives do you have?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            664,
+            770,
+            758
+        ],
+        "text": "Question two.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            639,
+            859,
+            707
+        ],
+        "text": "Slip",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            916,
+            3,
+            994,
+            195
+        ],
+        "text": "Damn it!! This isn't what I predicted!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1125,
+            56,
+            1194,
+            167
+        ],
+        "text": "Death, upright...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1107,
+            316,
+            1198,
+            406
+        ],
+        "text": "Straw-man's card:",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1203,
+            520,
+            1257,
+            589
+        ],
+        "text": "Huff... huff...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1170,
+            673,
+            1235,
+            822
+        ],
+        "text": "If I remove this doll,",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1093,
+            1348,
+            1131,
+            1442
+        ],
+        "text": "What?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1206,
+            1112,
+            1255,
+            1222
+        ],
+        "text": "Hawkins-san!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

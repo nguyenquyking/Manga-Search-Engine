@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            126,
+            130,
+            257,
+            542
+        ],
+        "text": "Special Bonus Materials",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            304,
+            109,
+            356,
+            624
+        ],
+        "text": "Charmy's trip around the world!\n~Appetite transcends national borders~",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            488,
+            152,
+            716,
+            262
+        ],
+        "text": "La\n(La)\nLa\n\"La\"\n(La)\nLa",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1104,
+            174,
+            1193,
+            494
+        ],
+        "text": "Native American\nCharmy",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            713,
+            642,
+            760,
+            951
+        ],
+        "text": "Cowgirl Charmy",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1488,
+            632,
+            1544,
+            964
+        ],
+        "text": "Matador Charmy",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

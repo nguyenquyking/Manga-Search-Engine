@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            61,
+            57,
+            105,
+            177
+        ],
+        "text": "Otoko, what are you...? ",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            223,
+            175,
+            314
+        ],
+        "text": "The Oiran's Kamuro?! Make her stop!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            342,
+            148,
+            396
+        ],
+        "text": "Hey! Child!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            428,
+            170,
+            568
+        ],
+        "text": "I can't stop!! I'm sorry!! Aha ha ha!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            42,
+            608,
+            150,
+            689
+        ],
+        "text": "Aha ha ha ha ha!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            286,
+            424,
+            369,
+            518
+        ],
+        "text": "I know, I shouldn't laugh!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            147,
+            530,
+            225
+        ],
+        "text": "Aieee! Please, don't!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            585,
+            40,
+            656,
+            162
+        ],
+        "text": "I am the victor! I beat Oden...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            316,
+            642,
+            437
+        ],
+        "text": "Do you think that I am afraid of this unfinished business from 20 years ago?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            618,
+            572,
+            697
+        ],
+        "text": "This displeases me... I am the Shogun.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            10,
+            832,
+            110
+        ],
+        "text": "Don't get your hopes up! She's just got some scheme up her sleeve.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            136,
+            822,
+            205
+        ],
+        "text": "The Oiran?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            247,
+            814,
+            362
+        ],
+        "text": "My Lord!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            612,
+            864,
+            699
+        ],
+        "text": "Stop this!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            252,
+            982,
+            354
+        ],
+        "text": "She is but a child!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            33,
+            1122,
+            121
+        ],
+        "text": "Be silent, Komurasaki...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

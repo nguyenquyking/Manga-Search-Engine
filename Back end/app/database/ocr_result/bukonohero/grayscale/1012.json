@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            227,
+            104,
+            306,
+            214
+        ],
+        "text": "YOU DROPPED THIS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            535,
+            643,
+            578,
+            724
+        ],
+        "text": "GIVE IT BACK!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            440,
+            581,
+            485
+        ],
+        "text": "DASH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            806,
+            206,
+            897,
+            319
+        ],
+        "text": "WELL, JIN WAS LIKE A PRECIOUS BIG BROTHER TO ME.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            404,
+            1068,
+            468
+        ],
+        "text": "IT SURE IS!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            648,
+            1065,
+            741
+        ],
+        "text": "THIS IS SOMETHING PRECIOUS TO YOU, HUH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

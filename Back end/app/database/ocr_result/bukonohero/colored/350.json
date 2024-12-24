@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            60,
+            57,
+            327,
+            270
+        ],
+        "text": "NOBODY'S BEEN SAVED YET! DON'T BE THE OLD, WORTHLESS DEKU WHO CAN'T SAVE ANYONE!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            405,
+            267,
+            537
+        ],
+        "text": "IN THE MIDST OF THAT POWER STRUGGLE, IF ANYTHING BREAKS JEANIST'S FOCUS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            450,
+            418,
+            540,
+            552
+        ],
+        "text": "...THE GIANT'S GONNA BREAK FREE!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            657,
+            197,
+            855
+        ],
+        "text": "GOTTA MOVE!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1113,
+            29,
+            1257,
+            311
+        ],
+        "text": "I GOTTA COVER JEANIST'S BACK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1187,
+            392,
+            1326,
+            605
+        ],
+        "text": "MOVE ALREADY! WITH FLOAT AND BLACKWHIP ON MY SIDE, MY BUSTED LIMBS SHOULDN'T MATTER AT ALL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

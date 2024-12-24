@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            72,
+            40,
+            121,
+            159
+        ],
+        "text": "...to be so young?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            206,
+            35,
+            256,
+            161
+        ],
+        "text": "MY NAME IS SHINOBU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            585,
+            126,
+            699
+        ],
+        "text": "WELL, WELL. ISN'T IT NICE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            367,
+            35,
+            446,
+            163
+        ],
+        "text": "IF NAMI WEREN'T HERE, MY SPIRIT WOULD BE BROKEN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            184,
+            447,
+            292
+        ],
+        "text": "MY SPECIALTY IS THE SEDUCTION JUTSU!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            369,
+            301,
+            477,
+            399
+        ],
+        "text": "IN THE PAST, I WAS MASTER KIN'S HONORARY LITTLE SISTER. NOW? NOT SO MUCH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            519,
+            14,
+            616,
+            116
+        ],
+        "text": "I UNDERSTAND, YOUNG MAN. NOTHING IS MORE DEADLY THAN A MATURE WOMAN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            326,
+            624,
+            456
+        ],
+        "text": "VETERAN KUNOICHI SHINOBU",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            712,
+            47,
+            843,
+            236
+        ],
+        "text": "KAWAMATSU! DENJIRO! ASHURA DOJI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            34,
+            1092,
+            219
+        ],
+        "text": "LIKE US, THEY WERE ONCE SERVANTS OF LORD ODEN!! I AM CERTAIN THEY ARE STILL ALIVE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            590,
+            813,
+            704
+        ],
+        "text": "WE WILL SPLIT APART TO VARIOUS REGIONS UNTIL THE EVENTUAL GATHERING...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            590,
+            970,
+            715
+        ],
+        "text": "...BUT THERE ARE THREE SAMURAI IN PARTICULAR WHO MUST BE SOUGHT OUT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            600,
+            1110,
+            707
+        ],
+        "text": "THEY WILL GIVE US THE STRENGTH OF A HUNDRED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

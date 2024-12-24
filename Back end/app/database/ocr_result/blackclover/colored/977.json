@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            377,
+            86,
+            385,
+            169
+        ],
+        "text": "BOOMF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            427,
+            883,
+            513,
+            1000
+        ],
+        "text": "NOT AS MY QUEEN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            449,
+            780,
+            586
+        ],
+        "text": "...BUT AS A WOMAN. WHAT I FEEL FOR YOU IS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            150,
+            1054,
+            230
+        ],
+        "text": "LOLO-PECHKA IS MINE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            436,
+            1053,
+            517
+        ],
+        "text": "DID I SAY SOMETHING WRONG?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            640,
+            1041,
+            728
+        ],
+        "text": "AGH AGH AGH AGH AGH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            980,
+            859,
+            1067,
+            1011
+        ],
+        "text": "WHA-! WAIT! GAJA...!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1093,
+            89,
+            1193,
+            202
+        ],
+        "text": "BUT...IF IT'S YOU, GAJA, THEN...GNRRRGH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1346,
+            91,
+            1472,
+            232
+        ],
+        "text": "...BUT I SUPPOSE IT'S THANKS TO HIM THAT NOELLE GREW STRONG.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1378,
+            574,
+            1417,
+            679
+        ],
+        "text": "IT'S IRRITATING...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

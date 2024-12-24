@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            72,
+            66,
+            136,
+            149
+        ],
+        "text": "Oh, yeah. Is that true?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            525,
+            163,
+            648
+        ],
+        "text": "By the way, there's that Warlord named Weevi going around...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            433,
+            318,
+            651
+        ],
+        "text": "CLICK\n...Calling himself Pops's son and attacking anyone related to the name of Whitebeard.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            199,
+            33,
+            314,
+            166
+        ],
+        "text": "I can't comment on his history with women, but this guy seems to want an inheritance!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            36,
+            504,
+            167
+        ],
+        "text": "Heh! Then maybe you've got another memento of his to protect.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            205,
+            511,
+            295
+        ],
+        "text": "Thirty-something years ago, close to forty...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            313,
+            512,
+            392
+        ],
+        "text": "Weevil's mother, Buckin, is a former pirate.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            429,
+            498,
+            540
+        ],
+        "text": "Well... I can see why you wouldn't want to leave, then.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            584,
+            493,
+            697
+        ],
+        "text": "And I don't think he'll take \"there isn't any\" for an answer.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            575,
+            541,
+            650
+        ],
+        "text": "Meow!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            732,
+            41,
+            810,
+            165
+        ],
+        "text": "Ha ha ha!! They're certainly not acting like it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            223,
+            808,
+            372
+        ],
+        "text": "...She would've been on the same ship as Pops!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            711,
+            579,
+            810,
+            697
+        ],
+        "text": "I figure he'll come after me and this place soon enough.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            181,
+            974,
+            247
+        ],
+        "text": "Of course. I'm all ears.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            69,
+            1028,
+            155
+        ],
+        "text": "You said he's going to Wano?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1095,
+            52,
+            1122,
+            104
+        ],
+        "text": "Yep.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            897,
+            587,
+            994,
+            703
+        ],
+        "text": "If you're going to meet with Straw Hat Luffy after this...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            590,
+            1122,
+            693
+        ],
+        "text": "...I've got a message to send along, Cat Viper...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

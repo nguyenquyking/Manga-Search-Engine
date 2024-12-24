@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            106,
+            294,
+            219,
+            446
+        ],
+        "text": "Looks like sentiment tripped you up after all, hero!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            226,
+            131,
+            226,
+            196
+        ],
+        "text": "DOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            903,
+            542,
+            995,
+            653
+        ],
+        "text": "Didn't notice me there, didja?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            1379,
+            1009,
+            1494
+        ],
+        "text": "There's no need! I heard him loud and clear...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            1089,
+            914,
+            1139
+        ],
+        "text": "ROLL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1108,
+            1025,
+            1115,
+            1290
+        ],
+        "text": "TOMP\nFWOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1118,
+            368,
+            1135,
+            646
+        ],
+        "text": "Next chapter hits Mar. 29!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

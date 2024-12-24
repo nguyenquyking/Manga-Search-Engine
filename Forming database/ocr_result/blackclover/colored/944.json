@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            316,
+            126,
+            430,
+            263
+        ],
+        "text": "You're welcome, and thanks for saving us!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            586,
+            759,
+            703,
+            952
+        ],
+        "text": "Thank you for saving Lolopechka!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1216,
+            122,
+            1511,
+            318
+        ],
+        "text": "The rest is all yours!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1218,
+            814,
+            1678,
+            1238
+        ],
+        "text": "Sorry!!!! At this point, I'm completely useless!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

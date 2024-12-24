@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            67,
+            68,
+            135,
+            169
+        ],
+        "text": "ISN'T THAT RIGHT?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            349,
+            140,
+            457
+        ],
+        "text": "IT SEEMS IT'S ONE OF THEIR POWERS AT WORK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            504,
+            119,
+            642
+        ],
+        "text": "YOU'VE TURNED TRAITOR?! FOR WHAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            425,
+            170,
+            478,
+            241
+        ],
+        "text": "WATCH OUT...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            416,
+            341,
+            461,
+            437
+        ],
+        "text": "LIGHTNING ALERT!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            395,
+            475,
+            507,
+            569
+        ],
+        "text": "I THINK YOU WANT ME TO PROPERLY CRUSH YOUR SKULL THIS TIME!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            620,
+            654,
+            680
+        ],
+        "text": "NO, I'M NOT DOING THAT AGAIN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            599,
+            75,
+            654,
+            158
+        ],
+        "text": "...FOR HEART PARALYSIS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            764,
+            578,
+            824,
+            699
+        ],
+        "text": "THUNDER LANCE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1009,
+            600,
+            1078,
+            708
+        ],
+        "text": "TEMPO!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            736,
+            857,
+            823,
+            926
+        ],
+        "text": "PAGE ONE!! ULTII!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            737,
+            1008,
+            809,
+            1094
+        ],
+        "text": "TRAMPLE THEM ALL!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            729,
+            1117,
+            814,
+            1230
+        ],
+        "text": "SASAKI!! THEY'VE TURNED COAT AGAINST US!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            927,
+            1420,
+            1022,
+            1508
+        ],
+        "text": "WHAT'S GOTTEN INTO YOU PEOPLE?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            75,
+            354,
+            184,
+            476
+        ],
+        "text": "I spotted Hawks on the top floor!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            171,
+            224,
+            260,
+            344
+        ],
+        "text": "He's probably in trouble!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            165,
+            702,
+            274,
+            810
+        ],
+        "text": "What're you thinking, you idiot?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            396,
+            432,
+            478
+        ],
+        "text": "...Until now!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            400,
+            817,
+            608,
+            907
+        ],
+        "text": "I know the kid is strong, but...no body's ever escaped my fat...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            391,
+            686,
+            486
+        ],
+        "text": "Hawks? Really?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            649,
+            205,
+            648,
+            251
+        ],
+        "text": "Zoosh",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            922,
+            367,
+            1000,
+            515
+        ],
+        "text": "No Ride-n-Dash Allowed!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            915,
+            608,
+            1010,
+            698
+        ],
+        "text": "Pom",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            845,
+            750,
+            931,
+            871
+        ],
+        "text": "You kids're hoofing it from here on out.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1310,
+            813,
+            1332,
+            865
+        ],
+        "text": "EEK!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1133,
+            427,
+            1419,
+            525
+        ],
+        "text": "DASH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

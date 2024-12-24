@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            72,
+            77,
+            163,
+            190
+        ],
+        "text": "Doesn't look like the three of us are going anywhere...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            730,
+            118,
+            824
+        ],
+        "text": "...as I thought...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            338,
+            499,
+            371,
+            552
+        ],
+        "text": "...I see...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            306,
+            588,
+            403,
+            702
+        ],
+        "text": "'Cuz our bodies didn't have souls to begin with...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            282,
+            799,
+            429,
+            915
+        ],
+        "text": "Our souls clung so tightly to our bodies in our second reincarnation...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            61,
+            559,
+            175
+        ],
+        "text": "Please, continue living in this world for all of us...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            414,
+            595,
+            539
+        ],
+        "text": "Well, that may have some sort of meaning...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            821,
+            71,
+            956,
+            175
+        ],
+        "text": "It'll be a pain, but we'll try living on for you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            375,
+            881,
+            487
+        ],
+        "text": "Now that Licht's said it, guess we have no choice.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            523,
+            835,
+            604
+        ],
+        "text": "Haa~ah...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            800,
+            853,
+            816,
+            925
+        ],
+        "text": "Licht...!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1094,
+            534,
+            1177,
+            595
+        ],
+        "text": "'Til our paths cross again, huh...? ",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            646,
+            1144,
+            729
+        ],
+        "text": "S-see you next time...!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

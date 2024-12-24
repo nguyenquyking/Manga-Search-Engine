@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            252,
+            248,
+            591,
+            603
+        ],
+        "text": "The preparations for my descent are all in place.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            186,
+            672,
+            225,
+            748
+        ],
+        "text": "SHU",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            636,
+            855,
+            1035,
+            1286
+        ],
+        "text": "And there are the souls of three vastly powerful mages of the same sex here.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            708,
+            178,
+            741,
+            252
+        ],
+        "text": "SHU",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            762,
+            1419,
+            798,
+            1460
+        ],
+        "text": "SHU",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            462,
+            1798,
+            492,
+            1885
+        ],
+        "text": "SHU",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1029,
+            1522,
+            1431,
+            1758
+        ],
+        "text": "Lucifero and the others haven't noticed us.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1742,
+            1181,
+            1770,
+            1304
+        ],
+        "text": "FUAAAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2235,
+            216,
+            2505,
+            649
+        ],
+        "text": "BUT THERE'S NO MISTAKE!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2241,
+            720,
+            2490,
+            1111
+        ],
+        "text": "IT'S IMPOSSIBLE!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2241,
+            1568,
+            2493,
+            1824
+        ],
+        "text": "THE POWER OF THIS CURSE!!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

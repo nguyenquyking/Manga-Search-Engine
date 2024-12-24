@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            38,
+            129,
+            144,
+            233
+        ],
+        "text": "That'll more than make up for failing earlier!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            275,
+            138,
+            353
+        ],
+        "text": "But look at Straw Hat, he's worth 1.5 billion!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            405,
+            125,
+            499
+        ],
+        "text": "Well, we already let Kid get past...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            623,
+            146,
+            726
+        ],
+        "text": "Master Poker! The Straw Hats are heading your way!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            209,
+            653,
+            264,
+            744
+        ],
+        "text": "Gorishiro, stop dropping banana",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            42,
+            345,
+            147
+        ],
+        "text": "I can already see my promotion to Tobi Roppo. Not bad, not bad...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            187,
+            661,
+            330
+        ],
+        "text": "Headliner: Animal Kingdom Pirates\nPoker",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            667,
+            183,
+            681,
+            351
+        ],
+        "text": "Rattlesnake Smile Fruit",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            562,
+            557,
+            591,
+            680
+        ],
+        "text": "Headliner: Animal Kingdom Pirates",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            665,
+            553,
+            678,
+            688
+        ],
+        "text": "Gorilla Smile Fruit",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            717,
+            99,
+            815,
+            169
+        ],
+        "text": "Hey, where are they?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            283,
+            806,
+            368
+        ],
+        "text": "You can get up to the fourth floor with this!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            386,
+            787,
+            480
+        ],
+        "text": "That's right! The stairs are swarming with enemies.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            499,
+            785,
+            576
+        ],
+        "text": "A hand-made ladder?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            610,
+            796,
+            715
+        ],
+        "text": "Straw Hat!! Over here!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            273,
+            924,
+            342
+        ],
+        "text": "Thanks, this is a huge help!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            897,
+            112,
+            913,
+            179
+        ],
+        "text": "Ga-bing!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            898,
+            512,
+            921,
+            561
+        ],
+        "text": "Raaah",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1049,
+            609,
+            1110,
+            724
+        ],
+        "text": "Oh, hey!! You guys were at Udon!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1120,
+            427,
+            1134,
+            475
+        ],
+        "text": "Bam!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

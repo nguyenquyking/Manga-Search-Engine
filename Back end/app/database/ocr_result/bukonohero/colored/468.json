@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            84,
+            1215,
+            128,
+            1299
+        ],
+        "text": "BACK THERE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1000,
+            1093,
+            1091,
+            1215
+        ],
+        "text": "...HE WAS THE ONE FOLLOWING THEM!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1111,
+            1634,
+            1207,
+            1834
+        ],
+        "text": "SENSEI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

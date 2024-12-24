@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            125,
+            413,
+            295,
+            588
+        ],
+        "text": "You just showed me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            263,
+            163,
+            428,
+            398
+        ],
+        "text": "...something real interesting.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            1105,
+            109,
+            1486
+        ],
+        "text": "DAMMIT!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            409,
+            1213,
+            485,
+            1310
+        ],
+        "text": "Haw haw.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            641,
+            1251,
+            950,
+            1539
+        ],
+        "text": "A Dark Triad member whose devil power was at 100 percent would have been nearly the equal of a Supreme Devil!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            661,
+            895,
+            774,
+            945
+        ],
+        "text": "Ow ow ow ow ow!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            771,
+            114,
+            922,
+            264
+        ],
+        "text": "At any rate, now we can...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            771,
+            392,
+            1085,
+            763
+        ],
+        "text": "But this guy just...!\nI don't know how he did it, but what a great surprise.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1147,
+            208,
+            1179,
+            711
+        ],
+        "text": "@ Nacht //@Colorclovers",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1916,
+            515,
+            2003,
+            613
+        ],
+        "text": "What a view...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1889,
+            1072,
+            2065,
+            1196
+        ],
+        "text": "The devils just keep pouring out.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

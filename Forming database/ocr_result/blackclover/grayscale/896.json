@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            125,
+            76,
+            220,
+            166
+        ],
+        "text": "But you did it out of kindness, didn't you?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            201,
+            520,
+            291,
+            598
+        ],
+        "text": "That might have been a mistake.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            653,
+            209,
+            742
+        ],
+        "text": "Not telling her about the Saint Stage...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            241,
+            597,
+            307
+        ],
+        "text": "Noelle...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            59,
+            896,
+            149
+        ],
+        "text": "...But we do have the same goal, don't we?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            785,
+            219,
+            855,
+            291
+        ],
+        "text": "We don't get along...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            352,
+            986,
+            497
+        ],
+        "text": "How could those things ever be mistakes?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            687,
+            799,
+            756
+        ],
+        "text": "Being kind.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            611,
+            1013,
+            731
+        ],
+        "text": "Feeling affection for someone.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

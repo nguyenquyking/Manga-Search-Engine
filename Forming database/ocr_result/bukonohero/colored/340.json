@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            68,
+            172,
+            95,
+            339
+        ],
+        "text": "Shoto! Right...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            234,
+            542,
+            352,
+            707
+        ],
+        "text": "That doesn't change the hard truths about my family's past!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            309,
+            809,
+            373,
+            902
+        ],
+        "text": "So what if you're alive...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            554,
+            580,
+            668
+        ],
+        "text": "HRRNGH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            915,
+            85,
+            1018,
+            255
+        ],
+        "text": "Even Machia doesn't have unlimited stamina.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            985,
+            791,
+            1094,
+            934
+        ],
+        "text": "Unthinkable! Machia's actually been pinned down?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1243,
+            559,
+            1353,
+            669
+        ],
+        "text": "Urgh, that hurts! I'm gonna crack!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1390,
+            770,
+            1385,
+            860
+        ],
+        "text": "SKWEEZ",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

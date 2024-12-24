@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            58,
+            54,
+            120,
+            168
+        ],
+        "text": "BIG BROOO!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            52,
+            229,
+            136,
+            260
+        ],
+        "text": "WOOF WOOF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            66,
+            494,
+            162,
+            703
+        ],
+        "text": "OTAMA! LET GO OF TAMA, OR I'LL WHUP YOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            320,
+            35,
+            373,
+            175
+        ],
+        "text": "OKIKU! KOMACHIYO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            130,
+            558,
+            253
+        ],
+        "text": "I'LL TAKE YOU HOSTAGE AND CAPTURE SHUTENMARU IN THE BARGAIN!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            416,
+            546,
+            528
+        ],
+        "text": "YOU KNOW WHAT THIS LITTLE BRAT CAN DO, DON'T YOU?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            470,
+            614,
+            561,
+            701
+        ],
+        "text": "GA HA HA HA! YOU TALK BIG, FOOL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            546,
+            33,
+            592,
+            96
+        ],
+        "text": "WHO'S THAT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            7,
+            800,
+            149
+        ],
+        "text": "DON'T PLAY STUPID WITH ME! IT'S THE BOSS OF YOUR BAND OF THIEVES!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            903,
+            32,
+            985,
+            165
+        ],
+        "text": "AND GIVEN THAT YOU DEFEATED URASHIMA, EVEN IF BY A FLUKE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            901,
+            430,
+            988,
+            566
+        ],
+        "text": "WE KNOW THE ONES RESPONSIBLE FOR ALL THE RECENT THEFTS FROM THE FARM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            908,
+            606,
+            961,
+            701
+        ],
+        "text": "SHUTEN-MARU...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1039,
+            41,
+            1119,
+            144
+        ],
+        "text": "...I EXPECT YOU'RE ONE OF HIS MORE IMPORTANT",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1027,
+            440,
+            1148,
+            554
+        ],
+        "text": "...ARE YOU PEOPLE IN THE HEAD MOUNTAIN THIEVES BRIGADE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

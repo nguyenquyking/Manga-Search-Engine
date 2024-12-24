@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            109,
+            31,
+            209,
+            134
+        ],
+        "text": "IT WAS SCRAP TO BEGIN WITH.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            342,
+            360,
+            343,
+            417
+        ],
+        "text": "KTANG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1046,
+            387,
+            1114,
+            486
+        ],
+        "text": "GUM-GUM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

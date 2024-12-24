@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            141,
+            181,
+            210,
+            283
+        ],
+        "text": "COM-PATIBILITY, HUH...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            104,
+            535,
+            232
+        ],
+        "text": "...So what's the deal with this particular location, then?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            286,
+            517,
+            404
+        ],
+        "text": "And those people were matched according to their quirks...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            710,
+            533,
+            869
+        ],
+        "text": "So that cage from before was only meant to allow for both forces to be split up.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            211,
+            742,
+            349
+        ],
+        "text": "\"It is what you cannot see that you must fear.\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            751,
+            738,
+            847
+        ],
+        "text": "I wonder what spurred you all to remain here.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1103,
+            63,
+            1238,
+            285
+        ],
+        "text": "The very layer that covers this planet.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            526,
+            1080,
+            608
+        ],
+        "text": "Is it trust?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1121,
+            416,
+            1193,
+            514
+        ],
+        "text": "Or just blind faith?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

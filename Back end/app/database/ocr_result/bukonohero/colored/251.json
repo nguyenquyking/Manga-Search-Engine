@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            349,
+            766,
+            380,
+            882
+        ],
+        "text": "Yes!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1010,
+            383,
+            1097,
+            511
+        ],
+        "text": "This is only until we stop Toya, got it?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1254,
+            207,
+            1285,
+            312
+        ],
+        "text": "Yes!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

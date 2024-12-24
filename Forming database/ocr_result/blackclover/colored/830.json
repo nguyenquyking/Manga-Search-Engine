@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            350,
+            73,
+            552,
+            288
+        ],
+        "text": "It doesn't appear to be anti-magic or unique arcane stage magic.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            197,
+            596,
+            338,
+            720
+        ],
+        "text": "However, your magic is far too low.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            205,
+            1034,
+            441,
+            1249
+        ],
+        "text": "There are those who can entertain me even if their magic is lower than mine.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            806,
+            124,
+            945,
+            225
+        ],
+        "text": "Don't get the wrong idea, pal.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            546,
+            846,
+            702
+        ],
+        "text": "Even if you both fight me at once, there's no point...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            871,
+            483,
+            999
+        ],
+        "text": "Like him, for example.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1150,
+            1142,
+            1333,
+            1303
+        ],
+        "text": "I'm taking you down...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1776,
+            341,
+            1864,
+            412
+        ],
+        "text": "Heh heh heh...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1743,
+            539,
+            1850,
+            796
+        ],
+        "text": "...By myself!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

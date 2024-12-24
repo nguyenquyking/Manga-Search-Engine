@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            58,
+            77,
+            106,
+            171
+        ],
+        "text": "FWAP!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            68,
+            390,
+            162,
+            717
+        ],
+        "text": "THEN WHY DON'T YOU GET ON THE STAGE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            222,
+            611,
+            306,
+            732
+        ],
+        "text": "I'LL WHOOP YOU AND PUT AN END TO ALL OF THIS!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            243,
+            418,
+            337
+        ],
+        "text": "WHUF!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            490,
+            58,
+            638,
+            674
+        ],
+        "text": "WHO DO YOU THINK YOU'RE ORDERING AROUND?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            589,
+            689,
+            642,
+            747
+        ],
+        "text": "AAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            794,
+            67,
+            885,
+            349
+        ],
+        "text": "WHAT MAKES YOU THINK YOU CAN BEAT US?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            375,
+            865,
+            473
+        ],
+        "text": "WHO SAID YOU COULD FEEL HOPE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            568,
+            878,
+            690
+        ],
+        "text": "DON'T BE SO FULL OF YOURSELVES, BOYS.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1070,
+            66,
+            1146,
+            148
+        ],
+        "text": "HE HASN'T EATEN HIS OSHIRUKO YET TODAY.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1068,
+            191,
+            1142,
+            250
+        ],
+        "text": "UH-OH, HE'S IN A BAD MOOD...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

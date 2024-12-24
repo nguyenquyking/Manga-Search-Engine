@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            33,
+            219,
+            72,
+            338
+        ],
+        "text": "4:30 AM",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            340,
+            173,
+            372,
+            301
+        ],
+        "text": "KUIN PRISON",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            340,
+            522,
+            370,
+            667
+        ],
+        "text": "BAGU PRISON",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            448,
+            55,
+            456,
+            109
+        ],
+        "text": "FWOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            744,
+            41,
+            840,
+            277
+        ],
+        "text": "THROUGH USE OF\nEMERGENCY AIRCRAFT THAT\nREQUIRE AN OFFICIAL\nBIOMETRIC I.D. TO\nOPERATE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            999,
+            33,
+            1090,
+            345
+        ],
+        "text": "...THE ESCAPED PRISONERS FROM\nTARTARUS AND THE NEAR HIGH-ENDS\nPROCEEDED TO ATTACK SEVEN OTHER\nPRISONS, FREEING ADDITIONAL\nCONVICTS FROM SIX OF THEM.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

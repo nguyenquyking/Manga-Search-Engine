@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            70,
+            461,
+            144,
+            544
+        ],
+        "text": "THIS IS REALLY BRINGING BACK MEMORIES...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            162,
+            381,
+            219,
+            452
+        ],
+        "text": "...EVEN IF IT WASN'T THAT LONG AGO.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            441,
+            63,
+            569,
+            155
+        ],
+        "text": "SPURRED ME TO TAKE ACTION, YOU KNOW?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            380,
+            179,
+            488,
+            256
+        ],
+        "text": "SEEING THAT BATTLE IN HOSU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            661,
+            60,
+            713,
+            201
+        ],
+        "text": "THE SHEER HEAT! IT'S EXTRAORDINARY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            973,
+            215,
+            1043,
+            324
+        ],
+        "text": "I CAN'T GET ANY CLOSER, LEST IT RUIN MY ENGINES!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            910,
+            505,
+            954,
+            582
+        ],
+        "text": "SHOTO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            54,
+            1056,
+            94
+        ],
+        "text": "BWF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

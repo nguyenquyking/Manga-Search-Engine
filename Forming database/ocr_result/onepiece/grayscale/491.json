@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            42,
+            667,
+            122,
+            742
+        ],
+        "text": "So you defended against it...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            106,
+            318,
+            115,
+            385
+        ],
+        "text": "CRAKK!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            906,
+            367,
+            993,
+            512
+        ],
+        "text": "HALLOWED GLACIER SLASH!!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

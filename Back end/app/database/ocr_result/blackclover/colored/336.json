@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            92,
+            404,
+            178,
+            463
+        ],
+        "text": "AHH, YOUR NOSE IS BLEEDING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            152,
+            161,
+            265,
+            275
+        ],
+        "text": "THAT'S WHY I SAID IT WASN'T ADVISABLE TO MEET HER IN PERSON...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            217,
+            343,
+            275,
+            400
+        ],
+        "text": "BUT YOU'RE STILL SO CUTE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            161,
+            753,
+            286,
+            877
+        ],
+        "text": "AAH, PLEASE, LORO-PECHIKA! YOU MUST COMPORT YOURSELF WITH DIGNITY, LIKE A PRINCESS!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            677,
+            364,
+            716
+        ],
+        "text": "Ow, ow, ow, owie",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            397,
+            235,
+            432,
+            287
+        ],
+        "text": "WHAT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            63,
+            806,
+            191
+        ],
+        "text": "BUT EVEN TIER 0 POWERS CAN'T FINISH OFF DEMONS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            683,
+            372,
+            835,
+            515
+        ],
+        "text": "I SAID BEFORE THAT BATTLING A DEMON WITH ANYTHING BELOW TIER 1 POWER WAS FRUITLESS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            724,
+            661,
+            822,
+            774
+        ],
+        "text": "WHY DO YOU NEED OUR POWER?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1157,
+            65,
+            1229,
+            189
+        ],
+        "text": "EVEN THEN, A DEMON CAN'T BE COMPLETELY DEFEATED.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1038,
+            387,
+            1199,
+            510
+        ],
+        "text": "SPIRIT GUARDIANS CAN USE POWERFUL MAGIC POWER THAT BORROWS THE POWER OF NATURAL MANA, HOWEVER...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

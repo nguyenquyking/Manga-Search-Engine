@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            60,
+            456,
+            243,
+            606
+        ],
+        "text": "IF YOU CAN'T BEAT THESE EIGHT SHINING GENERAL GUYS,\nYOU'RE NOT WORTH BOTHERING WITH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            61,
+            1035,
+            200
+        ],
+        "text": "Corpse-Hunting Briar Trees",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            897,
+            610,
+            1003,
+            767
+        ],
+        "text": "Briar Creation Magic:",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            120,
+            698,
+            129,
+            764
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

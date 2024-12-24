@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            93,
+            82,
+            184,
+            191
+        ],
+        "text": "How're we gonna get in touch with them?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            601,
+            76,
+            665
+        ],
+        "text": "DAMMIT!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            340,
+            323,
+            393,
+            430
+        ],
+        "text": "Endeavor's a U.A. alum, right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            127,
+            825,
+            219
+        ],
+        "text": "Then let's force the issue.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

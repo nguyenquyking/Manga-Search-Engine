@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            80,
+            106,
+            187,
+            231
+        ],
+        "text": "...to direct that same energy toward Eri...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            95,
+            571,
+            136,
+            668
+        ],
+        "text": "If you're willing...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            414,
+            126,
+            477,
+            226
+        ],
+        "text": "...in Lady Nagant's place.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            400,
+            569,
+            486,
+            640
+        ],
+        "text": "...I'll honor your deal...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1029,
+            402,
+            1071,
+            499
+        ],
+        "text": "Kid!! Are you",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            602,
+            958,
+            646
+        ],
+        "text": "BWAH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

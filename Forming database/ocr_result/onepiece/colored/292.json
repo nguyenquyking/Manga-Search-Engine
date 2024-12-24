@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            45,
+            387,
+            348,
+            1010
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            411,
+            302,
+            455,
+            872
+        ],
+        "text": "Chapter 1021: DEMONIO",
+        "panel_id": "1",
+        "type": "chapter_title"
+    },
+    {
+        "text_box": [
+            1457,
+            396,
+            1510,
+            805
+        ],
+        "text": "Reader request: \"Se\u00f1or Pink and Franky having drinks at a Leopard's Bar\" by Rye",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1483,
+            190,
+            1504,
+            995
+        ],
+        "text": "@LittlexGarden @Kamii__U",
+        "panel_id": "2",
+        "type": "credit"
+    },
+    {
+        "text_box": [
+            1543,
+            402,
+            1577,
+            769
+        ],
+        "text": "By Eiichiro Oda",
+        "panel_id": "2",
+        "type": "author"
+    },
+    {
+        "text_box": [
+            1590,
+            219,
+            1614,
+            950
+        ],
+        "text": "Translation: Stephen Paul \u2022 Lettering: Vanessa Satone",
+        "panel_id": "2",
+        "type": "credit"
+    }
+]

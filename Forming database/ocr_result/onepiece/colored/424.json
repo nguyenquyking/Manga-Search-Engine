@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            156,
+            100,
+            180,
+            171
+        ],
+        "text": "Fzzz",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            164,
+            566,
+            255,
+            643
+        ],
+        "text": "Gulp Gulp Munch Munch Chomp Chomp",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            448,
+            98,
+            524,
+            186
+        ],
+        "text": "The next drink we share together...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            451,
+            225,
+            477,
+            255
+        ],
+        "text": "?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            275,
+            481,
+            374
+        ],
+        "text": "PLUNK!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            570,
+            54,
+            656,
+            165
+        ],
+        "text": "...will come in the afterlife, Katsuzo!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            468,
+            440,
+            522,
+            505
+        ],
+        "text": "So long,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            577,
+            491,
+            737
+        ],
+        "text": "Pfooo!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            762,
+            57,
+            822,
+            139
+        ],
+        "text": "He never explains himself!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            765,
+            161,
+            806,
+            236
+        ],
+        "text": "I'm sorry!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            268,
+            848,
+            364
+        ],
+        "text": "...will pardon my interruption...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            402,
+            818,
+            484
+        ],
+        "text": "If the family...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            657,
+            816,
+            731
+        ],
+        "text": "And now...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1142,
+            342,
+            1156,
+            423
+        ],
+        "text": "Be-beng!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

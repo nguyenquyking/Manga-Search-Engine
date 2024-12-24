@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            96,
+            34,
+            159,
+            691
+        ],
+        "text": "BIG\nGYAAAAAA\n!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            82,
+            25,
+            188,
+            694
+        ],
+        "text": "BIG\nMOM",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            11,
+            446,
+            148
+        ],
+        "text": "WHAT CAN WE DO?! IF MASTER QUEEN CAN'T STOP HER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            168,
+            430,
+            286
+        ],
+        "text": "IT'S ALL-OUT PANDEMONIUM!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            420,
+            451,
+            521
+        ],
+        "text": "THAT'S WHERE THE SMELTER IS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            367,
+            551,
+            460,
+            684
+        ],
+        "text": "SHE SMASHED THROUGH THE GATE TO THE IRONWORKS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            19,
+            624,
+            122
+        ],
+        "text": "...THERE'S NO WAY THE REST OF US CAN DO A THING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            57,
+            846,
+            236
+        ],
+        "text": "I HAVE A PLAN...\nBUT WE'LL ONLY GET ONE CHANCE.\nLISTEN UP...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            268,
+            840,
+            378
+        ],
+        "text": "THAT HAG WON'T GET AWAY WITH THIS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            407,
+            842,
+            521
+        ],
+        "text": "MASTER\nQUEEN\n!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            577,
+            833,
+            684
+        ],
+        "text": "WANO IS KAIDO'S TURF.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

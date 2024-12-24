@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            225,
+            71,
+            253,
+            225
+        ],
+        "text": "...GAJA?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            160,
+            953,
+            427,
+            1142
+        ],
+        "text": "AND SO, THREE DAYS FROM NOW WE'LL INVADE THE SPADE KINGDOM IN THE EARLY MORNING HOURS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            763,
+            669,
+            852,
+            762
+        ],
+        "text": "WHAT ABOUT YOU...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1135,
+            45,
+            1259,
+            193
+        ],
+        "text": "WHETHER THEY MAKE IT IN TIME IS UP TO THEM, BUT...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1089,
+            458,
+            1362,
+            587
+        ],
+        "text": "THE PEOPLE OF YOUR COUNTRY WHO ARE HERE ARE ALSO PREPARING FOR A SECOND BATTLE.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1364,
+            104,
+            1459,
+            214
+        ],
+        "text": "I SEE. YOU HAVE MY THANKS.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1301,
+            653,
+            1497,
+            801
+        ],
+        "text": "I SWEAR ON THE HONOR OF THE HEART KINGDOM THAT WE WILL RETAKE OUR QUEEN!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1247,
+            1099,
+            1345,
+            1208
+        ],
+        "text": "WE'LL JOIN THE FIGHT AS WELL.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1484,
+            1018,
+            1656,
+            1154
+        ],
+        "text": "WE'RE CURRENTLY WITH THE ELVES, BUILDING UP OUR STRENGTH.",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

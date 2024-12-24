@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            40,
+            158,
+            146,
+            283
+        ],
+        "text": "Is that Oden's Navigation Log?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            347,
+            169,
+            453
+        ],
+        "text": "But there are lots of big words.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            745,
+            171,
+            853
+        ],
+        "text": "I want to read this logbook.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            95,
+            964,
+            249
+        ],
+        "text": "No... When the time comes, I'll fight for Wano...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            424,
+            968,
+            515
+        ],
+        "text": "Leave his child to die...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            559,
+            969,
+            630
+        ],
+        "text": "Yamato, would your father really...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            700,
+            956,
+            815
+        ],
+        "text": "It's been ten days...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1183,
+            100,
+            1292,
+            246
+        ],
+        "text": "By then, I'll be much, much stronger thanks to all the adventuring I'm going to do out at sea!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1137,
+            317,
+            1264,
+            451
+        ],
+        "text": "If this keeps up, you're not going to see the battle that Oden predicted will happen in 20 years...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

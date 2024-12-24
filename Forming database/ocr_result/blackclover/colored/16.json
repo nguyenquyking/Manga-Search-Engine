@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            40,
+            16,
+            206,
+            161
+        ],
+        "text": "HE STOLE MY MAGIC POWER...\nNO, MY LIFE FORCE\n...!?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            133,
+            805,
+            172,
+            865
+        ],
+        "text": "GUH...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            652,
+            41,
+            881,
+            161
+        ],
+        "text": "IT'S A MAGIC THAT DEVOURS YOUR LIFE. I ONLY UNLEASHED A BIT OF IT, BUT I CANNOT POSSIBLY STOP IT NOW...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            679,
+            520,
+            809,
+            613
+        ],
+        "text": "AND WITH THAT, YOU WON'T EVEN BE ABLE TO GRASP YOUR SWORD.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1097,
+            748,
+            1212,
+            804
+        ],
+        "text": "Hn\nHn\nHn...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

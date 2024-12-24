@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            46,
+            50,
+            169,
+            205
+        ],
+        "text": "JUST LOOK AT MY BODY!! I'LL COME STRAIGHT WITH YA--I'M A CYBORG!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            604,
+            156,
+            728
+        ],
+        "text": "YOU MEAN MADS?! THAT WAS AGES AGO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            45,
+            574,
+            504
+        ],
+        "text": "DA DOOM!!\nWAS THAT SUPPOSED TO BE A SECRET?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            569,
+            617,
+            630,
+            741
+        ],
+        "text": "KCHING\nKCHING!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            867,
+            104,
+            937,
+            283
+        ],
+        "text": "CAN YOU MANAGE THINGS OVER THERE, CHOPPER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            348,
+            921,
+            481
+        ],
+        "text": "SO YOU FIGURED IT OUT, HUH?!\nNOT THAT IT'LL",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            521,
+            951,
+            624
+        ],
+        "text": "IT'S QUEEN'S MAN-BEAST FORM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            659,
+            916,
+            720
+        ],
+        "text": "AAAH,\nLOOK",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            326,
+            970,
+            394
+        ],
+        "text": "MWA-HA-HA!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1020,
+            521,
+            1083,
+            599
+        ],
+        "text": "KEEP\nYOUR\nDISTANCE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

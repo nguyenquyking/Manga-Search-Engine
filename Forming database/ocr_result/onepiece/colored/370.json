@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            156,
+            106,
+            189,
+            614
+        ],
+        "text": "JUMP COMICS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            205,
+            338,
+            378,
+            634
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1010,
+            279,
+            1064,
+            484
+        ],
+        "text": "\u5c3e\u7530\u6804\u4e00\u90ce\n-EIICHIRO ODA-",
+        "panel_id": "2",
+        "type": "author"
+    },
+    {
+        "text_box": [
+            1168,
+            250,
+            1182,
+            508
+        ],
+        "text": "\u672c\u4f53\u30fb\u8868\u7d19",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

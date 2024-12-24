@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            70,
+            638,
+            235,
+            823
+        ],
+        "text": "WATER CREATION MAGIC.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            211,
+            211,
+            274,
+            411
+        ],
+        "text": "HE'S FLOATING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            627,
+            10,
+            757,
+            142
+        ],
+        "text": "WITHOUT USING MAGIC...!?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            357,
+            439,
+            521,
+            607
+        ],
+        "text": "SEA DRAGON'S NEST",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            874,
+            741,
+            1007,
+            805
+        ],
+        "text": "WHOA!\nAAAAA\nAAAAA\nAAAAA\nAAAA!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1118,
+            11,
+            1262,
+            101
+        ],
+        "text": "...I DON'T KNOW WHAT YOU'RE PLANNING, BUT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1216,
+            481,
+            1235,
+            547
+        ],
+        "text": "WHAT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

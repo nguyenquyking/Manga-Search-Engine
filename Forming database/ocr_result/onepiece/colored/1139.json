@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            72,
+            35,
+            152,
+            185
+        ],
+        "text": "Let's go to that mountaintop there\u2014the ruins of Oden Castle.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            221,
+            111,
+            318
+        ],
+        "text": "Look, we've got",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            370,
+            181,
+            453
+        ],
+        "text": "You don't get to say that line!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            476,
+            180,
+            587
+        ],
+        "text": "They'll be coming after us for real now. Prepare yourselves for trouble.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            614,
+            163,
+            696
+        ],
+        "text": "Well, you've really gone and done it...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            34,
+            462,
+            121
+        ],
+        "text": "Yeah. It got me too.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            173,
+            432,
+            259
+        ],
+        "text": "You'll be stunned.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            402,
+            292,
+            421,
+            374
+        ],
+        "text": "Ghosts?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            621,
+            453,
+            700
+        ],
+        "text": "You'll want to meet...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            409,
+            630,
+            514
+        ],
+        "text": "...the ghosts of Wano...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            715,
+            64,
+            793,
+            194
+        ],
+        "text": "...that you cannot believe.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            711,
+            473,
+            792,
+            637
+        ],
+        "text": "You will come to know a truth...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            756,
+            395,
+            864,
+            413
+        ],
+        "text": "Kozuki Oden",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            849,
+            41,
+            1046,
+            247
+        ],
+        "text": "Vassal - Kin'emon",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            920,
+            499,
+            993,
+            519
+        ],
+        "text": "Kozuki Momonosuke",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            883,
+            625,
+            999,
+            655
+        ],
+        "text": "Vassal - Raizo",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

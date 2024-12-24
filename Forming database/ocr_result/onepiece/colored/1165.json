@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            103,
+            245,
+            156,
+            342
+        ],
+        "text": "MASTER HOLDEM!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            51,
+            402,
+            133
+        ],
+        "text": "WAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            86,
+            436,
+            171,
+            539
+        ],
+        "text": "...I CAN HANDLE IT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            577,
+            220,
+            719
+        ],
+        "text": "BUT... BYOING!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            483,
+            104,
+            558,
+            304
+        ],
+        "text": "SOME WOMAN CUT THE YOKOZUNA'S TOPKNOT OFF?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            254,
+            961,
+            345
+        ],
+        "text": "YEAH, IT'S A HUGE SCENE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1010,
+            106,
+            1110,
+            306
+        ],
+        "text": "WHY ARE YOU REPORTING THAT TO ME? WHAT DO YOU EXPECT ME TO DO?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

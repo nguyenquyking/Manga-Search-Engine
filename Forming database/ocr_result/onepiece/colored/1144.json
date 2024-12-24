@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            67,
+            62,
+            133,
+            174
+        ],
+        "text": "WE GOT A FIRE HAPPENING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            432,
+            132,
+            514
+        ],
+        "text": "OUTTA THE WAY, FOLKS!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            570,
+            100,
+            682
+        ],
+        "text": "A FIRE ALARM BELL?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            193,
+            20,
+            266,
+            128
+        ],
+        "text": "LET'S GO, PEOPLE! VAMOOSE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            177,
+            428,
+            240,
+            521
+        ],
+        "text": "MOVE IT! COMIN' THROUGH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            22,
+            463,
+            139
+        ],
+        "text": "JUST PUT IT OUT ALREADY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            352,
+            220,
+            429,
+            277
+        ],
+        "text": "FIRE! FIRE! WOO!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            361,
+            523,
+            498,
+            704
+        ],
+        "text": "WE CLAIM THIS FIRE IN THE NAME OF THE BEST FIRE-FIGHTING SQUAD IN WANO, I-GUMI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            39,
+            806,
+            297
+        ],
+        "text": "Sound effect",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            765,
+            304,
+            858,
+            424
+        ],
+        "text": "WHAT'S WITH ALL THE DESTRUCTION?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            575,
+            837,
+            686
+        ],
+        "text": "THIS IS HOLDEM'S MANSION!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            9,
+            1132,
+            111
+        ],
+        "text": "THERE WAS SUPPOSED TO BE A SUMO EVENT TODAY!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1072,
+            133,
+            1130,
+            197
+        ],
+        "text": "YES, I CAN SEE IT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1074,
+            219,
+            1130,
+            312
+        ],
+        "text": "OVER THERE, MISS SPEED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

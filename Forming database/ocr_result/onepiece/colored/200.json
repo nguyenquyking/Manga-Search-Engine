@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            58,
+            239,
+            101,
+            404
+        ],
+        "text": "YAMABRO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            467,
+            172,
+            605
+        ],
+        "text": "I WAS NAIVE TO THINK I COULD GUARD MYSELF...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            14,
+            649,
+            91,
+            850
+        ],
+        "text": "HIS THUNDER BAGUA...!!!\nAGH...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            470,
+            84,
+            568,
+            268
+        ],
+        "text": "HOLD YOUR INSOLENT TONGUE!!\nI KNOW WHAT I HAVE TO DO,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            310,
+            575,
+            420
+        ],
+        "text": "WH-WHO ARE YOU CALLING SNIVELING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            721,
+            585,
+            841
+        ],
+        "text": "GIVE THAT SNIVELING SNAKE A HAND!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            791,
+            95,
+            898,
+            246
+        ],
+        "text": "BUT IT IS NOT THAT SIMPLE\nTO CHANGE ONESELF!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            459,
+            896,
+            554
+        ],
+        "text": "YOU STILL HAVEN'T\nGOTTEN A GRIP,\nMOMO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            277,
+            1084,
+            366
+        ],
+        "text": "YAMATO...\nMOMO-NOSUKE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            423,
+            1060,
+            496
+        ],
+        "text": "YAMA-TO...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            720,
+            1073,
+            852
+        ],
+        "text": "DON'T WORRY,\nMOMONO-SUKE-KUN!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1140,
+            697,
+            1251,
+            842
+        ],
+        "text": "I'VE GOT YOUR BACK!!\nSORRY WE GOT SPLIT UP\nEARLIER!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

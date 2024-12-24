@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            44,
+            65,
+            109,
+            130
+        ],
+        "text": "What are you doing here...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            28,
+            265,
+            167,
+            342
+        ],
+        "text": "That robe... A magic knight from the Clover Kingdom, huh...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            191,
+            34,
+            234,
+            79
+        ],
+        "text": "Hmm...?",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            400,
+            39,
+            484,
+            192
+        ],
+        "text": "You're all alone... You an idiot or something?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            393,
+            461,
+            464
+        ],
+        "text": "Hey, hey, hey now...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            628,
+            435,
+            685
+        ],
+        "text": "The reckless type, huh.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            646,
+            482,
+            842
+        ],
+        "text": "The hell is with this guy??",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            9,
+            1219,
+            185
+        ],
+        "text": "I'll take care of trash like you in a flash!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            687,
+            1266,
+            847
+        ],
+        "text": "I don't know what you came here for, but you're just wasting your time!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

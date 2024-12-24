@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            238,
+            630,
+            298,
+            781
+        ],
+        "text": "The year I was 13...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            692,
+            70,
+            865,
+            158
+        ],
+        "text": "There were huge claw marks on his back.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            692,
+            377,
+            885,
+            548
+        ],
+        "text": "They thought he'd probably run into the Lord of the Mountain while he was hunting.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            757,
+            617,
+            871,
+            774
+        ],
+        "text": "\"Yeah, I saw that coming,\" I thought.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

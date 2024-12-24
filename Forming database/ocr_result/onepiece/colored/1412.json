@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            87,
+            97,
+            141,
+            186
+        ],
+        "text": "I SAW YOU THROUGH THE MIRROR.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            221,
+            148,
+            302
+        ],
+        "text": "I KNOW.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            632,
+            132,
+            700
+        ],
+        "text": "YES.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            403,
+            32,
+            464,
+            144
+        ],
+        "text": "HERE COMES THE PELICAN EEL!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            404,
+            210,
+            500,
+            319
+        ],
+        "text": "FORGET IT! THIS IS ME! IF THEY LAUGH, I'LL BEAT 'EM UP.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            361,
+            474,
+            475
+        ],
+        "text": "YOU COULD MAKE FRIENDS IF YOU COVERED YOUR MOUTH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            586,
+            668,
+            690
+        ],
+        "text": "YOU PLAYED THE PART OF THE PERFECT, UNASSAILABLE MAN...\n...FOR OUR SAKE,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            136,
+            882,
+            226
+        ],
+        "text": "BUT... WHY DID THEY GO AFTER OUR SISTER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            258,
+            871,
+            359
+        ],
+        "text": "...GOT REVENGE ON HER, KATAKURI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            380,
+            856,
+            469
+        ],
+        "text": "THE GUYS YOU BEAT UP...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            506,
+            870,
+            598
+        ],
+        "text": "BRULEE!! WHAT HAPPENED?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            619,
+            860,
+            709
+        ],
+        "text": "BRULEE'S HURT BAD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1002,
+            69,
+            1051,
+            165
+        ],
+        "text": "BIG BROTHER",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

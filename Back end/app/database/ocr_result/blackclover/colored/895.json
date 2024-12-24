@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            135,
+            1246,
+            368,
+            1489
+        ],
+        "text": "Both you and this devil's power are completely fantastic!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            680,
+            553,
+            780,
+            747
+        ],
+        "text": "Entertain me mooore...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            876,
+            801,
+            992
+        ],
+        "text": "00000",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1158,
+            241,
+            1197,
+            871
+        ],
+        "text": "@_NACHT_//@COLORCLOVERS",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1474,
+            658,
+            1520,
+            824
+        ],
+        "text": "ACIER!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1584,
+            368,
+            1696,
+            495
+        ],
+        "text": "HERE I COME-",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1783,
+            152,
+            2164,
+            440
+        ],
+        "text": "UWE\nEEE\nEH",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

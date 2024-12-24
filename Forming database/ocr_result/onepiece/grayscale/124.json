@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            26,
+            80,
+            76,
+            145
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            44,
+            205,
+            112,
+            333
+        ],
+        "text": "You... You're awake, Sir Pirate!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            371,
+            106,
+            430
+        ],
+        "text": "Eek!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            54,
+            465,
+            83,
+            519
+        ],
+        "text": "Ah!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            54,
+            606,
+            129,
+            705
+        ],
+        "text": "Pleasure Hall,\nLeftbrain Tower",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            145,
+            353,
+            166,
+            403
+        ],
+        "text": "Fwup!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            317,
+            80,
+            369,
+            148
+        ],
+        "text": "Luffy...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            103,
+            478,
+            177
+        ],
+        "text": "Wha...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            81,
+            757,
+            191
+        ],
+        "text": "Is that you, Straw Hat fellow...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            629,
+            520,
+            706
+        ],
+        "text": "Performance Floor",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            833,
+            120,
+            927,
+            250
+        ],
+        "text": "Big Brother's still breathing?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            281,
+            909,
+            378
+        ],
+        "text": "Luffy's alive?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            839,
+            423,
+            907,
+            524
+        ],
+        "text": "Hey! He's still breathing.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1055,
+            652,
+            1099,
+            727
+        ],
+        "text": "Straw Hat...?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

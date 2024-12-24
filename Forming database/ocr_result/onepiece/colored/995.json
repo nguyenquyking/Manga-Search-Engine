@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            69,
+            17,
+            206,
+            124
+        ],
+        "text": "THE PUNISHMENT\nFOR SPEAKING\nBACK TO A\nJAILER IS\nAMPUTATION!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            342,
+            164,
+            438
+        ],
+        "text": "GUESS\nTHE END IS\nNIGH FOR\nYOU, EH?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            481,
+            144,
+            557
+        ],
+        "text": "SOUNDS\nLIKE IN\nYOUR OLD\nAGE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            582,
+            153,
+            708
+        ],
+        "text": "IT'S ONE MILLET\nDUMPLING FOR\nEVERY FIVE\nBLOCKS OF STONE\nYOU HAUL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            192,
+            387,
+            313,
+            564
+        ],
+        "text": "...YOU CAN'T\nGUARANTEE\nENOUGH GOOD\nWORK TO EARN\nTHE FOOD YOU\nNEED, OLD\nMAN HYO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            16,
+            490,
+            129
+        ],
+        "text": "THAT'S A LOT\nOF HARD WORK.\nFOUR MILLET\nDUMPLINGS\nFOR...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            396,
+            174,
+            464,
+            259
+        ],
+        "text": "AHHH,\nFOUR\nTICKETS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            305,
+            462,
+            387
+        ],
+        "text": "YOU'RE\nGOING TO\nDIE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            427,
+            466,
+            552
+        ],
+        "text": "DON'T\nFIGHT BACK!\nPRESERVE YOUR\nSTRENGTH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            612,
+            456,
+            698
+        ],
+        "text": "OLD MAN\nHYO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            502,
+            293,
+            542,
+            342
+        ],
+        "text": "NEXT!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            585,
+            29,
+            636,
+            79
+        ],
+        "text": "HMM\n?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            732,
+            38,
+            862,
+            171
+        ],
+        "text": "I'LL CRUSH\nANYONE\nWHO DARES\nGET IN MY\nWAY!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            726,
+            578,
+            860,
+            703
+        ],
+        "text": "MOVE IT,\nMOVE IT,\nMOVE\nIT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

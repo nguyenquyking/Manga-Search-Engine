@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            136,
+            118,
+            200,
+            272
+        ],
+        "text": "OH NO!!\nBRISCOLA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            153,
+            311,
+            216,
+            365
+        ],
+        "text": "OOK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            124,
+            818,
+            278,
+            990
+        ],
+        "text": "SHARK\nBRICK\nFIST!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            73,
+            824,
+            176
+        ],
+        "text": "OH,\nYOU ARE?\nSORRY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            726,
+            224,
+            860,
+            384
+        ],
+        "text": "WHO PUT YOU\nIN CHARGE?!\nI'M THE ONE\nDRAGGING\nLUFFY ALONG!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            713,
+            458,
+            800,
+            601
+        ],
+        "text": "I FIGURED I\nWOULD FIND\nYOU HERE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            870,
+            780,
+            988
+        ],
+        "text": "LUFFY!!\nSANJI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            604,
+            772,
+            877
+        ],
+        "text": "BENG!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            910,
+            449,
+            985,
+            584
+        ],
+        "text": "JIMBEI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1116,
+            80,
+            1252,
+            215
+        ],
+        "text": "HOW DO\nYOU KNOW\nEVERYTHING\nTHAT'S\nHAPPENING?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1105,
+            259,
+            1265,
+            385
+        ],
+        "text": "THE SAMURAI\nSHOULD HAVE\nREACHED THE\nTOP OF THE\nBATTLEFIELD,\nWE OUGHT TO\nHEAD THERE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1324,
+            45,
+            1441,
+            213
+        ],
+        "text": "WATCH OUT,\nBECAUSE IF LUFFY\nGETS A CHANCE\nTO FIGHT, HE'LL\nTAKE IT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1488,
+            65,
+            1537,
+            199
+        ],
+        "text": "I'LL KEEP\nTHAT IN MIND.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1304,
+            454,
+            1448,
+            644
+        ],
+        "text": "I'M GETTING\nYOU UP TO THE\nROOF!! YOU\nMUST CONSERVE\nYOUR POWER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

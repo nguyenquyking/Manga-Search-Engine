@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            38,
+            51,
+            78,
+            258
+        ],
+        "text": "JUMP COMICS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            88,
+            209,
+            109,
+            294
+        ],
+        "text": "Vol. 90",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            114,
+            47,
+            133,
+            461
+        ],
+        "text": "THE HOLY LAND MARY GEOISE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            171,
+            179,
+            264,
+            612
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            298,
+            292,
+            336,
+            451
+        ],
+        "text": "STORY AND ART BY\nEIICHIRO ODA",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1119,
+            247,
+            1167,
+            520
+        ],
+        "text": "\u5c3e\u7530\u6804\u4e00\u90ce",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

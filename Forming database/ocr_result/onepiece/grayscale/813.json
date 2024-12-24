@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            38,
+            117,
+            83,
+            199
+        ],
+        "text": "YOU OLD COOT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            22,
+            265,
+            87,
+            364
+        ],
+        "text": "I BET YOUR STYLE'S JUST SOME RELIC OF THE PAST!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            21,
+            532,
+            116,
+            609
+        ],
+        "text": "THE MIMAWARI-GUMI WILL TAKE YOU ON...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            645,
+            85,
+            735
+        ],
+        "text": "OH, IS THAT SO?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            149,
+            513,
+            225,
+            584
+        ],
+        "text": "LET'S SEE THIS \"LEGEND\"!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            198,
+            418,
+            275,
+            488
+        ],
+        "text": "FLOWER ONE-SWORD STYLE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            424,
+            69,
+            491,
+            179
+        ],
+        "text": "GYAAAA!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            826,
+            69,
+            930,
+            188
+        ],
+        "text": "...OF HOLY RAGE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            811,
+            606,
+            880,
+            743
+        ],
+        "text": "FLAMING HAIR...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

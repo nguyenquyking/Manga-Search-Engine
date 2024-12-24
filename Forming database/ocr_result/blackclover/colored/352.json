@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            33,
+            167,
+            159,
+            282
+        ],
+        "text": "Th-this child... Ever since she was little... has barely had any magic power...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            55,
+            492,
+            128,
+            558
+        ],
+        "text": "I- I beg you...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            607,
+            166,
+            822
+        ],
+        "text": "Heh heh",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            169,
+            93,
+            274,
+            163
+        ],
+        "text": "I beg you, please, spare her...!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            631,
+            361,
+            728,
+            420
+        ],
+        "text": "Hmm mmm mmm mmm?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            813,
+            150,
+            841,
+            682
+        ],
+        "text": "@ColorClovers @Xshinsuke",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            977,
+            71,
+            1164,
+            190
+        ],
+        "text": "We're part of the military, for crying out loud!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            973,
+            744,
+            1189,
+            898
+        ],
+        "text": "What makes you think some low-tier trash like you can talk to us so casually, hm??",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

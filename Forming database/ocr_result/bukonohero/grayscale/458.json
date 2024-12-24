@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            38,
+            317,
+            80,
+            380
+        ],
+        "text": "CAREFUL! KEEP BACK!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            486,
+            96,
+            554
+        ],
+        "text": "IZUKU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            599,
+            193,
+            717
+        ],
+        "text": "HAVING ONE FOR ALL MAKES HIM A NOMU, RIGHT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            356,
+            93,
+            405,
+            176
+        ],
+        "text": "THEY DON'T SEEM CONVINCED!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            324,
+            459,
+            435
+        ],
+        "text": "WE'RE JUST SUPPOSED TO LET HIM HIDE HERE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            333,
+            468,
+            390,
+            515
+        ],
+        "text": "GO SOMEPLACE ELSE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            714,
+            533,
+            769
+        ],
+        "text": "TOO SCARY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            78,
+            858,
+            178
+        ],
+        "text": "...BUT NOT ALL OF THEIR DOUBTS COULD BE ASSUAGED.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            790,
+            294,
+            875,
+            394
+        ],
+        "text": "SOME OF THEM WERE MORE UNDERSTANDING, EARLIER...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            786,
+            502,
+            891,
+            641
+        ],
+        "text": "IS IT TRUE THAT SHIGARAKI IS TARGETING A U.A. STUDENT?! WHAT ON EARTH ARE ALL FOR ONE AND ONE FOR ALL?!",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            927,
+            172,
+            942,
+            227
+        ],
+        "text": "SPLSH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1036,
+            200,
+            1093,
+            270
+        ],
+        "text": "...COMING FROM SCHOOL TEACHERS.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            997,
+            300,
+            1057,
+            371
+        ],
+        "text": "THIS IS A DIFFICULT ARGUMENT TO HEAR...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            977,
+            683,
+            1052,
+            753
+        ],
+        "text": "LET'S KEEP CALM,",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            756,
+            383,
+            870,
+            536
+        ],
+        "text": "Yeah, you do that!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1272,
+            262,
+            1393,
+            376
+        ],
+        "text": "...the Wizard King,\nare'nt you?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1232,
+            892,
+            1310,
+            995
+        ],
+        "text": "You're going to be...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

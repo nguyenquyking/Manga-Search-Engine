@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            4,
+            749,
+            78,
+            939
+        ],
+        "text": "HEXAMENDLES\nTHERE!",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            148,
+            284,
+            210,
+            353
+        ],
+        "text": "IT HAPPENED\nAGAIN",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            228,
+            594,
+            293,
+            665
+        ],
+        "text": "PHEW,\nHE'S\nALIVE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            316,
+            67,
+            397,
+            182
+        ],
+        "text": "THAT SAME\nSTABBING\nSENSATION\nIN MY HEAD.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            586,
+            70,
+            679,
+            240
+        ],
+        "text": "IT WAS THE\nFOURTH'S\nQUIRK.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            603,
+            813,
+            709,
+            929
+        ],
+        "text": "COULD IT\nBE...\nDANGER\nSENSE?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            633,
+            565,
+            692,
+            706
+        ],
+        "text": "FIGHT!\nCampos",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            787,
+            620,
+            877,
+            738
+        ],
+        "text": "ALL MIGHT\nHAD NOTES\nABOUT\nTHIS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            981,
+            214,
+            1051,
+            359
+        ],
+        "text": "HARD\nTO STAY\nCONSCIOUS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1028,
+            423,
+            1120,
+            576
+        ],
+        "text": "MY HEAD'S\nKILLING ME...\nTHIS ONE\nTAKES A HUGE\nTOLL!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1028,
+            782,
+            1146,
+            941
+        ],
+        "text": "BUT I HAVEN'T\nDONE ANY\nTRAINING WITH\nTHIS ONE\nYET...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1180,
+            622,
+            1270,
+            772
+        ],
+        "text": "SO IT JUST\nSORTA BURST\nOUT LIKE\nBLACKWHIP",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

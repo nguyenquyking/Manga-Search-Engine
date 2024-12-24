@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            30,
+            79,
+            83,
+            155
+        ],
+        "text": "...cost so many lives.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            30,
+            509,
+            84,
+            624
+        ],
+        "text": "Shigaraki's singular obsession...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1012,
+            27,
+            1029,
+            124
+        ],
+        "text": "Meanwhile...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

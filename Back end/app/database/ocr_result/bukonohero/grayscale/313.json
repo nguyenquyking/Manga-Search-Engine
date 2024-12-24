@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            579,
+            581,
+            717,
+            712
+        ],
+        "text": "HERE THEY COME! YOU GONNA TRY TO TOUCH THOSE HYPERSONIC POWDER KEGS?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            38,
+            925,
+            143
+        ],
+        "text": "SHE MUST KNOW THAT THIS ISN'T DOING MUCH TO ME.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            830,
+            605,
+            899,
+            719
+        ],
+        "text": "YEAH, BUT THAT'LL MEAN UNDOING MY LASER RULE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            570,
+            1099,
+            696
+        ],
+        "text": "WHEN I DO, YOU BOYS TAKE OVER WITH CONCENTRATED FIREPOWER!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

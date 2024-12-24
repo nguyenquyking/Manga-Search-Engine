@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            161,
+            1182,
+            407,
+            1393
+        ],
+        "text": "If Luffy could not beat him, how can I?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            155,
+            1479,
+            349,
+            1689
+        ],
+        "text": "This is madness!! I cannot do it!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            177,
+            851,
+            398,
+            1098
+        ],
+        "text": "You have to fight!! Even if you know it ends in death!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            204,
+            593,
+            396,
+            793
+        ],
+        "text": "Isn't that what a Samurai does?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            193,
+            181,
+            398,
+            493
+        ],
+        "text": "Who else but us can do it?! Everyone's all torn up!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            153,
+            876,
+            409
+        ],
+        "text": "Even Kaido is deeply wounded!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1133,
+            196,
+            1273,
+            518
+        ],
+        "text": "What will that survival even mean?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1292,
+            140,
+            1483,
+            572
+        ],
+        "text": "Only a return to slavery, counting down the days to death!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1152,
+            641,
+            1376,
+            909
+        ],
+        "text": "No!! I won't let you do that!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1174,
+            1012,
+            1417,
+            1197
+        ],
+        "text": "...Then my only option is surrender!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1141,
+            1270,
+            1385,
+            1442
+        ],
+        "text": "It galls me, but if Luffy already lost...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1147,
+            1522,
+            1382,
+            1769
+        ],
+        "text": "That will only be adding more bodies to the pile!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1707,
+            130,
+            1909,
+            426
+        ],
+        "text": "Surrender is not the same as salvation!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2232,
+            151,
+            2576,
+            419
+        ],
+        "text": "The last 20 years of Wano is riding upon this battle!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2204,
+            937,
+            2617,
+            1253
+        ],
+        "text": "This is what the daimyo from all over Wano did, when they gave their lives fighting back against Orochi!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

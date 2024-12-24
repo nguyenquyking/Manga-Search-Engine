@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            71,
+            355,
+            181,
+            464
+        ],
+        "text": "...was passed to us via his shade in here.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            548,
+            178,
+            677
+        ],
+        "text": "Yagi still lives, but the knowledge he gained...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            807,
+            110,
+            854
+        ],
+        "text": "Yes.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            183,
+            79,
+            313,
+            271
+        ],
+        "text": "He couldn't be entirely sure, so he didn't tell you...but what my brother said confirmed it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            103,
+            758,
+            284
+        ],
+        "text": "But then why would Yagi still appear here when he never had a quirk factor of his own?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            498,
+            782,
+            665
+        ],
+        "text": "He spoke of how a person's essence is hardwired into their quirk factor.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            980,
+            125,
+            1056,
+            258
+        ],
+        "text": "Yagi is the sole exception.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1076,
+            378,
+            1300,
+            580
+        ],
+        "text": "But in truth, those fragments of consciousness came about with the quirk factors of the second through seventh successors. That is what One For All contains.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            958,
+            786,
+            1043,
+            931
+        ],
+        "text": "All this time, we believed...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1199,
+            663,
+            1343,
+            835
+        ],
+        "text": "...that the raw spirits of us predecessors resided within One For All.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

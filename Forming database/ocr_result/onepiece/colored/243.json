@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            53,
+            69,
+            133,
+            184
+        ],
+        "text": "THE FLAMES ARE OUT OF CONTROL!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            578,
+            126,
+            655
+        ],
+        "text": "THIS LOOKS BAD!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            59,
+            732,
+            117,
+            801
+        ],
+        "text": "THIRD FLOOR",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            201,
+            56,
+            276,
+            157
+        ],
+        "text": "WE GOTTA ESCAPE TO THE LIVE FLOOR!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            118,
+            692,
+            256
+        ],
+        "text": "I GUESS THIS TECHNICALLY MEANS I'VE BEEN CREMATED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            43,
+            795,
+            169
+        ],
+        "text": "NO, WAIT, THIS DOESN'T COUNT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            592,
+            596,
+            714
+        ],
+        "text": "IT ACTUALLY FEELS LIKE I'M BURNING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            779,
+            514,
+            826
+        ],
+        "text": "AAAAAHHH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            949,
+            118,
+            1007,
+            232
+        ],
+        "text": "HOW IS THE BATTLE GOING?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            939,
+            268,
+            1016,
+            363
+        ],
+        "text": "ROBIN-SAN WAS GOING TO GET BURNT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            547,
+            1011,
+            656
+        ],
+        "text": "I HAD TO GET US OUT OF THERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            939,
+            717,
+            1024,
+            837
+        ],
+        "text": "BARON CORPSE!! ARE YOU ALL RIGHT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1193,
+            102,
+            1272,
+            212
+        ],
+        "text": "NO CLUE, IT'S TOTAL CHAOS OUT THERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

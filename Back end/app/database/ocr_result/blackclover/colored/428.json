@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            56,
+            148,
+            96,
+            193
+        ],
+        "text": "YOU REALLY ARE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            165,
+            27,
+            192,
+            80
+        ],
+        "text": "...DETESTABLE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            505,
+            36,
+            570,
+            113
+        ],
+        "text": "...YAMI SUKEHIRO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            503,
+            565,
+            572
+        ],
+        "text": "THANK YOU...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

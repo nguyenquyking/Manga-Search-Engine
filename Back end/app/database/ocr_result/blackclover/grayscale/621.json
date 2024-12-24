@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            899,
+            858,
+            1043,
+            1005
+        ],
+        "text": "SLASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1339,
+            832,
+            1393,
+            985
+        ],
+        "text": "DEMON-SLASHER.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

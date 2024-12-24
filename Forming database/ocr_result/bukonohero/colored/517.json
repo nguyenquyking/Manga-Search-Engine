@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            108,
+            289,
+            128,
+            361
+        ],
+        "text": "There.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            170,
+            200,
+            237,
+            283
+        ],
+        "text": "That should do it.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            323,
+            187,
+            347,
+            445
+        ],
+        "text": "CLASS 1-B'S MUDMAN",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            35,
+            408,
+            145,
+            743
+        ],
+        "text": "GLOOP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            510,
+            669,
+            598,
+            749
+        ],
+        "text": "He's practically on us!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            515,
+            772,
+            576,
+            875
+        ],
+        "text": "Quick, we need to go now!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            533,
+            153,
+            642,
+            260
+        ],
+        "text": "You think Monoma's group is okay, Tokage?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            343,
+            578,
+            401
+        ],
+        "text": "YANK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            716,
+            49,
+            809,
+            163
+        ],
+        "text": "Look, I'm worried too, but we've got our own problems...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            719,
+            588,
+            771,
+            829
+        ],
+        "text": "CLASS 1-B'S LIZARD (SETSUNA TOKAGE)",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            868,
+            95,
+            890,
+            533
+        ],
+        "text": "NO. 279 - LEAGUE OF VILLAINS VS. U.A. STUDENTS",
+        "panel_id": "3",
+        "type": "chapter_title"
+    },
+    {
+        "text_box": [
+            1110,
+            98,
+            1224,
+            474
+        ],
+        "text": "THOOM\nTHOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1393,
+            0,
+            1416,
+            154
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "3",
+        "type": "background_text"
+    }
+]

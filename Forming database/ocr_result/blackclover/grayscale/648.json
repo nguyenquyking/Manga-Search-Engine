@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            135,
+            108,
+            188,
+            181
+        ],
+        "text": "Vice Captain Nacht...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            384,
+            274,
+            480,
+            388
+        ],
+        "text": "...would like them to be!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            768,
+            254,
+            881,
+            344
+        ],
+        "text": "We'll do the best we can until you get there.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            664,
+            952,
+            742
+        ],
+        "text": "I'll leave Gimodelo here.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1076,
+            488,
+            1096,
+            546
+        ],
+        "text": "Huh?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

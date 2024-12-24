@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            69,
+            286,
+            144,
+            386
+        ],
+        "text": "CHAMBER OF FLOWERS,\nPANGAEA CASTLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            130,
+            139,
+            174,
+            197
+        ],
+        "text": "Great IMU...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            158,
+            58,
+            216,
+            125
+        ],
+        "text": "They have arrived.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            216,
+            478,
+            226,
+            500
+        ],
+        "text": "...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            874,
+            250,
+            987,
+            295
+        ],
+        "text": "KTOK...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            884,
+            516,
+            960,
+            551
+        ],
+        "text": "...",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            960,
+            380,
+            1064,
+            431
+        ],
+        "text": "KTOK...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

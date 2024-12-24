@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            106,
+            9,
+            150,
+            138
+        ],
+        "text": "You found a bodyguard?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            156,
+            8,
+            223,
+            139
+        ],
+        "text": "Then I'll sell off both of ya!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            283,
+            104,
+            341,
+            253
+        ],
+        "text": "Cephalotopus Pirates\nCaptain Karma",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            100,
+            599,
+            216,
+            710
+        ],
+        "text": "That's the woman,\nCaptain Karma!\nGet her!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            549,
+            501,
+            699
+        ],
+        "text": "Six arms!!\nFascinating!!\nI never saw a human being like that in Wano!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            562,
+            816,
+            684
+        ],
+        "text": "We should run!\nThere are too many of them!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            658,
+            82,
+            693,
+            136
+        ],
+        "text": "Ah!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            900,
+            80,
+            977,
+            188
+        ],
+        "text": "But I let go of the chain...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            230,
+            936,
+            306
+        ],
+        "text": "What?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            895,
+            355,
+            966,
+            427
+        ],
+        "text": "Get on the ship, Oden!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            483,
+            972,
+            609
+        ],
+        "text": "It's the Whitebeard Pirates!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            632,
+            963,
+            710
+        ],
+        "text": "Aaaaah!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1035,
+            38,
+            1125,
+            202
+        ],
+        "text": "You gave up your ambitions because of a woman's shriek.\nI didn't take you for the soft type!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

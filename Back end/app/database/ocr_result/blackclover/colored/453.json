@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            91,
+            861,
+            219,
+            1198
+        ],
+        "text": "EIGHT SECONDS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            242,
+            22,
+            326,
+            255
+        ],
+        "text": "DEMON-DWELLER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1478,
+            18,
+            1507,
+            160
+        ],
+        "text": "@rooxer9",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1492,
+            462,
+            1535,
+            864
+        ],
+        "text": "Full Chapter: @colorclovers",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

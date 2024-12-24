@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            131,
+            588,
+            121,
+            648
+        ],
+        "text": "BLOOP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1008,
+            62,
+            1080,
+            157
+        ],
+        "text": "I'LL BE YOUR OPPONENT, DEVILS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            395,
+            867,
+            480
+        ],
+        "text": "He transported us.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            866,
+            243,
+            909,
+            311
+        ],
+        "text": "How amusing.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            936,
+            650,
+            1011,
+            722
+        ],
+        "text": "He froze us for a moment.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            920,
+            227,
+            1072,
+            627
+        ],
+        "text": "HEE HEE HEE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

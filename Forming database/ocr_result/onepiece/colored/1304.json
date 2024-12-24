@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            310,
+            85,
+            408,
+            506
+        ],
+        "text": "Hello, Mr. Oda! I have a question. Charlotte Montd'or and Charlotte Opera's Devil Fruit titles were never actually unveiled in the story, were they? Can you tell us what they are?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            457,
+            430,
+            505
+        ],
+        "text": "--Boil",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            89,
+            580,
+            732
+        ],
+        "text": "Okay. Montd'or is the Bookkeeper because he has the Book-Book Fruit. He can turn living things into living samples, use books to fly in the air, and pull people into the stories within books. It's a rich enough variety of powers that he could be the villain of his own story arc. Opera has the Cream-Cream Fruit. He's a very tricky enemy who controls the cream his body creates, and utilizes \"sweetness\" as a novel attack concept.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            595,
+            86,
+            639,
+            695
+        ],
+        "text": "Question for the SBS! What are the hobbies of Smoker, Tashigi, and Lady Hina?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            648,
+            628,
+            666,
+            700
+        ],
+        "text": "--Itsuma",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            674,
+            85,
+            691,
+            287
+        ],
+        "text": "Interesting question.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            696,
+            275,
+            741,
+            337
+        ],
+        "text": "Pottery\nCasinos",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            694,
+            448,
+            795,
+            553
+        ],
+        "text": "Reading\nbooks about\nswords\nPaper-\ncutting art",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            702,
+            654,
+            765,
+            729
+        ],
+        "text": "Horseback\nriding\nClubbing",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            810,
+            49,
+            856,
+            696
+        ],
+        "text": "I love Crocodile, Mihawk, and Doflamingo. Are they going to be bachelors forever, without having descendants? What would their children look like?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            860,
+            301,
+            880,
+            424
+        ],
+        "text": "--Purple Panda",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            84,
+            993,
+            426
+        ],
+        "text": "I wonder if any of them have been married. I don't know if they have kids or not, but here's how I imagine that going, for your entertainment. See you in next volume's SBS!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1046,
+            48,
+            1140,
+            187
+        ],
+        "text": "I have carried out my homework assignment, Father!",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1059,
+            301,
+            1126,
+            386
+        ],
+        "text": "What do\nyou want,\nrabbit?",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1039,
+            488,
+            1104,
+            537
+        ],
+        "text": "Can I\nhave\nmore?",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            648,
+            1134,
+            734
+        ],
+        "text": "Papa, they\ntook my\nallowance.",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1140,
+            700,
+            1179,
+            745
+        ],
+        "text": "174",
+        "panel_id": "7",
+        "type": "background"
+    }
+]

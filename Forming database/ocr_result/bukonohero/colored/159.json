@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            70,
+            462,
+            267,
+            874
+        ],
+        "text": "A FORMER HERO EMPLOYED BY THE SAFETY COMMISSION...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            412,
+            461,
+            455,
+            543
+        ],
+        "text": "YOU MOVED.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1111,
+            35,
+            1220,
+            319
+        ],
+        "text": "LADY NAGANT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

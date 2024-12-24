@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            34,
+            86,
+            127,
+            288
+        ],
+        "text": "THE ONLY THING THE GREATER FIGURES OF THE WORLD WANT FROM YOU IS YOUR BRAIN!! NOT YOUR GIANT ARMS AND LEGS!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            29,
+            336,
+            124,
+            418
+        ],
+        "text": "YOU'RE THE DEAD WEIGHT OF YOUR CREW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            438,
+            112,
+            547
+        ],
+        "text": "REMEMBER WHAT I SAID EARLIER?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            42,
+            583,
+            139,
+            725
+        ],
+        "text": "WHAT ARE YOU EVEN GOOD FOR, DEMON CHILD?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            227,
+            204,
+            239,
+            523
+        ],
+        "text": "WHAK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            204,
+            28,
+            335,
+            160
+        ],
+        "text": "THEY DON'T CARE ABOUT YOUR PERSONALITY!! YOU'RE JUST A TOOL TO THEM, AS LONG AS YOU'RE ALIVE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            57,
+            498,
+            204
+        ],
+        "text": "PEOPLE WILL TRY TO KILL YOU, ROBIN! HOW ABOUT A PALM ATTACK?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            243,
+            480,
+            321
+        ],
+        "text": "A SLAP'S NOT GOOD ENOUGH?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            359,
+            520,
+            470
+        ],
+        "text": "YOU OUGHT TO KNOW HOW TO THROW A PUNCH IF YOU NEED IT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            518,
+            469,
+            594
+        ],
+        "text": ".....!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            486,
+            626,
+            504,
+            687
+        ],
+        "text": "WHAK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            543,
+            37,
+            614,
+            118
+        ],
+        "text": "WITH THE BASE OF THE PALM... WHAM!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            838,
+            46,
+            940,
+            152
+        ],
+        "text": "MY POINT IS THAT SHE CAN TAKE CARE OF HERSELF.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            189,
+            934,
+            306
+        ],
+        "text": "I KNOW, BUT WE CAN'T HELP HER ONCE WE'VE SPLIT UP!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            357,
+            911,
+            498
+        ],
+        "text": "DON'T FORCE IT ON HER... ROBIN'S JOINT LOCKS ARE PLENTY POWERFUL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            569,
+            920,
+            707
+        ],
+        "text": "WANT ME TO TEACH YOU MY DRAGON CLAW FIST, ROBIN?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

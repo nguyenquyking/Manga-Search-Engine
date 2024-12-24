@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            476,
+            721,
+            540,
+            859
+        ],
+        "text": "The voice in my head is telling me...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            513,
+            356,
+            576,
+            481
+        ],
+        "text": "...I just gotta have it...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1202,
+            255,
+            1270,
+            387
+        ],
+        "text": "That fear...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

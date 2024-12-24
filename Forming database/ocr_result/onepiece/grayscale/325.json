@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            68,
+            307,
+            110,
+            471
+        ],
+        "text": "GREISH",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            115,
+            262,
+            141,
+            468
+        ],
+        "text": "DEVIANTART | GRECIAGZZ",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            468,
+            701,
+            514,
+            782
+        ],
+        "text": "NO, WAIT!!\nWE DIDN'T\nMEAN-",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            448,
+            795,
+            537
+        ],
+        "text": "IMPERIAL\nFIRE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1077,
+            505,
+            1125,
+            806
+        ],
+        "text": "GYAAAH!!\nDRAGON!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

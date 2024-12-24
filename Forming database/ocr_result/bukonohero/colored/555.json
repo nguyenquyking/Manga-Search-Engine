@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            111,
+            60,
+            198,
+            176
+        ],
+        "text": "...to turn\nour backs\nto the\nenemy.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            64,
+            207,
+            173,
+            328
+        ],
+        "text": "In all our lessons,\nwe were never\ntaught...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            342,
+            86,
+            430,
+            168
+        ],
+        "text": "Don't\nwaste\nyour\nbreath.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            411,
+            429,
+            519
+        ],
+        "text": "I... will\nstand and\nfight!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            353,
+            519,
+            407
+        ],
+        "text": "You\nall...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            559,
+            526,
+            668
+        ],
+        "text": "Damn\nstraight!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1139,
+            100,
+            1239,
+            317
+        ],
+        "text": "Prepare to\nengage the\nenemy!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            694,
+            1078,
+            854
+        ],
+        "text": "Costumes?\nCheck. On the\nscene? Check.\nThat makes us\nheroes!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1398,
+            260,
+            1420,
+            583
+        ],
+        "text": "Next chapter hits Aug. 2!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

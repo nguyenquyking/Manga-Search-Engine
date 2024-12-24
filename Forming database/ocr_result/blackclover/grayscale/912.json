@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            640,
+            231,
+            663,
+            336
+        ],
+        "text": "Aaaaah",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            939,
+            18,
+            1126,
+            142
+        ],
+        "text": "AaA-\nAAa-\naAa-\nAAH!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            869,
+            1227,
+            883,
+            1259
+        ],
+        "text": "THUD",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1025,
+            1487,
+            1039,
+            1526
+        ],
+        "text": "THUD",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            29,
+            74,
+            117,
+            216
+        ],
+        "text": "I suppose no one in the area is on my side anymore!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            32,
+            308,
+            109,
+            469
+        ],
+        "text": "Ha ha ha... What a laugh! Well, the fewer people in my way, the better.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            518,
+            120,
+            608
+        ],
+        "text": "Nah, I'm good! You help someone",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            632,
+            130,
+            726
+        ],
+        "text": "Hey, Iron Bro!! You want help?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            138,
+            35,
+            204,
+            261
+        ],
+        "text": "\u3050\u308b\u3093\uff01\u3050\u308b\u3093\uff01\nZWOOSH!\nZWOOSH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            167,
+            294,
+            185,
+            356
+        ],
+        "text": "GRRRG...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            370,
+            65,
+            406,
+            300
+        ],
+        "text": "MWEEEE!!!\u2026\u3093!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            401,
+            437,
+            466,
+            568
+        ],
+        "text": "WHAT THE--?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            603,
+            480,
+            728
+        ],
+        "text": "HUH?!\nTHAT THING\nSPINS?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            65,
+            547,
+            96
+        ],
+        "text": "\u30d2\u30e5\u30f3\nFWIP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            667,
+            443,
+            763,
+            569
+        ],
+        "text": "Is that how dinosaurs work?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            29,
+            948,
+            151
+        ],
+        "text": "Worry about yourselves first!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            848,
+            321,
+            909,
+            421
+        ],
+        "text": "You idiots...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            542,
+            958,
+            616
+        ],
+        "text": "Watch out, Iron Bro!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            853,
+            648,
+            925,
+            725
+        ],
+        "text": "That technique!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            199,
+            924,
+            263
+        ],
+        "text": "ZWEEE!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

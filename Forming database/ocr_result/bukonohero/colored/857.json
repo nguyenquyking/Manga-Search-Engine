@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            37,
+            93,
+            92,
+            175
+        ],
+        "text": "His Meta Ability Aside...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            37,
+            204,
+            145,
+            320
+        ],
+        "text": "...He should've managed to take down a hero or two in Kamino!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            37,
+            323,
+            73,
+            450
+        ],
+        "text": "With that raw physicality...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            257,
+            127,
+            436,
+            285
+        ],
+        "text": "...He's also trained his body. But these moves... a transformation like that could only be achieved through brutal, life-or-death training over an extended period of time.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            572,
+            388,
+            662,
+            490
+        ],
+        "text": "I was wrong to judge you as beneath me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            652,
+            578,
+            679
+        ],
+        "text": "I...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            370,
+            853,
+            490
+        ],
+        "text": "The fact that you haven't vanished after taking so much damage tells me that you're no double!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            33,
+            727,
+            171
+        ],
+        "text": "80%\nLIBERATION!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            792,
+            158,
+            996,
+            232
+        ],
+        "text": "ZRM\nZRM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            973,
+            559,
+            1061,
+            670
+        ],
+        "text": "...Have also honed my stress ability, so I understand.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

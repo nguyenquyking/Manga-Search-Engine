@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            37,
+            138,
+            133,
+            242
+        ],
+        "text": "I DON'T KNOW,\nJUST HELP\nHIM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            392,
+            119,
+            499
+        ],
+        "text": "HOW COULD\nHE BE SPEAKING\nIN THE\nWATER...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            539,
+            133,
+            625
+        ],
+        "text": "WAIT...\nIS THAT\nSTRAW\nHAT?!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            34,
+            656,
+            116,
+            733
+        ],
+        "text": "YOU'RE\nRIGHT!\nIT'S A\nPERSON!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            297,
+            109,
+            359,
+            221
+        ],
+        "text": "QUICKLY!!\nIS HE EVEN\nSTILL ALIVE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            454,
+            88,
+            522,
+            215
+        ],
+        "text": "MY CLIMATE\nBATON...JUST\nTALKED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            237,
+            494,
+            310
+        ],
+        "text": "HUH?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            370,
+            533,
+            434
+        ],
+        "text": "YEAH\n!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            467,
+            543,
+            568
+        ],
+        "text": "LET'S\nRUN UP TO\nTHE STAGE,\nNAMI!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            604,
+            541,
+            711
+        ],
+        "text": "BIG\nBROOO!!\nHE'S STILL\nALIVE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            344,
+            693,
+            440
+        ],
+        "text": "I'M GLAD TO\nHEAR ABOUT\nSTRAW HAT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            348,
+            783,
+            420
+        ],
+        "text": "WHO SAID\nTHAT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            746,
+            114,
+            778,
+            251
+        ],
+        "text": "HEH HEH!\u2661",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            71,
+            978,
+            193
+        ],
+        "text": "BUT THE\nLONGER YOU\nWORK WITH HIM,\nTHE MORE YOU\nGET THIS FUNNY\nFEELING...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1022,
+            74,
+            1106,
+            184
+        ],
+        "text": "...THAT HE'LL\nFIND A WAY\nOUT OF THIS\nIN THE END.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            875,
+            616,
+            961,
+            747
+        ],
+        "text": "MA MA MA\nMA!! THEY'RE\nJUST BLUFFING\nFOR HIM!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            606,
+            1107,
+            733
+        ],
+        "text": "IF HE FELL\nINTO THE SEA,\nHE'S DEAD\nFOR SURE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

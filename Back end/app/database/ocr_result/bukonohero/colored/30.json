@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            59,
+            67,
+            196,
+            221
+        ],
+        "text": "...Then I would ask you to fortify yourselves using this extension we've been given.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            522,
+            176,
+            648
+        ],
+        "text": "...But if you hope to protect anything you hold dear at all...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            612,
+            541,
+            728,
+            675
+        ],
+        "text": "Already way ahead of ya!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1029,
+            34,
+            1051,
+            75
+        ],
+        "text": "TWCH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

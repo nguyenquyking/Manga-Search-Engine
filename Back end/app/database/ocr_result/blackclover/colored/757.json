@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            112,
+            151,
+            244,
+            288
+        ],
+        "text": "But we won't fight in earnest.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            324,
+            43,
+            354,
+            154
+        ],
+        "text": "Agreed.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            365,
+            581,
+            432,
+            654
+        ],
+        "text": "Ooh, yes.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            1106,
+            200,
+            1190
+        ],
+        "text": "I can't see.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            272,
+            1214,
+            336,
+            1323
+        ],
+        "text": "Neither can I.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            503,
+            698,
+            660,
+            845
+        ],
+        "text": "We'll compete to kill him.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            524,
+            1184,
+            628,
+            1331
+        ],
+        "text": "Let's play with this power.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            1047,
+            693,
+            1123
+        ],
+        "text": "Yes, let's.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            73,
+            719,
+            425
+        ],
+        "text": "Slowly. Carefully.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1168,
+            1069,
+            1164,
+            1193
+        ],
+        "text": "FUOOOH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1257,
+            621,
+            1477,
+            808
+        ],
+        "text": "Slowly. Carefully.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

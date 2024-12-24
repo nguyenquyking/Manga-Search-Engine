@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            75,
+            63,
+            181,
+            169
+        ],
+        "text": "If we can't trust each other in moments like this...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            226,
+            49,
+            322,
+            204
+        ],
+        "text": "...then I can't expect to entrust my safety to you when the fighting is fierce!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            114,
+            589,
+            241,
+            710
+        ],
+        "text": "Don't forget the fact that you doubted the loyalty of my crew.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            47,
+            463,
+            192
+        ],
+        "text": "But you understand why she's frustrated,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            327,
+            471,
+            456
+        ],
+        "text": "Way to go, Shinobu! Hope you're happy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            593,
+            506,
+            720
+        ],
+        "text": "Well, there we go. Traffy got mad and stormed off.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            44,
+            604,
+            191
+        ],
+        "text": "They've been waiting 20 years for this plan to come together.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            560,
+            609,
+            616,
+            719
+        ],
+        "text": "Let's hope he decides to come back!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            703,
+            184,
+            794,
+            275
+        ],
+        "text": "Oh, like you wouldn't squeal!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            694,
+            317,
+            790,
+            419
+        ],
+        "text": "Of course you won't. You'd do the exact same thing.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            704,
+            497,
+            786,
+            579
+        ],
+        "text": "...I'm not going to blame them.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            608,
+            802,
+            725
+        ],
+        "text": "Even if Bepo and the other guys did let the secret slip...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            57,
+            932,
+            171
+        ],
+        "text": "If I was being tortured? I'd last... three seconds.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            68,
+            1048,
+            171
+        ],
+        "text": "C'mon! Put up more of a fight!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

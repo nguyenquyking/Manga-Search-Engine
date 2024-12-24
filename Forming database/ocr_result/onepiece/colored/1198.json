@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            58,
+            35,
+            97,
+            115
+        ],
+        "text": "Kee kee kee kee!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            114,
+            449,
+            163,
+            536
+        ],
+        "text": "Who's there?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            252,
+            39,
+            336,
+            141
+        ],
+        "text": "I heard you, woman!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            567,
+            696,
+            684
+        ],
+        "text": "Were you badmouthing the Shogun?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            49,
+            696,
+            211
+        ],
+        "text": "Gifters\nBat-Man\nBat Smile Fruit",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            774,
+            28,
+            871,
+            150
+        ],
+        "text": "As long as you live clean and smart, you won't get in trouble...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            198,
+            861,
+            310
+        ],
+        "text": "Otsuru!!\nIt's good that you're safe!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            357,
+            873,
+            507
+        ],
+        "text": "Fine, so you heard it...\nIs that a reason to take her life?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            757,
+            562,
+            836,
+            690
+        ],
+        "text": "My hearing is six times as powerful as a human's!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1058,
+            50,
+            1131,
+            209
+        ],
+        "text": "But if there's one thing Lord Orochi doesn't suffer, it's rebellious ideas!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1056,
+            370,
+            1122,
+            499
+        ],
+        "text": "If that had hit her,\nshe would've died!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            594,
+            1083,
+            657
+        ],
+        "text": "It's a gifter!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

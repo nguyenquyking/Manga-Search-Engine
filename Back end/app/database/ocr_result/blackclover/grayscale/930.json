@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            52,
+            86,
+            76,
+            751
+        ],
+        "text": "I REALLY AM UNFIT TO BE A SPIRIT GUARDIAN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            198,
+            53,
+            345,
+            190
+        ],
+        "text": "IT WAS YOU I WANTED TO PROTECT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            222,
+            590,
+            306,
+            754
+        ],
+        "text": "MORE THAN THE KINGDOM...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            629,
+            71,
+            719,
+            193
+        ],
+        "text": "I WON'T LET YOU KILL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            599,
+            715,
+            741
+        ],
+        "text": "I WON'T LET THEM KILL YOU.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            887,
+            82,
+            1046,
+            223
+        ],
+        "text": "I'LL CONVERT MY VERY LIFE INTO MAGIC...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            886,
+            583,
+            1001,
+            782
+        ],
+        "text": "I WON'T DIE FROM THE WOUND YOU GAVE ME.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

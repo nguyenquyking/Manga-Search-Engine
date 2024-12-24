@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            85,
+            85,
+            163,
+            212
+        ],
+        "text": "Like those peashooters could kill me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            381,
+            108,
+            543,
+            247
+        ],
+        "text": "Now where's the exit outta this hell? I'm bound for paradise!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

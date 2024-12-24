@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            41,
+            61,
+            121,
+            162
+        ],
+        "text": "Was that always one of his forms?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            211,
+            672,
+            249,
+            735
+        ],
+        "text": "What is that?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            274,
+            203,
+            376,
+            319
+        ],
+        "text": "I don't understand!! Kaido is getting fatter!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            649,
+            361,
+            720
+        ],
+        "text": "What's happening?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            55,
+            496,
+            158
+        ],
+        "text": "Oh! I see two lights!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            630,
+            535,
+            727
+        ],
+        "text": "Curses!! What's wrong with",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            545,
+            605,
+            644
+        ],
+        "text": "My body isn't made of rubber!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            713,
+            103,
+            748,
+            275
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            689,
+            538,
+            757,
+            689
+        ],
+        "text": "GUM-GUM...!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1036,
+            655,
+            1074,
+            689
+        ],
+        "text": "Grab!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            95,
+            172,
+            83,
+            221
+        ],
+        "text": "GRRT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            77,
+            594,
+            180,
+            733
+        ],
+        "text": "He's something...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            415,
+            443,
+            614,
+            585
+        ],
+        "text": "...We never should have messed with!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            352,
+            926,
+            461
+        ],
+        "text": "Is he trying to destroy it and cancel the ritual?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            659,
+            916,
+            735
+        ],
+        "text": "Morgen...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            490,
+            1060,
+            596
+        ],
+        "text": "The relic that's linked to this devil! He's...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            649,
+            1025,
+            671
+        ],
+        "text": "AAAA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            956,
+            19,
+            1047,
+            156
+        ],
+        "text": "Intervention by a third party... What sort of risk does that...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1049,
+            226,
+            1067,
+            296
+        ],
+        "text": "Don't...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

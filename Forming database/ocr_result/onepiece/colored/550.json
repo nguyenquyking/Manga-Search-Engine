@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            213,
+            188,
+            654,
+            244
+        ],
+        "text": "ONE PIECE\n\u5c3e\u7530\u6804\u4e00\u90ce",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            876,
+            300,
+            894,
+            528
+        ],
+        "text": "Twitter\nInstagram",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            938,
+            283,
+            988,
+            485
+        ],
+        "text": "URL\u306f\u3053\u3061\u3089\uff01\nTwitter: https://twitter.com/elichiro_staff\nInstagram: https://www.instagram.com/\nonepiece_staff/?hl=ja",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

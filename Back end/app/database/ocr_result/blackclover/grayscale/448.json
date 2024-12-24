@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            57,
+            857,
+            97,
+            918
+        ],
+        "text": "Hey, kid. Were you watching that?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            16,
+            160,
+            61
+        ],
+        "text": "You'll turn into a big man that way.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            276,
+            593,
+            342,
+            651
+        ],
+        "text": "What, are you worried about me?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            320,
+            267,
+            380,
+            309
+        ],
+        "text": "Just sit tight and watch.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            320,
+            512,
+            379,
+            578
+        ],
+        "text": "It's a hundred years too early for that.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            96,
+            516,
+            130
+        ],
+        "text": "There's",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            600,
+            230,
+            657,
+            277
+        ],
+        "text": "Join the Black Bulls.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            536,
+            476,
+            580,
+            536
+        ],
+        "text": "Prove everyone wrong and become the Wizard King.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            855,
+            667,
+            915
+        ],
+        "text": "Huh? What are you getting all lippy for? Don't get full of yourself just because you took down an enemy.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            0,
+            656,
+            40
+        ],
+        "text": "There's no other way.",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

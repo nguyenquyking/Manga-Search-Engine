@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            102,
+            100,
+            296,
+            260
+        ],
+        "text": "PLEASE\nLET ME\nFIGHT ON\nYOUR\nSIDE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            315,
+            304,
+            490
+        ],
+        "text": "STRAW HAT\nLUFFY!! FOR\nREASONS I\nCANNOT SAY\nNOW, I AM\nAN ARMY\nOF ONE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            227,
+            635,
+            404,
+            919
+        ],
+        "text": "KONG\nGUN!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            177,
+            1791,
+            304,
+            2043
+        ],
+        "text": "CALIBUR\n!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1372,
+            95,
+            1502,
+            230
+        ],
+        "text": "HUH\n?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1316,
+            633,
+            1403,
+            787
+        ],
+        "text": "BUT WHY DID\nHE ATTACK\nTHE GIANT?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1305,
+            855,
+            1411,
+            987
+        ],
+        "text": "THAT'S\nDRAKE FROM\nTHE TOBI\nROPPO!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1310,
+            1145,
+            1385,
+            1252
+        ],
+        "text": "TRUST ME,\nLUFFY'S\nAMAZING!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1299,
+            1307,
+            1380,
+            1429
+        ],
+        "text": "IF THERE'S\nANY HOPE\nLEFT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

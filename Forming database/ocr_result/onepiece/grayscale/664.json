@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            100,
+            648,
+            127,
+            698
+        ],
+        "text": "RAAAH...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            345,
+            567,
+            438,
+            733
+        ],
+        "text": "Straw Hat is dead... and so is the son of Koziki Oden!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            495,
+            568,
+            599,
+            725
+        ],
+        "text": "If you want to fight, you ought to protect what's important first!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            590,
+            126,
+            672,
+            243
+        ],
+        "text": "Impertinent child... so you got your cuffs off...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            701,
+            54,
+            785,
+            162
+        ],
+        "text": "...And now you think you can leave?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            66,
+            1072,
+            244
+        ],
+        "text": "But only after I've driven you out of Wano, Kaido!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            605,
+            1052,
+            731
+        ],
+        "text": "Yes!! I'm going out to sea with Luffy!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

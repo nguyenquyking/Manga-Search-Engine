@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            92,
+            54,
+            198,
+            175
+        ],
+        "text": "...is a valid excuse for comin' to work late, Franosuke?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            260,
+            73,
+            318,
+            133
+        ],
+        "text": "Yes, Boss!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            484,
+            163,
+            601
+        ],
+        "text": "So you think the oiran bein' a real babe...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            116,
+            646,
+            186,
+            738
+        ],
+        "text": "Flower Capital,\nWano",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            403,
+            54,
+            534,
+            169
+        ],
+        "text": "But I still need ya to respect that I'm the boss, ya scoundrel!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            391,
+            448,
+            507,
+            559
+        ],
+        "text": "No, I get it! And you work enough for ten of these other jokers...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            619,
+            469,
+            732
+        ],
+        "text": "Sorry about that, Boss!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            47,
+            711,
+            152
+        ],
+        "text": "Yes, Boss!! Sorry about that!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            578,
+            457,
+            696,
+            559
+        ],
+        "text": "...So we'll survive if you play a little loose with the time...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            213,
+            765,
+            397
+        ],
+        "text": "Legendary Carpenter Foreman\nMinatomo\nThe man who built Kaido's mansion",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            676,
+            611,
+            739,
+            741
+        ],
+        "text": "Gosh, there sure are some lookers out there, huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            837,
+            51,
+            896,
+            187
+        ],
+        "text": "Well, the thing is, I just remembered...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            60,
+            1126,
+            171
+        ],
+        "text": "...that about ten years back, I hocked it to the pawn shop!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            610,
+            892,
+            713
+        ],
+        "text": "Now, as for what you've been rattlin' on about...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            586,
+            1039,
+            734
+        ],
+        "text": "...Wantin' to see the layout of the Onigashima mansion and all...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1089,
+            563,
+            1134,
+            722
+        ],
+        "text": "Yeah?! You got it for me?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            41,
+            113,
+            167,
+            210
+        ],
+        "text": "RIGHT NOW IS THE WORLD'S BEST CHANCE TO TAKE HIM OUT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            593,
+            129,
+            672
+        ],
+        "text": "OKAY, SO THAT MEANS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            313,
+            529,
+            401,
+            631
+        ],
+        "text": "THE MASS CIVILIAN EVACUATION EFFORT CONTINUES...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            447,
+            458,
+            554,
+            578
+        ],
+        "text": "...AND ALL REMAINING HEROES ARE NOW ON THE HUNT FOR THE VILLAINS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            757,
+            64,
+            854,
+            181
+        ],
+        "text": "...FULL MOBILIZATION AND ALL-OUT WAR IS INEVITABLE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            733,
+            230,
+            833,
+            323
+        ],
+        "text": "WHETHER WE FIND HIM OR HE COMES TO US...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            713,
+            392,
+            847,
+            546
+        ],
+        "text": "ALL FOR ONE MAY HAVE SUFFERED THIS SETBACK, BUT FIGURING OUT HIS NEXT MOVE IS NEARLY IMPOSSIBLE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1028,
+            18,
+            1084,
+            135
+        ],
+        "text": "HERE'S WHAT YOU'RE UP AGAINST...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

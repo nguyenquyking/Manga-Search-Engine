@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            541,
+            234,
+            558,
+            333
+        ],
+        "text": "TMP TMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            796,
+            193,
+            808,
+            257
+        ],
+        "text": "*BAG: TRASH",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            834,
+            76,
+            899,
+            197
+        ],
+        "text": "Since it was torn to pieces.\nSAME HERE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            231,
+            940,
+            323
+        ],
+        "text": "I MUST DO SOMETHING ABOUT MY COSTUME.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            605,
+            1076,
+            680
+        ],
+        "text": "WE'D BETTER PREPARE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

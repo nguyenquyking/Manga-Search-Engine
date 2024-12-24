@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            75,
+            83,
+            214,
+            184
+        ],
+        "text": "If I'm awake, I'm stuck listening to some playboy's dumb pickup lines!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            100,
+            243,
+            187,
+            362
+        ],
+        "text": "Like you can talk when you're napping in the middle of the day!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            198,
+            262,
+            222,
+            352
+        ],
+        "text": "Do some work, ya bum!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            251,
+            202,
+            320,
+            263
+        ],
+        "text": "KRAKL\nKRAKL",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            74,
+            628,
+            169,
+            717
+        ],
+        "text": "Flirting with anything that moves day after day... Feh!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            475,
+            67,
+            528,
+            163
+        ],
+        "text": "Hey! No fighting, you two.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            72,
+            714,
+            198
+        ],
+        "text": "I believe what you mean to say is \"Pardon me, might I please have my portion?\" Try being polite!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            713,
+            257,
+            782,
+            330
+        ],
+        "text": "And where's my juice, huh?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            74,
+            1075,
+            150
+        ],
+        "text": "Guys! Get your butts down here! I made drinks!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1031,
+            196,
+            1049,
+            248
+        ],
+        "text": "Hah?!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            859,
+            392,
+            933,
+            515
+        ],
+        "text": "Do you even know what it means to be serious?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

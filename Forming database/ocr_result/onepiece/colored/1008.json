@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            195,
+            256,
+            223,
+            321
+        ],
+        "text": "SHISH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            228,
+            173,
+            240,
+            197
+        ],
+        "text": "?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            8,
+            413,
+            73
+        ],
+        "text": "SHIRYU OF THE RAIN!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            507,
+            23,
+            567,
+            116
+        ],
+        "text": "BUT THAT'S ABSALOM'S POWER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            158,
+            558,
+            236
+        ],
+        "text": "YOU CAN TURN INVISIBLE...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            10,
+            801,
+            193
+        ],
+        "text": "HU HU HU HU HU!!!\nMURUN\nHUHU!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            19,
+            1112,
+            118
+        ],
+        "text": "WHAT?!\nWAIT, WHO ARE YOU?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            589,
+            942,
+            707
+        ],
+        "text": "YOUR BAD\nPREMONITION\nWAS CORRECT,\nGECKO\nMORIA...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            342,
+            940,
+            437
+        ],
+        "text": "I'VE GOT\nA VERY NICE\nPOWER FOR\nMYSELF NOW...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            344,
+            1078,
+            692
+        ],
+        "text": "SECOND SHIP CAPTAIN OF THE BLACKBEARD PIRATES\nSHIRYU\nOF THE RAIN",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1092,
+            347,
+            1110,
+            681
+        ],
+        "text": "INVISIBLE MAN WITH THE CLEAR-CLEAR FRUIT",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

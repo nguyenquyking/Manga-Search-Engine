@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            138,
+            45,
+            262,
+            183
+        ],
+        "text": "...Between Morris's modifications and the power of my curse, they're pretty tough.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            123,
+            661,
+            137,
+            729
+        ],
+        "text": "Although...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            989,
+            189,
+            1062,
+            323
+        ],
+        "text": "Picture Magic:",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1080,
+            643,
+            1083,
+            696
+        ],
+        "text": "Rgh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

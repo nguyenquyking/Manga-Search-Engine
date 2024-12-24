@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            688,
+            598,
+            802,
+            742
+        ],
+        "text": "Whoa! Wait, even if I cut him, he just regenerates! There's no point!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            51,
+            932,
+            180
+        ],
+        "text": "An attack with power, or else...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            978,
+            300,
+            1075,
+            535
+        ],
+        "text": "...Something faster, tougher...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            948,
+            582,
+            1049,
+            654
+        ],
+        "text": "It'll have to be...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

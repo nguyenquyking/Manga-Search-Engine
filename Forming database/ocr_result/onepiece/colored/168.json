@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            46,
+            96,
+            165,
+            343
+        ],
+        "text": "Pant... Pant...\nThis is getting good!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            569,
+            1480,
+            774,
+            1655
+        ],
+        "text": "ROC GUN!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            923,
+            714,
+            982,
+            816
+        ],
+        "text": "Haha\nHahaha!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            946,
+            1028,
+            1177
+        ],
+        "text": "Worororo!!\nHuff...\nHuff...\nHuff...\nHuff...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            530,
+            1034,
+            1282
+        ],
+        "text": "Pant...\nPant...\nGrr!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1043,
+            0,
+            1163,
+            124
+        ],
+        "text": "The smiles of\nthe mighty!!\nWhat will the\nfallout of this\ndeath match\nbe?!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1147,
+            124,
+            1222,
+            357
+        ],
+        "text": "I was thinking\nthe same thing!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1212,
+            1401,
+            1245,
+            1469
+        ],
+        "text": "Ugh!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1235,
+            523,
+            1296,
+            791
+        ],
+        "text": "ONE PIECE\nCH. 1036\n/END",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

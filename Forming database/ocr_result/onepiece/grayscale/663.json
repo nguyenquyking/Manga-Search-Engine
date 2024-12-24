@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            38,
+            71,
+            119,
+            187
+        ],
+        "text": "...BUT SHE'S LIKE A LOUDSPEAKER. NOW TALK!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            41,
+            226,
+            104,
+            320
+        ],
+        "text": "I DON'T KNOW HOW IT WORKS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            37,
+            360,
+            89,
+            432
+        ],
+        "text": "HEY, TAMA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            515,
+            219,
+            721
+        ],
+        "text": "BAM!! SLUMP... GREEN STAR-DEVIL!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            269,
+            65,
+            295,
+            140
+        ],
+        "text": "OKAY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            62,
+            486,
+            198
+        ],
+        "text": "IT'S ME, Otama!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            564,
+            325,
+            594,
+            434
+        ],
+        "text": "DOOOOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            575,
+            49,
+            632,
+            98
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            159,
+            244,
+            177,
+            289
+        ],
+        "text": "HURP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            196,
+            636,
+            219,
+            721
+        ],
+        "text": "IT...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            216,
+            946,
+            372
+        ],
+        "text": "OTAMA?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            600,
+            972,
+            718
+        ],
+        "text": "THAT'S HER!! IT'S MASTER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

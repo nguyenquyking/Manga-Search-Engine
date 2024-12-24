@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            234,
+            1451,
+            398,
+            1736
+        ],
+        "text": "JUMP ROPE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            417,
+            130,
+            751,
+            361
+        ],
+        "text": "WHOOF!!\nWHOOF!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            931,
+            188,
+            1092,
+            473
+        ],
+        "text": "GAAAAH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            710,
+            1530,
+            1057,
+            1704
+        ],
+        "text": "WHOOF!!\nWHOOF!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1305,
+            714,
+            1428,
+            1036
+        ],
+        "text": "BLAST BREATH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1447,
+            1603,
+            1554,
+            1788
+        ],
+        "text": "AAAAAA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1505,
+            1264,
+            1682,
+            1311
+        ],
+        "text": "WHOOO!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1797,
+            1045,
+            1874,
+            1116
+        ],
+        "text": "KAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2259,
+            679,
+            2267,
+            875
+        ],
+        "text": "BWOOSH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2507,
+            250,
+            2628,
+            495
+        ],
+        "text": "YEOWWW!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

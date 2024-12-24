@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            56,
+            68,
+            153,
+            189
+        ],
+        "text": "BUT WITH DOFLAMINGO OUT OF THE PICTURE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            588,
+            158,
+            729
+        ],
+        "text": "IT WOULD SEEM THIS IS A BATTLE FOR REVENGE 20 YEARS IN THE MAKING.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            257,
+            61,
+            367,
+            198
+        ],
+        "text": "...THAT SAMURAI AND PIRATES WOULD JOIN HANDS LIKE THIS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            251,
+            301,
+            332,
+            407
+        ],
+        "text": "SO IT WOULD SEEM THAT DESTINY ORDAINED...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            251,
+            476,
+            336,
+            580
+        ],
+        "text": "...WERE BOUND TO CLASH AT SOME POINT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            266,
+            611,
+            327,
+            726
+        ],
+        "text": "...KAIDO AND THE WORST GENERATION...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            619,
+            56,
+            744,
+            198
+        ],
+        "text": "...THERE WOULD BE NO TELLING WHAT MIGHT HAPPEN TO THE WORLD NEXT!! BUT THIS IS AN UNNECESSARY CONCERN.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            238,
+            720,
+            354
+        ],
+        "text": "...IF, BY SOME CHANCE, TWO OF THE FOUR EMPERORS SHOULD FALL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            546,
+            707,
+            713
+        ],
+        "text": "AT A MOMENT WHEN THE STATE OF THE WORLD HANGS IN THE BALANCE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            995,
+            253,
+            1124,
+            468
+        ],
+        "text": "THE WORLD'S MOST POWERFUL INTELLIGENCE AGENCY\nCIPHER POL\n\"AIGIS\" ZERO",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            774,
+            72,
+            804,
+            128
+        ],
+        "text": "BE-BENG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

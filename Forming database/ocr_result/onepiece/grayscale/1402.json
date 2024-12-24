@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            114,
+            911,
+            304,
+            1116
+        ],
+        "text": "So I simply disabled the cannons you had pointing this way.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            1183,
+            272,
+            1313
+        ],
+        "text": "No need to sink you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            127,
+            565,
+            280,
+            820
+        ],
+        "text": "But we're not your enemies!! Why would you do that?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            317,
+            69,
+            455,
+            239
+        ],
+        "text": "That's the Yakuza boss in the capital...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            552,
+            48,
+            654,
+            221
+        ],
+        "text": "...who took over after Hyogoro!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            855,
+            108,
+            1041,
+            273
+        ],
+        "text": "He's a demon with the blade!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            336,
+            1017,
+            473
+        ],
+        "text": "Be careful o' this one!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            879,
+            571,
+            1045,
+            813
+        ],
+        "text": "The people there call me Napping Kyoshiro!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            865,
+            1045,
+            1074
+        ],
+        "text": "I am a Yakuza of the Flower Capital!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            1131,
+            1028,
+            1320
+        ],
+        "text": "You there!! Akaya Samurai!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1581,
+            120,
+            1745,
+            367
+        ],
+        "text": "What do you mean?! What favor do you owe us?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1576,
+            486,
+            1732,
+            617
+        ],
+        "text": "Are you joking right now?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1604,
+            711,
+            1799,
+            951
+        ],
+        "text": "...are at your disposal in this raid!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1609,
+            1116,
+            1782,
+            1317
+        ],
+        "text": "The 200 men of the Kyoshiro family...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1987,
+            819,
+            2106,
+            1159
+        ],
+        "text": "BENG!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

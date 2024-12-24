@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            134,
+            352,
+            248,
+            497
+        ],
+        "text": "CALL ME WHEN YOU'VE REGAINED YOUR COMPOSURE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            191,
+            720,
+            309
+        ],
+        "text": "ALL RIGHT, KIDS, YOU READY TO TALK A FEW THINGS OVER?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            566,
+            694,
+            658
+        ],
+        "text": "NAP ROOM",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            903,
+            501,
+            955,
+            574
+        ],
+        "text": "COME IN, YOU TWO, COME IN.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            630,
+            1194,
+            695
+        ],
+        "text": "END",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

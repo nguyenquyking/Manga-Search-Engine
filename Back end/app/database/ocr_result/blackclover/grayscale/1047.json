@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            67,
+            452,
+            151,
+            707
+        ],
+        "text": "Con-",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            295,
+            34,
+            764,
+            610
+        ],
+        "text": "...stars are born.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            642,
+            34,
+            764,
+            610
+        ],
+        "text": "Junction",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            953,
+            61,
+            999,
+            143
+        ],
+        "text": "WE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            940,
+            636,
+            1006,
+            730
+        ],
+        "text": "YOU MEAN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            316,
+            1065,
+            362
+        ],
+        "text": "Budding of",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1041,
+            428,
+            1049,
+            453
+        ],
+        "text": "Recovery Magic:",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

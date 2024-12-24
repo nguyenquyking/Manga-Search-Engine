@@ -1,0 +1,244 @@
+[
+    {
+        "text_box": [
+            34,
+            39,
+            128,
+            141
+        ],
+        "text": "BUT IF YOU PROMISE TO SHOW ME THE POWER OF GERMA...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            160,
+            119,
+            269
+        ],
+        "text": "YOU'RE NOT PUTTING UP MUCH OF A FIGHT, JUDGE'S SON!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            299,
+            130,
+            406
+        ],
+        "text": "...CANNOT PREVENT BROKEN BONES AND RUPTURED ORGANS FROM THIS PRESSURE!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            30,
+            552,
+            46,
+            597
+        ],
+        "text": "URGH...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            51,
+            617,
+            158,
+            725
+        ],
+        "text": "EVEN MASTERS OF COLOR OF ARMAMENT HAKI...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            198,
+            620,
+            287,
+            709
+        ],
+        "text": "OH NO! SANGORO'S GOING TO BE CRUSHED TO DEATH!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            188,
+            34,
+            263,
+            116
+        ],
+        "text": "...I COULD GIVE YOU A LITTLE BREATHER!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            192,
+            298,
+            230,
+            407
+        ],
+        "text": "THEY ALL GET TAKEN OUT OF",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            325,
+            208,
+            338,
+            351
+        ],
+        "text": "BAAAM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            369,
+            191,
+            401,
+            423
+        ],
+        "text": "CHK! CHK!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            362,
+            456,
+            401,
+            548
+        ],
+        "text": "JUST LOOK AT THAT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            596,
+            388,
+            705
+        ],
+        "text": "NEVER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            41,
+            485,
+            158
+        ],
+        "text": "...WOULD BE AS USELESS AS LEGS ON A SNAKE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            458,
+            440,
+            582,
+            553
+        ],
+        "text": "FOR A NORMAL BRACHIO-SAURUS, THAT LEFTOVER MATERIAL...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            551,
+            45,
+            597,
+            150
+        ],
+        "text": "BUT I AM A SCIENTIST!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            590,
+            590,
+            616,
+            731
+        ],
+        "text": "AAAAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            682,
+            255,
+            696,
+            335
+        ],
+        "text": "KABOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            721,
+            426,
+            787,
+            512
+        ],
+        "text": "AUGH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            715,
+            563,
+            804,
+            713
+        ],
+        "text": "SO I EQUIPPED BRACHIO LAUNCHERS ON MY TORSO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            791,
+            113,
+            847,
+            199
+        ],
+        "text": "NO, I WAS ONLY EXPLAINING...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            415,
+            1084,
+            512
+        ],
+        "text": "MASTER QUEEN!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1014,
+            577,
+            1102,
+            711
+        ],
+        "text": "IF I CALL OUT THEIR NAME, THEY'LL SHOOT RIGHT AT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

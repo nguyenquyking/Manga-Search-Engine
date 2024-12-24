@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            384,
+            484,
+            440,
+            593
+        ],
+        "text": "WARPED SEEDS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            588,
+            90,
+            690,
+            228
+        ],
+        "text": "...THAT COULD SERVE AS HIS VESSEL.",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

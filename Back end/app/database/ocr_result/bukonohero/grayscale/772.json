@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            193,
+            108,
+            250,
+            207
+        ],
+        "text": "My name is Hikage Shinomori.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            172,
+            247,
+            210,
+            333
+        ],
+        "text": "I am the Fourth.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            524,
+            88,
+            638,
+            213
+        ],
+        "text": "In your last battle, you drew on my power without meaning to.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            768,
+            69,
+            911,
+            211
+        ],
+        "text": "I get the sense that it would've been better for you to discover Danger Sense in a better setting.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            352,
+            857,
+            462
+        ],
+        "text": "That came as a shock to me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            252,
+            886,
+            326
+        ],
+        "text": "Orry. (Sorry.)",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            526,
+            946,
+            610
+        ],
+        "text": "Danger Sense!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            934,
+            56,
+            1003,
+            118
+        ],
+        "text": "That was well said!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            518,
+            1071,
+            583
+        ],
+        "text": "Yuh!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

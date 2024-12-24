@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            380,
+            109,
+            572,
+            350
+        ],
+        "text": "SMASH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            380,
+            638,
+            794,
+            953
+        ],
+        "text": "100 PERCENT\nWYOMING",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1044,
+            216,
+            1068,
+            365
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1227,
+            682,
+            1293,
+            921
+        ],
+        "text": "MY HERO\nACADEMIA",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1330,
+            618,
+            1390,
+            945
+        ],
+        "text": "NO. 282 - FOOTFALL OF DESTRUCTION\nBY KOHEI HORIKOSHI",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1360,
+            65,
+            1386,
+            458
+        ],
+        "text": "TRANSLATION: CALEB COOK, LETTERING: JOHN HUNT",
+        "panel_id": "2",
+        "type": "caption"
+    }
+]

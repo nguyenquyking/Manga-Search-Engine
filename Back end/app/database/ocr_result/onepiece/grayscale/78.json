@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            110,
+            132,
+            214,
+            209
+        ],
+        "text": "20%",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            689,
+            200,
+            786
+        ],
+        "text": "Today, your chances of finding the real me are...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            108,
+            903,
+            195,
+            1004
+        ],
+        "text": "That wasn't the real one!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            476,
+            922,
+            502,
+            1015
+        ],
+        "text": "GHNN!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1275,
+            395,
+            1358,
+            497
+        ],
+        "text": "Be careful when leaving the house today...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

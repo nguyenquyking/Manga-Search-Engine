@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            16,
+            370,
+            152,
+            466
+        ],
+        "text": "GEH GEH GEH...\nTHERE'S NO\nNEED FOR\nYOU TO\nKNOW.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            770,
+            208,
+            829
+        ],
+        "text": "WHO...!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            68,
+            165,
+            151
+        ],
+        "text": "GOOD-BYE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            200,
+            184,
+            299
+        ],
+        "text": "NO MATTER HOW\nSTRONG YOU\nWERE... HOW\nGREAT YOU\nWERE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            262,
+            510,
+            392
+        ],
+        "text": "YOU LOST,\nAND NOW\nYOU'LL JUST\nDISAPPEAR",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            470,
+            529,
+            567
+        ],
+        "text": "WHO\nTHE HELL\nARE YOU\n...!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            1,
+            488,
+            103
+        ],
+        "text": "LOSER!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            585,
+            17,
+            600,
+            329
+        ],
+        "text": "TEAM: @COLOR CLOVER",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            588,
+            533,
+            601,
+            758
+        ],
+        "text": "ARTIST: @KIN_CLOVER",
+        "panel_id": "5",
+        "type": "background"
+    }
+]

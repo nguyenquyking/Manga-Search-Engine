@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            108,
+            121,
+            174,
+            245
+        ],
+        "text": "The shot headed for Chisaki...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            300,
+            67,
+            366,
+            174
+        ],
+        "text": "...was off by a little bit.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1210,
+            85,
+            1345,
+            249
+        ],
+        "text": "...Your very first shot would've hit my lower body and stopped me cold!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1187,
+            309,
+            1322,
+            462
+        ],
+        "text": "And if you were really allied with All For One and his brand of evil...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

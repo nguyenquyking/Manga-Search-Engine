@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            72,
+            108,
+            159,
+            219
+        ],
+        "text": "CONGRATULATIONS ON FINISHING THE TRIP!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            639,
+            174,
+            716
+        ],
+        "text": "RYUGU PALACE,\nRYUGU KINGDOM,\nFISH-MAN ISLAND",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            391,
+            65,
+            504,
+            149
+        ],
+        "text": "THANK YOU, SIR LUFFY'S GRANDFATHER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            601,
+            61,
+            682,
+            214
+        ],
+        "text": "WELL, I CAN STAY LONG ENOUGH FOR TEA, BUT GIVEN THE CIRCUMSTANCES...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            595,
+            290,
+            681,
+            424
+        ],
+        "text": "YOU'VE EARNED SOME REST YOURSELF, GARP.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            457,
+            672,
+            546
+        ],
+        "text": "I'M POSITIVELY TUCKERED OUT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            595,
+            691,
+            728
+        ],
+        "text": "YOU MUST BE TIRED,\nNEPTUNE! BWA HA HA HA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            52,
+            814,
+            162
+        ],
+        "text": "...NOT ANY LONGER THAN THAT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            47,
+            1132,
+            172
+        ],
+        "text": "THE REVERIE ALWAYS SEEMS TO RESULT IN CHAOS...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

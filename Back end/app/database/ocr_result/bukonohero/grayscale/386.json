@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            85,
+            23,
+            176,
+            148
+        ],
+        "text": "My master's in a pickle!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            32,
+            577,
+            134
+        ],
+        "text": "Why would I think twice?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            1006,
+            1082,
+            1116
+        ],
+        "text": "Besides, the request came from All Might himself!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            1158,
+            1095,
+            1252
+        ],
+        "text": "This mission's guaranteed to get the green light anyway, sooner or later.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            1459,
+            1046,
+            1558
+        ],
+        "text": "Hey, no skin off our backs, Star.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            23,
+            1060,
+            704
+        ],
+        "text": "United States of America's Number One Hero:\nStar and Stripe",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1119,
+            59,
+            1133,
+            232
+        ],
+        "text": "To be continued!",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            37,
+            1376,
+            44,
+            1451
+        ],
+        "text": "ZHOOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

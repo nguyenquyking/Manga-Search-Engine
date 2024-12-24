@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            56,
+            82,
+            161,
+            230
+        ],
+        "text": "THE SUN GOD, NIKA!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            267,
+            63,
+            414,
+            231
+        ],
+        "text": "Did he exist, or did they dream him up? They thought he'd bring smiles to their faces and deliver them from suffering.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            58,
+            593,
+            207,
+            722
+        ],
+        "text": "Apparently, there was a figure that slaves would pray to in the long-distant past...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            265,
+            603,
+            366,
+            728
+        ],
+        "text": "A legendary warrior they believed would one day free them!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            524,
+            67,
+            613,
+            162
+        ],
+        "text": "My time in prison felt so endless...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            488,
+            241,
+            518,
+            434
+        ],
+        "text": "GONK!! TWING!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            883,
+            87,
+            978,
+            181
+        ],
+        "text": "Save me, I thought!! Someone, anyone!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            519,
+            949,
+            703
+        ],
+        "text": "...I actually clung to that strange legend of theirs!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            938,
+            270,
+            954,
+            481
+        ],
+        "text": "GAK-GAK-GAK GAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

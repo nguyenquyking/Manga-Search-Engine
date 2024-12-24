@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            338,
+            90,
+            367,
+            187
+        ],
+        "text": "LICHT...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            490,
+            39,
+            509,
+            121
+        ],
+        "text": "@Reizung1",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            494,
+            629,
+            507,
+            812
+        ],
+        "text": "Twitter.com/BlackCloverTeam",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1147,
+            105,
+            1237,
+            179
+        ],
+        "text": "But now, I finally can...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1151,
+            697,
+            1248,
+            832
+        ],
+        "text": "Back then, there were things I wasn't able to tell you...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

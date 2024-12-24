@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            62,
+            24,
+            101,
+            82
+        ],
+        "text": "You'll turn into a man that way.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            291,
+            66,
+            306
+        ],
+        "text": "I'll do it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            0,
+            1078,
+            43,
+            1155
+        ],
+        "text": "Were you watching that?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            43,
+            983,
+            99,
+            1023
+        ],
+        "text": "Better get round-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            118,
+            1095,
+            129,
+            1133
+        ],
+        "text": "So cool!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            227,
+            1048,
+            251,
+            1123
+        ],
+        "text": "Y...Yessir!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            270,
+            747,
+            354,
+            821
+        ],
+        "text": "What, are you worried about me?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            324,
+            331,
+            400,
+            390
+        ],
+        "text": "Just sit tight and watch.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            328,
+            646,
+            400,
+            728
+        ],
+        "text": "It's a hundred years too early for that.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            473,
+            233,
+            486,
+            242
+        ],
+        "text": "Huh?",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            492,
+            101,
+            570,
+            175
+        ],
+        "text": "Right now!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            602,
+            644,
+            673
+        ],
+        "text": "Prove everyone wrong and become the Wizard King.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            623,
+            1070,
+            761,
+            1147
+        ],
+        "text": "Huh? What are you getting all lippy for? Don't get full of yourself just because you took down an enemy.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            289,
+            751,
+            344
+        ],
+        "text": "Join the Black Bulls.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            698,
+            0,
+            747,
+            49
+        ],
+        "text": "There's no other way.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1161,
+            100,
+            1188,
+            248
+        ],
+        "text": "@ZenoSora",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1165,
+            955,
+            1186,
+            1141
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "5",
+        "type": "caption"
+    }
+]

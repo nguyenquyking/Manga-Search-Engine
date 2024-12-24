@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            16,
+            252,
+            27,
+            269
+        ],
+        "text": "...!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            55,
+            430,
+            146,
+            498
+        ],
+        "text": "I guess it's time...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            148,
+            285,
+            269,
+            418
+        ],
+        "text": "Looks like this body's magic reserves are just about used up.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            447,
+            62,
+            529,
+            178
+        ],
+        "text": "My healing magic can't help here!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            331,
+            734,
+            400
+        ],
+        "text": "Prince...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            70,
+            1043,
+            141
+        ],
+        "text": "If you're going, then I'll...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            241,
+            998,
+            336
+        ],
+        "text": "Prince Lumiere... I've... I've always...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            365,
+            1120,
+            507
+        ],
+        "text": "Please... live on for me... and help these children bring about the future we sought...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            843,
+            1079,
+            909
+        ],
+        "text": "Secre... Ah, but you're Nero now...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

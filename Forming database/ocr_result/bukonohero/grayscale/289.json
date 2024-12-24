@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            179,
+            46,
+            263,
+            198
+        ],
+        "text": "Evidence of a struggle was discovered, but...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            155,
+            542,
+            241,
+            686
+        ],
+        "text": "The hunt for Shigaraki resumed immediately.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            588,
+            27,
+            692,
+            160
+        ],
+        "text": "...Leaving the authorities back at square one.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            570,
+            506,
+            699,
+            648
+        ],
+        "text": "...The villain had once again vanished without a trace...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            948,
+            189,
+            1065,
+            271
+        ],
+        "text": "...The nations of the world backed down.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            822,
+            298,
+            998,
+            434
+        ],
+        "text": "With the knowledge that even the hero currently hailed as the strongest had fallen to this threat...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            861,
+            533,
+            986,
+            694
+        ],
+        "text": "The entire world learned of the number one American hero's death that very day.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            79,
+            58,
+            100,
+            219
+        ],
+        "text": "Wait... \"Momo\"?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            59,
+            175,
+            218
+        ],
+        "text": "Luffy-taro, that is very rude! This is...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            256,
+            157,
+            382
+        ],
+        "text": "Lord Momonosuke!\nIt is good to see you well!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            409,
+            168,
+            554
+        ],
+        "text": "Hey, Momo!\nYou guys are here too? Even the dog guy?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            594,
+            192,
+            706
+        ],
+        "text": "Witness! I was just busy practicing with the blade!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            218,
+            252,
+            283,
+            333
+        ],
+        "text": "Indeed. Salutations, Kiku.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            231,
+            32,
+            276,
+            119
+        ],
+        "text": "It is fine, Kiku!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            31,
+            360,
+            112
+        ],
+        "text": "Hey!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            168,
+            532,
+            257
+        ],
+        "text": "I'm so glad you're well!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            435,
+            528,
+            537
+        ],
+        "text": "Luffy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            593,
+            525,
+            700
+        ],
+        "text": "Look, it's Luffy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1059,
+            35,
+            1092,
+            131
+        ],
+        "text": "Onami!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1065,
+            165,
+            1124,
+            272
+        ],
+        "text": "Hey, you guys!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1062,
+            325,
+            1131,
+            464
+        ],
+        "text": "Sir Sanji has returned to the crew!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

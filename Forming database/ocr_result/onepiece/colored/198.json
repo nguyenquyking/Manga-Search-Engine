@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            55,
+            187,
+            135,
+            268
+        ],
+        "text": "YOU DON'T WANT TO ACCIDENTALLY TURN SULONG.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            104,
+            61,
+            161,
+            174
+        ],
+        "text": "I WONDER WHAT HAPPENED...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            55,
+            532,
+            130,
+            652
+        ],
+        "text": "CAREFUL, CARROT! THE SKY SUDDENLY GOT CLEAR...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            708,
+            162,
+            812
+        ],
+        "text": "MASTER NEKOMA-MUSHI!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            763,
+            445,
+            884
+        ],
+        "text": "THE MOON GLEAMS OVER ONIGASHIMA.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            790,
+            101,
+            874,
+            213
+        ],
+        "text": "THIS IS JUST LIKE WHAT HAPPENED IN THE JOURNAL...!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1042,
+            304,
+            1112,
+            405
+        ],
+        "text": "...BETWEEN WHITEBEARD AND ROGER...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1038,
+            596,
+            1076,
+            688
+        ],
+        "text": "THE CLASHES...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            73,
+            93,
+            139,
+            268
+        ],
+        "text": "INVISIBLE SLASHES?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            492,
+            403,
+            644,
+            750
+        ],
+        "text": "DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            84,
+            1124,
+            254,
+            1205
+        ],
+        "text": "...TO OPEN UP THE OLD SCAR!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            89,
+            1249,
+            220,
+            1392
+        ],
+        "text": "YOU DON'T EVEN HAVE ENOUGH POWER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            1894,
+            193,
+            2049
+        ],
+        "text": "IT IS TOO SHALLOW",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            480,
+            1307,
+            496,
+            1384
+        ],
+        "text": "GRRR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            969,
+            1648,
+            1057,
+            1723
+        ],
+        "text": "DRIP...\nDRIP...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1176,
+            1414,
+            1267,
+            1508
+        ],
+        "text": "HAH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1172,
+            1569,
+            1209,
+            1665
+        ],
+        "text": "FFFH---...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1324,
+            535,
+            1441,
+            665
+        ],
+        "text": "KIKU?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1379,
+            1859,
+            1481,
+            1964
+        ],
+        "text": "YOU CANNOT DO IT.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            43,
+            138,
+            160,
+            240
+        ],
+        "text": "...to create my own virus!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            303,
+            139,
+            425
+        ],
+        "text": "So I used these antibodies as a base...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            481,
+            149,
+            601
+        ],
+        "text": "It would be impossible to inject them all, one by one!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            32,
+            632,
+            144,
+            742
+        ],
+        "text": "There are thousands upon thousands of warriors on this floor.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            267,
+            65,
+            370,
+            231
+        ],
+        "text": "I can stop a bad virus with a good virus instead!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            68,
+            539,
+            198
+        ],
+        "text": "...Get this kind of expertise?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            225,
+            540,
+            377
+        ],
+        "text": "Where did the ship doctor from a crew out of nowhere...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            440,
+            480,
+            460
+        ],
+        "text": "...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            458,
+            547,
+            561,
+            744
+        ],
+        "text": "And using this method, I can give everyone the medicine they need in the form of a mist!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            65,
+            928,
+            157
+        ],
+        "text": "They'll always slip out of your control in the end!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            770,
+            193,
+            909,
+            313
+        ],
+        "text": "Viruses aren't meant to be used as weapons!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            352,
+            848,
+            515
+        ],
+        "text": "Why would you bother to cure my guys",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            767,
+            569,
+            896,
+            738
+        ],
+        "text": "We split up and went all over the world to train for this!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

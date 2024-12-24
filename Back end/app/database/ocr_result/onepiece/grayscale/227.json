@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            79,
+            628,
+            194,
+            754
+        ],
+        "text": "DON'T TOUCH THOSE EXPLOSIVES!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            236,
+            251,
+            315
+        ],
+        "text": "FZZZSH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            340,
+            171,
+            401,
+            272
+        ],
+        "text": "AAHHRR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            359,
+            590,
+            412,
+            725
+        ],
+        "text": "MAHOROBA!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            362,
+            756,
+            441
+        ],
+        "text": "FWOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            830,
+            393,
+            898,
+            494
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            603,
+            825,
+            707
+        ],
+        "text": "LORD...OROCHI..!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1061,
+            662,
+            1100,
+            722
+        ],
+        "text": "HANDS?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

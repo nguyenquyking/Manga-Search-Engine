@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            35,
+            285,
+            249,
+            511
+        ],
+        "text": "...but it feels as if they're synchronized with each other.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            142,
+            1582,
+            289,
+            1819
+        ],
+        "text": "They're both moving randomly...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            252,
+            1911,
+            321,
+            2030
+        ],
+        "text": "Those two...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            379,
+            59,
+            510,
+            140
+        ],
+        "text": "Ha ha...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            1166,
+            814,
+            1638
+        ],
+        "text": "And even under the circumstances...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1419,
+            418,
+            1499,
+            891
+        ],
+        "text": "They look like they're having fun.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

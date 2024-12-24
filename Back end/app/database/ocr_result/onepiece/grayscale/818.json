@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            41,
+            128,
+            49,
+            181
+        ],
+        "text": "ZZING!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            148,
+            717,
+            206,
+            723
+        ],
+        "text": "K'SHUNK...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1045,
+            411,
+            1106,
+            491
+        ],
+        "text": "STUPID COCKY BIRDMAN...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1070,
+            588,
+            1096,
+            686
+        ],
+        "text": "CH-CHK!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

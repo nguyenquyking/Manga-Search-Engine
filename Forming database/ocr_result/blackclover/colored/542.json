@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            251,
+            79,
+            389,
+            188
+        ],
+        "text": "And actually, I just remembered the first time we talked, and...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            147,
+            658,
+            375,
+            765
+        ],
+        "text": "I can't let you do that!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            344,
+            526,
+            405
+        ],
+        "text": "BAAAM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            555,
+            78,
+            727,
+            211
+        ],
+        "text": "Keh keh keh.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            78,
+            1036,
+            191
+        ],
+        "text": "You fool. It looks like you don't really understand your situation.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            243,
+            938,
+            372
+        ],
+        "text": "I completely don't want to get my butt kicked by somebody like that.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            644,
+            932,
+            752
+        ],
+        "text": "Geez, c'mon, you're the one who's short!!! We're about the same height!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            600,
+            1036,
+            676
+        ],
+        "text": "How dare you fake like you were huge!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1085,
+            57,
+            1117,
+            197
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

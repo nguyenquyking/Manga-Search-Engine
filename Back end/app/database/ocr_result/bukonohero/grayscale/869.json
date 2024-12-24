@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            48,
+            132,
+            175,
+            256
+        ],
+        "text": "HOORAY! THAT'S THE SHORT-FUSED FREAK WE KNOW!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            407,
+            149,
+            524
+        ],
+        "text": "SHADDUP! WHERE THE HELL AM I?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            77,
+            581,
+            164,
+            703
+        ],
+        "text": "AHH! HE'S AWAKE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            139,
+            14,
+            239,
+            119
+        ],
+        "text": "DON'T JUST BRUSH ME OFF LIKE THAT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            86,
+            539,
+            216
+        ],
+        "text": "BUT THANK GOODNESS, FOR REAL! WE HEARD YOU TOOK ONE NASTY BEATING!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            23,
+            674,
+            129
+        ],
+        "text": "THAT YOU WERE, LIKE, STABBED IN THE GUTS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            128,
+            757,
+            212
+        ],
+        "text": "I'LL TELL THE NURSE HE'S UP!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            448,
+            557,
+            598,
+            733
+        ],
+        "text": "THIS IS CENTRAL HOSPITAL, THE BEST PLACE FOR STATE-OF-THE-ART, TOP-OF-THE-LINE MEDICAL CARE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            901,
+            206,
+            936,
+            272
+        ],
+        "text": "OUR SENPAI?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            295,
+            905,
+            362
+        ],
+        "text": "AND SENSEI?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            599,
+            933,
+            705
+        ],
+        "text": "WHAT ABOUT DEKU AND TODOROKI?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            636,
+            1045,
+            733
+        ],
+        "text": "I'm so glad you're alive, even if you are a punk!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            21,
+            1061,
+            116
+        ],
+        "text": "ENDEAVOR?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

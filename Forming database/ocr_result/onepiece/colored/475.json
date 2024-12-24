@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            336,
+            49,
+            513,
+            670
+        ],
+        "text": "Oda Sensei! I would like to see anthropomorphized versions of Mihawk's black sword \"Night\" and his cross-shaped knife! The ones you've been drawing are gross!\nBoooo! So I'm asking you, please, make these weapons look just as cool as Mihawk is! You have to! Promise me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            392,
+            444,
+            567
+        ],
+        "text": "P.S. Personally I'd like to see a fashionable babe and adorable little tot like these.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            48,
+            690,
+            349
+        ],
+        "text": "Ooh, very nice! Let's just go with that. But you described them so well, it's easy for me to envision. I like that they're women. Got it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            60,
+            865,
+            264
+        ],
+        "text": "BLACK\nBLADE",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            867,
+            61,
+            926,
+            152
+        ],
+        "text": "You got it, ma'am!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            478,
+            836,
+            699
+        ],
+        "text": "NIGHT\nLADY",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            867,
+            565,
+            945,
+            655
+        ],
+        "text": "Let's\nCut 'em up,\npartner!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            85,
+            1044,
+            191
+        ],
+        "text": "EXTRA\nGIRL",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1074,
+            87,
+            1140,
+            708
+        ],
+        "text": "I've successfully anthropomorphized them! Sorry to flex on you like that with my pro skills; I know that wasn't very mature of me! This will be their official design!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1135,
+            693,
+            1180,
+            749
+        ],
+        "text": "78",
+        "panel_id": "4",
+        "type": "page_number"
+    }
+]

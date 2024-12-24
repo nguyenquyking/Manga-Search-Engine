@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            257,
+            29,
+            432,
+            168
+        ],
+        "text": "AND THE KEY TO SAVING ASTA!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            275,
+            832,
+            420,
+            964
+        ],
+        "text": "THE ONE RESPONSIBLE FOR MY MOTHER'S DEATH!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1081,
+            30,
+            1161,
+            186
+        ],
+        "text": "...MEGICULA.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            818,
+            1096,
+            947
+        ],
+        "text": "THAT DEVIL'S NAME IS...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

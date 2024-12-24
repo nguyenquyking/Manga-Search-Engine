@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            177,
+            84,
+            350,
+            285
+        ],
+        "text": "Maybe I can lead him to a deserted area!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            168,
+            431,
+            296,
+            622
+        ],
+        "text": "There's a chance that Shigaraki is after me specifically!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            369,
+            948,
+            461
+        ],
+        "text": "I'll wreck him!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1161,
+            414,
+            1290,
+            563
+        ],
+        "text": "Requesting permission to keep in contact this way!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1398,
+            600,
+            1418,
+            929
+        ],
+        "text": "Next chapter hits June 14!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

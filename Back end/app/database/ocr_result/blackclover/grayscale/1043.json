@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            147,
+            603,
+            144,
+            678
+        ],
+        "text": "KRAKOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            219,
+            426,
+            365,
+            719
+        ],
+        "text": "Spatial Rupture",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            538,
+            865,
+            769,
+            1143
+        ],
+        "text": "Spirit of Boreas",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            767,
+            1,
+            912,
+            90
+        ],
+        "text": "This time, it's over.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            988,
+            128,
+            1041,
+            329
+        ],
+        "text": "He can't teleport or defend.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

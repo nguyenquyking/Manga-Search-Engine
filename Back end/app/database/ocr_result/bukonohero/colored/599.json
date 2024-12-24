@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            314,
+            70,
+            380,
+            162
+        ],
+        "text": "What're you saying?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            367,
+            384,
+            469
+        ],
+        "text": "BWOOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            563,
+            694,
+            606,
+            788
+        ],
+        "text": "I'll explain later!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            139,
+            772,
+            285
+        ],
+        "text": "I'm too far away to spot Shigaraki now cuz of all the dust and smoke!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            78,
+            995,
+            231
+        ],
+        "text": "Please let me know if he suddenly changes course!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1343,
+            513,
+            1346,
+            599
+        ],
+        "text": "BWOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1270,
+            774,
+            1342,
+            896
+        ],
+        "text": "Like I've got time for that-",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

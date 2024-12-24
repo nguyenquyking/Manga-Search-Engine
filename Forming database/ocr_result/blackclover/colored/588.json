@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            515,
+            715,
+            704,
+            919
+        ],
+        "text": "People who are right aren't necessarily rewarded.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            675,
+            1059,
+            673,
+            1134
+        ],
+        "text": "BLUP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1570,
+            361,
+            1621,
+            509
+        ],
+        "text": "...Get stronger.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1471,
+            959,
+            1530,
+            1029
+        ],
+        "text": "And so...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

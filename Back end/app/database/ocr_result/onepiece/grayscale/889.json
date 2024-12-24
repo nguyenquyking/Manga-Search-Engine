@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            409,
+            146,
+            424,
+            610
+        ],
+        "text": "TRANSLATION: ADRIENNE BECK\nLETTERING: SARA LINSLEY",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            435,
+            384,
+            460,
+            451
+        ],
+        "text": "SBLOOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            784,
+            402,
+            851,
+            478
+        ],
+        "text": "SORRY TO\nKEEP YOU\nWAITING,\nNAMI.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            806,
+            532,
+            841,
+            593
+        ],
+        "text": "SMOOTH\nSAILING.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            784,
+            620,
+            838,
+            689
+        ],
+        "text": "YEP...\nRIGHT ON\nCOURSE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            903,
+            413,
+            957,
+            483
+        ],
+        "text": "AS YOU\nREQUEST-\nED...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

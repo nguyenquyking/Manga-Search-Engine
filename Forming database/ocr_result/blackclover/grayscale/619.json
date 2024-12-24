@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            196,
+            118,
+            401,
+            288
+        ],
+        "text": "He blends in with them, and I can't even tell where he is!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            182,
+            759,
+            323,
+            887
+        ],
+        "text": "The shadows won't disappear until you defeat me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            124,
+            824,
+            266
+        ],
+        "text": "I should be able to draw out more power!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            684,
+            347,
+            841,
+            559
+        ],
+        "text": "Our connection's stronger than it was before we made our contract.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            868,
+            586,
+            1028,
+            787
+        ],
+        "text": "Does that mean he's been face-to-face with death that often?!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            854,
+            876,
+            974,
+            1030
+        ],
+        "text": "So he's got contracts with four devils?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1248,
+            133,
+            1353,
+            260
+        ],
+        "text": "This is the path you chose.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1248,
+            325,
+            1457,
+            522
+        ],
+        "text": "Since the devil isn't your servant, using 100 percent of his power won't be easy for you.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1208,
+            884,
+            1332,
+            1036
+        ],
+        "text": "You made a contract on equal terms with a devil.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

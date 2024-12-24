@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            590,
+            26,
+            633,
+            841
+        ],
+        "text": "P_WILDFIREMATT X OPCOLOREDMANGA",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1819,
+            280,
+            1764,
+            432
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1896,
+            619,
+            1950,
+            1294
+        ],
+        "text": "P_WILDFIREMATT X OPCOLOREDMANGA",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            2294,
+            185,
+            2521,
+            497
+        ],
+        "text": "KAIDO?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2188,
+            1474,
+            2521,
+            1779
+        ],
+        "text": "ISN'T THIS FUN...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2685,
+            147,
+            2721,
+            508
+        ],
+        "text": "To be continued!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

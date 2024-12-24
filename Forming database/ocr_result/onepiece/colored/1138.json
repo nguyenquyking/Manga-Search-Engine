@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            64,
+            50,
+            112,
+            115
+        ],
+        "text": "Big Bro...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            158,
+            168,
+            267
+        ],
+        "text": "We'll make it so this is normal!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            564,
+            177,
+            663
+        ],
+        "text": "Don't celebrate like this is special, Tama!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            46,
+            639,
+            233
+        ],
+        "text": "...It'll be a place where you can eat as much as you want, every single day!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            490,
+            583,
+            609,
+            732
+        ],
+        "text": "By the time we leave this country...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            43,
+            930,
+            240
+        ],
+        "text": "N...No! I'm happy, of course!! I'm just... startled, is all!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            271,
+            910,
+            352
+        ],
+        "text": "What...? You don't want that?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            413,
+            934,
+            540
+        ],
+        "text": "...It'll be a place where you can eat as much as you want!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            566,
+            922,
+            686
+        ],
+        "text": "The next time we come back to this country...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

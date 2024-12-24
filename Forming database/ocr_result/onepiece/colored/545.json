@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            84,
+            695,
+            265,
+            717
+        ],
+        "text": "\u5207\u308a\u7d75\u3067\u30c8\u306e\u5eb7\u304a\u30c8\u30b3\u89aa\u5b50\uff01",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            386,
+            504,
+            410,
+            675
+        ],
+        "text": "\u5f85\u30be\u30ed!! \u4f3c\u5408\u3044\u3059\u304e!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            180,
+            639,
+            321
+        ],
+        "text": "3\u5144\u5f1f\u3067\u82b1\u898b\u5bb4!!!",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            728,
+            563,
+            756,
+            614
+        ],
+        "text": "\u529b\u4f5c!!!",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            758,
+            500,
+            776,
+            675
+        ],
+        "text": "\u30ab\u30a4\u30c9\u30a6vs.\u30e2\u30e2\u306e\u52a9!!!",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            795,
+            102,
+            964,
+            717
+        ],
+        "text": "\u4f55\u3068500\u5186\u7389\u306b\u4e57\u308b\u7a0b\u306e\u30df\u30cb\u30de\u30e0\u4f5c\u54c1\u3002\n\u7c73\u306b\u63cf\u3044\u305f\u9ea6\u308f\u3089\u306e\u4e00\u5473!!",
+        "panel_id": "6",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            996,
+            212,
+            1159,
+            675
+        ],
+        "text": "\u2605UGK\u5be9\u67fb\u59d4\u54e1\u9577\u2605\n\u30a6\u30bd\u30c3\u30d7\u69d8\u3088\u308a\u6ce8\u610f\u70b9\n\u5fc5\u305a\u30a4\u30e9\u30b9\u30c8\u3084\u5199\u771f\u306e\u88cf\u306b\n\u76f4\u63a5\u3001\u4f4f\u6240\u30fb\u6c0f\u540d(P.N.)\u30fb\u5e74\u9f62\u30fb\u96fb\u8a71\u756a\u53f7\u3092\n\u66f8\u304d\u8fbc\u3093\u3067\u304f\u308c!!\nP.N.\u8868\u8a18\u306f\u3001\u306f\u3063\u304d\u308a\u3068!!",
+        "panel_id": "7",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1128,
+            501,
+            1146,
+            675
+        ],
+        "text": "\u3050\u308b\u308f\u3089\u306e\u4e00\u5473\u898b\u53c2!!!",
+        "panel_id": "8",
+        "type": "caption"
+    }
+]

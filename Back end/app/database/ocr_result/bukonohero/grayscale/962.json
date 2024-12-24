@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            65,
+            114,
+            103,
+            193
+        ],
+        "text": "HOW CHILDISH!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            343,
+            111,
+            378,
+            204
+        ],
+        "text": "WHAT A MOUTHFUL!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            111,
+            789,
+            163
+        ],
+        "text": "TACKY",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            573,
+            1129,
+            1030
+        ],
+        "text": "GREAT EXPLOSION MURDER GOD DYNAMITE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1214,
+            125,
+            1264,
+            171
+        ],
+        "text": "HA\nHA!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            1697,
+            111,
+            1778
+        ],
+        "text": "HOW CHILDISH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            349,
+            111,
+            378,
+            1776
+        ],
+        "text": "WHAT A MOUTHFUL!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            111,
+            789,
+            163
+        ],
+        "text": "TACKY",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            2146,
+            1129,
+            2611
+        ],
+        "text": "GREAT EXPLOSION MURDER GOD DYNAMIGHT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1217,
+            1708,
+            1265,
+            1757
+        ],
+        "text": "HA\nHA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1380,
+            269,
+            1503,
+            2325
+        ],
+        "text": "OFFICIAL TRANSLATION OF BAKUGO'S HERO NAME\nCHANGED FROM \"DYNAMITE\" TO \"DYNAMIGHT\"",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

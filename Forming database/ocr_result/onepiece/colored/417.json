@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            70,
+            104,
+            138,
+            188
+        ],
+        "text": "The man we just saw...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            64,
+            219,
+            122,
+            306
+        ],
+        "text": "It's you!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            373,
+            152,
+            437
+        ],
+        "text": "AAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            337,
+            217,
+            420,
+            359
+        ],
+        "text": "Did you think I couldn't hear you blabbing on and on?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            367,
+            66,
+            476,
+            191
+        ],
+        "text": "Thanks for the tip about your boar worth one platinum!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            337,
+            649,
+            392,
+            739
+        ],
+        "text": "Wa ha ha ha!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            535,
+            63,
+            601,
+            173
+        ],
+        "text": "Looks like today's my lucky day!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            520,
+            248,
+            543,
+            301
+        ],
+        "text": "THUMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            807,
+            57,
+            872,
+            162
+        ],
+        "text": "I feel like I just won the lottery!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            732,
+            538,
+            798,
+            682
+        ],
+        "text": "Thug from the Capital Kin'emon",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            937,
+            84,
+            1038,
+            182
+        ],
+        "text": "Hey, you!! Gimme your clothes... and your wallets!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            938,
+            266,
+            991,
+            346
+        ],
+        "text": "BWA-CHOO!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1053,
+            275,
+            1081,
+            346
+        ],
+        "text": "Brr...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            972,
+            610,
+            1082,
+            741
+        ],
+        "text": "All I have to do is hand this over to the Kurokoma boss, and...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

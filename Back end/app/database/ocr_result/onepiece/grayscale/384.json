@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            50,
+            509,
+            117,
+            627
+        ],
+        "text": "WHAT?! Is it just me, or is Big Mom...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            832,
+            151,
+            934
+        ],
+        "text": "Anything less won't serve to strengthen me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            958,
+            124,
+            1052
+        ],
+        "text": "I'll use an entire year of my life span...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            1163,
+            66,
+            1343
+        ],
+        "text": "RAAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            49,
+            1431,
+            111,
+            1524
+        ],
+        "text": "And now, I give you life!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            59,
+            477,
+            197
+        ],
+        "text": "Prove you're worthy of being an Emperor of the Sea!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            279,
+            448,
+            417
+        ],
+        "text": "So take it, if you can!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            631,
+            567,
+            743
+        ],
+        "text": "Trafalgar Law!! Captain Kid!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            582,
+            506,
+            716,
+            639
+        ],
+        "text": "I'm sure you've come for my throne, just like Straw Hat Luffy...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            554,
+            302,
+            632,
+            423
+        ],
+        "text": "Can't believe I have to beat this monster...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            308,
+            759,
+            410
+        ],
+        "text": "...Just so I can learn more about history...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            1389,
+            499,
+            1514
+        ],
+        "text": "Getting bigger?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            621,
+            1384,
+            739,
+            1508
+        ],
+        "text": "I haven't felt this much pain in decades, I think...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            1240,
+            838,
+            1362
+        ],
+        "text": "That's very impressive, you two!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            76,
+            952,
+            211
+        ],
+        "text": "We're gonna bring her down, even if it kills us!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            877,
+            294,
+            962,
+            418
+        ],
+        "text": "Don't hold any strength back, as long as you still live!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

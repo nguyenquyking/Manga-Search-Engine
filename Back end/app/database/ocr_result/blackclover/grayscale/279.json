@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            169,
+            446,
+            324,
+            506
+        ],
+        "text": "GLARE",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            500,
+            106,
+            572,
+            158
+        ],
+        "text": "What is this thing?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            815,
+            609,
+            936
+        ],
+        "text": "Y-you're giving it to me? Th-Thanks...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            84,
+            921,
+            179
+        ],
+        "text": "For the sake of the ancestor who made the contract too, the curse of Megicula must be...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            795,
+            201,
+            865,
+            256
+        ],
+        "text": "I expect great things from Nathan.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            817,
+            340,
+            923,
+            442
+        ],
+        "text": "My, my, Mother. I think it's time for bed, don't you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            495,
+            851,
+            582
+        ],
+        "text": "The old lady's gone senile!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            768,
+            831,
+            875,
+            929
+        ],
+        "text": "Ohh... Is that you, Nathan? You've gotten so big...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1003,
+            588,
+            1097,
+            667
+        ],
+        "text": "Protect the house of Agrippa, won't you...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1286,
+            167,
+            1360,
+            214
+        ],
+        "text": "We need to talk.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1296,
+            524,
+            1313,
+            593
+        ],
+        "text": "Father...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

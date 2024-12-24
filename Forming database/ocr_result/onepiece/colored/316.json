@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            44,
+            95,
+            248,
+            302
+        ],
+        "text": "I can't believe Lady Black Maria's illusion mist didn't work on them!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            615,
+            188,
+            764
+        ],
+        "text": "They're getting away!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            53,
+            871,
+            171,
+            1107
+        ],
+        "text": "You could have reassured me if it wasn't working on you, Robin.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            82,
+            463,
+            192
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            696,
+            81,
+            715,
+            682
+        ],
+        "text": "STOMP STOMP STOMP STOMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            566,
+            875,
+            673,
+            1125
+        ],
+        "text": "Such a horrible thing to do, toying with someone's most precious memories!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            813,
+            981,
+            926,
+            1123
+        ],
+        "text": "Oh dear, is that true?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            199,
+            912,
+            357
+        ],
+        "text": "GYAAAA!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            983,
+            96,
+            1124,
+            229
+        ],
+        "text": "Ugh, this mansion is simply terrifying!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

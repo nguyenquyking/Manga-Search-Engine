@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            189,
+            1632,
+            494,
+            1772
+        ],
+        "text": "I'M FROM A WHOLE OTHER DIMENSION!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            162,
+            939,
+            273
+        ],
+        "text": "THIS IS...HIS WORLD?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            1317,
+            978,
+            1408
+        ],
+        "text": "WHAT IS THIS...!? THIS MAGIC!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            222,
+            1245,
+            1300
+        ],
+        "text": "HN. HN. HN. HN. HN. HN. HN.",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            142,
+            122,
+            315,
+            319
+        ],
+        "text": "It's Boss Kyoshiro!! We're saved!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            127,
+            776,
+            265,
+            931
+        ],
+        "text": "That's the Kyoshiro Family's ship!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            1170,
+            280,
+            1362
+        ],
+        "text": "You boys seem to be having trouble!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            465,
+            203,
+            597
+        ],
+        "text": "BE",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            814,
+            123,
+            1030,
+            311
+        ],
+        "text": "Sink the enemy, you say? Allow me!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            413,
+            956,
+            457
+        ],
+        "text": "\u72c2",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            810,
+            1062,
+            1045,
+            1368
+        ],
+        "text": "L-Lord Orochi ordered for them to be sunk to the bottom of the sea!! That's all we need to do!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1332,
+            126,
+            1533,
+            328
+        ],
+        "text": "What are you doing, Boss?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1820,
+            862,
+            1931,
+            1035
+        ],
+        "text": "AIEEEEEE!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

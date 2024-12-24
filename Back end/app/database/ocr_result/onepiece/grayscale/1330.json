@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            118,
+            108,
+            250,
+            358
+        ],
+        "text": "Hey, Robin!\nCome up here and sit with me!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            61,
+            367,
+            129
+        ],
+        "text": "Skree",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            479,
+            89,
+            602,
+            194
+        ],
+        "text": "No\nThank you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            116,
+            856,
+            267,
+            1103
+        ],
+        "text": "Let's fall out and dock up at the rear of the island!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            144,
+            1154,
+            216,
+            1342
+        ],
+        "text": "Commander Chopper!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            846,
+            557,
+            959
+        ],
+        "text": "Over\nand out!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            120,
+            905,
+            368
+        ],
+        "text": "But when everyone is worked up about fighting, the key will be...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            702,
+            444,
+            866,
+            629
+        ],
+        "text": "You folks are as lively as ever!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            702,
+            995,
+            822,
+            1092
+        ],
+        "text": "Let's just walk.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            1162,
+            855,
+            1342
+        ],
+        "text": "The top of the tank is bound to get dusty.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1237,
+            133,
+            1367,
+            398
+        ],
+        "text": "...having someone who can calmly observe the state of the battle!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1522,
+            136,
+            1635,
+            352
+        ],
+        "text": "What a mature point of view.\nIt's good to have you with us!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1728,
+            77,
+            1879,
+            267
+        ],
+        "text": "I want to make myself useful for my first battle on the crew!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1933,
+            357,
+            2073,
+            483
+        ],
+        "text": "Rustle",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

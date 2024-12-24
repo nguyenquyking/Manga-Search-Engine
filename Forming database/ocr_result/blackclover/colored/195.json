@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            83,
+            61,
+            297,
+            183
+        ],
+        "text": "I got it! If they knew that everybody was just being used by that demon,",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            368,
+            319,
+            467
+        ],
+        "text": "And also, everything was that \"Hn Hn Hn\" demon's fault in the first place!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            509,
+            280,
+            622
+        ],
+        "text": "No, no, no... Nobody did anything wrong, right!? The elves took over their bodies against their will!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            742,
+            183,
+            877
+        ],
+        "text": "In order to protect the country, we cannot afford to lose our magic knights.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            538,
+            66,
+            730,
+            194
+        ],
+        "text": "As a commoner, Asta would be used as a scapegoat for the magic knights.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            544,
+            705,
+            661,
+            868
+        ],
+        "text": "Yes... Exactly. And now the Magic Parliament...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            60,
+            1176,
+            151
+        ],
+        "text": "The Magic Parliament? Who'd put together something like that...!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            324,
+            1029,
+            380
+        ],
+        "text": "What...??",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1107,
+            297,
+            1202,
+            368
+        ],
+        "text": "But I didn't do anything wrong!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            485,
+            1179,
+            671
+        ],
+        "text": "Will hold a trial to judge the users of demonic power.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

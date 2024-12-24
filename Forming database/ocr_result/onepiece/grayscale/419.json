@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            46,
+            53,
+            115,
+            151
+        ],
+        "text": "I'M GONNA BAG ME A BOUNTY!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            186,
+            120,
+            281
+        ],
+        "text": "THAT'S BLACK-LEG SANJI, RIGHT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            314,
+            125,
+            405
+        ],
+        "text": "HE'S DISTRACTED! SHOOT HIM DEAD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            28,
+            444,
+            105,
+            540
+        ],
+        "text": "WHAT'S HE MUMBLING ABOUT OVER THERE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            33,
+            628,
+            99,
+            738
+        ],
+        "text": "HE'S ONE OF THE STRAW HATS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            49,
+            458,
+            187
+        ],
+        "text": "THAT HURT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            391,
+            229,
+            441,
+            327
+        ],
+        "text": "YEAH! GOT 'IM...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            444,
+            480,
+            504
+        ],
+        "text": "GAGANK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            446,
+            647,
+            468,
+            679
+        ],
+        "text": "GANK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            801,
+            68,
+            891,
+            185
+        ],
+        "text": "MWA HA HA!! PUT ON THE BATTLE SUIT ALREADY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            969,
+            57,
+            1065,
+            174
+        ],
+        "text": "SHOW ME THE POWER OF GERMA'S SCIENCE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            494,
+            859,
+            739
+        ],
+        "text": "KABOOM!! AAHH!! WHAAAAT?!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1043,
+            417,
+            1054,
+            466
+        ],
+        "text": "ZDOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

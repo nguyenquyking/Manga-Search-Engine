@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            105,
+            946,
+            187,
+            1088
+        ],
+        "text": "THEY'RE\nRIGHT HERE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            144,
+            1136,
+            291,
+            1340
+        ],
+        "text": "HEY!! STOP\nCALLING FOR\nBIG MOM, YOU\nSTUPID SUN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            505,
+            192,
+            609,
+            396
+        ],
+        "text": "OH NO, NAMI...\nSHE'S GONNA\nKILL ME!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            89,
+            943,
+            315
+        ],
+        "text": "FORGET\nHIM, WE NEED\nTO ESCAPE AND\nLOOK FOR LORD\nMOMONOSUKE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            388,
+            935,
+            580
+        ],
+        "text": "WHY DID\nHE EVEN\nCOME?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            686,
+            900,
+            846
+        ],
+        "text": "I'M NOT\nGIVING UP\nON FINDING\nLADIES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            1133,
+            915,
+            1332
+        ],
+        "text": "YOU SAID\nYOU SPOTTED\nSANJI\nEARLIER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            797,
+            961,
+            887,
+            1072
+        ],
+        "text": "YES,\nBUT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1250,
+            86,
+            1345,
+            187
+        ],
+        "text": "YEAH\n!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1553,
+            254,
+            1641,
+            444
+        ],
+        "text": "STICK\nWITH ME...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1699,
+            80,
+            1818,
+            257
+        ],
+        "text": "...AND I'LL\nGIVE YOU\nLIFE!!\u2661",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1544,
+            792,
+            1604,
+            917
+        ],
+        "text": "YAAAY!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1535,
+            967,
+            1671,
+            1116
+        ],
+        "text": "FOLLOW\nME, YOU\nWOODEN\nSANDALS.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1553,
+            1164,
+            1656,
+            1344
+        ],
+        "text": "COME ALONG,\nYOU OLD\nUMBRELLA...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1753,
+            1216,
+            1877,
+            1304
+        ],
+        "text": "WHEE\nWHEE",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

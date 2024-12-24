@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            118,
+            136,
+            362,
+            424
+        ],
+        "text": "And thanks to the weapons factories, we've got a whole array at our disposal!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            108,
+            506,
+            270,
+            730
+        ],
+        "text": "The weapons of Wano are high-precision!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            112,
+            1134,
+            289,
+            1287
+        ],
+        "text": "GYAAA\nHA HA\nHA!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1041,
+            90,
+            1123,
+            396
+        ],
+        "text": "Pull back!!\nMore distance!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            662,
+            1378,
+            973
+        ],
+        "text": "BOOM\nBOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1069,
+            1085,
+            1311,
+            1308
+        ],
+        "text": "Let's see you try to\nfly at us\nagain,\nsuckers!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1905,
+            1146,
+            2021,
+            1311
+        ],
+        "text": "AAAAH\n!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

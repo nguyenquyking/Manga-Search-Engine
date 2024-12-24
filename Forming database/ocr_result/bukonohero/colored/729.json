@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            539,
+            607,
+            603,
+            677
+        ],
+        "text": "HOW COULD YOU?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            230,
+            1001,
+            284
+        ],
+        "text": "HOW DARE YOU...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            331,
+            1016,
+            419
+        ],
+        "text": "THESE FLAMES KEEP GETTING HOTTER AND HOTTER!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            919,
+            458,
+            948,
+            492
+        ],
+        "text": "FWAP\nFWAP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            949,
+            624,
+            1065,
+            705
+        ],
+        "text": "HUFF!\nHUFF!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1061,
+            324,
+            1065,
+            373
+        ],
+        "text": "ROLL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1111,
+            209,
+            1134,
+            250
+        ],
+        "text": "TOMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

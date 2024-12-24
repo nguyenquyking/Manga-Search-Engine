@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            69,
+            281,
+            174,
+            353
+        ],
+        "text": "HOLD FIRM,\nYOKO-ZUNA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            395,
+            111,
+            468
+        ],
+        "text": "WHO IS THAT\nGUY?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            619,
+            222,
+            703
+        ],
+        "text": "YOKO-ZUNA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            328,
+            29,
+            381,
+            119
+        ],
+        "text": "YOU CAN\nDO IT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            428,
+            378,
+            590
+        ],
+        "text": "WHOA-WHOA-\nWHOA-WHOA!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            327,
+            629,
+            382,
+            696
+        ],
+        "text": "WHOA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            598,
+            21,
+            650,
+            118
+        ],
+        "text": "...LUFFY-\nTARO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            578,
+            1110,
+            695
+        ],
+        "text": "THEY'RE\nSTILL\nIN IT!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

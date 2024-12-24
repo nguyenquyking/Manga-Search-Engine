@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            45,
+            456,
+            107,
+            708
+        ],
+        "text": "WHAT THE HELL?! STOP BEING DEAD WEIGHT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            754,
+            91,
+            842
+        ],
+        "text": "THROB!! THROB!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            61,
+            315,
+            140,
+            382
+        ],
+        "text": "SHAM-BLES!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            161,
+            450,
+            302,
+            699
+        ],
+        "text": "PANT\nPANT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            263,
+            675,
+            306,
+            738
+        ],
+        "text": "DAMN IT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            283,
+            65,
+            310,
+            120
+        ],
+        "text": "HMM?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            454,
+            677,
+            562,
+            844
+        ],
+        "text": "COUNTER SHOCK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            520,
+            119,
+            608,
+            227
+        ],
+        "text": "GYAAA\nAAAAA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            630,
+            715,
+            725
+        ],
+        "text": "MAMA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            306,
+            902,
+            363
+        ],
+        "text": "WEEZ...\nWEEZ...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            920,
+            54,
+            952,
+            614
+        ],
+        "text": "T/N: REFERENCES BOTH STOLLEN, A TYPE OF GERMAN PASTRY, AND THE MYTHOLOGICAL FIGURE PROMETHEUS, WHO WAS FAMOUSLY PUNISHED FOR HAVING STOLEN FIRE FOR HUMANITY.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            994,
+            414,
+            1043,
+            499
+        ],
+        "text": "ARGH!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            628,
+            1066,
+            747
+        ],
+        "text": "HOW DARE\nYOU HURT\nMAMA?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1144,
+            83,
+            1246,
+            198
+        ],
+        "text": "STOLLEN\nFIRE!!*",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

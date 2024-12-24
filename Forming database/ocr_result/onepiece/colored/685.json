@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            43,
+            173,
+            159,
+            346
+        ],
+        "text": "It's Kamazo the Manslayer, who apparently failed in his duty to the Shogun.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            22,
+            148,
+            136
+        ],
+        "text": "Lord Orochi says we can do what we want with him.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            404,
+            98,
+            470
+        ],
+        "text": "Well...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            611,
+            283,
+            711
+        ],
+        "text": "Criminals?! Who is it, Babanuki?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            256,
+            429,
+            361
+        ],
+        "text": "And would you believe it...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            340,
+            423,
+            423,
+            541
+        ],
+        "text": "Ooh, Kamazo! I've heard the rumors about him!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            337,
+            577,
+            453,
+            694
+        ],
+        "text": "Here he is!! Kamazo the Manslayer, locked in chains!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            348,
+            57,
+            444,
+            233
+        ],
+        "text": "We also caught the escaped Captain Kid along the way!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            494,
+            621,
+            577,
+            688
+        ],
+        "text": "FWA FWA FWA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            624,
+            19,
+            696,
+            133
+        ],
+        "text": "Gya ha ha ha! Back so soon?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            23,
+            902,
+            131
+        ],
+        "text": "The punishment for escaping is death!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            972,
+            16,
+            1090,
+            122
+        ],
+        "text": "I don't believe this, Kid!! How dumb can you get?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1002,
+            608,
+            1064,
+            707
+        ],
+        "text": "Jaggy!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

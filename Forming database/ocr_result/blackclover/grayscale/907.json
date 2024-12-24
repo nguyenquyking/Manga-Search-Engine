@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            50,
+            371,
+            180,
+            447
+        ],
+        "text": "Geez, you're noisy. Don't interrupt.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            140,
+            353,
+            221
+        ],
+        "text": "Uweeh Uweeh",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            377,
+            513,
+            411,
+            591
+        ],
+        "text": "Noelle!! Nozel!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            43,
+            559,
+            135
+        ],
+        "text": "Maybe I should kill you first...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            670,
+            284,
+            770,
+            360
+        ],
+        "text": "They wear you out. They get in the way.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            640,
+            814,
+            704
+        ],
+        "text": "Are these your kids, Acier?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            29,
+            922,
+            128
+        ],
+        "text": "C'mon! You don't need that. A strong lady like you...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            405,
+            972,
+            468
+        ],
+        "text": "Why'd you have 'em?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            558,
+            896,
+            632
+        ],
+        "text": "Uweeh Uweeh",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

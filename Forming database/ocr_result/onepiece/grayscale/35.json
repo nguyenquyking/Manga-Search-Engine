@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            495,
+            556,
+            563,
+            665
+        ],
+        "text": "PLAY ALL THE GAMES YOU WANT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            693,
+            525,
+            734
+        ],
+        "text": "HUFF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            555,
+            485,
+            572,
+            539
+        ],
+        "text": "HUFF!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            940,
+            128,
+            997,
+            220
+        ],
+        "text": "GWAAA!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            917,
+            621,
+            954,
+            693
+        ],
+        "text": "BUT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1101,
+            253,
+            1126,
+            274
+        ],
+        "text": "BAKONN!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

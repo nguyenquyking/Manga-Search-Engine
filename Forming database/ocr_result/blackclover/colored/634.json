@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            89,
+            548,
+            316,
+            693
+        ],
+        "text": "...With regard to the ritual of the advent of Qliphoth, but...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            737,
+            282,
+            899
+        ],
+        "text": "...I thought the resistance would attempt something...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            244,
+            1108,
+            412,
+            1251
+        ],
+        "text": "Since a rat had found his way into the castle...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            314,
+            114,
+            539,
+            242
+        ],
+        "text": "...Who'd have thought they'd just appear, bold as brass?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            1129,
+            917,
+            1273
+        ],
+        "text": "We were planning to use the demon...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            626,
+            1232,
+            788
+        ],
+        "text": "You are not citizens of the Spade Kingdom.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1205,
+            861,
+            1457,
+            1016
+        ],
+        "text": "...to exterminate the people of the castle town in any case.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1213,
+            105,
+            1440,
+            296
+        ],
+        "text": "That title is reserved for us, the strong!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1766,
+            302,
+            1789,
+            420
+        ],
+        "text": "...Begin.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1665,
+            928,
+            1801,
+            1083
+        ],
+        "text": "Let the ritual of the advent of Qliphoth...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

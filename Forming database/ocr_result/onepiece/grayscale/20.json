@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            44,
+            89,
+            96,
+            176
+        ],
+        "text": "LORD ODEN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            375,
+            93,
+            463
+        ],
+        "text": "LORD ODEN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            648,
+            117,
+            719
+        ],
+        "text": "RUN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            268,
+            133,
+            339
+        ],
+        "text": "DON'T TURN BACK!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            77,
+            550,
+            88,
+            600
+        ],
+        "text": "RAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            495,
+            352,
+            499,
+            425
+        ],
+        "text": "DOOM!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            757,
+            265,
+            849,
+            394
+        ],
+        "text": "THEY'VE GONE TO PROTECT MOMONOSUKE, HIS HEIR!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            508,
+            806,
+            575
+        ],
+        "text": "IT'S KURI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            604,
+            850,
+            725
+        ],
+        "text": "THERE'S ONLY ONE PLACE THOSE SAMURAI COULD BE GOING!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            401,
+            877,
+            453
+        ],
+        "text": "RAAAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            862,
+            49,
+            907,
+            125
+        ],
+        "text": "HE HAS A SON?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            47,
+            1070,
+            128
+        ],
+        "text": "I'LL GO TAKE CARE OF THAT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

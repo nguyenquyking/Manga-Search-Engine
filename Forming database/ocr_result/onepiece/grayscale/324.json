@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            97,
+            80,
+            169,
+            171
+        ],
+        "text": "GET WEAKER\n\u2026!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            718,
+            120,
+            835
+        ],
+        "text": "BUT HIS\nDEFENSES...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            549,
+            50,
+            637,
+            205
+        ],
+        "text": "NO WAY...\nKING-SAMA'S\nMASK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            959,
+            158,
+            1069,
+            333
+        ],
+        "text": "THE WORLD\nGOVERNMENT IS\nOFFERING 100 MILLION\nBERRIES FOR ANY\nINFORMATION ON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            962,
+            404,
+            1060,
+            523
+        ],
+        "text": "BLACK WINGS,\nWHITE HAIR,\nAND DARK\nBROWN SKIN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            975,
+            588,
+            1025,
+            672
+        ],
+        "text": "WERE\nTRUE!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            973,
+            723,
+            1017,
+            828
+        ],
+        "text": "SO THE\nRUMORS...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

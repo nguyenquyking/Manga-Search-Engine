@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            65,
+            259,
+            101,
+            332
+        ],
+        "text": "FOR 40\nYEARS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            172,
+            221,
+            243,
+            328
+        ],
+        "text": "...YAGI\nMAINTAINED\nHIS GRIP ON\nONE FOR ALL.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            97,
+            431,
+            204,
+            571
+        ],
+        "text": "...IMBUED ONE\nFOR ALL WITH\nA TRUE PIECE\nOF HIS CONSCIOUSNESS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            617,
+            139,
+            681
+        ],
+        "text": "ONLY\nHE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            873,
+            18,
+            1033,
+            161
+        ],
+        "text": "BY SOME\nTWIST OF\nFATE, THIS\nPOWER THAT\nMUST PASS\nFROM ONE TO\nTHE NEXT...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            776,
+            211,
+            986,
+            368
+        ],
+        "text": "IT WAS A\nPERFECT FIT\nFOR HIS\nPREVIOUSLY\nEMPTY VESSEL,\nAND AS SUCH,\nIT TRULY\nBECAME HIS\nQUIRK.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            792,
+            424,
+            920,
+            550
+        ],
+        "text": "...AND\nATTEMPTING TO\nFORCE IT ANYWAY\nRESULTS IN A\nSHORTENED LIFE\nSPAN, AS THE\nFOURTH\nEXPERIENCED.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            791,
+            580,
+            893,
+            711
+        ],
+        "text": "A VESSEL WITH AN\nEXISTING QUIRK OF\nITS OWN COULD NOT\nRECEIVE ONE FOR\nALL WITHOUT\nWARPING AND\nSPILLING OVER...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

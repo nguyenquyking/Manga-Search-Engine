@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            376,
+            90,
+            455,
+            176
+        ],
+        "text": "...a Devil Host.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            375,
+            638,
+            454,
+            747
+        ],
+        "text": "The Abilities of...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            660,
+            62,
+            826,
+            246
+        ],
+        "text": "...made it possible to extract and transplant even Lolopechka's wisdom!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            662,
+            614,
+            757,
+            753
+        ],
+        "text": "Through the power of a devil, my magic...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

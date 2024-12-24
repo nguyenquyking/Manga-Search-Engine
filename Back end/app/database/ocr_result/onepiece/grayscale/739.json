@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            27,
+            338,
+            119,
+            420
+        ],
+        "text": "SPECIAL ATTACK,\nGREEN STAR!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            35,
+            475,
+            144,
+            586
+        ],
+        "text": "SORRY, I DON'T HAVE\nMANY CLOSE-RANGE\nWEAPONS!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            633,
+            120,
+            744
+        ],
+        "text": "THE HEAT\nIS SEARING,\nUSOPP!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            317,
+            419,
+            385,
+            546
+        ],
+        "text": "BUT I'LL\nTAKE HIM OUT\nANYWAY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            89,
+            175,
+            101,
+            245
+        ],
+        "text": "THUMP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            466,
+            125,
+            508,
+            182
+        ],
+        "text": "HUFF,\nHUFF...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            551,
+            223,
+            558,
+            274
+        ],
+        "text": "PISH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            480,
+            684,
+            504,
+            748
+        ],
+        "text": "HUH?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            54,
+            853,
+            129
+        ],
+        "text": "HOW\nDO YOU\nLIKE THEM\nCONES?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            269,
+            831,
+            341
+        ],
+        "text": "AAAAH\n!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            660,
+            594,
+            751,
+            745
+        ],
+        "text": "EXPLODING\nPINE\nCONES!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1030,
+            281,
+            1080,
+            353
+        ],
+        "text": "YES!\nDIRECT\nHIT!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            66,
+            548,
+            218,
+            714
+        ],
+        "text": "You're thinking I should finish him off with a max firepower attack...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            191,
+            53,
+            261,
+            152
+        ],
+        "text": "Take care of Sensei and the others!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            193,
+            214,
+            273,
+            287
+        ],
+        "text": "But... they're just kids...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            206,
+            438,
+            269,
+            507
+        ],
+        "text": "Leave it to me!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            344,
+            399,
+            460,
+            482
+        ],
+        "text": "Considering I already admitted that Deku is one helluva hero,",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            344,
+            496,
+            390,
+            565
+        ],
+        "text": "why am I doubting them?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            528,
+            442,
+            566,
+            478
+        ],
+        "text": "Got it...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            808,
+            107,
+            822,
+            188
+        ],
+        "text": "Midoriya...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            108,
+            1015,
+            187
+        ],
+        "text": "Hang in there!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            253,
+            1048,
+            375
+        ],
+        "text": "When I dive in there, you two get out so you don't get caught in the blast!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            398,
+            1079,
+            526
+        ],
+        "text": "The moment when Blackwhip is stretched out is when I strike!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1088,
+            4,
+            1136,
+            163
+        ],
+        "text": "BOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

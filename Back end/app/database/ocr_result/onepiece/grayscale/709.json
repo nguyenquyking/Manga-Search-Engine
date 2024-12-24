@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            13,
+            286,
+            36,
+            404
+        ],
+        "text": "WRBL WRBL!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            214,
+            94,
+            254,
+            185
+        ],
+        "text": "KID...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            340,
+            413,
+            431,
+            478
+        ],
+        "text": "GET LOST,\nSTRAW HATS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            84,
+            403,
+            153
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            660,
+            62,
+            735,
+            186
+        ],
+        "text": "SHE'S\nMINE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            96,
+            1357,
+            123,
+            1437
+        ],
+        "text": "KARUNCH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            622,
+            1301,
+            724,
+            1481
+        ],
+        "text": "...GIBSON\n!!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            216,
+            886,
+            374
+        ],
+        "text": "CAPTAIN\nKID!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            421,
+            851,
+            481
+        ],
+        "text": "GYAAAA",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            941,
+            561,
+            949,
+            614
+        ],
+        "text": "THUMP!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            954,
+            1009,
+            1091,
+            1103
+        ],
+        "text": "BIG\nmom\n?!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            1382,
+            1025,
+            1514
+        ],
+        "text": "WHAAAAT\n?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            791,
+            986,
+            840
+        ],
+        "text": "ZSH...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

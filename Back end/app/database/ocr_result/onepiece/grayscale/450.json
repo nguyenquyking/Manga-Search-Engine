@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            87,
+            533,
+            135,
+            654
+        ],
+        "text": "...COFFEE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            742,
+            575,
+            820
+        ],
+        "text": "DIABLE JAMBE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            484,
+            1223,
+            630
+        ],
+        "text": "GRILL SHOT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1170,
+            222,
+            1232,
+            354
+        ],
+        "text": "TSSSS",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1186,
+            696,
+            1235,
+            837
+        ],
+        "text": "BIEN CUIT:",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            31,
+            263,
+            72,
+            287
+        ],
+        "text": "NO, NO, NO!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            80,
+            105,
+            123
+        ],
+        "text": "I'M STILL ALIVE, GAJA.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            140,
+            39,
+            196,
+            110
+        ],
+        "text": "IF YOU HADN'T BEEN THERE, I WOULD HAVE DIED.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            471,
+            156,
+            578
+        ],
+        "text": "NO APOLOGY COULD EVER BE ENOUGH!! I'M NO LONGER FIT TO BE A SPIRIT GUARDIAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            358,
+            41,
+            441,
+            123
+        ],
+        "text": "THAT'S THANKS TO YOU, GAJA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            292,
+            351,
+            348,
+            390
+        ],
+        "text": "Dwen heh heh!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            275,
+            483,
+            400,
+            584
+        ],
+        "text": "Besides... THE FACT THAT NO ONE IN THE KINGDOM IS HURT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            394,
+            491,
+            472
+        ],
+        "text": "...MAKES ME HAPPIER THAN ANYTHING.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            704,
+            22,
+            855,
+            103
+        ],
+        "text": "...AND BEEN FORCED TO DO WHAT YOU NEVER WANTED TO DO, HURT OTHERS.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            702,
+            281,
+            799,
+            355
+        ],
+        "text": "...YOU HAVE BECOME THIS TWISTED SHAPE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            717,
+            501,
+            873,
+            579
+        ],
+        "text": "I TRIED TO PROTECT THE CITIZENS, THE COUNTRY, EVERYTHING. AS A RESULT...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

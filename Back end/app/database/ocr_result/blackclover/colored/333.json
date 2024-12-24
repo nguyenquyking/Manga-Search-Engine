@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            182,
+            15,
+            263,
+            130
+        ],
+        "text": "The Devil Megicula resides within that land...!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            42,
+            369,
+            275,
+            487
+        ],
+        "text": "The odious one who cursed my beloved Rolope-Chika.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            118,
+            532,
+            196,
+            646
+        ],
+        "text": "Err, no. She's always been like that.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            71,
+            717,
+            175,
+            838
+        ],
+        "text": "Ah! I get it! Is her ultra klutziness also because of the curse?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            197,
+            519,
+            230,
+            550
+        ],
+        "text": "Fuhehe!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            270,
+            635,
+            287,
+            659
+        ],
+        "text": "Wha",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            358,
+            447,
+            393,
+            757
+        ],
+        "text": "Twitter: @ColorClovers",
+        "panel_id": "3",
+        "type": "background_text"
+    },
+    {
+        "text_box": [
+            820,
+            44,
+            859,
+            312
+        ],
+        "text": "Artist: @xCatharsys",
+        "panel_id": "4",
+        "type": "background_text"
+    },
+    {
+        "text_box": [
+            1167,
+            24,
+            1223,
+            84
+        ],
+        "text": "But...!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1131,
+            477,
+            1248,
+            585
+        ],
+        "text": "...We had just come to Diamond Kingdom to scout it out...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

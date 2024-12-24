@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            517,
+            499,
+            551,
+            580
+        ],
+        "text": "Re-Destro...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            551,
+            18,
+            570,
+            124
+        ],
+        "text": "...Trumpet...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            632,
+            306,
+            649,
+            374
+        ],
+        "text": "...Geten...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            834,
+            541,
+            940,
+            696
+        ],
+        "text": "...and other members of the Paranormal Liberation Front in attendance at the assembly...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

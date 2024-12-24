@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            885,
+            647,
+            874,
+            774
+        ],
+        "text": "WHROOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1177,
+            255,
+            1186,
+            372
+        ],
+        "text": "00000",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1251,
+            422,
+            1397,
+            535
+        ],
+        "text": "...THE FIGHT STARTS FOR REAL NOW, HM?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1235,
+            925,
+            1308,
+            1033
+        ],
+        "text": "IN OTHER WORDS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

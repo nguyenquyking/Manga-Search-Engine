@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            46,
+            432,
+            238,
+            704
+        ],
+        "text": "Reverie Arc\nVoyage Record\nCelestial Dragons & Nobles",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            297,
+            60,
+            435,
+            350
+        ],
+        "text": "A mermaid-obsessed\nCelestial Dragon\nwho abuses his\nexcessive power!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            276,
+            422,
+            380,
+            481
+        ],
+        "text": "He wanted to have fun by setting piranhas to hunt a mermaid.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            390,
+            652,
+            576,
+            749
+        ],
+        "text": "Hurt a Celestial Dragon, and a Marine Admiral will come for revenge!\nBut Luffy's righteous anger explodes anyway!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            534,
+            110,
+            625,
+            284
+        ],
+        "text": "Celestial Dragon\nCharlos",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            645,
+            54,
+            706,
+            344
+        ],
+        "text": "A Celestial Dragon who loves tormenting slaves. He tried to buy Camie the mermaid for 500 million Belly.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            610,
+            482,
+            727,
+            602
+        ],
+        "text": "I heard you're stupid. Ha ha...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            632,
+            833,
+            756
+        ],
+        "text": "A noble who lives in Luffy's home-town!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            750,
+            532,
+            918,
+            630
+        ],
+        "text": "When Sabo's parents tire of his wandering ways, they bring in a spare foster son.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            816,
+            68,
+            862,
+            152
+        ],
+        "text": "My name is Stelly. I'm 8 years old.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            172,
+            873,
+            346
+        ],
+        "text": "SHEEN!!!\nPleased to meet you, big brother!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            64,
+            981,
+            145
+        ],
+        "text": "I've heard a lot about you.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            400,
+            1014,
+            565
+        ],
+        "text": "Goa Kingdom Noble\nStelly",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1020,
+            56,
+            1038,
+            486
+        ],
+        "text": "He's smart and puts on a good face, but secretly mocks Sabo.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1065,
+            160,
+            1156,
+            361
+        ],
+        "text": "The Three Brothers Background\nGarp forces young Luffy to live on Mt. Corvo. In those harsh conditions, he meets Ace and Sabo, and the three come to form a brotherly bond.",
+        "panel_id": "7",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1064,
+            390,
+            1170,
+            606
+        ],
+        "text": "Sabaody Background\nThe crew disembarks at Sabaody Archipelago to prepare for the New World. This is where they witness the cruelty of the Celestial Dragons who possess the world's supreme authority!",
+        "panel_id": "7",
+        "type": "narration"
+    }
+]

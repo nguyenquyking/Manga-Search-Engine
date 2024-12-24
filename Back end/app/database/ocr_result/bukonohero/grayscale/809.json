@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            73,
+            66,
+            234,
+            205
+        ],
+        "text": "...I felt there was no turning back, so I poured all my energy into Shoto...at the expense of everything else.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            122,
+            235,
+            210,
+            308
+        ],
+        "text": "But having killed Toya...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            447,
+            481,
+            554,
+            614
+        ],
+        "text": "It got so bad, I even started seeing hints of you in the children's faces.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            626,
+            535,
+            759
+        ],
+        "text": "Once Toya was gone, you grew worse and worse, until I couldn't stand the sight of you.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            115,
+            796,
+            232
+        ],
+        "text": "All I could do was to try to fix things just to keep up appearances.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            596,
+            780,
+            738
+        ],
+        "text": "I knew our family was broken, but I was too scared to interfere.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            139,
+            1048,
+            254
+        ],
+        "text": "You're the root cause. But...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            613,
+            1049,
+            729
+        ],
+        "text": "It was you who started all of this.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

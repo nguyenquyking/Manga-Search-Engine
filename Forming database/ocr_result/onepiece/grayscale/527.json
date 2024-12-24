@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            76,
+            610,
+            178,
+            743
+        ],
+        "text": "BRIDAL GRABBER!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            578,
+            565,
+            619,
+            621
+        ],
+        "text": "KABAM!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            703,
+            651,
+            787,
+            740
+        ],
+        "text": "NOW WE'RE EVEN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            938,
+            60,
+            1114,
+            201
+        ],
+        "text": "He's a certified madman!! Is that burning leg of yours a machine part?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            930,
+            244,
+            1033,
+            385
+        ],
+        "text": "GERMA 66",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            973,
+            568,
+            1102,
+            737
+        ],
+        "text": "Mwa ha ha!! Hey, Judge's son!! I hear all of you kids are cyborgs!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

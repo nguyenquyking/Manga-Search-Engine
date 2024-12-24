@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            30,
+            474,
+            45,
+            518
+        ],
+        "text": "\u2026",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            141,
+            197,
+            154,
+            271
+        ],
+        "text": "KRASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            327,
+            62,
+            349,
+            282
+        ],
+        "text": "DOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            413,
+            683,
+            433,
+            757
+        ],
+        "text": "HMPH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            835,
+            575,
+            906
+        ],
+        "text": "TWIST",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            729,
+            249,
+            736,
+            302
+        ],
+        "text": "WSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            954,
+            212,
+            994,
+            334
+        ],
+        "text": "FLOAT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            958,
+            393,
+            1005,
+            525
+        ],
+        "text": "ROLL\nSNAP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1160,
+            871,
+            1207,
+            944
+        ],
+        "text": "SORRY,\nBUT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1256,
+            755,
+            1345,
+            867
+        ],
+        "text": "...I'M WAY\nSTRONGER\nTHAN LAST\nTIME!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1184,
+            68,
+            1243,
+            166
+        ],
+        "text": "THERE'S\nGOTTA BE A\nWAY...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1177,
+            220,
+            1340,
+            334
+        ],
+        "text": "I NEED TO\nMAKE DIRECT\nCONTACT\nWITHOUT\nGETTING MY\nBLOOD\nSUCKED OR\nWASTING TOO\nMUCH TIME!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

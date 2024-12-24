@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            196,
+            20,
+            513,
+            227
+        ],
+        "text": "GET OUT! GET AWAY FROM LIEBE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            192,
+            1086,
+            484,
+            1219
+        ],
+        "text": "WHO DO YOU THINK YOU ARE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            707,
+            613,
+            837,
+            744
+        ],
+        "text": "She's... absorbing my magic...?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            801,
+            44,
+            885,
+            125
+        ],
+        "text": "No... Don't...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            1060,
+            1005,
+            1218
+        ],
+        "text": "Foolish human. Even if I'm nearly powerless here, a nobody like you could never...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            846,
+            957,
+            978
+        ],
+        "text": "...!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1026,
+            382,
+            1079,
+            500
+        ],
+        "text": "Insolent wretch...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1497,
+            18,
+            1715,
+            227
+        ],
+        "text": "...I'M NOT LETTING GO!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1522,
+            1031,
+            1591,
+            1141
+        ],
+        "text": "THIS TIME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

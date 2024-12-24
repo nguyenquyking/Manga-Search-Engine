@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            301,
+            87,
+            373,
+            517
+        ],
+        "text": "Oda Sensei, the biggest question in the world right now (just getting that out there) is... What kind of chin does Ivankov have?",
+        "panel_id": "1",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            382,
+            89,
+            399,
+            343
+        ],
+        "text": "I am so, so, so curious about this.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            394,
+            422,
+            517
+        ],
+        "text": "--Chiba Peanuts",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            432,
+            88,
+            507,
+            504
+        ],
+        "text": "I see. So you're curious three whole times?\nWell, the answer is that it's a \"fried squid.\" So Iva's got a \"deep fried squid chin\"! (Just making this up off the top of my head.)",
+        "panel_id": "2",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            522,
+            89,
+            585,
+            698
+        ],
+        "text": "At the Tokyo One Piece Tower exhibit, the theme songs \"4 ever don!!!!\" and \"PHANTOM ~Promises~\" by the band GReeeeN are contained on an album titled \"Ure-D.\"",
+        "panel_id": "3",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            594,
+            88,
+            661,
+            383
+        ],
+        "text": "Wait, Ure-\"D\"?! Does this mean that GReeeeN has inherited the will of D?\nI think it does, right?",
+        "panel_id": "3",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            669,
+            89,
+            694,
+            157
+        ],
+        "text": "Right?",
+        "panel_id": "3",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            698,
+            184,
+            718,
+            397
+        ],
+        "text": "--Toppi Fleet Captain Ohta",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            732,
+            87,
+            945,
+            532
+        ],
+        "text": "You're referring to the theme songs from the special show at Tokyo Tower.\nAnd there's a \"D\" in it!! I actually asked Hide from GReeeeN about this myself, and he said the D in Ure-D... is the will of D!!\nWoo, woo, clap-clap-clap. Well, he likes to play along with stuff, so he might have just been saying that to tease me. It's a great album, so check it out if you're able! And if you get the chance, go check out the show at Tokyo One Piece Tower. It runs every single day! Also, I supervised \"Phantom.\" It's really cool.",
+        "panel_id": "4",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            966,
+            86,
+            1032,
+            575
+        ],
+        "text": "I think Brulee is really wonderful, and I'm so smitten with her that I'd like to start a relationship. Do any of the Charlotte Family members marry for love...?",
+        "panel_id": "5",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            1036,
+            495,
+            1056,
+            573
+        ],
+        "text": "--Sakuragi",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1070,
+            84,
+            1116,
+            526
+        ],
+        "text": "I get it. You like the little sister thing!\nJust elope with her!!",
+        "panel_id": "6",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            1146,
+            47,
+            1174,
+            660
+        ],
+        "text": "\u00a9Eiichiro Oda/Shueisha \u30fbFuji TV \u30fbToei Animation \u30fbAmusequest Tokyo Tower LLP\n\u00a9High Speed Boyzinc. All rights reserved. \u30fbGReeeeN Album \"Ure-D\" now on sale. \u30fbUniversal Music/ZEN MUSIC",
+        "panel_id": "7",
+        "type": "copyright"
+    },
+    {
+        "text_box": [
+            1142,
+            706,
+            1167,
+            736
+        ],
+        "text": "122",
+        "panel_id": "7",
+        "type": "page_number"
+    }
+]

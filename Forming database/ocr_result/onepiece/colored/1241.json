@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            44,
+            39,
+            74,
+            516
+        ],
+        "text": "The story of ONE PIECE 1>91",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            51,
+            1247,
+            76,
+            1485
+        ],
+        "text": "Character",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            97,
+            1027,
+            122,
+            1267
+        ],
+        "text": "The Straw Hat Crew",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            153,
+            813,
+            292,
+            1012
+        ],
+        "text": "TonyTony Chopper\nAfter researching powerful medicine in Birdie Kingdom, he reunited with the rest of the crew.\nShip's Doctor, Bounty: 100 belly",
+        "panel_id": "3",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            158,
+            1162,
+            294,
+            1364
+        ],
+        "text": "Monkey D. Luffy\nA young man who dreams of becoming the Pirate King. After training with Rayleigh,\nhe and his crew head for the New World!\nCaptain, Bounty: 1.5 billion belly",
+        "panel_id": "3",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            320,
+            811,
+            457,
+            1012
+        ],
+        "text": "Nico Robin\nShe spent her time in Baltigo with the leader of the Revolutionary Army: Luffy's father, Dragon.\nArcheologist, Bounty: 130 million belly",
+        "panel_id": "4",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            324,
+            1161,
+            458,
+            1363
+        ],
+        "text": "Roronoa Zoro\nHe swallowed his pride and asked to be trained by Mihawk on Gloom Island before\nreuniting with the rest of the crew.\nFighter, Bounty: 320 million belly",
+        "panel_id": "4",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            491,
+            811,
+            633,
+            1010
+        ],
+        "text": "Franky\nHe modified himself in Future Land Baldimore and turned himself into Armored Franky before reuniting with the rest of the crew.\nShipwright, Bounty: 94 million belly",
+        "panel_id": "5",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            495,
+            1161,
+            634,
+            1358
+        ],
+        "text": "Nami\nShe studied the weather of the New World on the small Sky Island Weatheria, a place where weather is studied as a science.\nNavigator, Bounty: 66 million belly",
+        "panel_id": "5",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            669,
+            810,
+            808,
+            1013
+        ],
+        "text": "Brook\nAfter being captured and used as a freak show by the Longarm Tribe, he became a famous rock star called \"Soul King\" Brook.\nMusician, Bounty: 83 million belly",
+        "panel_id": "6",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            668,
+            1162,
+            807,
+            1346
+        ],
+        "text": "Usopp\nHe trained under Heracles at the Bowin Islands to become the King of Snipers.\nSniper, Bounty: 200 million belly",
+        "panel_id": "6",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            847,
+            1161,
+            981,
+            1351
+        ],
+        "text": "Sanji\nAfter fighting the New Kama Karate masters in the Kamabakka Kingdom, he returned to the crew.\nCook, Bounty: 330 million belly",
+        "panel_id": "7",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            872,
+            828,
+            987,
+            983
+        ],
+        "text": "Shanks\nOne of the Four Emperors. Waits for Luffy in the \"New World,\" the second half of the Grand Line.\nCaptain of the Red-Hair Pirates",
+        "panel_id": "7",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1015,
+            60,
+            1140,
+            744
+        ],
+        "text": "Story\nAfter two years of hard training, the Straw Hat pirates are back together, first at the Sabaody Archipelago and then through Fish-Man Island to their next stage: The New World!!\nLuffy and crew head into Big Mom's stronghold and successfully take back Sanji, who was being forced into a political marriage with Big Mom's daughter. They then join forces with Bege in a plot to assassinate Big Mom that ultimately fails, putting them on the run from an angry Big Mom who didn't get to eat her wedding cake. Thanks to Pedro's",
+        "panel_id": "8",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1033,
+            791,
+            1124,
+            1466
+        ],
+        "text": "sacrifice and the help of Jinbe's crew, they escape Whole Cake Island and head for Wano, where the rest of the group waits...\nMeanwhile, the Reverie begins at The Holy Land Mary Geoise. This is a council where various familiar faces and monarchs meet, where the plots of the Marines, Revolutionaries, and World Government intertwine in world-changing ways... At the same time, the advance party under Kin'emon's instructions is busy with a crucial mission...",
+        "panel_id": "8",
+        "type": "narration"
+    }
+]

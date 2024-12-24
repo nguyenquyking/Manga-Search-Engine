@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1428,
+            294,
+            1568,
+            424
+        ],
+        "text": "HOW FEROCIOUS!\nHOW SACRED!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1383,
+            501,
+            1469,
+            632
+        ],
+        "text": "OHHHH!!\nTHE FIRE\nSPIRIT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1400,
+            1492,
+            1718,
+            1715
+        ],
+        "text": "OUR\nCOUNTRIES\nMAY BE\nDIFFERENT,\nBUT OUR\nDESIRE TO\nPROTECT THE\nCITIZENS IS\nTHE SAME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

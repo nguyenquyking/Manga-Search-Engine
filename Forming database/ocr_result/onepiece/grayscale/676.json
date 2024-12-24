@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            53,
+            531,
+            127,
+            631
+        ],
+        "text": "LORD MOMONOSUKE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            312,
+            121,
+            471
+        ],
+        "text": "RUN SHINOBU\nWAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            52,
+            665,
+            124,
+            724
+        ],
+        "text": "FLEE FOR YOUR\nLIFE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            476,
+            7,
+            462,
+            77
+        ],
+        "text": "ZZUKK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            566,
+            79,
+            682,
+            177
+        ],
+        "text": "THE PROBLEM\nWITH\nDEFEAT\nIS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            575,
+            570,
+            670,
+            696
+        ],
+        "text": "FACE\nYOUR DEATH\nLIKE A\nWARRIOR!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            219,
+            841,
+            310
+        ],
+        "text": "RIBBIT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            988,
+            581,
+            1086,
+            709
+        ],
+        "text": "...SO FEW\nCAN ACCEPT\nIT WHEN IT\nARRIVES!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            28,
+            231,
+            43,
+            311
+        ],
+        "text": "\u3058\u3083\u30fc\u3063!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            136,
+            77,
+            584
+        ],
+        "text": "\u300eBUILD KING\u300f\u7279\u5225\u756a\u5916\u7de8",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            140,
+            766,
+            352,
+            807
+        ],
+        "text": "\u5cf6\u888b\u5149\u5e74",
+        "panel_id": "1",
+        "type": "author"
+    },
+    {
+        "text_box": [
+            581,
+            88,
+            754,
+            141
+        ],
+        "text": "\u3068\u3093\u304b\u3061",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            597,
+            815,
+            676,
+            851
+        ],
+        "text": "\u6d77\u8cca\u56e3\u306e\u8239\u9577!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            903,
+            67,
+            1089,
+            108
+        ],
+        "text": "\u8ab0\u3058\u3083\uff1f",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            898,
+            228,
+            1059,
+            299
+        ],
+        "text": "\u307e\u3000\u3059\u3063\u3066\u3000\u3068\u3093\u304b\u3061",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            917,
+            733,
+            1171,
+            905
+        ],
+        "text": "\u3053\u3044\u3064\u3041\u304a\u3081\u30fc\u3089\n\u4e00\u4eba\u3067\u306f\u30c0\u30e1\u306a\u306e\n\u3053\u3093\u306a\u5927\u4e8b\u306a\u8a18\u5ff5\u53f7\u306b",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1195,
+            81,
+            1372,
+            439
+        ],
+        "text": "\u305b\u30fc\u306e\u3063!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            67,
+            133,
+            160,
+            205
+        ],
+        "text": "He will be of great service to us!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            220,
+            156,
+            370
+        ],
+        "text": "I'm glad to hear it. He's got some fascinating sorcery at his command, Sir Luffytaro.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            414,
+            160,
+            524
+        ],
+        "text": "What?! I mean, what... A generous offer! Thank you, sir!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            574,
+            156,
+            701
+        ],
+        "text": "Well... Okay! As long as you've changed.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            171,
+            566,
+            182,
+            599
+        ],
+        "text": "Ack!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            302,
+            344,
+            364,
+            486
+        ],
+        "text": "Is this a trap or something? That was too easy! Now I'm worried...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            429,
+            40,
+            577,
+            225
+        ],
+        "text": "That the Red Scabbards samurai are still alive... That the son of Oden, Kozuki Momonosuke, is still alive!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            624,
+            35,
+            730,
+            202
+        ],
+        "text": "That the fire of rebellion still burns... The sparks have not gone out!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            444,
+            547,
+            535,
+            700
+        ],
+        "text": "I... I was so close. I nearly accepted my death...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            538,
+            728,
+            699
+        ],
+        "text": "I gave up my life for lost! And if any of this had happened a moment too late, I might have died not knowing the truth...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            39,
+            916,
+            181
+        ],
+        "text": "This man was once the greatest Yakuza boss in all of Wano!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            816,
+            204,
+            910,
+            302
+        ],
+        "text": "We could not ask for a better man, Sir Luffy.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            831,
+            346,
+            943,
+            503
+        ],
+        "text": "There must be something I can do!! Please let me give you my assistance!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            820,
+            559,
+            950,
+            684
+        ],
+        "text": "Raizo, Straw Hat fellow... I know that I am old, but there is life in me yet!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            173,
+            924,
+            211
+        ],
+        "text": "Bam!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1051,
+            328,
+            1063,
+            386
+        ],
+        "text": "Beng!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1062,
+            141,
+            1140,
+            281
+        ],
+        "text": "Wow, really?! So this old fart was great in the past!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1072,
+            23,
+            1124,
+            101
+        ],
+        "text": "Old fart?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

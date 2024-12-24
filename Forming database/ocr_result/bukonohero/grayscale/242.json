@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            68,
+            38,
+            145,
+            175
+        ],
+        "text": "HE MAKES HIS REQUESTS AND WE OBEY... THAT'S ALL.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            322,
+            117,
+            403
+        ],
+        "text": "WE... KNOW NOTHING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            34,
+            473,
+            131,
+            615
+        ],
+        "text": "SADLY, WE'RE STILL STRUGGLING TO RESTORE LAW AND ORDER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            217,
+            461,
+            333,
+            597
+        ],
+        "text": "...SO YOU NEED TO TELL US EVERY LAST THING YOU KNOW ABOUT ALL FOR ONE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            90,
+            496,
+            135
+        ],
+        "text": "KILL YOU?\nHOW?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            518,
+            308,
+            554,
+            362
+        ],
+        "text": "WE'RE DEAD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            362,
+            500,
+            436
+        ],
+        "text": "IF WE LIE TO HIM...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            588,
+            580,
+            727
+        ],
+        "text": "SHOULD WE FAIL?\nHE'LL KILL US.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            21,
+            836,
+            99
+        ],
+        "text": "...SO THEY COULDN'T ESCAPE HIM...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            706,
+            110,
+            832,
+            185
+        ],
+        "text": "THEY WERE KILLED SOON AFTER LEAVING PRISON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            691,
+            208,
+            800,
+            324
+        ],
+        "text": "IT WAS SOME LACKEY WHO SURRENDERED TO THE POLICE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            755,
+            580,
+            809,
+            695
+        ],
+        "text": "HE GAVE US A DEMONSTRATION...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            788,
+            404,
+            859,
+            506
+        ],
+        "text": "...OF WHAT HAPPENS TO THOSE WHO DEFY HIM.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            968,
+            224,
+            1041,
+            313
+        ],
+        "text": "WHEREVER WE RUN,\nHE'LL FIND US...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1025,
+            99,
+            1078,
+            201
+        ],
+        "text": "...AND MAKE US FACE OUR DOOM!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

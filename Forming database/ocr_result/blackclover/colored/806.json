@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            177,
+            210,
+            401,
+            313
+        ],
+        "text": "...But I can't sense magic, so I can't really tell!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            238,
+            650,
+            351,
+            769
+        ],
+        "text": "You're probably incredibly awesome and all...",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

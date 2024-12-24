@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            32,
+            56,
+            133,
+            205
+        ],
+        "text": "If only those millet dumplings worked on anything but Smile users!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            247,
+            152,
+            344
+        ],
+        "text": "How tough are these dinosaur Zoans, anyway?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            198,
+            253,
+            255,
+            337
+        ],
+        "text": "I'll rip that nose off!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            518,
+            121,
+            590
+        ],
+        "text": "AAAAH! He's on his feet again!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            28,
+            657,
+            77,
+            723
+        ],
+        "text": "Weez, Weez...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            212,
+            631,
+            256,
+            681
+        ],
+        "text": "HAKK!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            350,
+            596,
+            452,
+            715
+        ],
+        "text": "Come on out, kid!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            62,
+            1116,
+            161
+        ],
+        "text": "Big Mom?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            967,
+            269,
+            991,
+            302
+        ],
+        "text": "Ah.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            604,
+            1087,
+            730
+        ],
+        "text": "Whaaat?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

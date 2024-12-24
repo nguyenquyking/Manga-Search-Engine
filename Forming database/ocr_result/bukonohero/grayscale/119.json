@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            689,
+            112,
+            798,
+            228
+        ],
+        "text": "I used to think you were so cool...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            87,
+            1032,
+            203
+        ],
+        "text": "...Eraser Head.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            235,
+            1007,
+            362
+        ],
+        "text": "You turned out to be quite the letdown...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1120,
+            48,
+            1136,
+            203
+        ],
+        "text": "To be continued!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

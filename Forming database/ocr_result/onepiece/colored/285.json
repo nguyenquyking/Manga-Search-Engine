@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            93,
+            710,
+            169,
+            834
+        ],
+        "text": "WAAHHH!!\nIT'S KING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            141,
+            631,
+            262
+        ],
+        "text": "DAMN IT!\nYOU'RE ALWAYS SUCH A PAIN\nIN THE ASS,\nMOSS-HEAD!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            551,
+            414,
+            627,
+            521
+        ],
+        "text": "AAAH!!\nLEAVE US BE,\nWHIPPER-\nSNAPPER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            670,
+            726,
+            746
+        ],
+        "text": "FWOOSH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            834,
+            705,
+            925,
+            824
+        ],
+        "text": "IMMORTAL\nTHISTLE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            82,
+            1019,
+            196
+        ],
+        "text": "ANDON-\nDIVINE\nFLAME!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

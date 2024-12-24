@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            111,
+            132,
+            234,
+            294
+        ],
+        "text": "GAH! I can't get in touch with Todoroki either!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            651,
+            252,
+            739,
+            377
+        ],
+        "text": "I think we oughta go after them too...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            649,
+            575,
+            769,
+            693
+        ],
+        "text": "Seems like comm signals are down in a certain area.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            792,
+            708,
+            943
+        ],
+        "text": "Not since he said he'd drag the lockdown boys back!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            133,
+            1008,
+            270
+        ],
+        "text": "What's going on in this country?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            941,
+            711,
+            1005,
+            840
+        ],
+        "text": "This news alert can't be real!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            921,
+            862,
+            988,
+            937
+        ],
+        "text": "Whoa! What the-?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1187,
+            143,
+            1373,
+            383
+        ],
+        "text": "KZZT\n...Begin evacuating the affected areas.\nKZZT",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1210,
+            862,
+            1277,
+            951
+        ],
+        "text": "May we listen in?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

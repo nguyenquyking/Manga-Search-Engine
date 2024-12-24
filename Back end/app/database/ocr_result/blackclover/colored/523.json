@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            124,
+            291,
+            175,
+            446
+        ],
+        "text": "THIS MAGIC...!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            125,
+            589,
+            150,
+            647
+        ],
+        "text": "Uu...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            175,
+            1044,
+            238,
+            1197
+        ],
+        "text": "LADY TETIA...!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            642,
+            575,
+            753,
+            685
+        ],
+        "text": "She's... She's still alive!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            631,
+            36,
+            818,
+            252
+        ],
+        "text": "The twins she's carrying\u2014one of them survived too!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1001,
+            74,
+            1139,
+            293
+        ],
+        "text": "HER LIFE WAS SAVED!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1007,
+            415,
+            1093,
+            639
+        ],
+        "text": "BUT SHE LIVED...!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1001,
+            723,
+            1125,
+            933
+        ],
+        "text": "...and raced to Prince Lumiere's side.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1032,
+            1001,
+            1158,
+            1205
+        ],
+        "text": "I immediately sealed Lady Tetia's wounds...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1465,
+            722,
+            1652,
+            877
+        ],
+        "text": "I didn't know what had become of Lady Tetia.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1465,
+            1043,
+            1682,
+            1223
+        ],
+        "text": "After that, when I woke as a bird, many years had passed.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

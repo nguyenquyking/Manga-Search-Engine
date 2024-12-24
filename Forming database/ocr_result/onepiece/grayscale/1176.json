@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            340,
+            110,
+            452,
+            251
+        ],
+        "text": "ARE THOSE ALL FLYING DEVIL FRUITS?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            128,
+            1512,
+            231,
+            1642
+        ],
+        "text": "GUESS THIS ISN'T GOING TO BE THAT EASY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            1815,
+            340,
+            2028
+        ],
+        "text": "IT'S THE STRAW HAT CREW!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            424,
+            1766,
+            508,
+            1887
+        ],
+        "text": "JUST GOTTA GET UP!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            823,
+            1027,
+            974
+        ],
+        "text": "OKAY,\nONE MORE\nTIME!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1233,
+            441,
+            1315,
+            588
+        ],
+        "text": "WE GOT THIS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1268,
+            851,
+            1340,
+            987
+        ],
+        "text": "RAAAAH\n!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1257,
+            1143,
+            1452,
+            1335
+        ],
+        "text": "YOU GUYS\nHANDLE\nTHE REST!!\nWATCH MY\nBACK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1216,
+            1857,
+            1452,
+            2051
+        ],
+        "text": "I'M\nGOING\nUP TO\nTAKE OUT\nKAIDO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

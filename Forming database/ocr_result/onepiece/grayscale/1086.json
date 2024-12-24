@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            102,
+            851,
+            204,
+            957
+        ],
+        "text": "What do you think you're doing?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            113,
+            643,
+            326
+        ],
+        "text": "...Two-Sword Style!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            1124,
+            560,
+            1279
+        ],
+        "text": "Oden",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            532,
+            1441,
+            644,
+            1569
+        ],
+        "text": "We have our own styles of fighting!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            564,
+            1627,
+            617,
+            1708
+        ],
+        "text": "No, thank you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            1749,
+            617,
+            1864
+        ],
+        "text": "C'mon, I'll teach you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            1911,
+            603,
+            2062
+        ],
+        "text": "Huff!! Huff!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1009,
+            1439,
+            1139,
+            1614
+        ],
+        "text": "A great big fight over who would be your foremost disciple.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1027,
+            1668,
+            1121,
+            1810
+        ],
+        "text": "Hee hee! Because they would have fought.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1000,
+            1859,
+            1144,
+            2039
+        ],
+        "text": "But Oden two-sword style is the greatest there is! Why won't they learn it?!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1398,
+            1446,
+            1528,
+            1633
+        ],
+        "text": "They love you so much, they would have killed each other.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

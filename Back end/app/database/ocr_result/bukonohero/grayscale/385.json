@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            70,
+            52,
+            171,
+            187
+        ],
+        "text": "My nation's hero, Salaam, is quickly losing patience. He has taken to muttering, \"I will flatten that all for one...\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            506,
+            195,
+            712
+        ],
+        "text": "Even so, we cannot disregard this earnest plea from Endeavor, Hawks, and most notably, All Might.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            338,
+            200,
+            399,
+            279
+        ],
+        "text": "Hmm, on that note...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            425,
+            314,
+            514,
+            446
+        ],
+        "text": "He questions why aiding a friend must involve so much red tape.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            586,
+            428,
+            712
+        ],
+        "text": "The same goes for our hero, Big Red Dot.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            22,
+            703,
+            120
+        ],
+        "text": "...Couldn't sit around any longer.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            644,
+            260,
+            659,
+            306
+        ],
+        "text": "She...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            654,
+            549,
+            714,
+            628
+        ],
+        "text": "Ours already left.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            55,
+            1001,
+            158
+        ],
+        "text": "She skipped out on everything and just flew off.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

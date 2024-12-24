@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            99,
+            62,
+            194,
+            171
+        ],
+        "text": "You bet, Boss! Is there a problem?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            617,
+            228,
+            727
+        ],
+        "text": "Hey! Hey, new guy!! Is this your work up here?! Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            589,
+            385,
+            730
+        ],
+        "text": "You got that right!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            572,
+            720,
+            743
+        ],
+        "text": "It's perfect, widda capital P! I'm payin' you a compliment, so take it, ya scoundrel!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            188,
+            936,
+            296
+        ],
+        "text": "Much obliged, Boss!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            72,
+            1045,
+            156
+        ],
+        "text": "Carpenter Franosuke",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            996,
+            199,
+            1092,
+            281
+        ],
+        "text": "Ya cantankerous old",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            623,
+            1062,
+            739
+        ],
+        "text": "Of course it's per... I mean, you bet!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

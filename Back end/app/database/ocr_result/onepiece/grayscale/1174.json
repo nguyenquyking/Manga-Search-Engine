@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            537,
+            108,
+            673,
+            184
+        ],
+        "text": "DOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            857,
+            89,
+            945,
+            229
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            808,
+            781,
+            894,
+            1006
+        ],
+        "text": "Doesn't seem like we can get up there at all!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1432,
+            761,
+            1524,
+            982
+        ],
+        "text": "They've got the sky totally blocked off!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

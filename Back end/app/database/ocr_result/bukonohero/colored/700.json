@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            672,
+            292,
+            789,
+            439
+        ],
+        "text": "The capsule... will probably activate him.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            711,
+            495,
+            793,
+            581
+        ],
+        "text": "Mirko!\nYou're alive!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            806,
+            796,
+            930
+        ],
+        "text": "Listen up, people!\nShigaraki is in that capsule back there.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            407,
+            860,
+            842
+        ],
+        "text": "Hff\nHff\nHff",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            834,
+            169,
+            972,
+            360
+        ],
+        "text": "Just like how these things woke up from a zap of electricity!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1128,
+            698,
+            1405,
+            912
+        ],
+        "text": "Don't let Shigaraki wake up!\nHe's not just some small-time thug! Not anymore!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1359,
+            10,
+            1464,
+            213
+        ],
+        "text": "Oh no!!\nMy body still hasn't come back to life.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

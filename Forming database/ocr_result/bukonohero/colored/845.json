@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            483,
+            99,
+            503,
+            172
+        ],
+        "text": "STOP!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            664,
+            478,
+            738
+        ],
+        "text": "TENKO!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            88,
+            1043,
+            192
+        ],
+        "text": "YES, IN THAT MOMENT...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

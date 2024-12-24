@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            62,
+            211,
+            150,
+            306
+        ],
+        "text": "\"He's got a deleter round!\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            230,
+            174,
+            342,
+            264
+        ],
+        "text": "That's all I needed to hear, Ryukyu.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            729,
+            324,
+            805,
+            441
+        ],
+        "text": "...I can handle this...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            772,
+            799,
+            894
+        ],
+        "text": "Thanks to your warning...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1114,
+            258,
+            1167,
+            443
+        ],
+        "text": "...nice and rationally...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1263,
+            60,
+            1317,
+            255
+        ],
+        "text": "...without any hesitation.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            12,
+            84,
+            104,
+            296
+        ],
+        "text": "KLAK KLAK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            75,
+            30,
+            294,
+            847
+        ],
+        "text": "That's why I handpicked the most battle-crazed villains!\nEven preparing those candidates took immense effort!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            463,
+            26,
+            526,
+            154
+        ],
+        "text": "But please try your hardest!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            179,
+            563,
+            322
+        ],
+        "text": "I'm so sorry for cutting and running, my little ones!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            342,
+            629,
+            496
+        ],
+        "text": "At this point, only woman and the other four had any sort of trial run, and just barely at that!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            463,
+            549,
+            606,
+            700
+        ],
+        "text": "Without all for one's power, producing more high-ends is an uphill battle!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            462,
+            726,
+            669,
+            887
+        ],
+        "text": "Artificially transplanting a quirk involves complex surgery and at least three months to fully take root.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            852,
+            9,
+            1063,
+            166
+        ],
+        "text": "While you five are doing your best out there...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            852,
+            169,
+            941,
+            281
+        ],
+        "text": "In which case...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            905,
+            361,
+            931,
+            483
+        ],
+        "text": "KLAK KLAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            835,
+            497,
+            940,
+            626
+        ],
+        "text": "...Shigaraki and I have no way to flee this place!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            848,
+            780,
+            975,
+            891
+        ],
+        "text": "Now that I've lost Johnny's \"Warp\" and Mocha's \"Double\"...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1010,
+            747,
+            1050,
+            792
+        ],
+        "text": "Buh-bye.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1257,
+            661,
+            1363,
+            731
+        ],
+        "text": "We were already dead, actually.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1315,
+            364,
+            1346,
+            599
+        ],
+        "text": "COMPLETION STATUS\n70%",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            100,
+            667,
+            121,
+            725
+        ],
+        "text": "You...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            224,
+            171,
+            291
+        ],
+        "text": "All Might...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            179,
+            331,
+            233,
+            414
+        ],
+        "text": "Haven't been eating!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            636,
+            403,
+            697
+        ],
+        "text": "You...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            139,
+            803,
+            279
+        ],
+        "text": "...Don't have to tag along anymore. I'm fine.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            938,
+            60,
+            1047,
+            199
+        ],
+        "text": "Now it's...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            996,
+            357,
+            1014,
+            418
+        ],
+        "text": "Really.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1072,
+            273,
+            1095,
+            319
+        ],
+        "text": "I'm...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

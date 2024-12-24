@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            57,
+            365,
+            84,
+            434
+        ],
+        "text": "AMAZING!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            131,
+            66,
+            212,
+            155
+        ],
+        "text": "MADE IT OUT!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            176,
+            311,
+            224,
+            443
+        ],
+        "text": "WE ACTUALLY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            392,
+            628,
+            409,
+            700
+        ],
+        "text": "THAT'S...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            688,
+            622,
+            747,
+            666
+        ],
+        "text": "HM-MM",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            503,
+            888,
+            612
+        ],
+        "text": "YOU THINK YOU CAN EAT US NOW THAT WE'RE AT SEA, EH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            1023,
+            1060,
+            1087
+        ],
+        "text": "ROAR",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

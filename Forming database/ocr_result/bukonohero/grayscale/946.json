@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            499,
+            264,
+            590,
+            461
+        ],
+        "text": "MY HERO\nACADEMIA\nNO. 293:\nHERO-SATURATED SOCIETY",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            873,
+            30,
+            996,
+            172
+        ],
+        "text": "Y'see, the villain hideout that the Nighteye Agency is keeping tabs on isn't far from here!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            959,
+            286,
+            1102,
+            450
+        ],
+        "text": "We got word from the villa about what's happening, so I rushed over using my special permeation mode of travel!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1024,
+            490,
+            1075,
+            597
+        ],
+        "text": "You're here, Lemillion... but how?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

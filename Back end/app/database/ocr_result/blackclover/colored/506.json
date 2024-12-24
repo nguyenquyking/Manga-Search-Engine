@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            316,
+            60,
+            377,
+            160
+        ],
+        "text": "...I NEVER WILL.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            253,
+            624,
+            412,
+            729
+        ],
+        "text": "EVEN IF GOD AND THE DEVILS FORGIVE THEM...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            787,
+            64,
+            825,
+            107
+        ],
+        "text": "AND SO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            321,
+            877,
+            390
+        ],
+        "text": "I KNOW MY OWN LIMITS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            958,
+            267,
+            1047,
+            330
+        ],
+        "text": "I CAN DO MY BEST, BUT NO MORE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            642,
+            961,
+            727
+        ],
+        "text": "THAT SAID, I CAN'T DEFEAT THE DARK TRIAD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            109,
+            415,
+            264,
+            702
+        ],
+        "text": "UGK\u5be9\u67fb\u59d4\u54e1\u9577",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            247,
+            577,
+            351,
+            689
+        ],
+        "text": "\u5fc5\u305a\u30a4\u30e9\u30b9\u30c8\u3084\u5199\u771f\u306e\u88cf\u306b\n\u76f4\u63a5\u3001\u6c0f\u540d(P.N.)\n\u5e74\u9f62\u30fb\u96fb\u8a71\u756a\u53f7\u3092\n\u66f8\u304d\u8fbc\u3093\u3067\u304f\u308c!!\nP.N.\u8868\u8a18\u306f\u3001\n\u306f\u3063\u304d\u308a!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            368,
+            154,
+            547,
+            659
+        ],
+        "text": "\u30ef\u30ce\u56fd\u306e\u6226\u3046\u5973\u9054!!",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            456,
+            34,
+            487,
+            204
+        ],
+        "text": "SPADE",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            837,
+            116,
+            846,
+            268
+        ],
+        "text": "\u30b9\u30da\u30fc\u30c9\u6d77\u8cca\u56e3\u3001\n\u8239\u9577\u3042\u308a\u3057\u65e5\u306e\u59ff!!",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1122,
+            147,
+            1143,
+            335
+        ],
+        "text": "\u7d30\u304b\u3044!! \u307f\u3093\u306a\u5bb6\u65cf!!",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1122,
+            514,
+            1146,
+            707
+        ],
+        "text": "\u307e\u305f\u4f1a\u3048\u308b\u304b\u306a\uff1f\n\u7b2c\u4e09\u306e\u76ee\u304b\u3089\u30ad\u30e9\u30ea\u3068\u6d99\u3002",
+        "panel_id": "5",
+        "type": "caption"
+    }
+]

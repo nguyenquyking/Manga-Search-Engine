@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            1071,
+            178,
+            1070,
+            250
+        ],
+        "text": "FWOOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            885,
+            332,
+            1027,
+            466
+        ],
+        "text": "Well, U.S.A.? Who will be the first to tag the other?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

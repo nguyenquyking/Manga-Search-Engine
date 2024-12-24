@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            81,
+            49,
+            146,
+            146
+        ],
+        "text": "Oh yeah, Fat was saying something like that!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            182,
+            306,
+            314,
+            449
+        ],
+        "text": "As such, I have requested help from heroes familiar with that line of work.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            117,
+            731,
+            191,
+            878
+        ],
+        "text": "We have reason to believe that the Eightfold Cleansers...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            204,
+            623,
+            289,
+            771
+        ],
+        "text": "have made the dispersal of unlicensed goods part of their livelihood.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            123,
+            507,
+            301
+        ],
+        "text": "Then, yesterday, in Red Riot's debut battle!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            544,
+            47,
+            657,
+            193
+        ],
+        "text": "Tamaki was shot by somethin' new, the likes we ain't never seen!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            465,
+            723,
+            543,
+            872
+        ],
+        "text": "Long ago we smashed those kinda things to pieces!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            802,
+            60,
+            919,
+            210
+        ],
+        "text": "That erases quirks.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            845,
+            711,
+            876,
+            875
+        ],
+        "text": "A drug...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

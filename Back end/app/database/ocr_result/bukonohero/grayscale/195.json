@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            65,
+            29,
+            171,
+            163
+        ],
+        "text": "WHICH IS WHY WE NEED A STRATEGY TO MAKE THAT HAPPEN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            36,
+            328,
+            69,
+            390
+        ],
+        "text": "FAIR ENOUGH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            427,
+            111,
+            512
+        ],
+        "text": "EASIER SAID THAN DONE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            616,
+            188,
+            722
+        ],
+        "text": "OH, IS THAT ALL? PRETTY OPTIMISTIC THINKING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            141,
+            401,
+            246
+        ],
+        "text": "YOU MEAN AOYAMA?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            52,
+            809,
+            194
+        ],
+        "text": "AND THE FACT REMAINS THAT HE TURNED HIS BACK ON DECENT SOCIETY.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            644,
+            221,
+            769,
+            340
+        ],
+        "text": "I SYMPATHIZE, BUT WE'RE WEIGHING OUR OWN FEELINGS AGAINST THE FATE OF THE WORLD.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            594,
+            406,
+            656,
+            497
+        ],
+        "text": "THE BOY IS STILL IN TURMOIL.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            953,
+            157,
+            1061,
+            285
+        ],
+        "text": "BASED ON MY POSITION, I HAVE NO CHOICE BUT TO PROCEED WITH CAUTION.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            901,
+            383,
+            1051,
+            496
+        ],
+        "text": "BORN QUIRKLESS, HIS VERY LIFE WAS EXPLOITED AS A RESOURCE.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

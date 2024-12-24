@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            96,
+            60,
+            194,
+            175
+        ],
+        "text": "JUST GET AWAY FROM ME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            269,
+            100,
+            315
+        ],
+        "text": "...ON ME!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            469,
+            117,
+            548
+        ],
+        "text": "ENOUGH... STOP WASTING EFFORT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            684,
+            409,
+            717
+        ],
+        "text": "KRAK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            537,
+            160,
+            654,
+            279
+        ],
+        "text": "MIDORIYA! WE GET THAT ONE FOR ALL IS REALLY IMPORTANT, BUT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            629,
+            53,
+            746,
+            155
+        ],
+        "text": "...YOU GOT SOMETHING EVEN MORE IMPORTANT IN YOUR LIFE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            535,
+            535,
+            613,
+            646
+        ],
+        "text": "NOT A CHANCE, PAL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            165,
+            1020,
+            263
+        ],
+        "text": "EVEN IF WE GOTTA FORCE THIS FRIENDSHIP DOWN YOUR THROAT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            278,
+            946,
+            389
+        ],
+        "text": "ME AND YOU, WE AIN'T GOT A TON IN COMMON, BUT YOU'RE STILL A FRIEND!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1053,
+            522,
+            1064,
+            558
+        ],
+        "text": "GRAP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

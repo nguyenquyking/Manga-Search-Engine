@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            151,
+            541,
+            211,
+            724
+        ],
+        "text": "LASER!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            607,
+            20,
+            693,
+            142
+        ],
+        "text": "We could've been killed, time after time.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            605,
+            409,
+            673,
+            521
+        ],
+        "text": "...lets me refract light.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            569,
+            620,
+            589,
+            691
+        ],
+        "text": "My body...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            6,
+            1014,
+            104
+        ],
+        "text": "...is, like, totally messed up...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            905,
+            246,
+            983,
+            307
+        ],
+        "text": "And now, all of Japan...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

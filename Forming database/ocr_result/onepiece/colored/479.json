@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            76,
+            57,
+            159,
+            141
+        ],
+        "text": "I got the report while on the ship.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            162,
+            158,
+            287
+        ],
+        "text": "...Something happened just after we left.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            337,
+            151,
+            437
+        ],
+        "text": "Following the close of the Reverie...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            558,
+            199,
+            733
+        ],
+        "text": "Now, this is a bit late in coming... but there's one thing that happened that I haven't told you about yet.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            67,
+            556,
+            213
+        ],
+        "text": "...But for now, I beg of you... Don't be fearful of the surface, and of human beings!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            600,
+            535,
+            741
+        ],
+        "text": "The Marines are using their full resources to resolve the matter...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1036,
+            63,
+            1088,
+            169
+        ],
+        "text": "Princess Vivi?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            182,
+            1059,
+            240
+        ],
+        "text": "What",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            589,
+            1092,
+            728
+        ],
+        "text": "The incident is regarding the Kingdom of Alabasta.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

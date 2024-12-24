@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            163,
+            99,
+            291,
+            281
+        ],
+        "text": "WAITERS!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            132,
+            627,
+            278,
+            808
+        ],
+        "text": "LEMME HEAR IT IF Y'ALL ARE FEELIN' IT!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            675,
+            600,
+            852
+        ],
+        "text": "WOOOOO!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            197,
+            985,
+            474,
+            1205
+        ],
+        "text": "OKAY, ONIGA-SHIMA!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            218,
+            2117,
+            451,
+            2472
+        ],
+        "text": "FUNKY!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            695,
+            212,
+            819,
+            586
+        ],
+        "text": "WAITERS\nTHOSE AWAITING SMILE FRUITS",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            971,
+            87,
+            1088,
+            197
+        ],
+        "text": "GYA HA\nHA HA\nHA!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            925,
+            680,
+            1048,
+            888
+        ],
+        "text": "PLEASURES!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1163,
+            199,
+            1305,
+            634
+        ],
+        "text": "PLEASURES\nTHOSE WHO LOST THE BET AND LAUGH",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1449,
+            120,
+            1626,
+            327
+        ],
+        "text": "GIFTERS!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1676,
+            445,
+            1873,
+            952
+        ],
+        "text": "GIFTERS\nTHOSE BLESSED WITH POWERS",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

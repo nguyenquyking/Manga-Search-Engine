@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            719,
+            5,
+            845,
+            119
+        ],
+        "text": "NOT DONE YET!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            683,
+            335,
+            1138,
+            431
+        ],
+        "text": "ARGHHHHH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            753,
+            619,
+            748,
+            653
+        ],
+        "text": "TOMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            997,
+            630,
+            1032,
+            706
+        ],
+        "text": "CRAMPED IN HERE.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

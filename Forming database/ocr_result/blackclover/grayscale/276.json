@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            256,
+            165,
+            324,
+            267
+        ],
+        "text": "So you decided to come back after all,",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            284,
+            849,
+            331,
+            931
+        ],
+        "text": "Welcome home, Gordon.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            174,
+            496,
+            357
+        ],
+        "text": "Father: Nathan",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            606,
+            534,
+            632,
+            710
+        ],
+        "text": "Mother: Jonna",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            852,
+            710,
+            899,
+            866
+        ],
+        "text": "Little Sister: Roxanne",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            916,
+            309,
+            937,
+            513
+        ],
+        "text": "Grandma: Nilenia",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1145,
+            126,
+            1449,
+            301
+        ],
+        "text": "They all have the same face!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

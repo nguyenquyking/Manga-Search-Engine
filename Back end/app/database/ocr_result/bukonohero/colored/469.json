@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            17,
+            493,
+            178,
+            868
+        ],
+        "text": "SMASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1099,
+            65,
+            1126,
+            191
+        ],
+        "text": "Sense!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1295,
+            463,
+            1323,
+            583
+        ],
+        "text": "Sense!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1330,
+            674,
+            1360,
+            764
+        ],
+        "text": "Urgh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

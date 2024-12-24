@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            91,
+            633,
+            180,
+            733
+        ],
+        "text": "OKOBORE TOWN,\nKURI,\nWANO...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            468,
+            247,
+            564,
+            323
+        ],
+        "text": "THAT WORKED\nSUSPICIOUSLY\nFAST!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            66,
+            583,
+            191
+        ],
+        "text": "WELL, THE EVIL-PURGING\nHERB IS A VERY EFFECTIVE\nMEDICINE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            530,
+            586,
+            623
+        ],
+        "text": "Wow,\nI REALLY APPRECIATE\nIT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            646,
+            572,
+            747
+        ],
+        "text": "HEY, I'M ALL BETTER\nNOW!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            994,
+            54,
+            1119,
+            194
+        ],
+        "text": "SO YOU MUSTN'T DRINK\nTHE RIVER WATER ANYMORE,\nOTAMA.\nUNDERSTAND?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1002,
+            613,
+            1106,
+            728
+        ],
+        "text": "BUT IT HASN'T COMPLETELY\nREMOVED THE POISON FROM\nYOUR BODY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

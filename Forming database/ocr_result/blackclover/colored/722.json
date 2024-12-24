@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            97,
+            39,
+            274,
+            239
+        ],
+        "text": "NOW!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            278,
+            1199,
+            367,
+            1268
+        ],
+        "text": "ZZUUU",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            838,
+            7,
+            851,
+            320
+        ],
+        "text": "Twitter: @OfficialEaero",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            874,
+            221,
+            984,
+            538
+        ],
+        "text": "GIVE ME\nSTRENGTH...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1382,
+            8,
+            1568,
+            328
+        ],
+        "text": "@ColorClovers\nONCE\nMORE",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1931,
+            1144,
+            1872,
+            1249
+        ],
+        "text": "VAVUMM",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2064,
+            97,
+            2023,
+            254
+        ],
+        "text": "BASSSSSH",
+        "panel_id": "7",
+        "type": "sound_effect"
+    }
+]

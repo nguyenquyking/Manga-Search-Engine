@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            82,
+            108,
+            146,
+            224
+        ],
+        "text": "Make sure the sick get some too!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            304,
+            168,
+            414
+        ],
+        "text": "Hey, there's enough for everyone here!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            465,
+            130,
+            563
+        ],
+        "text": "And still fresh!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            601,
+            124,
+            686
+        ],
+        "text": "Look, apples!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            170,
+            15,
+            202,
+            80
+        ],
+        "text": "Yay!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            418,
+            51,
+            504,
+            159
+        ],
+        "text": "...Couldn't disobey their empty stomachs!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            193,
+            505,
+            308
+        ],
+        "text": "But the impoverished people of the leftover town...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            402,
+            354,
+            516,
+            483
+        ],
+        "text": "After the first few times, anyone would figure out...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            403,
+            580,
+            490,
+            666
+        ],
+        "text": "These sure are good apples!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            164,
+            574,
+            285
+        ],
+        "text": "AHA HA HA HA HA HA",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            710,
+            354,
+            776,
+            485
+        ],
+        "text": "...Just what kind of fruits they were...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            870,
+            46,
+            954,
+            182
+        ],
+        "text": "...Where every last person is bright and cheerful...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            903,
+            249,
+            954,
+            382
+        ],
+        "text": "WAHAHAHAHAHAHA",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1020,
+            40,
+            1135,
+            223
+        ],
+        "text": "It might look happy at a glance, but it's a tragic place where children can't even mourn their parents' deaths...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            879,
+            509,
+            966,
+            637
+        ],
+        "text": "And that's how Ebisu Town came to be a place...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

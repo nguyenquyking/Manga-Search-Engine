@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            94,
+            54,
+            186,
+            158
+        ],
+        "text": "WHO IS THAT CARPENTER?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            99,
+            250,
+            105,
+            279
+        ],
+        "text": "GYAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            291,
+            55,
+            343,
+            135
+        ],
+        "text": "GYAAAA!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            283,
+            430,
+            333,
+            526
+        ],
+        "text": "STRONG RIGHT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            595,
+            484,
+            722
+        ],
+        "text": "WHY DON'T OUR GUNS WORK?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            72,
+            624,
+            152
+        ],
+        "text": "WE WON'T LET 'EM DISGRACE",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            572,
+            192,
+            619,
+            275
+        ],
+        "text": "DON'T WORRY!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            589,
+            299,
+            651,
+            400
+        ],
+        "text": "THEY JUST STOLE LORD YASUIE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            567,
+            431,
+            654,
+            523
+        ],
+        "text": "WHAT'S HAPPENING OUT THERE?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            576,
+            647,
+            646,
+            736
+        ],
+        "text": "WHO ARE THOSE GUYS?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            582,
+            931,
+            691
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

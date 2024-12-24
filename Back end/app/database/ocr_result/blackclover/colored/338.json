@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            76,
+            800,
+            247,
+            889
+        ],
+        "text": "If it was based on just fighting power, you would be about a Tier 6, but...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            163,
+            455,
+            331,
+            580
+        ],
+        "text": "You both possess incomprehensible power...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            648,
+            448,
+            736
+        ],
+        "text": "Nero, who uses forbidden magic and sealing magic...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            617,
+            763,
+            777,
+            876
+        ],
+        "text": "And Asta, who lacks magic power, but because of that, gained anti-magic instead...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            595,
+            69,
+            712,
+            239
+        ],
+        "text": "I shall call you \"Dark-Tier.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            887,
+            67,
+            991,
+            162
+        ],
+        "text": "Try asking Captain Yami with the communication magic tool!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            310,
+            1133,
+            414
+        ],
+        "text": "That's...! You can't just decide that for us...!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            449,
+            1248,
+            580
+        ],
+        "text": "In exchange, I shall supply you with whatever knowledge you desire.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            754,
+            1235,
+            884
+        ],
+        "text": "In order to defeat this demon, please, lend me your Dark-Tier power...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

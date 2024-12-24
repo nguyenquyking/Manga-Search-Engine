@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            101,
+            48,
+            266,
+            173
+        ],
+        "text": "Although I did want them to be rewarded.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            89,
+            312,
+            137,
+            410
+        ],
+        "text": "That's reality.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            637,
+            360,
+            765
+        ],
+        "text": "Not everyone who's right is necessarily rewarded for it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            532,
+            520,
+            573
+        ],
+        "text": "Oh, yes.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            496,
+            652,
+            518,
+            713
+        ],
+        "text": "Hey...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            503,
+            411,
+            629,
+            499
+        ],
+        "text": "I brought the one you said to bring, but...it's too...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            87,
+            859,
+            168
+        ],
+        "text": "NO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

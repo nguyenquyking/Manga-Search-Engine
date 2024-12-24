@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            117,
+            61,
+            235,
+            199
+        ],
+        "text": "That bastard tried stealing One For All from us twice\u2014and failed twice!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            385,
+            135,
+            494
+        ],
+        "text": "...Then my successor, En.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            687,
+            104,
+            736
+        ],
+        "text": "First me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            152,
+            472,
+            272
+        ],
+        "text": "Emotions so strong, they're too much for one person to bear.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            545,
+            90,
+            632,
+            228
+        ],
+        "text": "We're thinking he's trying to use Shigaraki's hatred to get the job done.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            389,
+            557,
+            480,
+            687
+        ],
+        "text": "Bending and breaking the basic principle of One For All...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            532,
+            472,
+            638,
+            609
+        ],
+        "text": "...Takes a powerful will and emotions strong enough to override One For All.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            769,
+            102,
+            905,
+            239
+        ],
+        "text": "...But your rage is starting to eat away at that very rule!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            472,
+            891,
+            667
+        ],
+        "text": "The rule is that only the will of One For All's wielder can affect it...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

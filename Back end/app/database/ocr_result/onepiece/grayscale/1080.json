@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            100,
+            74,
+            153,
+            496
+        ],
+        "text": "GROAAAH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            481,
+            1330,
+            545,
+            1834
+        ],
+        "text": "CRACK CRACK CRACK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            624,
+            723,
+            724,
+            755
+        ],
+        "text": "!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            865,
+            804,
+            1017,
+            921
+        ],
+        "text": "HIS ROARING TURNS TO LIGHTNING!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1452,
+            1235,
+            1529,
+            1384
+        ],
+        "text": "GRRR-",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            69,
+            44,
+            162,
+            206
+        ],
+        "text": "...HOW TO INFUSE YOURSELF WITH OUTWARD HAKI...!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            258,
+            136,
+            335
+        ],
+        "text": "YOU ALREADY KNOW...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            395,
+            170,
+            559
+        ],
+        "text": "...WERE DESTROYED FROM THE INSIDE BY YOUR HAKI!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            599,
+            151,
+            701
+        ],
+        "text": "THOSE STEEL COLLARS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            316,
+            23,
+            408,
+            129
+        ],
+        "text": "BUT YOU DO IT... UNCONSCIOUSLY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            348,
+            394,
+            413,
+            472
+        ],
+        "text": "YOU CAN ALREADY DO IT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            522,
+            13,
+            580,
+            109
+        ],
+        "text": "HRRRNG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            537,
+            295,
+            576,
+            373
+        ],
+        "text": "GRAMPS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            699,
+            571,
+            716
+        ],
+        "text": "SLUMP...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            711,
+            562,
+            817,
+            694
+        ],
+        "text": "YOU'RE GOING TO PAY!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            570,
+            928,
+            667
+        ],
+        "text": "WHOA!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1014,
+            36,
+            1110,
+            144
+        ],
+        "text": "BEST OF LUCK,\nSTRAW HAT\nFELOW!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            338,
+            1126,
+            456
+        ],
+        "text": "SWISH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            415,
+            517,
+            432,
+            566
+        ],
+        "text": "CRUNCH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

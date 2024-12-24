@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            60,
+            34,
+            186,
+            171
+        ],
+        "text": "THE WHOLE REGIMENT SYSTEM DOESN'T REALLY WORK WHEN THEY CATCH US OFF GUARD.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            14,
+            195,
+            88,
+            244
+        ],
+        "text": "Uh, so are you?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            262,
+            180,
+            380
+        ],
+        "text": "WHERE DID YOU RUN OFF TO? YOU'RE MEANT TO BE A LIEUTENANT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            454,
+            111,
+            517
+        ],
+        "text": "DABI!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            795,
+            233,
+            905
+        ],
+        "text": "MISTER. WHERE'RE THE OTHERS?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            247,
+            61,
+            279,
+            168
+        ],
+        "text": "ANYWAY, WANNA BLOW THIS JOINT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            136,
+            608,
+            259
+        ],
+        "text": "EVEN THOUGH JUMPING INTO THE FRAY WAS TANTAMOUNT TO SUICIDE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            437,
+            288,
+            573,
+            387
+        ],
+        "text": "ALAS, I TRIED BUT FAILED TO STOP HER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            443,
+            650,
+            530,
+            750
+        ],
+        "text": "I BELIEVE TWICE WAS... KILLED.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            3,
+            875,
+            337
+        ],
+        "text": "Gloop",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1283,
+            62,
+            1349,
+            150
+        ],
+        "text": "HARD TO KEEP LIVING.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            798,
+            744,
+            928,
+            889
+        ],
+        "text": "I'VE NEVER SEEN LITTLE TOGA LOSE HER COOL LIKE THIS.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

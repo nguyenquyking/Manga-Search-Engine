@@ -1,0 +1,266 @@
+[
+    {
+        "text_box": [
+            57,
+            89,
+            120,
+            193
+        ],
+        "text": "TRAFALGAR,\nGET ME OUT\nOF HERE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            266,
+            80,
+            305,
+            193
+        ],
+        "text": "DON'T TELL ME\nWHAT TO DO.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            260,
+            256,
+            289,
+            362
+        ],
+        "text": "WHAT!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            753,
+            83,
+            816
+        ],
+        "text": "WHA-?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            1011,
+            101,
+            1078
+        ],
+        "text": "WATCH\nOUT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            230,
+            974,
+            302,
+            1079
+        ],
+        "text": "THE STEEL\nBEAMS OF THE\nTOWERS ARE\nBEING RIPPED\nOUT!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            120,
+            1187,
+            180,
+            1307
+        ],
+        "text": "WAVE!!*",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            278,
+            1203,
+            328,
+            1286
+        ],
+        "text": "BWAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            104,
+            1598,
+            159,
+            1718
+        ],
+        "text": "SHOCK...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            445,
+            898,
+            536,
+            1060
+        ],
+        "text": "PUNK...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            527,
+            527,
+            620,
+            629
+        ],
+        "text": "GYAAAA\nAAAAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            900,
+            82,
+            989,
+            236
+        ],
+        "text": "CRASH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            673,
+            1248,
+            726,
+            1334
+        ],
+        "text": "MAMA'S\nBLEEDING\n!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            626,
+            1593,
+            668,
+            1668
+        ],
+        "text": "MAMA\nAAA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            1201,
+            859,
+            1338
+        ],
+        "text": "ASSIGN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            1388,
+            877,
+            1480
+        ],
+        "text": "YOU COULD\nUSE SOME\nMORE MAG-\nNETISM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            1625,
+            930,
+            1722
+        ],
+        "text": "YOU\nWIDDLE\nBRAD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1077,
+            1176,
+            1160,
+            1264
+        ],
+        "text": "OUR\nWEAPONS\nARE BEING\nDRAWN\nIN!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1095,
+            1288,
+            1118,
+            1358
+        ],
+        "text": "AHH!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1084,
+            1404,
+            1179,
+            1506
+        ],
+        "text": "WHAT\nTHE!? IT'S\nLIKE I'VE\nBECOME A\nMAGNET!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1089,
+            1655,
+            1159,
+            1722
+        ],
+        "text": "I'M\nSTUCK\nTO YOU,\nMAMA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1249,
+            211,
+            1268,
+            322
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1238,
+            954,
+            1268,
+            1067
+        ],
+        "text": "GREIISH",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1271,
+            920,
+            1288,
+            1065
+        ],
+        "text": "DEVIANTART | GRECIIAGZZ",
+        "panel_id": "5",
+        "type": "background"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            77,
+            572,
+            180,
+            663
+        ],
+        "text": "The winner is the one who lives longest.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            682,
+            129,
+            742
+        ],
+        "text": "Give it a rest...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            424,
+            86,
+            462,
+            335
+        ],
+        "text": "Some hero... Someone...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            531,
+            432,
+            594,
+            525
+        ],
+        "text": "So take a hike, dead lady.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            331,
+            1064,
+            422
+        ],
+        "text": "Midoriya...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            66,
+            80,
+            97,
+            313
+        ],
+        "text": "BAKOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            481,
+            845,
+            599,
+            1049
+        ],
+        "text": "GIGAN-TEUM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            281,
+            678,
+            295
+        ],
+        "text": null,
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1010,
+            95,
+            1097,
+            245
+        ],
+        "text": "NO! THAT PUT OUT ALL THE FIRE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1074,
+            388,
+            1515,
+            820
+        ],
+        "text": "CRUNCH\nCRUNCH\nCRAK!!\nAAAAAH\n!!\nKRAAAAASH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1009,
+            890,
+            1094,
+            1052
+        ],
+        "text": "WHY ARE YOU\nATTACKING\nUP THERE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1496,
+            893,
+            1567,
+            1034
+        ],
+        "text": "OH!!\nUNLESS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1518,
+            117,
+            1551,
+            252
+        ],
+        "text": "HUH...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

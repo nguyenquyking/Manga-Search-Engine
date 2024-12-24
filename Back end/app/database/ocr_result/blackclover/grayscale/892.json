@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            133,
+            482,
+            243,
+            579
+        ],
+        "text": "Shouldn't you have had her fight in Saint Stage?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            620,
+            188,
+            750
+        ],
+        "text": "More than anything, Lolopechka's magic is enormous!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            75,
+            564,
+            177
+        ],
+        "text": "Ever since, I've protected the Heart Kingdom alongside the Queen, because I liked its people.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            390,
+            569,
+            564,
+            695
+        ],
+        "text": "Long ago, I just happened to hit it off with the first queen of the Heart Kingdom, and I made her my host.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            660,
+            301,
+            780,
+            381
+        ],
+        "text": "Ever since she was small, she had vast magic...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            784,
+            52,
+            917,
+            175
+        ],
+        "text": "She was different from ordinary princesses in another way too.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            943,
+            208,
+            1061,
+            309
+        ],
+        "text": "...and she was eminently qualified to be the next ruler.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            778,
+            684,
+            870,
+            751
+        ],
+        "text": "Then, after a very long time...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            967,
+            599,
+            1022,
+            682
+        ],
+        "text": "...I met Lolopechka.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

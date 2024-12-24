@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            80,
+            79,
+            125,
+            161
+        ],
+        "text": "Roger that!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            740,
+            193,
+            867
+        ],
+        "text": "There should be medics in the rear guard! Go there!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            342,
+            691,
+            526,
+            867
+        ],
+        "text": "\u30c9\u30c9\u30c9\u30c9\nRMMBL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            691,
+            580,
+            791,
+            696
+        ],
+        "text": "Yes, I'll bring down that ice mountain in a moment!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            774,
+            798,
+            904
+        ],
+        "text": "You okay, Cementoss?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            28,
+            960,
+            168
+        ],
+        "text": "You jerk!! That really hurt! So, cubed or crushed- what'll it",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1130,
+            382,
+            1171,
+            434
+        ],
+        "text": "Hang on.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1163,
+            514,
+            1227,
+            624
+        ],
+        "text": "Follow in Mt. Lady's wake!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1253,
+            27,
+            1372,
+            166
+        ],
+        "text": "Didn't you capture... Himiko Toga and Mr. Compress?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1333,
+            495,
+            1410,
+            631
+        ],
+        "text": "We're still in control here, so keep rounding 'em up!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            101,
+            192,
+            190,
+            325
+        ],
+        "text": "NO MORE GETTING IN RE-DESTRO'S WAY.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            509,
+            441,
+            643,
+            603
+        ],
+        "text": "AND DON'T GO THINKING YOU'LL DIE PAINLESS DEATHS, YOU DOGS OF THE STATE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            41,
+            636,
+            113
+        ],
+        "text": "KRAKL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1054,
+            1277,
+            1067,
+            1348
+        ],
+        "text": "KRASH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1134,
+            1148,
+            1159,
+            1223
+        ],
+        "text": "ICE?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1173,
+            1130,
+            1194,
+            1185
+        ],
+        "text": "Owww...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1269,
+            1287,
+            1303,
+            1407
+        ],
+        "text": "BOOTY INCOMING!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1043,
+            1834,
+            1410,
+            1873
+        ],
+        "text": "WHOAAA!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1363,
+            431,
+            1375,
+            499
+        ],
+        "text": "KRAKL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

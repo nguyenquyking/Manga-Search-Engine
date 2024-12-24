@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            79,
+            163,
+            112,
+            313
+        ],
+        "text": "SHIGARAKI!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            132,
+            40,
+            156,
+            164
+        ],
+        "text": "PLEASE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            77,
+            436,
+            175,
+            538
+        ],
+        "text": "DON'T BLACK OUT. YOUR BODY MUST ACHIEVE COMPLETION.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            239,
+            618,
+            454,
+            718
+        ],
+        "text": "MY QUIRK HAS NOT FULLY SETTLED INTO YOUR BODY, SO YOU COULDN'T SUMMON THE POWER TO STEAL HIS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            454,
+            32,
+            555,
+            196
+        ],
+        "text": "PLEASE DON'T START MOVING AGAIN!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            509,
+            448,
+            583,
+            540
+        ],
+        "text": "RETREAT, TAKE STOCK AND LIVE TO FIGHT ON.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            142,
+            851,
+            199
+        ],
+        "text": "PREP FOR WHAT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            322,
+            1057,
+            422
+        ],
+        "text": "SHIGARAKI'S FIGHTING ENDEAVOR?! NICE. LET'S PREP.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

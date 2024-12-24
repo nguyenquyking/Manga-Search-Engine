@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            36,
+            267,
+            112,
+            482
+        ],
+        "text": "Mon, Nana! He's...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            172,
+            132,
+            439
+        ],
+        "text": "Huff Huff",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            76,
+            557,
+            147,
+            680
+        ],
+        "text": "I was the one who said it had to be a secret...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            265,
+            23,
+            524,
+            221
+        ],
+        "text": "Huff Huff\nCan't talk.",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            359,
+            402,
+            375,
+            456
+        ],
+        "text": "Wheeze!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            443,
+            480,
+            461,
+            540
+        ],
+        "text": "Sorry.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            420,
+            707,
+            502
+        ],
+        "text": "What's wrong...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            678,
+            653,
+            703
+        ],
+        "text": "...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            706,
+            754,
+            733
+        ],
+        "text": "Tmp",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            824,
+            13,
+            890,
+            85
+        ],
+        "text": "Wait!\nDon't go!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            265,
+            946,
+            369
+        ],
+        "text": "Ah\nHh\nH!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            156,
+            93,
+            273,
+            186
+        ],
+        "text": "What that takes is studying and slow, boring, drudge work!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            156,
+            597,
+            257,
+            721
+        ],
+        "text": "To do that though, we have to know more about mana and ourselves.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            698,
+            444,
+            726
+        ],
+        "text": "Keh hee hee!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            545,
+            603,
+            668,
+            720
+        ],
+        "text": "You're obviously dumb and impatient. Think you can do it?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            38,
+            956,
+            140
+        ],
+        "text": "...But the more I learn about mana, the more there is to know!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            491,
+            959,
+            589
+        ],
+        "text": "I've always used spells without giving them much thought...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

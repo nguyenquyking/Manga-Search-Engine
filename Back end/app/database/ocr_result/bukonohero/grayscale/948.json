@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            141,
+            617,
+            251,
+            713
+        ],
+        "text": "So please, Eri! I'm sorry for using you like this, but...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            158,
+            433,
+            247,
+            549
+        ],
+        "text": "...Won'tcha try out your Rewind power on me...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            559,
+            429,
+            647
+        ],
+        "text": "Don't be sorry.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            73,
+            504,
+            163
+        ],
+        "text": "This's why I'm training!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            330,
+            695,
+            365
+        ],
+        "text": "PTOO!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            895,
+            25,
+            1045,
+            174
+        ],
+        "text": "Still, even my power ain't enough to take down these Nomu with one punch, so...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

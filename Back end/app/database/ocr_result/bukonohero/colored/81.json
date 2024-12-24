@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            61,
+            30,
+            127,
+            118
+        ],
+        "text": "MY MASTER'S IN A PICKLE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            36,
+            397,
+            107
+        ],
+        "text": "WHY WOULD I THINK TWICE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            952,
+            36,
+            1002
+        ],
+        "text": "ZHOOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            680,
+            699,
+            741,
+            772
+        ],
+        "text": "BESIDES, THE REQUEST CAME FROM ALL MIGHT HIMSELF!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            683,
+            801,
+            749,
+            869
+        ],
+        "text": "THIS MISSION'S GUARANTEED TO GET THE GREEN LIGHT ANYWAY, SOONER OR LATER.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            667,
+            1007,
+            716,
+            1075
+        ],
+        "text": "HEY, NO SKIN OFF OUR BACKS, STAR.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            34,
+            726,
+            493
+        ],
+        "text": "UNITED STATES OF AMERICA'S NUMBER ONE HERO:\nSTAR AND STRIPE",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            760,
+            1,
+            777,
+            203
+        ],
+        "text": "Colorist: HEXAMENDLE",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            609,
+            71,
+            753,
+            192
+        ],
+        "text": "JANGLE",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1110,
+            185,
+            1249,
+            306
+        ],
+        "text": "Captain Yami!! And the Blue Rose Knights Captain!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1171,
+            341,
+            1428,
+            522
+        ],
+        "text": "You can make yourself invisible with magic, but your ki gives you away. Running is pointless, you lousy son of a ham.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1174,
+            874,
+            1384,
+            1005
+        ],
+        "text": "Check this out! We stumbled onto a boneless ham right when we needed one.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

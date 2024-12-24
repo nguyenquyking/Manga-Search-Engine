@@ -1,0 +1,277 @@
+[
+    {
+        "text_box": [
+            36,
+            419,
+            57,
+            652
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            321,
+            51,
+            341,
+            469
+        ],
+        "text": "Q: Whoa! A UFO! (*While Odacchi is distracted*)",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            350,
+            90,
+            370,
+            350
+        ],
+        "text": "Ready, set... Start the SBS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            338,
+            392,
+            466
+        ],
+        "text": "--Tomo and Isshi",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            49,
+            458,
+            717
+        ],
+        "text": "A: Huh?! Where?! I wanna see a UFO! I've never seen one!! I'll take my Bike to check it out!! Which way did it go?! Oh! I see something shining! And spinning! No,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            86,
+            482,
+            654
+        ],
+        "text": "Wait a second, the SBS started without me!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            49,
+            558,
+            522
+        ],
+        "text": "Q: Question for Odacchi! Does the teacher with the elongated neck have Devil Fruit powers? Or is she part of a special race?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            565,
+            367,
+            579,
+            522
+        ],
+        "text": "--Masajuro the Ronin",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            49,
+            677,
+            509
+        ],
+        "text": "A: Ah yes, that would be Miss Sarahebi. She's a very popular teacher with the children. But, of course, she's a henchman of Orochi and Kaido, and is filling the kids' heads with anti-Kozuki lies. Her neck is a snake's neck because of a Smile fruit.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            50,
+            753,
+            511
+        ],
+        "text": "Q: Hello, Oda Sensei. I would like to know the flower and animal that you associate with each member of the Worst Generation.",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            758,
+            443,
+            775,
+            513
+        ],
+        "text": "--Takusai",
+        "panel_id": "8",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            50,
+            819,
+            649
+        ],
+        "text": "A: Okay, I don't know much about flowers, so I'm not looking up their special flower meanings or anything!",
+        "panel_id": "9",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            837,
+            137,
+            900,
+            202
+        ],
+        "text": "Luffy\n\u2022 Sunflower\n\u2022 Monkey",
+        "panel_id": "10",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            836,
+            298,
+            914,
+            352
+        ],
+        "text": "Kid\n\u2022 Tulip\n\u2022 Fighting bull",
+        "panel_id": "10",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            838,
+            461,
+            930,
+            523
+        ],
+        "text": "Law\n\u2022 Queen of the night\n\u2022 Snow leopard",
+        "panel_id": "10",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            835,
+            618,
+            916,
+            685
+        ],
+        "text": "Blackbeard\n\u2022 Red spider lily\n\u2022 Hippo",
+        "panel_id": "10",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            950,
+            137,
+            1015,
+            194
+        ],
+        "text": "Zoro\n\u2022 Wisteria\n\u2022 Shark",
+        "panel_id": "11",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            951,
+            300,
+            1015,
+            358
+        ],
+        "text": "Killer\n\u2022 Snowdrop\n\u2022 Weasel",
+        "panel_id": "11",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            951,
+            460,
+            1015,
+            522
+        ],
+        "text": "Hawkins\n\u2022 Black lily\n\u2022 Horse",
+        "panel_id": "11",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            950,
+            622,
+            1015,
+            679
+        ],
+        "text": "Bonney\n\u2022 Freesia\n\u2022 Deer",
+        "panel_id": "11",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            1062,
+            138,
+            1128,
+            185
+        ],
+        "text": "Bege\n\u2022 Rose\n\u2022 Koala",
+        "panel_id": "12",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            1064,
+            297,
+            1130,
+            357
+        ],
+        "text": "Urouge\n\u2022 Daisy\n\u2022 Elephant",
+        "panel_id": "12",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            1065,
+            460,
+            1130,
+            526
+        ],
+        "text": "Apoo\n\u2022 Poppy\n\u2022 Orangutan",
+        "panel_id": "12",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            1065,
+            622,
+            1129,
+            689
+        ],
+        "text": "Drake\n\u2022 Bellflower\n\u2022 Allosaurus",
+        "panel_id": "12",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            1137,
+            694,
+            1180,
+            744
+        ],
+        "text": "22",
+        "panel_id": "13",
+        "type": "page_number"
+    }
+]

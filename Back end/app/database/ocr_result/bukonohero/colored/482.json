@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            538,
+            97,
+            598,
+            248
+        ],
+        "text": "...STILL MOVING?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            553,
+            769,
+            608,
+            877
+        ],
+        "text": "HOW IS HE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1005,
+            232,
+            1094,
+            357
+        ],
+        "text": "TODOROKI'S PACKING LESS FIRE NOW...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1240,
+            209,
+            1350,
+            347
+        ],
+        "text": "COULD IT BE BLOWBACK FROM ALL THOSE FANCY ATTACKS?",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1276,
+            672,
+            1289,
+            730
+        ],
+        "text": "SLAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

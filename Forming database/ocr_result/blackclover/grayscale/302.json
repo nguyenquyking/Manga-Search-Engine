@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            193,
+            91,
+            270,
+            212
+        ],
+        "text": "Wooow!\nLook at all\nthe pretty\nbutterflies!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            498,
+            216,
+            633
+        ],
+        "text": "Is he\nkidding?!\nIt covers\nthe whole\ncountry...\nIs that even\npossible?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            831,
+            308,
+            1000
+        ],
+        "text": "The mist\nbarrier and\nthe water\nstaires are a\nproduct of the\nQueen's mana\nzone, which\ncovers the\nentire\ncountry.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            355,
+            708,
+            475,
+            739
+        ],
+        "text": "DUUUDE!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            496,
+            542,
+            612,
+            635
+        ],
+        "text": "It truly\nis a\nwonder-\nful\ncountry.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            665,
+            648,
+            756
+        ],
+        "text": "Also, this\njuice is\namazing!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            116,
+            748,
+            199
+        ],
+        "text": "I\nreally\ncan't\nbelieve\nthere's\na devil\nhere...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            905,
+            820,
+            1160,
+            1011
+        ],
+        "text": "It has been\n1,200 years since\nour country was\nfounded. In every\ngeneration, acting\nas a priestess,\nthe queen has\nmade a pledge\nwith the water\nsprit, and has\nused its magic\nto protect the\nkingdom.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1169,
+            133,
+            1424,
+            1059
+        ],
+        "text": "This has\nencouraged the\ndevelopment of\na country of\ndeep mana. A\nmagic civilization\nwhich borrows\nthe power of its\nwater and trees\nin order to keep\nout those who\nhave not been\ninvited.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

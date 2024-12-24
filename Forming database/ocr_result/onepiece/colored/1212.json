@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            76,
+            25,
+            94,
+            118
+        ],
+        "text": "Blast it...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            99,
+            16,
+            166,
+            129
+        ],
+        "text": "This is the card of infighting.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            237,
+            139,
+            338
+        ],
+        "text": "The Fool, Reversed.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            367,
+            120,
+            438
+        ],
+        "text": "Let us begin...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            464,
+            98,
+            566
+        ],
+        "text": "\"Game?\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            599,
+            171,
+            705
+        ],
+        "text": "This guy's more trouble than he looks... But I should've figured!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            24,
+            532,
+            168
+        ],
+        "text": "Despite the inherent risks, there are also cards...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            610,
+            11,
+            711,
+            133
+        ],
+        "text": "...that expand one's power beyond its natural limits!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            440,
+            184,
+            517,
+            297
+        ],
+        "text": "I'm sorry... I will draw a good card next round...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            460,
+            489,
+            533
+        ],
+        "text": "Aaah!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            432,
+            610,
+            490,
+            696
+        ],
+        "text": "Take that!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            28,
+            1068,
+            106
+        ],
+        "text": "BOOF!! BOOF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            812,
+            331,
+            912,
+            445
+        ],
+        "text": "Hey!! What's the big idea,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            492,
+            882,
+            570
+        ],
+        "text": "WOOF!! WOOF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            806,
+            611,
+            898,
+            696
+        ],
+        "text": "What the heck are they doing?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

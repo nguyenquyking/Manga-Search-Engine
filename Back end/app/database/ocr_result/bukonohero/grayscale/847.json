@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            76,
+            92,
+            111,
+            177
+        ],
+        "text": "In that moment...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            527,
+            117,
+            643
+        ],
+        "text": "...by Endeavor.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            306,
+            329,
+            396,
+            462
+        ],
+        "text": "Heroes were suddenly real to me!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            594,
+            330,
+            674
+        ],
+        "text": "...Fantasy...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            520,
+            478,
+            723
+        ],
+        "text": "SKWRM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            401,
+            527,
+            887,
+            723
+        ],
+        "text": "SKWRM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            986,
+            582,
+            1022,
+            670
+        ],
+        "text": "...became reality.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            905,
+            167,
+            904,
+            239
+        ],
+        "text": "PWOOF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            87,
+            716,
+            152,
+            788
+        ],
+        "text": "Huh...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            74,
+            992,
+            248
+        ],
+        "text": "...Control yourselves?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            868,
+            1010,
+            976,
+            1159
+        ],
+        "text": "Would you three...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1497,
+            1043,
+            1738,
+            1221
+        ],
+        "text": "Yami's a total mess, so how come the conference is a total mess when he's not here?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

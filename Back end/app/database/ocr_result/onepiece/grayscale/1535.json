@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            133,
+            87,
+            287,
+            348
+        ],
+        "text": "Oh, we had quite the uproar after they vanished!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            411,
+            282,
+            699
+        ],
+        "text": "So those incorrigible problem children are still alive...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            1065,
+            239,
+            1320
+        ],
+        "text": "It's a letter... from Dogstorm and Cat Viper!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            615,
+            946,
+            730,
+            1213
+        ],
+        "text": "Mokomo Dukedom\nDuke Genghis\nBaan",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            889,
+            105,
+            1015,
+            312
+        ],
+        "text": "I feel so... unnerved here...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1129,
+            92,
+            1308,
+            282
+        ],
+        "text": "You all right? It's not like you to be so nervous.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            887,
+            639,
+            922,
+            794
+        ],
+        "text": "Garchu!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            866,
+            849,
+            980,
+            1029
+        ],
+        "text": "Aaah!! What's going on?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            1098,
+            1023,
+            1301
+        ],
+        "text": "Welcome, visitors! Garchu!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            794,
+            1090,
+            983
+        ],
+        "text": "Stomp Stomp",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1786,
+            103,
+            2004,
+            290
+        ],
+        "text": "Like something huge is watching us...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1617,
+            695,
+            1697,
+            835
+        ],
+        "text": "It feels like...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1591,
+            925,
+            1712,
+            1071
+        ],
+        "text": "You too, Captain Roger?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1566,
+            1169,
+            1719,
+            1307
+        ],
+        "text": "I know how you feel, Oden...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

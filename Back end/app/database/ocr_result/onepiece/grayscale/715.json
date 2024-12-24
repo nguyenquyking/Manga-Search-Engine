@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            38,
+            69,
+            62,
+            139
+        ],
+        "text": "KIKU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            76,
+            121,
+            133
+        ],
+        "text": "WITH ME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            37,
+            307,
+            108,
+            390
+        ],
+        "text": "INDEED!!\nGOOD\nLUCK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            433,
+            107,
+            536
+        ],
+        "text": "YEAH,\nI'LL DO\nTHE SAME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            576,
+            119,
+            725
+        ],
+        "text": "KIN'EMON, CAT...\nWE WILL HEAD\nELSEWHERE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            65,
+            503,
+            197
+        ],
+        "text": "LUFFY'S CREW\nSAID IT WAS HIS\nSACRIFICE THAT\nENABLED THEM\nTO GET HERE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            401,
+            229,
+            484,
+            335
+        ],
+        "text": "YES... IT\nHAPPENED IN\nBIG MOM'S\nTERRITORY!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            384,
+            384,
+            480,
+            467
+        ],
+        "text": "WHAT'S\nTHAT?!\nPEDRO'S\nDEAD?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            638,
+            444,
+            714
+        ],
+        "text": "RIGHT\nBEHIND\nYOU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            767,
+            67,
+            880,
+            182
+        ],
+        "text": "AND THE\nOPPORTUNITY\nTA AVENGE\nYOU IS ON\nTHIS ISLAND,",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            224,
+            887,
+            343
+        ],
+        "text": "WELL DONE,\nPEDRO...\nYOU DIED\nFER A NOBLE\nCAUSE!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            402,
+            870,
+            540
+        ],
+        "text": "I SAW CARROT\nAND WANDA\nFIGHTING HIM, BUT\nTHEIR ANGER WAS\nGETTING THE BEST",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            776,
+            586,
+            882,
+            713
+        ],
+        "text": "BUT THE ONE\nWHO CAUSED\nPEDRO'S DEATH\nIS HERE ON\nTHIS ISLAND!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            965,
+            400,
+            1092,
+            504
+        ],
+        "text": "THAT'S WHY\nI HAD TO\nRUSH BACK\nTO WARN\nCOMMANDER\nSHISHILIAN!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1072,
+            536,
+            1125,
+            692
+        ],
+        "text": "BARIETE\nMINK RECON SQUAD",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

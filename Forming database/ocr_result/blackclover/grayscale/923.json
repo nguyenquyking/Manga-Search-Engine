@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            61,
+            221,
+            182,
+            336
+        ],
+        "text": "You were the first one who ever managed to oppose my curse.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            330,
+            424,
+            336,
+            464
+        ],
+        "text": "RSTL",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            477,
+            645,
+            606,
+            746
+        ],
+        "text": "As if I'd let anything else go your way!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            72,
+            602,
+            162
+        ],
+        "text": "You were splendid, Queen of Briars!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            796,
+            422,
+            851,
+            517
+        ],
+        "text": "Noelle's beautiful spell...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            928,
+            60,
+            989,
+            156
+        ],
+        "text": "...has inspired me!!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            941,
+            665,
+            1031,
+            771
+        ],
+        "text": "I have to protect Charlotte, no matter what!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

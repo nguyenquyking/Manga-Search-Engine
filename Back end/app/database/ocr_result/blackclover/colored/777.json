@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            116,
+            48,
+            380,
+            582
+        ],
+        "text": "...Whatever's convenient for you at the time.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            118,
+            919,
+            248,
+            1332
+        ],
+        "text": "Don't go spouting...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            85,
+            969,
+            344
+        ],
+        "text": "Don't gimme that, you idiot.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            501,
+            1015,
+            872
+        ],
+        "text": "...And now, when you're in trouble, you count on the gods?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            1008,
+            972,
+            1274
+        ],
+        "text": "You did whatever you wanted...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1203,
+            204,
+            1354,
+            451
+        ],
+        "text": "...Would save you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1226,
+            996,
+            1388,
+            1215
+        ],
+        "text": "Who in their right mind...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1494,
+            369,
+            1602,
+            1107
+        ],
+        "text": "Until I die...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

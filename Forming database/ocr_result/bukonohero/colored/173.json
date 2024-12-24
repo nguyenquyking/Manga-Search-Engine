@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            12,
+            827,
+            131,
+            955
+        ],
+        "text": "WE DON'T NEED FAKE HEROES",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            150,
+            452,
+            220,
+            573
+        ],
+        "text": "GET OUTTA HERE, YOU SCUM!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            484,
+            621,
+            647
+        ],
+        "text": "...WE WOULDN'T BE DEALING WITH ALL THESE ESCAPED CONVICTS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            525,
+            685,
+            613,
+            846
+        ],
+        "text": "IF YOU HADN'T LET SHIGARAKI AND HIS PEOPLE GET AWAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            747,
+            898,
+            866
+        ],
+        "text": "WE SHOULD GO, ENDEAVOR.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1159,
+            161,
+            1287,
+            346
+        ],
+        "text": "WHICH MEANS YOU ALL ARE STILL HIDING SOMETHING FROM US!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1134,
+            453,
+            1319,
+            665
+        ],
+        "text": "...THAT SHIGARAKI WAS SUPPOSEDLY AFTER SOMEONE ELSE BESIDES YOU PEOPLE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1136,
+            782,
+            1226,
+            851
+        ],
+        "text": "THOSE MEDIA FOLKS SAID...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            168,
+            1938,
+            249,
+            2041
+        ],
+        "text": "TEMPEST KICK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            257,
+            765,
+            318,
+            885
+        ],
+        "text": "SLASH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1309,
+            279,
+            1351,
+            356
+        ],
+        "text": "CHOPPER!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1295,
+            644,
+            1417,
+            759
+        ],
+        "text": "Hey, what's wrong?! Don't you recognise me?! It's Nami!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            1499,
+            765,
+            1567
+        ],
+        "text": "NGHH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            705,
+            1604,
+            760,
+            1693
+        ],
+        "text": "ROAAR!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            865,
+            814,
+            918,
+            897
+        ],
+        "text": "How rude!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            1409,
+            1022,
+            1561
+        ],
+        "text": "Maybe because of all this soap, he can't recognise me? But he's still Chopper, right?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            970,
+            1194,
+            982,
+            1264
+        ],
+        "text": "STAND",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1019,
+            1727,
+            1044,
+            1770
+        ],
+        "text": "WOAH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1079,
+            1407,
+            1204,
+            1565
+        ],
+        "text": "Just so you know, the thought never crossed my mind, absolutely not! Not even for a minute!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1093,
+            1815,
+            1171,
+            1930
+        ],
+        "text": "Chopper!! Chopper, that's you, isn't it?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1374,
+            1601,
+            1397,
+            1661
+        ],
+        "text": "AHH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1351,
+            1810,
+            1408,
+            1883
+        ],
+        "text": "What on earth happened to-",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1380,
+            1354,
+            1402,
+            1420
+        ],
+        "text": "CHOPPER!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            2007,
+            777,
+            2092
+        ],
+        "text": "Hey!! Knock it off!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

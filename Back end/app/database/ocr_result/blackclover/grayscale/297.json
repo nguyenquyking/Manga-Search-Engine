@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            793,
+            122,
+            963,
+            220
+        ],
+        "text": "NOT ONLY THAT, BUT ON THIS AWESOME BOAT!! THIS IS ACTUALLY GETTING FUN!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            753,
+            889,
+            952,
+            993
+        ],
+        "text": "WHO'D HAVE THOUGHT WE'D BE ABLE TO JUST ENTER THE COUNTRY OFFICIALLY?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1012,
+            186,
+            1128,
+            483
+        ],
+        "text": "WSS",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1043,
+            761,
+            1121,
+            1014
+        ],
+        "text": "SSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1129,
+            759,
+            1227,
+            964
+        ],
+        "text": "WHEE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1428,
+            100,
+            1512,
+            161
+        ],
+        "text": "THAT WOULD BE ILLEGAL ENTRY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1408,
+            189,
+            1521,
+            261
+        ],
+        "text": "IF WE HAVE TO, WE'LL USE MISTER FINRAL'S SPATIAL MAGIC AND...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1377,
+            333,
+            1529,
+            443
+        ],
+        "text": "WHAT ARE YOU TALKING ABOUT, MIMOSA?! WE'RE NOTHING BUT GRATEFUL TO YOU!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1356,
+            528,
+            1473,
+            664
+        ],
+        "text": "I'M SORRY I COULDN'T GET PERMISSION FOR MORE PEOPLE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1352,
+            838,
+            1513,
+            921
+        ],
+        "text": "LOOK, WE AREN'T HERE TO PLAY AROUND, ALL RIGHT?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

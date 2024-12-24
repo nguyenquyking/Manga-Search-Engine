@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            14,
+            699,
+            96,
+            734
+        ],
+        "text": "Hn Hn Hn",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            248,
+            380,
+            354,
+            497
+        ],
+        "text": "You can't even control this power, can you!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

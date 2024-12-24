@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            203,
+            104,
+            337,
+            221
+        ],
+        "text": "...that I'm a Spade Kingdom Prince.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            249,
+            805,
+            276,
+            898
+        ],
+        "text": "I'm told...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            315,
+            968,
+            531
+        ],
+        "text": "!!! MR MR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1116,
+            28,
+            1475,
+            187
+        ],
+        "text": "A Spade Kingdom Prince?!",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

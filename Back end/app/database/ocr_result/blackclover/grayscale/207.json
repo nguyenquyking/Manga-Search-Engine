@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            84,
+            500,
+            204,
+            896
+        ],
+        "text": "My first summer in middle school, when I went to an amusement park pool with a group of friends (guys and girls), and I was the only one in a too-tight school swimsuit.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            212,
+            581,
+            265,
+            708
+        ],
+        "text": "Kazuhiro Wakao",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            344,
+            579,
+            412,
+            884
+        ],
+        "text": "The summer I threw myself into club activities in a boiling hot gym.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            419,
+            689,
+            449,
+            786
+        ],
+        "text": "Yagasa",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            649,
+            49,
+            740,
+            363
+        ],
+        "text": "My first summer in grade school, when I made a whole lot of shiny-smooth mud balls over summer vacation.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            753,
+            62,
+            812,
+            203
+        ],
+        "text": "S\u014dta Hishikawa",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1348,
+            101,
+            1438,
+            492
+        ],
+        "text": "The hellish summer when I passed out while working on a weekly serial and almost got an ambulance called for me, and also",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1476,
+            209,
+            1529,
+            363
+        ],
+        "text": "Masayoshi Satosh\u014d",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

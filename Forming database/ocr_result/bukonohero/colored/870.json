@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            112,
+            295,
+            175,
+            384
+        ],
+        "text": "Seems the day is saved.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            252,
+            664,
+            478,
+            820
+        ],
+        "text": "Endeavor!! And you too, Hawks!! You risked your lives to protect us all, and you won!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            664,
+            27,
+            891,
+            166
+        ],
+        "text": "Our new top hero is there!! And what I'd like to say to him now is \"Thank you!\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1332,
+            34,
+            1375,
+            87
+        ],
+        "text": "That so?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1291,
+            234,
+            1374,
+            337
+        ],
+        "text": "None of that was according to plan.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            107,
+            268,
+            224,
+            522
+        ],
+        "text": "I'M PRACTICALLY DEAD ALREADY",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            253,
+            879,
+            458
+        ],
+        "text": "EVEN SO, I'M GRATEFUL...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1131,
+            174,
+            1211,
+            251
+        ],
+        "text": "Every-one's so cool!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1102,
+            380,
+            1304,
+            537
+        ],
+        "text": "...THAT I CAN STILL FIGHT FOR...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1710,
+            92,
+            1783,
+            377
+        ],
+        "text": "...QUEEN LOLOPECHKA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1690,
+            1192,
+            1783,
+            1151
+        ],
+        "text": "KRAKKA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

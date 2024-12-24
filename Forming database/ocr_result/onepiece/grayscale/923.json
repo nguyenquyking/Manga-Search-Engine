@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            36,
+            354,
+            137,
+            392
+        ],
+        "text": "TMP\nTMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            188,
+            350,
+            212,
+            403
+        ],
+        "text": "HN?",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            30,
+            545,
+            168,
+            716
+        ],
+        "text": "KCHAK\nNever thought I'd get to work with Dragon Salmon...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            118,
+            449,
+            169
+        ],
+        "text": "HN?",
+        "panel_id": "2",
+        "type": "thought"
+    }
+]

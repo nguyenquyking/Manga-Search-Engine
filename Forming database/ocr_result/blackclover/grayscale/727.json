@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            656,
+            485,
+            648,
+            580
+        ],
+        "text": "WHROOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            928,
+            313,
+            1033,
+            398
+        ],
+        "text": "...THE\nFIGHT\nSTARTS\nFOR REAL\nNOW,\nHM?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            683,
+            970,
+            766
+        ],
+        "text": "IN\nOTHER\nWORDS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

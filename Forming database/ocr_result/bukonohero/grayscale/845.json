@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            60,
+            98,
+            156,
+            256
+        ],
+        "text": "Mom harbored him when he was on the lam, and that's how I was born.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            528,
+            162,
+            662
+        ],
+        "text": "Years ago, my dad killed someone over pocket change.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            318,
+            32,
+            354,
+            93
+        ],
+        "text": "I'm sorry.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            317,
+            422,
+            428
+        ],
+        "text": "How many times have I told ya?! Don't turn your back on me!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            643,
+            360,
+            696
+        ],
+        "text": "Move it!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            25,
+            690,
+            84
+        ],
+        "text": "Don't leave, okay?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            617,
+            109,
+            705,
+            319
+        ],
+        "text": "Hey. Then I'd still be free as a bird!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            419,
+            701,
+            532
+        ],
+        "text": "Worse than that, she got herself knocked up.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            607,
+            690,
+            715
+        ],
+        "text": "Relying on Tomie's quirk was a mistake...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            51,
+            1088,
+            161
+        ],
+        "text": "I knew my parents were broken inside.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            946,
+            330,
+            965,
+            361
+        ],
+        "text": "Hug",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1003,
+            417,
+            1072,
+            539
+        ],
+        "text": "If only that little punk'd never been born!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

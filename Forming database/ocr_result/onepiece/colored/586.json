@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            87,
+            52,
+            129,
+            146
+        ],
+        "text": "CONSIDER IT A GIFT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            361,
+            130,
+            437
+        ],
+        "text": "I DON'T TRUST ANYONE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            581,
+            228,
+            654
+        ],
+        "text": "I'M SICK OF THE ALLIANCE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            204,
+            416,
+            258,
+            517
+        ],
+        "text": "ZDUMM!!\nCLANK!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            438,
+            304,
+            508,
+            381
+        ],
+        "text": "...THAT I DON'T KILL YOU RIGHT HERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            430,
+            484,
+            452,
+            663
+        ],
+        "text": "CLANK...\nCLANK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            578,
+            30,
+            702,
+            138
+        ],
+        "text": "LET'S\nGET OUR\nPEOPLE\nBACK!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            601,
+            600,
+            657,
+            708
+        ],
+        "text": "LET'S GO,\nKILLER.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1005,
+            267,
+            1120,
+            378
+        ],
+        "text": "WE DO\nTHINGS\nOUR OWN\nWAY!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

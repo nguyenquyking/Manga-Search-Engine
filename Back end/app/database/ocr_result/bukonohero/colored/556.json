@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            45,
+            564,
+            133,
+            890
+        ],
+        "text": "MY HERO\nACADEMIA",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            164,
+            642,
+            317,
+            838
+        ],
+        "text": "NO. 277 - WHO...?\nBY KOHEI HORIKOSHI\nTRANSLATION: CALEB COOK\nLETTERING: JOHN HUNT",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            897,
+            7,
+            914,
+            292
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1127,
+            20,
+            1283,
+            166
+        ],
+        "text": "AS LONG AS SHIGARAKI'S\nQUIRKS ARE ERASED, WE\nCAN JOIN THIS FIGHT\nTOO!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1267,
+            482,
+            1286,
+            582
+        ],
+        "text": "WHAT-?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1134,
+            748,
+            1202,
+            881
+        ],
+        "text": "THE WORST-\nCASE\nSCENARIO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

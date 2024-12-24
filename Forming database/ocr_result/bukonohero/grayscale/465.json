@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            314,
+            106,
+            458,
+            248
+        ],
+        "text": "You're looking at a guy who could be attacked at any second but continues to move forward anyway.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            297,
+            530,
+            404,
+            658
+        ],
+        "text": "More than anyone, he wishes he could fix everything.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            618,
+            552,
+            786,
+            674
+        ],
+        "text": "So really look at him! Please!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

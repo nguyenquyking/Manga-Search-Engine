@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            54,
+            21,
+            72,
+            133
+        ],
+        "text": "IT SHOWED ME",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            196,
+            229,
+            251,
+            287
+        ],
+        "text": "HE WAS RIGHT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            98,
+            640,
+            204,
+            722
+        ],
+        "text": "I WILL FIND YOU AN IDEAL OPPONENT TO GAUGE THE RESULTS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            572,
+            279,
+            638
+        ],
+        "text": "...OF YOUR TRAINING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            414,
+            108,
+            467,
+            188
+        ],
+        "text": "I WILL BURN AWAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            548,
+            530,
+            731
+        ],
+        "text": "...THAT I COULD STILL GET STRONGER!!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            764,
+            0,
+            804,
+            78
+        ],
+        "text": "EVERYTHING.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            827,
+            99,
+            871,
+            173
+        ],
+        "text": "FLAME MAGIC:",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            918,
+            432,
+            980,
+            499
+        ],
+        "text": "THIS IS FUN!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1061,
+            19,
+            1104,
+            107
+        ],
+        "text": "TO BEGIN...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

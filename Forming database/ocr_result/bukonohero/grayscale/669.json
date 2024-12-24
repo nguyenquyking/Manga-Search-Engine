@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            61,
+            214,
+            114,
+            294
+        ],
+        "text": "Hey, you, boy in green...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            151,
+            425,
+            176,
+            469
+        ],
+        "text": "BDMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            713,
+            30,
+            769,
+            134
+        ],
+        "text": "An escapee with ties to him!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            706,
+            303,
+            748,
+            383
+        ],
+        "text": "Someone's here for me!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            746,
+            197,
+            848,
+            292
+        ],
+        "text": "Not just any old villain here randomly... They're specifically after me!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            861,
+            270,
+            889,
+            327
+        ],
+        "text": "Here we go...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            922,
+            249,
+            965,
+            344
+        ],
+        "text": "Here we go!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            827,
+            564,
+            890,
+            649
+        ],
+        "text": "You're coming with me.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            551,
+            670,
+            564,
+            723
+        ],
+        "text": "BDMP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1021,
+            549,
+            1043,
+            595
+        ],
+        "text": "BDMP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

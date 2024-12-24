@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            168,
+            78,
+            188,
+            211
+        ],
+        "text": "I'LL DEMOLISH HIM.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            99,
+            588,
+            214
+        ],
+        "text": "...IN THE FREE WORLD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            446,
+            550,
+            506,
+            618
+        ],
+        "text": "I LOVE IT OUT HERE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            855,
+            565,
+            887
+        ],
+        "text": "FSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            767,
+            519,
+            782,
+            570
+        ],
+        "text": "WOO",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1252,
+            54,
+            1385,
+            211
+        ],
+        "text": "YOU CAN'T STAND UP TO THAT BLOOD-CRAZED VILLAIN! YOU HAVE TO RUN!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1104,
+            307,
+            1164,
+            387
+        ],
+        "text": "WAIT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1250,
+            625,
+            1399,
+            757
+        ],
+        "text": "OUR TOWN'S ALREADY TORN APART! NO MORE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1350,
+            872,
+            1350,
+            921
+        ],
+        "text": "ZSH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

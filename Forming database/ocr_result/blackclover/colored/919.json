@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            243,
+            865,
+            398,
+            1016
+        ],
+        "text": "THAT WILL KEEP HER FROM MOVING FOR A FEW SECONDS!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            929,
+            87,
+            955,
+            818
+        ],
+        "text": "@Lumicht @ColorClovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1025,
+            87,
+            1114,
+            181
+        ],
+        "text": "...AND YOU WERE CURSED.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1083,
+            682,
+            1172,
+            793
+        ],
+        "text": "...AND PROTECT THE KINGDOM.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            999,
+            893,
+            1200,
+            1008
+        ],
+        "text": "ON THAT DAY, I DECIDED I WOULD DESTROY OUR ENEMIES IN YOUR PLACE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1216,
+            506,
+            1438,
+            620
+        ],
+        "text": "EVEN SO, SIX MONTHS AGO, I FAILED TO STOP MEGICULA AND VANICA'S ATTACK...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

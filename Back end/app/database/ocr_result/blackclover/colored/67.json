@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            94,
+            7,
+            249,
+            192
+        ],
+        "text": "I can't react fast enough with my word magic...!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            348,
+            241,
+            492
+        ],
+        "text": "With attacks this fast and this strong...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            118,
+            741,
+            131,
+            838
+        ],
+        "text": "Amazing...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            351,
+            529,
+            393,
+            615
+        ],
+        "text": "They're fast!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            101,
+            438,
+            334
+        ],
+        "text": "TWITTER: SCTARRY / COLORCLOVER",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

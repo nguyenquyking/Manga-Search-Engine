@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            48,
+            597,
+            96,
+            696
+        ],
+        "text": "DON'T YOU KNOW...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            266,
+            575,
+            326,
+            719
+        ],
+        "text": "...THAT EVEN IN THE CRUEL WORLD OF PIRATES...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            1042,
+            121,
+            1155
+        ],
+        "text": "TOO LATE!! YOU'RE DONE FOR!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            1406,
+            104,
+            1503
+        ],
+        "text": "BIG MOM?! PERFECT",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            184,
+            1414,
+            283,
+            1508
+        ],
+        "text": "DON'T LET THEM GET PAST YOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            243,
+            827,
+            293,
+            907
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            278,
+            1281,
+            319,
+            1384
+        ],
+        "text": "RUN, KOMACHIYO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            54,
+            509,
+            142
+        ],
+        "text": "PAGE ONE?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            405,
+            392,
+            493,
+            457
+        ],
+        "text": "MPUH... MPUH-PUH-PUH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            87,
+            659,
+            213
+        ],
+        "text": "OH! IT'S MAMA!! SHE'S STILL ALIVE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            293,
+            661,
+            428
+        ],
+        "text": "SOUNDS LIKE BIG MOM'S OVER THERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            59,
+            1017,
+            180
+        ],
+        "text": "UH-OH!! IT'S LADY ULTI!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            402,
+            1001,
+            465
+        ],
+        "text": "PAY- PAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            431,
+            1299,
+            593,
+            1497
+        ],
+        "text": "...THERE'S STILL A CODE OF HONOR?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            1166,
+            1028,
+            1351
+        ],
+        "text": "YOU CLOWNS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1120,
+            467,
+            1136,
+            727
+        ],
+        "text": "Next chapter hits May 9!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            130,
+            675,
+            167,
+            741
+        ],
+        "text": "GRRGGG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            528,
+            578,
+            512,
+            636
+        ],
+        "text": "CRAKK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

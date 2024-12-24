@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            127,
+            299,
+            244,
+            496
+        ],
+        "text": "It's better to wear it, Gya ha ha!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            571,
+            270,
+            781
+        ],
+        "text": "Yeah, cuz Oshiruko ain't fit for eatin'!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            1095,
+            265,
+            1360
+        ],
+        "text": "Hey!! Ya got Oshiruko all over me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            166,
+            813,
+            218,
+            1029
+        ],
+        "text": "AHAHAHAHA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            334,
+            125,
+            522,
+            319
+        ],
+        "text": "Bring more Oshiruko out! Let's have a food fight!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            779,
+            131,
+            972,
+            277
+        ],
+        "text": "...Have all the food in front of you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            601,
+            943,
+            763
+        ],
+        "text": "How come the idiots like you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1151,
+            129,
+            1289,
+            450
+        ],
+        "text": "CRUNK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1248,
+            613,
+            1481,
+            813
+        ],
+        "text": "...And Tama's stomach is still empty?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1557,
+            503,
+            1678,
+            673
+        ],
+        "text": "Gum-Gum...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1496,
+            774,
+            1667,
+            1404
+        ],
+        "text": "GRRRG...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

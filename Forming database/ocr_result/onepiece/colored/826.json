@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            55,
+            547,
+            110,
+            617
+        ],
+        "text": "UTTER DESTRUCTION!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            643,
+            94,
+            706
+        ],
+        "text": "EEK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            82,
+            399,
+            150,
+            509
+        ],
+        "text": "HAPPINESS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            35,
+            152,
+            169
+        ],
+        "text": "...PUNCH!!\u2661\u2661",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            276,
+            38,
+            333,
+            89
+        ],
+        "text": "HUH?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            544,
+            368,
+            623
+        ],
+        "text": "I... I CAN'T TAKE IT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            574,
+            513,
+            685
+        ],
+        "text": "WHAT?! I SAW HIM YESTERDAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            432,
+            582,
+            517
+        ],
+        "text": "IT'S SOBA MASK!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            711,
+            390,
+            763,
+            515
+        ],
+        "text": "N...NUH...NAMI'S...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            680,
+            29,
+            739,
+            137
+        ],
+        "text": "...AMPLE...BOUNTIFUL...CURVACEOUS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            859,
+            38,
+            934,
+            135
+        ],
+        "text": "SOUNDS LIKE HE'S INSIDE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            847,
+            324,
+            914,
+            414
+        ],
+        "text": "DID YOU SAY SOBA MASK?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            463,
+            928,
+            558
+        ],
+        "text": "WHAT'S THAT OUT-FIT? IS THIS A JOKE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            592,
+            916,
+            699
+        ],
+        "text": "SANJI?! WHY ARE YOU HERE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

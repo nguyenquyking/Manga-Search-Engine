@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            1284,
+            91,
+            1355,
+            253
+        ],
+        "text": "What was he trying to accomplish?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1360,
+            108,
+            1404,
+            228
+        ],
+        "text": "What a nuisance.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1310,
+            1126,
+            1449,
+            1260
+        ],
+        "text": "Is there anything I can still do?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1284,
+            1437,
+            1448,
+            1593
+        ],
+        "text": "Prince... Lady Tetia... What should I do?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1332,
+            1659,
+            1492,
+            1900
+        ],
+        "text": "The magic item we made with my magic did this! It was supposed to help people!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

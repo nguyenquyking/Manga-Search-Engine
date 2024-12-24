@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            122,
+            45,
+            172,
+            155
+        ],
+        "text": "As of today...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            336,
+            18,
+            367,
+            81
+        ],
+        "text": "So prickly.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            217,
+            464,
+            358,
+            683
+        ],
+        "text": "Liberation Warriors! I am Re-Destro!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            208,
+            1037,
+            412
+        ],
+        "text": "...The Metahuman Liberation Army is reborn!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1114,
+            1281,
+            1136,
+            1550
+        ],
+        "text": "ghostmk21-colourist.tumblr.com",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

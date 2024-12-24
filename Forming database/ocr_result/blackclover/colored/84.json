@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            192,
+            21,
+            356,
+            198
+        ],
+        "text": "If I want to fight like them...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            106,
+            296,
+            399,
+            505
+        ],
+        "text": "The effects of my anti-magic were weak, but they still had some effect!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            598,
+            274,
+            860
+        ],
+        "text": "Is it possible that my sword still has dormant powers, too...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            299,
+            598,
+            593,
+            847
+        ],
+        "text": "We exchanged blows, and it wasn't disintegrated by that demon's spear... Then, that means...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            949,
+            499,
+            1106
+        ],
+        "text": "That sword's true power...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            1225,
+            458,
+            1335
+        ],
+        "text": "So... that was...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1251,
+            28,
+            1697,
+            366
+        ],
+        "text": "But that lets me have a different power!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1277,
+            1016,
+            1644,
+            1330
+        ],
+        "text": "I don't have any magic power,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1964,
+            37,
+            1992,
+            227
+        ],
+        "text": "Time to release your potential!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1970,
+            771,
+            2027,
+            970
+        ],
+        "text": "BLACK CLOVER",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1961,
+            1046,
+            2037,
+            1184
+        ],
+        "text": "...Page 207\n/END",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

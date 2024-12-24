@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            44,
+            62,
+            82,
+            153
+        ],
+        "text": "Those two can't keep",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            30,
+            189,
+            91,
+            286
+        ],
+        "text": "No way!! She's withstanding",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            30,
+            458,
+            109,
+            562
+        ],
+        "text": "After all this, she still won't go down?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            40,
+            614,
+            117,
+            728
+        ],
+        "text": "What?! She's not getting blasted down the hole!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            406,
+            84,
+            515,
+            254
+        ],
+        "text": "You can give me 50 years of your life span!! Or you can keep it, and serve me!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            314,
+            496,
+            449
+        ],
+        "text": "...The moment I deflect this thing back at you!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            476,
+            500,
+            586
+        ],
+        "text": "You can select the fate you'll suffer...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            622,
+            488,
+            732
+        ],
+        "text": "Make your choice!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            56,
+            799,
+            129
+        ],
+        "text": "Aaah!! It's the soul",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            764,
+            172,
+            835,
+            307
+        ],
+        "text": "Slavery?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            744,
+            611,
+            828,
+            721
+        ],
+        "text": "Life... or...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            920,
+            49,
+            967,
+            168
+        ],
+        "text": "Raaah shur",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            95,
+            136,
+            282,
+            496
+        ],
+        "text": "There is nothing to worry about, Master Orochi... Have faith in the Barrier-Barrier Arts...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            110,
+            652,
+            216,
+            817
+        ],
+        "text": "EEEEEK!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            99,
+            944,
+            207,
+            1094
+        ],
+        "text": "Get out of there, Orochi!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            1183,
+            257,
+            1308
+        ],
+        "text": "Is it glass?! Doesn't seem to be!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            169,
+            676,
+            419
+        ],
+        "text": "BIWA-PLAYING PRIEST\nKUROZUMI\nSEMIMARU",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            548,
+            604,
+            645,
+            725
+        ],
+        "text": "BA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            827,
+            139,
+            1015,
+            326
+        ],
+        "text": "If you were a pirate, you should be quite aware...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            398,
+            967,
+            555
+        ],
+        "text": "Kyo Kyo Kyo!! That's right...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1134,
+            129,
+            1350,
+            342
+        ],
+        "text": "...of the supernatural powers conferred by a Devil Fruit!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1287,
+            406,
+            1371,
+            568
+        ],
+        "text": "OLD HAG\nKUROZUMI\nHIGURASHI",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            814,
+            969,
+            1034,
+            1116
+        ],
+        "text": "Your strength means nothing here, Oden!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            1183,
+            1159,
+            1385
+        ],
+        "text": "This barrier will resist any attempt to breach it.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1503,
+            204,
+            1697,
+            367
+        ],
+        "text": "But nobody can kill me!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1522,
+            745,
+            1702,
+            1046
+        ],
+        "text": "Mwa! Mwa ha ha! If this was a problem anger and violence could solve, Oden...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1518,
+            1179,
+            1645,
+            1350
+        ],
+        "text": "You have powers then!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1810,
+            780,
+            2010,
+            1041
+        ],
+        "text": "...Then all the Daimyos of Wano would have done it already!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1939,
+            1131,
+            2064,
+            1368
+        ],
+        "text": "That's right. As they say here, we are sorcery users...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

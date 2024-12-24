@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            70,
+            59,
+            153,
+            176
+        ],
+        "text": "We've got the same amount of magic.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            27,
+            576,
+            209,
+            730
+        ],
+        "text": "Gravity Magic: Presence of the Demon King",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            76,
+            564,
+            171
+        ],
+        "text": "I can buckle down and take this!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

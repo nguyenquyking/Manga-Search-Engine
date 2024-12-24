@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            66,
+            288,
+            96,
+            357
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            386,
+            100,
+            478
+        ],
+        "text": "Whoa!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            589,
+            146,
+            701
+        ],
+        "text": "Have at thee!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            754,
+            156,
+            774,
+            218
+        ],
+        "text": "Shunk!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

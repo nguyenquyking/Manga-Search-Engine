@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            84,
+            158,
+            233,
+            582
+        ],
+        "text": "THEY'VE REALLY GONE AND DONE IT NOW!!! URRP...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            715,
+            210,
+            983
+        ],
+        "text": "DID YOU SENSE THAT TOO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            158,
+            1168,
+            206,
+            1297
+        ],
+        "text": "ZZRSH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            558,
+            1228,
+            645,
+            1350
+        ],
+        "text": "HUFF, HUFF!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            123,
+            1019,
+            354
+        ],
+        "text": "...LOST THE FIGHT!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            849,
+            1270,
+            902,
+            1463
+        ],
+        "text": "LINLIN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1483,
+            470,
+            1529,
+            600
+        ],
+        "text": "AAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1529,
+            1297,
+            1559,
+            1457
+        ],
+        "text": "VWOOO!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1699,
+            633,
+            1786,
+            753
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1761,
+            806,
+            1873,
+            966
+        ],
+        "text": "YOU GOT A MOUTH ON YA, KID?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2008,
+            812,
+            2129,
+            960
+        ],
+        "text": "HELLO? CAN YOU SPEAK?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2006,
+            111,
+            2189,
+            299
+        ],
+        "text": "MAAA MA MA HA HA HA!! HOW OLD ARE YOU?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2047,
+            1070,
+            2205,
+            1285
+        ],
+        "text": "JAGGY AND TRAFFY WON?! THAT'S AMAZING...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2099,
+            1330,
+            2173,
+            1421
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

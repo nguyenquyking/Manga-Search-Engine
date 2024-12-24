@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            54,
+            61,
+            131,
+            126
+        ],
+        "text": "...will be able...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            188,
+            17,
+            239,
+            112
+        ],
+        "text": "...to play together.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            609,
+            140,
+            694
+        ],
+        "text": "But now we really...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            796,
+            232,
+            835,
+            306
+        ],
+        "text": "WHAT...IN...?!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            40,
+            101,
+            67,
+            410
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            48,
+            472,
+            68,
+            675
+        ],
+        "text": "(Anonymous, Tokyo)",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            701,
+            268,
+            1021
+        ],
+        "text": "Q: I know the Navy has admirals, vice admirals, captains, and so on. I guess the fleet admiral is on the top? What's the order of their ranks?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            280,
+            952,
+            302,
+            1022
+        ],
+        "text": "--H.U.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            331,
+            94,
+            382,
+            990
+        ],
+        "text": "A: Ah, yes. You know, I don't think I've gone through the Naval ranks again since the time skip. Here's where everyone is now.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            428,
+            104,
+            475,
+            371
+        ],
+        "text": "Fleet Admiral\nSakazuki (Akainu)",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            516,
+            105,
+            564,
+            902
+        ],
+        "text": "Admiral\nBorsalino (Kizaru)\nIssho (Fujitora)\n(Ryokugyu)",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            603,
+            105,
+            652,
+            896
+        ],
+        "text": "Vice Admiral\nMonkey D. Garp\nTsuru\nJohn Giant",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            696,
+            281,
+            724,
+            879
+        ],
+        "text": "Doberman\nOnigumo\nMomonga",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            787,
+            281,
+            814,
+            862
+        ],
+        "text": "Yamakaji\nStrawberry\nBastille",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            867,
+            281,
+            915,
+            876
+        ],
+        "text": "Maynard\nGion (Momousagi)\nTokikake (Chaton)",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            966,
+            281,
+            987,
+            600
+        ],
+        "text": "Smoker\nKomille",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1043,
+            105,
+            1092,
+            900
+        ],
+        "text": "Rear Admiral\nHina\nT-Bone (Former Captain)\nExtras",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1081,
+            101,
+            1193,
+            970
+        ],
+        "text": "Sengoku\nFormer fleet admiral\nSengoku is now an inspector general\ninstructing younger recruits.",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1209,
+            103,
+            1289,
+            986
+        ],
+        "text": "Kuzan (Aokiji)\nFormer Admiral Aokiji is rumored to be in touch with Blackbeard.",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1324,
+            103,
+            1417,
+            973
+        ],
+        "text": "X. Drake (Former Rear Admiral)\nHelmeppo\nFullbody (Fmr. Seaman Recruit)\nJango (Fmr. Seaman Recruit)",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1430,
+            102,
+            1537,
+            972
+        ],
+        "text": "Lieutenant, Lt. Jr. Grade, Ensign, Warrant Officer\nMaster Chief Petty Officer, Chief Petty Officer, Petty Officer\nSeaman, Seaman Apprentice, Seaman Recruit, Chore Boy\nCorazon (Former Commander)",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1516,
+            972,
+            1576,
+            1009
+        ],
+        "text": "100",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

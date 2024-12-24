@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            108,
+            501,
+            306,
+            717
+        ],
+        "text": "...wound up being meant for those who lacked power to start with. They are the ones who can draw out its true value.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            676,
+            64,
+            838,
+            180
+        ],
+        "text": "(Especially now that the predecessors' Quirks are manifesting, I definitely can't pass this on to a normal person.)",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            698,
+            210,
+            717,
+            274
+        ],
+        "text": "(You mean\u2026)",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

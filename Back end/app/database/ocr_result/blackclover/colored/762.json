@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            120,
+            138,
+            289,
+            309
+        ],
+        "text": "The older twin was bad, a delinquent.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            395,
+            69,
+            523,
+            258
+        ],
+        "text": "Most people disapproved of him.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            131,
+            955,
+            375,
+            1121
+        ],
+        "text": "The younger twin was the very picture of a good man.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            448,
+            1014,
+            553,
+            1163
+        ],
+        "text": "He was beloved by many.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            771,
+            212,
+            976,
+            384
+        ],
+        "text": "He used magic arbitrarily, and only for himself.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            749,
+            810,
+            989,
+            982
+        ],
+        "text": "He joined the Magic Knights, saving people as a matter of course.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1355,
+            259,
+            1456,
+            348
+        ],
+        "text": "Yo, Morgen.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1483,
+            463,
+            1615,
+            579
+        ],
+        "text": "Don't be an idiot! Where's the fun in that?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1273,
+            1009,
+            1403,
+            1155
+        ],
+        "text": "You won't join the Magic Knights, brother?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1524,
+            843,
+            1650,
+            1000
+        ],
+        "text": "With your magic, you could help a lot of people.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

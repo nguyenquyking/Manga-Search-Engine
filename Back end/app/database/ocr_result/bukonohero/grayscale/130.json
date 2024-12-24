@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            12,
+            117,
+            117,
+            243
+        ],
+        "text": "Our plan assumes that they're employing the search quirk...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            605,
+            190,
+            752
+        ],
+        "text": "Like, \"Even our desperate search couldn't locate those pieces of crap! Screw this!\" and whatnot...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            162,
+            364,
+            210,
+            453
+        ],
+        "text": "That's one interpretation.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            155,
+            526,
+            206,
+            627
+        ],
+        "text": "As if that's our situation?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            117,
+            49,
+            226,
+            155
+        ],
+        "text": "...and can therefore track every move our people make.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            329,
+            66,
+            456,
+            289
+        ],
+        "text": "It will embolden them to see us making one wrong move after another, playing right into their hands...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            333,
+            621,
+            422,
+            726
+        ],
+        "text": "Everything we've done since Midoriya's return...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            513,
+            478,
+            622
+        ],
+        "text": "...makes them think we're exhausted and panicking.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            179,
+            589,
+            231
+        ],
+        "text": "BWSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            675,
+            359,
+            764,
+            443
+        ],
+        "text": "Oh! So Aoyama's coming back to us!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            641,
+            673,
+            761
+        ],
+        "text": "As Class A's homeroom teacher, I have an idea.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            95,
+            916,
+            152
+        ],
+        "text": "Ahem! If I may...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            216,
+            911,
+            279
+        ],
+        "text": "That's great!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            522,
+            1072,
+            645
+        ],
+        "text": "...to raise our odds of luring all for one to a location of our choosing by using his infiltrator, Aoyama.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            658,
+            965,
+            753
+        ],
+        "text": "Then, Eraser came up with that plan...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

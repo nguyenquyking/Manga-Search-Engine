@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            267,
+            65,
+            357,
+            183
+        ],
+        "text": "I DON'T THINK MIDORIYA COULD'VE IGNORED TOGA FOR LONG.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            285,
+            235,
+            305,
+            286
+        ],
+        "text": "GOOD.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            361,
+            617,
+            395,
+            677
+        ],
+        "text": "HE'S GONE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            29,
+            882,
+            141
+        ],
+        "text": "ALL I WANT IS TO LIVE THE WAY THAT FEELS RIGHT TO ME.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            701,
+            161,
+            861,
+            235
+        ],
+        "text": "I'M READY TO BE WHO I WANT TO BE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            634,
+            331,
+            709,
+            416
+        ],
+        "text": "IZUKU, OCHACO, TSUYU...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            585,
+            632,
+            723
+        ],
+        "text": "I CAN'T STAND THE THOUGHT OF A SECRET MY FRIEND HOLDS DEAR...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            535,
+            426,
+            590,
+            520
+        ],
+        "text": "...I'VE HAD... ENOUGH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            186,
+            959,
+            248
+        ],
+        "text": "RIGHT?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            312,
+            1044,
+            366
+        ],
+        "text": "...I'M DONE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            999,
+            415,
+            1065,
+            498
+        ],
+        "text": "I LOVE YOU ALL, BUT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            616,
+            1071,
+            705
+        ],
+        "text": "...BEING REVEALED LIKE THAT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

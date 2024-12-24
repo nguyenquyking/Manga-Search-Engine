@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            103,
+            77,
+            256,
+            228
+        ],
+        "text": "...But for someone of his size, we would require 30 liters of the solution.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            115,
+            346,
+            243,
+            577
+        ],
+        "text": "We gotta boogie, c'mon!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            113,
+            690,
+            224,
+            854
+        ],
+        "text": "Ordinarily, this sedative would be administered via injection...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            311,
+            348,
+            346,
+            414
+        ],
+        "text": "BLOOP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            516,
+            72,
+            579,
+            237
+        ],
+        "text": "Instead, we'll try to give him an oral dose.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            470,
+            712,
+            623,
+            876
+        ],
+        "text": "Plus there's no opening to give him an injection because he's constantly on the move.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            761,
+            337,
+            884,
+            462
+        ],
+        "text": "So you're saying if any one of us can toss it into his mouth...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            817,
+            94,
+            865,
+            212
+        ],
+        "text": "He'll be sedated!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1183,
+            200,
+            1240,
+            324
+        ],
+        "text": "Midnight's... still alive, right...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1313,
+            28,
+            1365,
+            149
+        ],
+        "text": "Of course!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1237,
+            759,
+            1315,
+            876
+        ],
+        "text": "A single vial's worth...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1247,
+            530,
+            1350,
+            667
+        ],
+        "text": "...should prove effective since it's undiluted.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

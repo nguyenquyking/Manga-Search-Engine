@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            82,
+            720,
+            107,
+            818
+        ],
+        "text": "Huff...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            237,
+            554,
+            261,
+            655
+        ],
+        "text": "Huff...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            436,
+            305,
+            512,
+            416
+        ],
+        "text": "PROTECT THEM, TWICE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            40,
+            1227,
+            200
+        ],
+        "text": "BY CAUSING THEM MORE PAIN! I CAN'T LET IT END THIS WAY!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            928,
+            640,
+            1031,
+            703
+        ],
+        "text": "AND HOW'D I PAY THEM BACK?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            924,
+            820,
+            987,
+            920
+        ],
+        "text": "THEY ACCEPTED ME.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

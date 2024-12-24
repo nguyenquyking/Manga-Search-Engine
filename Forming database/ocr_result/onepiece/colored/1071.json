@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            80,
+            49,
+            205,
+            224
+        ],
+        "text": "...We have Sir Franosuke working as an apprentice to the carpenter who built Kaido's mansion...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            264,
+            57,
+            361,
+            171
+        ],
+        "text": "...that we might gain the plans to it!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            88,
+            499,
+            165,
+            606
+        ],
+        "text": "...Once we have disembarked on Onigashima...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            629,
+            172,
+            732
+        ],
+        "text": "And to ensure we do not get lost...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            448,
+            39,
+            544,
+            136
+        ],
+        "text": "I understand that she has been popular!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            174,
+            540,
+            317
+        ],
+        "text": "...Attempting to reach closer and closer to Orochi!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            45,
+            708,
+            131
+        ],
+        "text": "I wanna see Geisha Robin!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            555,
+            549,
+            722
+        ],
+        "text": "In order to keep tabs on the movements of Orochi's forces...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            626,
+            573,
+            711,
+            727
+        ],
+        "text": "...Lady Orobi will play the part of a geisha at his banquets...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            813,
+            43,
+            913,
+            222
+        ],
+        "text": "Sir Sanji's cooking will attract attention and help us in our quest to find others!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            263,
+            907,
+            423
+        ],
+        "text": "Lady Nami's weather control is practically ninjutsu! She will be a kunoichi!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            476,
+            879,
+            585
+        ],
+        "text": "...to procure food supplies in the capital.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            604,
+            873,
+            711
+        ],
+        "text": "Sir Brook's ability will help us...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1071,
+            158,
+            1113,
+            229
+        ],
+        "text": "Kunoichi Nami!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1072,
+            380,
+            1125,
+            434
+        ],
+        "text": "A female ninja?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1077,
+            620,
+            1128,
+            704
+        ],
+        "text": "Huh? It will?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

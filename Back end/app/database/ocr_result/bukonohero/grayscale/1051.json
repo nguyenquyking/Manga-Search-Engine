@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            66,
+            84,
+            155,
+            173
+        ],
+        "text": "THAT LAST BIT BEING THE MOST POINTLESS OF ALL.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            381,
+            4,
+            452,
+            138
+        ],
+        "text": "\"WHAT REALLY MATTERS IS CONTROLLING YOUR HEART.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            188,
+            519,
+            302
+        ],
+        "text": "\"WHEN YOU USE THIS POWER OUT OF ANGER, IT'LL REALLY START WORKING FOR YOU.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

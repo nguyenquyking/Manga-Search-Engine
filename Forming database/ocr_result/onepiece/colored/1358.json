@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            52,
+            91,
+            207,
+            297
+        ],
+        "text": "The ambitious Stelly married Princess Isntioinette to get into the royal family and ascended to the throne a few months ago after the untimely death of the king and prince.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            336,
+            169,
+            447
+        ],
+        "text": "Stelly was the younger adopted brother of Sabo's noble family.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            481,
+            169,
+            594
+        ],
+        "text": "Goa Kingdom is the place where Luffy, Ace, and Sabo spent their childhood.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            90,
+            640,
+            168,
+            732
+        ],
+        "text": "A King Stelly Refresher",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            382,
+            71,
+            501,
+            241
+        ],
+        "text": "Hand over all the insider connections you have! I want to be a Celestial Dragon as soon as possible!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            296,
+            465,
+            367
+        ],
+        "text": "I'll be brief, Garp!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            429,
+            496,
+            546
+        ],
+        "text": "Your insolence leaves me speechless!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            386,
+            587,
+            454,
+            654
+        ],
+        "text": "Your face is dumb.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            382,
+            684,
+            466,
+            734
+        ],
+        "text": "Okay. Well, move it.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            54,
+            807,
+            115
+        ],
+        "text": "Forget I said it.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            147,
+            805,
+            229
+        ],
+        "text": "Oh! Right, that's a no-no.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            770,
+            269,
+            829,
+            415
+        ],
+        "text": "Whaaaat?!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            756,
+            641,
+            837,
+            738
+        ],
+        "text": "You wanna be one of those scumbags?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            472,
+            855,
+            601
+        ],
+        "text": null,
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            955,
+            87,
+            1027,
+            201
+        ],
+        "text": "He's terrifying!!!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1041,
+            271,
+            1141,
+            410
+        ],
+        "text": "Did anyone hear that?! You could be put to death for saying that!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

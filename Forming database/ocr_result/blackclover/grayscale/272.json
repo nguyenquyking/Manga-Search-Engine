@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            128,
+            910,
+            657,
+            958
+        ],
+        "text": "KABLOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            880,
+            129,
+            1016,
+            258
+        ],
+        "text": "Awww! But that's what he seems like to me, you know.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            494,
+            1030,
+            591
+        ],
+        "text": "Excuse me?! Don't play with my brother!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            730,
+            1065,
+            984
+        ],
+        "text": "AAAH! NOZEL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1326,
+            121,
+            1438,
+            230
+        ],
+        "text": "...Let's get back to the subject at hand.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1280,
+            524,
+            1408,
+            662
+        ],
+        "text": "Well, since that Nozel's gone flying...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

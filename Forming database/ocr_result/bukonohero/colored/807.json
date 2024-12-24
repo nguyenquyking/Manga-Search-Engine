@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            101,
+            67,
+            155,
+            173
+        ],
+        "text": "Something to drink, perhaps?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            231,
+            145,
+            500
+        ],
+        "text": "FSSHH\nRub\nRub\nRub",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            106,
+            548,
+            149,
+            676
+        ],
+        "text": "Splendidly done, sir!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            269,
+            65,
+            356,
+            155
+        ],
+        "text": "I guess he climbed the corporate ladder by kissing butt like that?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            288,
+            220,
+            330,
+            298
+        ],
+        "text": "This is painful to witness.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            287,
+            338,
+            344,
+            404
+        ],
+        "text": "Let us \"get lost,\" Trumpet!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            294,
+            419,
+            311,
+            493
+        ],
+        "text": "Happily!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            305,
+            690,
+            338,
+            735
+        ],
+        "text": "Get lost.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            478,
+            411,
+            531
+        ],
+        "text": "ZOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            504,
+            96,
+            523,
+            368
+        ],
+        "text": "ghostmk21-colourist.tumblr.com",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            564,
+            302,
+            577,
+            347
+        ],
+        "text": "Whoa!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            575,
+            432,
+            591,
+            468
+        ],
+        "text": "Guh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            628,
+            696,
+            749
+        ],
+        "text": "SLAM\n\u30ac\u30c3",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            574,
+            63,
+            652,
+            223
+        ],
+        "text": "It's a miracle he was standing at all, given his wounds...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            777,
+            114,
+            849,
+            211
+        ],
+        "text": "...and you're back to your original self, quirk included.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            749,
+            222,
+            828,
+            304
+        ],
+        "text": "Hmph! Your memories returned...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            767,
+            330,
+            894,
+            433
+        ],
+        "text": "That's how you wanted me to prove myself, if I remember right.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            465,
+            842,
+            527
+        ],
+        "text": "Hey, I tamed Machia.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            619,
+            935,
+            778
+        ],
+        "text": "What an overblown new name! Though it's certainly better than \"League of Villains,\" which always felt so tacky.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1031,
+            65,
+            1060,
+            145
+        ],
+        "text": "As promised...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1057,
+            323,
+            1102,
+            402
+        ],
+        "text": "You talkin' to Doc Ujiko?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

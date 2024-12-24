@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            30,
+            590,
+            122,
+            747
+        ],
+        "text": "Gravity Magic:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            65,
+            200,
+            311
+        ],
+        "text": "Heavy Infighting",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            622,
+            465,
+            603,
+            521
+        ],
+        "text": "KRAKKA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            893,
+            56,
+            968,
+            146
+        ],
+        "text": "...you filthy thief!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            382,
+            840,
+            452
+        ],
+        "text": "Shut your mouth...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            387,
+            951,
+            424
+        ],
+        "text": "ZZT",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1052,
+            486,
+            1092,
+            562
+        ],
+        "text": "Huh, Chief?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            886,
+            681,
+            1055,
+            766
+        ],
+        "text": "Hey,\nDidn't you say I could\nattack you as much\nas I wanted?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

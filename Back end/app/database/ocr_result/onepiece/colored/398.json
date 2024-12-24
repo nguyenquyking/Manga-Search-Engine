@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            148,
+            431,
+            154,
+            513
+        ],
+        "text": "ZADOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            378,
+            57,
+            469,
+            172
+        ],
+        "text": "Pwee! Pwee!!  Nzok! Nzok!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            396,
+            402,
+            472,
+            513
+        ],
+        "text": "Is it really gonna wreck the entire capital?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            514,
+            65,
+            585,
+            156
+        ],
+        "text": "Hey! Pipe down, oinker!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            530,
+            418,
+            590,
+            509
+        ],
+        "text": "Just for this little piglet?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            677,
+            52,
+            721,
+            184
+        ],
+        "text": "That's... That's Kozuki",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            694,
+            286,
+            829,
+            413
+        ],
+        "text": "I need it to pay off various debts! And then I'll use the rest to win a fortune that'll--",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            683,
+            445,
+            818,
+            557
+        ],
+        "text": "Hey, wait!! This boar's gonna turn into one platinum for me!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            603,
+            799,
+            736
+        ],
+        "text": "I told you to give that boar to me!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            248,
+            823,
+            281
+        ],
+        "text": "\u2026",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            932,
+            239,
+            966,
+            324
+        ],
+        "text": "\u30c9\u30c3\u30ad\u2026!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            994,
+            52,
+            1143,
+            187
+        ],
+        "text": "I have no respect for any of the stupid adults in the world\u2026 except for him!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

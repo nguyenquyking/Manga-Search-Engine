@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            93,
+            2030,
+            142,
+            2105
+        ],
+        "text": "?!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            680,
+            2072,
+            673,
+            2172
+        ],
+        "text": "WHAM!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            740,
+            450,
+            746,
+            635
+        ],
+        "text": "DADADADADA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            927,
+            625,
+            1051,
+            817
+        ],
+        "text": "BFWOH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            812,
+            1515,
+            996,
+            1797
+        ],
+        "text": "HYDRA!!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            2260,
+            1009,
+            2397
+        ],
+        "text": "GEAR FOUR,\nSNAKE-MAN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            1880,
+            1071,
+            2000
+        ],
+        "text": "GUM-GUM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1215,
+            354,
+            1215,
+            455
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1326,
+            130,
+            1598,
+            332
+        ],
+        "text": "...IF\nIT'S THE\nLAST\nTHING I\nDO!!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1297,
+            950,
+            1551,
+            1175
+        ],
+        "text": "I'M\nGOING TO\nDRIVE YOU\nOUT OF\nWANO...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1308,
+            1345,
+            1434,
+            1567
+        ],
+        "text": "I'M NOT\nSTOPPING UNTIL\nI'VE COMPLETELY\nRUN OUT OF\nSTRENGTH!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1341,
+            1640,
+            1414,
+            1835
+        ],
+        "text": "THIS IS MY\nFINAL GEAR\nFOUR!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1620,
+            1310,
+            1752,
+            1424
+        ],
+        "text": "WHERE\nARE THESE\nPUNCHES\nCOMING\nFROM...?!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1273,
+            1997,
+            1501,
+            2347
+        ],
+        "text": "WEEZ,\nWEEZ...\nYOUR\nAMBITIONS\nMEAN\nNOTHING\nTO ME!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1600,
+            2125,
+            1728,
+            2385
+        ],
+        "text": "ESPECIALLY IF IT\nLEAVES THE PEOPLE\nHERE WITH NO\nFOOD TO EAT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1786,
+            1575,
+            1819,
+            2020
+        ],
+        "text": "GAK GAK GAK\nGAK GAK",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1790,
+            92,
+            1814,
+            390
+        ],
+        "text": "To be continued!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

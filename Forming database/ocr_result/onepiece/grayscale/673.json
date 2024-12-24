@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            33,
+            128,
+            144,
+            227
+        ],
+        "text": "HOW MANY MIRACLES HAVE YOU SEEN?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            311,
+            143,
+            419
+        ],
+        "text": "AFTER ALL THIS TIME WE'VE BEEN TOGETHER...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            638,
+            106,
+            744
+        ],
+        "text": "DON'T CRY, IDIOT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            238,
+            520,
+            349
+        ],
+        "text": "LEAVE THAT DINOSAUR TO ME!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            417,
+            472,
+            516
+        ],
+        "text": "TWO... THOUSAND!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            539,
+            479,
+            647
+        ],
+        "text": "HE'S GOT THE STRENGTH OF TEN WHEN HE'S HEALTHY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            677,
+            472,
+            749
+        ],
+        "text": "TAKE CARE OF HIM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            380,
+            554,
+            442
+        ],
+        "text": "WAIT... WHAT IS THAT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            629,
+            104,
+            643,
+            191
+        ],
+        "text": "DADOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            641,
+            276,
+            698,
+            343
+        ],
+        "text": "IT'S YOU...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            555,
+            678,
+            590
+        ],
+        "text": "WHAK!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            693,
+            52,
+            766,
+            138
+        ],
+        "text": "YOU'RE JUDGE'S SON!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            374,
+            783,
+            452
+        ],
+        "text": "ZORO?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            154,
+            933,
+            267
+        ],
+        "text": "THIS IS WHY I LIKE YOU GUYS.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            623,
+            938,
+            754
+        ],
+        "text": "BUT... WHY DOES HE KEEP FIGHTING...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            451,
+            1001,
+            492
+        ],
+        "text": "KABOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            992,
+            333,
+            1084,
+            434
+        ],
+        "text": "HIS CAPTAIN... IS ALREADY DEAD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

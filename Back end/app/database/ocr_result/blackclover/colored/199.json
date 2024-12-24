@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            58,
+            71,
+            306,
+            146
+        ],
+        "text": "THE ONLY THING YOU NEED TO KNOW IS... EVERYTHING IS FOR THE SAKE OF THE MIDNIGHT SUN!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            390,
+            193,
+            454
+        ],
+        "text": "YOU DON'T NEED TO KNOW...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            156,
+            500,
+            227,
+            546
+        ],
+        "text": "EH? HUH? WHAT? BAHA?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            773,
+            278,
+            880
+        ],
+        "text": "WHO IN BLAZES ARE YOU LOT!!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            776,
+            720,
+            888
+        ],
+        "text": "DIE!!!!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1101,
+            68,
+            1207,
+            188
+        ],
+        "text": "I'VE GOT NO MAGIC POWER LEFT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1073,
+            726,
+            1257,
+            880
+        ],
+        "text": "I DON'T KNOW WHAT'S GOING ON, BUT... I'M DEPENDING ON YOU, SEKKE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

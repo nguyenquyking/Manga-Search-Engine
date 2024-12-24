@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            144,
+            836,
+            248,
+            970
+        ],
+        "text": "...to the Flower Capital!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            233,
+            142,
+            326,
+            288
+        ],
+        "text": "Wano will be no more!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            121,
+            659,
+            288
+        ],
+        "text": "And its Shogun shall be my son, Yamato!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            476,
+            814,
+            649,
+            1002
+        ],
+        "text": "Instead, there will be only New Onigashima!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            148,
+            972,
+            355
+        ],
+        "text": "Hey, show me the way!! They're gonna kill Momo!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            540,
+            911,
+            676
+        ],
+        "text": "Stupid Dad!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            820,
+            723,
+            926,
+            885
+        ],
+        "text": "Not even for a second!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            887,
+            1060,
+            998
+        ],
+        "text": "Look, there's Yamato!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            115,
+            1156,
+            224
+        ],
+        "text": "Someone call the Tobi Roppo!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

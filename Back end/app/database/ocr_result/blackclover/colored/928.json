@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            131,
+            63,
+            289,
+            215
+        ],
+        "text": "It's intriguing, but I really don't see the point.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            278,
+            879,
+            451,
+            1003
+        ],
+        "text": "There's clearly no way you can win.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            481,
+            498,
+            602
+        ],
+        "text": "And yet you struggle. Why?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            68,
+            1018,
+            286
+        ],
+        "text": "However, there's no human alive who can produce a spell capable of defeating me within Decaying World.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            792,
+            809,
+            1010,
+            996
+        ],
+        "text": "Could that be how humans occasionally surpass expectations and create spells...?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1232,
+            78,
+            1490,
+            272
+        ],
+        "text": "You humans, though. You hold on to nonsensical ideas and risk your lives for meaningless things.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1252,
+            795,
+            1472,
+            982
+        ],
+        "text": "Devils never disobey those whose level is higher than their own. It's futile, after all.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

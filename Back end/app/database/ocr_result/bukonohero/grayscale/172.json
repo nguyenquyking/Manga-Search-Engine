@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            69,
+            378,
+            207,
+            490
+        ],
+        "text": "Thoughts of Himiko Toga popped into my head.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            378,
+            233,
+            504,
+            334
+        ],
+        "text": "She looked so sad, hearing that.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            371,
+            547,
+            504
+        ],
+        "text": "She said something, and I fired back with stuff I thought was obvious. Stuff I take for granted.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            380,
+            628,
+            524,
+            761
+        ],
+        "text": "We fought, you know. Just me and her, during Giganto-Macia's rampage.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            667,
+            90,
+            760,
+            174
+        ],
+        "text": "Of course I know that, but still...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            617,
+            200,
+            745,
+            291
+        ],
+        "text": "The thought of just forgiving her? Nah, we're way past that point.",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            646,
+            503,
+            776,
+            615
+        ],
+        "text": "She's a villain who helped them snuff out people's lives, their happiness.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            611,
+            647,
+            713,
+            726
+        ],
+        "text": "Look what they did to the city.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            96,
+            1114,
+            216
+        ],
+        "text": "I got to thinking... about how I don't know the first thing about Himiko Toga.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            957,
+            551,
+            1133,
+            686
+        ],
+        "text": "She's a person too, and I have no clue what's \"obvious\" for her. Like, what she takes for granted.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

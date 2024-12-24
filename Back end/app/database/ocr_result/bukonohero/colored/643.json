@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            133,
+            403,
+            154,
+            564
+        ],
+        "text": "ENDEAVOR!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            206,
+            592,
+            319,
+            684
+        ],
+        "text": "BWOOSH\nAH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            367,
+            438,
+            383,
+            485
+        ],
+        "text": "WHOA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            3,
+            490,
+            366
+        ],
+        "text": "FLIK\nRYUKYU!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            917,
+            61,
+            997,
+            246
+        ],
+        "text": "ANYONE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

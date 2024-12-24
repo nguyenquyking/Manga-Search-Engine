@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            86,
+            136,
+            282,
+            273
+        ],
+        "text": "I WOULD\nCONSIDER IT\nAN HONOR,\nSHOGUN\nOROCHI!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            401,
+            244,
+            548
+        ],
+        "text": "CAN YOU\nOFFER ME\nPROTECTION?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            612,
+            244,
+            731
+        ],
+        "text": "I'VE\nHEARD\nOF YOUR\nREPUTATION!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            95,
+            947,
+            207,
+            1124
+        ],
+        "text": "THE\nKYOSHIRO\nFAMILY, EH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            663,
+            72,
+            820,
+            253
+        ],
+        "text": "WHAT\nBRILLIANCE!\nWHAT\nCHARISMA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            654,
+            349,
+            812,
+            547
+        ],
+        "text": "HE'S SO\nCAPABLE!\nWHO IS THAT\nMAN?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            682,
+            849,
+            794,
+            1105
+        ],
+        "text": "I CAN BRING\nYOU EVERYTHING\nYOU NEED.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            1154,
+            777,
+            1320
+        ],
+        "text": "MONEY!!\nWOMEN!!\nSOLDIERS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1380,
+            87,
+            1518,
+            211
+        ],
+        "text": "YEAH, HE\nALWAYS\nLOOKS\nSLEEPY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1311,
+            269,
+            1449,
+            416
+        ],
+        "text": "BUT HE'S\nGOT A\nWEAKNESS\nTOO.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1283,
+            488,
+            1496,
+            702
+        ],
+        "text": "THE\nKYOSHIRO\nFAMILY RUNS\nTHE FLOWER\nCAPITAL!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1321,
+            928,
+            1470,
+            1092
+        ],
+        "text": "...IT'S THE\nBIRTH OF A\nNEW MOB\nLEADER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1311,
+            1131,
+            1468,
+            1304
+        ],
+        "text": "NOW\nTHAT BOSS\nHYOGORO\nIS GONE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1881,
+            57,
+            2064,
+            211
+        ],
+        "text": "I BET\nHE'S UP\nALL NIGHT,\nCAVORTING\n!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1885,
+            257,
+            2062,
+            411
+        ],
+        "text": "THEY\nCALL HIM\nNAPPING\nKYOSHIRO\n!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1954,
+            512,
+            2142,
+            826
+        ],
+        "text": "BE-BC",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

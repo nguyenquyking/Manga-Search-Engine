@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            40,
+            57,
+            139,
+            233
+        ],
+        "text": "Those are the Six Powers, the fighting abilities of government agents! Which reminds me...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            43,
+            272,
+            133,
+            384
+        ],
+        "text": "Should I call this Iron Body, then?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            46,
+            534,
+            178
+        ],
+        "text": "Yes, that was me!! I knew you... but you don't know me!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            218,
+            525,
+            324
+        ],
+        "text": "Ha ha ha!! I can't believe you remember that!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            412,
+            542,
+            586
+        ],
+        "text": "...who escaped from jail. Seems strange that a secret agent would be in prison, however.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            414,
+            617,
+            527,
+            721
+        ],
+        "text": "I heard about a member of the secret government agency CP9...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            652,
+            457,
+            665,
+            490
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

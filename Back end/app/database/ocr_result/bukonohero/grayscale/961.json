@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            180,
+            45,
+            201,
+            127
+        ],
+        "text": "MACHIA?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            350,
+            26,
+            458,
+            140
+        ],
+        "text": "THAT REMINDS ME! THE MESSAGE I GOT FROM THE GANG AT THE VILLA...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            637,
+            361,
+            714
+        ],
+        "text": "NO STRENGTH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            547,
+            32,
+            664,
+            184
+        ],
+        "text": "...WEAVED THIS THREAD OF HOPE!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            562,
+            580,
+            653,
+            702
+        ],
+        "text": "THEY SAID THEIR STRATEGY HAD NO EFFECT, BUT LOOK...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            897,
+            339,
+            1003,
+            477
+        ],
+        "text": "THE SEDATIVE MUST'VE WORKED!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            877,
+            550,
+            948,
+            634
+        ],
+        "text": "INDEED. SOMEONE OUT THERE...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            22,
+            1132,
+            286
+        ],
+        "text": "Next chapter hits Dec. 13!",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

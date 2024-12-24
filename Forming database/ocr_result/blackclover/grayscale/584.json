@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            424,
+            829,
+            521,
+            1011
+        ],
+        "text": "...Lucifero!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            937,
+            93,
+            1024,
+            163
+        ],
+        "text": "What a find!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            344,
+            974,
+            487
+        ],
+        "text": "ONE OF THE HIGHEST DEVILS...?!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            952,
+            872,
+            1180,
+            1000
+        ],
+        "text": "Who'd have believed a devil would be in the human world without making a contract with a human...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1328,
+            126,
+            1500,
+            259
+        ],
+        "text": "I'll use him to search for a way to manifest my own body in the human...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1392,
+            355,
+            1508,
+            479
+        ],
+        "text": "MY BODY... ISN'T LISTENING TO ME...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1316,
+            584,
+            1430,
+            701
+        ],
+        "text": "I'm glad I killed time by looking for him!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

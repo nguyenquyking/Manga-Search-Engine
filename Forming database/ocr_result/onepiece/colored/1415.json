@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            75,
+            190,
+            159,
+            256
+        ],
+        "text": "...The nature of its price.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            510,
+            144,
+            595
+        ],
+        "text": "...The first step is to ask about...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            927,
+            150,
+            1009
+        ],
+        "text": "...Of that sweet cake slice...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            210,
+            1266,
+            288,
+            1336
+        ],
+        "text": "When tempted by the scent...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            387,
+            121,
+            447,
+            215
+        ],
+        "text": "Will it be years off your life?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            308,
+            469,
+            418
+        ],
+        "text": "Sweets can be so very bad for the soul!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            106,
+            786,
+            197
+        ],
+        "text": "Or your life itself?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            680,
+            308,
+            747,
+            419
+        ],
+        "text": "Soul Pocus, our Mama's material!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            394,
+            1167,
+            480,
+            1243
+        ],
+        "text": "Will you suffer her trick...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            525,
+            1136,
+            588,
+            1235
+        ],
+        "text": "...Or hand over your treats?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            369,
+            1314,
+            445,
+            1416
+        ],
+        "text": "For this is not the good kind of surprise!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            900,
+            123,
+            958,
+            234
+        ],
+        "text": "Soul Pocus...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            986,
+            297,
+            1090,
+            449
+        ],
+        "text": "DEATH?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1023,
+            60,
+            1107,
+            180
+        ],
+        "text": "The song of our Queen!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            946,
+            1293,
+            1080,
+            1454
+        ],
+        "text": "Life... or...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

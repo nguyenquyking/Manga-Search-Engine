@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            90,
+            707,
+            160,
+            822
+        ],
+        "text": "IS WHAT I WANT TO SAY, BUT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            420,
+            67,
+            553,
+            245
+        ],
+        "text": "ASIDE FROM THE BIG 3, WHOSE ABILITIES ARE EQUIVALENT TO, OR EVEN EXCEED, A PRO'S,",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            736,
+            672,
+            808,
+            827
+        ],
+        "text": "I THINK YOUR ROLES WILL BE FAIRLY SMALL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            685,
+            1176,
+            820
+        ],
+        "text": "AND ASUI, URARAKA, KIRISHIMA, YOU THREE AREN'T EVEN NECESSARILY HERE OF YOUR OWN FREE WILL.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            239,
+            1132,
+            325
+        ],
+        "text": "SENS-ERASER-HEAD!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1107,
+            348,
+            1173,
+            453
+        ],
+        "text": "WHAT DO YOU WANT TO DO?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

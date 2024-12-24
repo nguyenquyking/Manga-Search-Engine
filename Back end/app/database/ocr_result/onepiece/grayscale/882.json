@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            58,
+            111,
+            109,
+            216
+        ],
+        "text": "I WOULD\nNEVER!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            34,
+            241,
+            141,
+            380
+        ],
+        "text": "IS THAT RIGHT,\nTRAFALGAR?\nYOU'RE STRAW\nHAT'S HENCHMAN\nNOW?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            421,
+            153,
+            540
+        ],
+        "text": "WHO\nCARES HOW\nIT SOUNDS?!\nSAME DIFFERENCE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            575,
+            136,
+            726
+        ],
+        "text": "THAT MADE IT\nSOUND LIKE I\nWAS FOLLOWING\nYOUR ORDERS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            161,
+            51,
+            267,
+            181
+        ],
+        "text": "LOOK, IT'S NO\nSKIN OFF MY BACK\nWHICH OF YOU TWO\nLOSERS WANTS\nTO FOLLOW THE\nOTHER...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            67,
+            322,
+            150
+        ],
+        "text": "WHAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            361,
+            389,
+            385,
+            522
+        ],
+        "text": "DA-DA-DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            420,
+            613,
+            533,
+            756
+        ],
+        "text": "BURN\nTHEM ALL,\nPROMETHEUS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            453,
+            53,
+            553,
+            209
+        ],
+        "text": "HEAVENLY\nBON-\nBONS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            666,
+            650,
+            732
+        ],
+        "text": "YES,\nMAMA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            737,
+            87,
+            818,
+            219
+        ],
+        "text": "THAT'S FINE.\nI GUESS YOU'RE\nJUST LOSERS\nTHEN.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            311,
+            840,
+            451
+        ],
+        "text": "SEE, COMING\nUP WITH STUPID\nCONTESTS LIKE\nTHAT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            497,
+            824,
+            589
+        ],
+        "text": "I'M NOT\nPLAYING\nTHAT GAME,\nYOU IDIOT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            622,
+            839,
+            739
+        ],
+        "text": "OKAY,\nTHEN WHOEVER\nREACTS TO\nTHESE FIRST IS\nTHE LOSER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            292,
+            967,
+            414
+        ],
+        "text": "...IS WHY YOU\nGUYS ARE SO\nSMALL-TIME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            512,
+            938,
+            573
+        ],
+        "text": "FWOOM...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            940,
+            100,
+            950,
+            149
+        ],
+        "text": "0000",
+        "panel_id": "3",
+        "type": "other"
+    }
+]

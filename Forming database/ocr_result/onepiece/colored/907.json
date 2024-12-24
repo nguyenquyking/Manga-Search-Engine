@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            60,
+            78,
+            175,
+            241
+        ],
+        "text": "...You've ruined my dream of eating the Clear-Clear Fruit!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            294,
+            154,
+            503
+        ],
+        "text": "And now... There was a time when I wanted to become an invisible man!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            109,
+            564,
+            139,
+            638
+        ],
+        "text": "Turns you invisible!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            671,
+            128,
+            719
+        ],
+        "text": "The Clear-Clear Fruit...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            403,
+            57,
+            510,
+            207
+        ],
+        "text": "But this power will indeed be useful for the women's... I mean, helping my friends!! What a dilemma!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            230,
+            474,
+            309
+        ],
+        "text": "What twisted irony!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            594,
+            553,
+            744
+        ],
+        "text": "So the dream I thought was dead... has come true, with the power of Germa's hated science?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            655,
+            49,
+            802,
+            150
+        ],
+        "text": "Now I'm very curious... Who are you, really?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            655,
+            509,
+            727,
+            600
+        ],
+        "text": "An invisible man...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            628,
+            827,
+            748
+        ],
+        "text": "The cape is a shield, accelerators on the heels. Floating devices under the soles of the feet.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1039,
+            632,
+            1134,
+            748
+        ],
+        "text": "And invisibility on top of that! This is the power of the Raid Suit!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

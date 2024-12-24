@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            543,
+            65,
+            664,
+            226
+        ],
+        "text": "Join the League of Villains, Hawks.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            967,
+            104,
+            1038,
+            228
+        ],
+        "text": "Hang on. What am I missing?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            963,
+            785,
+            988,
+            852
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1188,
+            386,
+            1311,
+            501
+        ],
+        "text": "How did you know? That's never been disclosed.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1206,
+            541,
+            1354,
+            706
+        ],
+        "text": "There's that search team already, right? With Gran Torino and them?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

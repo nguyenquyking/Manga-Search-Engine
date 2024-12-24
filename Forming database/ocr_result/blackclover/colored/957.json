@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            109,
+            113,
+            229,
+            283
+        ],
+        "text": "\"If you talk about it, the one who heard you will also be struck with this curse.\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            632,
+            204,
+            751
+        ],
+        "text": "When the curse-warding spell was cast on Mother...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            357,
+            61,
+            459,
+            175
+        ],
+        "text": "The spell will spread like a disease.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            348,
+            360,
+            468,
+            524
+        ],
+        "text": "\"If you tell anyone that Megicula had a hand in Acier Silva's death, you will die.\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            446,
+            631,
+            527,
+            753
+        ],
+        "text": "...I was hit with a secondary effect.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            598,
+            78,
+            682,
+            193
+        ],
+        "text": "To find a way to break the curse...!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            597,
+            252,
+            661,
+            355
+        ],
+        "text": "I have to save Mother!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            599,
+            417,
+            701,
+            538
+        ],
+        "text": "I'll just have to do something about this myself.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            619,
+            622,
+            681,
+            709
+        ],
+        "text": "Can't tell anyone.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            926,
+            60,
+            1025,
+            163
+        ],
+        "text": "If you keep this up, your life will be in danger as well.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            989,
+            464,
+            1055,
+            532
+        ],
+        "text": "That's enough. Please stop.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            867,
+            691,
+            886,
+            740
+        ],
+        "text": "Nozel...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1122,
+            518,
+            1143,
+            757
+        ],
+        "text": "@Jutoon2/ColorClovers",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            73,
+            108,
+            218,
+            267
+        ],
+        "text": "EVEN FROM WAY UP HERE IN THE SKY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            442,
+            216,
+            622
+        ],
+        "text": "THAT'S TOO HIGH, ODEN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            317,
+            116,
+            384,
+            145
+        ],
+        "text": "GYAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            172,
+            1192,
+            241,
+            1350
+        ],
+        "text": "LOOK HOW HIGH YOU ARE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            205,
+            691,
+            362,
+            815
+        ],
+        "text": "Hee Hee",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            734,
+            108,
+            924,
+            341
+        ],
+        "text": "GAZE OUT UPON IT! THESE ARE SIGHTS YOU WON'T FIND IN WANO!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            771,
+            394,
+            810,
+            561
+        ],
+        "text": "HIYORI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            734,
+            1195,
+            872,
+            1339
+        ],
+        "text": "THAT IS THE WORLD...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            784,
+            980,
+            864,
+            1144
+        ],
+        "text": "MOMONOSUKE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1473,
+            108,
+            1624,
+            302
+        ],
+        "text": "WERE YOU ABLE TO GET TO ZOU, LORD ODEN?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1512,
+            532,
+            1591,
+            676
+        ],
+        "text": "HOW DID IT GO?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1892,
+            100,
+            2030,
+            303
+        ],
+        "text": "YES! IF I WERE TO MAKE A LONG STORY SHORT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1406,
+            764,
+            1572,
+            1020
+        ],
+        "text": "YOU MUST THINK OF A PERSON LIKE A FISH CAKE WHEN YOU SLICE, MOMONOSUKE!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1412,
+            1103,
+            1576,
+            1343
+        ],
+        "text": "LET'S TALK, MOMO! WHAT'S YOUR IDEAL WOMAN?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1941,
+            803,
+            2047,
+            970
+        ],
+        "text": "DON'T TEACH HIM LIKE THAT!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1944,
+            1141,
+            2056,
+            1310
+        ],
+        "text": "IT'S TOO EARLY FOR THAT!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            113,
+            578,
+            224
+        ],
+        "text": "...YOU CANNOT SEE IT ALL!",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            84,
+            36,
+            146,
+            215
+        ],
+        "text": "...are with our group! Now hurry! Out of the capital",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            261,
+            147,
+            418
+        ],
+        "text": "Those men who took Toko and Yasue...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            509,
+            116,
+            595
+        ],
+        "text": "Have no fear!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            91,
+            616,
+            141,
+            703
+        ],
+        "text": "Oh no!! Toko!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            286,
+            15,
+            330,
+            92
+        ],
+        "text": "While I distract",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            43,
+            576,
+            153
+        ],
+        "text": "Aaah!! It's the Gasha-Dokuro again!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            563,
+            553,
+            694
+        ],
+        "text": "A curse upon youuu!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            31,
+            999,
+            210
+        ],
+        "text": "I saw her with Zorojuro earlier.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            273,
+            974,
+            424
+        ],
+        "text": "Go after that woman!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            475,
+            950,
+            566
+        ],
+        "text": "Yes, sir!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            610,
+            983,
+            697
+        ],
+        "text": "Raijin! Fujin!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

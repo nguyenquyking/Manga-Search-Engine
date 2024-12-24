@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            118,
+            53,
+            180,
+            138
+        ],
+        "text": "STOP IT!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            363,
+            7,
+            457,
+            98
+        ],
+        "text": "TODOROKI'S SUFFERING THE MOST, AND HE'S STILL FIGHTING!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            331,
+            304,
+            404,
+            395
+        ],
+        "text": "MOVE!\nSTAND UP!\nPUSH PAST\nTHE PAIN!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            12,
+            708,
+            99
+        ],
+        "text": "STOP\nLOOKING\nFOR\nEXCUSES!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            911,
+            141,
+            937,
+            406
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            988,
+            205,
+            1154,
+            367
+        ],
+        "text": "IF THE\nNUMBER\nONE HERO\nLOSES\nHERE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1090,
+            17,
+            1220,
+            199
+        ],
+        "text": "...THIS\nWHOLE\nCOUNTRY'S\nDONE FOR!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1040,
+            604,
+            1174,
+            780
+        ],
+        "text": "BY\nYOUR\nFLAMES!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

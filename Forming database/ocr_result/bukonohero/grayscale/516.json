@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            88,
+            123,
+            133,
+            206
+        ],
+        "text": "Thanks, but...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            586,
+            156,
+            665
+        ],
+        "text": "You all came for me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            187,
+            798,
+            481
+        ],
+        "text": "The Sixth's Smoke Screen!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1017,
+            95,
+            1068,
+            189
+        ],
+        "text": "That's the Sixth's power!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            378,
+            970,
+            453
+        ],
+        "text": "A smoke screen!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            648,
+            941,
+            746
+        ],
+        "text": "Don't let him get away!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

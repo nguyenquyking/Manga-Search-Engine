@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            81,
+            28,
+            220,
+            167
+        ],
+        "text": "...As long as he's generating gravity, I can't afford to lose that one.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            480,
+            188,
+            594
+        ],
+        "text": "He actually warped my dimension slash attack!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            291,
+            335,
+            413,
+            478
+        ],
+        "text": "If I hit him with Black Moon, they might cancel each other out, but...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            746,
+            42,
+            875,
+            156
+        ],
+        "text": "Then I'll get right up in his face!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            542,
+            1029,
+            691
+        ],
+        "text": "I'll just have to evade by keeping my mana zone condensed and my senses razor-sharp!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            575,
+            1281,
+            751,
+            1514
+        ],
+        "text": "Dark Cloaked Dimension Slash!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

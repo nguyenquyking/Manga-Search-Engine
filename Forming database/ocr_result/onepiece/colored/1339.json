@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            72,
+            55,
+            162,
+            195
+        ],
+        "text": "...The nobles will have seven days of meetings. They won't have time for relaxation.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            224,
+            105,
+            309
+        ],
+        "text": "Starting tomorrow...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            402,
+            118,
+            478
+        ],
+        "text": "...From all over the world!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            496,
+            133,
+            590
+        ],
+        "text": "So this is the royalty and their guards...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            640,
+            152,
+            726
+        ],
+        "text": "Inside the castle is the mingling courtyard.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            152,
+            383,
+            187,
+            456
+        ],
+        "text": "Chatter King",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            190,
+            468,
+            240,
+            599
+        ],
+        "text": "Mambo Samba!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            510,
+            526,
+            570,
+            608
+        ],
+        "text": "Even the spread is majestic.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            706,
+            157,
+            774,
+            251
+        ],
+        "text": "While the weapons have been confiscated...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1074,
+            242,
+            1114,
+            319
+        ],
+        "text": "That's a relief.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            332,
+            1126,
+            424
+        ],
+        "text": "It seems that Father is getting along well.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            498,
+            896,
+            630
+        ],
+        "text": "...The guards all look like they mean business!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            238,
+            42,
+            252,
+            233
+        ],
+        "text": "\u30c9\u6d3e\u624b\u306b\u3001\u81ea\u7531\u306b\n\u4e16\u754c\u3092\u99c6\u3051\u307e\u308f\u308c!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            319,
+            37,
+            399,
+            249
+        ],
+        "text": "\u25cf\u5bfe\u5fdc\u6a5f\u7a2e\uff1aPS4\n\u25cf\u30e1\u30fc\u30ab\u30fc\uff1a\u30d0\u30f3\u30c0\u30a4\u30ca\u30e0\u30b3\u30a8\u30f3\u30bf\u30fc\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8\n\u25cf\u4fa1\u683c\uff1a7600\u5186+\u7a0e",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            412,
+            31,
+            480,
+            359
+        ],
+        "text": "ONE PIECE\nWORLD SEEKER",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            390,
+            431,
+            478,
+            557
+        ],
+        "text": "2019\u5e74\n3\u670814\u65e5(\u6728)",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            541,
+            83,
+            552,
+            469
+        ],
+        "text": "\u300eONE PIECE\u300f\n\u30b2\u30fc\u30e0\uff06\u30a2\u30d7\u30ea\u53c2\u6226",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            693,
+            175,
+            675,
+            608
+        ],
+        "text": "\u81ea\u7531\u306a\u5192\u967a\u306b\u3001\u767d\u71b1\u306e\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30d0\u30c8\u30eb!!\n\u4eca\u5e74\u306e\u300eOP\u300f\u306f\u30b2\u30fc\u30e0\uff06\u30a2\u30d7\u30ea\u3082\u8d85\u30a2\u30c4\u3044!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            751,
+            453,
+            780,
+            660
+        ],
+        "text": "ONE PIECE\nBOUNTY RUSH",
+        "panel_id": "4",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            823,
+            415,
+            846,
+            671
+        ],
+        "text": "\u25cf\u5bfe\u5fdc\u6a5f\u7a2e\uff1aiOS\u3001Android\u203b\u4e00\u90e8\u975e\u5bfe\u5fdc\u6a5f\u7a2e\u304c\u3054\u3056\u3044\u307e\u3059\u3002\n\u25cf\u30e1\u30fc\u30ab\u30fc\uff1a\u30d0\u30f3\u30c0\u30a4\u30ca\u30e0\u30b3\u30a8\u30f3\u30bf\u30fc\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8\n\u25cf\u4fa1\u683c\uff1a\u57fa\u672c\u7121\u6599\u30fb\u4e00\u90e8\u6709\u6599\u30a2\u30a4\u30c6\u30e0\u6709",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1146,
+            40,
+            1166,
+            622
+        ],
+        "text": "189\n\u00a9\u5c3e\u7530\u6804\u4e00\u90ce\uff0f\u96c6\u82f1\u793e\u30fb\u30d5\u30b8\u30c6\u30ec\u30d3\u30fb\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\n\u00a9BANDAI NAMCO Entertainment Inc. ONE PIECE \u30d0\u30a6\u30f3\u30c6\u30a3 \u691c\u7d22",
+        "panel_id": "5",
+        "type": "copyright"
+    }
+]

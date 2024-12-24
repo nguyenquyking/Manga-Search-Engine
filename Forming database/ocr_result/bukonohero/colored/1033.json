@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            73,
+            534,
+            246,
+            791
+        ],
+        "text": "IN ORDER TO BECOME THE NO. 1 HERO!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            247,
+            38,
+            360,
+            146
+        ],
+        "text": "MY NAME IS MIDORIYA IZUKU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            47,
+            960,
+            300
+        ],
+        "text": "A SENSE OF HUMOR IS THE THING I LACK THE MOST!! IF THIS DOESN'T MAKE HIM LAUGH, THEN MY INTERNSHIP WITH NIGHT EYE'S AS GOOD AS...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            795,
+            339,
+            925,
+            514
+        ],
+        "text": "I ADMIRED ALL MIGHT TO SUCH CRAZY EXTENTS THAT I SPENT MANY YEARS PRACTICING IN FRONT OF THE MIRROR!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            770,
+            605,
+            776,
+            675
+        ],
+        "text": "TICKE HELL",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            958,
+            668,
+            980,
+            797
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

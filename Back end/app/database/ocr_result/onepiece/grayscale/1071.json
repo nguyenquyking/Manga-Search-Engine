@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            99,
+            415,
+            172,
+            899
+        ],
+        "text": "GRRRRM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            188,
+            889,
+            254,
+            995
+        ],
+        "text": "SKULL DOME",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            526,
+            703,
+            587,
+            785
+        ],
+        "text": "BANG!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            851,
+            901,
+            984,
+            998
+        ],
+        "text": "SEVER HIS WIND-PIPE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            942,
+            90,
+            1041,
+            227
+        ],
+        "text": "STOP HIS BREATHING!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1196,
+            107,
+            1276,
+            249
+        ],
+        "text": "IN YOUR SPIRIT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1137,
+            798,
+            1241,
+            951
+        ],
+        "text": "THIS FIGHT AIN'T OVER...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1155,
+            610,
+            1243,
+            753
+        ],
+        "text": "...UNTIL HIS HEAD IS SEVERED!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

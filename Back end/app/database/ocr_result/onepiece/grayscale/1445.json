@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            97,
+            76,
+            306,
+            326
+        ],
+        "text": "THE LETTER ARROWS OF WANO CROSS GREAT DISTANCES TO SEND MESSAGES.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            110,
+            1046,
+            289,
+            1278
+        ],
+        "text": "THEY SHOT THE URGENT NEWS TO THE VARIOUS CASTLES OF THE LAND.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            585,
+            251,
+            743,
+            365
+        ],
+        "text": "LORD OD\u00c9N!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            76,
+            889,
+            224
+        ],
+        "text": "HANG IN THERE, LORD OD\u00c9N!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            1085,
+            842,
+            1296
+        ],
+        "text": "THE BOILING OIL IN THE POT PASSED 700 DEGREES AND CONTINUED TO RISE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1205,
+            89,
+            1423,
+            253
+        ],
+        "text": "WE'RE SORRY FOR INSULTING YOU!! WE WERE IGNORANT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1222,
+            1103,
+            1382,
+            1321
+        ],
+        "text": "PLEASE, LORD OD\u00c9N!! SURVIVE THIS TORMENT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1594,
+            139,
+            1721,
+            368
+        ],
+        "text": "THANK YOU ALL! I WILL PERSEVERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1594,
+            439,
+            1728,
+            660
+        ],
+        "text": "HOW CONVENIENT FOR THEM!!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1583,
+            740,
+            1721,
+            933
+        ],
+        "text": "OH, NOW THEY CARE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1598,
+            1035,
+            1732,
+            1298
+        ],
+        "text": "THANK YOU FOR PROTECTING US!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1820,
+            64,
+            2010,
+            182
+        ],
+        "text": "HE'S SO APPRECIATIVE!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1820,
+            990,
+            1907,
+            1118
+        ],
+        "text": "LORD OD\u00c9N!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1965,
+            439,
+            2075,
+            576
+        ],
+        "text": "IGNORE THEM, MY LORD...",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

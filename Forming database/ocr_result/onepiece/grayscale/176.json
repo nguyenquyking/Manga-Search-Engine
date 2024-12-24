@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            48,
+            47,
+            141,
+            155
+        ],
+        "text": "WHAT IN THE WORLD IS HE DOING?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            309,
+            155,
+            444
+        ],
+        "text": "FUKU-ROKUJUU!!\nWHERE IS THAT GARBAGE NINJA?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            607,
+            122,
+            695
+        ],
+        "text": "TREASURE\nREPOSITORY, 2ND\nFLOOR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            288,
+            565,
+            309,
+            651
+        ],
+        "text": "AAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            398,
+            52,
+            439,
+            172
+        ],
+        "text": "HEY,\nKOMURASAKI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            257,
+            471,
+            409
+        ],
+        "text": "Buzz Buzz\nBuzz Buzz\nBuzz Buzz",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            581,
+            43,
+            621,
+            164
+        ],
+        "text": "WHY WOULD\nYOU PLAY AT A\nTIME LIKE THIS?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            575,
+            389,
+            646,
+            470
+        ],
+        "text": "I CAN\nONLY HOPE\nTHIS IS THE\nEND OF IT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            627,
+            510,
+            723
+        ],
+        "text": "HE'D BETTER\nNOT HAVE\nRUN OFF TO\nSAVE HIS\nOWN SKIN.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            561,
+            530,
+            644,
+            703
+        ],
+        "text": "WAS THAT\nSHAKING\nKANJURO'S\nWORK...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            684,
+            214,
+            751,
+            309
+        ],
+        "text": "BENG-BENG\n\"\u30d0\u30f3\u30d0\u30f3\"\nBENG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            763,
+            75,
+            784,
+            115
+        ],
+        "text": "KSHUNK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            727,
+            398,
+            793,
+            516
+        ],
+        "text": "WITH YOUR\nPRETENTIOUS\nMASK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            746,
+            611,
+            815,
+            724
+        ],
+        "text": "STOP IT!!\nPUT THAT\nINSTRUMENT\nDOWN!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            247,
+            1110,
+            402
+        ],
+        "text": "ARE YOU REALLY\nKOMURASAKI?! OR\nA GHOST?!! YOU\nWERE SUPPOSED\nTO BE DEAD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            454,
+            1119,
+            590
+        ],
+        "text": "THIS IS A\nMOMENT OF LIFE\nAND DEATH!!\nTAKE IT OFF\nALREADY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            616,
+            1118,
+            725
+        ],
+        "text": "YOU ALWAYS\nWEAR THAT\nSTUPID MASK\nWHEN YOU\nPLAY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1072,
+            54,
+            1101,
+            134
+        ],
+        "text": "HUH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

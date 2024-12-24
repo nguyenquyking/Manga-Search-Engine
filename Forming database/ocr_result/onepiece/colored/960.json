@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            78,
+            216,
+            139,
+            320
+        ],
+        "text": "...of Oiran Komurasaki!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            422,
+            140,
+            521
+        ],
+        "text": "All make way for the passage...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            121,
+            648,
+            158,
+            722
+        ],
+        "text": "Flower Capital",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            372,
+            84,
+            453,
+            190
+        ],
+        "text": "What kind of beauty is about to walk down this street?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            373,
+            215,
+            450,
+            302
+        ],
+        "text": "Check out the crowd she's drawing.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            366,
+            465,
+            477
+        ],
+        "text": "It's the Oiran's Procession!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            605,
+            460,
+            711
+        ],
+        "text": "Here comes Lady Komurasaki!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            698,
+            228,
+            738,
+            299
+        ],
+        "text": "Komurasaki!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            200,
+            811,
+            263
+        ],
+        "text": "Huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            706,
+            660,
+            750,
+            736
+        ],
+        "text": "Komurasaki...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

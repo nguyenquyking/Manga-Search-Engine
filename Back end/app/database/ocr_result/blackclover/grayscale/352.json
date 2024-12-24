@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            403,
+            344,
+            433,
+            714
+        ],
+        "text": "BLACK CLOVER",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            444,
+            428,
+            468,
+            632
+        ],
+        "text": "VOLUME 24",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            472,
+            359,
+            497,
+            702
+        ],
+        "text": "SHONEN JUMP Manga Edition",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            524,
+            331,
+            548,
+            729
+        ],
+        "text": "Story and Art by YUKI TABATA",
+        "panel_id": "1",
+        "type": "credit"
+    },
+    {
+        "text_box": [
+            576,
+            360,
+            616,
+            703
+        ],
+        "text": "Translation: TAYLOR ENGEL,\nHC LANGUAGE SOLUTIONS, INC.",
+        "panel_id": "1",
+        "type": "credit"
+    },
+    {
+        "text_box": [
+            632,
+            261,
+            652,
+            801
+        ],
+        "text": "Touch-Up Art & Lettering: ANNALIESE CHRISTMAN",
+        "panel_id": "1",
+        "type": "credit"
+    },
+    {
+        "text_box": [
+            668,
+            444,
+            689,
+            617
+        ],
+        "text": "Design: KAM LI",
+        "panel_id": "1",
+        "type": "credit"
+    },
+    {
+        "text_box": [
+            704,
+            400,
+            721,
+            660
+        ],
+        "text": "Editor: ALEXIS KIRSCH",
+        "panel_id": "1",
+        "type": "credit"
+    },
+    {
+        "text_box": [
+            745,
+            374,
+            788,
+            689
+        ],
+        "text": "BLACK CLOVER \u00a9 2015 by Yuki Tabata\nAll rights reserved.",
+        "panel_id": "1",
+        "type": "copyright"
+    },
+    {
+        "text_box": [
+            790,
+            312,
+            832,
+            751
+        ],
+        "text": "First published in Japan in 2015 by SHUEISHA Inc., Tokyo.\nEnglish translation rights arranged by SHUEISHA Inc.",
+        "panel_id": "1",
+        "type": "publication"
+    },
+    {
+        "text_box": [
+            856,
+            352,
+            896,
+            712
+        ],
+        "text": "The stories, characters, and incidents mentioned in this publication are entirely fictional.",
+        "panel_id": "1",
+        "type": "disclaimer"
+    },
+    {
+        "text_box": [
+            918,
+            355,
+            982,
+            708
+        ],
+        "text": "No portion of this book may be reproduced or transmitted in any form or by any means without written permission from the copyright holders.",
+        "panel_id": "1",
+        "type": "disclaimer"
+    },
+    {
+        "text_box": [
+            1004,
+            456,
+            1020,
+            607
+        ],
+        "text": "Printed in the U.S.A.",
+        "panel_id": "1",
+        "type": "publication"
+    },
+    {
+        "text_box": [
+            1048,
+            419,
+            1107,
+            644
+        ],
+        "text": "Published by VIZ Media, LLC\nP.O. Box 77010\nSan Francisco, CA 94107",
+        "panel_id": "1",
+        "type": "publication"
+    },
+    {
+        "text_box": [
+            1132,
+            432,
+            1174,
+            631
+        ],
+        "text": "10 9 8 7 6 5 4 3 2 1\nFirst printing, January 2021",
+        "panel_id": "1",
+        "type": "publication"
+    },
+    {
+        "text_box": [
+            1332,
+            427,
+            1398,
+            717
+        ],
+        "text": "PARENTAL ADVISORY\nBLACK CLOVER is rated T for Teen and is recommended for ages 13 and up. This volume contains realistic and fantasy violence.",
+        "panel_id": "2",
+        "type": "parental advisory"
+    },
+    {
+        "text_box": [
+            1472,
+            289,
+            1542,
+            503
+        ],
+        "text": "VIZ MEDIA\nviz.com",
+        "panel_id": "2",
+        "type": "publisher"
+    },
+    {
+        "text_box": [
+            1468,
+            577,
+            1536,
+            759
+        ],
+        "text": "SHONEN\nJUMP",
+        "panel_id": "2",
+        "type": "publisher"
+    }
+]

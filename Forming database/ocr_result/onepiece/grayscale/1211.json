@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            70,
+            446,
+            200,
+            626
+        ],
+        "text": "YAMATO AND STRAW HAT LUFFY ARE HEADING TOWARD THE STAGE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            320,
+            428,
+            404,
+            524
+        ],
+        "text": "YOU'LL PAY FOR THIS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            292,
+            861,
+            398,
+            1007
+        ],
+        "text": "THE PERFORMANCE STAGE, YOU SAY?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            523,
+            85,
+            632,
+            212
+        ],
+        "text": "THERE'S DANGER ALL AROUND, USOPP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            539,
+            527,
+            660,
+            627
+        ],
+        "text": "THEY'RE GONNA KILL MOMO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            539,
+            672,
+            657,
+            817
+        ],
+        "text": "HEY, YOU HEARD THAT ANNOUNCEMENT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            860,
+            648,
+            1005
+        ],
+        "text": "USOPP, WE'RE GOING THE WRONG WAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            77,
+            740,
+            189
+        ],
+        "text": "ARE THESE GIANTS...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            323,
+            988,
+            467
+        ],
+        "text": "TRUST IN THE TOUGHNESS OF GENERAL FRANKY'S EXTERIOR!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1124,
+            607,
+            1232,
+            739
+        ],
+        "text": "GOTTA REPORT... GAH!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1116,
+            852,
+            1217,
+            990
+        ],
+        "text": "HIC! INTRUDERS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

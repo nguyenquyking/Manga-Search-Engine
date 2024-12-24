@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            60,
+            588,
+            117,
+            640
+        ],
+        "text": "I AM.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            186,
+            989,
+            290
+        ],
+        "text": "ONE THING I JUST GOTTA ASK, SHOTO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            87,
+            1114,
+            188
+        ],
+        "text": "WHAT WAS THE LOOK ON YOUR FACE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            523,
+            991,
+            605
+        ],
+        "text": "THE SPIDER WAS A SMOKE SCREEN!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            662,
+            928,
+            708
+        ],
+        "text": "FAST!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

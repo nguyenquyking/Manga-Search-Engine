@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            129,
+            169,
+            172,
+            429
+        ],
+        "text": "CURSES!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            537,
+            231,
+            738
+        ],
+        "text": "DENJIRO!\nASHURA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            116,
+            843,
+            239,
+            912
+        ],
+        "text": "YOU\nGOT\nIT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            987,
+            267,
+            1353
+        ],
+        "text": "HELP ME,\nASHURA.\nTHERE ARE\nTOO MANY\nOF THEM IN\nPURSUIT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            216,
+            874,
+            254
+        ],
+        "text": "DON'T",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            939,
+            701,
+            1058,
+            820
+        ],
+        "text": "LIGHT\nTHE\nFIRES!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            1232,
+            933,
+            1355
+        ],
+        "text": "KURI",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1077,
+            1169,
+            1168,
+            1317
+        ],
+        "text": "WE ARE\nSURROUNDED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1432,
+            656,
+            1587,
+            781
+        ],
+        "text": "THERE\nIS AN\nESCAPE\nROUTE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1412,
+            1166,
+            1594,
+            1365
+        ],
+        "text": "DON'T\nWORRY. I'LL\nSEE TO IT\nTHAT YOU CAN\nGET AWAY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1801,
+            665,
+            1833,
+            792
+        ],
+        "text": "WAAAH!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1794,
+            839,
+            1874,
+            999
+        ],
+        "text": "MOTHER!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

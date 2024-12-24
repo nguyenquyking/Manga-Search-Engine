@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            162,
+            16,
+            187,
+            103
+        ],
+        "text": "Lumiere.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            144,
+            531,
+            213,
+            603
+        ],
+        "text": "Thank you,",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            560,
+            1,
+            586,
+            287
+        ],
+        "text": "Twitter: Black Clover Team",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            779,
+            10,
+            954,
+            127
+        ],
+        "text": "500 years ago, you two had such a tragic parting, but now that you are both here, I can finally give you two a proper burial!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            813,
+            334,
+            931,
+            448
+        ],
+        "text": "Hn hn hn hn hn hn...!! What a touching reunion!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            587,
+            835,
+            609
+        ],
+        "text": "Hn hn hn hn hn.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            931,
+            150,
+            958,
+            309
+        ],
+        "text": "One Hoox",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

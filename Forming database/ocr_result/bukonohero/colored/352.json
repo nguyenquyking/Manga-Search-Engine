@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            200,
+            136,
+            228,
+            223
+        ],
+        "text": "HUH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            180,
+            762,
+            244,
+            910
+        ],
+        "text": "WHAT'S GOING ON WITH YOUR HAIR, TOYA?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            601,
+            126,
+            688,
+            283
+        ],
+        "text": "MY ELDEST, TOYA, DIDN'T HARBOR FROST WITHIN HIM...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            566,
+            357,
+            619,
+            453
+        ],
+        "text": "NO WAY?! I AIN'T SOME OLD MAN!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            355,
+            794,
+            437
+        ],
+        "text": "DID YOU DYE IT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            245,
+            862,
+            329
+        ],
+        "text": "WHO, ME? NO WAY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            569,
+            830,
+            636,
+            922
+        ],
+        "text": "IT'S TURNING WHITE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            940,
+            410,
+            1141,
+            533
+        ],
+        "text": "BUT FORGET THAT! TODAY'S THE DAY YOU TEACH ME AN ULTIMATE MOVE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1257,
+            426,
+            1342,
+            588
+        ],
+        "text": "...BUT THE FIRE HE POSSESSED WAS GREATER THAN MY OWN.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1177,
+            701,
+            1353,
+            944
+        ],
+        "text": "FOOSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

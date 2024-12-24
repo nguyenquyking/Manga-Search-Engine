@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            104,
+            70,
+            172,
+            172
+        ],
+        "text": "\"Pirate Hunter\" Zoro...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            226,
+            161,
+            313
+        ],
+        "text": "The hell you say!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            339,
+            159,
+            414
+        ],
+        "text": "A pity I didn't slit your throat...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            441,
+            140,
+            686
+        ],
+        "text": "You hit my backside!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            570,
+            165,
+            666
+        ],
+        "text": "Knock it off with those aimless attacks!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            52,
+            720,
+            143,
+            819
+        ],
+        "text": "Hey, King, you bastard!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            95,
+            494,
+            223
+        ],
+        "text": "He just cracked King-san's mask!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            595,
+            427,
+            646,
+            536
+        ],
+        "text": "No one's ever seen...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            575,
+            621,
+            650,
+            744
+        ],
+        "text": "Yeah... No wonder he's furious...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            787,
+            64,
+            851,
+            186
+        ],
+        "text": "...His real face...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

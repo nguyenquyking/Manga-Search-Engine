@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            88,
+            80,
+            95,
+            111
+        ],
+        "text": "FWP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            361,
+            86,
+            477,
+            148
+        ],
+        "text": "You hear that, Midoriya?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            421,
+            413,
+            535,
+            546
+        ],
+        "text": "They said you could come back to school!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            83,
+            680,
+            242
+        ],
+        "text": "SHRP ZWSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            727,
+            370,
+            743,
+            428
+        ],
+        "text": "Sorry.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            473,
+            812,
+            494
+        ],
+        "text": "Koda...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            634,
+            875,
+            744
+        ],
+        "text": "The Principal is ready to welcome you back!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            661,
+            1016,
+            726
+        ],
+        "text": "Got that?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1005,
+            536,
+            1062,
+            614
+        ],
+        "text": "So stop running away!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

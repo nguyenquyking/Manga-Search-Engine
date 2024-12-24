@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            133,
+            93,
+            334,
+            332
+        ],
+        "text": "I THOUGHT HE WAS SUPPOSED TO BE IMPRISONED IN UDON TOO!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            136,
+            1069,
+            308,
+            1327
+        ],
+        "text": "HUH?! ANOTHER ONE OF THE WORST GENERATION?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            531,
+            423,
+            1020
+        ],
+        "text": "RAAAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            492,
+            502,
+            537,
+            836
+        ],
+        "text": "FWAP\nPOOF!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1034,
+            90,
+            1194,
+            352
+        ],
+        "text": "YOU WERE REAL PROACTIVE ABOUT JOINING OUR ALLIANCE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1308,
+            103,
+            1488,
+            256
+        ],
+        "text": "I SHOULD HAVE FIGURED IT OUT RIGHT AWAY!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1051,
+            951,
+            1172,
+            1056
+        ],
+        "text": "BABA-NUKIII!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            1118,
+            1196,
+            1321
+        ],
+        "text": "WASN'T EVERYTHING SUPPOSED TO BE JUST FINE IN UDON?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1259,
+            813,
+            1347,
+            954
+        ],
+        "text": "NO PROBLEMS HERE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1665,
+            87,
+            1887,
+            375
+        ],
+        "text": "...AN INFORMANT FOR KAIDO!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1674,
+            1055,
+            1846,
+            1337
+        ],
+        "text": "THAT YOU WERE ALREADY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

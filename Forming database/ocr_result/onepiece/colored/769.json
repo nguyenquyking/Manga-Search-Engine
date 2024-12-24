@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            82,
+            57,
+            186,
+            154
+        ],
+        "text": "...There are four other excavation sites...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            180,
+            174,
+            247
+        ],
+        "text": "Here in this mining camp...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            254,
+            61,
+            340,
+            147
+        ],
+        "text": "...Just as large as this one!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            562,
+            159,
+            735
+        ],
+        "text": "You mentioned that you have been gathering comrades within the Flower Capital.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            232,
+            581,
+            345,
+            715
+        ],
+        "text": "But surely it is fate that has brought you here, to Udon!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            442,
+            68,
+            552,
+            202
+        ],
+        "text": "...Of Rebellion against Orochi!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            445,
+            270,
+            528,
+            397
+        ],
+        "text": "Nearly all of the prisoners here are guilty...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            446,
+            543,
+            575
+        ],
+        "text": "But not all of them were imprisoned for petty theft and assault.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            615,
+            532,
+            734
+        ],
+        "text": "There are tens of thousands of prisoners like us in Udon!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            66,
+            867,
+            298
+        ],
+        "text": "The Yakuza leaders who once supported Wano from the shadows are all held at this prison.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            744,
+            369,
+            872,
+            536
+        ],
+        "text": "The rage of the country is gathered thick and heavy here!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            748,
+            599,
+            822,
+            732
+        ],
+        "text": "Of course... Why didn't I think of it?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            63,
+            1122,
+            213
+        ],
+        "text": "If I send out the word, they would all gladly fight for the sake of Kozuki!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

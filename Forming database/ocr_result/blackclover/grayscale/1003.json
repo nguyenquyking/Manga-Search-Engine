@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            840,
+            65,
+            937,
+            158
+        ],
+        "text": "IF I'M GOING TO DEFEAT THAT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            974,
+            430,
+            1108,
+            547
+        ],
+        "text": "It's insanely strong. If it keeps this up, we'll be wiped out!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            663,
+            1041,
+            762
+        ],
+        "text": "Unbelievable... A devil was sealed in here?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

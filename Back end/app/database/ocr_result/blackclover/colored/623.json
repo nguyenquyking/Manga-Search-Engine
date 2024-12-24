@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            185,
+            116,
+            352,
+            321
+        ],
+        "text": "It'll be a great test for the magic items I made...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            529,
+            125,
+            691,
+            280
+        ],
+        "text": "...After studying Asta's physical makeup!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            114,
+            1275,
+            261,
+            1428
+        ],
+        "text": "Well, I guess that's okay.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            613,
+            1211,
+            848,
+            1414
+        ],
+        "text": "It sounds like I'll get to see something super-interesting in a bit.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            118,
+            1252,
+            271
+        ],
+        "text": "I hear she made them. Are they really all right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1019,
+            622,
+            1162,
+            738
+        ],
+        "text": "These magic-camouflaging robes.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1429,
+            103,
+            1689,
+            513
+        ],
+        "text": "Hur... Hur... Wh... Wh...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1524,
+            349,
+            1652,
+            572
+        ],
+        "text": "Maxa! Don't butt in just cuz this is about magic",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1522,
+            1213,
+            1851,
+            1436
+        ],
+        "text": "Sally's a little odd, but when it comes to magic item research, she's second to none!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1937,
+            355,
+            1991,
+            461
+        ],
+        "text": "Good grief...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1935,
+            1160,
+            2041,
+            1257
+        ],
+        "text": "Rest easy, sir.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

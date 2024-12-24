@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            96,
+            60,
+            201,
+            185
+        ],
+        "text": "He killed the Strawman!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            427,
+            182,
+            516
+        ],
+        "text": "GYAAA AAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            91,
+            996,
+            161,
+            1090
+        ],
+        "text": "KYO KYO KYO!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            111,
+            1534,
+            400,
+            1708
+        ],
+        "text": "The Annihilation Card!!\nYou're already living on borrowed time. I'm going to finish you, head on!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            131,
+            746,
+            213
+        ],
+        "text": "The Tower!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            703,
+            299,
+            861,
+            406
+        ],
+        "text": "Show me the result of this battle!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            711,
+            445,
+            809,
+            572
+        ],
+        "text": "The Strawman can't die...!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            871,
+            536,
+            874,
+            591
+        ],
+        "text": "DRAW",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            865,
+            703,
+            1028,
+            810
+        ],
+        "text": "GYEE\nEEEE\nEEEEE\nEEH!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1140,
+            452,
+            1235,
+            598
+        ],
+        "text": "Its fate is determined by the cards... and it will be revived!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            820,
+            1477,
+            925,
+            1646
+        ],
+        "text": "Clawing Guillotine!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

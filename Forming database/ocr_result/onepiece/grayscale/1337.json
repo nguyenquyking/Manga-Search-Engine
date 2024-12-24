@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            88,
+            152,
+            222,
+            290
+        ],
+        "text": "...so they brought some out here.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            75,
+            360,
+            218,
+            551
+        ],
+        "text": "They made too much of it in the kitchen...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            108,
+            668,
+            142,
+            908
+        ],
+        "text": "Oshiruko...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            1033,
+            149,
+            1133
+        ],
+        "text": "Oh...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            308,
+            80,
+            505,
+            257
+        ],
+        "text": "It's sweet! You can't have that with drinks!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            123,
+            857,
+            391
+        ],
+        "text": "Gya ha ha!! Those beggars should be happy they're alive at all!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            424,
+            963,
+            563
+        ],
+        "text": "You never had that stuff before?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            580,
+            816,
+            810
+        ],
+        "text": "Good idea!! They'll happily suck the dirt dry!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            654,
+            864,
+            829,
+            1051
+        ],
+        "text": "Toss it out in front of Okobore Town!! Ga ha ha!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            1104,
+            827,
+            1332
+        ],
+        "text": "Dump out that sweet red bean soup! It's useless here!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            82,
+            1054,
+            192
+        ],
+        "text": "Never!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1313,
+            1137,
+            1486,
+            1306
+        ],
+        "text": "What an extravagant food.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1911,
+            1108,
+            2054,
+            1321
+        ],
+        "text": "I'll never have such a nice birthday again!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1894,
+            109,
+            2114,
+            570
+        ],
+        "text": "WAHAHAHAHAHA",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

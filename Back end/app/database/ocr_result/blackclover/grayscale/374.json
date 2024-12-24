@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            344,
+            1345,
+            537,
+            1493
+        ],
+        "text": "So you're the intruder?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            1968,
+            1235,
+            2066
+        ],
+        "text": "Don't think you'll get away with...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1353,
+            1444,
+            1409,
+            1618
+        ],
+        "text": "DEMON-DWELLER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1280,
+            121,
+            1532,
+            477
+        ],
+        "text": "Black Slash",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            690,
+            1139,
+            819,
+            1326
+        ],
+        "text": "GAAAH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            1149,
+            1159,
+            1322
+        ],
+        "text": "AAAAAA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1505,
+            1153,
+            1587,
+            1266
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

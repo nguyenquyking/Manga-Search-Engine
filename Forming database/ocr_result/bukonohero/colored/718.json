@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            386,
+            44,
+            413,
+            140
+        ],
+        "text": "PHYSICAL ENHANCEMENT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            422,
+            252,
+            443,
+            324
+        ],
+        "text": "LASER",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            452,
+            384,
+            470,
+            461
+        ],
+        "text": "SHIELD.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            513,
+            31,
+            532,
+            108
+        ],
+        "text": "SABER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            386,
+            808,
+            406,
+            873
+        ],
+        "text": "VOICE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            734,
+            20,
+            789,
+            125
+        ],
+        "text": "...THAT ONE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            749,
+            773,
+            854,
+            888
+        ],
+        "text": "SO, THE ONE NULLIFYING MY QUIRKS RIGHT NOW MUST BE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            885,
+            11,
+            900,
+            282
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            925,
+            8,
+            1044,
+            105
+        ],
+        "text": "COULD IT BE...? SIGHT? IT MUST BE!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            930,
+            131,
+            1024,
+            214
+        ],
+        "text": "HE'S HIDING HIS EYES...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            931,
+            249,
+            1004,
+            356
+        ],
+        "text": "HE DIDN'T TOUCH ME...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            917,
+            523,
+            1083,
+            638
+        ],
+        "text": "I WAS DISABLED THE MOMENT HE APPEARED. BUT WHAT TRIGGERED IT?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1137,
+            399,
+            1330,
+            498
+        ],
+        "text": "WHRR WHRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

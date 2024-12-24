@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            273,
+            466,
+            279,
+            502
+        ],
+        "text": "000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            703,
+            163,
+            741,
+            223
+        ],
+        "text": "YOU GOOD?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            268,
+            757,
+            329
+        ],
+        "text": "ARGHH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            761,
+            388,
+            794,
+            473
+        ],
+        "text": "SHIGARAKI?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            591,
+            976,
+            621
+        ],
+        "text": "AHH...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

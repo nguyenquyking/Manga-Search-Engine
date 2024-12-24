@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            233,
+            47,
+            429,
+            228
+        ],
+        "text": "ARE YOU MOCKING ALL MIGHT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            235,
+            933,
+            377
+        ],
+        "text": "IT BOMBED!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1009,
+            0,
+            1057,
+            107
+        ],
+        "text": "IS THIS THE PINK SLIP FOR HIS INTERNSHIP?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

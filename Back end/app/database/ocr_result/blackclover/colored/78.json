@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            130,
+            412,
+            163,
+            508
+        ],
+        "text": "LICHT...!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            435,
+            425,
+            860
+        ],
+        "text": "@Reizung1\nTwitter.com/ColorClovers",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

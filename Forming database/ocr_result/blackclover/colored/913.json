@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            123,
+            165,
+            336,
+            562
+        ],
+        "text": "You were the first one who ever managed to oppose my curse.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            348,
+            769,
+            401,
+            832
+        ],
+        "text": "Arf... Ah... Ah...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            84,
+            1153,
+            73,
+            1247
+        ],
+        "text": "FUAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            915,
+            102,
+            1096,
+            272
+        ],
+        "text": "You were splendid, Queen of Briars!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            865,
+            1129,
+            1081,
+            1296
+        ],
+        "text": "AS IF I'D LET ANYTHING ELSE GO YOUR WAY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1302,
+            70,
+            1331,
+            252
+        ],
+        "text": "@ROOXER9",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1661,
+            74,
+            1780,
+            249
+        ],
+        "text": "...HAS INSPIRED ME!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1421,
+            741,
+            1509,
+            887
+        ],
+        "text": "NOELLE'S BEAUTIFUL SPELL...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1690,
+            1169,
+            1829,
+            1320
+        ],
+        "text": "I HAVE TO PROTECT CHARLOTTE, NO MATTER WHAT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1255,
+            988,
+            1283,
+            1285
+        ],
+        "text": "@COLORCLOVERS",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

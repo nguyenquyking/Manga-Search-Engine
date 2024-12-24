@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            86,
+            22,
+            213,
+            145
+        ],
+        "text": "...Not one of the bodies of the Nine Red Scabbards was ever found!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            171,
+            189,
+            307
+        ],
+        "text": "And despite our incredulity, as if to anchor her claim...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            351,
+            171,
+            463
+        ],
+        "text": "...Suggested the revenge of the Kozuki clan in 20 years' time!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            488,
+            163,
+            553
+        ],
+        "text": "Lady Toki's final words...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            605,
+            150,
+            695
+        ],
+        "text": "My Mother...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            35,
+            570,
+            202
+        ],
+        "text": "...Every man who was prepared to fight at your side on that portentous day...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            468,
+            243,
+            561,
+            407
+        ],
+        "text": "...And lead us to victory over the wicked Orochi...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            465,
+            456,
+            556,
+            608
+        ],
+        "text": "...That you might reappear 20 years later...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            468,
+            630,
+            532,
+            706
+        ],
+        "text": "So on the slim chance...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            871,
+            29,
+            972,
+            163
+        ],
+        "text": "We will need to rouse these forces without alerting anyone!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            238,
+            966,
+            388
+        ],
+        "text": "You mean...After 20 years, we still have allies?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            436,
+            966,
+            587
+        ],
+        "text": "...With the mark of a moon on his ankle, just like so!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            889,
+            621,
+            973,
+            701
+        ],
+        "text": "Indicated his willingness...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1033,
+            32,
+            1126,
+            121
+        ],
+        "text": "We'll do everything we can!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

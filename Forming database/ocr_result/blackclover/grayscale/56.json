@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            395,
+            241,
+            427,
+            823
+        ],
+        "text": "PAGE 206 \u25cf A Reunion Across Time and Space 007",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            475,
+            240,
+            504,
+            822
+        ],
+        "text": "PAGE 207 \u25cf Ultimate Magic 023",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            552,
+            241,
+            579,
+            822
+        ],
+        "text": "PAGE 208 \u25cf Swords 039",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            624,
+            240,
+            656,
+            823
+        ],
+        "text": "PAGE 209 \u25cf Wish 055",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            702,
+            240,
+            728,
+            823
+        ],
+        "text": "PAGE 210 \u25cf On the Brink 069",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            776,
+            240,
+            803,
+            820
+        ],
+        "text": "PAGE 211 \u25cf The Final Attack 085",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            852,
+            240,
+            880,
+            821
+        ],
+        "text": "PAGE 212 \u25cf Destiny's End 107",
+        "panel_id": "7",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            926,
+            240,
+            956,
+            821
+        ],
+        "text": "PAGE 213 \u25cf The Great Soul Tree 123",
+        "panel_id": "8",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1004,
+            239,
+            1032,
+            822
+        ],
+        "text": "PAGE 214 \u25cf Dawn 139",
+        "panel_id": "9",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1081,
+            240,
+            1108,
+            823
+        ],
+        "text": "PAGE 215 \u25cf Three Problems 155",
+        "panel_id": "10",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1152,
+            240,
+            1184,
+            821
+        ],
+        "text": "PAGE 216 \u25cf Power Balance 167",
+        "panel_id": "11",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1232,
+            240,
+            1254,
+            821
+        ],
+        "text": "PAGE 217 \u25cf The Scales of Justice 182",
+        "panel_id": "12",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1321,
+            391,
+            1417,
+            691
+        ],
+        "text": "BLACK \u25cf CLOVER\n22",
+        "panel_id": "13",
+        "type": "narration"
+    }
+]

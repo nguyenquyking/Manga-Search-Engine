@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            752,
+            185,
+            805,
+            264
+        ],
+        "text": "Mt. Lady!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            306,
+            788,
+            342,
+            833
+        ],
+        "text": "TOMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1186,
+            824,
+            1300,
+            943
+        ],
+        "text": "DON'T GOTTA TELL ME TWICE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            354,
+            77,
+            395,
+            226
+        ],
+        "text": "GREIISH",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            403,
+            652,
+            470,
+            834
+        ],
+        "text": "KOMURASAKI?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            595,
+            6,
+            754,
+            237
+        ],
+        "text": "I'VE YEARNED FOR YOU EVERY NIGHT SINCE WHAT HAPPENED!!\nCOULDN'T GET YOU OUT OF MY HEAD...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            683,
+            740,
+            829
+        ],
+        "text": "GOD...\nAM I DREAMING?!\nOR DID I PASS TO THE OTHER SIDE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1134,
+            102,
+            1250,
+            253
+        ],
+        "text": "IF THIS IS A DREAM, I DON'T WANT TO WAKE UP!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1121,
+            312,
+            1257,
+            446
+        ],
+        "text": "...IS FOR US TO SPEND THE REST OF OUR LIVES TOGETHER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            689,
+            952,
+            838
+        ],
+        "text": "LIKEWISE, MY LORD. ALL I WANT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1250,
+            590,
+            1267,
+            699
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

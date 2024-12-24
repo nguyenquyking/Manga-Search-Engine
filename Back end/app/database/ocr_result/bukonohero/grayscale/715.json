@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            336,
+            340,
+            452,
+            534
+        ],
+        "text": "The Fourth's Danger Sense helps me read his moves better!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            641,
+            940,
+            693,
+            1081
+        ],
+        "text": "The Fifth's Blackwhip",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            847,
+            1255,
+            855,
+            1279
+        ],
+        "text": "MIDORIYA!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

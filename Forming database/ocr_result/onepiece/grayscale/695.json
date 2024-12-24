@@ -1,0 +1,255 @@
+[
+    {
+        "text_box": [
+            24,
+            72,
+            70,
+            125
+        ],
+        "text": "Kah... Kah...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            42,
+            660,
+            78,
+            739
+        ],
+        "text": "Isn't that right...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            831,
+            116,
+            950
+        ],
+        "text": "...will shine all the way down to the underworld!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            43,
+            975,
+            102,
+            1097
+        ],
+        "text": "No!! I'm sure the light of Wano's dawn...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            1135,
+            173,
+            1219
+        ],
+        "text": "...The hour of dawn is close at hand...!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            1429,
+            116,
+            1515
+        ],
+        "text": "This one... has failed...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            189,
+            1406,
+            266,
+            1523
+        ],
+        "text": "But... if the fallen snow is melting... then surely...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            57,
+            394,
+            136
+        ],
+        "text": "...It ought to be you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            337,
+            258,
+            404,
+            324
+        ],
+        "text": "We're taking in this freak, Oden?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            326,
+            355,
+            439,
+            436
+        ],
+        "text": "If anyone should close the curtains on my act...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            483,
+            382,
+            546
+        ],
+        "text": "Ka Ka Ka...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            351,
+            167,
+            387,
+            220
+        ],
+        "text": "Wa ha ha!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            618,
+            461,
+            759
+        ],
+        "text": "Gwaaaah!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            231,
+            834,
+            268,
+            878
+        ],
+        "text": "Kin!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            223,
+            1130,
+            283,
+            1210
+        ],
+        "text": "Don't talk nonsense!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            1346,
+            279,
+            1392
+        ],
+        "text": "Huff!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            432,
+            1334,
+            531,
+            1522
+        ],
+        "text": "Kanju-rooo!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            566,
+            480,
+            616,
+            549
+        ],
+        "text": "That's it...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            682,
+            441,
+            732,
+            555
+        ],
+        "text": "After all... on stage...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            582,
+            726,
+            640
+        ],
+        "text": "Dshk!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            878,
+            440,
+            934,
+            554
+        ],
+        "text": "...We were always... best of friends!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1026,
+            76,
+            1087,
+            239
+        ],
+        "text": "Aieee!!! Aaaah!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1094,
+            441,
+            1111,
+            494
+        ],
+        "text": "Thump",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

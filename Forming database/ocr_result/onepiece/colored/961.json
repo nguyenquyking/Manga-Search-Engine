@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            55,
+            10,
+            111,
+            118
+        ],
+        "text": "Uh-oh, those guys look like trouble.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            208,
+            150,
+            297,
+            245
+        ],
+        "text": "If I'm gonna die, might as well take her down with me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            334,
+            135,
+            418
+        ],
+        "text": "It's all over for me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            443,
+            126,
+            520
+        ],
+        "text": "I'm being chased out of the capital...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            623,
+            162,
+            703
+        ],
+        "text": "I'm gonna kill that woman!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            375,
+            51,
+            422,
+            190
+        ],
+        "text": "Komurasaki!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            307,
+            423,
+            383
+        ],
+        "text": "Oiran!!\u2661",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            486,
+            378,
+            589
+        ],
+        "text": "\u3042\u3041\u3042\u3041...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            552,
+            630,
+            613,
+            705
+        ],
+        "text": "Lady Komurasaki!\u2661",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

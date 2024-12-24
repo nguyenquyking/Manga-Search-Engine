@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            377,
+            134,
+            556,
+            277
+        ],
+        "text": "And actually, I just remembered the first time we talked, and...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            236,
+            894,
+            536,
+            1033
+        ],
+        "text": "I can't let you do that!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            252,
+            1001,
+            312
+        ],
+        "text": "Keh keh keh.",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1220,
+            134,
+            1408,
+            282
+        ],
+        "text": "You fool. It looks like you don't really understand your situation.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1134,
+            351,
+            1276,
+            519
+        ],
+        "text": "I completely don't want to get my butt kicked by somebody like that.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            886,
+            1184,
+            1016
+        ],
+        "text": "Geez, c'mon, you're the one who's short!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1195,
+            865,
+            1246,
+            1015
+        ],
+        "text": "We're about the same height!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1312,
+            814,
+            1388,
+            914
+        ],
+        "text": "How dare you fake like you were",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            435,
+            79,
+            487,
+            130
+        ],
+        "text": "Salt? What for?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            529,
+            514,
+            609
+        ],
+        "text": "Gimme a handful of salt.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            431,
+            626,
+            500,
+            680
+        ],
+        "text": "That's right. Hey... you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            447,
+            775,
+            501
+        ],
+        "text": "Gotta purify it.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            531,
+            753,
+            699
+        ],
+        "text": "A certain gutterminded cook's dirty thoughts might've gotten all over my sword.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            485,
+            1046,
+            573
+        ],
+        "text": "Why don't you just swish it around in the ocean instead? Plenty of salt in that!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            602,
+            976,
+            692
+        ],
+        "text": "Scuze me?! Who's gonna give any of our precious salt to you, huh? Not me!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            386,
+            936,
+            433
+        ],
+        "text": "Do whut?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            369,
+            1065,
+            419
+        ],
+        "text": "You heard me!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            202,
+            1053,
+            265
+        ],
+        "text": "Ugh, men. What a pain.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            989,
+            69,
+            1007,
+            114
+        ],
+        "text": "Koo!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1116,
+            60,
+            1132,
+            184
+        ],
+        "text": "Chapter 2 - End",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

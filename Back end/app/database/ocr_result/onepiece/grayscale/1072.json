@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            80,
+            462,
+            196,
+            594
+        ],
+        "text": "...I saw the visage of Kozuki Oden...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            360,
+            105,
+            532,
+            385
+        ],
+        "text": "Huff...\nI could have let you kill me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            558,
+            705,
+            643
+        ],
+        "text": "Father, help!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            856,
+            726,
+            977
+        ],
+        "text": "With each throb of my scar...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            90,
+            1121,
+            277
+        ],
+        "text": "We will never see a monster samurai of his like again!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            325,
+            1089,
+            478
+        ],
+        "text": "...are not Oden...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            612,
+            1097,
+            758
+        ],
+        "text": "But you people...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1100,
+            488,
+            1358,
+            790
+        ],
+        "text": "GRRRG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1444,
+            830,
+            1518,
+            975
+        ],
+        "text": "...I remember!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

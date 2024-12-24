@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            131,
+            162,
+            152,
+            223
+        ],
+        "text": "Patry...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            137,
+            335,
+            313,
+            485
+        ],
+        "text": "In fact, it feels as though simply disappearing here may not be enough of a price to pay for what I've done.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            156,
+            835,
+            312,
+            956
+        ],
+        "text": "This was my second life to begin with. I may have regrets, but I'm not afraid.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            89,
+            739,
+            203
+        ],
+        "text": "...Just a little ahead of you.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            641,
+            816,
+            662,
+            909
+        ],
+        "text": "I'll leave...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            971,
+            45,
+            1104,
+            220
+        ],
+        "text": "...Alongside Licht and the others here at the end.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            972,
+            574,
+            1076,
+            680
+        ],
+        "text": "I was glad I got to fight...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            775,
+            1097,
+            909
+        ],
+        "text": "I'm sorry, Licht. Please take care of the rest for me!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1153,
+            424,
+            1259,
+            751
+        ],
+        "text": "WAA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1414,
+            898,
+            1435,
+            965
+        ],
+        "text": "Right!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

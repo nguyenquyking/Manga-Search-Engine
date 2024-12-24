@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            43,
+            305,
+            141,
+            411
+        ],
+        "text": "I understand why you do not willingly welcome this omen of unease...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1,
+            473,
+            22,
+            527
+        ],
+        "text": "GWOO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            52,
+            663,
+            132,
+            753
+        ],
+        "text": "Is this the optimal course of action? No!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            639,
+            278,
+            702
+        ],
+        "text": "We now rely on our backup plan!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            304,
+            447,
+            357
+        ],
+        "text": "So that...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            444,
+            607,
+            551,
+            742
+        ],
+        "text": "...But please allow him to rest his weary body in this secure stronghold!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            71,
+            599,
+            187
+        ],
+        "text": "...He can once again join the battle in peak condition!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            490,
+            224,
+            533,
+            318
+        ],
+        "text": "...when needed...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            768,
+            193,
+            823,
+            259
+        ],
+        "text": "...You failed again...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            278,
+            810,
+            330
+        ],
+        "text": "And now...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            803,
+            491,
+            858,
+            561
+        ],
+        "text": "You losers failed...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            151,
+            1033,
+            216
+        ],
+        "text": "...And you're out here telling us...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            54,
+            1071,
+            138
+        ],
+        "text": "...to pay the price for more of your mistakes?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            377,
+            1070,
+            479
+        ],
+        "text": "...and let Japan turn into this lawless wasteland.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

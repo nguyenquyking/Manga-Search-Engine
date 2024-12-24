@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            211,
+            206,
+            233,
+            274
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            401,
+            588,
+            559
+        ],
+        "text": "I compelled you to fight in order to assess your magic stages.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            425,
+            881,
+            468,
+            1008
+        ],
+        "text": "I apologize.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            892,
+            133,
+            1089,
+            294
+        ],
+        "text": "That \"Stage Nine, Eight, Seven\" thing, where the smaller the number, the stronger your magic is?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            937,
+            874,
+            1001,
+            958
+        ],
+        "text": "Magic Stages...?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1289,
+            113,
+            1489,
+            269
+        ],
+        "text": "Sometimes even dozens of people banded together are no match for a single talented mage.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1304,
+            836,
+            1457,
+            985
+        ],
+        "text": "That's right. Mages fight, not with numbers, but with the strength of their magic.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1332,
+            349,
+            1449,
+            540
+        ],
+        "text": "SHUFFA SHUFFA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

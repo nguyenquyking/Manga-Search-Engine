@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            54,
+            193,
+            184,
+            277
+        ],
+        "text": "Or roll it around in your palm according to your whims? That's up to you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            298,
+            154,
+            381
+        ],
+        "text": "Will you close your hand and destroy it all?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            116,
+            505,
+            203,
+            594
+        ],
+        "text": "I hold all of it in the palm of my hand.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            613,
+            202,
+            719
+        ],
+        "text": "Adopt this mind-set\u2014people's lives, their progress, their efforts...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            128,
+            72,
+            211,
+            167
+        ],
+        "text": "That melding of hatred and delight...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            460,
+            439,
+            496,
+            526
+        ],
+        "text": "...is true freedom.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            575,
+            68,
+            580,
+            98
+        ],
+        "text": "KRK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            635,
+            118,
+            656,
+            179
+        ],
+        "text": "Urk!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            98,
+            817,
+            186
+        ],
+        "text": "The decay is spreading fast!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            986,
+            42,
+            1072,
+            115
+        ],
+        "text": "Based on this fight, he must have a limited range.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

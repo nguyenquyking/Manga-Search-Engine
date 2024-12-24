@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            119,
+            70,
+            443,
+            545
+        ],
+        "text": "...YOU NEEDED SAVING!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            1032,
+            427,
+            1490
+        ],
+        "text": "YOU LOOKED LIKE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1116,
+            53,
+            1133,
+            308
+        ],
+        "text": "Next chapter hits Jan. 3!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

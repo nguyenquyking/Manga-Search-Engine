@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            267,
+            361,
+            289,
+            449
+        ],
+        "text": "That's...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            26,
+            551,
+            147
+        ],
+        "text": "The Legendary Ancient Demon?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            847,
+            372,
+            948,
+            474
+        ],
+        "text": "In the face of overwhelming power...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            937,
+            23,
+            1029,
+            167
+        ],
+        "text": "...Sentiment and vengefulness are meaningless. Everything is.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            539,
+            1391,
+            588,
+            1433
+        ],
+        "text": "BOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            37,
+            314,
+            52,
+            439
+        ],
+        "text": "DUM DUM DUM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            53,
+            627,
+            111,
+            729
+        ],
+        "text": "SORRY, ZANKI!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            317,
+            212,
+            418
+        ],
+        "text": "SO LONG, DRAKE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            334,
+            418,
+            360,
+            488
+        ],
+        "text": "KRAASH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            569,
+            108,
+            594,
+            156
+        ],
+        "text": "TEP!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            862,
+            260,
+            919,
+            446
+        ],
+        "text": "HUFF...?\nTHAT TOOK\nLONGER THAN\nI EXPECTED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            560,
+            893,
+            607
+        ],
+        "text": "BAM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1041,
+            144,
+            1086,
+            234
+        ],
+        "text": "APOO GOT AWAY...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1065,
+            266,
+            1106,
+            332
+        ],
+        "text": "HE WAS TOUGH...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

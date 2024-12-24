@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            131,
+            304,
+            145,
+            357
+        ],
+        "text": "KRAK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            808,
+            634,
+            885,
+            777
+        ],
+        "text": "How displeasing!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1013,
+            83,
+            1109,
+            230
+        ],
+        "text": "Giganto-Macia's activation... means...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            997,
+            443,
+            1109,
+            605
+        ],
+        "text": "The moment I arrived, I got caught up in that thing's rampage.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            654,
+            1093,
+            742
+        ],
+        "text": "Right back at ya!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1262,
+            153,
+            1373,
+            315
+        ],
+        "text": "...That Tomura Shigaraki has awoken in an imperfect state!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

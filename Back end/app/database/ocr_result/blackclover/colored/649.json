@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            192,
+            109,
+            204,
+            189
+        ],
+        "text": "WHROOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            184,
+            566,
+            303,
+            666
+        ],
+        "text": "After we take you down!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            496,
+            364,
+            556,
+            462
+        ],
+        "text": "I know Zenon's abilities.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            838,
+            83,
+            877,
+            189
+        ],
+        "text": "...Absolute Defense.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            714,
+            658,
+            814,
+            741
+        ],
+        "text": "He uses bone magic as an...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            85,
+            271,
+            194,
+            425
+        ],
+        "text": "...I nevertheless sought to raise the boy to be a hero.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            75,
+            588,
+            208,
+            776
+        ],
+        "text": "He didn't have a way to overcome the inescapable downside of overheating, but...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            530,
+            56,
+            593,
+            201
+        ],
+        "text": "Then, Fuyumi, my second, was born.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            460,
+            491,
+            616,
+            639
+        ],
+        "text": "My wife wanted more children, saying they could encourage each other.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            404,
+            721,
+            536,
+            879
+        ],
+        "text": "Meanwhile, I still yearned for a child whose quirk combined fire and ice.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            880,
+            100,
+            991,
+            218
+        ],
+        "text": "...But at the time, I was happy all the same.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            788,
+            234,
+            921,
+            366
+        ],
+        "text": "Neither child bore the ideal quirk I was hoping for...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            825,
+            731,
+            891,
+            862
+        ],
+        "text": "She only inherited Rei's quirk.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1214,
+            143,
+            1302,
+            290
+        ],
+        "text": "...I placed my ambitions on his shoulders.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1197,
+            708,
+            1307,
+            819
+        ],
+        "text": "Because Toya had more potential than me...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

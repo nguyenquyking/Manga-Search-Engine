@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            43,
+            17,
+            89,
+            110
+        ],
+        "text": "IT SHOWED ME...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            165,
+            190,
+            210,
+            239
+        ],
+        "text": "HE WAS RIGHT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            533,
+            170,
+            602
+        ],
+        "text": "I WILL FIND YOU AN IDEAL OPPONENT TO GAUGE THE RESULTS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            477,
+            233,
+            532
+        ],
+        "text": "...OF YOUR TRAINING,",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            345,
+            90,
+            393,
+            149
+        ],
+        "text": "I WILL BURN AWAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            2,
+            672,
+            63
+        ],
+        "text": "EVERYTHING.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            689,
+            83,
+            725,
+            144
+        ],
+        "text": "FLAME MAGIC:",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            881,
+            12,
+            925,
+            103
+        ],
+        "text": "TO BEGIN...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            390,
+            463,
+            441,
+            606
+        ],
+        "text": "THAT I COULD STILL GET STRONGER!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            765,
+            361,
+            817,
+            415
+        ],
+        "text": "THIS IS FUN!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

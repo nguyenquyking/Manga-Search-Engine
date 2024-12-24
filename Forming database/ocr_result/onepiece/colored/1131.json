@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            60,
+            206,
+            69,
+            235
+        ],
+        "text": "ZIP!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            69,
+            581,
+            93,
+            723
+        ],
+        "text": "CHAMBRES!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            522,
+            744,
+            574
+        ],
+        "text": "SLICE!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            897,
+            58,
+            983,
+            186
+        ],
+        "text": "Huh?! You're alive!! What does this mean?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            251,
+            950,
+            350
+        ],
+        "text": "Help meeee!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            397,
+            998,
+            445
+        ],
+        "text": "Huh?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            528,
+            888,
+            653
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

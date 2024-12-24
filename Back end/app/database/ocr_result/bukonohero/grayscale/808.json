@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            117,
+            324,
+            374,
+            514
+        ],
+        "text": "...was how to turn up the heat.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            115,
+            840,
+            322,
+            1042
+        ],
+        "text": "All he ever taught me...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            362,
+            1431,
+            383,
+            1502
+        ],
+        "text": "ARGH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            651,
+            1088,
+            720,
+            1197
+        ],
+        "text": "Man, that was hot.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            1464,
+            859,
+            1505
+        ],
+        "text": "GAH!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            970,
+            65,
+            1055,
+            189
+        ],
+        "text": "If only I'd given it all up that day...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1009,
+            1075,
+            1094,
+            1168
+        ],
+        "text": "Welp, that's just deserts.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1007,
+            1428,
+            1092,
+            1546
+        ],
+        "text": "The flames... can't stop them!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

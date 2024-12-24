@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            151,
+            1646,
+            166,
+            1796
+        ],
+        "text": "ZWORP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1008,
+            399,
+            1041,
+            661
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1074,
+            1430,
+            1107,
+            1665
+        ],
+        "text": "@silentreigns",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            2663,
+            99,
+            2877,
+            742
+        ],
+        "text": "REMAINING TIME...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2002,
+            1626,
+            2166,
+            1896
+        ],
+        "text": "DEMON-DESTROYER!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

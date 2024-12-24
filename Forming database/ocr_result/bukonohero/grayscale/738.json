@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            29,
+            151,
+            98,
+            241
+        ],
+        "text": "More like feelings flowing from you.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            28,
+            549,
+            81,
+            650
+        ],
+        "text": "It's not words, exactly.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            411,
+            136,
+            483,
+            228
+        ],
+        "text": "My master's inner conflict...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            344,
+            615,
+            417,
+            711
+        ],
+        "text": "Your chat with the predecessors...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            491,
+            519,
+            545,
+            626
+        ],
+        "text": "The truths about One For All...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            687,
+            17,
+            738,
+            114
+        ],
+        "text": "Though not exactly in words...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            678,
+            179,
+            728,
+            286
+        ],
+        "text": "SHP\n000",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            687,
+            299,
+            752,
+            386
+        ],
+        "text": "What your quirkless self has to say...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            667,
+            528,
+            759,
+            736
+        ],
+        "text": "KNOCK\nKNOCK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            872,
+            434,
+            935,
+            504
+        ],
+        "text": "...I feel them flowing into me.",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            822,
+            521,
+            919,
+            582
+        ],
+        "text": "I only sense these things faintly, but...",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1017,
+            253,
+            1071,
+            355
+        ],
+        "text": "Pleased to meet you, All Might.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

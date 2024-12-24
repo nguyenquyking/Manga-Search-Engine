@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            163,
+            46,
+            307,
+            267
+        ],
+        "text": "ANYONE WHO CAN MOVE WITHOUT TOUCHING THE GROUND NEEDS TO FORM A PERIMETER!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            107,
+            707,
+            303,
+            878
+        ],
+        "text": "ATTENTION ALL! ENDEAVOR, HERE!! I'VE ENGAGED SHIGARAKI AT THE HOSPITAL RUINS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            304,
+            335,
+            722,
+            600
+        ],
+        "text": "BOOM BOOM BOOM BOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            789,
+            11,
+            817,
+            171
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            837,
+            140,
+            855,
+            185
+        ],
+        "text": "BAM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            852,
+            832,
+            875,
+            869
+        ],
+        "text": "NO TOUCH-",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

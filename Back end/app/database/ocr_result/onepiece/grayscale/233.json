@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            3,
+            59,
+            39,
+            176
+        ],
+        "text": "GREIISH",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            41,
+            19,
+            59,
+            179
+        ],
+        "text": "DEVIANTART | GRECIIAGZZ",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            174,
+            61,
+            250,
+            164
+        ],
+        "text": "...Kaido has let out his usual victory cry yet.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            273,
+            130,
+            313,
+            173
+        ],
+        "text": "Huff...Huff...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            396,
+            51,
+            495,
+            177
+        ],
+        "text": "Don't tell me that puny Straw Hat brat is still holding out alone...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            97,
+            597,
+            265,
+            704
+        ],
+        "text": "Pant...Pant...\nNow then, I don't think that...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            650,
+            67,
+            709,
+            150
+        ],
+        "text": "I'm beat.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            12,
+            786,
+            113
+        ],
+        "text": "GREIISH",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            838,
+            55,
+            926,
+            170
+        ],
+        "text": "Let's finish this quickly!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            650,
+            699,
+            739,
+            842
+        ],
+        "text": "You better not be playing with your food, Kaido!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            644,
+            778,
+            698
+        ],
+        "text": "Huff...Huff...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            839,
+            728,
+            930,
+            825
+        ],
+        "text": "Hera!! Take me to the roof!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            903,
+            622,
+            949,
+            673
+        ],
+        "text": "Yes, Mama.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1042,
+            404,
+            1111,
+            484
+        ],
+        "text": "Anaesthesia",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1038,
+            542,
+            1092,
+            618
+        ],
+        "text": "Pant...Pant...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1224,
+            692,
+            1270,
+            820
+        ],
+        "text": "KROOM!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1193,
+            99,
+            1274,
+            238
+        ],
+        "text": "This is the end!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1276,
+            375,
+            1297,
+            437
+        ],
+        "text": "GREIISH",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

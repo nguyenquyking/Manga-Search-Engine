@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            52,
+            73,
+            164,
+            160
+        ],
+        "text": "GET AWAY FROM HER!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            413,
+            156,
+            521
+        ],
+        "text": "DON'T YOU DARE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            539,
+            111,
+            599
+        ],
+        "text": "COME, MY--",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            394,
+            399,
+            480
+        ],
+        "text": "BWINNNG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            651,
+            118,
+            678,
+            295
+        ],
+        "text": "NAUGHTY! \u2661",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            546,
+            651,
+            574,
+            728
+        ],
+        "text": "OOF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            605,
+            582,
+            668,
+            645
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            615,
+            800,
+            698
+        ],
+        "text": "WHAT IS THIS?! A SPIDER-",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            211,
+            839,
+            275
+        ],
+        "text": "HEY!! STOP THAT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            314,
+            803,
+            360
+        ],
+        "text": "BENG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            995,
+            456,
+            1020,
+            563
+        ],
+        "text": "NAUGHTY! \u2661",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            277,
+            1117,
+            451
+        ],
+        "text": "VUM VUM VUM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            816,
+            17,
+            839,
+            166
+        ],
+        "text": "SHWIP\nHEH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

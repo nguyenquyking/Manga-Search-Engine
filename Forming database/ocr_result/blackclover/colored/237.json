@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            54,
+            641,
+            120,
+            800
+        ],
+        "text": "AFTER THE KINGDOM'S BATTLE, THINGS HAVE CHANGED...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            319,
+            740,
+            332,
+            871
+        ],
+        "text": "Yuki Tabata",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            349,
+            167,
+            377,
+            663
+        ],
+        "text": "Team Color Clovers",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            120,
+            73,
+            150,
+            329
+        ],
+        "text": "Page 220: Visiting the Injured",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1144,
+            376,
+            1170,
+            451
+        ],
+        "text": "HEYO!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

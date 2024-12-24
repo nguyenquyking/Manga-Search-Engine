@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            58,
+            750,
+            97,
+            839
+        ],
+        "text": "\u2026",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            32,
+            788,
+            540
+        ],
+        "text": "BAM\nJOLT\nHow 'bout you catch up on some other quirks in the meantime?!\nKIDDO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            166,
+            1111,
+            299
+        ],
+        "text": "...lived through the harshest era.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1005,
+            405,
+            1024,
+            454
+        ],
+        "text": "We...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            562,
+            1099,
+            709
+        ],
+        "text": "That way, you can visualize 'em better when you wake up!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            742,
+            1048,
+            876
+        ],
+        "text": "Especially Shinomori's and En's!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1197,
+            526,
+            1283,
+            611
+        ],
+        "text": "That's not the worst idea.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

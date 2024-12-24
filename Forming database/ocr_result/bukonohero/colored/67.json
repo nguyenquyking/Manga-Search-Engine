@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            70,
+            88,
+            156,
+            207
+        ],
+        "text": "THIS STUNT WILL LOSE YOU MORE THAN JUST YOUR LICENSE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            251,
+            147,
+            361
+        ],
+        "text": "I'M SO ACCUSTOMED TO YOUR INDEPENDENT WAYS THAT I GOT CARELESS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            335,
+            478,
+            424,
+            584
+        ],
+        "text": "WELL?! ARE THINGS READY ON YOUR END YET?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            303,
+            606,
+            340,
+            671
+        ],
+        "text": "FINE BY ME!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            136,
+            618,
+            248
+        ],
+        "text": "AND JAPAN'S BEEN INFORMED THAT THE STRIKE IS IMMINENT.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            514,
+            318,
+            594,
+            396
+        ],
+        "text": "SURE. A SPECIAL FAVOR, JUST THIS ONCE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            568,
+            859,
+            692
+        ],
+        "text": "THAT'S WHAT I WANTED TO HEAR!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            958,
+            49,
+            1063,
+            187
+        ],
+        "text": "... REALLY HAS MADE OUR NATION SHINE ALL THE BRIGHTER.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            975,
+            529,
+            1059,
+            684
+        ],
+        "text": "THE FACT IS, YOUR FLAGRANT DEFIANCE FROM THE RULES...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

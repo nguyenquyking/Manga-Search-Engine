@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            152,
+            137,
+            307,
+            276
+        ],
+        "text": "THE PIRATE KING!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            155,
+            354,
+            245,
+            442
+        ],
+        "text": "I WILL SURPASS",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            507,
+            185,
+            602
+        ],
+        "text": "THERE'S NO TIME TO REST!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            119,
+            1171,
+            228,
+            1284
+        ],
+        "text": "WHY ARE YOU IN SUCH A HURRY?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            1912,
+            198,
+            1988
+        ],
+        "text": "HEY, KID...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            545,
+            559,
+            650,
+            661
+        ],
+        "text": "LET'S GO FULL SPEED AHEAD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            923,
+            536,
+            1010,
+            638
+        ],
+        "text": "BEFORE THE FLAME IN HIS HEART WITHERED",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1167,
+            137,
+            1278,
+            313
+        ],
+        "text": "RACING THROUGH FORTHRIGHT.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1140,
+            526,
+            1351,
+            636
+        ],
+        "text": "ACE'S FIERY PASSION BURNED BRIGHT\nMUCH LIKE A RAGING FIRE",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1188,
+            1251,
+            1295,
+            1570
+        ],
+        "text": "GREAT PIRATE\n\"WHITEBEARD\"\nEDWARD NEWGATE",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1418,
+            32,
+            1441,
+            407
+        ],
+        "text": "EPISODE OF ACE - CHAPTER 1 - END",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

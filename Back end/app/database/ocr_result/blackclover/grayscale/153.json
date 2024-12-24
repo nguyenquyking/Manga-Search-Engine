@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            940,
+            822,
+            927,
+            900
+        ],
+        "text": "A",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1248,
+            52,
+            1329,
+            161
+        ],
+        "text": "Did... Did he save the Kingdom?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1249,
+            791,
+            1392,
+            949
+        ],
+        "text": "That's...!! It's the Captain of the Golden Dawn's spell!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1382,
+            280,
+            1414,
+            345
+        ],
+        "text": "How lovely!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

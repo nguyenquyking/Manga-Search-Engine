@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            89,
+            203,
+            171,
+            718
+        ],
+        "text": "BWAAAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            105,
+            848,
+            254,
+            1038
+        ],
+        "text": "BATTLE OF THE CONNECTING PASSAGE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            125,
+            1308,
+            551,
+            1460
+        ],
+        "text": "THIRD FLOOR\nDOOM!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            764,
+            845,
+            922,
+            1030
+        ],
+        "text": "OWW!!\nOUCH!! IT'S SO...NOT HOT!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            842,
+            156,
+            881,
+            318
+        ],
+        "text": "RAIZO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            1327,
+            845,
+            1470
+        ],
+        "text": "WINNER...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1268,
+            139,
+            1396,
+            285
+        ],
+        "text": "IT'S NOT\nHOT AT\nALL!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1259,
+            354,
+            1268,
+            519
+        ],
+        "text": "BE-BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1092,
+            426,
+            1218,
+            555
+        ],
+        "text": "GYAAAA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1603,
+            120,
+            1728,
+            345
+        ],
+        "text": "HUFF, HUFF...\nMUST...\nHURRY...!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1554,
+            414,
+            1717,
+            569
+        ],
+        "text": "YOU...\nYOU'RE\nWITH SIR\nLUFFY...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1983,
+            112,
+            2214,
+            360
+        ],
+        "text": "HOW\nCARELESS...OF\nME...!! THE\nPREPARATIONS...\nWERE ALREADY\nCOMPLETE...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2246,
+            476,
+            2269,
+            602
+        ],
+        "text": "FWOOO",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1559,
+            713,
+            1735,
+            1038
+        ],
+        "text": "YOU THERE,\nSAMURAI!!!\nWHY AREN'T YOU\nRUNNING?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1550,
+            1173,
+            1740,
+            1452
+        ],
+        "text": "WEEZ, WEEZ...\nTHIS IS AN AGE...\nWHEN EVEN NINJA\nSHOULD BE FREE...\nFUKUROKUJU...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

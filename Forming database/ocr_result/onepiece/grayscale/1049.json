@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            88,
+            92,
+            217,
+            251
+        ],
+        "text": "THE ONI ARE ATTACKING FRIEND AND FOE ALIKE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            32,
+            344,
+            100,
+            793
+        ],
+        "text": "RAAAAAAH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            81,
+            809,
+            211,
+            964
+        ],
+        "text": "WHAT IS HE THINKING?! QUEEN'S GONE MAD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            604,
+            190,
+            747,
+            391
+        ],
+        "text": "IF I'M ONLY GOING TO HARM MY OWN PEOPLE, THEN IT'S BETTER TO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            433,
+            720,
+            580
+        ],
+        "text": "I'M SORRY, BOSS HYOGORO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            611,
+            635,
+            739,
+            773
+        ],
+        "text": "BOSS OHMASA'S BEEN INFECTED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            832,
+            745,
+            970
+        ],
+        "text": "BOSS HYOGORO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            81,
+            905,
+            209
+        ],
+        "text": "NO, YOU FOOL!! DON'T!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1304,
+            50,
+            1475,
+            210
+        ],
+        "text": "...I'LL CUT YOU DOWN!! BUT NEVER END IT YOURSELF!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1300,
+            464,
+            1496,
+            606
+        ],
+        "text": "THERE MUST BE A CURE!! AND IF THERE'S NO OTHER WAY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1262,
+            660,
+            1310,
+            850
+        ],
+        "text": "GRAK CRAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1331,
+            856,
+            1456,
+            982
+        ],
+        "text": "I DON'T WANT TO BE A MONSTER!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

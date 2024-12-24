@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            334,
+            100,
+            361,
+            237
+        ],
+        "text": "Lumi\u00e8re.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            315,
+            897,
+            377,
+            1002
+        ],
+        "text": "Thank you...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            874,
+            873,
+            959
+        ],
+        "text": "A",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1308,
+            96,
+            1544,
+            236
+        ],
+        "text": "You parted in such a sad way 500 years ago. All right then, I'll bury you both together this time!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1350,
+            613,
+            1537,
+            756
+        ],
+        "text": "Heh heh heh heh. I'm so glad you made it in time this time around.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

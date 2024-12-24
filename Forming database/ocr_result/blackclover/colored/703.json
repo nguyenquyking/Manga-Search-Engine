@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            1127,
+            2116,
+            1573,
+            2160
+        ],
+        "text": "WAAAAAUUGH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1175,
+            475,
+            1196,
+            552
+        ],
+        "text": "Oho...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1421,
+            257,
+            1551,
+            380
+        ],
+        "text": "This feels like the magic from back then.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1419,
+            613,
+            1483,
+            721
+        ],
+        "text": "Devils?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            1357,
+            1231,
+            1460
+        ],
+        "text": "Are those...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1201,
+            1177,
+            1204,
+            1276
+        ],
+        "text": "FOOOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1455,
+            1628,
+            1528,
+            1768
+        ],
+        "text": "EEEEk!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            85,
+            90,
+            242,
+            170
+        ],
+        "text": "PUNCH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            191,
+            1359,
+            491,
+            1553
+        ],
+        "text": "STATE-OF-THE-ART HYPERSONIC INTER-CONTINENTAL CRUISE...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

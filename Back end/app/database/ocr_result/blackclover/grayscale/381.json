@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            231,
+            867,
+            334,
+            1039
+        ],
+        "text": "DEMON-DESTROYER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1358,
+            415,
+            1393,
+            456
+        ],
+        "text": "!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1376,
+            106,
+            1440,
+            196
+        ],
+        "text": "What... did you...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

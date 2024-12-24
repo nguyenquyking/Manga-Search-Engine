@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            86,
+            43,
+            172,
+            162
+        ],
+        "text": "...by a family called the Kozuki Clan...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            88,
+            201,
+            176,
+            340
+        ],
+        "text": "Until 20 years ago, the land of Wano had long been ruled...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            447,
+            145,
+            553
+        ],
+        "text": "Oden? I know I've heard that name...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            94,
+            618,
+            140,
+            690
+        ],
+        "text": "Oden Castle...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            157,
+            408,
+            201,
+            469
+        ],
+        "text": "But where...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            448,
+            33,
+            543,
+            200
+        ],
+        "text": "Let me tell you, he did not create Paradise Farm just so that Orochi and his minions...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            346,
+            561,
+            521
+        ],
+        "text": "...that the late Lord Oden created to feed the people of Kuri good, healthy food.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            578,
+            554,
+            688
+        ],
+        "text": "There's a large farm at the foot of that mountain...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            19,
+            692,
+            136
+        ],
+        "text": "...could hold this country's food under their thumb...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            843,
+            25,
+            914,
+            195
+        ],
+        "text": "And it all belongs to Shogun Orochi...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            264,
+            936,
+            362
+        ],
+        "text": "...and clean water and clothes...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            841,
+            397,
+            930,
+            505
+        ],
+        "text": "It is... safe, tasty crops and ingredients...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            567,
+            926,
+            697
+        ],
+        "text": "Is that where all the nonpoisoned food is?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

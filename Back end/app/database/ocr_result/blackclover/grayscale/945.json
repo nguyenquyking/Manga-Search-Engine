@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            28,
+            581,
+            208,
+            714
+        ],
+        "text": "He's intriguing... but he could conceivably bring about the most unthinkable situation.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            79,
+            149,
+            160
+        ],
+        "text": "That's enough games.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            308,
+            499,
+            440
+        ],
+        "text": "First I'll kill Lolopechka and Vanica...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            302,
+            919,
+            438
+        ],
+        "text": "...and then manifest completely.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            240,
+            67,
+            276,
+            172
+        ],
+        "text": "@RitoxRiot//\n@CloverColors",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            854,
+            63,
+            987,
+            301
+        ],
+        "text": "HFF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            991,
+            406,
+            1063,
+            482
+        ],
+        "text": "YOU\nLOSE\nAGAIN.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

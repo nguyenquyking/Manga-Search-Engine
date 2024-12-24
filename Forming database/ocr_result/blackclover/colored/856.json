@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            90,
+            569,
+            98,
+            613
+        ],
+        "text": "DOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            345,
+            23,
+            610,
+            171
+        ],
+        "text": "I'M GONNA BLAST YOU TO SMITHEREENS, LOSER!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1005,
+            65,
+            1064,
+            124
+        ],
+        "text": "Nice try!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

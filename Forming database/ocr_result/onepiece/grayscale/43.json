@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            73,
+            54,
+            180,
+            270
+        ],
+        "text": "RAAA!\nCRUSH KAIDO, AND\nDON'T WORRY\nABOUT US!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            616,
+            174,
+            733
+        ],
+        "text": "GO AHEAD,\nSTRAW\nHAT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            101,
+            555,
+            160
+        ],
+        "text": "AND WHAT'S\nWRONG\nWITH\nTHAT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            606,
+            593,
+            738
+        ],
+        "text": "ARE ALL OF YOU SAMURAI\nINSANE?! EVERY\nLAST ONE OF\nUS IS GOING\nTO DIE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            557,
+            745,
+            619
+        ],
+        "text": "I DON'T\nWANNA\nDIE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            685,
+            663,
+            743,
+            735
+        ],
+        "text": "CASTLE\nBASE-\nMENT",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            803,
+            676,
+            841,
+            737
+        ],
+        "text": "I DON'T\nWANNA\nDIE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            554,
+            920,
+            594
+        ],
+        "text": "YEOW!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1016,
+            571,
+            1114,
+            707
+        ],
+        "text": "I REFUSE TO\nDIE!! NOT ME!!\nI'M GONNA LIVE,\nNO MATTER IT\nTAKES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            82,
+            1078,
+            211
+        ],
+        "text": "SPLAASH!!\nWHAAA?!\nWATER?!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

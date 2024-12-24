@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            105,
+            451,
+            171,
+            586
+        ],
+        "text": "You're covered in burns...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            248,
+            662,
+            354,
+            781
+        ],
+        "text": "No! Why won't you stop?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            291,
+            417,
+            387,
+            566
+        ],
+        "text": "...and you still don't get it?! Why?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            95,
+            738,
+            258
+        ],
+        "text": "There's a whole other world besides the hero stuff... I know you understand that!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            538,
+            307,
+            671,
+            451
+        ],
+        "text": "Play with Natsuo and Fuyumi! Make some friends at school!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            569,
+            774,
+            659,
+            932
+        ],
+        "text": "Toya! You have to... look beyond all this.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            951,
+            465,
+            1083,
+            578
+        ],
+        "text": "The kids at school all say they wanna be heroes!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1280,
+            272,
+            1346,
+            409
+        ],
+        "text": "I can't understand that.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1156,
+            735,
+            1317,
+            819
+        ],
+        "text": "Take my advice, and this'll all be a distant memory soon.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

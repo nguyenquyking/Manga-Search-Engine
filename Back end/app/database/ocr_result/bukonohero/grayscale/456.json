@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            53,
+            162,
+            141,
+            265
+        ],
+        "text": "It seems we're always just one step away.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            505,
+            109,
+            592
+        ],
+        "text": "Intolerance.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            650,
+            136,
+            742
+        ],
+        "text": "Lack of understanding.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            309,
+            112,
+            436,
+            253
+        ],
+        "text": "Try as it might, humanity struggles to make true progress down its path.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            685,
+            100,
+            736,
+            230
+        ],
+        "text": "...feel like an impossible journey.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            620,
+            336,
+            693,
+            421
+        ],
+        "text": "...making that single step...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            700,
+            536,
+            751,
+            607
+        ],
+        "text": "...and voices clash...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            601,
+            636,
+            637,
+            704
+        ],
+        "text": "Issues shift...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            932,
+            109,
+            1039,
+            242
+        ],
+        "text": "Go on. Tackle the matter with your full power.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            474,
+            1086,
+            546
+        ],
+        "text": "...for him being here with us.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            869,
+            581,
+            1043,
+            695
+        ],
+        "text": "In any case, I believe there's a sound argument to be made...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

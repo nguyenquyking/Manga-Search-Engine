@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            66,
+            98,
+            108,
+            214
+        ],
+        "text": "Old Marineford\n(Now G-1 Base)",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            194,
+            197,
+            229,
+            278
+        ],
+        "text": "The Holy Land\nMary Geoise",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            328,
+            193,
+            348,
+            262
+        ],
+        "text": "Red Line",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            402,
+            45,
+            445,
+            135
+        ],
+        "text": "New\nMarineford",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            376,
+            238,
+            577
+        ],
+        "text": "The base had long served as the heart of the world's justice system, but in order to counteract the intensifying age of piracy...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            280,
+            413,
+            397,
+            519
+        ],
+        "text": "...The world government decided to build a stronger fortress...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            483,
+            396,
+            608,
+            522
+        ],
+        "text": "A new stronghold of justice at the entrance to the new world!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            528,
+            162,
+            658,
+            276
+        ],
+        "text": "While its location may have changed, Marine HQ continues to serve as the gateway...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            540,
+            45,
+            668,
+            147
+        ],
+        "text": "...to Mary Geoise, the Holy Land and home of the Celestial Dragons.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1014,
+            62,
+            1116,
+            252
+        ],
+        "text": "Purple Tiger\nshowed his\nface in\nMary Geoise?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            1292,
+            201,
+            1472
+        ],
+        "text": "The Battle of Marineford\nTwo years ago, a battle between\nMarine Headquarters\nand the Whitebeard Pirates...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            267,
+            1333,
+            417,
+            1466
+        ],
+        "text": "...ended in victory for the Marines--but the damage it did to Marineford in the process...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            462,
+            1357,
+            547,
+            1445
+        ],
+        "text": "...was utterly catastrophic.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            927,
+            425,
+            1027,
+            591
+        ],
+        "text": "This is New Marineford,\nthe Marine Headquarters",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1034,
+            399,
+            1110,
+            615
+        ],
+        "text": "commanded by New Fleet Admiral Sakazuki!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1054,
+            1060,
+            1147,
+            1412
+        ],
+        "text": "NEW MARINEFORD",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            43,
+            428,
+            131,
+            528
+        ],
+        "text": "BLACK COFFEE BEAM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            299,
+            33,
+            306,
+            106
+        ],
+        "text": "DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            404,
+            650,
+            421,
+            686
+        ],
+        "text": "SHING!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            541,
+            345,
+            646,
+            436
+        ],
+        "text": "TAKE SHELTER UNDER A ROOF!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            611,
+            622,
+            729
+        ],
+        "text": "NOOO!! HERE COMES THAT CANDY ARROW RAIN AGAIN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            674,
+            796,
+            725
+        ],
+        "text": "KUH KUH KUH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            865,
+            52,
+            905,
+            133
+        ],
+        "text": "CLIK!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            857,
+            183,
+            911,
+            252
+        ],
+        "text": "CLIK!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            864,
+            304,
+            905,
+            378
+        ],
+        "text": "CLIK!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            899,
+            432,
+            944,
+            542
+        ],
+        "text": "DIFFUSION MODE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            901,
+            649,
+            922,
+            721
+        ],
+        "text": "MARY'S!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            435,
+            1030,
+            498
+        ],
+        "text": "CLIK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

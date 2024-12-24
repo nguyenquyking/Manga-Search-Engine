@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            35,
+            235,
+            158,
+            330
+        ],
+        "text": "...If you're saying you know who my master is...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            47,
+            358,
+            168,
+            449
+        ],
+        "text": "...Who's the next leader?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            654,
+            91,
+            726
+        ],
+        "text": "Question is...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            131,
+            143,
+            185,
+            235
+        ],
+        "text": "Then you'd still dare to provoke me?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            369,
+            22,
+            388,
+            109
+        ],
+        "text": "...is me.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            348,
+            604,
+            358,
+            699
+        ],
+        "text": "The next leader...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            632,
+            143,
+            699,
+            222
+        ],
+        "text": "Got a plan?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            578,
+            736,
+            725
+        ],
+        "text": "I'm gathering up forces. And soon we're going to expand.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            805,
+            266,
+            959,
+            426
+        ],
+        "text": "And with that power, we're gonna smash the head in of this hero world. Mark my words.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

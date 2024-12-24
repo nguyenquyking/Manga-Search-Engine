@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            89,
+            36,
+            243,
+            211
+        ],
+        "text": "...and each section is equipped with mechanisms that transform it into an underground emergency shelter!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            499,
+            219,
+            650
+        ],
+        "text": "The grounds are partitioned like a game board...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            467,
+            15,
+            488,
+            98
+        ],
+        "text": "Then...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            318,
+            159,
+            343,
+            229
+        ],
+        "text": "DADOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            903,
+            381,
+            1063,
+            506
+        ],
+        "text": "...Those individual shelters enter a linear maglev network...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            954,
+            213,
+            1060,
+            344
+        ],
+        "text": "...that can send them along any number of routes at our discretion.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

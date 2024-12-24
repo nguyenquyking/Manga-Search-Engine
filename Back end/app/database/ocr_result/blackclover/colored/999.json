@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            247,
+            180,
+            476,
+            366
+        ],
+        "text": "...to Division Four of the Mage Defense Force.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            277,
+            1191,
+            423,
+            1406
+        ],
+        "text": "Congratulations on your admission...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            943,
+            145,
+            1183,
+            384
+        ],
+        "text": "In particular, Zenon of Bone Magic is a genius!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            918,
+            1241,
+            1238,
+            1428
+        ],
+        "text": "Both of this year's new members are battle-ready!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1506,
+            150,
+            1664,
+            357
+        ],
+        "text": "There's no winning or losing on missions, Allen.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1541,
+            451,
+            1678,
+            589
+        ],
+        "text": "I'm not losing this time, Zenon!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1751,
+            117,
+            1900,
+            239
+        ],
+        "text": "Man, you're always so serious...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1687,
+            664,
+            1923,
+            838
+        ],
+        "text": "Division Four, go there immediately and investigate!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1481,
+            1265,
+            1779,
+            1464
+        ],
+        "text": "A dungeon has appeared to the northwest of the town of Lawton!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

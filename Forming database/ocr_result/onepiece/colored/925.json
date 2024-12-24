@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            518,
+            290,
+            871,
+            332
+        ],
+        "text": "92\u5dfb\u3001",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            894,
+            297,
+            912,
+            528
+        ],
+        "text": "Twitter Instagram\u30a2\u30ab\u30a6\u30f3\u30c8",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            950,
+            283,
+            990,
+            489
+        ],
+        "text": "URL\u306f\u3053\u3061\u3089!\nTwitter: https://twitter.com/eiichiro_staff\nLINE: https://goo.gl/a8rsxD",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

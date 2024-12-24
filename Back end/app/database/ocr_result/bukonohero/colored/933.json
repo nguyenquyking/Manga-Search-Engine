@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            12,
+            536,
+            116,
+            685
+        ],
+        "text": "I'VE NEVER SEEN MIRIO THIS... DEJECTED...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            100,
+            388,
+            180,
+            491
+        ],
+        "text": "...WHAT IS THIS,\nA WAKE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            684,
+            416,
+            744
+        ],
+        "text": "DING!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            747,
+            22,
+            765,
+            119
+        ],
+        "text": "ALTHOUGH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            682,
+            303,
+            787,
+            437
+        ],
+        "text": "AH,\nJUST CALL ME \"ERASERHEAD\"\nOUTSIDE OF\nSCHOOL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            625,
+            617,
+            701,
+            799
+        ],
+        "text": "Ribbit!\nSENSEI!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            588,
+            1105,
+            797
+        ],
+        "text": "I CAME HERE\nTODAY INTENDING\nTO COUNSEL YOU\nTO CANCEL YOUR\nINTERNSHIPS.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

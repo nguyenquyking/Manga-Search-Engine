@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            133,
+            240,
+            259,
+            343
+        ],
+        "text": "...is attained when the resonance...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            338,
+            42,
+            538,
+            156
+        ],
+        "text": "...between a spirit and its host is very close to 100 percent.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            714,
+            194,
+            917,
+            326
+        ],
+        "text": "By staying in a fight that kept him on the brink of death, Yuno obtained...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            358,
+            659,
+            427,
+            751
+        ],
+        "text": "Saint Stage...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            114,
+            2141,
+            240,
+            2257
+        ],
+        "text": "Not me!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            256,
+            1022,
+            446,
+            1248
+        ],
+        "text": "A nobody like you!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            251,
+            2925,
+            403,
+            3114
+        ],
+        "text": "I can't possibly lose!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            2235,
+            558,
+            2352
+        ],
+        "text": "Not to a-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            806,
+            2101,
+            938,
+            2888
+        ],
+        "text": "SHADDUP...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1896,
+            172,
+            2221,
+            1069
+        ],
+        "text": "...YOU PSYCHO!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            98,
+            61,
+            159,
+            159
+        ],
+        "text": "What's with the mumbling?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            176,
+            71,
+            227,
+            149
+        ],
+        "text": "Ya Gordon or somethin?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            115,
+            265,
+            258,
+            385
+        ],
+        "text": "Captain!!! He can't hear you!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            273,
+            356,
+            340
+        ],
+        "text": "Isn't this so cute!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            518,
+            78,
+            609,
+            207
+        ],
+        "text": "So, like, ya don't need to say anythin...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            492,
+            727,
+            601,
+            819
+        ],
+        "text": "I've known how ya feel.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            707,
+            666,
+            788
+        ],
+        "text": "Since the beginning.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            184,
+            962,
+            264
+        ],
+        "text": "It hurts my poor, fragile heart, y'know?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            295,
+            923,
+            431
+        ],
+        "text": "But to go as far as runnin' away from me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            898,
+            702,
+            991,
+            827
+        ],
+        "text": "You don't like me all that much, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            700,
+            1085,
+            797
+        ],
+        "text": "Instinctively, even.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1235,
+            234,
+            1264,
+            833
+        ],
+        "text": "TWITTER: dabi_s_wife / @ColorClovers",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            30,
+            601,
+            30,
+            686
+        ],
+        "text": "HHOOOOO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            261,
+            654,
+            265,
+            716
+        ],
+        "text": "00000",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            772,
+            130,
+            791,
+            187
+        ],
+        "text": "LOOK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

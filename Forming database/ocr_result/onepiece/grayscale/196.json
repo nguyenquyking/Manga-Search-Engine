@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            172,
+            45,
+            255,
+            178
+        ],
+        "text": "Just tell us about the One Piece before you die!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            56,
+            495,
+            130
+        ],
+        "text": "Does it exist? It better!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            479,
+            196,
+            502,
+            321
+        ],
+        "text": "WHOAAA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            51,
+            501,
+            114,
+            586
+        ],
+        "text": "\"Great Era of Piracy\"?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            509,
+            393,
+            622
+        ],
+        "text": "Easy for you\u2014you're dying!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            818,
+            123,
+            904
+        ],
+        "text": "You got the whole world in on this...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            1108,
+            112,
+            1182
+        ],
+        "text": "RAAAAH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            32,
+            1372,
+            56,
+            1464
+        ],
+        "text": "Whaaat?!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            278,
+            981,
+            437,
+            1056
+        ],
+        "text": "Ahh, dammit... Of all the luck...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            506,
+            678,
+            598
+        ],
+        "text": "But when those kids rise up all over the world...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            583,
+            291,
+            607,
+            360
+        ],
+        "text": "GAAAH!!!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            752,
+            315,
+            840,
+            399
+        ],
+        "text": "Aah! Water!!!",
+        "panel_id": "8",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            776,
+            809,
+            835,
+            868
+        ],
+        "text": "We'll be the ones...",
+        "panel_id": "9",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            498,
+            970,
+            580
+        ],
+        "text": "...Who have to deal with them!!!",
+        "panel_id": "10",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            935,
+            683,
+            959,
+            749
+        ],
+        "text": "KRUNCH!!",
+        "panel_id": "10",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            982,
+            308,
+            1031,
+            402
+        ],
+        "text": "WATERRR!!!",
+        "panel_id": "11",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            962,
+            978,
+            1049,
+            1070
+        ],
+        "text": "Why'd you have to go and say that?!",
+        "panel_id": "12",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            1466,
+            692,
+            1525
+        ],
+        "text": "Koff!!",
+        "panel_id": "13",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            804,
+            1431,
+            854,
+            1505
+        ],
+        "text": "Hey, Roger.",
+        "panel_id": "14",
+        "type": "dialogue"
+    }
+]

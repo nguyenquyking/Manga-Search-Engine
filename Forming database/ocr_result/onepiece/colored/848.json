@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            78,
+            45,
+            192,
+            195
+        ],
+        "text": "Even if she washed up on shore instead, it's enemy territory! She'll be caught eventually!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            102,
+            276,
+            145,
+            374
+        ],
+        "text": "Huh...? By Kaido?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            408,
+            162,
+            577
+        ],
+        "text": "Seems most likely that the enemy would've hauled her out of the water, right?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            619,
+            150,
+            719
+        ],
+        "text": "A Devil Fruit user falling into the sea...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            230,
+            663,
+            268,
+            723
+        ],
+        "text": "Iyo!\nPon-pon!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            518,
+            57,
+            624,
+            202
+        ],
+        "text": "No, Brother Pero! The next captain would obviously be Katakuri!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            531,
+            234,
+            616,
+            388
+        ],
+        "text": "And the Big Mom Pirates...become the Perospero Pirates, eh...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            534,
+            430,
+            614,
+            516
+        ],
+        "text": "You'd assume he'll take her life.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            519,
+            542,
+            627,
+            713
+        ],
+        "text": "While the two of them might have been comrades once, now they are Emperors of the Sea, foes and rivals!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            677,
+            80,
+            733,
+            186
+        ],
+        "text": "We operate on seniority, Perorin.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            17,
+            832,
+            134
+        ],
+        "text": "Nonsense! Power is all that matters!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            36,
+            1042,
+            161
+        ],
+        "text": "Only a dolt would measure her by average standards!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            332,
+            1014,
+            440
+        ],
+        "text": "She will come back alive!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            507,
+            937,
+            689
+        ],
+        "text": "Don't kill Mama off yet!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1122,
+            57,
+            1132,
+            96
+        ],
+        "text": "!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

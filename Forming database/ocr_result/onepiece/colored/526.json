@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            72,
+            262,
+            120,
+            326
+        ],
+        "text": "WHAT...? ",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            436,
+            274,
+            646
+        ],
+        "text": "To Kawamatsu\nThank you for everything.\nI will be fine.\nHiyori",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            134,
+            373,
+            153,
+            423
+        ],
+        "text": "BENG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            423,
+            65,
+            471,
+            157
+        ],
+        "text": "LADY HIYORI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            196,
+            498,
+            305
+        ],
+        "text": "PRINCESS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            634,
+            483,
+            730
+        ],
+        "text": "LADY HIYORI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            506,
+            639,
+            590
+        ],
+        "text": "\u3046\u308f\u3042\u3042\u3042\u3042\u3041\u3042\u3042\u3042\u3042!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            804,
+            152,
+            852,
+            237
+        ],
+        "text": "LADY HIYORI...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            892,
+            216,
+            930,
+            264
+        ],
+        "text": "HUFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            788,
+            403,
+            832,
+            477
+        ],
+        "text": "LADY HIYORI...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            632,
+            816,
+            717
+        ],
+        "text": "PRINCESS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            617,
+            943,
+            658
+        ],
+        "text": "CHATTER",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1074,
+            65,
+            1090,
+            112
+        ],
+        "text": "HUFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1128,
+            340,
+            1149,
+            516
+        ],
+        "text": "YAMMER YAMMER",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

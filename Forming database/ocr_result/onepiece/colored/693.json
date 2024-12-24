@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            36,
+            57,
+            78,
+            266
+        ],
+        "text": "JUMP COMICS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            158,
+            370,
+            247,
+            478
+        ],
+        "text": "\u5dfb\u4e5d\u5341\u56db \"\u5175\u3069\u3082\u304c\u5922\"",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

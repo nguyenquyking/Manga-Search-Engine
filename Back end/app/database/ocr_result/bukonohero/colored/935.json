@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            142,
+            47,
+            278,
+            214
+        ],
+        "text": "So, if you are going to do it, let's be doing it the proper way, Midoriya.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            115,
+            653,
+            192,
+            797
+        ],
+        "text": "I'll be watching over you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1096,
+            440,
+            1171,
+            586
+        ],
+        "text": "Understand, problem child?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            418,
+            456,
+            445
+        ],
+        "text": "\u30b7\u30c3",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

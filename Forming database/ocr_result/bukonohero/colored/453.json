@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            124,
+            741,
+            165,
+            847
+        ],
+        "text": "AT THAT MOMENT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1034,
+            682,
+            1099,
+            814
+        ],
+        "text": "THERE WERE NO THOUGHTS...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

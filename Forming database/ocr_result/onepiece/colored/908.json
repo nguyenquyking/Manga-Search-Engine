@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            82,
+            586,
+            159,
+            703
+        ],
+        "text": "REVEAL YOURSELF!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            92,
+            833,
+            200
+        ],
+        "text": "IT HURTS A BIT,\nBUT THIS STUFF\nIS DURABLE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            861,
+            8,
+            930,
+            101
+        ],
+        "text": "THE CITY'S\nGONNA FALL\nAPART BEFORE\nI DO...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            781,
+            335,
+            859,
+            423
+        ],
+        "text": "WHOA!!\nIS SANJI\nOKAY?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1069,
+            332,
+            1140,
+            431
+        ],
+        "text": "THOSE\nANCIENT TYPES\nDON'T MESS\nAROUND...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

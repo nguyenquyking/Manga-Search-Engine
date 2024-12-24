@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            305,
+            57,
+            369,
+            151
+        ],
+        "text": "We're up against all of society as well.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            369,
+            162,
+            457
+        ],
+        "text": "...It won't just be villains we're fighting.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            527,
+            194,
+            614
+        ],
+        "text": "But even if this intel is wrong, it's worth filling in the gaps.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            624,
+            137,
+            711
+        ],
+        "text": "Maybe someone misspoke? Or misheard?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            282,
+            525,
+            330,
+            612
+        ],
+        "text": "Because going forward...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            531,
+            80,
+            596,
+            198
+        ],
+        "text": "\"It's also meant to protect you. Understand?\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            361,
+            628,
+            476
+        ],
+        "text": "\"This secret is all that prevents society from falling into chaos!\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            41,
+            878,
+            152
+        ],
+        "text": "We need privacy. Follow me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            839,
+            291,
+            903,
+            378
+        ],
+        "text": "The ones who won't give up, huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            607,
+            857,
+            727
+        ],
+        "text": "I suppose we're way past this point already.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            969,
+            1,
+            983,
+            43
+        ],
+        "text": "TMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

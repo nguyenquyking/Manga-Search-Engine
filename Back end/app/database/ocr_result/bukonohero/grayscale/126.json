@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            36,
+            353,
+            83,
+            430
+        ],
+        "text": "Sorry to say, Endeavor...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            148,
+            332,
+            261,
+            429
+        ],
+        "text": "...I knew he wouldn't show up with armor I could actually crack.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            43,
+            71,
+            196,
+            508
+        ],
+        "text": "FWP\nRelax.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            216,
+            59,
+            270,
+            143
+        ],
+        "text": "I didn't have my hopes up, anyway.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            680,
+            149,
+            748
+        ],
+        "text": "The Gunja Villa Site...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            144,
+            615,
+            184,
+            662
+        ],
+        "text": "I see.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            618,
+            515,
+            763
+        ],
+        "text": "We learned in Kamino that your ooze warp is an inferior version of what Kurogiri can do, all for one.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            59,
+            547,
+            175
+        ],
+        "text": "At the end of the day, your hubris is going to be your downfall.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            201,
+            594,
+            306
+        ],
+        "text": "The U.A. barrier got some upgrades with that in mind.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            482,
+            459,
+            610,
+            614
+        ],
+        "text": "It has a much shorter range and you can't warp yourself either.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            68,
+            826,
+            179
+        ],
+        "text": "Fair enough. But you're a cruel man, Endeavor.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            200,
+            838,
+            326
+        ],
+        "text": "The sharp decline in the hero population meant dividing our forces was a necessity.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            661,
+            802,
+            755
+        ],
+        "text": "Splitting us up to divide and conquer...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            75,
+            1076,
+            199
+        ],
+        "text": "But the most brutal part of this little scheme has to be...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            326,
+            1044,
+            427
+        ],
+        "text": "Pitting One For All against Tomura...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            256,
+            1107,
+            326
+        ],
+        "text": "...is a deadly knife's edge to dance upon.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            476,
+            1088,
+            595
+        ],
+        "text": "That is...if you were actually hoping for a shot at victory.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            633,
+            1041,
+            711
+        ],
+        "text": "A fine plan, I suppose.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

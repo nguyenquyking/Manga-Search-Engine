@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            92,
+            339,
+            184,
+            470
+        ],
+        "text": "...the ones to protect them have to be...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            541,
+            86,
+            688,
+            273
+        ],
+        "text": "...so we have a shot at smiling together into the future!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            479,
+            573,
+            583,
+            739
+        ],
+        "text": "Please... lend him your strength...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

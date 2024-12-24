@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            166,
+            179,
+            191,
+            275
+        ],
+        "text": "YEEEAH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            82,
+            635,
+            204,
+            698
+        ],
+        "text": "THERE'S PLENTY MORE WHERE THAT CAME FROM!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            208,
+            572,
+            261,
+            636
+        ],
+        "text": "EAT UP, GUYS!\nEAT UP!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            88,
+            607,
+            136
+        ],
+        "text": "FWUP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            831,
+            131,
+            886,
+            240
+        ],
+        "text": "BEST OF ALL,\nNAMI SEEMED\nTO LOVE THEM.",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            930,
+            71,
+            1087,
+            167
+        ],
+        "text": "WHAT\nA GREAT\nEXPERIENCE\nTO HAVE\nRIGHT\nBEFORE WE\nDIVE INTO\nTHE GRAND\nLINE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            857,
+            504,
+            975,
+            659
+        ],
+        "text": "MMM,\nMAN!\nLAST NIGHT'S\nDISHES\nTURNED OUT\nPERFECTLY, IF\nI DO SAY SO\nMYSELF.",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

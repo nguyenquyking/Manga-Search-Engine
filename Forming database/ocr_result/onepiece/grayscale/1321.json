@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            86,
+            214,
+            170,
+            450
+        ],
+        "text": "GROWRRR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            88,
+            701,
+            185,
+            943
+        ],
+        "text": "KLANG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            494,
+            514,
+            529,
+            642
+        ],
+        "text": "GRRRR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            47,
+            1052,
+            177,
+            1314
+        ],
+        "text": "THWIP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            727,
+            100,
+            848,
+            270
+        ],
+        "text": "OF COURSE YOU ARE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            342,
+            810,
+            506
+        ],
+        "text": "SORRY!\nI'M FINE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            581,
+            756,
+            708
+        ],
+        "text": "YIPE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            678,
+            1020,
+            736,
+            1300
+        ],
+        "text": "GRRR!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1535,
+            1141,
+            1689,
+            1353
+        ],
+        "text": "LET'S BREAK\nTHROUGH\n'EM!! ENOUGH\nDISGUISES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1339,
+            87,
+            1861,
+            254
+        ],
+        "text": "THEY'RE\nHARD TO\nMOVE IN!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1915,
+            809,
+            2002,
+            869
+        ],
+        "text": "PWOOOF",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

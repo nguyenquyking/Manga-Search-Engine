@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            97,
+            586,
+            130,
+            653
+        ],
+        "text": "OJI HARIMA.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            168,
+            47,
+            219,
+            142
+        ],
+        "text": "A CRIMINAL FROM DAYS GONE BY.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            211,
+            486,
+            264,
+            573
+        ],
+        "text": "THE PEERLESS THIEF.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            485,
+            104,
+            573,
+            229
+        ],
+        "text": "...HARIMA TARGETED THE FATTENED POCKETS OF SHAM HEROES.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            520,
+            558,
+            590,
+            705
+        ],
+        "text": "JUST WHEN THE CURRENT SYSTEM BEGAN SETTLING INTO PLACE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            654,
+            39,
+            795,
+            165
+        ],
+        "text": "HE PREACHED REFORMATION WHILE RETURNING WHAT HE PILFERED BACK TO THE STREETS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            962,
+            294,
+            1077,
+            437
+        ],
+        "text": "...IS ALL ABOUT EXPOSING INJUSTICE. THAT RIGHTEOUS BLOOD RUNS IN OUR VEINS.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            960,
+            546,
+            1039,
+            665
+        ],
+        "text": "LISTEN, ATSUHIRO! OUR FAMILY'S LINEAGE...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

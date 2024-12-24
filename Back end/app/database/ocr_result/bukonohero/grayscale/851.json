@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            54,
+            29,
+            234,
+            159
+        ],
+        "text": "Without the medical achievements of Central Hospital, you'd still be hovering between this world and the next.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            223,
+            104,
+            288
+        ],
+        "text": "Indeed.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            158,
+            423,
+            248,
+            513
+        ],
+        "text": "Sorry, I get to snooze while you don't.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            446,
+            43,
+            535,
+            142
+        ],
+        "text": "Even now, my body is like worn, distressed denim!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            350,
+            532,
+            519,
+            703
+        ],
+        "text": "For instance, the procedure to induce a deathlike state, inspired by the Nomu! Which I wasn't all too keen to receive!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            277,
+            785,
+            373
+        ],
+        "text": "But it was a success! And I delivered your supposedly dead body to Dabi.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            49,
+            1021,
+            180
+        ],
+        "text": "...But since you were really you, you passed the test, and he bought the story.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            202,
+            972,
+            313
+        ],
+        "text": "He went as far as having your corpse identified...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            569,
+            859,
+            708
+        ],
+        "text": "Sorry about that. I suggested it since I knew a cheaper trick wouldn't fool them.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            910,
+            448,
+            1019,
+            604
+        ],
+        "text": "Especially with the guy responsible for the Nomu lurking behind the scenes.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

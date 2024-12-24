@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            614,
+            278,
+            638,
+            335
+        ],
+        "text": "SLICE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            938,
+            407,
+            1001,
+            483
+        ],
+        "text": "WHAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1048,
+            199,
+            1099,
+            294
+        ],
+        "text": "HAWKINS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            60,
+            210,
+            121,
+            295
+        ],
+        "text": "DONE RUNNING AWAY, EH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            475,
+            105,
+            530
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            141,
+            61,
+            253,
+            168
+        ],
+        "text": "FOR COMING STRAIGHT AFTER ME, YOU SURE TOOK A WHILE TO GET HERE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            65,
+            350,
+            126
+        ],
+        "text": "SHUT UP!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            620,
+            144,
+            710
+        ],
+        "text": "RINGO, WANO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            153,
+            457,
+            198,
+            536
+        ],
+        "text": "I FOUND YOU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            234,
+            564,
+            292,
+            697
+        ],
+        "text": "Kibi\nFCKuri\nUdon\nHakumai",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            444,
+            296,
+            514,
+            389
+        ],
+        "text": "...TO WHERE IT BELONGS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            438,
+            438,
+            514,
+            547
+        ],
+        "text": "THE FAMED SHUSUI HAS ALREADY BEEN RETURNED...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            603,
+            59,
+            698,
+            164
+        ],
+        "text": "IT WAS MOST CALLOUSLY STOLEN...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1026,
+            95,
+            1080,
+            185
+        ],
+        "text": "I KNOW THAT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            475,
+            1123,
+            612
+        ],
+        "text": "...FROM THE GRAVE OF THE LEGENDARY SAMURAI, RYUMA!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

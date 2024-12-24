@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            107,
+            234,
+            241,
+            965
+        ],
+        "text": "ZZ ZZ ZZ ZZ",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1126,
+            91,
+            1457,
+            289
+        ],
+        "text": "Well, look at that. Geh heh heh...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1358,
+            345,
+            1425,
+            437
+        ],
+        "text": "DEVIL...!!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1305,
+            822,
+            1392,
+            930
+        ],
+        "text": "MY RIGHT ARM!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

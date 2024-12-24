@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            176,
+            167,
+            296,
+            626
+        ],
+        "text": "Laugh\nLaugh\nHUNH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            404,
+            247,
+            496,
+            337
+        ],
+        "text": "Dude,\nwe're in\nthe Reiwa\nera now.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            663,
+            396,
+            836
+        ],
+        "text": "Shrimp Shumai\nTeruaki\nMizuno",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            643,
+            820,
+            712,
+            903
+        ],
+        "text": "\"Storm\nof\nTomatoes\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            370,
+            902,
+            597
+        ],
+        "text": "*The\nMagic\nKnights\nHow\nate and\nenjoyed\nall the\ntomatoes.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            755,
+            105,
+            849,
+            333
+        ],
+        "text": "Twice-cooked pork\nY\u014dtar\u014d\nHayakawa",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1457,
+            134,
+            1548,
+            269
+        ],
+        "text": "Chili shrimp\nHayato\nGot\u014d",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            960,
+            712,
+            1048,
+            954
+        ],
+        "text": "Chicken broth ramen\nKazuhiro\nWakao",
+        "panel_id": "6",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1049,
+            556,
+            1140,
+            618
+        ],
+        "text": "Master\nNozel...\nHow\nterribly\nelaborate!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1097,
+            877,
+            1371,
+            978
+        ],
+        "text": "SCRIT\nSCRIT\nCLICK\nCLICK",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

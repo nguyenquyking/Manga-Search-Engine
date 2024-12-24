@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            328,
+            453,
+            380,
+            537
+        ],
+        "text": "Please wait here, Finesse.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            331,
+            750,
+            374,
+            819
+        ],
+        "text": "Brother... Just a moment...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            32,
+            508,
+            117
+        ],
+        "text": "So, what's up, Langris?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            338,
+            208,
+            458,
+            292
+        ],
+        "text": "It's not like I'm going to gouge Brother's innards out...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            253,
+            565,
+            297
+        ],
+        "text": "You're scary, Langris.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            525,
+            587,
+            591,
+            664
+        ],
+        "text": "Are you okay to move, Langris?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            9,
+            920,
+            115
+        ],
+        "text": "So you've woken up as well, Vice-Captain?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            785,
+            719,
+            930,
+            832
+        ],
+        "text": "There's no way you'll be able to make Finesse happy the way you are right now, brother.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1095,
+            366,
+            1150,
+            442
+        ],
+        "text": "Vice-Captain Langris!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1137,
+            548,
+            1176,
+            622
+        ],
+        "text": "Which is why...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

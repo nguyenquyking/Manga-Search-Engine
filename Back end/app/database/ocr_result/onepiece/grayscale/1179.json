@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            73,
+            78,
+            153,
+            205
+        ],
+        "text": "SAVE YOUR STRENGTH FOR KAIDO.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            64,
+            563,
+            139,
+            667
+        ],
+        "text": "STAND BACK FOR NOW...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            685,
+            110,
+            770
+        ],
+        "text": "NO, YOU TWO.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            905,
+            110,
+            995
+        ],
+        "text": "IT WAS YOU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            315,
+            180,
+            393,
+            696
+        ],
+        "text": "BWOOS",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            620,
+            373,
+            768,
+            773
+        ],
+        "text": "WHALE FOREST GUARDIANS\nRODDY & BB",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            824,
+            794,
+            907,
+            932
+        ],
+        "text": "YOU TOO, DUKE DOGSTORM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1059,
+            96,
+            1118,
+            317
+        ],
+        "text": "GRRRR",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1395,
+            299,
+            1419,
+            688
+        ],
+        "text": "DOGSTORM: THREE MUSKETEERS",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

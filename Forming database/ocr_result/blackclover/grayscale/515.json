@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            185,
+            90,
+            396,
+            212
+        ],
+        "text": "Even if I was gonna, it's got nothing to do with you people!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            91,
+            301,
+            248,
+            455
+        ],
+        "text": "Huh?! Who'd pull a stunt like that for that idiot?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            905,
+            192,
+            989
+        ],
+        "text": "Jack.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            841,
+            718,
+            959
+        ],
+        "text": "You'd better not be planning to march into the Spade Kingdom.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            91,
+            1025,
+            200
+        ],
+        "text": "I want to go rescue Yami too!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            294,
+            974,
+            395
+        ],
+        "text": "Captains must not act arbitrarily!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            908,
+            671,
+            1038,
+            785
+        ],
+        "text": "You fool! It's everything to do with us!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            868,
+            833,
+            976,
+            947
+        ],
+        "text": "You just hang out and keep flapping your lips.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1288,
+            106,
+            1366,
+            220
+        ],
+        "text": "...with his own hands!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1203,
+            863,
+            1422,
+            989
+        ],
+        "text": "You're not the only one who wants to kill those fools...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

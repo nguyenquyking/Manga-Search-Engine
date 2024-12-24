@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            819,
+            53,
+            1006,
+            250
+        ],
+        "text": "Twitter - ColorClovers",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            884,
+            331,
+            1270,
+            669
+        ],
+        "text": "BOOOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            965,
+            14,
+            1142,
+            112
+        ],
+        "text": "Do you really think you can reach me at that speed...!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            364,
+            1270,
+            599
+        ],
+        "text": "Iceberry\nYour vigor is admirable, but...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

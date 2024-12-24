@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            105,
+            438,
+            234,
+            604
+        ],
+        "text": "LOOKING AT HIM, YOU'D NEVER GUESS HE WAS A HERO.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1399,
+            605,
+            1420,
+            917
+        ],
+        "text": "Colorist: HEXAMENDLE",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

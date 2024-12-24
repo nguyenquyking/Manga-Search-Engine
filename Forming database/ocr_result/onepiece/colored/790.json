@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            72,
+            71,
+            168,
+            175
+        ],
+        "text": "...are being apprehended by Kaido and Orochi's forces.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            224,
+            44,
+            298,
+            120
+        ],
+        "text": "You're under arrest! Seize him!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            505,
+            162,
+            649
+        ],
+        "text": "...It would seem that our cohorts in the capital...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            244,
+            562,
+            292,
+            658
+        ],
+        "text": "Flower Capital",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            406,
+            55,
+            486,
+            187
+        ],
+        "text": "Any with the marks on their ankles are traitors!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            241,
+            468,
+            356
+        ],
+        "text": "He's got the mark of the moon and the puzzle image!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            389,
+            430,
+            463
+        ],
+        "text": "Found one!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            532,
+            19,
+            607,
+            106
+        ],
+        "text": "If you see something, inform us at once!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            235,
+            555,
+            311
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            636,
+            459,
+            690,
+            522
+        ],
+        "text": "Oofh!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            796,
+            54,
+            868,
+            196
+        ],
+        "text": "You let them get away too, remember.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            229,
+            840,
+            327
+        ],
+        "text": "What's that supposed to mean?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            770,
+            357,
+            832,
+            431
+        ],
+        "text": "Good for you, hmm?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            465,
+            884,
+            589
+        ],
+        "text": "There's no time for us to leisurely tour the city's bath houses!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            608,
+            880,
+            707
+        ],
+        "text": "Word travels fast. The entire capital has heard by now.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

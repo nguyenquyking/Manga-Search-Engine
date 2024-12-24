@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            311,
+            483,
+            397,
+            580
+        ],
+        "text": "TIME TO MOVE!\nCAN YOU STAND?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            493,
+            103,
+            553,
+            211
+        ],
+        "text": "BUT, TETSU TETSU!\nKIRISHIMA, HE-!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            476,
+            460,
+            563,
+            611
+        ],
+        "text": "MUDMAN'S SINKING THE\nFLAMES TO PUT 'EM OUT!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            694,
+            107,
+            808,
+            265
+        ],
+        "text": "...HE DOESN'T BURN, BUT IT'S PROBABLY STILL HOT FOR HIM...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            646,
+            759,
+            722,
+            901
+        ],
+        "text": "AH! THAT\nPUNK!\nUNLIKE ME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            955,
+            441,
+            1044,
+            642
+        ],
+        "text": "AND HE DOVE\nRIGHT INTO\nTHAT HELL!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            897,
+            766,
+            984,
+            920
+        ],
+        "text": "HE WAS\nFASTER\nTHAN ME!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

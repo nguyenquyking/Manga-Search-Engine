@@ -1,0 +1,244 @@
+[
+    {
+        "text_box": [
+            105,
+            156,
+            228,
+            304
+        ],
+        "text": "WE'LL ALL BE DEVOURED!!\nMANY HAVE\nSUCCUMBED\nALREADY!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            376,
+            176,
+            530,
+            288
+        ],
+        "text": "ABANDON\nTHE\nCAPITAL!!\nFLEE FOR\nYOUR\nLIVES!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            1100,
+            162,
+            1200
+        ],
+        "text": "YOU\nSHOULDN'T\nBE CARRYING\nTHAT THING\nAROUND!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            1384,
+            174,
+            1474
+        ],
+        "text": "DON'T\nYOU KNOW\nWHAT THAT\nIS, KIN?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            210,
+            1102,
+            270,
+            1191
+        ],
+        "text": "WHAT...\nTHIS WHITE\nBOAR?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            245,
+            846,
+            352,
+            1010
+        ],
+        "text": "THE\nMOUNTAIN\nGOD!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            366,
+            1097,
+            432,
+            1190
+        ],
+        "text": "WHAT DO\nYOU MEAN,\nDENJIRO?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            356,
+            1241,
+            462,
+            1352
+        ],
+        "text": "...IS TRYING\nTO USE IT TO\nDESTROY THE\nHYOGORO\nFAMILY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            1390,
+            447,
+            1480
+        ],
+        "text": "DON'T YOU\nTHINK THE\nKUROKOMA\nBOSS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            547,
+            858,
+            677,
+            1007
+        ],
+        "text": "THE\nMOUNTAIN\nGOD IS\nREAL!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            691,
+            1092,
+            822,
+            1243
+        ],
+        "text": "THE ANCIENT\nSCROLLS SAY IT'S\nA WHITE BOAR\nTHE SIZE OF A\nMOUNTAIN!! THAT'S\nWHAT THEY CALL THE\nMOUNTAIN GOD!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            711,
+            1270,
+            787,
+            1377
+        ],
+        "text": "...THE\nADULT BOAR\nIS SURE\nTO COME\nCHARGING!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            693,
+            1393,
+            789,
+            1483
+        ],
+        "text": "I MEAN\nTHAT\nWHEREVER\nTHAT PIGLET\nIS FOUND...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            867,
+            238,
+            979,
+            345
+        ],
+        "text": "GIVE\nTHAT\nBOAR TO\nME!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            867,
+            936,
+            988
+        ],
+        "text": "IT'S\nCOME FOR\nREVENGE!!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            883,
+            611,
+            963,
+            711
+        ],
+        "text": "THAT WAS A\nFASCINATING\nSTORY YOU\nJUST TOLD...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1002,
+            378,
+            1021,
+            468
+        ],
+        "text": "K-KOZUKI",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            294,
+            1104,
+            343
+        ],
+        "text": "HUH\n?!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1053,
+            606,
+            1100,
+            709
+        ],
+        "text": "WHOEVER\nYOU ARE!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1071,
+            836,
+            1149,
+            946
+        ],
+        "text": "DID I JUST\nACCIDENTALLY\nDOOM THE\nCAPITAL?!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1022,
+            1117,
+            1140,
+            1288
+        ],
+        "text": "I ALWAYS THOUGHT\nIT WAS JUST A TALE...\nBUT NOW THAT I'VE\nSEEN THIS WHITE BOAR\nFOR MYSELF, THE BIG\nONE MUST BE...",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            1333,
+            1140,
+            1483
+        ],
+        "text": "THERE'S A\nSTORY ABOUT IT\nDESTROYING AN\nENTIRE VILLAGE IN THE\nCOURSE OF A NIGHT,\nSEVERAL HUNDRED\nYEARS AGO.",
+        "panel_id": "7",
+        "type": "narration"
+    }
+]

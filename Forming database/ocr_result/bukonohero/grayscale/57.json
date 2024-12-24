@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            67,
+            77,
+            175,
+            180
+        ],
+        "text": "...couldn't exploit the boy's obsession with his father.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            215,
+            175,
+            312
+        ],
+        "text": "Even the man who had known absolute control, far and wide...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            103,
+            499,
+            175,
+            602
+        ],
+        "text": "He was already festering away inside.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            30,
+            637,
+            156,
+            759
+        ],
+        "text": "He'd already been too molded by his upbringing for us to lead him astray.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            354,
+            126,
+            425,
+            230
+        ],
+        "text": "One full of vessels for the Demon King.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            335,
+            247,
+            385,
+            351
+        ],
+        "text": "A seedbed of ferocity and hatred.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            302,
+            592,
+            428,
+            727
+        ],
+        "text": "Those kids were our spares, in case anything happened to Tomura Shigaraki.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            624,
+            120,
+            687,
+            239
+        ],
+        "text": "...was a failed experiment.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            618,
+            599,
+            701,
+            696
+        ],
+        "text": "Dabi, as one of those spares...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            836,
+            68,
+            964,
+            172
+        ],
+        "text": "Cuz that one boy never did buy what we were selling.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            215,
+            944,
+            286
+        ],
+        "text": "I'm saying, they'd better watch out.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            329,
+            1057,
+            463
+        ],
+        "text": "More crap about how All For One had everything planned out from the start?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            471,
+            969,
+            607
+        ],
+        "text": "How despicable... No, never mind! What're you even trying to say?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

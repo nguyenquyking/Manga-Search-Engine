@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            60,
+            62,
+            144,
+            186
+        ],
+        "text": "She's got a laughing tic!! She doesn't mean it!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            215,
+            132,
+            295
+        ],
+        "text": "Someone help her!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            613,
+            210,
+            733
+        ],
+        "text": "You dare to laugh at me, child?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            180,
+            54,
+            247,
+            121
+        ],
+        "text": "There's no point! Forget it!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            426,
+            161,
+            498,
+            244
+        ],
+        "text": "She's just a girl, my lord! Have mercy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            285,
+            466,
+            358
+        ],
+        "text": "Eek! Please, no!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

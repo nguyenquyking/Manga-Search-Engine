@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            38,
+            60,
+            114,
+            176
+        ],
+        "text": "...He still stares me down!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            225,
+            111,
+            325
+        ],
+        "text": "Even while unconscious...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            38,
+            340,
+            96,
+            433
+        ],
+        "text": "He did that before too!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            565,
+            154,
+            675
+        ],
+        "text": "Woro ro ro... Just look at Straw Hat's face!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            388,
+            49,
+            480,
+            225
+        ],
+        "text": "If we can't break through, we die. After this... it's all you!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            391,
+            265,
+            459,
+            334
+        ],
+        "text": "Are you sure about this?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            359,
+            449,
+            452
+        ],
+        "text": "...Huff, huff... Is the limit of my ability...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            481,
+            464,
+            554
+        ],
+        "text": "Listen, Traffy. What I'm about to do...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            383,
+            595,
+            446,
+            728
+        ],
+        "text": "What should I crush first? Those eyes?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            667,
+            262,
+            743,
+            384
+        ],
+        "text": "If the fight drags on, we're only wearing ourselves down...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            596,
+            743,
+            726
+        ],
+        "text": "Or his brain? Maybe his heart?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            179,
+            1090,
+            315
+        ],
+        "text": "That's my captain!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            460,
+            902,
+            568
+        ],
+        "text": "Hey!! Kaido!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1111,
+            340,
+            1136,
+            393
+        ],
+        "text": "ZRRRD...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

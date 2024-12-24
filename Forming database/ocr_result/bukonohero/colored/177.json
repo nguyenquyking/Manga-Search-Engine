@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            48,
+            301,
+            244,
+            434
+        ],
+        "text": "And now he's grooming Shigaraki to be some sort of ultimate life-form.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            165,
+            161,
+            360,
+            292
+        ],
+        "text": "It would make sense if his goal is to take over that new body.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            157,
+            652,
+            354,
+            798
+        ],
+        "text": "...to the point that he needed to be connected to tubes to keep him alive.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            138,
+            821,
+            211,
+            948
+        ],
+        "text": "All Might destroyed him...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            550,
+            185,
+            752,
+            367
+        ],
+        "text": "We're unsure of the specifics of the potential body transfer, but it's clear that Shigaraki has to be complete for it to work at all.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            619,
+            664,
+            726,
+            816
+        ],
+        "text": "...Shigaraki was activated before his body was \"complete.\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            510,
+            824,
+            621,
+            936
+        ],
+        "text": "According to Doc Garaki, who's in custody...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            897,
+            189,
+            1020,
+            316
+        ],
+        "text": "Something about that is bugging me...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            975,
+            411,
+            1120,
+            607
+        ],
+        "text": "He'll be able to steal One For All.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            955,
+            758,
+            1051,
+            855
+        ],
+        "text": "...comes All For One's next goal.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            951,
+            885,
+            998,
+            965
+        ],
+        "text": "And then...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1081,
+            125,
+            1104,
+            177
+        ],
+        "text": "Oh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

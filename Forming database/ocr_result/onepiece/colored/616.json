@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            235,
+            118,
+            259,
+            215
+        ],
+        "text": "...Sparring partners I have!\nI'll figure it out!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            151,
+            662,
+            230,
+            718
+        ],
+        "text": "Just look how many...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            1004,
+            182,
+            1086
+        ],
+        "text": "Excavation Labor Camp...",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            310,
+            1136,
+            387,
+            1255
+        ],
+        "text": "Capture Straw Hat Luffy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            1377,
+            597,
+            1482
+        ],
+        "text": "Imagine the Haki...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            720,
+            984,
+            766,
+            1314
+        ],
+        "text": "Mm, not quite!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            1275,
+            729,
+            1330
+        ],
+        "text": "Hrmp",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            750,
+            1378,
+            811,
+            1468
+        ],
+        "text": "...flowing through my body.",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            798,
+            22,
+            864,
+            124
+        ],
+        "text": "That won't be necessary...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            159,
+            912,
+            328
+        ],
+        "text": "Chief Warden!! Should we pack the prisoners into their cells before they get any funny ideas?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            378,
+            915,
+            469
+        ],
+        "text": "No, we don't! That's a relief to me!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            510,
+            892,
+            595
+        ],
+        "text": "We need to go rescue Ollin!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            630,
+            890,
+            711
+        ],
+        "text": "What should we do, Chopper-Emon?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            811,
+            877,
+            899
+        ],
+        "text": "Nothing gets that Straw Hat fellow down...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            991,
+            882,
+            1067
+        ],
+        "text": "Heh!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            992,
+            373,
+            1076,
+            478
+        ],
+        "text": "More important is helping Luffy Taro!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1080,
+            373,
+            1140,
+            480
+        ],
+        "text": "Why isn't he running away?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            1103,
+            983,
+            1159
+        ],
+        "text": "AGH!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1059,
+            1013,
+            1119,
+            1123
+        ],
+        "text": "Wrong!! But...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1080,
+            47,
+            1137,
+            101
+        ],
+        "text": "Huh?!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            1149,
+            222,
+            1320
+        ],
+        "text": "Kibi FC Ringo\nKuri Udon Hakumai\nOni",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

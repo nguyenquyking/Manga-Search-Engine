@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            89,
+            50,
+            224,
+            180
+        ],
+        "text": "DON'T YOU THINK WE SHOULD PLAY NICE FOR NOW?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            389,
+            153,
+            515
+        ],
+        "text": "SETTLE DOWN, EUSTASS-YA...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            568,
+            174,
+            675
+        ],
+        "text": "DID YOU COME TO GET IN MY WAY?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            725,
+            136,
+            831
+        ],
+        "text": "TRAFALGAR!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            497,
+            653,
+            559,
+            775
+        ],
+        "text": "KAIDO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            112,
+            955,
+            229
+        ],
+        "text": "I'M HERE TO FREE MYSELF!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            296,
+            951,
+            430
+        ],
+        "text": "THAT BOND HAS CHAINED ME FOR TOO LONG...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            484,
+            907,
+            608
+        ],
+        "text": "YAMATO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            839,
+            710,
+            930,
+            835
+        ],
+        "text": "DON'T YOU MEAN \"FATHER,\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1248,
+            133,
+            1268,
+            243
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

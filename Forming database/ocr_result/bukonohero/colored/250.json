@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            111,
+            67,
+            257,
+            226
+        ],
+        "text": "And we can't have your family shouldering the entire burden!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            643,
+            248,
+            847
+        ],
+        "text": "But we will too! The responsibility isn't yours alone, Number One!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            43,
+            499,
+            167
+        ],
+        "text": "...I know things are different now.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            377,
+            513,
+            507
+        ],
+        "text": "Even if what Dabi says about the Todoroki family is true...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            569,
+            513,
+            647
+        ],
+        "text": "But why... would you?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            34,
+            1060,
+            181
+        ],
+        "text": "...And I'm accustomed to walking down hellish catwalks such as this.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            941,
+            207,
+            1031,
+            358
+        ],
+        "text": "I've put my life in Hawks' hands from the start...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            639,
+            394,
+            706,
+            536
+        ],
+        "text": "...To anyone trying to be better!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            631,
+            773,
+            742,
+            886
+        ],
+        "text": "And I'm going to lend my full support...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1224,
+            36,
+            1323,
+            168
+        ],
+        "text": "...Do you think you can stand up and move forward?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            210,
+            1275,
+            337
+        ],
+        "text": "Now that we and your family have lightened your load...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1166,
+            663,
+            1336,
+            831
+        ],
+        "text": "On that note, I'm proposing a team-up of the top three heroes!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

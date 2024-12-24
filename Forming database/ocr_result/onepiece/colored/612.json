@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            79,
+            70,
+            148,
+            194
+        ],
+        "text": "SO MAKE UP YOUR MINDS! RIGHT NOW!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            570,
+            190,
+            727
+        ],
+        "text": "THERE'S NO REASON FOR THE PEOPLE ON OUR OWN SIDE TO STOP US!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            213,
+            63,
+            319,
+            205
+        ],
+        "text": "ARE YOU WITH US... OR ARE YOU WITH KAIDO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            194,
+            560,
+            266
+        ],
+        "text": "HE'S GOT THEM NOW...\nHE'S GRASPED THEIR HEARTS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            416,
+            353,
+            482,
+            491
+        ],
+        "text": "ARE YOU GIVING US... ANOTHER CHANCE...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            638,
+            463,
+            751
+        ],
+        "text": "ARE YOU... SERIOUS...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            95,
+            807,
+            293
+        ],
+        "text": "THE PLAGUE SHOT!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            745,
+            365,
+            827,
+            501
+        ],
+        "text": "...THE ENSUING PANIC WILL TURN THE TABLES YET AGAIN!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            727,
+            580,
+            816,
+            711
+        ],
+        "text": "UH-OH,\nTHEIR HEARTS AND MINDS ARE WAVERING.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1009,
+            370,
+            1135,
+            497
+        ],
+        "text": "ONCE THEY SUFFER THE CONCENTRATED POWER OF 200 DOSES OF PLAGUE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1050,
+            555,
+            1140,
+            726
+        ],
+        "text": "BUT THERE'S A BIG SPACE IN THE MIDDLE. IF I SHOOT IT IN THERE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

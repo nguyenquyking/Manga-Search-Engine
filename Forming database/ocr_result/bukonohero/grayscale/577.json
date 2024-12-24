@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            77,
+            348,
+            185,
+            484
+        ],
+        "text": "LOOKING AT HIM, YOU'D NEVER GUESS HE WAS A HERO.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1118,
+            7,
+            1135,
+            286
+        ],
+        "text": "Next chapter hits June 27!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

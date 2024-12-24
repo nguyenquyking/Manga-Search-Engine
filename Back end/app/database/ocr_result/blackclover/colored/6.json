@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            121,
+            130,
+            228,
+            284
+        ],
+        "text": "Of course...! Licht can't display his power yet...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            349,
+            334,
+            470
+        ],
+        "text": "You're able to move that much, huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            117,
+            835,
+            305,
+            979
+        ],
+        "text": "Hn hn hn. You're still mostly asleep, and yet...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            175,
+            1034,
+            235,
+            1121
+        ],
+        "text": "Just like I thought.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            431,
+            4,
+            594,
+            216
+        ],
+        "text": "It seems like they're evenly matched, but at this rate...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            805,
+            259,
+            953,
+            401
+        ],
+        "text": "At this rate, I'm gonna run out of magic also.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1081,
+            40,
+            1188,
+            176
+        ],
+        "text": "The surplus of magic has is",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            797,
+            448,
+            1495,
+            879
+        ],
+        "text": "Demon\nHigh\nThe Elf Leader?\nCharla\nRoyalty\nNozel\nMe\nNobles\nMagic Power\nSol\nCommoners\nMagna\nLow\nKid\nWomp Womp",
+        "panel_id": "2",
+        "type": "diagram"
+    },
+    {
+        "text_box": [
+            783,
+            943,
+            984,
+            1135
+        ],
+        "text": "This is bad... That guy's magic power is just on an unimaginable level!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1386,
+            362,
+            1523,
+            412
+        ],
+        "text": "Hn hn hn.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1502,
+            827,
+            1561,
+            932
+        ],
+        "text": "The difference is roughly",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1649,
+            847,
+            1703,
+            1148
+        ],
+        "text": "twitter @blackcloverteam\nartist @uchihafamille",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

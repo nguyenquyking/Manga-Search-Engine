@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            77,
+            100,
+            111,
+            210
+        ],
+        "text": "...Do it to ensure that",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            113,
+            106,
+            164,
+            203
+        ],
+        "text": "the world will see tomorrow.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            218,
+            162,
+            307
+        ],
+        "text": "No, those of us here, making this work...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            125,
+            544,
+            164,
+            625
+        ],
+        "text": "Not for glory.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            650,
+            124,
+            732
+        ],
+        "text": "Not for honor.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            338,
+            221,
+            392,
+            340
+        ],
+        "text": "We are those...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            682,
+            307,
+            796,
+            456
+        ],
+        "text": "...who stand against the doom you bring!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            73,
+            1035,
+            199
+        ],
+        "text": "One well-placed shock wave...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1000,
+            624,
+            1102,
+            761
+        ],
+        "text": "So proud of your toys... But not for long.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

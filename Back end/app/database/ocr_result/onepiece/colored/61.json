@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            142,
+            102,
+            284,
+            357
+        ],
+        "text": "WICKED,\nFOOLISH, AND\nWRETCHED!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            125,
+            437,
+            305,
+            761
+        ],
+        "text": "YOU WERE NEVER\nTHE SHOGUN!\nNOT EVEN FOR A\nSINGLE DAY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            886,
+            368,
+            1322
+        ],
+        "text": "NO MATTER THE\nGROWLING OF MY EMPTY\nSTOMACH AND THE RAGS\nI HAD TO WEAR, I\nNEVER SHAMED MY\n FATHER'S NAME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            128,
+            1457,
+            270,
+            1726
+        ],
+        "text": "HYEEEEP\n!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            475,
+            97,
+            756,
+            385
+        ],
+        "text": "THE WORSE\nYOU BECAME,\nTHE GREATER\nTHE INSULT TO\nTHE LIVES THAT\nWERE LOST!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1144,
+            106,
+            1245,
+            316
+        ],
+        "text": "I HAVE...\nFAILED...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1125,
+            364,
+            1169,
+            486
+        ],
+        "text": "HMM?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1139,
+            553,
+            1229,
+            735
+        ],
+        "text": "LORD\nOROCHI...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1114,
+            836,
+            1256,
+            1092
+        ],
+        "text": "REVENGE IS\nANTIQUATED!!\nIT'S BEHIND",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1122,
+            1216,
+            1262,
+            1453
+        ],
+        "text": "DON'T DO\nANYTHING\nRASH NOW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1128,
+            1509,
+            1262,
+            1738
+        ],
+        "text": "AWAWAWA!!\nH-HEY!! NOT\nSO FAST!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1428,
+            465,
+            1524,
+            613
+        ],
+        "text": "ZURRRD",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1445,
+            840,
+            1696,
+            1102
+        ],
+        "text": "AND KILLING\nME WON'T\nMAKE IT ANY\nEASIER TO\nBEAT KAIDO!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1917,
+            102,
+            2177,
+            480
+        ],
+        "text": "LEAP ONTO HER\nCLOTHING, GWU HA HA\nHA!! WE'LL CALL IT\nTHE FAILURE OF THE\nWOMAN'S 20-YEAR\nREVENGE!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1964,
+            548,
+            2106,
+            761
+        ],
+        "text": "BURN THAT\nWOMAN TO\nDEATH!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1917,
+            877,
+            2109,
+            1197
+        ],
+        "text": "NO, PERFECT\nTIMING!! I GIVE\nYOU A NEW PLAY\nTO PERFORM!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1977,
+            1302,
+            2081,
+            1728
+        ],
+        "text": "KANJURO\n?!\nTHAT...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2292,
+            1240,
+            2365,
+            1408
+        ],
+        "text": "FWOOM",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2486,
+            1292,
+            2579,
+            1451
+        ],
+        "text": "I AM...\nSPENT...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2371,
+            134,
+            2652,
+            652
+        ],
+        "text": "ALAS, WHAT A TRAGIC\nTALE!! WITNESS THE PLIGHT\nOF HIYORI, REMNANT OF THE\nKOZUKI NAME!! THIS IS THE\nFATE OF ALL WHO WERE\nONCE MIGHTY!!!",
+        "panel_id": "7",
+        "type": "narration"
+    }
+]

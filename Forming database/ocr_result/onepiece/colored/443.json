@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            96,
+            17,
+            138,
+            121
+        ],
+        "text": "HIDE YOUR LIVESTOCK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            152,
+            157,
+            220
+        ],
+        "text": "...ONE MAN WAS THE TALK OF THE TOWN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            266,
+            139,
+            345
+        ],
+        "text": "AND IN THE CAPITAL...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            377,
+            148,
+            456
+        ],
+        "text": "CLOSE UP YOUR SHOPS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            490,
+            146,
+            580
+        ],
+        "text": "HIDE YOUR WIVES!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            602,
+            148,
+            706
+        ],
+        "text": "HIDE YOUR DAUGHTERS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            206,
+            24,
+            274,
+            107
+        ],
+        "text": "HURRY! HE'S COMING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            293,
+            402,
+            427
+        ],
+        "text": "CLANK CLONK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            487,
+            127,
+            583,
+            277
+        ],
+        "text": "...HAS RETURNED!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            541,
+            516,
+            576,
+            644
+        ],
+        "text": "KOZUKI ODEN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            566,
+            393,
+            594,
+            467
+        ],
+        "text": "BE-BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            632,
+            46,
+            717,
+            153
+        ],
+        "text": "HE MUST HAVE FAILED AT SAILING OFF AGAIN!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            661,
+            506,
+            693,
+            565
+        ],
+        "text": "GYAAAAAA!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            769,
+            38,
+            825,
+            121
+        ],
+        "text": "WHY DON'T YOU DIE ALREADY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            79,
+            1052,
+            207
+        ],
+        "text": "IT'S TOO CRAMPED!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            509,
+            1062,
+            606
+        ],
+        "text": "UGH... FEEL LIKE I'M BEING CRUSHED TO DEATH.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

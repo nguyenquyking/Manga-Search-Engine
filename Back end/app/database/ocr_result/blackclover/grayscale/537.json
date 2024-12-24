@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            169,
+            592,
+            364,
+            722
+        ],
+        "text": "The members of the Golden Dawn are my pride...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            241,
+            839,
+            356,
+            936
+        ],
+        "text": "I made them walk a path of thorns.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            720,
+            73,
+            824,
+            237
+        ],
+        "text": "...and my dream!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            823,
+            919,
+            966
+        ],
+        "text": "Even so, they didn't curse me. They got back on their feet and forged ahead!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1121,
+            102,
+            1276,
+            218
+        ],
+        "text": "...But to us, he's the kindest, most reliable captain anywhere!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1113,
+            396,
+            1289,
+            500
+        ],
+        "text": "To you, he may be a traitor who once turned his back on the kingdom...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1184,
+            874,
+            1265,
+            997
+        ],
+        "text": "Captain Vengeance was captured...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1342,
+            558,
+            1481,
+            685
+        ],
+        "text": "...Because he protected us while he fought!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

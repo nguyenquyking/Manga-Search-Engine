@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            220,
+            29,
+            246,
+            112
+        ],
+        "text": "BE-BENG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            335,
+            574,
+            406,
+            727
+        ],
+        "text": "KOMURA-SAKI?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            530,
+            91,
+            657,
+            204
+        ],
+        "text": "Since that terrible day, I have not spent a night without dreaming of you, my dear...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            548,
+            471,
+            643,
+            723
+        ],
+        "text": "OHHH... Have I died and gone to Heaven? Or is this just a dream...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            606,
+            834,
+            723
+        ],
+        "text": "Neither can I, my lord!! I am always...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            989,
+            69,
+            1093,
+            239
+        ],
+        "text": "If this a dream, I don't want to wake up!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1007,
+            281,
+            1088,
+            390
+        ],
+        "text": "...Always by your side.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1123,
+            475,
+            1139,
+            636
+        ],
+        "text": "To be continued!",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

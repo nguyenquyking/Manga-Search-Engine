@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            107,
+            569,
+            254,
+            697
+        ],
+        "text": "...is a safe place to sleep at night!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            812,
+            434,
+            828,
+            505
+        ],
+        "text": "Ochaco?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            834,
+            626,
+            869,
+            698
+        ],
+        "text": "Uravity?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

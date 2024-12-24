@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            43,
+            54,
+            140,
+            203
+        ],
+        "text": "YOUR JUDGMENT WILL BE SERVED TO YOU IN HELL!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            38,
+            488,
+            137,
+            627
+        ],
+        "text": "WE HAVE NO TIME TO WASTE ON THE LIKES OF YOU,",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            676,
+            83,
+            732
+        ],
+        "text": "SH...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            362,
+            112,
+            434
+        ],
+        "text": "SHWUD!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            372,
+            668,
+            417,
+            755
+        ],
+        "text": "SHOGUN OROCHI!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            466,
+            412,
+            488,
+            492
+        ],
+        "text": "BE-BENG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            561,
+            54,
+            624,
+            130
+        ],
+        "text": "WILL YOU AVENGE HIM?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            69,
+            843,
+            223
+        ],
+        "text": "BUT EVEN BEFORE MATTERS OF REVENGE... WE WERE ALWAYS FATED TO FIGHT, YOU AND I...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            716,
+            284,
+            820,
+            378
+        ],
+        "text": "I WOULD SAY THE SAME TO YOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            704,
+            448,
+            812,
+            573
+        ],
+        "text": "YOU'VE REMAINED LOYAL TO THAT FOOL TO THE VERY END.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            599,
+            796,
+            738
+        ],
+        "text": "I MUST SAY, FUKUROKUJU, MY OPINION OF YOU HAS RISEN...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            958,
+            57,
+            1041,
+            152
+        ],
+        "text": "WEREN'T WE, RAIZO?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            210,
+            1093,
+            325
+        ],
+        "text": "DA-DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

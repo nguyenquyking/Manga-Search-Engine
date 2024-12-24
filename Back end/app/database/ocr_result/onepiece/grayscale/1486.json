@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            92,
+            622,
+            140,
+            816
+        ],
+        "text": "MOMO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            356,
+            1206,
+            390,
+            1346
+        ],
+        "text": "Father!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1676,
+            221,
+            1782,
+            443
+        ],
+        "text": "Kyo Kyo Kyo Kyo!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1656,
+            576,
+            1693,
+            770
+        ],
+        "text": "CLICK!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1976,
+            705,
+            2084,
+            826
+        ],
+        "text": "Kyo Kyo...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1630,
+            1065,
+            1715,
+            1225
+        ],
+        "text": "DRIP...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

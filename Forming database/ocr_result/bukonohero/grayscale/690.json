@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            532,
+            331,
+            601,
+            436
+        ],
+        "text": "Things are bound...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            595,
+            76,
+            711,
+            212
+        ],
+        "text": "...to move more quickly from here on out.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            834,
+            77,
+            851,
+            116
+        ],
+        "text": "CHOMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            952,
+            536,
+            1017,
+            641
+        ],
+        "text": "RIGHT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            418,
+            1135,
+            678
+        ],
+        "text": "Next chapter hits May 9!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

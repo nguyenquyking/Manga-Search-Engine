@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            3,
+            14,
+            43,
+            290
+        ],
+        "text": "High School Family: Kokosei Kazoku\nRyo Nakama",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            185,
+            15,
+            199,
+            162
+        ],
+        "text": "Wano arc is so cool!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            13,
+            262,
+            123
+        ],
+        "text": "Phantom Seer\nTogo Goto",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            381,
+            15,
+            396,
+            702
+        ],
+        "text": "Congratulations to One Piece for a thousand chapters! I'm honored to share this issue with you!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            418,
+            13,
+            459,
+            134
+        ],
+        "text": "Our Blood Oath\nKazu Kakazu",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            576,
+            16,
+            590,
+            631
+        ],
+        "text": "One thousand chapters... A number that defies belief... Congratulations, Oda Sensei!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            615,
+            14,
+            654,
+            155
+        ],
+        "text": "Agravity Boys\nAtsushi Nakamura",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            13,
+            813,
+            700
+        ],
+        "text": "Thank you for almost a year of support! My heart will always be free like the Agravity Boys and I'll keep doing my best!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            13,
+            877,
+            172
+        ],
+        "text": "Moriking\nTomohiro Hasegawa",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            992,
+            13,
+            1032,
+            682
+        ],
+        "text": "Congratulations on a thousand chapters of One Piece! We've got a beetle connection on the cover!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

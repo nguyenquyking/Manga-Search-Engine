@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            38,
+            50,
+            154,
+            177
+        ],
+        "text": "THERE ARE ONLY A SCANT FEW CAPABLE OF FIGHTING ME!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            34,
+            242,
+            129,
+            367
+        ],
+        "text": "WHAT HAPPENED AFTER I DESTROYED",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            443,
+            122,
+            561
+        ],
+        "text": "...TO BE THE KING OF PIRATES?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            591,
+            133,
+            705
+        ],
+        "text": "DO YOU HAVE ANY IDEA WHAT IT MEANS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            509,
+            82,
+            612,
+            165
+        ],
+        "text": "...WILL YOUR CEILING GO?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            636,
+            561,
+            716
+        ],
+        "text": "HOW HIGH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            46,
+            1045,
+            178
+        ],
+        "text": "THUNDER",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1087,
+            345,
+            1123,
+            436
+        ],
+        "text": "HEH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            636,
+            1065,
+            729
+        ],
+        "text": "STRAW HAT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

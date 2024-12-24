@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            224,
+            317,
+            444,
+            471
+        ],
+        "text": "With his World Tree magic, we can gather all the magic and life force in the kingdom.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            272,
+            919,
+            419,
+            1018
+        ],
+        "text": "William is asleep, deep inside me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            394,
+            734,
+            470
+        ],
+        "text": "No matter who you are...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            704,
+            650,
+            761,
+            727
+        ],
+        "text": "Thank you, Valtos.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            110,
+            1017,
+            201
+        ],
+        "text": "...It was you who saved me that day.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            831,
+            900,
+            1038
+        ],
+        "text": "Here",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1182,
+            99,
+            1224,
+            174
+        ],
+        "text": "You're sure?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1288,
+            380,
+            1417,
+            546
+        ],
+        "text": "Asta! Use the demon-annihilating sword and undo my reincarnation!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1204,
+            922,
+            1284,
+            1007
+        ],
+        "text": "Hey... Does that mean...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1465,
+            746,
+            1489,
+            795
+        ],
+        "text": "Yes.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

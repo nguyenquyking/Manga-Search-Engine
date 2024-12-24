@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            78,
+            65,
+            192,
+            194
+        ],
+        "text": "Look, I'm leaving a bit of millet and water for ya here.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            234,
+            64,
+            324,
+            174
+        ],
+        "text": "So make sure you eat up, you hear?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            126,
+            632,
+            216,
+            734
+        ],
+        "text": "It's hard being on your back all day!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            223,
+            538,
+            324,
+            650
+        ],
+        "text": "Much harder than working, I'll give you that!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            71,
+            480,
+            234
+        ],
+        "text": "Old nori maker,\nHow goes the dried seaweed?\nHave you got enough",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            302,
+            512,
+            402
+        ],
+        "text": "Iyo-yo?\n\"Helpful\"?\nWhy, you old so-and-so!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            447,
+            513,
+            614
+        ],
+        "text": "Yasu, I don't have much more time left in this world.\nYou should have my food.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            646,
+            504,
+            741
+        ],
+        "text": "Aha ha ha... You're such a helpful fellow...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            666,
+            57,
+            774,
+            118
+        ],
+        "text": "Iyo!\nWhere'd this sugar come from?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            142,
+            774,
+            258
+        ],
+        "text": "Not at all, but the sight of your face cures my pain.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            290,
+            780,
+            390
+        ],
+        "text": "I'll throw in two more millet kernels, just for that!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            860,
+            62,
+            943,
+            163
+        ],
+        "text": "It's not much, but I want you to eat it.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            853,
+            259,
+            938,
+            353
+        ],
+        "text": "Hanoko!\nIs your ma feelin' all right?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            429,
+            932,
+            520
+        ],
+        "text": "Where's the baby, Osaki?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            866,
+            554,
+            920,
+            618
+        ],
+        "text": "Oh! Yasu!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            647,
+            952,
+            738
+        ],
+        "text": "How are the knees holding up, my good man?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            979,
+            203,
+            1039,
+            293
+        ],
+        "text": "Let's play, Yasu!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            375,
+            993,
+            454
+        ],
+        "text": "Hwaa!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1045,
+            346,
+            1056,
+            430
+        ],
+        "text": "Ahaha ha ha",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

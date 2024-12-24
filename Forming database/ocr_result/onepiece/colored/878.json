@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            318,
+            49,
+            384,
+            500
+        ],
+        "text": "Q: In chapter 885, on page 112 of volume 88, Sanji talks about his ultimate cream, Simsim Whip. What does \"Simsim\" mean?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            327,
+            565,
+            378,
+            684
+        ],
+        "text": "IT'S FINISHED! THE ULTIMATE CREAM--SIMSIM WHIP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            417,
+            48,
+            642,
+            711
+        ],
+        "text": "A: Simsim means \"sesame\" in Arabic. In some places, sesame was believed to have a mystical, magical power contained within it. Have you ever heard the story of Ali Baba and the 40 Thieves, when he opens the door by saying, \"Open, sesame\"? In Arabic, that phrase is \"Iftah Ya Simsim!\" So Sanji was putting that flavor and power into his whipped cream. And while Sanji wouldn't have known it, whipped cream is also a major part of Big Mom's favorite dish, semla. There's no doubt that the power of the Simsim Whip called forth Big Mom's memories and had a huge effect on the Gourmet Battle.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            661,
+            50,
+            870,
+            529
+        ],
+        "text": "Q: Nice to meet you, Oda Sensei. The other day I had a dream about former Fleet Admiral Sengoku, in his giant form where he looks like the great Buddha statue of Kamakura. The individual rabotsu on his head were lighting up one at a time, cycling around his head like a roulette wheel, and if it stopped on the byakugo, you won the jackpot. I wonder if winning the jackpot would get you a bag of Marine brand rice crackers.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            687,
+            469,
+            760,
+            711
+        ],
+        "text": "WHAT A WONDERFULLY SWEET, DELICIOUS CAKE! IT'S TO DIE FOR...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            912,
+            50,
+            960,
+            462
+        ],
+        "text": "A: That's the cutest dream I've ever heard of!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            993,
+            466,
+            1059,
+            713
+        ],
+        "text": "I want to play that as a Mobile Game.\n(Rahotsu = Those hairlike balls)\n(Byakugo = The forehead dot)",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

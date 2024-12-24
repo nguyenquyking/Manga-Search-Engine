@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            82,
+            126,
+            151,
+            226
+        ],
+        "text": "He's done it at last!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            193,
+            64,
+            295,
+            162
+        ],
+        "text": "Jinbe has finally joined with Luffy's crew!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            613,
+            170,
+            713
+        ],
+        "text": "The world at large busies itself for the Reverie.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            542,
+            276,
+            631
+        ],
+        "text": "In Ryugu Kingdom on Fish-Man Island...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            380,
+            77,
+            489,
+            243
+        ],
+        "text": "Then I suppose we'll have to get our protection from the Straw Hat Crew now!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            310,
+            468,
+            431
+        ],
+        "text": "They must've. It says Big Mom is furious.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            373,
+            458,
+            470,
+            571
+        ],
+        "text": "Do you suppose they escaped in the same ship together?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            608,
+            486,
+            730
+        ],
+        "text": "And the two of them picked a fight with Big Mom herself.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            632,
+            51,
+            698,
+            159
+        ],
+        "text": "Father!! Brothers!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            96,
+            868,
+            202
+        ],
+        "text": "Ho ho ho!! We've been waiting for you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1088,
+            97,
+            1138,
+            188
+        ],
+        "text": "Let us be off!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            592,
+            933,
+            734
+        ],
+        "text": "I...I will go to the Reverie too!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            579,
+            1130,
+            715
+        ],
+        "text": "I must go, or Sir Luffy will call me Wimpyhoshi again!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

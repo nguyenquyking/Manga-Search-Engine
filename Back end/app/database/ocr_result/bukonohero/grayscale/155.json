@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            81,
+            258,
+            175,
+            388
+        ],
+        "text": "BUT YOU OVERCAME THE FEAR AND PAIN!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            140,
+            828,
+            260
+        ],
+        "text": "THEY SAID YOU PROMISED US A BLESSED EXISTENCE IN YOUR NEW WORLD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            685,
+            258,
+            704,
+            306
+        ],
+        "text": "YES!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            336,
+            831,
+            457
+        ],
+        "text": "WRONG IN SOME OF THE DETAILS, BUT THAT'S FINE. DID YOUR PARENTS EXPLAIN IT ALL TO YOU?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            482,
+            811,
+            572
+        ],
+        "text": "AND THAT SPEECH ABOUT MY ULTIMATE GOAL? WONDERFUL!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            47,
+            1044,
+            177
+        ],
+        "text": "MY PAIN CANNOT BE MEASURED...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            552,
+            1059,
+            723
+        ],
+        "text": "I BELIEVED IN YOU, DAMMIT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

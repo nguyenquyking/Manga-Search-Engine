@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            223,
+            203,
+            314,
+            344
+        ],
+        "text": "\"Can'tcha see,\" kid... This...is bad news...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            613,
+            160,
+            746,
+            304
+        ],
+        "text": "Whether he's lying or not... That's a question for later...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            565,
+            749,
+            676,
+            863
+        ],
+        "text": "By speaking out, he's already won...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1156,
+            656,
+            1243,
+            790
+        ],
+        "text": "I hate to say it, but me too! I'm sorry!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1147,
+            829,
+            1348,
+            956
+        ],
+        "text": "He might be a villain... But people're gonna lose faith over this!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1234,
+            197,
+            1297,
+            372
+        ],
+        "text": "...All this damage and destruction...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1276,
+            441,
+            1320,
+            575
+        ],
+        "text": "Especially with...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

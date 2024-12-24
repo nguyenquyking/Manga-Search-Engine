@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            316,
+            71,
+            384,
+            155
+        ],
+        "text": "KAIDO?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            528,
+            28,
+            609,
+            124
+        ],
+        "text": "WHAT IS HAPPENING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            294,
+            649,
+            438
+        ],
+        "text": "STRAW HAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            621,
+            641,
+            643,
+            696
+        ],
+        "text": "WHAT",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            43,
+            807,
+            175
+        ],
+        "text": "THAT'S BECAUSE YOU KEEP SMASHING",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            435,
+            848,
+            526
+        ],
+        "text": "I CANNOT!! THERE'S SOMETHING STUCK IN THEM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            594,
+            851,
+            707
+        ],
+        "text": "COME ON, MOMO!! JUST OPEN YOUR EYES ALREADY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            217,
+            785,
+            311
+        ],
+        "text": "KRUNNNCHS",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            898,
+            67,
+            957,
+            172
+        ],
+        "text": "HELP ME, LUFFY!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1021,
+            60,
+            1094,
+            159
+        ],
+        "text": "JUST MAN UP AND LOOK!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

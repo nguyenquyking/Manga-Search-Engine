@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            129,
+            565,
+            168,
+            696
+        ],
+        "text": "I WON'T LET...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            77,
+            1187,
+            182,
+            1365
+        ],
+        "text": "IT BOOSTS THE POWER OF NOELLE'S MAGIC!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            651,
+            64,
+            881,
+            266
+        ],
+        "text": "...ONE SINGLE THING GO YOUR WAY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            1622,
+            986,
+            1925
+        ],
+        "text": "Valkyrie Armor - Mermaid Form",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1223,
+            56,
+            1313,
+            178
+        ],
+        "text": "GOOD ONE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1299,
+            810,
+            1373,
+            888
+        ],
+        "text": "AH HA!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1406,
+            1512,
+            1423,
+            1800
+        ],
+        "text": "Next chapter hits June 7!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            189,
+            128,
+            364,
+            267
+        ],
+        "text": "How 'bout...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            342,
+            271,
+            745
+        ],
+        "text": "Burning Ice Blade",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1069,
+            31,
+            1261,
+            253
+        ],
+        "text": "...You cool down for a change!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            1029,
+            274,
+            1403
+        ],
+        "text": "Freezing Impact",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            120,
+            1584,
+            195,
+            1731
+        ],
+        "text": "This is my power.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            1586,
+            1142,
+            1718
+        ],
+        "text": "Thank you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

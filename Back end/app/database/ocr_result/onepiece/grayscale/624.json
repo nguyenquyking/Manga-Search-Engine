@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            41,
+            81,
+            141,
+            287
+        ],
+        "text": "I heard there were former slaves in that crew!! And what is Fish-Man history but the history of slavery?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            326,
+            132,
+            463
+        ],
+        "text": "Because you led the Sun Pirates!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            559,
+            128,
+            690
+        ],
+        "text": "Why would you ask me about this?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            338,
+            58,
+            377,
+            179
+        ],
+        "text": "KCHING--!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            378,
+            549,
+            385,
+            628
+        ],
+        "text": "GA-CHING!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            429,
+            584,
+            439,
+            628
+        ],
+        "text": "ZWIP...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            462,
+            416,
+            555,
+            519
+        ],
+        "text": "Finger Pistol!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            485,
+            84,
+            509,
+            117
+        ],
+        "text": "OOFH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            199,
+            528,
+            269
+        ],
+        "text": "\u30c9\u30b9\u30c3!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            674,
+            62,
+            692,
+            285
+        ],
+        "text": "WHAM\nWHAM!WHAM!WHAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            743,
+            590,
+            830,
+            723
+        ],
+        "text": "SPOTS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            614,
+            1075,
+            694
+        ],
+        "text": "AAAH!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1120,
+            445,
+            1112,
+            592
+        ],
+        "text": "WHAM!WHAM!WHAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

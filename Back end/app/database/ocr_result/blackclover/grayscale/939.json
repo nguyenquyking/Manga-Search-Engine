@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            38,
+            181,
+            97,
+            673
+        ],
+        "text": "THERE'S NO WAY I CAN WIN...?\nDON'T BE STUPID. I KNOW THAT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            193,
+            65,
+            267,
+            186
+        ],
+        "text": "...SO I'D RATHER YOU DIDN'T UNDERSTAND",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            238,
+            568,
+            296,
+            656
+        ],
+        "text": "BUT THAT BELONGS TO US...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            183,
+            688,
+            223,
+            755
+        ],
+        "text": "YOU'RE RIGHT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            200,
+            428,
+            660
+        ],
+        "text": "WHAT IS THIS DEVIL, ANYWAY?\nIT'S ABSOLUTELY INSANE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            515,
+            77,
+            630,
+            183
+        ],
+        "text": "...THERE ARE TIMES WHEN HUMANS JUST HAVE TO ACT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            508,
+            647,
+            624,
+            756
+        ],
+        "text": "YOU SEE, EVEN IF THEIR CHANCES OF WINNING ARE SLIM...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            546,
+            612,
+            606
+        ],
+        "text": "00000",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            711,
+            170,
+            768,
+            687
+        ],
+        "text": "THE TRUTH IS, EVEN NOW, I WANT TO FALL TO MY KNEES AND SOB.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            863,
+            85,
+            978,
+            184
+        ],
+        "text": "HOWEVER, IF WE GIVE UP, WE'LL DEFINITELY NEVER WIN!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            645,
+            976,
+            756
+        ],
+        "text": "IT'S NOT AS IF WE CAN WIN AS LONG AS WE DON'T GIVE UP.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            277,
+            1101,
+            569
+        ],
+        "text": "STILL... EVEN SO...",
+        "panel_id": "7",
+        "type": "narration"
+    }
+]

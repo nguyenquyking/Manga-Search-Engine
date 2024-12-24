@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            61,
+            68,
+            178,
+            215
+        ],
+        "text": "THAT LOUSY KING!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            286,
+            47,
+            390,
+            106
+        ],
+        "text": "GO AND DISPLAY YOUR LATENT POWER FOR ME!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            574,
+            275,
+            716
+        ],
+        "text": "WHY DO I HAVE TO GO ON THIS SUPER-UBER-FIEND-LEVEL MISSION WITH CRAZY-DANGEROUS DUDES?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            89,
+            604,
+            235
+        ],
+        "text": "...BUT NOBODY TOLD ME I WAS HEADED INTO A HELL LIKE THIS ONE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            454,
+            430,
+            525,
+            501
+        ],
+        "text": "I'm a magic knight who works directly for His Majesty. Har!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            588,
+            604,
+            703
+        ],
+        "text": "SURE, I SPENT THE PAST SIX MONTHS LIVING IT UP...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            189,
+            1004,
+            273
+        ],
+        "text": "WE KNOW YOU DON'T HAVE MUCH IN THE WAY OF SKILLS.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            304,
+            850,
+            390
+        ],
+        "text": "YEEEEEEE-EEP!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            791,
+            626,
+            972,
+            723
+        ],
+        "text": "I DUNNO WHY YOU'RE HERE, LOSER... BUT IF YOU'RE DOING THIS, YOU'D BETTER GET SERIOUS ABOUT IT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

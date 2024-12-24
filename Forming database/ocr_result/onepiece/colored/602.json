@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            85,
+            35,
+            150,
+            128
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            112,
+            596,
+            188,
+            704
+        ],
+        "text": "LEAVE MY COMRADES ALONE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            343,
+            590,
+            439,
+            699
+        ],
+        "text": "IT'S A D-DEMON!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            589,
+            871,
+            700
+        ],
+        "text": "KAPPA STYLE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            948,
+            429,
+            1028,
+            537
+        ],
+        "text": "YORI-KIRI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            9,
+            1041,
+            89
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

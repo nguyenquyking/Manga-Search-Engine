@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            247,
+            1139,
+            393,
+            1320
+        ],
+        "text": "LORD JULIUS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            937,
+            363,
+            1103,
+            534
+        ],
+        "text": "ARE YOU BETTER ALREADY, MARX?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            901,
+            1158,
+            933,
+            1247
+        ],
+        "text": "HEYO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1615,
+            69,
+            1710,
+            312
+        ],
+        "text": "SO SMALL, BUT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1613,
+            1041,
+            1824,
+            1247
+        ],
+        "text": "HE SURVIVED, BUT... SO SMALL!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

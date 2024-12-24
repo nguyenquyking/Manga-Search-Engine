@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            20,
+            624,
+            113,
+            735
+        ],
+        "text": "PLEASURE HALL,\nLEFTBRAIN TOWER,\nSKULL DOME",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            114,
+            323,
+            125,
+            401
+        ],
+        "text": "ZADOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            128,
+            98,
+            180,
+            168
+        ],
+        "text": "EEEEK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            373,
+            292,
+            435,
+            398
+        ],
+        "text": "LET'S HURRY TOWARD THE BACK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            608,
+            431,
+            736
+        ],
+        "text": "OSOME, STEP AWAY!! YOU'LL GET HURT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            381,
+            52,
+            464,
+            145
+        ],
+        "text": "DON'T WORRY!\nI'M SURE\nHE'S FINE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            383,
+            162,
+            451,
+            261
+        ],
+        "text": "I STILL\nCAN'T FIND\nCHUJI...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            52,
+            658,
+            143
+        ],
+        "text": "FOCUS ON\nYOUR OWN\nSAFETY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            603,
+            300,
+            676,
+            352
+        ],
+        "text": "NO...\nNOT\nYET...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            580,
+            657,
+            607,
+            733
+        ],
+        "text": "EEEK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            757,
+            100,
+            851,
+            272
+        ],
+        "text": "...NOW IS THE\nTIME TO MAKE USE\nOF IT--TO ESCAPE\nWANO ENTIRELY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            592,
+            851,
+            730
+        ],
+        "text": "IF THERE'S ANY\nWAY TO ESCAPE,\nANY WAY OFF\nTHIS ISLAND...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            583,
+            1001,
+            651
+        ],
+        "text": "GRRRGG...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1047,
+            89,
+            1094,
+            154
+        ],
+        "text": "VERY\nWISE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            194,
+            1088,
+            262
+        ],
+        "text": "VERY\nWISE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

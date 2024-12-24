@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            372,
+            265,
+            427,
+            332
+        ],
+        "text": "I... I... am...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            682,
+            448,
+            775
+        ],
+        "text": "Master Julius...!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            54,
+            892,
+            196
+        ],
+        "text": "Everyone's hurt, and I imagine it will take time for them to get back on their feet.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            729,
+            698,
+            905,
+            851
+        ],
+        "text": "No matter your reasons, the crime of betraying the kingdom is a serious one.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            752,
+            871,
+            817,
+            961
+        ],
+        "text": "William Vangeance.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1270,
+            305,
+            1369,
+            431
+        ],
+        "text": "...I don't intend to let you sit idle.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1228,
+            858,
+            1304,
+            951
+        ],
+        "text": "During that time...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            46,
+            115,
+            129,
+            229
+        ],
+        "text": "RIGHT,\nSTEALTH\nBLACK?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            319,
+            132,
+            470
+        ],
+        "text": "THAT I...AM\nTHE SUPERIOR\nSCIENTIST!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            508,
+            123,
+            606
+        ],
+        "text": "...I\nCOULD HAVE\nPROVEN\nSOMETHING",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            630,
+            177,
+            728
+        ],
+        "text": "IF I'D\nBEATEN YOU\nTO A PULP\nWHILE YOU\nWORE THAT\nSUIT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            256,
+            38,
+            318,
+            149
+        ],
+        "text": "I DON'T\nCARE ABOUT\nYOUR STUPID\nRIVALRY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            32,
+            530,
+            158
+        ],
+        "text": "I'VE ALREADY\nRESEARCHED\nAND TESTED ALL\nOF GERMA'S\nSCIENCE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            575,
+            90,
+            597,
+            188
+        ],
+        "text": "LET GO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            617,
+            471,
+            726
+        ],
+        "text": "I PLAYED\nDUMB ABOUT\nIT EARLIER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            539,
+            591,
+            716
+        ],
+        "text": "AAAH\n!!\n...BUT\nTHE PLAIN\nTRUTH IS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            703,
+            306,
+            732,
+            405
+        ],
+        "text": "WINCH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            719,
+            442,
+            743,
+            544
+        ],
+        "text": "WINCH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            588,
+            776,
+            715
+        ],
+        "text": "I CAN\nRE-CREATE\nANY MOVE YOU\nBROTHERS\nCAN DO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1048,
+            457,
+            1070,
+            542
+        ],
+        "text": "GUILLOTINE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            614,
+            1110,
+            721
+        ],
+        "text": "STOP\nTREATING ME\nLIKE THEIR\nFAMILY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            121,
+            969,
+            408
+        ],
+        "text": "GANK!!\nGONK\nGANK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

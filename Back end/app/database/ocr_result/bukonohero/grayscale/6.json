@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            416,
+            145,
+            572,
+            304
+        ],
+        "text": "THE AREA'S BEEN PROPERLY EVACUATED, PINKY!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            406,
+            747,
+            479,
+            850
+        ],
+        "text": "SORRY I'M LATE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            386,
+            820,
+            483
+        ],
+        "text": "RED RIOT!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            752,
+            197,
+            845,
+            314
+        ],
+        "text": "EVERYONE, LET'S DO THIS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            100,
+            1238,
+            298
+        ],
+        "text": "NOW IT'S TIME TO DO OUR PART!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1081,
+            659,
+            1249,
+            830
+        ],
+        "text": "TODOROKI SHOWED US HOW MANLY HE REALLY WAS.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

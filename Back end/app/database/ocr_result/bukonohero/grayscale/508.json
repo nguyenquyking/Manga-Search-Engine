@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            14,
+            29,
+            125,
+            95
+        ],
+        "text": "ZOOOM!! #",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            93,
+            291,
+            164,
+            448
+        ],
+        "text": "FNP Go, Todoroki!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            304,
+            104,
+            432,
+            261
+        ],
+        "text": "HEAT-WAVE!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            301,
+            551,
+            669,
+            717
+        ],
+        "text": "FLASH-FREEZE\nThere's so much we want to tell you.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            849,
+            233,
+            857,
+            419
+        ],
+        "text": "TOUCH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            989,
+            61,
+            1048,
+            172
+        ],
+        "text": "You say we can't keep up, huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            958,
+            468,
+            1079,
+            565
+        ],
+        "text": "But since words alone won't reach you...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            123,
+            1394,
+            212,
+            1554
+        ],
+        "text": "Now, guys!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            958,
+            1397,
+            1096,
+            1529
+        ],
+        "text": "Acidman!\nProtective coating style, at 0.1 percent acidity!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

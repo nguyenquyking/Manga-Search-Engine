@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            86,
+            218,
+            177,
+            320
+        ],
+        "text": "BOSS KYOSHIRO\nCUT HER\nDOWN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            373,
+            182,
+            476
+        ],
+        "text": "WAAAAH!!\nTHE TOP\nIDOL OF\nWANO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            502,
+            165,
+            627
+        ],
+        "text": "LADY\nKOMURASAKI\nIS DEAD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            662,
+            144,
+            736
+        ],
+        "text": "FLOWER\nCAPITAL",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            194,
+            76,
+            245,
+            163
+        ],
+        "text": "I'LL NEVER\nFORGIVE HIM\nFOR THIS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            51,
+            386,
+            155
+        ],
+        "text": "KEEP YOUR\nVOICE DOWN! IF\nTHE KYOSHIRO\nFAMILY HEARS\nYOU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            491,
+            150,
+            585,
+            240
+        ],
+        "text": "DID\nYOU HEAR\nABOUT THE\nYOKAI IN THE\nCASTLE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            570,
+            60,
+            687,
+            136
+        ],
+        "text": "THE\nTHUNDER-\nCLAP GOT\nME RIGHT\nOUTTA\nBED!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            614,
+            560,
+            739
+        ],
+        "text": "SHE WAS\nSO BLINDING, I\nNEVER EVEN GOT\nA GOOD LOOK\nAT HER FACE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            54,
+            894,
+            142
+        ],
+        "text": "YOU ONLY\nCAUGHT A\nGLIMPSE OF\nHER THE\nONE TIME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            171,
+            870,
+            257
+        ],
+        "text": "WHY\nARE YOU\nCRYING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            294,
+            885,
+            476
+        ],
+        "text": "KOMUWA-\nSAGIIIIII!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            515,
+            860,
+            615
+        ],
+        "text": "WAAAAH\n...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            831,
+            650,
+            882,
+            726
+        ],
+        "text": "EBISU\nTOWN",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1071,
+            81,
+            1136,
+            147
+        ],
+        "text": "HIC...\nSOB...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

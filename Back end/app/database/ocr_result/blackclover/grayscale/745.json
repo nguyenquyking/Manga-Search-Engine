@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            231,
+            37,
+            419,
+            269
+        ],
+        "text": "In this world...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            593,
+            153,
+            644,
+            210
+        ],
+        "text": "It's all over.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            610,
+            911,
+            625,
+            946
+        ],
+        "text": "No...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            89,
+            822,
+            801
+        ],
+        "text": "...magic is everything",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            763,
+            1452,
+            845,
+            1540
+        ],
+        "text": "I'm out of time already!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            1190,
+            817,
+            1223
+        ],
+        "text": "Huh?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            993,
+            867,
+            1048
+        ],
+        "text": "Wizard... King...?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            973,
+            1005,
+            1055,
+            1096
+        ],
+        "text": "Rgh... Any longer",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            1252,
+            1104,
+            1346
+        ],
+        "text": "Why...?!! It's too soon-",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

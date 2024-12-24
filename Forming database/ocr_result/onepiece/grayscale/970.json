@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            95,
+            63,
+            138,
+            149
+        ],
+        "text": "LET'S GO\nBACK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            570,
+            132,
+            633
+        ],
+        "text": "STOP,\nACE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            370,
+            124,
+            441
+        ],
+        "text": "KADOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            330,
+            125,
+            351,
+            616
+        ],
+        "text": "CHAPTER 999: THE SAKE I BREWED TO DRINK WITH YOU",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            416,
+            37,
+            477,
+            149
+        ],
+        "text": "YOU GO\nFIRST!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            324,
+            500,
+            377
+        ],
+        "text": "HUFF\n!!\nHUFF\n...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            624,
+            503,
+            728
+        ],
+        "text": "WEEZ,\nWEEZ...\nWHO ARE\nYOU?! NAME\nYOURSELF!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            568,
+            729,
+            717
+        ],
+        "text": "I'M\nACE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            54,
+            1098,
+            238
+        ],
+        "text": "I'VE\nCOME HERE\nTO TAKE\nKAIDO'S\nHEAD!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            545,
+            276,
+            566,
+            462
+        ],
+        "text": "By EIICHIRO ODA",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1059,
+            538,
+            1122,
+            732
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "5",
+        "type": "background"
+    }
+]

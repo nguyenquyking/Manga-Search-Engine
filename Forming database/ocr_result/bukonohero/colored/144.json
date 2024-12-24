@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            469,
+            747,
+            545,
+            870
+        ],
+        "text": "BRING ME TO MY BOSS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            666,
+            284,
+            678,
+            352
+        ],
+        "text": "BWUP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            868,
+            582,
+            888,
+            642
+        ],
+        "text": "BOSS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            440,
+            1091,
+            513
+        ],
+        "text": "SORRY, BOSS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1312,
+            172,
+            1319,
+            236
+        ],
+        "text": "BWUP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            107,
+            112,
+            203,
+            275
+        ],
+        "text": "...and all of you who've built up this power...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            326,
+            131,
+            428
+        ],
+        "text": "Call Might...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            130,
+            790,
+            151,
+            896
+        ],
+        "text": "and not",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            86,
+            555,
+            312
+        ],
+        "text": "...have given hope to countless people out there.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1193,
+            81,
+            1286,
+            283
+        ],
+        "text": "...and I think there's another big purpose behind it all!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1233,
+            463,
+            1379,
+            597
+        ],
+        "text": "But you've all given your lives to link the chain this far...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1137,
+            773,
+            1280,
+            909
+        ],
+        "text": "I get that this power was first meant to destroy that evil!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            716,
+            745,
+            729,
+            815
+        ],
+        "text": "FWAHH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            38,
+            52,
+            120,
+            160
+        ],
+        "text": "THIS COUNTRY IS A WEAPONS FACTORY!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            38,
+            185,
+            100,
+            306
+        ],
+        "text": "OROCHI HAD A SKILL FOR EXPLOITATION...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            194,
+            42,
+            278,
+            149
+        ],
+        "text": "YOU WILL RULE OVER IT, AND KEEP IT RUNNING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            43,
+            617,
+            119,
+            729
+        ],
+        "text": "IT'S NOT THE SAME THING!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            250,
+            349,
+            303,
+            413
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            304,
+            476,
+            327,
+            561
+        ],
+        "text": "WHOOO...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            389,
+            593,
+            537,
+            727
+        ],
+        "text": "NO, I WILL FREE THEM!! I WILL LIBERATE THIS COUNTRY AND ITS SAMURAI...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            57,
+            531,
+            165
+        ],
+        "text": "...AND RELEASE THEM UNTO THE WORLD!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            557,
+            1062,
+            711
+        ],
+        "text": "NAMUJI GLACIER FANG!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

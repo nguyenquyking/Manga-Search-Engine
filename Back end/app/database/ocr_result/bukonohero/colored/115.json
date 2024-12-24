@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            40,
+            83,
+            96,
+            148
+        ],
+        "text": "And then we got this letter...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            49,
+            304,
+            66,
+            335
+        ],
+        "text": "What's up?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            530,
+            149,
+            671
+        ],
+        "text": "Denim Head and the Spoonbill met Deku back at the hospital. All Might was there too...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            278,
+            41,
+            449,
+            147
+        ],
+        "text": "It had to be All Might! I've got no doubt they're partners in crime!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            316,
+            401,
+            458,
+            508
+        ],
+        "text": "...Then who snuck in and slipped the letters under our doors in the dead of night?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            308,
+            556,
+            380,
+            662
+        ],
+        "text": "If he's too scared to come near U.A....",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            593,
+            241,
+            738,
+            353
+        ],
+        "text": "The only news we're hearing is about the whole top three team-up, right? Not a word about All Might.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            150,
+            693,
+            205
+        ],
+        "text": "Yeah.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            576,
+            687,
+            684
+        ],
+        "text": "Then he is with an adult? That should give us reassurance, oui?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            160,
+            881,
+            242
+        ],
+        "text": "This is...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            28,
+            973,
+            122
+        ],
+        "text": "...The worst scenario I can think of...",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            870,
+            387,
+            922,
+            487
+        ],
+        "text": "...I know Deku and All Might...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            555,
+            929,
+            667
+        ],
+        "text": "Compared to Endeavor and the others...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            348,
+            1068,
+            429
+        ],
+        "text": "...Better than anyone.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

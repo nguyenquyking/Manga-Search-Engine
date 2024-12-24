@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            114,
+            216,
+            280,
+            434
+        ],
+        "text": "We'll do much better by finding him.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            593,
+            250,
+            807
+        ],
+        "text": "Focus on finding Yamato and reporting in.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            888,
+            263,
+            1077
+        ],
+        "text": "Forget them. Just a few rats.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            1146,
+            274,
+            1372
+        ],
+        "text": "Will you give chase? There's glory to be had.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            123,
+            494,
+            282
+        ],
+        "text": "Don't let Sasaki beat us.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            120,
+            730,
+            201
+        ],
+        "text": "Yes sir!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            375,
+            969,
+            662
+        ],
+        "text": "GRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            920,
+            136,
+            1088,
+            275
+        ],
+        "text": "Well, so do I...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            712,
+            1038,
+            888
+        ],
+        "text": "He wants to kill someone?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            938,
+            976,
+            1143
+        ],
+        "text": "GRRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            948,
+            1196,
+            1103,
+            1372
+        ],
+        "text": "I've heard enough outta Queen...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1414,
+            321,
+            1591,
+            591
+        ],
+        "text": "That's strange. There are no signs of ships at the main port, Big Mom.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1458,
+            668,
+            1574,
+            842
+        ],
+        "text": "They'll be arriving soon!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1434,
+            921,
+            1602,
+            1065
+        ],
+        "text": "Sounds like the ship is fine.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1421,
+            1144,
+            1572,
+            1329
+        ],
+        "text": "Maaaaaaaa ma ma ma... I've gotten in touch.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1635,
+            149,
+            1784,
+            305
+        ],
+        "text": "Port...? What do you mean, port?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1697,
+            372,
+            1676,
+            656
+        ],
+        "text": "WA HAHAHAHAHA",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1658,
+            1177,
+            1747,
+            1356
+        ],
+        "text": "STOMP TROMP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1918,
+            123,
+            1967,
+            251
+        ],
+        "text": "Huh?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1753,
+            1284,
+            1820,
+            1339
+        ],
+        "text": "Gya ha ha",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

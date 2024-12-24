@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            77,
+            296,
+            163,
+            359
+        ],
+        "text": "...so\njust\nwatch,\nall\nright?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            186,
+            389,
+            326,
+            480
+        ],
+        "text": "If we\nattack\nfrom out\nhere,\nit'll mess\nwith that\nspell's\neffect...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            200,
+            653,
+            287,
+            726
+        ],
+        "text": "Thing\nis\nthough,\nhe did\nit.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            253,
+            349,
+            313
+        ],
+        "text": "BOOMF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            458,
+            11,
+            488,
+            95
+        ],
+        "text": "Ghk...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            581,
+            480,
+            709
+        ],
+        "text": "...HIS\nFIGHT.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            981,
+            547,
+            984,
+            606
+        ],
+        "text": "WHUDD",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

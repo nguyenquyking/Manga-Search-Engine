@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            90,
+            438,
+            125,
+            482
+        ],
+        "text": "URK?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            179,
+            65,
+            291,
+            762
+        ],
+        "text": "THWAP\nBLACKOUT BIND!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            448,
+            689,
+            496,
+            770
+        ],
+        "text": "DOES OUR\nSHOW END\nHERE...?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            482,
+            202,
+            555,
+            281
+        ],
+        "text": "...I loved... the League.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            396,
+            516,
+            460
+        ],
+        "text": "Spinner...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            126,
+            777,
+            296
+        ],
+        "text": "The timing must be right. When the heroes are a bit farther...and the Nomu...are in optimal position...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            688,
+            368,
+            757,
+            466
+        ],
+        "text": "Tomura...\nis the\nkey!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            672,
+            636,
+            762,
+            751
+        ],
+        "text": "A collection of warped minds who never bothered...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            740,
+            560,
+            830,
+            636
+        ],
+        "text": "...prying\ninto\neach\nother's\npasts.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            818,
+            334,
+            840,
+            358
+        ],
+        "text": "?!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            867,
+            641,
+            878,
+            667
+        ],
+        "text": "KRAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            993,
+            609,
+            1048,
+            695
+        ],
+        "text": "Just a\nband of\negotists.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1033,
+            440,
+            1041,
+            476
+        ],
+        "text": "GRRK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1011,
+            95,
+            1093,
+            250
+        ],
+        "text": "I shall buy you...\nfive seconds...\nduring which to\nrouse...the boss.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

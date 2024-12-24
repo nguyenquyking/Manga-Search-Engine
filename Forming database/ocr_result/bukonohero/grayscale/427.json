@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            367,
+            147,
+            378,
+            200
+        ],
+        "text": "WHRR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            580,
+            34,
+            643,
+            184
+        ],
+        "text": "...and see for yourselves. Come in...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            623,
+            675,
+            721
+        ],
+        "text": "Did you happen to hear...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            689,
+            529,
+            727,
+            620
+        ],
+        "text": "Uravity's speech?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            895,
+            117,
+            932,
+            172
+        ],
+        "text": "All is well.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1035,
+            98,
+            1106,
+            174
+        ],
+        "text": "At least for the time being.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

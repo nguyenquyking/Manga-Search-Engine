@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            226,
+            834,
+            289,
+            1011
+        ],
+        "text": "I'll detonate Lolopechka...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            62,
+            746,
+            261
+        ],
+        "text": "...and kill all the humans in this castle at once.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            692,
+            1074,
+            798
+        ],
+        "text": "And then...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1365,
+            298,
+            1522,
+            449
+        ],
+        "text": "...I will fully manifest here.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

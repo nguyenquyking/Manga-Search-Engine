@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            82,
+            61,
+            165,
+            185
+        ],
+        "text": "FOR OVER FIVE YEARS AFTER RINGO'S DOWNFALL...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            225,
+            166,
+            361
+        ],
+        "text": "...YOU'VE BEEN GUARDING THIS ALL ON YOUR OWN?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            608,
+            154,
+            718
+        ],
+        "text": "DO YOU MEAN TO TELL ME...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            80,
+            583,
+            177
+        ],
+        "text": "...ONIMARU FOUGHT THE GRAVE ROBBERS, ALL ALONE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            680,
+            55,
+            757,
+            185
+        ],
+        "text": "AND YOU CAN'T PROTECT YOUR MASTER'S GRAVE IF YOU'RE DEAD.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            676,
+            224,
+            753,
+            342
+        ],
+        "text": "YOUR WOUNDS WON'T HEAL UNLESS YOU EAT.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            680,
+            382,
+            746,
+            480
+        ],
+        "text": "HERE'S SOMETHING TO EAT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            622,
+            618,
+            666
+        ],
+        "text": "BENG!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            661,
+            612,
+            778,
+            730
+        ],
+        "text": "WHEN THE PEOPLE OF RINGO ARE BORN, THEY'RE GIFTED A KATANA.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1035,
+            594,
+            1130,
+            719
+        ],
+        "text": "THEY LIVE WITH THEIR KATANA, AND USE IT AS A GRAVE MARKER WHEN THEY DIE.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1045,
+            374,
+            1128,
+            486
+        ],
+        "text": "ACCORDING TO FOLKLORE,\nFOXES LOVE FRIED TOFU.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

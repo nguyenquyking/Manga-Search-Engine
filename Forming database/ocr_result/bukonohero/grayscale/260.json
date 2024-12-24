@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            69,
+            94,
+            109,
+            298
+        ],
+        "text": "...is Aoyama. You... That the traitor in our midst...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            40,
+            488,
+            151,
+            627
+        ],
+        "text": "Um... Hagakure just told me what she heard...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            274,
+            393,
+            346
+        ],
+        "text": "Midoriya...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            295,
+            392,
+            308,
+            426
+        ],
+        "text": "GWAHH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            357,
+            655,
+            414,
+            723
+        ],
+        "text": "What nonsense!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            419,
+            543,
+            510,
+            643
+        ],
+        "text": "How ridiculous! The girl must have misheard!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            21,
+            706,
+            119
+        ],
+        "text": "Stop! I can't take it! Not from you!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            658,
+            178,
+            707,
+            263
+        ],
+        "text": "Aoyama, I...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            375,
+            648,
+            450
+        ],
+        "text": "In that moment...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            659,
+            626,
+            678,
+            722
+        ],
+        "text": "Oh, Midoriya...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            314,
+            978,
+            394
+        ],
+        "text": "...Only I was silent!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            954,
+            499,
+            1041,
+            586
+        ],
+        "text": "I was the only one who couldn't say a word to you.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            496,
+            588,
+            633,
+            767
+        ],
+        "text": "...by that singular word, \"Uncle\"!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            84,
+            851,
+            205
+        ],
+        "text": "Ungrateful little...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            986,
+            95,
+            1110,
+            203
+        ],
+        "text": "Otherwise, we could not have lured him here!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1013,
+            274,
+            1057,
+            361
+        ],
+        "text": "I had no choice!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            629,
+            1087,
+            733
+        ],
+        "text": "That was such a believable performance, Aoyama!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            65,
+            125,
+            145,
+            280
+        ],
+        "text": "...NOTHING HAS GOTTEN BETTER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            64,
+            700,
+            121,
+            786
+        ],
+        "text": "FEELS LIKE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            337,
+            79,
+            430,
+            191
+        ],
+        "text": "...AND THE SHADOWS HAVE GROWN.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            316,
+            237,
+            383,
+            345
+        ],
+        "text": "...THE DAYS ARE LONGER...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            334,
+            851,
+            409,
+            931
+        ],
+        "text": "EVER SINCE THEN...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            652,
+            279,
+            735,
+            419
+        ],
+        "text": "YOU GUYS!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

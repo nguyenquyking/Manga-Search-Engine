@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            30,
+            10,
+            131,
+            72
+        ],
+        "text": "Sorry to force this on you in such trying times.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            12,
+            512,
+            80
+        ],
+        "text": "This too is destiny.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            593,
+            211,
+            646,
+            302
+        ],
+        "text": "Naw, just a matter of timing.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            10,
+            817,
+            101
+        ],
+        "text": "My esteemed colleague, Banjo, has already spoken to you a bit about this.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            583,
+            930,
+            675,
+            1076
+        ],
+        "text": "Before you wake up, we gotta have a chat.",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

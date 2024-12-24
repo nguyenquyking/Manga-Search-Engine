@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            300,
+            162,
+            354,
+            238
+        ],
+        "text": "THE WIND'S SO STRONG!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            391,
+            180,
+            450,
+            262
+        ],
+        "text": "FURL THE SAILS, CARROT!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            513,
+            54,
+            564,
+            114
+        ],
+        "text": "OKAY!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            333,
+            878,
+            385,
+            936
+        ],
+        "text": "AAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            559,
+            1371,
+            598,
+            1486
+        ],
+        "text": "GEEZ, WHAT'S UP WITH THIS",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            54,
+            756,
+            127
+        ],
+        "text": "OOOH!! WHAT'S THAT?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            434,
+            798,
+            539
+        ],
+        "text": "HANG ON TIGHT, WE'RE JUST ALONG FOR THE RIDE NOW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            594,
+            807,
+            694
+        ],
+        "text": "WHERE ARE THESE KOI FISH GOING?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            39,
+            1126,
+            180
+        ],
+        "text": "NOW WE'RE IN TROUBLE!! WE CAN'T KEEP UP WITH THE KOI!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            217,
+            1104,
+            308
+        ],
+        "text": "IS LUFFY STILL AROUND?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            742,
+            1030,
+            829,
+            1202
+        ],
+        "text": "I DON'T NEED TO SEE THAT WELL!! THOSE MEGA-HUGE FISH BELOW THE SURFACE ARE CREEPING ME OUT!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            1273,
+            829,
+            1460
+        ],
+        "text": "IT'S LIKE A CRYSTAL-CLEAR BROOK ON A MOUNTAIN-",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            1393,
+            876,
+            1478
+        ],
+        "text": "JUST LOOK HOW PURE THE WATER IS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            807,
+            1053,
+            895
+        ],
+        "text": "WAIT, DOES THAT MEAN THIS IS A RIVER?!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            120,
+            101,
+            262,
+            320
+        ],
+        "text": "We've got the same amount of magic.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            1030,
+            362,
+            1331
+        ],
+        "text": "Gravity Magic: Presence of the Demon King",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            675,
+            347,
+            804,
+            411
+        ],
+        "text": "RGH! RGH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            819,
+            132,
+            1011,
+            299
+        ],
+        "text": "I can buckle down and take this!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1157,
+            861,
+            1216,
+            958
+        ],
+        "text": "KA POW",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

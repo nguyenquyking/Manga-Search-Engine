@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            53,
+            552,
+            166,
+            684
+        ],
+        "text": "At this rate, everything's gonna be swallowed up...!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            48,
+            283,
+            217
+        ],
+        "text": "There's no way we can get any closer to them!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            231,
+            253,
+            328,
+            353
+        ],
+        "text": "Hey, hey, hey now! This stuff's no joke!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            773,
+            215,
+            879
+        ],
+        "text": "So this is the demon's true power...!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            494,
+            77,
+            514,
+            165
+        ],
+        "text": "Patri...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            223,
+            621,
+            331
+        ],
+        "text": "Everyone on the bottom floors will...!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            494,
+            730,
+            624,
+            888
+        ],
+        "text": "It's too difficult fighting back against the demon's magic...!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            644,
+            687,
+            679,
+            743
+        ],
+        "text": "GUH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            988,
+            27,
+            1157,
+            168
+        ],
+        "text": "They're the ones who will lead the mages of the Clover Kingdom to the future...!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            934,
+            393,
+            1183,
+            532
+        ],
+        "text": "There's no way we can let the people of this era die...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            958,
+            778,
+            1157,
+            884
+        ],
+        "text": "I'm sorry, but I'm counting on you to take care of everything around here for a short while...!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

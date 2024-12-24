@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            144,
+            47,
+            196,
+            125
+        ],
+        "text": "I'm on Okutu Island!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            214,
+            188,
+            286
+        ],
+        "text": "I'm sorry! Himiko Toga nabbed me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            352,
+            109,
+            412
+        ],
+        "text": "Dammit, Class A! What're you doing?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            179,
+            372,
+            233,
+            436
+        ],
+        "text": "Where are you?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            101,
+            598,
+            147,
+            705
+        ],
+        "text": "Midoriya?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            595,
+            368,
+            692
+        ],
+        "text": "Requesting a warp!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            26,
+            614,
+            214
+        ],
+        "text": "You've realized it, haven't you?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            354,
+            723,
+            474
+        ],
+        "text": "Monoma can only activate one copied quirk at a time.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            596,
+            570,
+            685,
+            644
+        ],
+        "text": "We have to warp Midoriya back to us!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            839,
+            17,
+            893,
+            213
+        ],
+        "text": "...Growing, spreading hands. Those innumerable...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            909,
+            278,
+            1016,
+            443
+        ],
+        "text": "Switching from erasure to warp gate to retrieve Midoriya would take around ten seconds...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1025,
+            564,
+            1060,
+            624
+        ],
+        "text": "No, we can't.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

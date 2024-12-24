@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            63,
+            195,
+            120,
+            574
+        ],
+        "text": "Chapter 932:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            153,
+            163,
+            300,
+            597
+        ],
+        "text": "SHOGUN AND OIRAN",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            843,
+            372,
+            1015,
+            559
+        ],
+        "text": "Clients Wanted\nby genius\nWant a weapon of\nmass slaughter?\nI'll build it for you.\nTo apply, please\ncontact the\nfollowing:\nCaesar Clown",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1086,
+            179,
+            1135,
+            582
+        ],
+        "text": "REQUEST: \"GOATS EATING LETTERS WRITTEN BY CAESAR\" BY FUJI",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

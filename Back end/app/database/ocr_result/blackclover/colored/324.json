@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            162,
+            9,
+            263,
+            149
+        ],
+        "text": "I THOUGHT I TOLD YOU TO CHANGE OUT OF YOUR PAJAMAS ALREADY.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            141,
+            452,
+            198,
+            595
+        ],
+        "text": "C'MON, WHAT ARE YOU DOING, ROLOPECHIKA?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            130,
+            744,
+            222,
+            818
+        ],
+        "text": "WH-WW WHAT THE HECK IS GOING ON?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            26,
+            943,
+            194
+        ],
+        "text": "...WAIT... THIS PERSON... IS THE PRINCESS OF HEART KINGDOM...?!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            913,
+            725,
+            959,
+            828
+        ],
+        "text": "I'M SO SORRY~",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

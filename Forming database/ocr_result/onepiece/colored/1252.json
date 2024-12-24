@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            121,
+            576,
+            202,
+            711
+        ],
+        "text": "KYAOO!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            404,
+            160,
+            470,
+            247
+        ],
+        "text": "WHAT?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            560,
+            38,
+            729,
+            190
+        ],
+        "text": "HEY!! WHY ARE YOU WILTING UNDER PRESSURE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            577,
+            369,
+            614,
+            427
+        ],
+        "text": "THAT'S BETTER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            604,
+            910,
+            663
+        ],
+        "text": "GONK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            937,
+            225,
+            958,
+            390
+        ],
+        "text": "HUFF!!\nHUFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

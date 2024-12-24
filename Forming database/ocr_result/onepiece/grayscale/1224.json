@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            1392,
+            893,
+            1428,
+            1000
+        ],
+        "text": "vol. 98",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1432,
+            571,
+            1497,
+            996
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "1",
+        "type": "title"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            95,
+            132,
+            250,
+            315
+        ],
+        "text": "...the will of a hero shall be passed on!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            92,
+            573,
+            275,
+            761
+        ],
+        "text": "As long as people are still willing to help each other...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            554,
+            136,
+            756,
+            318
+        ],
+        "text": "...put an end to you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            568,
+            527,
+            766,
+            759
+        ],
+        "text": "And they will surely...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            433,
+            101,
+            738,
+            334
+        ],
+        "text": "He made a living by hunting birds and small game.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            433,
+            912,
+            602,
+            1168
+        ],
+        "text": "My dad was a commoner, a hunter.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            883,
+            27,
+            1102,
+            199
+        ],
+        "text": "...He was happy. He said it was fitting magic for a hunter.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            881,
+            427,
+            1072,
+            582
+        ],
+        "text": "When he learned that my magic formed blades...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            883,
+            660,
+            1011,
+            897
+        ],
+        "text": "He was a stolid, conventional guy.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            883,
+            1006,
+            1104,
+            1205
+        ],
+        "text": "He always said, \"Don't mess with anything that looks stronger than you.\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1339,
+            620,
+            1560,
+            843
+        ],
+        "text": "...I hunted creatures that were weaker than me, and slashed them up.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1339,
+            1070,
+            1432,
+            1158
+        ],
+        "text": "Like my dad...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1791,
+            131,
+            1846,
+            1095
+        ],
+        "text": "Will I always live this way?",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

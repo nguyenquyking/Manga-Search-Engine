@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            78,
+            1360,
+            151,
+            1453
+        ],
+        "text": "(Shigaraki killed so many people.)",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            306,
+            120,
+            420,
+            287
+        ],
+        "text": "One for all is a power meant for saving, not killing.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            592,
+            155,
+            656,
+            265
+        ],
+        "text": "All Might taught me that.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            585,
+            1363,
+            663,
+            1482
+        ],
+        "text": "He's hurt people near and dear to me.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            950,
+            1339,
+            992,
+            1402
+        ],
+        "text": "And yet!!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

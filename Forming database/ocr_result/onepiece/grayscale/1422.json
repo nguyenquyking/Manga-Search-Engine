@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            764,
+            342,
+            989,
+            1059
+        ],
+        "text": "Volume 96!!\nIf you turn it upside down, it's volume 69!!\nWait, never mind, it still says 96!!\nBut no matter how you flip this, there's no turning back when the volume 100 party is so close!! Enjoy volume 96!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1080,
+            776,
+            1112,
+            1166
+        ],
+        "text": "-Eiichiro Oda, 2020",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1483,
+            473,
+            1954,
+            1285
+        ],
+        "text": "Eiichiro Oda began his manga career at the age of 17, when his one-shot cowboy manga *Wanted!* won second place in the coveted Tezuka manga awards. Oda went on to work as an assistant to some of the biggest manga artists in the industry, including Nobuhiro Watsuki, before winning the Hop Step Award for new artists. His pirate adventure *One Piece*, which debuted in *Weekly Shonen Jump* in 1997, quickly became one of the most popular manga in Japan.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            180,
+            1119,
+            364,
+            1310
+        ],
+        "text": "It may be small, but he's created his own territory...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            180,
+            1350,
+            217,
+            1475
+        ],
+        "text": "Oho...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            286,
+            194,
+            405,
+            352
+        ],
+        "text": "...within my absolute space.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            842,
+            1379,
+            1051,
+            1511
+        ],
+        "text": "I knew you could do it.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            125,
+            1236,
+            343
+        ],
+        "text": "Yeesh... You're one seriously irritating junior member!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1252,
+            1293,
+            1328,
+            1437
+        ],
+        "text": "Nicely done!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1632,
+            114,
+            1893,
+            288
+        ],
+        "text": "Looking back, I may have hated him because we were so similar.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1751,
+            310,
+            1825,
+            381
+        ],
+        "text": "...of the Golden Dawn.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1754,
+            666,
+            1811,
+            741
+        ],
+        "text": "I'll become captain...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2010,
+            683,
+            2040,
+            718
+        ],
+        "text": "Oh, yes?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1703,
+            1128,
+            1767,
+            1221
+        ],
+        "text": "The Golden Dawn!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1632,
+            1254,
+            1930,
+            1527
+        ],
+        "text": "Ever since he joined the brigade, he's been insolent and presumptuous, but he had the skills to back it up.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1960,
+            316,
+            2088,
+            379
+        ],
+        "text": "Meaning you're completely ignoring me, the vice captain...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            81,
+            506,
+            216,
+            663
+        ],
+        "text": "KZZT\nWHAT'S THIS...?\nOUR\nSIGNAL...\nKZZT",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            318,
+            72,
+            329,
+            117
+        ],
+        "text": "SHAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            648,
+            654,
+            661,
+            684
+        ],
+        "text": "FWP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

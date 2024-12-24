@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            64,
+            63,
+            188,
+            177
+        ],
+        "text": "I don't want your money, silly. Eat up! The sweet bean porridge will make you feel better!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            233,
+            181,
+            342
+        ],
+        "text": "I can't even pay for the medicine...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            614,
+            175,
+            727
+        ],
+        "text": "Please, ma'am, you've gotta take it away!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            253,
+            228,
+            366,
+            336
+        ],
+        "text": "There's no way I can afford this nice oshiruko!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            489,
+            52,
+            582,
+            150
+        ],
+        "text": "I promise, I'll pay for the herbs!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            176,
+            566,
+            248
+        ],
+        "text": "I just can't do it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            290,
+            576,
+            416
+        ],
+        "text": "I can't accept your food after you already saved my life!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            454,
+            562,
+            560
+        ],
+        "text": "...Haven't had anything good to eat either!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            586,
+            566,
+            708
+        ],
+        "text": "I... I can't! I know that you and Okiku...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            831,
+            58,
+            948,
+            235
+        ],
+        "text": "If you don't eat this, I'm just going to dump it on the side of the road!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            62,
+            1134,
+            196
+        ],
+        "text": "Please, Otama, just eat it! Once Otsuru makes an offer, she refuses to take no for an answer!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            842,
+            573,
+            963,
+            741
+        ],
+        "text": "Silence!! What kind of woman sets out food for a hungry person...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1022,
+            578,
+            1125,
+            715
+        ],
+        "text": "...and then takes \"No thanks, I'm not hungry\" for an answer?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

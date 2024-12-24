@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            54,
+            52,
+            141,
+            163
+        ],
+        "text": "DIE ALREADY!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            615,
+            149,
+            713
+        ],
+        "text": "DAMMIT!! YOU JUST WON'T GO DOWN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            488,
+            369,
+            560
+        ],
+        "text": "BAKOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            749,
+            237,
+            763,
+            306
+        ],
+        "text": "SLICE!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1048,
+            477,
+            1062,
+            523
+        ],
+        "text": "TMP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

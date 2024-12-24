@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            200,
+            104,
+            501,
+            302
+        ],
+        "text": "I'll need to choose the individuals who have the greatest chance of winning!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            255,
+            707,
+            436,
+            858
+        ],
+        "text": "However, my magic won't let me take a crowd along.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            608,
+            1117,
+            690,
+            1274
+        ],
+        "text": "ZENON\noooo!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            86,
+            1110,
+            316
+        ],
+        "text": "Obviously, you're gonna choose from among us captains!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            887,
+            996,
+            1154,
+            1228
+        ],
+        "text": "Haw!\nNo duh!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1518,
+            639,
+            1587,
+            773
+        ],
+        "text": "Let me go, please.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

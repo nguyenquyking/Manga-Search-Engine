@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            332,
+            487,
+            391,
+            570
+        ],
+        "text": "YAAAH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            601,
+            462,
+            728
+        ],
+        "text": "CROKK\nHRRGH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            476,
+            354,
+            490,
+            441
+        ],
+        "text": "KA RUNCH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            586,
+            54,
+            670,
+            126
+        ],
+        "text": "THAT'S\nJUST\nRIDICULOUS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            345,
+            687,
+            424
+        ],
+        "text": "SHE\nSTOOD UP,\nTOWER\nAND ALL!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            586,
+            654,
+            633,
+            732
+        ],
+        "text": "WHAAAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            42,
+            859,
+            163
+        ],
+        "text": "MOTHER'S\nVISIT\nCANNON!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            796,
+            238,
+            812,
+            369
+        ],
+        "text": "GRRRGG\n!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            786,
+            628,
+            882,
+            724
+        ],
+        "text": "WHY WOULD\nYOU PUT ALL\nTHIS EXTRA\nWEIGHT ON\nMY BACK?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

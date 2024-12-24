@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            61,
+            300,
+            143,
+            390
+        ],
+        "text": "It's a curse bomb.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            22,
+            452,
+            138,
+            639
+        ],
+        "text": "His magic... It's swelling?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            251,
+            148,
+            274
+        ],
+        "text": "Aha!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            550,
+            27,
+            698,
+            170
+        ],
+        "text": "I'm detonating the devil power I gave you dark disciples.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            471,
+            459,
+            585,
+            567
+        ],
+        "text": "What... are you doing?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            572,
+            894,
+            659,
+            1007
+        ],
+        "text": "Lady Vanica!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            62,
+            1012,
+            135
+        ],
+        "text": "Lady Vanica...?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            434,
+            977,
+            522
+        ],
+        "text": "Huh?! Wait...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

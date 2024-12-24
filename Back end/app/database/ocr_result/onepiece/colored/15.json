@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            128,
+            1507,
+            221,
+            1705
+        ],
+        "text": "MOMONO-SUKE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            215,
+            514,
+            259,
+            654
+        ],
+        "text": "SNIFF\n\u2026!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            286,
+            1451,
+            407,
+            1503
+        ],
+        "text": "\u2026\u2026!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            740,
+            143,
+            775,
+            319
+        ],
+        "text": "MOTHER\u2026",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            773,
+            731,
+            912,
+            1301
+        ],
+        "text": "\u3059\u305f\nSHF\n\u3059\u305f\nSHF\n\u3007\u3007\u3007\u3007!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1215,
+            100,
+            1428,
+            403
+        ],
+        "text": "I WILL\nGO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1213,
+            1396,
+            1341,
+            1724
+        ],
+        "text": "I'M READY,\nMOTHER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1415,
+            1288,
+            1562,
+            1273
+        ],
+        "text": "BENG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1857,
+            192,
+            2002,
+            357
+        ],
+        "text": "DON'T\nGO THAT\nWAY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1920,
+            942,
+            1964,
+            1176
+        ],
+        "text": "I'M\nFAILING...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2300,
+            643,
+            2483,
+            817
+        ],
+        "text": "STOP!!\nDON'T GO\nTO THE\nCAPITAL!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2502,
+            921,
+            2619,
+            1168
+        ],
+        "text": "...MY\nMOTHER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1863,
+            1486,
+            1915,
+            1677
+        ],
+        "text": "GOOD...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2671,
+            336,
+            2704,
+            719
+        ],
+        "text": "WILDFIREMATT X POPCOLOREDMANGA",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

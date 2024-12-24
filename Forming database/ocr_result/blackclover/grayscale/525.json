@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            222,
+            71,
+            292,
+            182
+        ],
+        "text": "...This world is finished.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            206,
+            806,
+            300,
+            947
+        ],
+        "text": "If the final devil, Lucifer, emerges...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            927,
+            74,
+            1012,
+            197
+        ],
+        "text": "...Yami and Vengeance will die as well.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            919,
+            843,
+            1004,
+            962
+        ],
+        "text": "As the catalysts for the advent...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1300,
+            424,
+            1433,
+            556
+        ],
+        "text": "Until the gates are fully open, they will both be alive.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1280,
+            871,
+            1321,
+            965
+        ],
+        "text": "Conversely...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

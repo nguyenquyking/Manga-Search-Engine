@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            30,
+            68,
+            101,
+            185
+        ],
+        "text": "So the old man was a samurai of",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            104,
+            85,
+            130,
+            164
+        ],
+        "text": "Wano...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            42,
+            239,
+            138,
+            355
+        ],
+        "text": "The blacksmith, Shimotsuki Kozaburo. He broke the laws...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            33,
+            398,
+            117,
+            520
+        ],
+        "text": "Did you know our village was built by pirates?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            22,
+            569,
+            133,
+            627
+        ],
+        "text": "Was it not a coincidence after all?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            22,
+            652,
+            141,
+            726
+        ],
+        "text": "My village is named for Shimotsuki.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            275,
+            242,
+            350,
+            353
+        ],
+        "text": "...and left this land over 50 years ago.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            289,
+            410,
+            346,
+            513
+        ],
+        "text": "That's what my grandma said!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            135,
+            528,
+            227
+        ],
+        "text": "A great blade can see into you.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            583,
+            86,
+            688,
+            197
+        ],
+        "text": "It chooses only the swordsman who best suits it!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            435,
+            544,
+            627,
+            724
+        ],
+        "text": "The Blacksmith, Shimotsuki Kozaburo?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            806,
+            21,
+            957,
+            112
+        ],
+        "text": "So it could test me!!!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            802,
+            446,
+            990,
+            532
+        ],
+        "text": "It came to me. It chose me...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            807,
+            604,
+            871,
+            723
+        ],
+        "text": "A sword chooses its wielder.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            63,
+            69,
+            162,
+            220
+        ],
+        "text": "PLEASE,\nSAVE US!! OUR\nLIVES ARE IN\nDANGER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            262,
+            145,
+            348
+        ],
+        "text": "SOME-\nONE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            388,
+            174,
+            538
+        ],
+        "text": "AN OPENING IS THE\nPATH TO VICTORY IN A\nFIGHT TO THE DEATH!!\nI STRIKE ONLY WHEN\nOPPORTUNITY\nPRESENTS ITSELF!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            568,
+            194,
+            701
+        ],
+        "text": "WHAT'S THE BIG\nIDEA?!! DON'T\nGO STRIKING\nAT ME WHEN\nMY GUARD'S\nDOWN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            27,
+            381,
+            100
+        ],
+        "text": "A WOMAN\nAND\nCHILD?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            78,
+            546,
+            207
+        ],
+        "text": "SIR\nSWORDSMEN,\nPLEASE\nSAVE US!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            7,
+            754,
+            152
+        ],
+        "text": "IS THIS\nSERIOUS, OR\nA JOKE?!\nMAKE UP\nYOUR MIND!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            584,
+            512,
+            708
+        ],
+        "text": "AHA HA HA\nHA HA HA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            584,
+            595,
+            708,
+            698
+        ],
+        "text": "HEY! IT'S\nA SAMURAI!!\nHEY, HELP\nUS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1095,
+            9,
+            1122,
+            78
+        ],
+        "text": "HMM?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            994,
+            289,
+            1117,
+            377
+        ],
+        "text": "I GUESS\nTHAT\nRULES\nOUT A\nJOKE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            402,
+            1093,
+            540
+        ],
+        "text": "DRIP\nDRIP...\nBLOOD...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

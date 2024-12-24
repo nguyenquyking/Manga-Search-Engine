@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            639,
+            312,
+            661,
+            370
+        ],
+        "text": "FWMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            715,
+            14,
+            735,
+            132
+        ],
+        "text": "EXCELLENT!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            674,
+            510,
+            814,
+            617
+        ],
+        "text": "SHNK\nGET\nOFFA\nTHEM.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            688,
+            799,
+            772
+        ],
+        "text": "JIN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            28,
+            1018,
+            156
+        ],
+        "text": "MORE\nDOUBLES\nAT ONCE,\nTWICE!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1174,
+            6,
+            1285,
+            161
+        ],
+        "text": "MEANWHILE\nWE'LL MAKE\nOUR GETAWAY\nDOWN BELOW,\nDEAR TOGA.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1180,
+            255,
+            1312,
+            441
+        ],
+        "text": "TMP\nTMP\nTMP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            991,
+            565,
+            1134,
+            634
+        ],
+        "text": "SHNK\nGET\nOFF.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1147,
+            489,
+            1190,
+            534
+        ],
+        "text": "GET\nOFF.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1243,
+            578,
+            1257,
+            633
+        ],
+        "text": "SHNK",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1164,
+            793,
+            1267,
+            886
+        ],
+        "text": "I DO\nBELIEVE\nWE'VE\nWON!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            121,
+            412,
+            233,
+            584
+        ],
+        "text": "Yes, we're witnessing history repeat itself in Jaku City today!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            120,
+            794,
+            163,
+            857
+        ],
+        "text": "Hosu City.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            387,
+            679,
+            430,
+            759
+        ],
+        "text": "Kamino Ward.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            646,
+            451,
+            712,
+            545
+        ],
+        "text": "What is going on...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            908,
+            761,
+            997,
+            884
+        ],
+        "text": "The large-scale terrorist attacks...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1123,
+            687,
+            1210,
+            847
+        ],
+        "text": "...that began last year don't seem to be letting up!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1171,
+            76,
+            1219,
+            233
+        ],
+        "text": "...in Japan right now?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

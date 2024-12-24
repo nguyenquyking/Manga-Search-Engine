@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            33,
+            1482,
+            122,
+            1819
+        ],
+        "text": "GREIISH",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            1421,
+            180,
+            1817
+        ],
+        "text": "VIANTART | GRECIIAGZZ",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            238,
+            1874,
+            296,
+            2030
+        ],
+        "text": "CPO?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            582,
+            1894,
+            608,
+            2123
+        ],
+        "text": "MOMO?! FATHER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1562,
+            299,
+            1583,
+            446
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1539,
+            1317,
+            1389,
+            1643
+        ],
+        "text": "GREIISH",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

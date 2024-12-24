@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            106,
+            94,
+            168,
+            220
+        ],
+        "text": "...THEN LET'S FACE DEATH TOGETHER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            109,
+            597,
+            196,
+            705
+        ],
+        "text": "IF YOU'RE GOING TO LET IT GO TO WASTE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            101,
+            271,
+            168,
+            367
+        ],
+        "text": "RAAAA\nKABOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            416,
+            517,
+            438,
+            582
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            458,
+            463,
+            479,
+            541
+        ],
+        "text": "KACHING!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            870,
+            498,
+            871,
+            606
+        ],
+        "text": "BADOOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            851,
+            649,
+            886,
+            699
+        ],
+        "text": "000",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1045,
+            81,
+            1068,
+            137
+        ],
+        "text": "RAAAAH...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

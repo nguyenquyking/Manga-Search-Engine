@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            18,
+            199,
+            29,
+            239
+        ],
+        "text": "BEEP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            75,
+            64,
+            138,
+            154
+        ],
+        "text": "Skeptic? What is it?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            507,
+            193,
+            588
+        ],
+        "text": "My, my... RRRRRING",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            333,
+            595,
+            504,
+            713
+        ],
+        "text": "Re-Destro!! Be on guard! He's headed right for you!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            95,
+            787,
+            227
+        ],
+        "text": "They had a real monster lying in wait!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            877,
+            168,
+            1001,
+            297
+        ],
+        "text": "Drag\u2026 Drag\u2026",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            924,
+            339,
+            1031,
+            436
+        ],
+        "text": "They didn't play all of their cards!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            946,
+            649,
+            990,
+            757
+        ],
+        "text": "Re-Destro!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            79,
+            508,
+            308,
+            678
+        ],
+        "text": "AND YOU SHALL KNOW THE BRILLIANCE OF THE DAWN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            97,
+            820,
+            285,
+            1051
+        ],
+        "text": "AND CAST NINE SHADOWS ON THE NIGHT WOVEN OF 20 YEARS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            112,
+            1134,
+            228,
+            1334
+        ],
+        "text": "\"MAY YOUR PURPOSE BE FULFILLED\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            470,
+            264,
+            721,
+            362
+        ],
+        "text": "KYAA LADY TOKI!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1034,
+            100,
+            1261,
+            315
+        ],
+        "text": "IT IS NOT!! DID I ASK YOU TO DRAW ME A ROOM TEMPERATURE BATH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            368,
+            1062,
+            557
+        ],
+        "text": "IT IS HEATED, MY LORD...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            952,
+            1023,
+            1101,
+            1288
+        ],
+        "text": "I TOLD YOU TO BOIL THIS WATER!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1445,
+            191,
+            1527,
+            437
+        ],
+        "text": "I CAN'T STOP SHIVERING!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1436,
+            509,
+            1566,
+            645
+        ],
+        "text": "SHUT UP! I'M COLD!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1416,
+            711,
+            1566,
+            845
+        ],
+        "text": "YOU WILL BURN YOUR SKIN!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1406,
+            918,
+            1570,
+            1078
+        ],
+        "text": "IT'S SCALDING, SHOGUN OROCHI!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1416,
+            1193,
+            1520,
+            1323
+        ],
+        "text": "OUCH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1846,
+            125,
+            2047,
+            413
+        ],
+        "text": "BRING ME THE BONES OF THE KOZUKI SAMURAI!! WHY CAN'T YOU FIND THEM?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1859,
+            470,
+            1890,
+            557
+        ],
+        "text": "RATTLE",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

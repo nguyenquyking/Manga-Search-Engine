@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            69,
+            319,
+            108,
+            419
+        ],
+        "text": "I give my thanks...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            254,
+            475,
+            297,
+            544
+        ],
+        "text": "Right now...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            201,
+            445,
+            307
+        ],
+        "text": "...to everyone present.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            550,
+            490,
+            656,
+            715
+        ],
+        "text": "Everything I've ever had or been...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            954,
+            206,
+            1012,
+            309
+        ],
+        "text": "At last...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

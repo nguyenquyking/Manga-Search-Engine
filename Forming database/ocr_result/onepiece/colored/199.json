@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            111,
+            83,
+            152,
+            200
+        ],
+        "text": "...Split the Heavens!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            743,
+            120,
+            803
+        ],
+        "text": "They would also...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            548,
+            110,
+            585,
+            198
+        ],
+        "text": "WAHH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            533,
+            639,
+            608,
+            765
+        ],
+        "text": "Whoa! What was that tremor?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            640,
+            60,
+            722,
+            171
+        ],
+        "text": "What the hell's going on up there?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

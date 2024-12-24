@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            86,
+            879,
+            1311,
+            923
+        ],
+        "text": "\u795d!!1000\u8a71\u3063!!\u30b9\u30b4\u3044\u3063!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            114,
+            727,
+            291,
+            761
+        ],
+        "text": "\u51fa\u73fe!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            110,
+            774,
+            299,
+            830
+        ],
+        "text": "48",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            548,
+            130,
+            711,
+            168
+        ],
+        "text": "\u3057\u3088\u3046!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            821,
+            691,
+            1064,
+            739
+        ],
+        "text": "\u6295\u964d\u3060\u3041!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

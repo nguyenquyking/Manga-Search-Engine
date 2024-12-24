@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            21,
+            58,
+            159,
+            222
+        ],
+        "text": "OSOME!! So that hussy's on her feet again?! How dare she turn down my patronage all those dozens of times...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            36,
+            385,
+            133,
+            494
+        ],
+        "text": "We don't know when they'll start fighting again...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            40,
+            651,
+            114,
+            725
+        ],
+        "text": "Hurry! Over here!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            247,
+            52,
+            343,
+            116
+        ],
+        "text": "She even did it earlier today!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            440,
+            73,
+            535,
+            184
+        ],
+        "text": "...Which made it very suspicious that you were walking around just fine!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            325,
+            488,
+            344
+        ],
+        "text": "CREAK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            574,
+            524,
+            614,
+            561
+        ],
+        "text": "CHU! CHU!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            425,
+            617,
+            515,
+            739
+        ],
+        "text": "With dear Komurasaki gone, you're my number-one girl, Osome!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            628,
+            661,
+            736
+        ],
+        "text": "They said you were off work due to a headache this morning...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            683,
+            199,
+            708,
+            217
+        ],
+        "text": "CREAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            836,
+            150,
+            875,
+            262
+        ],
+        "text": "Huff! Ffh!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            882,
+            51,
+            897,
+            88
+        ],
+        "text": "Huff!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1035,
+            200,
+            1103,
+            255
+        ],
+        "text": "What did I gain?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1021,
+            303,
+            1110,
+            394
+        ],
+        "text": "We'll see how you like another one!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            429,
+            1102,
+            529
+        ],
+        "text": "Was my divine punishment earlier not enough?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            470,
+            828,
+            540
+        ],
+        "text": "VWOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            812,
+            595,
+            839,
+            674
+        ],
+        "text": "CREAK...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

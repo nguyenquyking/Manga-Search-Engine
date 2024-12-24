@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            148,
+            44,
+            168,
+            152
+        ],
+        "text": "Midoriya.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            365,
+            197,
+            482
+        ],
+        "text": "\"You cannot become a hero with that power of yours.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            91,
+            819,
+            135,
+            918
+        ],
+        "text": "\"Izuku Midoriya.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            19,
+            685,
+            199
+        ],
+        "text": "A.P. MACHINE-GUN!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            613,
+            747,
+            735,
+            824
+        ],
+        "text": "FWAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            973,
+            762,
+            1030,
+            888
+        ],
+        "text": "Let's do this thing rationally!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1272,
+            75,
+            1376,
+            212
+        ],
+        "text": "Cute fireworks show, there.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1356,
+            817,
+            1376,
+            894
+        ],
+        "text": "BWOOF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            174,
+            224,
+            200,
+            255
+        ],
+        "text": "BRR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            493,
+            103,
+            569,
+            196
+        ],
+        "text": "Hang on. How long ago was that?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            237,
+            674,
+            328
+        ],
+        "text": "This is like the shivers I got that other time.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            642,
+            23,
+            739,
+            151
+        ],
+        "text": "I'm pretty sure I'd just become Megicula's host...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            30,
+            986,
+            157
+        ],
+        "text": "So I sneaked out of the Spade Kingdom and went over to have some",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            867,
+            301,
+            1043,
+            472
+        ],
+        "text": "There was this woman who was rumored to be the strongest anywhere. I heard she'd gone somewhere secluded to rest.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            866,
+            609,
+            986,
+            735
+        ],
+        "text": "I wanted to try out the devil's power and go completely wild.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

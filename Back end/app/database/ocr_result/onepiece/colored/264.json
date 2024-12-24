@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            235,
+            692,
+            341,
+            815
+        ],
+        "text": "DON'T GET DISTRACTED,\nYOU BLACK MUMMY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            304,
+            232,
+            351,
+            317
+        ],
+        "text": "CLICK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            518,
+            501,
+            594,
+            582
+        ],
+        "text": "THAT\nBLADE\n...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            65,
+            634,
+            116
+        ],
+        "text": "SHING",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

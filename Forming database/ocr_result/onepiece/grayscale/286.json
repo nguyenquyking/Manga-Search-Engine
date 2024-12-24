@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            137,
+            68,
+            215,
+            152
+        ],
+        "text": "He's the Straw Hats' greatest flirt!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            122,
+            234,
+            219,
+            303
+        ],
+        "text": "An impressive introductory speech.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            605,
+            235,
+            723
+        ],
+        "text": "...He drifted with the tides to be raised in the East! On his shoulders rests the title of Chef!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            353,
+            581,
+            437,
+            739
+        ],
+        "text": "\"Black Leg\" Sanji! (whispers)",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            57,
+            767,
+            177
+        ],
+        "text": "You don't stand a chance with either flavor or fist!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            312,
+            787,
+            642
+        ],
+        "text": "WANTED\nDEAD OR ALIVE\nVINSMOKE SANJI\n330,000,000\nMARINE",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            870,
+            644,
+            1062,
+            714
+        ],
+        "text": "Turn tail and run while you still can!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            412,
+            1001,
+            575
+        ],
+        "text": "A bounty of 330 million?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

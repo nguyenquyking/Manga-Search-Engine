@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            113,
+            639,
+            203,
+            766
+        ],
+        "text": "TO\nGET ONE\nFOR ALL.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            951,
+            57,
+            1313,
+            404
+        ],
+        "text": "ONE...\n...FOR...\n...ALL?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

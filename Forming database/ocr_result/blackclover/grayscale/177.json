@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            160,
+            37,
+            484,
+            259
+        ],
+        "text": "The instinct I developed over long years of traveling in disguise is telling me your magic is probably quite unique.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            252,
+            814,
+            435,
+            959
+        ],
+        "text": "What kind of magic do you have?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            689,
+            112,
+            785,
+            182
+        ],
+        "text": "The Wizard King's the same as always.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            205,
+            776,
+            285
+        ],
+        "text": "Yes, the same old Wizard King.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            311,
+            790,
+            384
+        ],
+        "text": "He's the same old Wizard King, isn't he?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            436,
+            832,
+            532
+        ],
+        "text": "We've gotta go help the other guys out too.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            625,
+            860,
+            817,
+            948
+        ],
+        "text": "Okay, okay, that's enough, Julius. Let's move on, all right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1272,
+            100,
+            1361,
+            221
+        ],
+        "text": "According to my predictions...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1160,
+            263,
+            1296,
+            381
+        ],
+        "text": "Problems two and three are very closely related.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1152,
+            858,
+            1225,
+            943
+        ],
+        "text": "Sorry about that.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1256,
+            874,
+            1265,
+            956
+        ],
+        "text": "Ha ha ha!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

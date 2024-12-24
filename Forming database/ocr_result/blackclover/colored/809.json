@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            483,
+            1020,
+            501,
+            1157
+        ],
+        "text": "FUOH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            959,
+            84,
+            976,
+            586
+        ],
+        "text": "TWITTER: SHIURYY  COLORCLOVERS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            978,
+            1096,
+            1012,
+            1258
+        ],
+        "text": "GRIEVE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1803,
+            106,
+            1820,
+            265
+        ],
+        "text": "FUOOOH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

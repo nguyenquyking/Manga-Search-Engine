@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            31,
+            665,
+            190,
+            794
+        ],
+        "text": "I guess that of the acts of organized crime that have been on the rise lately, the lion's share... seem to be traceable back to the Eightfold Cleansers if you think about them in that light.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            93,
+            332,
+            146,
+            447
+        ],
+        "text": "The connection's still a little hazy,",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            147,
+            54,
+            220,
+            211
+        ],
+        "text": "I wonder if there's anything more conclusive to clinch the",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            145,
+            224,
+            268,
+            340
+        ],
+        "text": "It can maybe be construed that we're twisting things to make the cleansers the culprits at any cost.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            425,
+            707,
+            485,
+            832
+        ],
+        "text": "The quirk of the capo, Chisaki...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            618,
+            61,
+            747,
+            272
+        ],
+        "text": "It's a power that can disassemble and reassemble any target.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            617,
+            685,
+            658,
+            814
+        ],
+        "text": "is named \"Overhaul.\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            943,
+            650,
+            1035,
+            841
+        ],
+        "text": "A quirk that can dismantle... to destroy and repair at once.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1080,
+            521,
+            1168,
+            703
+        ],
+        "text": "That, along with the bullets that can destroy quirks,",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

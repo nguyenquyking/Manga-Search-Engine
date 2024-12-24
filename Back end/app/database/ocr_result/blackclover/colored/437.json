@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            62,
+            400,
+            129,
+            669
+        ],
+        "text": "YESSIR...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            1077,
+            307,
+            1266
+        ],
+        "text": "STAY RIGHT ON MY TAIL...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            133,
+            946,
+            385
+        ],
+        "text": "...CAPTAIN YAMI.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            877,
+            747,
+            921,
+            933
+        ],
+        "text": "...ASTA.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1158,
+            231,
+            1417,
+            312
+        ],
+        "text": "PHOO",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

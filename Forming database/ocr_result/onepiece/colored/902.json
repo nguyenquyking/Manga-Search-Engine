@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            82,
+            25,
+            224,
+            173
+        ],
+        "text": "...Doesn't mean that I've sunk to the level of being Germa!!! I'm only testing",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            608,
+            219,
+            693
+        ],
+        "text": "Putting this stupid thing on...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            348,
+            112,
+            354,
+            224
+        ],
+        "text": "Gerrr-r-maaa",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            368,
+            384,
+            379,
+            418
+        ],
+        "text": "Fwapp!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            336,
+            622,
+            421,
+            688
+        ],
+        "text": "Huh?! What's going on?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            424,
+            488,
+            428,
+            557
+        ],
+        "text": "Bshooom!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            552,
+            363,
+            621,
+            461
+        ],
+        "text": "Hey, I don't think you should strip in public!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            399,
+            985,
+            515
+        ],
+        "text": "Whoa, whoa, whoa what is this?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            244,
+            1112,
+            317
+        ],
+        "text": "A Transformation?!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

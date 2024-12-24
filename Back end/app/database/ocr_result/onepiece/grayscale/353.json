@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            46,
+            78,
+            122,
+            186
+        ],
+        "text": "I'M GIVING 'EM TO YOU. TRUST ME, THEY'RE CRAP.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            33,
+            214,
+            119,
+            331
+        ],
+        "text": "WHAT?! BUT I CAN'T PAY FOR THESE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            372,
+            115,
+            471
+        ],
+        "text": "I NEED MORE PRACTICE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            43,
+            501,
+            112,
+            585
+        ],
+        "text": "I LOST TO KUINA AGAIN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            641,
+            117,
+            714
+        ],
+        "text": "IS THE DOJO BORING TO YOU?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            41,
+            451,
+            147
+        ],
+        "text": "YIKES...!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            420,
+            192,
+            564,
+            350
+        ],
+        "text": "AND A BLACKSMITH HONES HIS CRAFT SO THAT HIS WEAPONS ARE BETTER AT KILLING THAN ANY OTHER!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            425,
+            406,
+            542,
+            565
+        ],
+        "text": "LISTEN CLOSELY. A SWORD'S LIKE A KITCHEN KNIFE, BUT FOR MURDER!! THEY'RE CREATED TO KILL PEOPLE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            403,
+            608,
+            500,
+            729
+        ],
+        "text": "IT'S THE ONLY THING I SEEM TO BE ABLE TO FORGE ANYMORE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            621,
+            854,
+            721
+        ],
+        "text": "USE 'EM FOR PRACTICE IF YOU WANT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            69,
+            1074,
+            196
+        ],
+        "text": "A SWORDSMAN MUST MASTER IT, AND BEND IT TO HIS WILL!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            965,
+            611,
+            1053,
+            721
+        ],
+        "text": "A SWORD HAS ITS OWN PERSONALITY...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

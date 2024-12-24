@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            70,
+            606,
+            147,
+            691
+        ],
+        "text": "BIG MOM'S FORCES,\nFLUFFY ISLAND",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            626,
+            320,
+            668,
+            433
+        ],
+        "text": "\u3070",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            620,
+            465,
+            686,
+            717
+        ],
+        "text": "\u3070\u304f",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1090,
+            313,
+            1110,
+            380
+        ],
+        "text": "SKREE SKREE",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

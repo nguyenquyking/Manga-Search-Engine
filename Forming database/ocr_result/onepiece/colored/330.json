@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            217,
+            732,
+            338,
+            888
+        ],
+        "text": "SHOT!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            487,
+            54,
+            562,
+            146
+        ],
+        "text": "URGH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            448,
+            947,
+            572
+        ],
+        "text": "...Really throw me off...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            620,
+            974,
+            725
+        ],
+        "text": "ANTI-BACTERIAL\nCURTAIN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            819,
+            783,
+            891,
+            891
+        ],
+        "text": "HAKK!!\nOOOH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1281,
+            396,
+            1339,
+            534
+        ],
+        "text": "TRAFALGAR!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1257,
+            710,
+            1344,
+            846
+        ],
+        "text": "THOSE\nPOWERS OF\nYOURS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

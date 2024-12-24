@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            43,
+            89,
+            90,
+            147
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            38,
+            302,
+            117,
+            392
+        ],
+        "text": "How long does the power hold...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            627,
+            130,
+            739
+        ],
+        "text": "So, awakening for the Magnet-Magnet Fruit...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            60,
+            242,
+            163
+        ],
+        "text": "Why should I tell you all of my secrets, huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            608,
+            249,
+            740
+        ],
+        "text": "...allows you to assign magnetic qualities to something?! Huff, huff...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            348,
+            326,
+            369,
+            378
+        ],
+        "text": "GANK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            640,
+            154,
+            645,
+            193
+        ],
+        "text": "Krunch!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            646,
+            329,
+            704,
+            417
+        ],
+        "text": "AAAH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            688,
+            699,
+            709,
+            746
+        ],
+        "text": "Huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            55,
+            909,
+            229
+        ],
+        "text": "AAAH!! She's getting up again!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            332,
+            891,
+            722
+        ],
+        "text": "Clang! Gank!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

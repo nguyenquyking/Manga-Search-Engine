@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            338,
+            115,
+            444,
+            244
+        ],
+        "text": "LET'S GO AT IT AT FULL POWER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            599,
+            82,
+            645,
+            190
+        ],
+        "text": "MIDORIYA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

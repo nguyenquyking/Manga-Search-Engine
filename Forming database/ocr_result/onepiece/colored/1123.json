@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            70,
+            29,
+            151,
+            146
+        ],
+        "text": "BUT IT IS SUCH\nA DIFFICULT\nTHING TO\nBELIEVE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            172,
+            128,
+            276
+        ],
+        "text": "YES, IT IS\nTRUE...\nFORGIVE ME!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            307,
+            165,
+            415
+        ],
+        "text": "JUST TELL\nUS ALREADY!\nYOU CAN\nTRUST US!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            616,
+            172,
+            697
+        ],
+        "text": "WHAT'S\nWITH YOU\nGUYS AND\nALL THE\nSECRETS?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            189,
+            19,
+            220,
+            53
+        ],
+        "text": "?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            326,
+            95,
+            357,
+            190
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            351,
+            223,
+            462,
+            333
+        ],
+        "text": "...ARE\nIN FACT\nPEOPLE WHO\nBELONG TO\nTHE PAST!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            338,
+            542,
+            493,
+            697
+        ],
+        "text": "FIVE OF US IN\nTOTAL\u2014WE THREE\nSITTING HERE,\nAND KANJURO\nAND RAIZO, WHOM\nYOU KNOW AS WELL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            22,
+            799,
+            214
+        ],
+        "text": "...TO ARRIVE\nHERE FROM\nTHE WANO OF\n20 YEARS\nAGO!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            620,
+            541,
+            810,
+            692
+        ],
+        "text": "AS A\nMATTER OF\nFACT, WE\nCROSSED\nTHROUGH\nTIME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            35,
+            1117,
+            140
+        ],
+        "text": "HUH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

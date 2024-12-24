@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            673,
+            109,
+            944,
+            308
+        ],
+        "text": "...who's fought with a ton of insanely tough warriors",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            691,
+            878,
+            927,
+            1021
+        ],
+        "text": "It's a guy who can't use magic...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1112,
+            113,
+            1224,
+            257
+        ],
+        "text": "I kept cursing them, all this time",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1113,
+            315,
+            1224,
+            454
+        ],
+        "text": "There's no way I can lose this!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1444,
+            121,
+            1524,
+            259
+        ],
+        "text": "All on my own!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1483,
+            340,
+            1507,
+            400
+        ],
+        "text": "I did!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1392,
+            469,
+            1427,
+            546
+        ],
+        "text": "Ghk...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

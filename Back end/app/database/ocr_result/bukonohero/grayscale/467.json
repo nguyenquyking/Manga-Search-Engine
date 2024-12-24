@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            30,
+            515,
+            153,
+            700
+        ],
+        "text": "We're here to step in when you can't handle it all alone.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            279,
+            28,
+            349,
+            131
+        ],
+        "text": "...Feels like an impossible journey.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            291,
+            320,
+            345,
+            382
+        ],
+        "text": "That single step...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            485,
+            9,
+            659,
+            174
+        ],
+        "text": "One who surpasses even Yagi. Yes, even All Might himself.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            471,
+            366,
+            586,
+            511
+        ],
+        "text": "...The ultimate hero will rise up.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            553,
+            602,
+            586,
+            686
+        ],
+        "text": "And I believe...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            858,
+            597,
+            985,
+            694
+        ],
+        "text": "...Once someone takes that unlikely step and carves a path...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1118,
+            59,
+            1135,
+            233
+        ],
+        "text": "To be continued!",
+        "panel_id": "5",
+        "type": "caption"
+    }
+]

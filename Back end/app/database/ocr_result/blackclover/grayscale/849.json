@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            295,
+            83,
+            804,
+            282
+        ],
+        "text": "A CHAIN?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            140,
+            859,
+            166
+        ],
+        "text": "CLANK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1021,
+            68,
+            1060,
+            139
+        ],
+        "text": "WHAT'S THIS?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

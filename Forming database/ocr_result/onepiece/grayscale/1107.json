@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            148,
+            862,
+            284,
+            1033
+        ],
+        "text": "DIDN'T LAUGH AT ME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1089,
+            692,
+            1132,
+            784
+        ],
+        "text": "AND YET...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

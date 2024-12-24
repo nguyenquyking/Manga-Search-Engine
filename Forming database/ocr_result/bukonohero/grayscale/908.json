@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            41,
+            317,
+            91,
+            373
+        ],
+        "text": "WATCH OUT! CAREFUL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            411,
+            101,
+            479
+        ],
+        "text": "KENTAAA!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            95,
+            216,
+            121,
+            241
+        ],
+        "text": "W- WHY?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            635,
+            144,
+            701
+        ],
+        "text": "I NEED SOME HELP, QUICK!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            255,
+            583,
+            277,
+            610
+        ],
+        "text": "THE PAIN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            690,
+            330,
+            760
+        ],
+        "text": "MOMMY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

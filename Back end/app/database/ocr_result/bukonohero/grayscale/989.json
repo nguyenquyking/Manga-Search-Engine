@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            851,
+            104,
+            990,
+            361
+        ],
+        "text": "AS OF TODAY,\nBEST JEANIST\nIS BACK ON\nDUTY!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            896,
+            515,
+            968,
+            659
+        ],
+        "text": "APOLOGIES\nFOR THE\nDELAY!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            916,
+            1499,
+            989,
+            1554
+        ],
+        "text": "WIRES\nFROM\nTHE\nSKY?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1118,
+            83,
+            1132,
+            330
+        ],
+        "text": "Next chapter hits Nov 29!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

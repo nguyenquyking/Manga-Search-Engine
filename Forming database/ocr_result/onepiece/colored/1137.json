@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            55,
+            26,
+            84,
+            110
+        ],
+        "text": "An apple!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            159,
+            133,
+            239
+        ],
+        "text": "This is a rebellion against Wano.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            358,
+            133,
+            466
+        ],
+        "text": "Straw Hat, let me be clear...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            507,
+            150,
+            587
+        ],
+        "text": "Wow, it's been so long, huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            606,
+            126,
+            703
+        ],
+        "text": "Huh?! Traffy!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            26,
+            459,
+            110
+        ],
+        "text": "Where are the fire-fighters?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            136,
+            441,
+            228
+        ],
+        "text": "The fire is spreading!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            386,
+            323,
+            465,
+            460
+        ],
+        "text": "Hey!! Make sure I get some of that meat too, you guys!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            515,
+            462,
+            582
+        ],
+        "text": "...For feeding me!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            611,
+            462,
+            696
+        ],
+        "text": "This is me repaying the favor to Tama...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            567,
+            513,
+            606,
+            594
+        ],
+        "text": "At least, the start of it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            765,
+            36,
+            778,
+            63
+        ],
+        "text": "...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            732,
+            115,
+            790,
+            194
+        ],
+        "text": "...Even I have no recourse",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            237,
+            822,
+            326
+        ],
+        "text": "...But with three of such difficulty at once...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            726,
+            368,
+            825,
+            432
+        ],
+        "text": "Yes. It doesn't reflect well upon me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            768,
+            494,
+            859,
+            572
+        ],
+        "text": "Aaah! The lion's still conscious for some reason!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            715,
+            610,
+            806,
+            697
+        ],
+        "text": "Hang in there, Master Holdem!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            897,
+            483,
+            954,
+            554
+        ],
+        "text": "GRRRR!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

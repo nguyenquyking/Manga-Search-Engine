@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            97,
+            683,
+            215,
+            829
+        ],
+        "text": "The person I put my trust in was a pitiful villain... and so was I...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            317,
+            544,
+            403,
+            614
+        ],
+        "text": "I will atone for my sins...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            420,
+            504,
+            535
+        ],
+        "text": "This will be the first step toward that goal...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            793,
+            544,
+            852
+        ],
+        "text": "You\u2014You're way too close, stupid Asta!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            37,
+            880,
+            146
+        ],
+        "text": "Shut up! I'll do things my own way!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            184,
+            804,
+            295
+        ],
+        "text": "Wait, it's not like you did anything, anyway!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            320,
+            878,
+            434
+        ],
+        "text": "Don't get any funny ideas...!! I never did anything wrong, not even for a second...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            800,
+            780,
+            852
+        ],
+        "text": "...You guys...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            46,
+            1121,
+            88
+        ],
+        "text": "Huh...!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            235,
+            1118,
+            356
+        ],
+        "text": "That I must take care of.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            999,
+            466,
+            1067,
+            597
+        ],
+        "text": "There are still some things...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

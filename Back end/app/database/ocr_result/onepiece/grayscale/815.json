@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            62,
+            55,
+            114,
+            149
+        ],
+        "text": "GWAaaah!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            80,
+            397,
+            146,
+            536
+        ],
+        "text": "PHOENIX BRAND!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            580,
+            131,
+            733
+        ],
+        "text": "LOOK OUT!\nHERE COMES\nMASTER QUEEN'S\nBEAM ATTACK!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            427,
+            513,
+            472,
+            560
+        ],
+        "text": "HMM?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            593,
+            193,
+            606,
+            241
+        ],
+        "text": "BAM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            696,
+            56,
+            799,
+            163
+        ],
+        "text": "YOU WERE\nSUPPOSED\nTO BE\nFIGHTING ME,\nREMEMBER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            405,
+            807,
+            534
+        ],
+        "text": "HEY, THAT HURT!\nWHAT WAS THAT,\nA SHOCK WAVE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            635,
+            808,
+            726
+        ],
+        "text": "GRFK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            861,
+            375,
+            877,
+            456
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            993,
+            65,
+            1065,
+            149
+        ],
+        "text": "...UNTIL\nYOU'VE\nFINISHED",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            439,
+            1088,
+            550
+        ],
+        "text": "YOU DON'T\nEVEN GET\nTO THINK\nABOUT THOSE\nSAMURAI...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            595,
+            965,
+            717
+        ],
+        "text": "MARCO!!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

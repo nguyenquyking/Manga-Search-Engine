@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            538,
+            49,
+            648,
+            306
+        ],
+        "text": "EARPHONE JACK! TENTACOLE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            892,
+            25,
+            960,
+            140
+        ],
+        "text": "He's already in Eyeshot!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            924,
+            190,
+            988,
+            346
+        ],
+        "text": "Everyone, prepare for action!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            725,
+            1005,
+            889
+        ],
+        "text": "Give me his distance and ETA based on sound!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1292,
+            18,
+            1376,
+            174
+        ],
+        "text": "Geez, he's fast. He'll be here in under ten seconds...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1270,
+            349,
+            1356,
+            480
+        ],
+        "text": "Mudman! We need your power as well!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1233,
+            539,
+            1329,
+            719
+        ],
+        "text": "Plus, the giant's height! An estimate will do!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

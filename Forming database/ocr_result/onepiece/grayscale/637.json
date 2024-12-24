@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            37,
+            69,
+            116,
+            154
+        ],
+        "text": "WAAAAH!! We were so high up!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            417,
+            49,
+            462
+        ],
+        "text": "HUFF!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            33,
+            674,
+            105,
+            739
+        ],
+        "text": "HANG IN THERE, STRAW HAT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            698,
+            257,
+            752
+        ],
+        "text": "DON'T DIE ON US!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            54,
+            306,
+            197
+        ],
+        "text": "Kin'emon!! Kikuu!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            278,
+            323,
+            296,
+            367
+        ],
+        "text": "HUFF...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            437,
+            76,
+            514,
+            230
+        ],
+        "text": "...BEAT KAIDO!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            600,
+            508,
+            736
+        ],
+        "text": "YOU GOTTA HELP US...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            44,
+            790,
+            112
+        ],
+        "text": "HRRRGG...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            802,
+            267,
+            944,
+            379
+        ],
+        "text": "SOMEONE POUND THAT LITTLE KID FLAT, WHAT-EVER SHE'S TALKING ABOUT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            448,
+            854,
+            569
+        ],
+        "text": "UM... BRISCOLA?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            803,
+            621,
+            893,
+            723
+        ],
+        "text": "THERE WE GO!! SHE'S GIVEN THE ORDER!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            74,
+            1104,
+            203
+        ],
+        "text": "BRISCOLA, WHAT ARE YOU DOING?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1055,
+            446,
+            1101,
+            560
+        ],
+        "text": "WHAT'S THE MATTER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

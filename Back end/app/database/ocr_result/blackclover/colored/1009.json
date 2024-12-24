@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            101,
+            455,
+            153,
+            517
+        ],
+        "text": "RGH...!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            217,
+            570,
+            320,
+            764
+        ],
+        "text": "...ALREADY\nA DEVIL?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            64,
+            283,
+            111
+        ],
+        "text": "AAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            711,
+            622,
+            695,
+            682
+        ],
+        "text": "SHREE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

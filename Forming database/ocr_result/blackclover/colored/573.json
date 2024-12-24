@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            444,
+            20,
+            404,
+            109
+        ],
+        "text": "FLAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1497,
+            73,
+            1530,
+            199
+        ],
+        "text": "ASTA...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1532,
+            329,
+            1671,
+            459
+        ],
+        "text": "...YOUR SWORDS ARE REAL EASY TO PICK UP!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1629,
+            724,
+            1743,
+            863
+        ],
+        "text": "IF I FOCUS AND READ YOUR KI...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1493,
+            878,
+            1553,
+            954
+        ],
+        "text": "HEH HEH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

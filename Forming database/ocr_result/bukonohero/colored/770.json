@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            72,
+            100,
+            162,
+            217
+        ],
+        "text": "It's all thanks to Hawks and his little investigation.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            407,
+            95,
+            472
+        ],
+        "text": "What am I, a taxi?",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            73,
+            604,
+            177,
+            721
+        ],
+        "text": "How did we acquire such detailed intel?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            61,
+            526,
+            159
+        ],
+        "text": "I dunno much about it, but...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            470,
+            574,
+            494,
+            686
+        ],
+        "text": "Hawks?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            667,
+            77,
+            733,
+            214
+        ],
+        "text": "It's fine to cover for your close-combat weakness, but...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            690,
+            619,
+            761,
+            720
+        ],
+        "text": "...Odds are, he's somewhere here.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            381,
+            770,
+            456
+        ],
+        "text": "WAHHHH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            951,
+            285,
+            1056,
+            402
+        ],
+        "text": "Not that I'm much for training the next generation or whatever.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            30,
+            1063,
+            126
+        ],
+        "text": "...Don't forget to improve on your real talents.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

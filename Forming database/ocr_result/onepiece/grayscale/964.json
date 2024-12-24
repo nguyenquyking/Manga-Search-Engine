@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            20,
+            20,
+            51,
+            322
+        ],
+        "text": "1000 chapters!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            17,
+            172,
+            1068
+        ],
+        "text": "Well, too many events have happened over the past 23 years. I spent half my life on weekly serialization. lol",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            255,
+            16,
+            585,
+            1076
+        ],
+        "text": "Luffy has taken voyages to many islands and had many adventures. I don't know how many people he's met! On the other hand, I have met many people and have been supported by countless numbers of people, including my family. I can't give my thanks enough to those people.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            665,
+            16,
+            1003,
+            1073
+        ],
+        "text": "\"Audiences leave after 5 years.\" This is my theory of long-term entertainment because audiences have busy daily lives. Therefore, I've kept in mind not to call my audience \"fans.\" I've been telling myself, \"Don't be arrogant,\" considering they will stop reading One Piece someday.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1076,
+            17,
+            1236,
+            1067
+        ],
+        "text": "To my embarrassment, I have been drawing my manga as I like, believing in my audience who kindly believe in Luffy.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1314,
+            17,
+            1648,
+            1076
+        ],
+        "text": "Luffy's adventure is nearing its final arc. I've already drawn over 1000 chapters. There will be a very exciting story thanks to those accumulated 1000 chapters! Yes, it will be!! To all ONE PIECE fans around the world, it's been a long story, but please support Luffy's adventure a little longer!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1672,
+            273,
+            1700,
+            720
+        ],
+        "text": "Eiichiro Oda January, 2021",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1662,
+            854,
+            1688,
+            1092
+        ],
+        "text": "@sandman_AP",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

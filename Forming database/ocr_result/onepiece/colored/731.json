@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            32,
+            295,
+            283,
+            334
+        ],
+        "text": "SHOOOOta\u3055\u3093",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            50,
+            693,
+            198,
+            706
+        ],
+        "text": "\u9234\u862d\u3055\u3093",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            234,
+            417,
+            374,
+            442
+        ],
+        "text": "\u82b1\u9b41\u5c0f\u7d2b\u306e\u8272\u6c17\u2661",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            390,
+            331,
+            572,
+            361
+        ],
+        "text": "\u90e8\u9577\u306e\u4ecb\u3055\u3093",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            402,
+            661,
+            618,
+            674
+        ],
+        "text": "\u5b89\u30fbD\u30fb\u5f6a\u4ecb\u3055\u3093",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            504,
+            394,
+            732,
+            405
+        ],
+        "text": "\u30ad\u30c3\u30c9!!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            748,
+            470,
+            916,
+            488
+        ],
+        "text": "\u5c71\u672c\u4eae\u3055\u3093",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            747,
+            696,
+            982,
+            716
+        ],
+        "text": "\u307e\u30fc\u304c\u308c\u3063\u3068\u30b5\u30f3",
+        "panel_id": "7",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1020,
+            73,
+            1142,
+            690
+        ],
+        "text": "\u30b8\u30a7\u30eb\u30de\u306e\u826f\u5fc3\u3002\n\u30ec\u30a4\u30b8\u30e5\u59c9\u3055\u3093\uff01\n\u30cb\u30bb\u7f72\u2015!!!\n\u77b3\u306b\u6620\u308b\n\u30eb\u30d5\u30a3\u3068\u30a8\u30fc\u30b9!!",
+        "panel_id": "8",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1152,
+            19,
+            1173,
+            55
+        ],
+        "text": "199",
+        "panel_id": "9",
+        "type": "page_number"
+    }
+]

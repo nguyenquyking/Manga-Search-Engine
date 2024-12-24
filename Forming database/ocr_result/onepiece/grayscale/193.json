@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            135,
+            799,
+            212,
+            953
+        ],
+        "text": "DAMNED\nPUNK!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            1025,
+            433,
+            1136
+        ],
+        "text": "SILENCE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            1036,
+            591,
+            1103
+        ],
+        "text": "WHAT?!\nI CAN'T\nSPEAK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            532,
+            1223,
+            611,
+            1375
+        ],
+        "text": "THIS TECHNIQUE\nEXTINGUISHES ALL\nSOUND CREATED BY\nYOUR INFLUENCE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            542,
+            1412,
+            610,
+            1514
+        ],
+        "text": "HUH?! ALL\nTHE SOUND\nVANISHED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            869,
+            1271,
+            929,
+            1353
+        ],
+        "text": "MAMAAA!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            1168,
+            1095,
+            1244
+        ],
+        "text": "BEHIND\nYOU,\nCAPTAIN!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            1433,
+            1078,
+            1503
+        ],
+        "text": "I CAN'T\nHEAR\nYOU...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            54,
+            1015,
+            119
+        ],
+        "text": "SLASH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1077,
+            1061,
+            1103,
+            1114
+        ],
+        "text": "FOLLOW-UP!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            6,
+            1290,
+            46,
+            1414
+        ],
+        "text": "SHHHH\u2026 \u3007\u3007\u3007",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

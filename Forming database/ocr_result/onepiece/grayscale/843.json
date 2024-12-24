@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            56,
+            51,
+            140,
+            161
+        ],
+        "text": "THE TRICERATOPS IS CHARGING THIS WAY!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            382,
+            107,
+            481
+        ],
+        "text": "STOP!! LET GO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            34,
+            515,
+            144,
+            614
+        ],
+        "text": "WE'RE GIFTERS!! WE HAVE SPECIAL POWERS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            635,
+            129,
+            736
+        ],
+        "text": "WE'RE NOT JUST ANY OLD SOLDIERS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            288,
+            61,
+            385,
+            172
+        ],
+        "text": "UGH, HOW ARE YOU ALL SO STRONG?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            223,
+            280,
+            218,
+            389
+        ],
+        "text": "DUN DUN DUN",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            438,
+            265,
+            455,
+            374
+        ],
+        "text": "OVER HERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            80,
+            551,
+            181
+        ],
+        "text": "USOPP!! NAMI!! OTAMA?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            221,
+            570,
+            253
+        ],
+        "text": "DADUN",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            599,
+            70,
+            695,
+            204
+        ],
+        "text": "GOOD TIMING!! HELP ME GET THESE PEOPLE OFF OF...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            597,
+            464,
+            727
+        ],
+        "text": "FRANKY!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            60,
+            879,
+            200
+        ],
+        "text": "THEY'RE BEING CHASED BY A WHOLE ARMY!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            771,
+            450,
+            827,
+            551
+        ],
+        "text": "WHAAAAT?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            584,
+            854,
+            719
+        ],
+        "text": "HELLLLP USSSSS!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1012,
+            51,
+            1102,
+            198
+        ],
+        "text": "THIS JUST WENT FROM TROUBLE TO BIG TROUBLE!!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

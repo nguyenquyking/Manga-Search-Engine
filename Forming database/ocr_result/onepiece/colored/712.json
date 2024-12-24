@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            66,
+            39,
+            142,
+            161
+        ],
+        "text": "Please, Toko, come back!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            209,
+            148,
+            410
+        ],
+        "text": "Oh, that's Tonoyasu's daughter!! Right!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            557,
+            172,
+            697
+        ],
+        "text": "Hey! I recognize her... That's the girl who came for my soba!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            212,
+            198,
+            264,
+            258
+        ],
+        "text": "What?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            435,
+            150,
+            528
+        ],
+        "text": "Otoko?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            307,
+            34,
+            375,
+            143
+        ],
+        "text": "Or Orochi will figure it out!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            420,
+            558,
+            558
+        ],
+        "text": "Get out of my way!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            14,
+            556,
+            137
+        ],
+        "text": "Aieee!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            511,
+            655,
+            547,
+            697
+        ],
+        "text": "Ch-chki!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            531,
+            268,
+            550,
+            314
+        ],
+        "text": "Aaaaaah",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            938,
+            13,
+            1038,
+            133
+        ],
+        "text": "There you are, you wretched brat...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            272,
+            1045,
+            374
+        ],
+        "text": "Oh no!! Otoko, I'm sorry!! That's not what you think...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            933,
+            420,
+            1015,
+            513
+        ],
+        "text": "It's called Toad Oil...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            937,
+            532,
+            977,
+            553
+        ],
+        "text": "Kyaa!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            942,
+            584,
+            1080,
+            697
+        ],
+        "text": "Daddy, come back to life!! This medicine will cure you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

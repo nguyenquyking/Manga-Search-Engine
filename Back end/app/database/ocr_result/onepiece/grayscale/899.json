@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            89,
+            242,
+            212,
+            379
+        ],
+        "text": "CHK CHK\nNEXT, OFF\nWITH THE\n\u00c9CAILLE!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            607,
+            30,
+            849,
+            184
+        ],
+        "text": "SHWIK\nTHEN THE\nBRANCHIE!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            685,
+            521,
+            735,
+            739
+        ],
+        "text": "FIRST, THE\nSLASH\nNAGEOIRE!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            895,
+            174,
+            976,
+            224
+        ],
+        "text": "WHAT\nSPEED\nAND\nACCURACY!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            932,
+            98,
+            1022,
+            164
+        ],
+        "text": "HE'S AS\nFLUID AS\nTHE SEA,\nFLOWING\nFROM ONE\nSTEP TO",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            918,
+            569,
+            1003,
+            690
+        ],
+        "text": "WHAT\nBUT\nHOW?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            79,
+            21,
+            132,
+            134
+        ],
+        "text": "The Oiran's so beautiful!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            308,
+            144,
+            396
+        ],
+        "text": "You should watch the procession!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            439,
+            156,
+            576
+        ],
+        "text": "It's already started, in fact! I gotta hurry!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            603,
+            162,
+            699
+        ],
+        "text": "That's right!! I'm a Kamuro!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            192,
+            422,
+            232,
+            526
+        ],
+        "text": "AHA HA HA\nPi!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            282,
+            432,
+            341,
+            507
+        ],
+        "text": "Bye-bye, see ya!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            54,
+            493,
+            147
+        ],
+        "text": "Oiran? Kamuro? Whuzzat?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            202,
+            512,
+            348
+        ],
+        "text": "So this oft-rumored Oiran's Procession is passing through here?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            394,
+            502,
+            521
+        ],
+        "text": "What a cheerful young girl! She's so cute!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            434,
+            565,
+            500,
+            700
+        ],
+        "text": "Heh heh heh!! Ahh, what a funny kid!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            38,
+            831,
+            141
+        ],
+        "text": "I've got good news for you, Orobi!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            746,
+            185,
+            836,
+            338
+        ],
+        "text": "AAAAH!! Where'd this paper lantern hag come from?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            577,
+            861,
+            698
+        ],
+        "text": "What is an Oiran, you ask?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            178,
+            1030,
+            318
+        ],
+        "text": "Who are you calling a wrinkled-up paper lantern?! I'll illuminate your hide, you little snot!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1054,
+            21,
+            1129,
+            146
+        ],
+        "text": "I ran all over the flower capital looking for you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1095,
+            177,
+            1138,
+            251
+        ],
+        "text": "Master!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

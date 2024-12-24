@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            120,
+            224,
+            297,
+            365
+        ],
+        "text": "As it's Princess...\nI must think\nof the\nKingdom,\nand yet...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            802,
+            276,
+            961
+        ],
+        "text": "I'm... scared!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1400,
+            33,
+            1481,
+            118
+        ],
+        "text": "What are you talking about?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1184,
+            170,
+            1288,
+            265
+        ],
+        "text": "A Princess shouldn't cry so much in public...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            311,
+            1289,
+            419
+        ],
+        "text": "Oh!\nI-I-\nI'm sorry!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1249,
+            677,
+            1440,
+            785
+        ],
+        "text": "I don't want to die!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

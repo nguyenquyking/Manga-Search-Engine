@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            33,
+            572,
+            85,
+            622
+        ],
+        "text": "WHAT NOW?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            93,
+            145,
+            193
+        ],
+        "text": "THE KID'S GPS SIGNAL IS GONE?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            352,
+            641,
+            369,
+            721
+        ],
+        "text": "DAMMIT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

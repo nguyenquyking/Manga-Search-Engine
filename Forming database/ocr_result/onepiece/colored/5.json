@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            64,
+            136,
+            121,
+            242
+        ],
+        "text": "ODEN-SAMA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            96,
+            385,
+            176,
+            475
+        ],
+        "text": "DON'T LOOK BACK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            539,
+            124,
+            641
+        ],
+        "text": "ODEN-SAMA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            923,
+            139,
+            1013
+        ],
+        "text": "RUN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            409,
+            705,
+            844
+        ],
+        "text": "BANG!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1212,
+            68,
+            1268,
+            189
+        ],
+        "text": "SO HE HAS A SON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1387,
+            74,
+            1483,
+            183
+        ],
+        "text": "I'LL DEAL WITH HIM MYSELF.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1065,
+            393,
+            1185,
+            549
+        ],
+        "text": "THEY INTEND TO SAFEGUARD ODENS'S HEIR, MOMONOSUKE!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1073,
+            716,
+            1121,
+            818
+        ],
+        "text": "KURI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            862,
+            1185,
+            1022
+        ],
+        "text": "THERE IS ONLY ONE PLACE THOSE SAMURAI WOULD GO,",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

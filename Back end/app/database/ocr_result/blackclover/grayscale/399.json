@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            132,
+            140,
+            291,
+            230
+        ],
+        "text": "I've always been nervous about that. I still am.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            156,
+            428,
+            313,
+            556
+        ],
+        "text": "Can someone as dull and clumsy as I am really rule the Heart Kingdom?",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            113,
+            595,
+            230,
+            710
+        ],
+        "text": "Your own power was terrific to begin with, Lolo-Pechka.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            201,
+            886,
+            404,
+            1043
+        ],
+        "text": "Both my magic and my grimoire hold the sum of what former queens accumulated, so...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            699,
+            240,
+            824,
+            347
+        ],
+        "text": "And in the end, they cursed me...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            800,
+            128,
+            900,
+            225
+        ],
+        "text": "I'm a failure as a queen.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            704,
+            927,
+            852,
+            1043
+        ],
+        "text": "Before, when I fought Vanica and Megicula",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            857,
+            801,
+            927,
+            897
+        ],
+        "text": "...I was afraid!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1139,
+            132,
+            1148,
+            153
+        ],
+        "text": "I...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1339,
+            283,
+            1457,
+            381
+        ],
+        "text": "...will make me even more of a failure, but...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1121,
+            553,
+            1201,
+            654
+        ],
+        "text": "I think saying a thing like this...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1131,
+            745,
+            1272,
+            872
+        ],
+        "text": "It's strangely easy for me to say what I feel. I wonder why.",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1100,
+            898,
+            1240,
+            1024
+        ],
+        "text": "Dweh heh heh... When I'm with you guys, I forget my position as ruler.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

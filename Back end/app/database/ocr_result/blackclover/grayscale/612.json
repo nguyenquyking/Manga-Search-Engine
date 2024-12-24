@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            211,
+            718,
+            345,
+            812
+        ],
+        "text": "From this point on...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            329,
+            72,
+            433,
+            174
+        ],
+        "text": "Both of you...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            465,
+            573,
+            635,
+            740
+        ],
+        "text": "...What you call training begins in earnest.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            929,
+            688,
+            1032,
+            784
+        ],
+        "text": "Come at me...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1144,
+            53,
+            1281,
+            221
+        ],
+        "text": "...And defeat me!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            1793,
+            1320,
+            1970
+        ],
+        "text": "In order to keep yourself from losing to illogical evil!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            301,
+            52,
+            387,
+            141
+        ],
+        "text": "...The son of Kaido, his killer.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            34,
+            454,
+            58,
+            498
+        ],
+        "text": "BAM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            317,
+            625,
+            377,
+            704
+        ],
+        "text": "I am Oden, but also...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            62,
+            519,
+            422
+        ],
+        "text": "GULURRRGGG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            661,
+            126,
+            720,
+            226
+        ],
+        "text": "...Over that single meal!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            648,
+            334,
+            720,
+            429
+        ],
+        "text": "He wants them to fight to the death...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            585,
+            556,
+            715
+        ],
+        "text": "I'm smart enough to know these samurai hate me!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            85,
+            880,
+            162
+        ],
+        "text": "...They kill me first!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            263,
+            812,
+            314
+        ],
+        "text": "Grab!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            780,
+            402,
+            796,
+            446
+        ],
+        "text": "Ack!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            822,
+            503,
+            867,
+            591
+        ],
+        "text": "But not before...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            910,
+            610,
+            917,
+            646
+        ],
+        "text": "ZSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            752,
+            662,
+            766,
+            748
+        ],
+        "text": "Gurrg...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

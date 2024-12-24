@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            50,
+            426,
+            80,
+            556
+        ],
+        "text": "SHATTER",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            130,
+            713,
+            170,
+            772
+        ],
+        "text": "FWSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            417,
+            237,
+            463,
+            304
+        ],
+        "text": "THAT WAS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            460,
+            81,
+            500,
+            149
+        ],
+        "text": "MY DOSE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            729,
+            317,
+            772,
+            430
+        ],
+        "text": "YOUR...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            696,
+            827,
+            726,
+            952
+        ],
+        "text": "ASHIDO!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1134,
+            69,
+            1203,
+            276
+        ],
+        "text": "...CHIVALROUS SPIRIT...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            917,
+            10,
+            937,
+            180
+        ],
+        "text": "ARTIST: KIN_CLOVER",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            920,
+            668,
+            939,
+            849
+        ],
+        "text": "TEAM: COLORCLOVERS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1118,
+            27,
+            1235,
+            108
+        ],
+        "text": "THE MAGIC PARLIAMENTS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1008,
+            320,
+            1176,
+            447
+        ],
+        "text": "MAY WE PRESENT THE CENTRAL FIGURE OF THE LEGISLATIVE AND JUDICIARY BODY OF THE CLOVER KINGDOM...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

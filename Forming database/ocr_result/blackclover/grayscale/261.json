@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            105,
+            534,
+            184,
+            616
+        ],
+        "text": "Get my hopes up, will you!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            176,
+            825,
+            292,
+            953
+        ],
+        "text": "Wh... What, this was about my Rose Curse?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            141,
+            438,
+            214
+        ],
+        "text": "Yeah. What else is there?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            93,
+            824,
+            235
+        ],
+        "text": "However, its effect was unlike any spell in the kingdom, and it was impossible to break.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            656,
+            825,
+            827,
+            967
+        ],
+        "text": "It began with a spell cast by a curse mage who had a grudge against my family.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1185,
+            101,
+            1336,
+            221
+        ],
+        "text": "...Changed the shape of my soul, the quality of my magic itself.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1060,
+            592,
+            1216,
+            699
+        ],
+        "text": "The curse that activated when I was 18...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1137,
+            793,
+            1307,
+            918
+        ],
+        "text": "Forbidden magic interferes with the shape of your life, and of the world.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            133,
+            133,
+            224,
+            234
+        ],
+        "text": "Aw, are you mad?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            333,
+            77,
+            356,
+            208
+        ],
+        "text": "DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            595,
+            95,
+            724,
+            189
+        ],
+        "text": "This won't take long!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            634,
+            387,
+            688,
+            510
+        ],
+        "text": "Don't worry about me.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            623,
+            562,
+            753,
+            687
+        ],
+        "text": "It seems...exhausting.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            603,
+            949,
+            766,
+            1063
+        ],
+        "text": "That's quite the size you can reach.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            438,
+            820,
+            508
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            952,
+            863,
+            1136,
+            1066
+        ],
+        "text": "Sea Serpent Snap-Dragon!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

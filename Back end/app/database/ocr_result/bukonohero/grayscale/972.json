@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            499,
+            51,
+            596,
+            178
+        ],
+        "text": "Remember him? The brother you cried to every day?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            517,
+            471,
+            606,
+            538
+        ],
+        "text": "One of them almost killed Natsu!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            507,
+            608,
+            575,
+            709
+        ],
+        "text": "You really sent those villains our way?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            717,
+            60,
+            796,
+            180
+        ],
+        "text": "That would've really hurt Endeavor.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            729,
+            568,
+            806,
+            639
+        ],
+        "text": "Almost killed? What a shame.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            936,
+            16,
+            1077,
+            198
+        ],
+        "text": "Sure am, Shoto. See, your brother's not so big on \"feelings\" anymore.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            588,
+            1055,
+            715
+        ],
+        "text": "Are you freaking insane?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

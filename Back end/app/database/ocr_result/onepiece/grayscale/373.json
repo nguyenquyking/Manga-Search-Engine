@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            32,
+            74,
+            95,
+            194
+        ],
+        "text": "True... But in my specific case...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            53,
+            624,
+            128,
+            721
+        ],
+        "text": "So between the dragon and the dinosaurs...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            167,
+            628,
+            274,
+            732
+        ],
+        "text": "...You guys soak up damage like nobody's business, huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            247,
+            61,
+            324,
+            148
+        ],
+        "text": "...It goes even beyond that!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            373,
+            624,
+            464,
+            734
+        ],
+        "text": "Fine, I'll give you a sword-fight!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            641,
+            599,
+            731
+        ],
+        "text": "I do enjoy a good duel!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            74,
+            935,
+            164
+        ],
+        "text": "...But apparently they're not.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            851,
+            216,
+            928,
+            310
+        ],
+        "text": "I assumed they were part of his powers...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            831,
+            392,
+            949,
+            461
+        ],
+        "text": "The flames keep burning on his back.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            835,
+            520,
+            974,
+            741
+        ],
+        "text": "I've hit him with a few slashes... yet he's not bleeding!! His wings move, so I know they're not ornamental... but I can't be sure if he can use them to fly!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

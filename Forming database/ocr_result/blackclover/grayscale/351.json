@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            211,
+            133,
+            344,
+            535
+        ],
+        "text": "Special Bonus Material!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            267,
+            572,
+            328,
+            921
+        ],
+        "text": "Illustration for the 2019 Reader Gift Campaign",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

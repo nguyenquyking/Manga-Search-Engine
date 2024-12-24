@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            448,
+            836,
+            593,
+            947
+        ],
+        "text": "Tch! I shut us in here on impulse, and that worked, but...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            667,
+            815,
+            830,
+            949
+        ],
+        "text": "...If we stay like this, it's just gonna keep chipping away at my magic till it's gone.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            50,
+            729,
+            169
+        ],
+        "text": "Whoa, hold it, are you serious? I saved your butt! You're messing with me, right?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            45,
+            956,
+            169
+        ],
+        "text": "Even when you're somebody else on the inside, you're still the prickly queen.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            620,
+            1054,
+            737
+        ],
+        "text": "Hey, you're too close, human. Can't you make this space any bigger?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1382,
+            41,
+            1505,
+            170
+        ],
+        "text": "I wonder how that elf boss of yours is doing out there.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1308,
+            831,
+            1513,
+            952
+        ],
+        "text": "The one tiny bright spot is that it turns out you can use recovery magic. Dammit.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

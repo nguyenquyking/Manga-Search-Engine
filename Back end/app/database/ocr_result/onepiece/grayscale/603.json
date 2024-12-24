@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            41,
+            57,
+            103,
+            193
+        ],
+        "text": "THAT PROPELLER REALLY SPEEDS YOU UP TO AN",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            49,
+            213,
+            113,
+            278
+        ],
+        "text": "WOW, I HAD NO IDEA.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            609,
+            135,
+            735
+        ],
+        "text": "THIS IS WHAT A TRICERATOPS",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            172,
+            54,
+            212,
+            101
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            413,
+            187,
+            471,
+            345
+        ],
+        "text": "DINK!! DO YOUR WORST!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            52,
+            488,
+            157
+        ],
+        "text": "GENERAL SHIELD!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            425,
+            446,
+            503,
+            537
+        ],
+        "text": "HE'S GONNA CHARGE ME AT THAT SPEED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            588,
+            598,
+            760
+        ],
+        "text": "ZRUM...ZRUM...GRRRG...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            780,
+            83,
+            848,
+            142
+        ],
+        "text": "HUH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            632,
+            466,
+            640,
+            527
+        ],
+        "text": "BOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            658,
+            622,
+            683,
+            659
+        ],
+        "text": "AH!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            55,
+            1001,
+            152
+        ],
+        "text": "...AND WENT INTO REVERSE ON ACCIDENT,",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            929,
+            266,
+            1006,
+            392
+        ],
+        "text": "WAIT... HE JUST ROTATED THAT PROPELLER THE WRONG WAY...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1117,
+            126,
+            1136,
+            198
+        ],
+        "text": "GRRRMM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

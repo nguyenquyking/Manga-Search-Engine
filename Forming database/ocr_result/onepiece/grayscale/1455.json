@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            97,
+            132,
+            239,
+            362
+        ],
+        "text": "HOW UPRIGHT\nOF YOU... BUILD\nYOUR STRENGTH\nWHILE YOU CAN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            90,
+            457,
+            231,
+            679
+        ],
+        "text": "I'M SORRY\nABOUT WHAT\nHAPPENED WITH\nTHE OLD HAG.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            810,
+            261,
+            983
+        ],
+        "text": "MY SOUL\nWILL LIVE\nON!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            1146,
+            263,
+            1319
+        ],
+        "text": "THEY CAN\nFORGET ME,\nFOR ALL\nI CARE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            237,
+            635,
+            306
+        ],
+        "text": "FOR\nI...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            542,
+            489,
+            617,
+            660
+        ],
+        "text": "I HAD HER\nKILLED.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            557,
+            105,
+            622,
+            408
+        ],
+        "text": "HUFF!!\nHUFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            302,
+            764,
+            330,
+            826
+        ],
+        "text": "HUFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            786,
+            116,
+            950,
+            302
+        ],
+        "text": "AND\nI WAS\nBORN...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            786,
+            612,
+            950,
+            748
+        ],
+        "text": "I AM\nODEN!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            866,
+            976,
+            1065
+        ],
+        "text": "...TO\nACCOMPANY\nYOUR\nDRINKS...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            1183,
+            920,
+            1327
+        ],
+        "text": "...AM A\nSTORY...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            609,
+            1188,
+            756
+        ],
+        "text": "TOKI,\nMOMONOSUKE,\nHIYORI.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1054,
+            110,
+            1198,
+            250
+        ],
+        "text": "I SHALL\nBE THE\nFIRST TO\nLEAVE!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1473,
+            159,
+            1550,
+            277
+        ],
+        "text": "HFFF~~~",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1557,
+            613,
+            1602,
+            741
+        ],
+        "text": "SPLOSH!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1479,
+            907,
+            1617,
+            1212
+        ],
+        "text": "BLAM!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

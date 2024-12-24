@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            72,
+            71,
+            90,
+            155
+        ],
+        "text": "Silence!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            94,
+            48,
+            186,
+            177
+        ],
+        "text": "Then how do you explain this symbolic image?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            247,
+            192,
+            384
+        ],
+        "text": "...That makes you think we're traitors?! They were just a fashion statement once!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            411,
+            184,
+            530
+        ],
+        "text": "Wait, Fukurokuju! What is it about these tattoos...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            245,
+            221,
+            341,
+            317
+        ],
+        "text": "We have nothing to do with any kind of rebellion!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            361,
+            39,
+            445,
+            186
+        ],
+        "text": "You are here by the Shogun's own edict! So pipe down!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            563,
+            182,
+            706
+        ],
+        "text": "Too bad for you, your little stunt's already been revealed...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            823,
+            165,
+            916
+        ],
+        "text": "You scheming traitors!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            950,
+            162,
+            1124
+        ],
+        "text": "To think you've been living in our fair city, plotting its demise!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            1176,
+            168,
+            1270
+        ],
+        "text": "Now get in there, rebel scum!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            93,
+            1377,
+            177,
+            1469
+        ],
+        "text": "Rasetsu Town, Flower Capital",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            379,
+            585,
+            441,
+            690
+        ],
+        "text": "You failed.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            548,
+            220,
+            613,
+            310
+        ],
+        "text": "This is a bad situation...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            547,
+            360,
+            673,
+            478
+        ],
+        "text": "It's quite an arresting sight!! And there are still more to come!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            546,
+            623,
+            636,
+            699
+        ],
+        "text": "Behold their foolish faces!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            182,
+            752,
+            284
+        ],
+        "text": "I hope they don't think we spilled the beans...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            1047,
+            636,
+            1182
+        ],
+        "text": "This is what happens to those who defy Shogun Orochi and Lord Kaido!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            552,
+            1258,
+            642,
+            1450
+        ],
+        "text": "Rasetsu Prisoners' Quarters\nAka: Public Cells",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            714,
+            1357,
+            820,
+            1482
+        ],
+        "text": "I never expected we would arrest so many at once!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            1374,
+            956,
+            1485
+        ],
+        "text": "Behold, you onlookers!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            38,
+            1015,
+            136
+        ],
+        "text": "Captain... Will believe in us...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

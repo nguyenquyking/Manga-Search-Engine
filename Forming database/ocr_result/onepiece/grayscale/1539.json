@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            113,
+            250,
+            240,
+            414
+        ],
+        "text": "WE LAUGHED UNTIL TEARS SPRANG TO OUR EYES.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            105,
+            775,
+            222,
+            893
+        ],
+        "text": "AND SO DID WE ALL.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            672,
+            94,
+            827,
+            302
+        ],
+        "text": "WE'RE THE FIRST PEOPLE TO REACH THIS FINAL ISLAND IN 800 YEARS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            654,
+            358,
+            812,
+            437
+        ],
+        "text": "SAY, THAT GIVES ME AN IDEA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            672,
+            499,
+            800,
+            668
+        ],
+        "text": "THIS IS QUITE A TREASURE YOU'VE LEFT BEHIND!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            739,
+            752,
+            921
+        ],
+        "text": "OH, JOYBOY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            94,
+            1065,
+            227
+        ],
+        "text": "WHY DON'T WE GIVE IT A NAME?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1065,
+            514,
+            1171,
+            655
+        ],
+        "text": "A TALE FULL OF LAUGHS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1052,
+            732,
+            1157,
+            931
+        ],
+        "text": "I WISH I'D BEEN BORN IN YOUR TIME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1466,
+            299,
+            1691,
+            680
+        ],
+        "text": "WE'LL CALL IT \"LAUGH TALE.\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1520,
+            2142,
+            1735,
+            2424
+        ],
+        "text": "ROGER JUST LAUGHED.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            108,
+            829,
+            188,
+            963
+        ],
+        "text": "TOWER CLIMB",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            288,
+            1098,
+            318,
+            1244
+        ],
+        "text": "NAILS?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            522,
+            234,
+            604,
+            364
+        ],
+        "text": "RIPPLE!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            710,
+            92,
+            794,
+            174
+        ],
+        "text": "SHALL WE GO AFTER THEM...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            221,
+            786,
+            305
+        ],
+        "text": "GAAH!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            843,
+            56,
+            892,
+            148
+        ],
+        "text": "HAWKINS?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            506,
+            748,
+            720
+        ],
+        "text": "KYAAOO!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1080,
+            501,
+            1155,
+            655
+        ],
+        "text": "DSHK!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            622,
+            1068,
+            683,
+            1152
+        ],
+        "text": "RAAAH!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            808,
+            1068,
+            864,
+            1130
+        ],
+        "text": "ZORO!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            974,
+            1068,
+            1009,
+            1174
+        ],
+        "text": "NIGIRI",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            1390,
+            1032,
+            1497
+        ],
+        "text": "ALL RIGHT,\nENOUGH",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

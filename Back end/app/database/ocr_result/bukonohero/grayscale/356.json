@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            1060,
+            232,
+            1147,
+            346
+        ],
+        "text": "NOW PERISH!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            749,
+            930,
+            1029
+        ],
+        "text": "@MOR3COLOR",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

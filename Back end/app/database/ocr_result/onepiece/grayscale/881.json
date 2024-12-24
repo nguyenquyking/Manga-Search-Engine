@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            51,
+            427,
+            121,
+            565
+        ],
+        "text": "These are two Emperors of",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            589,
+            137,
+            733
+        ],
+        "text": "Don't lose focus for a single instant, Luffy!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            503,
+            234,
+            573
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            338,
+            37,
+            396,
+            175
+        ],
+        "text": "Chambres!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            98,
+            895,
+            207
+        ],
+        "text": "But then you said--!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            261,
+            960,
+            389
+        ],
+        "text": "I was already planning to move the samurai below!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            430,
+            899,
+            507
+        ],
+        "text": "I just want to make one thing clear...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            546,
+            861,
+            632
+        ],
+        "text": "Traffy!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            681,
+            832,
+            730
+        ],
+        "text": "Ah!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            461,
+            957,
+            500
+        ],
+        "text": "BAM!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1036,
+            251,
+            1109,
+            326
+        ],
+        "text": "Huh?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1049,
+            80,
+            1104,
+            201
+        ],
+        "text": "Traffy, send them all down below!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            575,
+            1112,
+            639
+        ],
+        "text": "Hey, Straw Hat...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

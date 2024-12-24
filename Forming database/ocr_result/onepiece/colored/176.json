@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            59,
+            90,
+            163,
+            236
+        ],
+        "text": "You look like you'll keel over on your own at this point!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            26,
+            270,
+            150,
+            390
+        ],
+        "text": "MAAAAA\nAMAMAMA!!\nHAHAHA!!\nThis is pitiful,\nkid!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            31,
+            482,
+            128,
+            618
+        ],
+        "text": "I've finally got an opportunity to take down an Emperor...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            776,
+            94,
+            837
+        ],
+        "text": "Pant... Pant...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            79,
+            403,
+            139
+        ],
+        "text": "Damn it...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            477,
+            419,
+            625
+        ],
+        "text": "If I die like this, my life as a pirate would be a joke...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            339,
+            702,
+            412,
+            857
+        ],
+        "text": "This is no freaking headache, what's going on?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            547,
+            572,
+            605,
+            657
+        ],
+        "text": "Stop it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            533,
+            696,
+            685,
+            852
+        ],
+        "text": "Third Floor,\nKiller vs. Hawkins",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            598,
+            245,
+            670,
+            321
+        ],
+        "text": "Fa fa fa!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            238,
+            847,
+            307
+        ],
+        "text": "BANG!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            939,
+            744,
+            1021,
+            840
+        ],
+        "text": "Faaa fafa!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1154,
+            130,
+            1242,
+            265
+        ],
+        "text": "Knock it off already,\nHawkins!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

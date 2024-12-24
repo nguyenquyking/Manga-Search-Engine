@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            260,
+            198,
+            276,
+            255
+        ],
+        "text": "SLAM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            384,
+            468,
+            400,
+            522
+        ],
+        "text": "KRAK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            274,
+            839,
+            290,
+            882
+        ],
+        "text": "KRK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            905,
+            146,
+            925,
+            389
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1014,
+            305,
+            1038,
+            411
+        ],
+        "text": "MIRKO!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1090,
+            462,
+            1104,
+            542
+        ],
+        "text": "PWOOF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1217,
+            329,
+            1262,
+            415
+        ],
+        "text": "FINISH 'EM OFF!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1270,
+            21,
+            1312,
+            155
+        ],
+        "text": "SHIGARAKI'S... IN THERE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

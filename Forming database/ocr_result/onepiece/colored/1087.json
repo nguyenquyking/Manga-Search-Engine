@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            403,
+            73,
+            435,
+            191
+        ],
+        "text": "\u307e\u3086\u3052\u5dfb\u3044\u3066\u3082\n\u7f8e\u3057\u304d\u59c9\u30ec\u30a4\u30b8\u30e5\u2661",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            405,
+            291,
+            434,
+            424
+        ],
+        "text": "\u30e2\u30c1\u3060\u308d\u304a\u524d\u306f!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            492,
+            488,
+            671
+        ],
+        "text": "\u305d\u3093\u306a\u306b\u9a5a\u304f\u4e8b\n\u306d\u30a7\u3060\u308d!\n\u3060\u3093\u3054\u3068\u3082\u3061\u306e\u9055\u3044\u306b\u3002",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            522,
+            147,
+            542,
+            300
+        ],
+        "text": "(\u6771\u4eac\u90fd Kiyu\u3055\u3093)",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1089,
+            476,
+            1122,
+            658
+        ],
+        "text": "\u4eba\u751f\u304c\u30ed\u30c3\u30af\u3060\u305c~~~!!\n\u30e0\u30ae\u30ed\u30c3\u30ab\u30fc\u30ba!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1118,
+            101,
+            1138,
+            340
+        ],
+        "text": "\u30b7\u30d3\u30ec\u308b\u30fc!! \u30ab\u30c3\u30b3\u826f\u3059\u304e\u3067!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1153,
+            711,
+            1172,
+            748
+        ],
+        "text": "218",
+        "panel_id": "5",
+        "type": "page_number"
+    }
+]

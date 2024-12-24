@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            69,
+            92,
+            139,
+            156
+        ],
+        "text": "What is this thing?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            342,
+            133,
+            458
+        ],
+        "text": "Huff, huff... Nobody will come in here.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            522,
+            170,
+            594
+        ],
+        "text": "Store-room,\nInside\nthe dome",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            346,
+            147,
+            435,
+            243
+        ],
+        "text": "But my friend destroyed it...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            438,
+            67,
+            520,
+            166
+        ],
+        "text": "...So they discarded the statue here!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            334,
+            476,
+            377,
+            589
+        ],
+        "text": "A statue of a dragon...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            447,
+            453,
+            528,
+            575
+        ],
+        "text": "In the past, it was placed at the entrance to the island.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            646,
+            81,
+            693,
+            156
+        ],
+        "text": "Friend?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            158,
+            752,
+            214
+        ],
+        "text": "Yes.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            390,
+            990,
+            517
+        ],
+        "text": "A man who came here years ago... to kill my father...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            605,
+            1079,
+            729
+        ],
+        "text": "I'll split that woman's skull in two!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            1115,
+            261,
+            1283
+        ],
+        "text": "KABOOM!!\nThey're enemies!!\nTobi Roppo!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            70,
+            1386,
+            147,
+            1496
+        ],
+        "text": "Outside the Onigashima dome",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            238,
+            1379,
+            349,
+            1499
+        ],
+        "text": "AAAAH!!\nTwo Dinosaurs!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            811,
+            856,
+            1275
+        ],
+        "text": "Tobi Roppo\nTobi Roppo\nUlti Page One\nDragon-Dragon Fruit,\nAncient Type\nPachycephalosaurus Model\nDragon-Dragon Fruit,\nAncient Type\nSpinosaurus Model",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            894,
+            109,
+            901,
+            171
+        ],
+        "text": "FWOOO...",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            913,
+            1019,
+            932,
+            1055
+        ],
+        "text": "Ook...",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            937,
+            1154,
+            1060,
+            1241
+        ],
+        "text": "Where did they go...? ",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1123,
+            18,
+            1136,
+            288
+        ],
+        "text": "Next chapter hits Dec. 20!",
+        "panel_id": "7",
+        "type": "narration"
+    }
+]

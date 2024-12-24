@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            652,
+            918,
+            828,
+            1016
+        ],
+        "text": "WE CAN'T LET HIM GO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            492,
+            824,
+            620
+        ],
+        "text": "IT WILL MEAN THE END OF THE WORLD!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            121,
+            1012,
+            351
+        ],
+        "text": "CAPTAIN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

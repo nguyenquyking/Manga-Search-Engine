@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            990,
+            63,
+            1080,
+            143
+        ],
+        "text": "...was just a fragile, fleeting dream.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            872,
+            338,
+            907,
+            408
+        ],
+        "text": "YOUR VICTORY...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            831,
+            443,
+            905,
+            516
+        ],
+        "text": "The damage I did to his body healed up too!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            814,
+            689,
+            948,
+            775
+        ],
+        "text": "His bones' power to regenerate and attack is even higher now!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

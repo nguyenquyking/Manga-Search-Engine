@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            101,
+            149,
+            284,
+            381
+        ],
+        "text": "WAS THAT ALWAYS ONE OF HIS FORMS?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            128,
+            1373,
+            319,
+            1515
+        ],
+        "text": "RMBL\nRMBL!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            513,
+            1609,
+            590,
+            1749
+        ],
+        "text": "WHAT IS THAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            1556,
+            860,
+            1719
+        ],
+        "text": "WHAT'S HAPPENING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            658,
+            488,
+            893,
+            755
+        ],
+        "text": "I DON'T UNDERSTAND!!\nKAIDO IS GETTING\nFATTER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1103,
+            134,
+            1182,
+            374
+        ],
+        "text": "OH!! I SEE\nTWO LIGHTS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1144,
+            1509,
+            1322,
+            1734
+        ],
+        "text": "CURSES!!\nWHAT'S WRONG WITH\nME?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1314,
+            1305,
+            1442,
+            1534
+        ],
+        "text": "MY BODY\nISN'T MADE\nOF RUBBER!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1702,
+            241,
+            1786,
+            660
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1737,
+            804,
+            1767,
+            1182
+        ],
+        "text": "BABOOM!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1647,
+            1290,
+            1805,
+            1638
+        ],
+        "text": "GUM-\nGUM...!!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2472,
+            1554,
+            2570,
+            1655
+        ],
+        "text": "GRAB!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

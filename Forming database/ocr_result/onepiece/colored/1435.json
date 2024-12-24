@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            176,
+            55,
+            278,
+            207
+        ],
+        "text": "...ABANDON THEM NOW!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            624,
+            142,
+            736
+        ],
+        "text": "I CANNOT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            60,
+            602,
+            194
+        ],
+        "text": "I'LL BE THE REAR GUARD TO ENSURE THIS SHIP GETS AWAY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            474,
+            613,
+            574,
+            730
+        ],
+        "text": "OKAY!! GOT IT!! THEN WE'LL STAY AND--!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            84,
+            826,
+            258
+        ],
+        "text": "ALLOW ME TO HOLD DOWN THE END OF THE LINE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            368,
+            807,
+            471
+        ],
+        "text": "...ESCAPE WILL BE IMPOSSIBLE !!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            706,
+            513,
+            833,
+            643
+        ],
+        "text": "AT THIS POINT, IF THE MOTHER SHIP AND FLEET REMAIN ON OUR HEELS...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

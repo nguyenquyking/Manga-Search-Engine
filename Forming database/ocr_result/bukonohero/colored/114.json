@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            70,
+            150,
+            123,
+            215
+        ],
+        "text": "My father too.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            400,
+            132,
+            454
+        ],
+        "text": "Same with Denim Head.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            592,
+            128,
+            702
+        ],
+        "text": "But my own Master will not answer his phone.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            127,
+            574,
+            240
+        ],
+        "text": "We can only assume they're keeping secrets from us.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            448,
+            312,
+            535,
+            407
+        ],
+        "text": "I'm sure they're busy, but something feels off.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            59,
+            830,
+            188
+        ],
+        "text": "They've got those of us in the hero course either cooped up in the dorms or helping out with local security.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            653,
+            239,
+            778,
+            351
+        ],
+        "text": "Classes are suspended, and we're being kept as first-years for now.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            666,
+            471,
+            701,
+            548
+        ],
+        "text": "Not to mention...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            853,
+            485,
+            926,
+            554
+        ],
+        "text": "...All Might is still M.I.A....",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            612,
+            1088,
+            686
+        ],
+        "text": "Or so it seems, yeah.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            27,
+            1087,
+            167
+        ],
+        "text": "Given the state of things, it's tough to find out about what's going on out there...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            253,
+            993,
+            271
+        ],
+        "text": "1-A",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

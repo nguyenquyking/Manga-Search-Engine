@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            127,
+            44,
+            174,
+            110
+        ],
+        "text": "THIRTY MINUTES, HM...?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            291,
+            106,
+            353
+        ],
+        "text": "OR BLACK MODE EITHER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            159,
+            533,
+            224,
+            635
+        ],
+        "text": "I WON'T BE ABLE TO USE IT AGAIN FOR 30",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            637,
+            193,
+            733
+        ],
+        "text": "THE EXCRUCIATING FULL-BODY PAIN THAT'S THE KICK-BACK FROM UNION!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            27,
+            577,
+            120
+        ],
+        "text": "I DOUBT THE OTHERS WILL MANAGE TO LAST 30 MINUTES!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            409,
+            248,
+            424,
+            349
+        ],
+        "text": "(Underground)",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            408,
+            596,
+            645,
+            727
+        ],
+        "text": "THE DARK TRIAD CURRENTLY HAS POWER ON THE LEVEL OF THE HIGHEST DEVIL CLASS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            897,
+            39,
+            1007,
+            98
+        ],
+        "text": "RIGHT NOW, THE WORST SITUATION IS-",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            886,
+            197,
+            1031,
+            272
+        ],
+        "text": "EVEN IF UNION ISN'T AN OPTION, ANTI-MAGIC IS BOUND TO BE USEFUL.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            874,
+            315,
+            988,
+            401
+        ],
+        "text": "...BEFORE THE NEXT GATE OPENS IS DEFEAT THE DARK TRIAD!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            855,
+            617,
+            1051,
+            731
+        ],
+        "text": "MORRIS IS CAUSING THE GATES OF THE UNDERWORLD TO OPEN FASTER. HE'S ALSO A PROBLEM, BUT...THE FIRST THING WE NEED TO DO...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

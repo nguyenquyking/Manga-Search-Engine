@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            238,
+            101,
+            400,
+            166
+        ],
+        "text": "AAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1056,
+            623,
+            1063,
+            640
+        ],
+        "text": "AAAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

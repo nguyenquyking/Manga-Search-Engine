@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            51,
+            60,
+            79,
+            636
+        ],
+        "text": "\u300e\u5dfb\u672b\u89e3\u653e\u533a! WEEKLY\u9031\u3061\u3083\u3093\u300f",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            142,
+            112,
+            161,
+            147
+        ],
+        "text": "!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            113,
+            503,
+            183,
+            539
+        ],
+        "text": "\u30d6\u30af\u30c3",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            191,
+            709,
+            362,
+            768
+        ],
+        "text": "\u3057\u3085\u3063\u3071\u3064\u3060!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            168,
+            611,
+            198,
+            834
+        ],
+        "text": "\u30ea\u30e2\u30fc\u30c8\u30ef\u30fc\u30af",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            343,
+            84,
+            355,
+            98
+        ],
+        "text": "!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            183,
+            448,
+            208,
+            460
+        ],
+        "text": "\u2015\u2015",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            508,
+            68,
+            676,
+            120
+        ],
+        "text": "\u30c8\u30ed\u30d4\u30ab\u30eb\u6c17\u5206\u306b",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            511,
+            160,
+            581,
+            391
+        ],
+        "text": "\u30e6\u30e9\u30c3",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            688,
+            739,
+            784,
+            832
+        ],
+        "text": "\u30c9\u30c6\u30c3",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            837,
+            586,
+            870,
+            763
+        ],
+        "text": "\u30c9\u30c6\u30c3",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            940,
+            69,
+            1128,
+            174
+        ],
+        "text": "\u30aa\u30b7\u30de\u30a4\u3060\u308d!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            460,
+            1036,
+            559
+        ],
+        "text": "WEEKLY\u9031\u3061\u3083\u3093",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1038,
+            232,
+            1311,
+            842
+        ],
+        "text": "\u6bce\u65e5\u304c\u5e38\u590f\u30b3\u30b3\u30ca\u30c3\u30c4\u7279\u96c6",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1239,
+            58,
+            1254,
+            90
+        ],
+        "text": "!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1318,
+            56,
+            1351,
+            442
+        ],
+        "text": "\u300e\u5dfb\u672b\u89e3\u653e\u533a! WEEKLY\u9031\u3061\u3083\u3093\u300f\u2026\u304a\u308f\u308a",
+        "panel_id": "6",
+        "type": "caption"
+    }
+]

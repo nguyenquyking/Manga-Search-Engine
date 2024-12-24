@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            85,
+            34,
+            233,
+            192
+        ],
+        "text": "...and now they tell us no one's moving up a grade in the meantime.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            532,
+            225,
+            695
+        ],
+        "text": "So I've been training like hell to improve my quirk...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            419,
+            178,
+            528,
+            322
+        ],
+        "text": "I'll be able to make Aoyama and his folks talk...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            539,
+            52,
+            689,
+            194
+        ],
+        "text": "...so that my motives and their emotions won't come into play at all.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            461,
+            614,
+            548,
+            686
+        ],
+        "text": "But yeah\u2014I can do it.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            27,
+            858,
+            107
+        ],
+        "text": "So? Class A or Class B?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            152,
+            867,
+            248
+        ],
+        "text": "Thanks so much, Shinso!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            295,
+            862,
+            386
+        ],
+        "text": "Still amazing!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            112,
+            997,
+            177
+        ],
+        "text": "What's your hero name?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            41,
+            1106,
+            124
+        ],
+        "text": "You gotta pick Class A! It's gotta be us, right?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            925,
+            431,
+            1033,
+            529
+        ],
+        "text": "But the method to make it work is even more intense.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            881,
+            586,
+            899,
+            695
+        ],
+        "text": "Amazing!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            276,
+            961,
+            329
+        ],
+        "text": "Get a load of them...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1060,
+            228,
+            1070,
+            280
+        ],
+        "text": "So excitable...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

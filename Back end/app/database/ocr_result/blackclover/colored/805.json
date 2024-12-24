@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            136,
+            624,
+            307,
+            801
+        ],
+        "text": "YOU ARE THE ULTIMATE PREY.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            167,
+            499,
+            192,
+            563
+        ],
+        "text": "Ju...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            235,
+            179,
+            280,
+            232
+        ],
+        "text": "PLIC",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            916,
+            38,
+            1157,
+            245
+        ],
+        "text": "WE CAN'T WAIT TO HEAR YOU SCREAM.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            2304,
+            471,
+            2411
+        ],
+        "text": "SHU",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1329,
+            256,
+            1356,
+            578
+        ],
+        "text": "@COLORCLOVERS",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1407,
+            665,
+            1582,
+            814
+        ],
+        "text": "Their power is more than just one plus one... DAMMIT!!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1457,
+            320,
+            1759,
+            465
+        ],
+        "text": "Their magic's far too massive. It feels as if it might drive me insane!!!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1915,
+            906,
+            1941,
+            1113
+        ],
+        "text": "@ROOXER9",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

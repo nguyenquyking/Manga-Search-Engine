@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            50,
+            123,
+            145,
+            229
+        ],
+        "text": "AND WHEN YOU DO RETURN, YOU LEAVE WITHOUT A MOMENT'S NOTICE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            567,
+            209,
+            712
+        ],
+        "text": "WHAT HE SAID. YOU HAVEN'T NOTICED BECAUSE YOU AND DEKU LEFT THE SCHOOL, ALL MIGHT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            54,
+            471,
+            188
+        ],
+        "text": "WHERE MIDORIYA GOES, WE FOLLOW... UNDAUNTED, WE SHALL FIGHT UNTIL SHIGARAKI HAS FALLEN.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            547,
+            32,
+            599,
+            105
+        ],
+        "text": "NOT DAUNTED AT ALL!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            330,
+            401,
+            637,
+            548
+        ],
+        "text": "IN THE WAKE OF GUNGA AND JAKU, WE'VE BEEN DOING INTENSIVE TRAINING WITH THE PUSSYCATS. As much as we can without leaving the dorms. Why're you changing here?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            801,
+            222,
+            820,
+            243
+        ],
+        "text": "HUH?!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            743,
+            320,
+            840,
+            409
+        ],
+        "text": "...TO HELP ME COMPLETE ONE FOR ALL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            579,
+            835,
+            704
+        ],
+        "text": "KACCHAN AND THE OTHERS EVEN AGREED TO SPAR WITH ME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            108,
+            1047,
+            214
+        ],
+        "text": "I NEVER SAID THAT! DID SOME PRISON BREAKER RIP YOUR EARS OFF?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            29,
+            1030,
+            91
+        ],
+        "text": "I THOUGHT YOU'D CHANGED!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1045,
+            246,
+            1064,
+            414
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

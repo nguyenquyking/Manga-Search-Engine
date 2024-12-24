@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            111,
+            296,
+            172,
+            420
+        ],
+        "text": "...Did you reach out to me?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            508,
+            294,
+            612,
+            441
+        ],
+        "text": "Our battle never could've begun if you hadn't taken me from this room on that day.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            798,
+            67,
+            816,
+            109
+        ],
+        "text": "Yes.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            57,
+            1070,
+            173
+        ],
+        "text": "One for all emerged from the will to resist my brother, but...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            286,
+            1041,
+            392
+        ],
+        "text": "Can that boy really bring an end to all of this?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            483,
+            1112,
+            707
+        ],
+        "text": "Besides... what choice do you have now? You know this is the only way, which is why you've chosen to appear here in the first place, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

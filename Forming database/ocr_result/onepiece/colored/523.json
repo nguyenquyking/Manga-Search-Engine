@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            96,
+            39,
+            160,
+            134
+        ],
+        "text": "I've arrived in Hakumai.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            234,
+            126,
+            323
+        ],
+        "text": "Hello, Kaido?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            351,
+            126,
+            432
+        ],
+        "text": "Appa pa pa pa!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            534,
+            144,
+            666
+        ],
+        "text": "...You will find yourself in the domain of Hakumai.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            178,
+            175,
+            186,
+            236
+        ],
+        "text": "GCHUNK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            230,
+            492,
+            327,
+            662
+        ],
+        "text": "Kibi\nF.C.\nRingo\nKuri\nUdon\nHakumai\nOni",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            440,
+            141,
+            523,
+            230
+        ],
+        "text": "Appa pa pa! Of course we have!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            534,
+            36,
+            624,
+            137
+        ],
+        "text": "It's the annual Golden Festival!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            421,
+            459,
+            528,
+            560
+        ],
+        "text": "Even you've come back before the party?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            590,
+            499,
+            667
+        ],
+        "text": "What's this?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            127,
+            770,
+            211
+        ],
+        "text": "What's that?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            267,
+            811,
+            346
+        ],
+        "text": "Sounds great!\nLet's do it up!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            395,
+            824,
+            497
+        ],
+        "text": "It's going to be a very lively one this year.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            715,
+            574,
+            820,
+            691
+        ],
+        "text": "I'm not gonna get left out of the fun!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            22,
+            850,
+            112
+        ],
+        "text": "That's...the Numbers from Oni-Gashima...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            882,
+            19,
+            936,
+            110
+        ],
+        "text": "C'mon, let's get outta here!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            180,
+            921,
+            488
+        ],
+        "text": "ZDOOM!!\nZDOOM!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1075,
+            19,
+            1146,
+            96
+        ],
+        "text": "We don't wanna get gobbled up!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

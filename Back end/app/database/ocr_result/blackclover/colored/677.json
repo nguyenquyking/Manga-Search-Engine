@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            12,
+            94,
+            88,
+            396
+        ],
+        "text": "@XVALCLOVER\n@COLORCLOVERS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            90,
+            949,
+            600,
+            1387
+        ],
+        "text": "Devil\nUnion Mode:\nEquus",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1771,
+            113,
+            2023,
+            1070
+        ],
+        "text": "Characteristic:\nToughness",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

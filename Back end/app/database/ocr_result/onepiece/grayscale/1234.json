@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            144,
+            428,
+            444,
+            678
+        ],
+        "text": "WE'RE GOING TO CLAIM THE ONE PIECE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            103,
+            840,
+            354
+        ],
+        "text": "PREPARE YOURSELVES, FOR THAT IS THE WORLD OF VIOLENCE THAT WE SEEK!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            681,
+            428,
+            819,
+            741
+        ],
+        "text": "THE EXISTENCE OF THE ANCIENT WEAPONS WILL BRING FEAR AND WAR TO HUMANITY!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            713,
+            809,
+            812,
+            1013
+        ],
+        "text": "YEAAAAH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

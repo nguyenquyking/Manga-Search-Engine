@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            75,
+            503,
+            104,
+            613
+        ],
+        "text": "MEOW---",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            84,
+            87,
+            188,
+            227
+        ],
+        "text": "...PASSED THROUGH THE RIGHT-BRAIN TOWER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            289,
+            172,
+            417
+        ],
+        "text": "YAMATO AND MOMONOSUKE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            206,
+            388,
+            265,
+            451
+        ],
+        "text": "WAIT UP!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            288,
+            164,
+            289,
+            363
+        ],
+        "text": "GYAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            548,
+            82,
+            697,
+            201
+        ],
+        "text": "THE ENEMY'S STRENGTH IS ABOUT 5,400!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            569,
+            248,
+            628,
+            335
+        ],
+        "text": "THIS IS KING.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            555,
+            535,
+            611,
+            674
+        ],
+        "text": "GOT IT, BAO HUANG.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            833,
+            670,
+            952
+        ],
+        "text": "THEY'RE HEADING TO THE OUTSIDE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            769,
+            66,
+            899,
+            253
+        ],
+        "text": "MOST OF THEM ARE SAMURAI RALLYING AROUND ODEN'S VASSALS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1065,
+            231,
+            1224,
+            412
+        ],
+        "text": "KILL MOMONOSUKE AND BRING HIS HEAD TO ME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1052,
+            750,
+            1187,
+            973
+        ],
+        "text": "IN OTHER WORDS, THIS IS A REBELLION OF THE KOZUKI CLAN TO RESTORE THEIR HOUSE TO POWER!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1307,
+            687,
+            1489,
+            947
+        ],
+        "text": "THEY SEEK TO PLACE ODEN'S SON, KOZUKI MOMONOSUKE, UPON THE SHOGUN'S THRONE OF WANO!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1324,
+            85,
+            1497,
+            255
+        ],
+        "text": "THAT WILL BREAK THE WILL OF THE SAMURAI TO FIGHT!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

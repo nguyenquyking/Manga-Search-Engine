@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            68,
+            336,
+            89,
+            430
+        ],
+        "text": "SMILING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            279,
+            12,
+            275,
+            78
+        ],
+        "text": "BOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            486,
+            145,
+            596,
+            287
+        ],
+        "text": "...IS WHY WE LIVE OUR LIVES!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            698,
+            187,
+            833,
+            301
+        ],
+        "text": "AND IT'S NOT KINDNESS SO MUCH AS ME TWISTING THE KNIFE IN ENDEAVOR SOME MORE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            729,
+            25,
+            735,
+            94
+        ],
+        "text": "PWOP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            788,
+            629,
+            843,
+            723
+        ],
+        "text": "YOU'LL GET US CAUGHT, TOYA.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            45,
+            1053,
+            140
+        ],
+        "text": "YOU'LL BE ABLE TO USE IT, Y'KNOW...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            348,
+            1091,
+            476
+        ],
+        "text": "CAUGHT? SOCIETY DON'T GOT THE JUICE TO TAKE US DOWN RIGHT NOW.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            519,
+            1091,
+            609
+        ],
+        "text": "BUT THAT WAS AWFULLY KIND OF YOU.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

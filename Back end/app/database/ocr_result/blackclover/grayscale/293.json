@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            32,
+            628,
+            283,
+            1025
+        ],
+        "text": "Woo-Hoo!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            500,
+            868,
+            729,
+            1004
+        ],
+        "text": "You girls sure are cute!! Want to come get some tea with me?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            521,
+            80,
+            620,
+            202
+        ],
+        "text": "You're cursed!!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            644,
+            1036,
+            709
+        ],
+        "text": "There, see?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1128,
+            290,
+            1204,
+            555
+        ],
+        "text": "OOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1137,
+            548,
+            1380,
+            739
+        ],
+        "text": "You were no good to begin with, and the time you spent running away and trying to make yourself look cool made you even worse!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1188,
+            106,
+            1395,
+            285
+        ],
+        "text": "Once you pick up bad habits, they're not easy to break!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1201,
+            826,
+            1395,
+            948
+        ],
+        "text": "You're a playboy! You see a woman, and you instantly chat her up!!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

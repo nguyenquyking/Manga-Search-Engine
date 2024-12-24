@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            858,
+            39,
+            965,
+            141
+        ],
+        "text": "I feel the same way... We've only spent a year together...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            213,
+            982,
+            334
+        ],
+        "text": "...It's only by chance I wound up in the same class as the guy, but still!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            361,
+            899,
+            409
+        ],
+        "text": "Well...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            875,
+            446,
+            983,
+            526
+        ],
+        "text": "M-mind if we borrow this, sir?! Cuz...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1039,
+            23,
+            1080,
+            76
+        ],
+        "text": "...But that's plenty.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1077,
+            424,
+            1092,
+            460
+        ],
+        "text": "SKFF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

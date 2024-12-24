@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            70,
+            42,
+            172,
+            141
+        ],
+        "text": "What the heck is this?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            484,
+            30,
+            569,
+            137
+        ],
+        "text": "It's devil magic!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            193,
+            548,
+            312
+        ],
+        "text": "That's... magic from the other world!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            966,
+            57,
+            1097,
+            279
+        ],
+        "text": "Wind Magic: Tornado Fang",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            969,
+            709,
+            1132,
+            952
+        ],
+        "text": "Light Magic: Light Swords of Conviction",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            108,
+            151,
+            334,
+            391
+        ],
+        "text": "...Having imposed upon folks left and right, despite receiving a ritual cup...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            120,
+            476,
+            293,
+            722
+        ],
+        "text": "I am but a humble newcomer to this group...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            993,
+            308,
+            1327
+        ],
+        "text": "I hail from the Fish-Man District of Ryugu Kingdom, on the bottom of the sea...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            403,
+            702,
+            449,
+            1015
+        ],
+        "text": "BENG! BE BENG!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            829,
+            100,
+            997,
+            295
+        ],
+        "text": "BE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            883,
+            313,
+            1041,
+            643
+        ],
+        "text": "...Jimbei, First Son of the Sea!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            910,
+            1010,
+            1007
+        ],
+        "text": "They call me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            1167,
+            1028,
+            1370
+        ],
+        "text": "...From the boss of the Straw Hat Crew!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1499,
+            407,
+            1674,
+            707
+        ],
+        "text": "...I would be pleased to make your acquaintance!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1501,
+            956,
+            1667,
+            1232
+        ],
+        "text": "For the sake of a long and fruitful relationship...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1609,
+            737,
+            1777,
+            928
+        ],
+        "text": "He's joining the Straw Hats?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1652,
+            1252,
+            1758,
+            1375
+        ],
+        "text": "Are you kidding?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

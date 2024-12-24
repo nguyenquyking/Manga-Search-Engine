@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            96,
+            78,
+            109,
+            123
+        ],
+        "text": "GRRRG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            254,
+            223,
+            272,
+            294
+        ],
+        "text": "AWAAA!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            264,
+            123,
+            343,
+            212
+        ],
+        "text": "PICK UP WEAPONS!\nLET'S FIGHT BACK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            295,
+            46,
+            332,
+            95
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            651,
+            176,
+            727
+        ],
+        "text": "BRING ME EVERY\nYOUNG MAN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            265,
+            483,
+            322,
+            556
+        ],
+        "text": "...OF WORKING\nAGE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            88,
+            463,
+            171
+        ],
+        "text": "THERE'S NO WATER\nTO DRINK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            231,
+            475,
+            327
+        ],
+        "text": "WHAT HAPPENED TO\nTHE COLOR OF\nTHE RIVER?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            369,
+            471,
+            453
+        ],
+        "text": "DADDYYY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            651,
+            487,
+            721
+        ],
+        "text": "WAIT!\nDON'T\nTAKE HIM\nAWAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            535,
+            379,
+            598,
+            439
+        ],
+        "text": "DON'T\nTALK\nBACK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            133,
+            729,
+            213
+        ],
+        "text": "HAAGH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            233,
+            732,
+            313
+        ],
+        "text": "WE HAVE\nNOTHING\nTO EAT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            636,
+            757,
+            713
+        ],
+        "text": "THE\nCROPS\nCAN'T\nGROW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            685,
+            519,
+            733,
+            596
+        ],
+        "text": "AWAAA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            588,
+            1057,
+            634
+        ],
+        "text": "BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

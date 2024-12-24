@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            112,
+            228,
+            153,
+            384
+        ],
+        "text": "MAHA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            93,
+            1221,
+            240,
+            1436
+        ],
+        "text": "NO..!!\nDAMN YOU, IZO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            879,
+            76,
+            996,
+            263
+        ],
+        "text": "...Helping these kids out?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            819,
+            323,
+            1048,
+            473
+        ],
+        "text": "Why is a leftover from Whitebeard's crew...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1204,
+            76,
+            1351,
+            244
+        ],
+        "text": "I need to hurry and get Nico Robin...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            1001,
+            952,
+            1158
+        ],
+        "text": "DAMMIT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            1229,
+            984,
+            1455
+        ],
+        "text": "You were determined to take us down with you, then.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1236,
+            907,
+            1296,
+            1020
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1614,
+            181,
+            1761,
+            382
+        ],
+        "text": "The five elders have issued an edict.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1575,
+            429,
+            1648,
+            580
+        ],
+        "text": "Listen closely.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1520,
+            769,
+            1717,
+            987
+        ],
+        "text": "What is it?! It's just one thing after another here!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2056,
+            156,
+            2136,
+            365
+        ],
+        "text": "The five elders...?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2122,
+            1284,
+            2214,
+            1408
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

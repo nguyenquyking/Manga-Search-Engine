@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            96,
+            28,
+            186,
+            115
+        ],
+        "text": "But that does not matter now.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            457,
+            159,
+            559
+        ],
+        "text": "The likelihood you did it is 98 percent!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            589,
+            162,
+            697
+        ],
+        "text": "I've lost two of my men, and one baboon.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            28,
+            676,
+            130
+        ],
+        "text": "...or scramble and run in fear.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            576,
+            149,
+            682,
+            257
+        ],
+        "text": "Your choice in Wano is clear. Join the mighty...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            760,
+            16,
+            827,
+            123
+        ],
+        "text": "Okay! Then our choice is clear...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            623,
+            861,
+            705
+        ],
+        "text": "This is what Kin'emon said, Luffy!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            921,
+            620,
+            1003,
+            714
+        ],
+        "text": "\"Don't cause a fuss\"!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            27,
+            1104,
+            153
+        ],
+        "text": "We'll apologize to him later!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

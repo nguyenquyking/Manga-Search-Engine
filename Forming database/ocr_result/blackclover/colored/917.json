@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            368,
+            1243,
+            377,
+            1337
+        ],
+        "text": "KRAKL",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1124,
+            279,
+            1167,
+            848
+        ],
+        "text": "@____Nacht____//@Colorclovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1412,
+            1409,
+            1458,
+            1524
+        ],
+        "text": "GAJA?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

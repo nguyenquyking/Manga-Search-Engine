@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            72,
+            103,
+            195,
+            253
+        ],
+        "text": "...YOU GIANT MOLE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            319,
+            176,
+            419
+        ],
+        "text": "LET GO OF THAT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            485,
+            217,
+            625
+        ],
+        "text": "USOPP AND CHOPPER ARE IN THERE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            629,
+            153,
+            873
+        ],
+        "text": "BAM!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            91,
+            874,
+            204,
+            1017
+        ],
+        "text": "THE BRACHIO-TANK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            190,
+            320,
+            337,
+            444
+        ],
+        "text": "SHWEEE!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            654,
+            763,
+            772,
+            1011
+        ],
+        "text": "RADICAL BEAM!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1374,
+            86,
+            1409,
+            260
+        ],
+        "text": "JAKI!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

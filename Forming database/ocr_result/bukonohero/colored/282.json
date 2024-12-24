@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            360,
+            49,
+            445,
+            141
+        ],
+        "text": "I...said...This is my body...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            334,
+            304,
+            342,
+            373
+        ],
+        "text": "THROB",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            586,
+            32,
+            608,
+            103
+        ],
+        "text": "MASTER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            320,
+            971,
+            445
+        ],
+        "text": "Awake now, are you? No, I'm prescribing a good long rest.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1233,
+            80,
+            1353,
+            212
+        ],
+        "text": "The hyper-regeneration isn't working very well. I need you to be healthy.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

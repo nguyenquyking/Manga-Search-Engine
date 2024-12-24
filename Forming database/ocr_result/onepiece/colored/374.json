@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            67,
+            137,
+            158,
+            256
+        ],
+        "text": "WHAT'S WITH THESE MONSTERS, ODEN?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            160,
+            42,
+            223,
+            129
+        ],
+        "text": "THEY FOLLOWED ME HERE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            468,
+            135,
+            547
+        ],
+        "text": "WHAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            592,
+            154,
+            689
+        ],
+        "text": "KURI CASTLE, KURI",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            418,
+            22,
+            489,
+            136
+        ],
+        "text": "...AND THEN WE WERE GONNA DIE FROM VIOLENCE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            412,
+            161,
+            501,
+            287
+        ],
+        "text": "WE WERE ALREADY GONNA DIE FROM HUNGER AND BEING SHIPWRECKED...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            441,
+            312,
+            495,
+            367
+        ],
+        "text": "IT'S SO HOT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            406,
+            491,
+            458
+        ],
+        "text": "HUFF!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            447,
+            472,
+            489,
+            523
+        ],
+        "text": "HUFF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            420,
+            553,
+            516,
+            701
+        ],
+        "text": "THANK YOU FOR SAVING US IN OUR TIME OF NEED.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            560,
+            25,
+            588,
+            123
+        ],
+        "text": "MRRROW!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            656,
+            21,
+            744,
+            135
+        ],
+        "text": "HEY, THIS IS TOO HOT! I CAN'T EAT IT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            199,
+            759,
+            327
+        ],
+        "text": "MINK\nCAT VIPER",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            718,
+            484,
+            757,
+            620
+        ],
+        "text": "MINK\nDOGSTORM",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            836,
+            61,
+            930,
+            174
+        ],
+        "text": "WE AND YOUGARA ARE LIKE BROTHERS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            228,
+            924,
+            365
+        ],
+        "text": "YES, I BET! WE HAVE THAT SYMBOL IN OUR LAND TOO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            831,
+            412,
+            928,
+            540
+        ],
+        "text": "THEY ARE CALLED MINKS!! MY FATHER TOLD ME ABOUT THEM YEARS AGO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            837,
+            574,
+            920,
+            703
+        ],
+        "text": "I JUST CAN'T GET USED TO THIS... TALKING ANIMALS?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            42,
+            1110,
+            169
+        ],
+        "text": "YOU'VE SAVED OUR LIVES!! I'M SO HUNGRY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1090,
+            182,
+            1134,
+            241
+        ],
+        "text": "HUFF, HOFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

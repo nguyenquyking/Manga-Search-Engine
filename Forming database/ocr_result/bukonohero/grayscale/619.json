@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            77,
+            92,
+            153,
+            255
+        ],
+        "text": "They claimed you killed another hero during an argument!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            95,
+            282,
+            174,
+            371
+        ],
+        "text": "That never made the news...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            581,
+            169,
+            746
+        ],
+        "text": "You killed the President of the Safety Commission at that time?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            174,
+            401,
+            263
+        ],
+        "text": "You really are that ignorant, huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            322,
+            350,
+            460,
+            493
+        ],
+        "text": "Internal disputes? Mutiny? No way... That wasn't for the public to know.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            326,
+            552,
+            425,
+            701
+        ],
+        "text": "Yup. Even then, the Safety Commission had to keep up the illusion.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            184,
+            674,
+            260
+        ],
+        "text": "But it's paper-thin.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            729,
+            92,
+            766,
+            183
+        ],
+        "text": "A fragile illusion.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            626,
+            576,
+            763,
+            733
+        ],
+        "text": "This Superpowered Society is a gilded daydream seen through rose-colored glasses.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            998,
+            262,
+            1055,
+            381
+        ],
+        "text": "History will just repeat itself.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            976,
+            632,
+            1075,
+            740
+        ],
+        "text": "Say you bring back the status quo. Then what?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

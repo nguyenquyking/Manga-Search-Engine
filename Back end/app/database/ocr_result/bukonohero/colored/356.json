@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            48,
+            196,
+            165,
+            298
+        ],
+        "text": "WAKE THE HECK UP, SHIGARAKI! MACHIA NEEDS ORDERS!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            201,
+            416,
+            300,
+            499
+        ],
+        "text": "WHAT'S UP WITH THAT...? BUT ANYWAY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            201,
+            530,
+            303,
+            600
+        ],
+        "text": "HE KEPT IT HIDDEN FROM US...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            52,
+            850,
+            153,
+            933
+        ],
+        "text": "DABI NEVER SPOKE A WORD OF THIS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            500,
+            94,
+            559,
+            196
+        ],
+        "text": "GO AHEAD\u2014GET A DNA TEST.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            230,
+            562,
+            361
+        ],
+        "text": "DON'T BELIEVE ME? I'M HAPPY TO DONATE SOME BLOOD OR A HUNK OF SKIN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            583,
+            576,
+            694
+        ],
+        "text": "MY WORD... ANOTHER WITH QUITE THE BLOOD-LINE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            343,
+            724,
+            401
+        ],
+        "text": "FWP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            714,
+            771,
+            831,
+            892
+        ],
+        "text": "NOT THAT IT MATTERS, SINCE THE TEST I RAN HAS ALREADY GONE PUBLIC.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            62,
+            938,
+            306
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1068,
+            123,
+            1247,
+            308
+        ],
+        "text": "STILL, I'M SURE MANY OF YOU BELIEVE THIS TO BE AN ELABORATE HOAX, SO I'LL JUST HAVE TO CONVINCE YOU OTHERWISE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            768,
+            1224,
+            918
+        ],
+        "text": "THERE IS A 99.9 PERCENT MATCH BETWEEN MY DNA AND A SAMPLE OF ENDEAVOR'S BLOOD FROM THE BATTLE IN KYUSHU.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

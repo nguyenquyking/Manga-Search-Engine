@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            62,
+            149,
+            149,
+            221
+        ],
+        "text": "BUT NO MORE DAMAGE FROM NOW ON!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            368,
+            79,
+            471,
+            225
+        ],
+        "text": "...BUT I SWEAR I KNOW THAT VOICE FROM SOMEWHERE... WHO IS HE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            365,
+            245,
+            435,
+            345
+        ],
+        "text": "IT'S HARD TO SEE THROUGH THE SMOKE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            626,
+            480,
+            686
+        ],
+        "text": "RIGHT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            142,
+            1031,
+            222
+        ],
+        "text": "WAS THAT TOO MUCH?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            86,
+            57,
+            150,
+            163
+        ],
+        "text": "YOU WANNA JOIN IN WITH ME?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            622,
+            127,
+            736
+        ],
+        "text": "YOU WANT TO FIGHT AGAINST KAIDO AGAIN?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            70,
+            420,
+            148
+        ],
+        "text": "ARE YOU CRAZY?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            519,
+            646,
+            582,
+            736
+        ],
+        "text": "YOU SAW WHAT HAPPENED...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            700,
+            147,
+            759,
+            228
+        ],
+        "text": "...TO MY PARTNER!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            514,
+            597,
+            585
+        ],
+        "text": "SWISH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

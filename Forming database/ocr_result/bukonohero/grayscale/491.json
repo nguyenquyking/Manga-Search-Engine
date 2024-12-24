@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            122,
+            77,
+            169,
+            127
+        ],
+        "text": "What's going on down there?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            341,
+            158,
+            393
+        ],
+        "text": "Can't see through that smoke...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            542,
+            152,
+            593
+        ],
+        "text": "One minute remaining!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            46,
+            84,
+            88,
+            180
+        ],
+        "text": "EAT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            565,
+            116,
+            623
+        ],
+        "text": "CLANK...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            279,
+            146,
+            304,
+            210
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            84,
+            475,
+            191
+        ],
+        "text": "...DOES NOT FEEL HUNGER.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            215,
+            447,
+            598
+        ],
+        "text": "\u304e\u3085\u308b\u308b\u308b\u308b\u308b\u308b\nGLURRRRG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            423,
+            619,
+            447,
+            735
+        ],
+        "text": "A\nSAMURAI...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            685,
+            160,
+            735,
+            245
+        ],
+        "text": "HUH?!\nREALLY?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            405,
+            886,
+            482
+        ],
+        "text": "THEY'RE\nNOT\nHUNGRY?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            510,
+            891,
+            582
+        ],
+        "text": "THESE\nSAMURAI\nARE\nAMAZING.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            607,
+            861,
+            720
+        ],
+        "text": "BUT...!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1029,
+            598,
+            1109,
+            709
+        ],
+        "text": "I'B\nHUNGREE\n!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1045,
+            403,
+            1119,
+            531
+        ],
+        "text": "EAT UP... YOU\nPICKED A HELL OF\nA FAMILY TO GET\nBORN INTO.",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

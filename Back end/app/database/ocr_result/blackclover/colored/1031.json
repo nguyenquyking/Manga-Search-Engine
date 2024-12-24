@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            67,
+            597,
+            164,
+            741
+        ],
+        "text": "He's all yours!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            721,
+            651,
+            738,
+            737
+        ],
+        "text": "SHING",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            923,
+            788,
+            1177,
+            1197
+        ],
+        "text": "Star Magic: Quartile",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1392,
+            133,
+            1478,
+            520
+        ],
+        "text": "Scutum",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

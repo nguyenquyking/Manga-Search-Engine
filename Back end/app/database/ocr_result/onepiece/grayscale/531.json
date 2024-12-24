@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            36,
+            75,
+            139,
+            183
+        ],
+        "text": "...of Shimotsuki Ushimaru, Daimyo of Ringo, in his",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            50,
+            610,
+            148,
+            744
+        ],
+        "text": "Yes, I understand. He is a pirate from across the sea, and yet...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            198,
+            626,
+            275,
+            728
+        ],
+        "text": "...Strangely enough, he is the spitting image...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            211,
+            58,
+            288,
+            186
+        ],
+        "text": "Precisely! Even his style with the sword is the same!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            369,
+            60,
+            507,
+            199
+        ],
+        "text": "Add the fact that he returned Shusui to Wano, and I cannot help but feel that fate is at work!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            367,
+            619,
+            510,
+            740
+        ],
+        "text": "Lord Ushimaru was a descendant of Shimotsuki Ryuma, the God of the Blade!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            622,
+            83,
+            700,
+            230
+        ],
+        "text": "...was also a one-eyed samurai!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            603,
+            632,
+            720,
+            751
+        ],
+        "text": "Especially when you consider that Ryuma...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            278,
+            638,
+            488,
+            779
+        ],
+        "text": "IF ANYTHING COULD...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            621,
+            201,
+            646,
+            262
+        ],
+        "text": "SHUNK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1040,
+            95,
+            1064,
+            161
+        ],
+        "text": "HEY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            302,
+            1036,
+            382
+        ],
+        "text": "It's severed?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            684,
+            942,
+            745
+        ],
+        "text": "What's this?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

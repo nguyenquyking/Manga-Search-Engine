@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            596,
+            588,
+            612,
+            910
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            646,
+            600,
+            663,
+            666
+        ],
+        "text": "BWAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1293,
+            571,
+            1310,
+            696
+        ],
+        "text": "FUMIKAGE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1389,
+            757,
+            1403,
+            805
+        ],
+        "text": "GRP",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

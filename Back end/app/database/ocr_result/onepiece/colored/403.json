@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            78,
+            193,
+            138,
+            297
+        ],
+        "text": "Oww! Don't hit me with rocks!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            560,
+            283,
+            703
+        ],
+        "text": "Give Tsuru back!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            496,
+            171,
+            498,
+            217
+        ],
+        "text": "SHUNK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

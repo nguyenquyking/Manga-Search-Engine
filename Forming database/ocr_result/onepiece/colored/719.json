@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            79,
+            109,
+            156,
+            211
+        ],
+        "text": "...is a more inspirational figure than we knew...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            236,
+            145,
+            329
+        ],
+        "text": "It would seem that this man...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            370,
+            104,
+            409
+        ],
+        "text": "?",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            68,
+            450,
+            158,
+            611
+        ],
+        "text": "The people of Ebisu have rushed into the Flower Capital!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            652,
+            142,
+            730
+        ],
+        "text": "Drake!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            370,
+            68,
+            409,
+            182
+        ],
+        "text": "They're comin' here...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            53,
+            582,
+            141
+        ],
+        "text": "Stop, filthy peasants!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            161,
+            553,
+            233
+        ],
+        "text": "Don't ye dare kill",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            264,
+            583,
+            363
+        ],
+        "text": "Let us in to see Tonoyasu!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            397,
+            577,
+            519
+        ],
+        "text": "Hey, you!! You are not allowed in the capital!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            506,
+            564,
+            571,
+            624
+        ],
+        "text": "Stop! Turn back!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            654,
+            570,
+            738
+        ],
+        "text": "Entrance to the Flower Capital",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            968,
+            55,
+            1113,
+            206
+        ],
+        "text": "If you die, who will we have to support us?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            625,
+            1087,
+            733
+        ],
+        "text": "Don'tcha go dyin' on us now, Yasu!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

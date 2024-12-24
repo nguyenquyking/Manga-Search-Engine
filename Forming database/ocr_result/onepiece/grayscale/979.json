@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            56,
+            58,
+            151,
+            185
+        ],
+        "text": "You know who used to be the Second Division Commander before you...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            212,
+            61,
+            296,
+            188
+        ],
+        "text": "...and why the position was unfilled for so long!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            158,
+            411,
+            208,
+            455
+        ],
+        "text": "Whee\nWhee",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            59,
+            535,
+            136,
+            628
+        ],
+        "text": "How many times have I told you, Ace?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            58,
+            463,
+            173
+        ],
+        "text": "I made a promise!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            204,
+            472,
+            312
+        ],
+        "text": "Then let me go on my own!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            379,
+            455,
+            511
+        ],
+        "text": "We considered moving on Wano many times, but never did in the end.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            380,
+            592,
+            472,
+            711
+        ],
+        "text": "We only learned of Lord Oden's death...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            609,
+            358,
+            687,
+            533
+        ],
+        "text": "Could you imagine what would happen, and how many would lose their lives?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            616,
+            580,
+            685,
+            723
+        ],
+        "text": "...Several years after it happened...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            791,
+            58,
+            1003,
+            219
+        ],
+        "text": "...That Koziki Oden could not?!\nDon't be conceited, Ace!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            602,
+            946,
+            754
+        ],
+        "text": "You think you can vanquish the man...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            544,
+            1054,
+            609
+        ],
+        "text": "Whoa!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

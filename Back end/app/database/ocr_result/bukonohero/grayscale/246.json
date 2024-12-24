@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            62,
+            34,
+            143,
+            146
+        ],
+        "text": "TAKE MY HAND, AOYAMA.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            245,
+            22,
+            322,
+            120
+        ],
+        "text": "DEKU! I GET IT NOW!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            258,
+            191,
+            350,
+            323
+        ],
+        "text": "\"IF NOTHING ELSE, WE CAN CHOOSE HOW TO ENTER THIS FIGHT...\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            159,
+            629,
+            304
+        ],
+        "text": "...BE A HERO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            522,
+            615,
+            577,
+            701
+        ],
+        "text": "YOU CAN...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            408,
+            916,
+            482
+        ],
+        "text": "STILL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1117,
+            461,
+            1134,
+            633
+        ],
+        "text": "To be continued!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

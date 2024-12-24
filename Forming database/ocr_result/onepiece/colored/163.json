@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            66,
+            46,
+            171,
+            192
+        ],
+        "text": "I'LL LEAVE THESE GUYS TO YOU THEN!! LET'S GO, HAMLET!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            254,
+            64,
+            278,
+            154
+        ],
+        "text": "RIGHT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            288,
+            55,
+            375
+        ],
+        "text": "SWOON\u2661",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            44,
+            417,
+            117,
+            544
+        ],
+        "text": "WOW!! YOU'VE HEARD OF ME?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            52,
+            697,
+            189,
+            828
+        ],
+        "text": "KEEP THEM SAFE,\n\"GOD\" USOPP!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            100,
+            637,
+            183
+        ],
+        "text": "YOU FIRST...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            585,
+            339,
+            631,
+            400
+        ],
+        "text": "HUFF... HUFF...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            520,
+            517,
+            608,
+            626
+        ],
+        "text": "THE WINNER HAS ALREADY BEEN DECIDED!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            494,
+            725,
+            553,
+            801
+        ],
+        "text": "3RD FLOOR",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            644,
+            657,
+            761,
+            781
+        ],
+        "text": "RELEASE YOUR PARALYSIS JUTSU, RAIZO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            58,
+            735,
+            129
+        ],
+        "text": "FLICKER",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            978,
+            54,
+            1086,
+            174
+        ],
+        "text": "A FIRE THIS MILD CAN'T MAKE ME SWEAT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            941,
+            318,
+            1063,
+            410
+        ],
+        "text": "I AM A LOYAL RETAINER TO ODEN-SAMA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            959,
+            452,
+            1112,
+            553
+        ],
+        "text": "THE FLAMES WILL REACH YOU FIRST!!\nI SHALL BE FREE AFTER YOU BURN TO DEATH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            955,
+            729,
+            1066,
+            823
+        ],
+        "text": "IF THIS IS WHAT YOU WANT,\nSO BE IT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1124,
+            742,
+            1224,
+            833
+        ],
+        "text": "FATE WAS NOT ON YOUR SIDE...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

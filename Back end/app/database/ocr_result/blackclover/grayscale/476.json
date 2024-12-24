@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1057,
+            363,
+            1128,
+            489
+        ],
+        "text": "That's his...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1288,
+            119,
+            1425,
+            211
+        ],
+        "text": "Maybe it's good that I got him early.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1113,
+            972,
+            1190,
+            1048
+        ],
+        "text": "A spatial mage, hm?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

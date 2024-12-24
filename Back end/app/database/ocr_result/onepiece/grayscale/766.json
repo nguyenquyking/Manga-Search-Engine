@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            69,
+            64,
+            192,
+            152
+        ],
+        "text": "BECAUSE IT WAS GONNA HURT,\nHUH?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            49,
+            617,
+            172,
+            715
+        ],
+        "text": "DID YOU JUST DODGE\nTHAT ONE, KAIDO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            115,
+            501,
+            112,
+            563
+        ],
+        "text": "WOOO!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

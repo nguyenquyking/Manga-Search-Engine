@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            17,
+            165,
+            160,
+            278
+        ],
+        "text": "We abandoned our homes and came here because we thought we'd be safe!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            335,
+            130,
+            446
+        ],
+        "text": "What, and you were convinced by that crap?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            572,
+            147,
+            667
+        ],
+        "text": "He guaranteed our safety, no matter what.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            673,
+            137,
+            757
+        ],
+        "text": "Didn't you all hear the principal's explanation?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            168,
+            59,
+            222,
+            163
+        ],
+        "text": "So what's this ticking time bomb",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            389,
+            340,
+            503,
+            425
+        ],
+        "text": "Let him hide someplace else!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            389,
+            589,
+            486,
+            689
+        ],
+        "text": "Why's it gotta be U.A., huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            953,
+            122,
+            1080,
+            215
+        ],
+        "text": "Ida and them started linking this chain.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1053,
+            471,
+            1107,
+            516
+        ],
+        "text": "Hey, it's okay.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

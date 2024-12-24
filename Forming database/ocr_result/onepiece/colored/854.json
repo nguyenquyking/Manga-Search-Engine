@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            84,
+            12,
+            186,
+            108
+        ],
+        "text": "SOUNDS LIKE PLENTY!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            97,
+            96,
+            207,
+            161
+        ],
+        "text": "AS CHI'S AND AP- ONS-",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            97,
+            163,
+            184,
+            230
+        ],
+        "text": "...THE NUMBER OF THEIR MEN AND WEAPONS",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            241,
+            204,
+            323
+        ],
+        "text": "...THE FEAST TIME, KAIDO'S FAVORITE FOOD, HIS CREW'S HIERARCHY",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            337,
+            201,
+            442
+        ],
+        "text": "...THE CONTENTS OF THE OFFERINGS, THE SHOGUN'S PROCESSION WILL TAKE TO ONIGASHIMA...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            452,
+            188,
+            545
+        ],
+        "text": "...WAS OROCHI'S WAKING TIME ON THE DAY OF THE BIG BATTLE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            593,
+            174,
+            690
+        ],
+        "text": "I FEEL MISERABLE. THE ONLY INFORMATION I COULD GLEAN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            33,
+            549,
+            139
+        ],
+        "text": "BUT I WAS UNABLE TO BRING BACK A COPY OF THE TEXT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            182,
+            532,
+            286
+        ],
+        "text": "YOU'VE GOT GOOD LUCK WITH STONES, BONEKICHI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            325,
+            518,
+            410
+        ],
+        "text": "OH! YOU DID?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            445,
+            541,
+            536
+        ],
+        "text": "IT WAS NOT ONE OF THE RED ONES, ALAS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            562,
+            546,
+            690
+        ],
+        "text": "OH! SPEAKING OF WHICH, OROBI, I FOUND A PONEGLYPH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            16,
+            882,
+            103
+        ],
+        "text": "EXCEPT FOR YOU. YOU STAND OUT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            133,
+            895,
+            228
+        ],
+        "text": "YO HO HO! ANYWAY, OFF TO SEE ABOUT THAT BATH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            411,
+            885,
+            533
+        ],
+        "text": "IT WAS AN ODD ROOM, FULL OF CARVED WOODEN DOLLS.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            802,
+            560,
+            919,
+            692
+        ],
+        "text": "I FOUND IT WHILE IN SOUL FORM, BEHIND A VERY FIRM DOOR IN AN UNDERGROUND CHAMBER.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            267,
+            1134,
+            376
+        ],
+        "text": "THEN I SUPPOSE THE ROAD PONEGLYPH MUST BE ON ONIGASHIMA.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1062,
+            433,
+            1128,
+            513
+        ],
+        "text": "HMM? KOKESHI DOLLS?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            31,
+            1116,
+            114
+        ],
+        "text": "AWWWW!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            100,
+            333,
+            244,
+            441
+        ],
+        "text": "You are the future we believed in...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            505,
+            85,
+            595,
+            174
+        ],
+        "text": "You are hope.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            756,
+            151,
+            809,
+            225
+        ],
+        "text": "A mage stone!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            816,
+            73,
+            1009,
+            162
+        ],
+        "text": "He's used forbidden magic of the highest level on his own body?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            793,
+            349,
+            1008,
+            512
+        ],
+        "text": "To prevent my magic and body from falling into the hands of something wicked...I've pulled more negative magic into myself...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            851,
+            756,
+            1027,
+            867
+        ],
+        "text": "I don't... have full control. If this goes on, that devil will take me...!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            776,
+            899,
+            927,
+            1008
+        ],
+        "text": "Right now... I'm filled with tremendous negative mana.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1276,
+            76,
+            1419,
+            210
+        ],
+        "text": "You're the only one who can grant it.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1235,
+            244,
+            1312,
+            360
+        ],
+        "text": "Licht, stop!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1228,
+            909,
+            1249,
+            1000
+        ],
+        "text": "I'm sorry.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1337,
+            788,
+            1451,
+            901
+        ],
+        "text": "This is the last selfish request I'll make.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

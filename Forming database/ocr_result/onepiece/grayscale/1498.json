@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            112,
+            233,
+            270,
+            401
+        ],
+        "text": "Whether rainy, or windy, or snowy...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            97,
+            656,
+            278,
+            864
+        ],
+        "text": "...to caper about in front of the castle for scraps.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            127,
+            1108,
+            270,
+            1296
+        ],
+        "text": "Oden appeared in the capital once a week...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            356,
+            995,
+            419,
+            1113
+        ],
+        "text": "Here he is again.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            766,
+            126,
+            1004,
+            349
+        ],
+        "text": "What did you speak about with Orochi?! Why would you do this?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            452,
+            969,
+            614
+        ],
+        "text": "Please! Tell us the truth!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            712,
+            926,
+            1016
+        ],
+        "text": "I dance in the buff every week and receive money. That's my job.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            803,
+            1154,
+            967,
+            1326
+        ],
+        "text": "Please, Lord Oden!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1188,
+            119,
+            1416,
+            388
+        ],
+        "text": "Even the people of Kuri who believed in you the longest have grown sick of this.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1596,
+            144,
+            1769,
+            396
+        ],
+        "text": "A real samurai would rather commit seppuku than be Orochi's lapdog!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1596,
+            522,
+            1736,
+            748
+        ],
+        "text": "Whatever you do, don't turn out like him... He's pathetic!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1596,
+            895,
+            1712,
+            1059
+        ],
+        "text": "It's the fool of a lord!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1611,
+            1166,
+            1792,
+            1369
+        ],
+        "text": "Tales of his antics in the capital reached Kuri too.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

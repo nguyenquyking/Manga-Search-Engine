@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            475,
+            129,
+            1032,
+            548
+        ],
+        "text": "Although I did want them to be rewarded.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            434,
+            1037,
+            581,
+            1369
+        ],
+        "text": "That's reality.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            2167,
+            1351,
+            2588
+        ],
+        "text": "Not everyone who's right is necessarily rewarded for it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2977,
+            267,
+            3088,
+            529
+        ],
+        "text": "NO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1785,
+            1799,
+            1904,
+            1931
+        ],
+        "text": "Oh, yes.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1830,
+            2218,
+            1896,
+            2407
+        ],
+        "text": "Hey...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1851,
+            1380,
+            2281,
+            1672
+        ],
+        "text": "I brought the one you said to bring, but...it's too...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            3751,
+            148,
+            3837,
+            372
+        ],
+        "text": "Fuuaah",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

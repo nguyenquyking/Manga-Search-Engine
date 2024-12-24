@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            120,
+            89,
+            384,
+            210
+        ],
+        "text": "That's right!! The Knights got their bodies hijacked because of that Devil, and--!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            190,
+            636,
+            280,
+            766
+        ],
+        "text": "MTTR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            208,
+            845,
+            425,
+            993
+        ],
+        "text": "They claim that the cause of this disturbance was a \"Devil\" who ensnared and controlled the magic knights.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            604,
+            271,
+            772,
+            399
+        ],
+        "text": "He looks patently vulgar... He may be in a brigade, but that brigade is the Black Bulls, correct?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            122,
+            900,
+            232
+        ],
+        "text": "Aren't those horns the proof of a devil?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            878,
+            692,
+            944
+        ],
+        "text": "A devil?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            734,
+            856,
+            838
+        ],
+        "text": "Can we believe testimony from a peasant?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            162,
+            1177,
+            228
+        ],
+        "text": "From the very beginning...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1044,
+            473,
+            1204,
+            603
+        ],
+        "text": "Only people like that are assembled here in the first place!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            635,
+            1192,
+            795
+        ],
+        "text": "There's so much that it's dimming Asta's assertion that we can understand each other!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            861,
+            1248,
+            1004
+        ],
+        "text": "Wizard King Julius worked hard, and yet there's still all this prejudice and discrimination...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1281,
+            292,
+            1348,
+            380
+        ],
+        "text": "Please, listen to me!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

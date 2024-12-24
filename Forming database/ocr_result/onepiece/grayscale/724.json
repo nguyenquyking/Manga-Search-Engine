@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            45,
+            73,
+            74,
+            150
+        ],
+        "text": "HMM?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            192,
+            98,
+            256
+        ],
+        "text": "I TOLD YOU TO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            33,
+            291,
+            77,
+            350
+        ],
+        "text": "HUH?! HEY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            588,
+            152,
+            731
+        ],
+        "text": "RUN AWAY, KOMACHIYO!!\nAS FAR AS YOU CAN GET!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            46,
+            460,
+            128
+        ],
+        "text": "SHE VANISHED!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            332,
+            218,
+            362,
+            262
+        ],
+        "text": "KWING!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            392,
+            320,
+            449,
+            369
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            414,
+            398,
+            487,
+            483
+        ],
+        "text": "...STAY RIGHT THERE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            599,
+            73,
+            632,
+            193
+        ],
+        "text": "GYIPE!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            601,
+            573,
+            725,
+            724
+        ],
+        "text": "ULTI-MORTAR!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            802,
+            70,
+            816,
+            134
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1028,
+            78,
+            1093,
+            148
+        ],
+        "text": "EEEK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            179,
+            1072,
+            247
+        ],
+        "text": "AAAH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

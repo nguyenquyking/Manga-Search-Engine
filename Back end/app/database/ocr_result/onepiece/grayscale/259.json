@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            76,
+            71,
+            180,
+            204
+        ],
+        "text": "Course they are. No poor slob could understand the deliciousness of our noodles.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            284,
+            209,
+            385
+        ],
+        "text": "Yeah. It's real easy to tell who lives in the poorhouses by their clothes.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            149,
+            477,
+            216,
+            560
+        ],
+        "text": "Heh heh! Nice and plump, big bro!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            106,
+            619,
+            164,
+            687
+        ],
+        "text": "Well? How's today's haul?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            246,
+            268,
+            297,
+            332
+        ],
+        "text": "They're easy marks!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            59,
+            512,
+            182
+        ],
+        "text": "It takes a person of proper status and palate to appreciate them.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            654,
+            102,
+            767,
+            222
+        ],
+        "text": "They'll scarf down lesser ones with lower buckwheat content!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            684,
+            561,
+            774,
+            699
+        ],
+        "text": "Poor slobs with their dull tongues don't deserve those noodles.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            491,
+            1027,
+            599
+        ],
+        "text": "I figured as much.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

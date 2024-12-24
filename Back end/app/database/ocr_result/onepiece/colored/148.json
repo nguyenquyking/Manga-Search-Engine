@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            310,
+            684,
+            339,
+            787
+        ],
+        "text": "GREIISH",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            419,
+            823,
+            430,
+            891
+        ],
+        "text": "GREIISH",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            518,
+            256,
+            552,
+            398
+        ],
+        "text": "WAAAAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            642,
+            780,
+            672,
+            851
+        ],
+        "text": "WOAH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1071,
+            119,
+            1159,
+            210
+        ],
+        "text": "GREIISH",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

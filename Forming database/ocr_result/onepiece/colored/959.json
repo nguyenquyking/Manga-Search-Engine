@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            66,
+            112,
+            121,
+            185
+        ],
+        "text": "AIEEE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            61,
+            331,
+            169,
+            419
+        ],
+        "text": "...and had to flee in disgrace, from what the rumors say!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            451,
+            150,
+            552
+        ],
+        "text": "He tried to mess with Big Mom and got his arm ripped off...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            594,
+            172,
+            701
+        ],
+        "text": "Nah, trust me, his reputation's in tatters now.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            23,
+            140,
+            102
+        ],
+        "text": "KA-CHUNK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            192,
+            210,
+            280,
+            301
+        ],
+        "text": "Why are you wasting your time with that crap?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            146,
+            549,
+            319
+        ],
+        "text": "And I lost my arm here in a battle with the Red-Hair Pirates before all of that.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            368,
+            556,
+            533
+        ],
+        "text": "All I did was wound one of her generals and take what I meant to take!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            585,
+            550,
+            696
+        ],
+        "text": "I've never tried to go after Big Mom.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            48,
+            596,
+            150
+        ],
+        "text": "Any other questions you need cleared up?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            700,
+            20,
+            733,
+            100
+        ],
+        "text": "no!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            351,
+            775,
+            431
+        ],
+        "text": "K...K-K Kid!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            591,
+            915,
+            703
+        ],
+        "text": "And let me be clear!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            7,
+            1028,
+            160
+        ],
+        "text": "No, it'll be me!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            579,
+            1124,
+            699
+        ],
+        "text": "The one who gets famous for destroying Kaido will be me!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

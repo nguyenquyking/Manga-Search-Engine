@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            507,
+            583,
+            590,
+            733
+        ],
+        "text": "Did you enjoy your Q&A session with Lady Nagant?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            319,
+            652,
+            418
+        ],
+        "text": "Because if you're seeing this message...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            659,
+            56,
+            692,
+            209
+        ],
+        "text": "CLAP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            841,
+            325,
+            913,
+            453
+        ],
+        "text": "CLAP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            990,
+            308,
+            1077,
+            398
+        ],
+        "text": "...That must've been what happened.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            952,
+            522,
+            1019,
+            624
+        ],
+        "text": "Well, Izuku Midoriya?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

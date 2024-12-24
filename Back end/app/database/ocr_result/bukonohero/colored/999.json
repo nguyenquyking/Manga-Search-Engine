@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            129,
+            469,
+            250,
+            601
+        ],
+        "text": "What was your intent in making that face?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            11,
+            414,
+            157
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1209,
+            29,
+            1290,
+            102
+        ],
+        "text": "Ah, yeah, I just...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1179,
+            279,
+            1344,
+            410
+        ],
+        "text": "I take it you're aware of my status as All Might's former sidekick, you ruffian?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1162,
+            442,
+            1182,
+            494
+        ],
+        "text": "Guh...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            26,
+            314,
+            129,
+            367
+        ],
+        "text": "SWOOP SWOOP!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            242,
+            608,
+            270,
+            696
+        ],
+        "text": "HRG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            362,
+            431,
+            413,
+            522
+        ],
+        "text": "Abilities alone...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            414,
+            240,
+            496,
+            324
+        ],
+        "text": "...cannot conquer the world!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            460,
+            56,
+            512,
+            129
+        ],
+        "text": "Gum-Gum...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            524,
+            171,
+            539,
+            215
+        ],
+        "text": "GRRR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            652,
+            689,
+            693,
+            753
+        ],
+        "text": "SHK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            985,
+            611,
+            1047,
+            700
+        ],
+        "text": "HURBP!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

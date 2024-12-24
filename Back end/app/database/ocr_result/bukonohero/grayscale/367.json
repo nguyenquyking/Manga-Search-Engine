@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            361,
+            322,
+            449,
+            424
+        ],
+        "text": "After meeting up, let's start planning right away.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            365,
+            595,
+            470,
+            691
+        ],
+        "text": "She'll be entering our airspace soon.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            700,
+            299,
+            777,
+            410
+        ],
+        "text": "Her nature may prove our salvation.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            713,
+            487,
+            822,
+            604
+        ],
+        "text": "...But are they gonna throw the book at her?\nY'know, after all this?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            633,
+            830,
+            748
+        ],
+        "text": "It's seriously reassuring to have Star on our side...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            284,
+            1057,
+            376
+        ],
+        "text": "For quite some time now, I've wanted to chat with her...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            974,
+            116,
+            1099,
+            215
+        ],
+        "text": "...About that treasured vintage denim from the Gold Rush.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

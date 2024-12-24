@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            318,
+            132,
+            436,
+            266
+        ],
+        "text": "THEIR ADVENTURE CONTINUES ONWARD!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            145,
+            450,
+            552,
+            663
+        ],
+        "text": "AT THE IMPREGNABLE ENIES LOBBY...\nCP9 VS THE STRAW HAT PIRATES...\nENDED IN THE LATTER'S COMPLETE VICTORY!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            122,
+            1269,
+            240,
+            1450
+        ],
+        "text": "MY FRIENDS HAVE...\nWAITED LONG ENOUGH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            280,
+            1572,
+            408,
+            1697
+        ],
+        "text": "MY FORECAST IS NEVER WRONG!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            197,
+            1855,
+            284,
+            1994
+        ],
+        "text": "NO MATTER HOW STRONG YOU ARE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            826,
+            787,
+            959,
+            876
+        ],
+        "text": "I'LL BE TAKING YOUR KEY!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            573,
+            926,
+            667
+        ],
+        "text": "THE PLAN TO SAVE ROBIN WAS A TOTAL SUCCESS.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1192,
+            411,
+            1368,
+            573
+        ],
+        "text": "WITH THEIR NEWFOUND NOTORIETY CREATING RIPPLES ACROSS THE SEAS...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1457,
+            53,
+            1495,
+            315
+        ],
+        "text": "NAMI VS KALIFA...END",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

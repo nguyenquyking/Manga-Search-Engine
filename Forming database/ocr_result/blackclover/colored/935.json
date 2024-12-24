@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            32,
+            243,
+            20,
+            320
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            109,
+            462,
+            343,
+            627
+        ],
+        "text": "DANG,\nTHAT WAS\nWAY TOO\nCLOSE!!\nI BARELY\nMADE\nIT!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            841,
+            383,
+            1071
+        ],
+        "text": "THAT'S\nRIGHT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            531,
+            908,
+            794,
+            1029
+        ],
+        "text": "WE\nSAW\nEACH\nOTHER\nAGAIN\nJUST\nFINE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1214,
+            88,
+            1377,
+            284
+        ],
+        "text": "RIGHT,\nNOELLE\n?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

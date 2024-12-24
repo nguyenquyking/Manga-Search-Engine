@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            45,
+            81,
+            133,
+            208
+        ],
+        "text": "...would've been dying and having my quirk stolen outright.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            45,
+            632,
+            83,
+            732
+        ],
+        "text": "The worst case...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            264,
+            213,
+            263,
+            239
+        ],
+        "text": "KRMBL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            305,
+            494,
+            380,
+            576
+        ],
+        "text": "...as an added bonus. Too bad.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            305,
+            613,
+            415,
+            719
+        ],
+        "text": "Sure, it would've been nice to protect my body too...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            55,
+            788,
+            167
+        ],
+        "text": "It's a small price to",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            278,
+            733,
+            401
+        ],
+        "text": "...in exchange for just my life?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            607,
+            814,
+            775
+        ],
+        "text": "Stopping this global menace...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

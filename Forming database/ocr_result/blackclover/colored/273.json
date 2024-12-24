@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            94,
+            39,
+            314,
+            242
+        ],
+        "text": "But the magic knights used forbidden magic to form a contract at the expense of something... and used that power, despite its limitations, to disrupt the earth...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            213,
+            662,
+            358,
+            748
+        ],
+        "text": "A demon cannot appear in our world.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            776,
+            213,
+            895
+        ],
+        "text": "As long as nothing irregular happens...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            406,
+            609,
+            554
+        ],
+        "text": "Or, at least, that was how it was supposed to be.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            637,
+            185,
+            674,
+            471
+        ],
+        "text": "Twitter: @ColorClovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            845,
+            39,
+            1012,
+            187
+        ],
+        "text": "Are crawling like worms in our world...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            786,
+            978,
+            912
+        ],
+        "text": "And now those shadows...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

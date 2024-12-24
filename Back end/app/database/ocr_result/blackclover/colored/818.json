@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            155,
+            1375,
+            286,
+            1536
+        ],
+        "text": "It's called...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            592,
+            1071,
+            801
+        ],
+        "text": "fear!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1479,
+            153,
+            1582,
+            261
+        ],
+        "text": "I can only maintain Devil Union for five, so we've gotta hurry!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1474,
+            429,
+            1541,
+            504
+        ],
+        "text": "It's been a minute already!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1692,
+            680,
+            1719,
+            725
+        ],
+        "text": "Oh!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1925,
+            564,
+            1937,
+            677
+        ],
+        "text": "WHIRR",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

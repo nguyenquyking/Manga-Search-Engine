@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            98,
+            468,
+            144,
+            541
+        ],
+        "text": "...WE FAILED.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            259,
+            22,
+            328,
+            265
+        ],
+        "text": "BUT! You must be suffering, you poor thing.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            443,
+            61,
+            599,
+            227
+        ],
+        "text": "Well, what do you say? Will you join our family and allow me to raise you?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            482,
+            482,
+            607,
+            663
+        ],
+        "text": "I might just be able to restore your flames to their full glory!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            38,
+            1065,
+            169
+        ],
+        "text": "...Am I getting trained by anyone else?",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            738,
+            372,
+            786,
+            437
+        ],
+        "text": "No way...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            786,
+            500,
+            804,
+            568
+        ],
+        "text": "Hmm?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            646,
+            1088,
+            712
+        ],
+        "text": "Shut up...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            37,
+            421,
+            156,
+            511
+        ],
+        "text": "If this drags on, the sword will suck the life from me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            556,
+            129,
+            625
+        ],
+        "text": "I don't have much time...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            665,
+            79,
+            726
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            248,
+            270,
+            332,
+            371
+        ],
+        "text": "I can sense the threat you represent.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            152,
+            515,
+            252
+        ],
+        "text": "Same to you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            509,
+            25,
+            634,
+            145
+        ],
+        "text": "Your crew has ruled over this place long enough. Time to go.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            586,
+            558,
+            726
+        ],
+        "text": "So he's definitely from some kind of special race... But it's got nothing to do with me.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            597,
+            598,
+            648,
+            663
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            719,
+            45,
+            843,
+            185
+        ],
+        "text": "Kaido is the man who will be King of the Pirates!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            274,
+            817,
+            368
+        ],
+        "text": "Don't get full of yourself...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            623,
+            830,
+            711
+        ],
+        "text": "King of Hell, Three-Sword Style...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            533,
+            851,
+            570
+        ],
+        "text": "Zap!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

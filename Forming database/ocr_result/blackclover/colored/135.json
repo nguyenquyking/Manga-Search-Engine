@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            133,
+            7,
+            182,
+            76
+        ],
+        "text": "DARK MAGIC!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            271,
+            336,
+            347,
+            402
+        ],
+        "text": "INTERFERENCE FROM THE OTHER WORLD?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            530,
+            36,
+            574,
+            137
+        ],
+        "text": "CAPTAIN... YAMI...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1015,
+            7,
+            1092,
+            121
+        ],
+        "text": "YOU BASTARDS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

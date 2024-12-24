@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            129,
+            9,
+            222,
+            134
+        ],
+        "text": "That's...how they got away in Kamino too, right?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            151,
+            158,
+            201,
+            222
+        ],
+        "text": "Vanished... Darn... That stinks!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            210,
+            667,
+            288,
+            796
+        ],
+        "text": "SKF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            666,
+            74,
+            799,
+            188
+        ],
+        "text": "They headed off the danger... The threat is now gone!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            679,
+            580,
+            736,
+            688
+        ],
+        "text": "The crisis has passed...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            586,
+            832,
+            700,
+            904
+        ],
+        "text": "Glance Glance",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            888,
+            753,
+            906,
+            822
+        ],
+        "text": "Anyway...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1165,
+            32,
+            1347,
+            214
+        ],
+        "text": "They can't hear me down there, but let me say this...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

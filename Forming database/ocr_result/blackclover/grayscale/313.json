@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            188,
+            643,
+            326,
+            741
+        ],
+        "text": "...to pursue you until it strikes you.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            320,
+            890,
+            412,
+            960
+        ],
+        "text": "I told my spell...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            809,
+            793,
+            962
+        ],
+        "text": "That's...Is it a unique Heart Kingdom magic technique?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

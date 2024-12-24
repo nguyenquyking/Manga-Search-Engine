@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            103,
+            254,
+            181,
+            289
+        ],
+        "text": "...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            702,
+            362,
+            881,
+            545
+        ],
+        "text": "BE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            699,
+            846,
+            902,
+            1012
+        ],
+        "text": "No!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            201,
+            892,
+            375
+        ],
+        "text": "This is not what I expected!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1337,
+            148,
+            1537,
+            443
+        ],
+        "text": "I've just had my mansion built. I'd rather not have it used as a battleground...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1337,
+            527,
+            1524,
+            741
+        ],
+        "text": "Perhaps I have a spy in your castle, Woro Ro Ro Ro...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1328,
+            823,
+            1546,
+            1118
+        ],
+        "text": "I was on my way to cut off your head as you sat on that empty island drinking yourself to sleep.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1324,
+            1183,
+            1533,
+            1360
+        ],
+        "text": "Why are you so thoroughly prepared?! How did you know?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1674,
+            832,
+            1760,
+            995
+        ],
+        "text": "FWAP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1844,
+            118,
+            1995,
+            311
+        ],
+        "text": "So I came out to meet you instead...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1879,
+            815,
+            2023,
+            992
+        ],
+        "text": "I wasn't expecting a battle of numbers.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

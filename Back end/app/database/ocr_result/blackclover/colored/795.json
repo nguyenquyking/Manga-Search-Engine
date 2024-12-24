@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            81,
+            296,
+            148,
+            341
+        ],
+        "text": "Geh heh heh!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            182,
+            49,
+            297,
+            134
+        ],
+        "text": "...I'd run into you in this world!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            144,
+            516,
+            271
+        ],
+        "text": "Lilith and Naamah,\nhigh-level devils.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            225,
+            262,
+            271,
+            347
+        ],
+        "text": "Who'd have thought...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            592,
+            240,
+            756
+        ],
+        "text": "We spent...\ncenturies...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            607,
+            392,
+            682,
+            485
+        ],
+        "text": "...in the underworld...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            925,
+            613,
+            1047,
+            750
+        ],
+        "text": "...and nothing this entertaining ever happened!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

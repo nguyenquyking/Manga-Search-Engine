@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            148,
+            87,
+            214,
+            202
+        ],
+        "text": "After all,\nyou're the\nnext me.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            98,
+            662,
+            193,
+            789
+        ],
+        "text": "I won't be\nyour stinkin'\npawn!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            420,
+            661,
+            447
+        ],
+        "text": "TAP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            835,
+            652,
+            948,
+            751
+        ],
+        "text": "You're\nso very\nnear and\ndear to\nme...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            802,
+            784,
+            912,
+            884
+        ],
+        "text": "Pawn?\nYou have\nit all\nwrong,\nTomura!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

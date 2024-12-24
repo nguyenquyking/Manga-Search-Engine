@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            61,
+            69,
+            175,
+            176
+        ],
+        "text": "...am a villain through and through.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            555,
+            136,
+            657
+        ],
+        "text": "I, Yuga Aoyama...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            303,
+            604,
+            362,
+            696
+        ],
+        "text": "Oh yeah? Then why did you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            539,
+            429,
+            599,
+            579
+        ],
+        "text": "...try to save Kacchan and Tokoyami...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            382,
+            760,
+            471
+        ],
+        "text": "...back in the forest?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            35,
+            1060,
+            132
+        ],
+        "text": "Did all for one order you to do to that too? Huh?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            257,
+            1068,
+            332
+        ],
+        "text": "And the cheese you left me that night...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1116,
+            187,
+            1128,
+            346
+        ],
+        "text": "Cheese pieces: I know",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

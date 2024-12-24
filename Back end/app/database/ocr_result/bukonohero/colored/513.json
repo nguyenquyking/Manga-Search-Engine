@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            97,
+            98,
+            148,
+            186
+        ],
+        "text": "So many...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            705,
+            208,
+            861
+        ],
+        "text": "Understood!\nI had high\nhopes for\nyou, Momo,\nand you didn't\ndisappoint!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            837,
+            82,
+            858,
+            207
+        ],
+        "text": "...Gnats.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            588,
+            888,
+            717
+        ],
+        "text": "C'mon,\neveryone!\nThose\ntrainees\nhave done\nmore than\nenough for\none day!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            431,
+            837,
+            499
+        ],
+        "text": "GWAHH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1202,
+            136,
+            1223,
+            221
+        ],
+        "text": "It's over...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

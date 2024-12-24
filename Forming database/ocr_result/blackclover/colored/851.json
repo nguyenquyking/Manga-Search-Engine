@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            103,
+            648,
+            194,
+            759
+        ],
+        "text": "You're not the one!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            158,
+            69,
+            309,
+            196
+        ],
+        "text": "...could never bring me supreme joy!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            255,
+            549,
+            380,
+            687
+        ],
+        "text": "No, a grotesque creature like you...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            62,
+            573,
+            218
+        ],
+        "text": "I'M JUST A PEASANT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            628,
+            580,
+            747
+        ],
+        "text": "YEAH. THAT'S RIGHT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            288,
+            895,
+            419
+        ],
+        "text": "I'M NOT LUCK. HE'S A COMMONER, BUT HE'S GOT INCREDIBLE INSTINCTS.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            740,
+            642,
+            870,
+            763
+        ],
+        "text": "I WASN'T BORN AWESOME, LIKE A NOBLE OR A ROYAL.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            899,
+            54,
+            1046,
+            213
+        ],
+        "text": "EVER SINCE HE REINCARNATED AS AN ELF, HE KEEPS GETTING STRONGER TOO.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

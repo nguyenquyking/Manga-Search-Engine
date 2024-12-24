@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            343,
+            104,
+            647,
+            267
+        ],
+        "text": "YOU DON'T HAVE TO EXPLAIN!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            523,
+            431,
+            666
+        ],
+        "text": "Yeah, about that...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            269,
+            841,
+            603,
+            1190
+        ],
+        "text": "THE PERSON WHO ALWAYS ACTS LIKE A CHILD... REALLY TURNED INTO A CHILD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            252,
+            1991,
+            407,
+            2174
+        ],
+        "text": "OH... WHA... UM...!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            518,
+            1571,
+            842,
+            2005
+        ],
+        "text": "I'M JUST FINE, BUT THIS...! WHA!? WHAT'S GOING ON HERE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1398,
+            670,
+            1668,
+            976
+        ],
+        "text": "YOU REALLY ARE A RECKLESS PERSON...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1155,
+            1304,
+            1516,
+            1678
+        ],
+        "text": "...THE KINGDOM IS IN GREAT PERIL AND... THAT FORM, TOO...! HONESTLY...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1327,
+            1960,
+            1597,
+            2190
+        ],
+        "text": "JUST PLEASE LET ME LOOK INTO YOUR MEMORIES!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2251,
+            234,
+            2591,
+            483
+        ],
+        "text": "YOU CAME BACK TO US...!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2257,
+            1334,
+            2429,
+            1548
+        ],
+        "text": "I'M SO HAPPY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

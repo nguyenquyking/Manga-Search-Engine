@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            87,
+            43,
+            151,
+            133
+        ],
+        "text": "Another race blessed by mana!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            461,
+            230,
+            574,
+            360
+        ],
+        "text": "The Elf Chief, Licht, was the first friend the prince could treat as an equal.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            453,
+            567,
+            582,
+            700
+        ],
+        "text": "Tremendous magic power and natural talent, the same way of thinking and ideals... The same four-leaf grimoires...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            848,
+            101,
+            989,
+            197
+        ],
+        "text": "And the elves' magic stones... Stones that could amplify magic power and were connected to the other world.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            860,
+            600,
+            963,
+            690
+        ],
+        "text": "A magic tool that could store magic power and distribute it...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

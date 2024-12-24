@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            134,
+            110,
+            556,
+            195
+        ],
+        "text": "ZZZZZT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            436,
+            584,
+            588,
+            747
+        ],
+        "text": "PEOPLE WHO ARE RIGHT AREN'T NECESSARILY REWARDED.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            537,
+            870,
+            651,
+            973
+        ],
+        "text": "BLOOP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1196,
+            777,
+            1244,
+            839
+        ],
+        "text": "AND SO...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1273,
+            307,
+            1316,
+            427
+        ],
+        "text": "...GET STRONGER.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1251,
+            413,
+            1473,
+            762
+        ],
+        "text": "ZZZZZT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1408,
+            223,
+            1526,
+            340
+        ],
+        "text": "ZZZT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            32,
+            70,
+            89,
+            171
+        ],
+        "text": "Not a hint of hesitation.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            283,
+            57,
+            393,
+            168
+        ],
+        "text": "...and still leapt into action like it was the natural thing to do.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            285,
+            194,
+            378,
+            302
+        ],
+        "text": "He recognized an enemy for who he was...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            551,
+            147,
+            613,
+            242
+        ],
+        "text": "When was it, I wonder?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            827,
+            84,
+            921,
+            270
+        ],
+        "text": "...Did the platitudes start making me wanna puke?",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            883,
+            319,
+            974,
+            407
+        ],
+        "text": "\"...Will make our society a better place.\"",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            654,
+            854,
+            741
+        ],
+        "text": "\"That right arm of yours...\"",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

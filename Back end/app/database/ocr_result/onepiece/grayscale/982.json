@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            42,
+            69,
+            103,
+            213
+        ],
+        "text": "DON'T WORRY.\nIF HE WAS UPSET,\nHE WOULD HAVE",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            265,
+            218,
+            376
+        ],
+        "text": "THEN I\nTOUCHED\nA REALLY\nSORE\nSPOT FOR\nHIM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            613,
+            183,
+            741
+        ],
+        "text": "...ACE'S\nBROTHER\n?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            264,
+            80,
+            341,
+            216
+        ],
+        "text": "MORE\nIMPORTANTLY,\nLET'S DO THAT\nPLAN OF YOURS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            306,
+            345,
+            324,
+            400
+        ],
+        "text": "GONG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            420,
+            71,
+            533,
+            187
+        ],
+        "text": "...AND\nLUFFY'S\nBROTHER\n?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            437,
+            534,
+            545
+        ],
+        "text": "SO\nHE WAS\nROGER'S\nSON...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            624,
+            487,
+            690
+        ],
+        "text": "HUH\n...?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            396,
+            630,
+            454
+        ],
+        "text": "GONG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            587,
+            69,
+            646,
+            182
+        ],
+        "text": "IS THIS\nTRUE?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            746,
+            314,
+            848,
+            430
+        ],
+        "text": "OUT OF ALL\nTHE PIRATES,\nAS NUMEROUS\nAS STARS IN\nTHE SKY...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            136,
+            858,
+            280
+        ],
+        "text": "...YOU HAPPENED\nTO MEET HIM,\nAND BROUGHT\nHIM TO THIS\nCOUNTRY...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            463,
+            807,
+            543
+        ],
+        "text": "YES,\nINDEED...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            588,
+            849,
+            719
+        ],
+        "text": "YOU'RE\nTHE ONES WHO\nBROUGHT LUFFY\nHERE TO WANO,\nAREN'T YOU?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            57,
+            1059,
+            207
+        ],
+        "text": "I CAN ONLY\nCONSIDER\nTHAT AN ACT\nOF FATE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

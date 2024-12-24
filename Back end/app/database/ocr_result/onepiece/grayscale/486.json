@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            572,
+            166,
+            666,
+            287
+        ],
+        "text": "You were saying something about luck?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            568,
+            421,
+            646,
+            513
+        ],
+        "text": "Not another word!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            666,
+            71,
+            744,
+            148
+        ],
+        "text": "Owaa Aaaaa!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            730,
+            718,
+            804,
+            790
+        ],
+        "text": "!!?",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1001,
+            237,
+            1106,
+            396
+        ],
+        "text": "Oden One-Sword Style...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1140,
+            1226,
+            1201,
+            1333
+        ],
+        "text": "They've split...!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1132,
+            1421,
+            1210,
+            1544
+        ],
+        "text": "The Heavens...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            403,
+            779,
+            393,
+            929
+        ],
+        "text": "BOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

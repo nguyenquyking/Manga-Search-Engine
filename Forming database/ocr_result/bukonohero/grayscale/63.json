@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            33,
+            56,
+            186,
+            267
+        ],
+        "text": "...THAT FRENZIED FLAME OF DEATH.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            11,
+            581,
+            242,
+            762
+        ],
+        "text": "THE DEMON LORD HIMSELF HAD TO ABANDON...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

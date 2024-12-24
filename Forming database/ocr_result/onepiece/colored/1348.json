@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            58,
+            45,
+            232,
+            228
+        ],
+        "text": "THIS 141-YEAR-OLD IS A DOCTOR IN CHERRY BLOSSOM KINGDOM. THOUGH SHE'S CALLED A WITCH, SHE SAVED NAMI'S LIFE, AND HELPED RAISE CHOPPER AND TAUGHT HIM THE WAYS OF MEDICINE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            257,
+            132,
+            335
+        ],
+        "text": "A Dr. Kureha Refresher",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            403,
+            256,
+            580
+        ],
+        "text": "DALTON WAS A SERVANT OF WAPOL IN THE OLD DRUM KINGDOM, UNTIL HE HELPED LUFFY OVERTHROW THE TYRANT. AT THE URGING OF THE PEOPLE, HE BECAME THE KING OF THE RENAMED CHERRY BLOSSOM KINGDOM.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            617,
+            116,
+            700
+        ],
+        "text": "A Dalton Refresher",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            499,
+            28,
+            532,
+            106
+        ],
+        "text": "EEEEK!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            618,
+            32,
+            682,
+            95
+        ],
+        "text": "THIS IS GOING TO BE FUN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            126,
+            520,
+            201
+        ],
+        "text": "HE'S THE BEST...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            259,
+            489,
+            286
+        ],
+        "text": "...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            491,
+            340,
+            540,
+            428
+        ],
+        "text": "WE BET YOU LIKE LUFFYLAND!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            449,
+            519,
+            533
+        ],
+        "text": "DO YOU LIKE LUCY?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            597,
+            516,
+            689
+        ],
+        "text": "EXCUSE ME... DALTON?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            38,
+            814,
+            153
+        ],
+        "text": "HEE HEE HEE HEE!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            789,
+            209,
+            832,
+            266
+        ],
+        "text": "LEVEL 6.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            774,
+            604,
+            873,
+            688
+        ],
+        "text": "THE UNDERSEA PRISON, IMPEL DOWN...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            966,
+            539,
+            1081,
+            650
+        ],
+        "text": "WHY THE SOLITARY CELL, HUH?! A GUY COULD GET LONELY DOWN HERE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1053,
+            38,
+            1129,
+            152
+        ],
+        "text": "HAVE THEY COME FOR ME? AN ASSASSIN FROM ABOVE?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            191,
+            1108,
+            308
+        ],
+        "text": "OR IS THIS MEANT TO PROTECT ME, MAGELLAN?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

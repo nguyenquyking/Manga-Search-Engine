@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            72,
+            38,
+            152,
+            192
+        ],
+        "text": "Thanks. Sorry, I was sure we had food supplies on board...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            539,
+            153,
+            630
+        ],
+        "text": "The ship should be good back there!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            212,
+            533,
+            294,
+            631
+        ],
+        "text": "The bad guys won't find it, Big Bro.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            244,
+            23,
+            325,
+            137
+        ],
+        "text": "It's fine! Please, let me feed you!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            13,
+            468,
+            137
+        ],
+        "text": "You got a village in the mountains?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            400,
+            277,
+            457,
+            369
+        ],
+        "text": "Sure, whatever. Either way,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            391,
+            412,
+            488,
+            507
+        ],
+        "text": "And I like you, 'cuz you're strong and nice!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            551,
+            487,
+            688
+        ],
+        "text": "I've known pirates I like, and pirates I don't like! So it's no big deal!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            32,
+            568,
+            81
+        ],
+        "text": "KEE!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            814,
+            24,
+            886,
+            117
+        ],
+        "text": "No, it's gone now!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            156,
+            949,
+            287
+        ],
+        "text": "New Friend\nHihimaru",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1014,
+            50,
+            1104,
+            182
+        ],
+        "text": "In the future, I'm gonna be a bewitching kunoichi!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            213,
+            1108,
+            305
+        ],
+        "text": "Now I just live with Master!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            568,
+            1057,
+            703
+        ],
+        "text": "Komainu\n(Lion-dog)\nKomachiyo",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

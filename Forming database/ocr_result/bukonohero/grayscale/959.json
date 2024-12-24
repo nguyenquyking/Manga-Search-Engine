@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            20,
+            15,
+            72,
+            84
+        ],
+        "text": "JUST LIKE EARLIER",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            14,
+            181,
+            68,
+            230
+        ],
+        "text": "THIS FEELING!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            28,
+            347,
+            36,
+            390
+        ],
+        "text": "SNAP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            80,
+            518,
+            168,
+            702
+        ],
+        "text": "THE FUTURE COMING DOWN THE PIPELINE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            646,
+            88,
+            839,
+            263
+        ],
+        "text": "...IS ONE WHERE ALL THAT SCHMALTZ AND LIP SERVICE IS GONNA GET BLOWN AWAY BY THE CHAOS!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1013,
+            266,
+            1080,
+            334
+        ],
+        "text": "HE'S BACK UP!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1040,
+            611,
+            1063,
+            695
+        ],
+        "text": "YIKES!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

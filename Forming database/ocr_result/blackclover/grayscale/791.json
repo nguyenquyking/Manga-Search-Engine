@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            93,
+            170,
+            82,
+            224
+        ],
+        "text": "GRRT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            74,
+            595,
+            180,
+            739
+        ],
+        "text": "He's something...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            416,
+            445,
+            613,
+            586
+        ],
+        "text": "...We never should have messed with!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            817,
+            355,
+            925,
+            462
+        ],
+        "text": "Is he trying to destroy it and cancel the ritual?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            664,
+            899,
+            736
+        ],
+        "text": "Morgen...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            492,
+            1054,
+            599
+        ],
+        "text": "The relic that's linked to this devil! He's...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            597,
+            68,
+            594,
+            142
+        ],
+        "text": "FLAAARE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            880,
+            81,
+            899,
+            105
+        ],
+        "text": "FWASH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            958,
+            21,
+            1045,
+            157
+        ],
+        "text": "Intervention by a third party... What sort of risk does that...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1049,
+            226,
+            1067,
+            292
+        ],
+        "text": "Don't...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            121,
+            697,
+            213,
+            900
+        ],
+        "text": "FROPPY STYLE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            615,
+            36,
+            722,
+            193
+        ],
+        "text": "THIS IS A FAMILY AFFAIR! NONE OF YOUR BUSINESS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            815,
+            570,
+            861
+        ],
+        "text": "GAH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            910,
+            272,
+            1000,
+            383
+        ],
+        "text": "SURE, THE PAST NEVER DIES!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1212,
+            51,
+            1368,
+            214
+        ],
+        "text": "AND THAT'S WHY I'M WATCHING ENDEAVOR REAL HARD AS HE TRIES TO BE BETTER!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            474,
+            1277,
+            625
+        ],
+        "text": "AND ENDEAVOR'S MY MENTOR WHO'S MADE ME STRONGER!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            728,
+            1269,
+            867
+        ],
+        "text": "IT IS MY BUSINESS! 'CAUSE TODOROKI'S MY FRIEND!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

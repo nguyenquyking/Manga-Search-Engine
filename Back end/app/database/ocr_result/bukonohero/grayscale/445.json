@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            109,
+            581,
+            138,
+            665
+        ],
+        "text": "\"THIS IS...\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            514,
+            284,
+            569,
+            361
+        ],
+        "text": "...to trip and fall.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            516,
+            379,
+            571,
+            446
+        ],
+        "text": "\"It's a bad omen...\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            809,
+            41,
+            980,
+            207
+        ],
+        "text": "...The story of how I became the greatest hero.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

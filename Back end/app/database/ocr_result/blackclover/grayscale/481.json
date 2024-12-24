@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            121,
+            805,
+            196,
+            964
+        ],
+        "text": "If Rouge can touch the Captain...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            307,
+            609,
+            377,
+            699
+        ],
+        "text": "...even a tiny bit-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            874,
+            1032,
+            933
+        ],
+        "text": "GHK!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

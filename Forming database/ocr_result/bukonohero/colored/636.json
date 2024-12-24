@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            477,
+            438,
+            653,
+            656
+        ],
+        "text": "I'm not visible to the naked eye at that distance through that mountain of dust... So, assuming he's got another way to track me down...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            798,
+            725,
+            908,
+            910
+        ],
+        "text": "Assuming he's able to pick out One For All among a big crowd...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            968,
+            308,
+            1040,
+            409
+        ],
+        "text": "This way!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            811,
+            1081,
+            864
+        ],
+        "text": "This way",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1111,
+            735,
+            1166,
+            802
+        ],
+        "text": "This way!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1194,
+            275,
+            1329,
+            428
+        ],
+        "text": "Deku, here!! Sorry for using the private frequency, but...",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

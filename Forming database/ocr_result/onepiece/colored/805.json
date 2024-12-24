@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            57,
+            93,
+            169,
+            321
+        ],
+        "text": "So I ask you... Are you but some greedy boy with little thought aside from your own base desires?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            395,
+            192,
+            561
+        ],
+        "text": "Shusui is a black blade!! It was forged through Ryuma's history of battle!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            591,
+            166,
+            733
+        ],
+        "text": "Hmph! Then it seems I have overestimated you!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            300,
+            57,
+            380,
+            136
+        ],
+        "text": "You said... \"Forged\"?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            76,
+            542,
+            218
+        ],
+        "text": "Someone!!! Please help!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            299,
+            535,
+            402
+        ],
+        "text": "EEEK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            452,
+            443,
+            532,
+            571
+        ],
+        "text": "Do you mean its black color came from...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            621,
+            549,
+            732
+        ],
+        "text": "I was wondering about that!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            726,
+            53,
+            747,
+            149
+        ],
+        "text": "Wha--?!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            884,
+            54,
+            966,
+            153
+        ],
+        "text": "Daaa!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            882,
+            615,
+            988,
+            741
+        ],
+        "text": "Have at thee!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

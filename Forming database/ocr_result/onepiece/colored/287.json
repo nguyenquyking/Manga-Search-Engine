@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            65,
+            1438,
+            202,
+            1624
+        ],
+        "text": "IT'S TIME\nFOR THE STARS\nTO TAKE THE\nSTAGE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            267,
+            1083,
+            423,
+            1225
+        ],
+        "text": "ONI-GIR!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            479,
+            72,
+            588,
+            248
+        ],
+        "text": "SHOT!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            549,
+            1348,
+            613,
+            1445
+        ],
+        "text": "OH!!\nHE'S ALL\nBETTER!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            531,
+            1646,
+            573,
+            1719
+        ],
+        "text": "SEE\nTHAT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            1332,
+            864,
+            1442
+        ],
+        "text": "DIABLE\nJAMBE...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            1651,
+            876,
+            1724
+        ],
+        "text": "THREE-\nSWORD\nSTYLE...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            1348,
+            1007,
+            1465
+        ],
+        "text": "MUTTON...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            1591,
+            1027,
+            1690
+        ],
+        "text": "PURG-\nATORY...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1099,
+            51,
+            1219,
+            184
+        ],
+        "text": "LUFFY\nBECOMING\nKING OF THE\nPIRATES!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1138,
+            415,
+            1215,
+            532
+        ],
+        "text": "I KNOW,\nIT'LL FINALLY\nBE IN SIGHT...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            720,
+            1224,
+            835
+        ],
+        "text": "HEY, CURLY\nBROWS, IF\nWE WIN\nTHIS...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1076,
+            970,
+            1138,
+            1092
+        ],
+        "text": "THE STRAW\nHATS ARE\nAMAZING!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            1154,
+            1134,
+            1240
+        ],
+        "text": "WOAAH\n!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

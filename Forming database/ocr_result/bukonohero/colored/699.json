@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            66,
+            80,
+            132,
+            164
+        ],
+        "text": "WHAT THE HELL?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            219,
+            24,
+            289,
+            151
+        ],
+        "text": "YOU DON'T OWE ME CRAP!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            537,
+            169,
+            669
+        ],
+        "text": "ADD THIS TO WHAT I OWE YOU FROM KYUSHU...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            264,
+            518,
+            331,
+            621
+        ],
+        "text": "...SO YOU BETTER NOT DIE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            97,
+            585,
+            279
+        ],
+        "text": "...MORE AMAZING. MAKE ME FEEL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            759,
+            525,
+            849
+        ],
+        "text": "YOU'RE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            696,
+            937,
+            786
+        ],
+        "text": "...NUMBER ONE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1221,
+            722,
+            1270,
+            791
+        ],
+        "text": "NEED MORE.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1312,
+            411,
+            1317,
+            480
+        ],
+        "text": "GWAHH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

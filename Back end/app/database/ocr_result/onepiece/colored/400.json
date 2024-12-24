@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            183,
+            42,
+            261,
+            136
+        ],
+        "text": "AIEEE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            172,
+            617,
+            254,
+            727
+        ],
+        "text": "IT'S GOBBLING PEOPLE UP,\nHOUSES AND ALL!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            762,
+            70,
+            861,
+            235
+        ],
+        "text": "SOMEONE HELP!!\nMY DAUGHTER'S\nIN THE BOAR'S\nSTOMACH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            294,
+            826,
+            405
+        ],
+        "text": "DADDY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            457,
+            830,
+            560
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            599,
+            829,
+            718
+        ],
+        "text": "HELPP!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1012,
+            52,
+            1088,
+            139
+        ],
+        "text": "THIS IS\nA NIGHT-\nMARE!!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1050,
+            608,
+            1124,
+            717
+        ],
+        "text": "SOMEBODY,\nHELP\nMEEE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            83,
+            68,
+            172,
+            182
+        ],
+        "text": "But I'm willing to bet your lesser noodles have only 60...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            323,
+            204,
+            436
+        ],
+        "text": "The one you gave Usohachi was ni-hachi soba, which is 80 percent buckwheat flour.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            595,
+            179,
+            697
+        ],
+        "text": "I noticed a difference in aroma between the bowls you served up.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            428,
+            382,
+            517
+        ],
+        "text": "Less than 50 percent buckwheat in them.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            381,
+            164,
+            494,
+            253
+        ],
+        "text": "He figured all that out without even eating them?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            283,
+            507,
+            346
+        ],
+        "text": "What the...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            670,
+            409,
+            696
+        ],
+        "text": "No...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            370,
+            674,
+            473
+        ],
+        "text": "I'm afraid I must demand recompense.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            604,
+            541,
+            640,
+            595
+        ],
+        "text": "In fact...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            550,
+            605,
+            653,
+            705
+        ],
+        "text": "Can't say I understand what you're talking about, good sir.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            167,
+            1000,
+            304
+        ],
+        "text": "...You are never to set foot in the Flower Capital again.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            331,
+            1072,
+            395
+        ],
+        "text": "Henceforth...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            989,
+            419,
+            1023,
+            477
+        ],
+        "text": "Recompense?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            529,
+            1070,
+            627
+        ],
+        "text": "...You've served up a rather horrible insult upon our humble restaurant.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            683,
+            881,
+            729
+        ],
+        "text": "Grin",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

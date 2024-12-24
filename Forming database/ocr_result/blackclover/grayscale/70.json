@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            878,
+            808,
+            1008,
+            974
+        ],
+        "text": "NOT\nHAPPENING!!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1187,
+            29,
+            1340,
+            142
+        ],
+        "text": "It's as I thought...With anti-magic, perhaps...? ",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1420,
+            591,
+            1488,
+            731
+        ],
+        "text": "ANTI-MAGIC!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

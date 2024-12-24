@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            73,
+            61,
+            146,
+            144
+        ],
+        "text": "I'M NOT\nSAYING\nTHAT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            465,
+            121,
+            563
+        ],
+        "text": "DO YOU\nTHINK I'M\nLYING?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            624,
+            154,
+            705
+        ],
+        "text": "GUEST\nPARLOR,\nINSIDE\nTHE\nCASTLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            335,
+            66,
+            414,
+            197
+        ],
+        "text": "THAT MUST BE\nTHE DEVIL FRUIT\nTHAT VEGAPUNK\nCREATED!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            488,
+            42,
+            585,
+            183
+        ],
+        "text": "IT WAS FLYING\nWITH STRAW HAT\nLUFFY!! MEANING,\nTHE DRAGON IS AN\nENEMY TO KAIDO!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            319,
+            537,
+            406,
+            702
+        ],
+        "text": "THERE'S A SECOND\nDRAGON HERE, ONE\nTHAT'S NOT KAIDO!\nWE ALL SAW IT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            348,
+            788,
+            435
+        ],
+        "text": "SO WHY\nDID YOU\nCALL ME?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            478,
+            776,
+            523
+        ],
+        "text": "...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            582,
+            833,
+            708
+        ],
+        "text": "SOUNDS\nGOOD TO ME...\nWE WANT THESE\nPIRATES TO\nDESTROY EACH\nOTHER.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            171,
+            812,
+            248
+        ],
+        "text": "WE HAVE\nORDERS\nFROM\nABOVE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            67,
+            985,
+            162
+        ],
+        "text": "ON THE\nFREAK\nCHANCE\nTHAT KAIDO\nACTUALLY\nLOSES...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

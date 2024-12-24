@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            59,
+            60,
+            130,
+            157
+        ],
+        "text": "Ha ha... These guys are",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            224,
+            679,
+            229,
+            731
+        ],
+        "text": "BWAFOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            321,
+            94,
+            405,
+            238
+        ],
+        "text": "I saw one before this too! What are those eyes for?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            317,
+            354,
+            408,
+            478
+        ],
+        "text": "Nami, I can hear his voice coming from that!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            322,
+            625,
+            416,
+            739
+        ],
+        "text": "Well, I can assume he was caught by a woman... No surprise...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            57,
+            728,
+            175
+        ],
+        "text": "Huff, huff... Go on and undo this thread.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            642,
+            418,
+            707,
+            514
+        ],
+        "text": "Ha ha ha... Unbelievable!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            61,
+            872,
+            151
+        ],
+        "text": "I called her for you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            197,
+            1104,
+            411
+        ],
+        "text": "AAAAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1104,
+            661,
+            1118,
+            691
+        ],
+        "text": "TOK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

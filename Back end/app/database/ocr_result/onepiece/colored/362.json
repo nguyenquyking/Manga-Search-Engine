@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            56,
+            422,
+            234,
+            446
+        ],
+        "text": "(\u795e\u5948\u5ddd\u770c\u3000Sasa22\u3055\u3093)",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            313,
+            90,
+            351,
+            333
+        ],
+        "text": "\u3044\u3064\u304b\u3001\u8179\u3044\u3063\u3071\u3044\u98df\u3048\u308b\u56fd\u306b!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            426,
+            548,
+            437
+        ],
+        "text": "(\u6c96\u7e04\u770c\u3000\u30b5\u30b5\u30fc\u30ad\u3055\u3093)",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            393,
+            527,
+            413,
+            629
+        ],
+        "text": "\u4e09\u5144\u5f1f\u304c\u65c5\u306b\u51fa\u305f\uff01\n\u6c17\u3092\u3064\u3051\u308d!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            510,
+            750,
+            649
+        ],
+        "text": "\u30b4\u30ea\u30e9\u306eSMILE\u3092\n\u98df\u3063\u305f\u3089\u3057\u3044\u3002",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            87,
+            980,
+            341
+        ],
+        "text": "\u30ad\u30c3\u30c9\u3001\u30ad\u30e9\u30fc\u3001\u30d0\u30a4\u30af\u30672\u4eba\u65c5!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            196,
+            1159,
+            449
+        ],
+        "text": "\u2605UGK\u5be9\u67fb\u59d4\u54e1\u9577\u2605\n\u30a6\u30bd\u30c3\u30d7\u69d8\u3088\u308a\u6ce8\u610f\u70b9\n\u5fc5\u305a\u30a4\u30e9\u30b9\u30c8\u3084\u5199\u771f\u306e\u88cf\u306b\n\u76f4\u63a5\u3001\u4f4f\u6240\u30fb\u6c0f\u540d(P.N.)\u30fb\u5e74\u9f62\u30fb\u96fb\u8a71\u756a\u53f7\u3092\n\u66f8\u304d\u8fbc\u3093\u3067\u304f\u308c!!\nP.N.\u8868\u8a18\u306f\u3001\u306f\u3063\u304d\u308a\u3068!!",
+        "panel_id": "6",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1111,
+            558,
+            1122,
+            605
+        ],
+        "text": "\u6e6f\u5c4b\u518d\u73fe\u2661",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1152,
+            18,
+            1170,
+            47
+        ],
+        "text": "201",
+        "panel_id": "7",
+        "type": "page_number"
+    }
+]

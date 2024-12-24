@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            84,
+            34,
+            170,
+            157
+        ],
+        "text": "He is to be put to death in the capital today!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            192,
+            159,
+            286
+        ],
+        "text": "Well... Oh dear, this is very hard to say, but...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            328,
+            138,
+            374
+        ],
+        "text": "Oh no!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            115,
+            562,
+            180,
+            701
+        ],
+        "text": "Whaaaat?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            245,
+            38,
+            304,
+            165
+        ],
+        "text": "Whaaaat?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            402,
+            17,
+            541,
+            154
+        ],
+        "text": "You're wanted too, remember?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            445,
+            476,
+            527
+        ],
+        "text": "Daddy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            394,
+            571,
+            474,
+            688
+        ],
+        "text": "No, Toko!! You can't go!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            24,
+            644,
+            73
+        ],
+        "text": "Huff!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            751,
+            82,
+            853,
+            226
+        ],
+        "text": "What?! Hey, wait!! I just came from the capital!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            304,
+            846,
+            462
+        ],
+        "text": "Don't be an idiot. You weren't able to protect her on your own!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            754,
+            516,
+            844,
+            700
+        ],
+        "text": "I'll go after her!! Thank you so much for saving us yesterday!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            600,
+            443,
+            666,
+            527
+        ],
+        "text": "Daddy!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            372,
+            660,
+            416
+        ],
+        "text": "Huff!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1056,
+            285,
+            1070,
+            391
+        ],
+        "text": "CLANK!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1066,
+            117,
+            1113,
+            198
+        ],
+        "text": "Wait up, every-",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

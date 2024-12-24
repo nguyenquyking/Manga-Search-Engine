@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            960,
+            76,
+            1054,
+            207
+        ],
+        "text": "...Kaido?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            616,
+            1057,
+            747
+        ],
+        "text": "Isn't this fun...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1125,
+            59,
+            1140,
+            216
+        ],
+        "text": "To be continued!",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

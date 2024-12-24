@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            281,
+            97,
+            360,
+            226
+        ],
+        "text": "AWFULLY COMFORTABLE,",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            284,
+            335,
+            326,
+            869
+        ],
+        "text": "ZZZZZZ",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            195,
+            868,
+            409,
+            1025
+        ],
+        "text": "THIS ENORMOUS MOBILE FORTRESS, CANDELO, WAS BUILT FOR THE PURPOSE OF CROSSING THE STRONG MAGIC REGION.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            910,
+            115,
+            1049,
+            257
+        ],
+        "text": "WRING OUT EVERY LAST DROP OF MAGIC, EVEN FROM THE CHILDREN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            929,
+            620,
+            1017,
+            710
+        ],
+        "text": "MANA DWELLS IN LIFE ENERGY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            926,
+            974,
+            1028
+        ],
+        "text": "STILL, THOSE LOW-STAGERS SURE DO RUN OUT OF MAGIC FAST.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            755,
+            1204,
+            858
+        ],
+        "text": "WE ONLY NEED HALF OF THEM TO LAST TO GET THROUGH THE STRONG MAGIC REGION.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1441,
+            343,
+            1425,
+            430
+        ],
+        "text": "A",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

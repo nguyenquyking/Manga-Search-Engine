@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            70,
+            340,
+            123,
+            430
+        ],
+        "text": "...and the terror it instills...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            75,
+            618,
+            182,
+            730
+        ],
+        "text": "That far-spreading, all-consuming fire...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            180,
+            96,
+            286,
+            211
+        ],
+        "text": "Yes, we'll be stonewalled so long as Dabi joins their vanguard.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            193,
+            271,
+            318,
+            394
+        ],
+        "text": "It's a threat we became aware of through the attack on the kids' training camp...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            61,
+            487,
+            138
+        ],
+        "text": "All of them.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            233,
+            451,
+            299
+        ],
+        "text": "Exactly.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            511,
+            341,
+            573,
+            403
+        ],
+        "text": "Not just Dabi.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            642,
+            509,
+            745
+        ],
+        "text": "So splitting up all for one and Shigaraki...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            535,
+            572,
+            629
+        ],
+        "text": "...means getting Dabi outta the way too...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            103,
+            796,
+            216
+        ],
+        "text": "...and conquer! One by one!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            245,
+            772,
+            326
+        ],
+        "text": "We must divide...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            610,
+            815,
+            750
+        ],
+        "text": "Every one of the enemy's major operatives!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            77,
+            1087,
+            255
+        ],
+        "text": "To that end, we have to lure each of these villains to their defeat!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

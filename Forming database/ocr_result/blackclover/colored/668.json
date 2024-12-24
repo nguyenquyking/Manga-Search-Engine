@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            135,
+            1137,
+            371,
+            1498
+        ],
+        "text": "Modified Briar Magic:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            371,
+            1563,
+            480,
+            1794
+        ],
+        "text": "Mana Method",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            436,
+            1836,
+            566,
+            1963
+        ],
+        "text": "...I Grew Strong!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            67,
+            960,
+            445
+        ],
+        "text": "Blue Rose Paradise",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1017,
+            9,
+            1036,
+            279
+        ],
+        "text": "@roooxerg @colorclovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1341,
+            39,
+            1404,
+            172
+        ],
+        "text": "That Human...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1258,
+            221,
+            1383,
+            332
+        ],
+        "text": "The curse on those two is weakening?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1156,
+            401,
+            1304,
+            516
+        ],
+        "text": "...And the lovelier their blooms grow.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1233,
+            544,
+            1385,
+            678
+        ],
+        "text": "...The more of that curse they absorb...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1203,
+            1325,
+            1302,
+            1454
+        ],
+        "text": "The stronger the enemy's curse...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1229,
+            1555,
+            1365,
+            1666
+        ],
+        "text": "I wonder if good mana soil and water helped them grow well.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1204,
+            1872,
+            1317,
+            1967
+        ],
+        "text": "She deployed mana method inside my spells.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1369,
+            1692,
+            1386,
+            1711
+        ],
+        "text": "Ah",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

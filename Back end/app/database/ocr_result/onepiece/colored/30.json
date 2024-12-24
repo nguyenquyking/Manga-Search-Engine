@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            147,
+            149,
+            390,
+            443
+        ],
+        "text": "There are thousands of your men trapped down there too!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            106,
+            905,
+            377,
+            1255
+        ],
+        "text": "Huff, huff... The battle is burning everything below, from the performance floor to the castle.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            338,
+            621,
+            385,
+            815
+        ],
+        "text": "HZZZZSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            147,
+            1347,
+            210,
+            1704
+        ],
+        "text": "Koff!! Koff!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            524,
+            179,
+            663,
+            392
+        ],
+        "text": "They will all burn to death!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            467,
+            1051,
+            704,
+            1281
+        ],
+        "text": "Puff Puff\nRAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            945,
+            136,
+            1188,
+            443
+        ],
+        "text": "All I have to do is beat you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            1345,
+            1133,
+            1726
+        ],
+        "text": "Nah, I left everyone else in charge down there!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1518,
+            853,
+            1636,
+            1199
+        ],
+        "text": "BeeYoing!!\n*whoosh*",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1631,
+            1208,
+            1726,
+            1403
+        ],
+        "text": "WHOAAAA!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1614,
+            1504,
+            1808,
+            1753
+        ],
+        "text": "Demolition Gust!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1865,
+            1118,
+            1841,
+            1266
+        ],
+        "text": "FWOO!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1617,
+            256,
+            1600,
+            413
+        ],
+        "text": "Slice!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

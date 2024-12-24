@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            152,
+            18,
+            306,
+            220
+        ],
+        "text": "...of activating his decay...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            146,
+            488,
+            263,
+            687
+        ],
+        "text": "If all of them are capable...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            906,
+            22,
+            996,
+            224
+        ],
+        "text": "...We're finished.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            548,
+            1030,
+            692
+        ],
+        "text": "...Then the moment erasure is undone...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

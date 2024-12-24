@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            697,
+            127,
+            714,
+            185
+        ],
+        "text": "PLEASE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            607,
+            866,
+            673
+        ],
+        "text": "...CALM DOWN!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            103,
+            1116,
+            221
+        ],
+        "text": "I understand that it's a stormy night and everyone's on edge, but...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1030,
+            662,
+            1040,
+            717
+        ],
+        "text": "SKSHH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1030,
+            662,
+            1040,
+            717
+        ],
+        "text": "SKSHH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

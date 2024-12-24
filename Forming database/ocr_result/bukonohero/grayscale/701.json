@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            52,
+            228,
+            127,
+            329
+        ],
+        "text": "SHIGARAKI\nHAS THE\nABILITY TO\nLOCATE ME.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            40,
+            609,
+            109,
+            696
+        ],
+        "text": "I THOUGHT\nYOU MIGHT\nSAY\nTHAT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            208,
+            501,
+            226,
+            569
+        ],
+        "text": "IZUKU!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            206,
+            636,
+            227,
+            684
+        ],
+        "text": "KID...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            495,
+            480,
+            581
+        ],
+        "text": "...IF HE\nSHOWED\nUP TO\nATTACK\nME RIGHT\nNOW.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            358,
+            621,
+            449,
+            732
+        ],
+        "text": "IT\nWOULDN'T\nEVEN COME\nAS A\nSURPRISE...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            593,
+            73,
+            591,
+            126
+        ],
+        "text": "TRMBL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            588,
+            621,
+            609,
+            690
+        ],
+        "text": "BUT...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            887,
+            356,
+            965,
+            499
+        ],
+        "text": "...I DON'T\nWANT ANYONE\nELSE TO GET\nHURT.",
+        "panel_id": "4",
+        "type": "thought"
+    }
+]

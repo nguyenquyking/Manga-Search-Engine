@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            85,
+            83,
+            208,
+            198
+        ],
+        "text": "Until now, there have been no men who deceived him...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            40,
+            374,
+            124,
+            466
+        ],
+        "text": "I'm weighing out your options.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            698,
+            185,
+            818
+        ],
+        "text": "The hell you talkin' about? You an alien or somethin'? This planet?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            299,
+            232,
+            374,
+            376
+        ],
+        "text": "You shall be no exception.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            284,
+            524,
+            383,
+            621
+        ],
+        "text": "...and lived to tell the tale.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            457,
+            663,
+            655,
+            814
+        ],
+        "text": "As the dictator failed his duties, he did not get a second chance.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            474,
+            193,
+            668,
+            356
+        ],
+        "text": "Are you still aiming for the best of both worlds? Or have you made your choice?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            29,
+            699,
+            155
+        ],
+        "text": "Aoyama Yuuga! You are nothing but the bat stuck between birds and beasts.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            698,
+            891,
+            811
+        ],
+        "text": "As all for one's latest assassin,",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            903,
+            589,
+            1029,
+            730
+        ],
+        "text": "Let me show you how the job should be done.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1209,
+            81,
+            1238,
+            165
+        ],
+        "text": "Merci~",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1170,
+            436,
+            1274,
+            806
+        ],
+        "text": "Tartarus Jailbreaker\nKunieda",
+        "panel_id": "5",
+        "type": "caption"
+    }
+]

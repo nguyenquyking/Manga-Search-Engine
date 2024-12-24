@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            139,
+            639,
+            163,
+            664
+        ],
+        "text": "DUN",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            441,
+            131,
+            455,
+            183
+        ],
+        "text": "?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            806,
+            142,
+            846,
+            208
+        ],
+        "text": "The Aroma.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            437,
+            741,
+            493
+        ],
+        "text": "But how'd you figure that out?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            651,
+            697,
+            747
+        ],
+        "text": "Ah! I getcha. If they peg a customer as poor...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            650,
+            557,
+            754,
+            640
+        ],
+        "text": "...They charge 'em full price but give 'em cheap noodles...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            992,
+            545,
+            1078,
+            634
+        ],
+        "text": "...Then pocket the difference for themselves!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            62,
+            90,
+            145,
+            207
+        ],
+        "text": "...to smother my guilty conscience.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            233,
+            145,
+            351
+        ],
+        "text": "Always putting on a brave face...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            570,
+            167,
+            709
+        ],
+        "text": "I had to play my part right... to avoid suspicion.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            334,
+            198,
+            424,
+            294
+        ],
+        "text": "For a moment I mistakenly let myself believe...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            364,
+            52,
+            488,
+            167
+        ],
+        "text": "...that, just maybe, I was free to have true friends and put an end to my acting...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            552,
+            451,
+            675
+        ],
+        "text": "When all for one was finally caught in Kamino...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            668,
+            150,
+            756,
+            229
+        ],
+        "text": "I cannot let him kill you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            604,
+            396,
+            664,
+            550
+        ],
+        "text": "Papa... Maman... Ahh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            651,
+            580,
+            705,
+            661
+        ],
+        "text": "Please forgive us!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            619,
+            666,
+            678,
+            719
+        ],
+        "text": "Ohh, Yuga!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            17,
+            1053,
+            119
+        ],
+        "text": "Yuga... Please, we're begging you!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            950,
+            274,
+            1048,
+            354
+        ],
+        "text": "I only wanted to protect you!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            584,
+            1085,
+            717
+        ],
+        "text": "Forgive your loving parents for being such fools!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

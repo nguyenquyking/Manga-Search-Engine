@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            640,
+            52,
+            735,
+            172
+        ],
+        "text": "AAAAAA\nAAAAGH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            863,
+            299,
+            942,
+            418
+        ],
+        "text": "WODEN\nCREATIVITY",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1225,
+            737,
+            1287,
+            835
+        ],
+        "text": "WODEN\nCREATIVITY",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

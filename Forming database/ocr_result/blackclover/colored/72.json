@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            46,
+            342,
+            206,
+            491
+        ],
+        "text": "Such overwhelming power... But it doesn't give off an oppressive aura at all. His magic is just like a refined blade...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            93,
+            14,
+            149,
+            160
+        ],
+        "text": "So this is the revived Elf leader...!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            695,
+            204,
+            769
+        ],
+        "text": "Thanks, everybody!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            27,
+            501,
+            166
+        ],
+        "text": "I feel like I'm being wrapped in a nostalgic feeling...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            379,
+            685,
+            458,
+            764
+        ],
+        "text": "...But what's this... warmth?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            646,
+            435,
+            775,
+            551
+        ],
+        "text": "I'll close up the wound and seal the damage!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            655,
+            1055,
+            734
+        ],
+        "text": "Prince! Your arm!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            44,
+            89,
+            130,
+            239
+        ],
+        "text": "Dammit... I can't keep my promise if I don't get stronger...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            332,
+            123,
+            426
+        ],
+        "text": "Shut up, Teach!! Ace isn't doing this...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            36,
+            475,
+            154,
+            591
+        ],
+        "text": "I get wanting to take out a big shot, though, Commander Ace!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            617,
+            125,
+            730
+        ],
+        "text": "Ze ha ha ha! And Oden was plenty tough!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            187,
+            299,
+            226,
+            388
+        ],
+        "text": "...to hunt down \"big shots\"!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            291,
+            85,
+            369,
+            238
+        ],
+        "text": "That's just how heavy a promise you're bearing on your shoulders...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            453,
+            53,
+            546,
+            157
+        ],
+        "text": "Yeah, I'd be interested too.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            374,
+            538,
+            466
+        ],
+        "text": "...Send me an invitation, Ace.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            454,
+            622,
+            538,
+            721
+        ],
+        "text": "If Pops ever gives you the go-ahead...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            133,
+            794,
+            254
+        ],
+        "text": "Marco!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            757,
+            494,
+            834,
+            600
+        ],
+        "text": "What's your basis for suggesting that?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            617,
+            804,
+            727
+        ],
+        "text": "In that case, I bet we could win already...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1043,
+            344,
+            1092,
+            402
+        ],
+        "text": "Heh heh...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            176,
+            610,
+            209,
+            752
+        ],
+        "text": "I WON'T LET...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            129,
+            1281,
+            246,
+            1473
+        ],
+        "text": "IT BOOSTS THE POWER OF NOELLE'S MAGIC!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            732,
+            70,
+            984,
+            290
+        ],
+        "text": "...ONE SINGLE THING GO YOUR WAY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            1751,
+            1105,
+            2071
+        ],
+        "text": "Valkyrie Armor\nMermaid Form",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1361,
+            70,
+            1449,
+            198
+        ],
+        "text": "GOOD ONE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1400,
+            889,
+            1531,
+            959
+        ],
+        "text": "AH HA!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

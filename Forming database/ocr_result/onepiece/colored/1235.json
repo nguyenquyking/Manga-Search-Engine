@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            70,
+            278,
+            118,
+            361
+        ],
+        "text": "Zoro!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            630,
+            90,
+            693
+        ],
+        "text": "What?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            192,
+            117,
+            251
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            126,
+            65,
+            180,
+            168
+        ],
+        "text": "Look!! It's me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            403,
+            19,
+            471,
+            148
+        ],
+        "text": "You're here!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            430,
+            280,
+            474,
+            310
+        ],
+        "text": "!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            24,
+            888,
+            118
+        ],
+        "text": "Yeah, it's been forever! Verily!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            258,
+            870,
+            345
+        ],
+        "text": "Long time no see!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            17,
+            1119,
+            168
+        ],
+        "text": "Yeah! We got split up, but I bet they're fine!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1084,
+            239,
+            1122,
+            336
+        ],
+        "text": "Is everyone else here?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

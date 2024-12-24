@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            46,
+            97,
+            78,
+            196
+        ],
+        "text": "GRRR...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            150,
+            39,
+            213,
+            118
+        ],
+        "text": "KAIDO!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            144,
+            364,
+            231,
+            427
+        ],
+        "text": "She's just a young child...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            475,
+            139,
+            548
+        ],
+        "text": "We must tend to her at once!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            605,
+            129,
+            703
+        ],
+        "text": "You there... Can you speak?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            198,
+            656,
+            210,
+            719
+        ],
+        "text": "Oooooh...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            264,
+            78,
+            291,
+            127
+        ],
+        "text": "Mmff...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            327,
+            460,
+            412,
+            558
+        ],
+        "text": "We'll go into the woods. We're too exposed out here.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            608,
+            409,
+            700
+        ],
+        "text": "She's still breathing.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            70,
+            595,
+            149
+        ],
+        "text": "EXTRA! EXTRA!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            662,
+            68,
+            738,
+            152
+        ],
+        "text": "...Made news all through Wano.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            531,
+            617,
+            618,
+            729
+        ],
+        "text": "Luffy Taro's Great Scuffle in Kuri...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            836,
+            295,
+            928,
+            355
+        ],
+        "text": "Huh?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            407,
+            922,
+            494
+        ],
+        "text": "He made it to Wa...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            635,
+            908,
+            722
+        ],
+        "text": "Oh, hey! Luffy!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

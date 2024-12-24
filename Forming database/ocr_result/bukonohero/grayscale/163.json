@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            21,
+            273,
+            95,
+            511
+        ],
+        "text": "BAM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            66,
+            604,
+            90,
+            672
+        ],
+        "text": "URA-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            125,
+            122,
+            194
+        ],
+        "text": "I AM...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            531,
+            480,
+            689
+        ],
+        "text": "...HERE! JUST LIKE EVERY DAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            581,
+            117,
+            688,
+            194
+        ],
+        "text": "IT'S ABOUT WHAT COMES NEXT.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            574,
+            485,
+            660,
+            545
+        ],
+        "text": "JUST THE OPPOSITE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            605,
+            704,
+            724
+        ],
+        "text": "WHAT'S UP? YOU'RE FULL OF ENERGY, I SEE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            820,
+            429,
+            943,
+            526
+        ],
+        "text": "DOES THIS CONCERN THE SITUATION WITH AOYAMA?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            588,
+            938,
+            708
+        ],
+        "text": "DETECTIVE TSUKAUCHI? AND THE PRINCIPAL TOO?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            47,
+            1083,
+            160
+        ],
+        "text": "AND WE'RE ONLY INFORMING SELECT INDIVIDUALS FOR NOW.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

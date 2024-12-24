@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            42,
+            247,
+            102,
+            317
+        ],
+        "text": "My body's, like...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            188,
+            15,
+            235,
+            73
+        ],
+        "text": "Feeling...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            377,
+            396,
+            497,
+            482
+        ],
+        "text": "The light's getting weaker...!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            494,
+            132,
+            518,
+            219
+        ],
+        "text": "Creepy!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            684,
+            893,
+            804
+        ],
+        "text": "This connection with light will tell us what to do..!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1103,
+            28,
+            1264,
+            176
+        ],
+        "text": "The exit at the bottom floor is our only hope! Let's hurry!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

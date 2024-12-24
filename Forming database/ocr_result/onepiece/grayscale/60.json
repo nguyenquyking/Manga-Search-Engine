@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            204,
+            269,
+            328,
+            399
+        ],
+        "text": "That girl turned into a giant?! So she was a fruit user too?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            455,
+            67,
+            528,
+            162
+        ],
+        "text": "What a bubble-head!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            259,
+            944,
+            387
+        ],
+        "text": "So the ace up your sleeve was your Zoan transformation?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1132,
+            77,
+            1174,
+            180
+        ],
+        "text": "Seriously, that's not me!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1352,
+            258,
+            1398,
+            402
+        ],
+        "text": "That form... Even so...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1411,
+            65,
+            1572,
+            227
+        ],
+        "text": "Isn't it a bit reindeer-like?! And there's no mistaking that hat...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

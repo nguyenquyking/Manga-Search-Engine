@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            211,
+            99,
+            369,
+            209
+        ],
+        "text": "That's just what I'd expect from a friend of the First Wizard King!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            478,
+            260,
+            593
+        ],
+        "text": "Thanks, Secre!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            281,
+            306,
+            352,
+            377
+        ],
+        "text": "Who-ooo-Oaa!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            112,
+            972,
+            260
+        ],
+        "text": "Your ki... or maybe it's your atmosphere, or your eyes. Anyway, you sorta seem like somebody I know...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            553,
+            820,
+            747
+        ],
+        "text": "HRM HRM HRM HRM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            816,
+            822,
+            961,
+            938
+        ],
+        "text": "But, uh... it kinda doesn't feel like this is the first time we've met.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1288,
+            110,
+            1464,
+            221
+        ],
+        "text": "Sealing me away and now this? That's a rather impressive ability, I must say.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1292,
+            335,
+            1348,
+            393
+        ],
+        "text": "Neh heh heh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1184,
+            425,
+            1380,
+            505
+        ],
+        "text": "Ow ow ow ow ow ow!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1416,
+            433,
+            1480,
+            476
+        ],
+        "text": "What was that for?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1176,
+            958,
+            1257,
+            1025
+        ],
+        "text": "Focus on the fight.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

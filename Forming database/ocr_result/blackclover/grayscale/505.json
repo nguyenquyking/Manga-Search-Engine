@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            105,
+            115,
+            153,
+            186
+        ],
+        "text": "??!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            508,
+            56,
+            619,
+            185
+        ],
+        "text": "What's with the shorty?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            400,
+            558,
+            505
+        ],
+        "text": "Hey, Nacht.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            142,
+            728,
+            533
+        ],
+        "text": "Page 262: A Turbulent Conference",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            793,
+            52,
+            985,
+            182
+        ],
+        "text": "Haw haw haw! Gimme a break. You know this ain't my real form.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            409,
+            907,
+            520
+        ],
+        "text": "Unfortunately, Gimodelo, you're shorter than he is.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1153,
+            58,
+            1288,
+            176
+        ],
+        "text": "He's talking with a devil like it's normal?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1161,
+            436,
+            1230,
+            515
+        ],
+        "text": "That ki... It's a",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1252,
+            695,
+            1377,
+            855
+        ],
+        "text": "How to use the devil's power?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

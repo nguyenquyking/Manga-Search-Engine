@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            68,
+            416,
+            231,
+            558
+        ],
+        "text": "The loathsome devil who cursed my beloved Lolo-Pechka...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            208,
+            638,
+            292,
+            709
+        ],
+        "text": "No, that's just me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            137,
+            834,
+            276,
+            948
+        ],
+        "text": "Oh! I get it! The unbelievable klutziness is part of the curse, right?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            270,
+            27,
+            345,
+            158
+        ],
+        "text": "Megicula is in that country!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1332,
+            551,
+            1489,
+            671
+        ],
+        "text": "We came to scout out the Diamond Kingdom, just in case, but...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1416,
+            38,
+            1454,
+            102
+        ],
+        "text": "This is...!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

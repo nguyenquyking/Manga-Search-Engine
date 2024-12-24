@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            72,
+            63,
+            168,
+            182
+        ],
+        "text": "Ooh, look at all that tasty food you've got there!! Nee-hee!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            94,
+            634,
+            156,
+            738
+        ],
+        "text": "OPEN GATES!!",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            350,
+            611,
+            448,
+            741
+        ],
+        "text": "That's right, Miss Speed! Look, we've got the food right over here!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            656,
+            579,
+            737
+        ],
+        "text": "But I already can see!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            662,
+            698,
+            745
+        ],
+        "text": "How, you ask?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            757,
+            647,
+            800,
+            755
+        ],
+        "text": "Because my vision...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            490,
+            30,
+            555,
+            121
+        ],
+        "text": "...is 350 degrees!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            601,
+            46,
+            688,
+            107
+        ],
+        "text": "Wow! Now that's horse-power!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            768,
+            50,
+            848,
+            215
+        ],
+        "text": "Beasts Pirates Headliner\nSPEED\nHorse Smile Fruit",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            906,
+            648,
+            1000,
+            742
+        ],
+        "text": "Ooh, you think so?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            646,
+            1146,
+            735
+        ],
+        "text": "Even her smile has horse-power!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

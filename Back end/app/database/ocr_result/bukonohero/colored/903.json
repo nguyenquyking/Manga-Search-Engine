@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            38,
+            262,
+            267,
+            486
+        ],
+        "text": "TU",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            272,
+            80,
+            308,
+            199
+        ],
+        "text": "WAY!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            289,
+            1047,
+            330,
+            1165
+        ],
+        "text": "NO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            521,
+            1080,
+            713
+        ],
+        "text": "It's such a kind, gentle quirk to me.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            714,
+            828,
+            898,
+            1009
+        ],
+        "text": "Before I could even feel pain... She \"reverted\" it for me...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            1102,
+            827,
+            1290
+        ],
+        "text": "I see... The instant my legs broke...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1246,
+            77,
+            1516,
+            288
+        ],
+        "text": "If I'm constantly accumulating grave injuries at an even greater speed!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1274,
+            375,
+            1369,
+            433
+        ],
+        "text": "In that case...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1354,
+            569,
+            1473,
+            722
+        ],
+        "text": "Now that I've experienced how it feels... I understand...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1650,
+            506,
+            1855,
+            659
+        ],
+        "text": "She continues to revert my body... with blinding speed!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1546,
+            377,
+            1743,
+            446
+        ],
+        "text": "RIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1591,
+            28,
+            1734,
+            93
+        ],
+        "text": "RIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

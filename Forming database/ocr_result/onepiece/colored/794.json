@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            69,
+            76,
+            148,
+            196
+        ],
+        "text": "COULDN'T HELP BUT OVERHEAR YOUR VOICES OUTSIDE! IYO!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            292,
+            136,
+            405
+        ],
+        "text": "PARDON, GOOD FELLOWS! HELLO THERE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            614,
+            111,
+            700
+        ],
+        "text": "IYO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            190,
+            20,
+            249,
+            139
+        ],
+        "text": "AND WHAT LOVELY VOICES THEY ARE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            69,
+            346,
+            171
+        ],
+        "text": "HEY, WHO ARE YOU?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            53,
+            484,
+            158
+        ],
+        "text": "AND KANJURO",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            228,
+            493,
+            337
+        ],
+        "text": "IS THAT... SHINOBU?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            440,
+            364,
+            469,
+            437
+        ],
+        "text": "AH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            489,
+            522,
+            581
+        ],
+        "text": "MY GOODNESS. PLEASE, STEP INSIDE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            606,
+            526,
+            703
+        ],
+        "text": "OH! SUCH BEAUTY! AM I IN THE PRESENCE OF A GODDESS?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            464,
+            586,
+            500
+        ],
+        "text": "OH, COME ON.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            651,
+            13,
+            706,
+            67
+        ],
+        "text": "HMM?!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            672,
+            251,
+            704,
+            287
+        ],
+        "text": "?!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            852,
+            33,
+            930,
+            161
+        ],
+        "text": "IS IT TRUE THAT THERE'S...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            24,
+            1123,
+            166
+        ],
+        "text": "...A GREAT BATTLE BREWING?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            813,
+            565,
+            916,
+            690
+        ],
+        "text": "LOOK! THIS IS ALL THE RAGE IN THE CAPITAL!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            567,
+            1122,
+            695
+        ],
+        "text": "IN FACT, I HAD THRILLS RUNNING UP AN' DOWN MY BACK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

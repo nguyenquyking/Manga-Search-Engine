@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            87,
+            14,
+            127,
+            109
+        ],
+        "text": "This overflowing...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            240,
+            129,
+            333
+        ],
+        "text": "Can you sense it?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            605,
+            126,
+            693
+        ],
+        "text": "Tell me, Mother",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            271,
+            29,
+            324,
+            139
+        ],
+        "text": "...Sugar Bliss?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            514,
+            53,
+            560,
+            168
+        ],
+        "text": "Yes, that's right!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            28,
+            848,
+            165
+        ],
+        "text": "...Flavor of sheer happiness",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            756,
+            594,
+            842,
+            698
+        ],
+        "text": "The one and only...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            914,
+            608,
+            991,
+            680
+        ],
+        "text": "Happy Birthday...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            954,
+            43,
+            1008,
+            119
+        ],
+        "text": "Linlin!!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            49,
+            274,
+            160,
+            426
+        ],
+        "text": "We've deemed each of you here to be trustworthy based on certain factors regarding your situations and actions.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            591,
+            141,
+            688
+        ],
+        "text": "This business with Aoyama...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            82,
+            712,
+            201
+        ],
+        "text": "So, we're ready to move ahead with this conversation.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            640,
+            555,
+            747,
+            703
+        ],
+        "text": "...means we'll be forced to take decisive action all at once.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            66,
+            1035,
+            182
+        ],
+        "text": "...We're keeping our circle nice and small. Safety first, and all.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            205,
+            1007,
+            330
+        ],
+        "text": "And since this classified meeting had to be thrown together in a hurry...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            581,
+            1060,
+            739
+        ],
+        "text": "Endeavor, Jeanist, and the other big heroes are in command out in the field at the moment.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

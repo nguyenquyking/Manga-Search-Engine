@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            251,
+            38,
+            307,
+            194
+        ],
+        "text": "I am...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            297,
+            653,
+            401,
+            937
+        ],
+        "text": "THREE SECONDS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1332,
+            372,
+            1433,
+            537
+        ],
+        "text": "It's over!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

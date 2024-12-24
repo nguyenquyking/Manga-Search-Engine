@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            54,
+            78,
+            100,
+            219
+        ],
+        "text": "FRANKY...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            106,
+            1156,
+            176,
+            1224
+        ],
+        "text": "IT'S\nTIME!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            1342,
+            171,
+            1478
+        ],
+        "text": "TRICERA-\nMAGNUM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            1599,
+            137,
+            1699
+        ],
+        "text": "I'M\nTAKING\nYOU DOWN\nWITH ME!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            491,
+            1044,
+            625,
+            1224
+        ],
+        "text": "RADICAL\nBEAM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            578,
+            275,
+            549,
+            432
+        ],
+        "text": "GREIISH\nDEVIANTART|GRECIAGZZ",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

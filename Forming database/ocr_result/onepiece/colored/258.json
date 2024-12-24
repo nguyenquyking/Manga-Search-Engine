@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            267,
+            637,
+            334,
+            756
+        ],
+        "text": "Zorojuro is back in action!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            300,
+            186,
+            390,
+            300
+        ],
+        "text": "Go get 'em, Sangoro-san!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            50,
+            904,
+            156
+        ],
+        "text": "QUEEN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            404,
+            915,
+            496
+        ],
+        "text": "KING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            738,
+            913,
+            828
+        ],
+        "text": "It really did heal him!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            955,
+            739,
+            1033,
+            836
+        ],
+        "text": "I'm afraid to think about what will happen after, though...",
+        "panel_id": "2",
+        "type": "thought"
+    }
+]

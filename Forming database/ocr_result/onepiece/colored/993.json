@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            58,
+            78,
+            79,
+            149
+        ],
+        "text": "Oh no...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            116,
+            477,
+            162,
+            510
+        ],
+        "text": "Oh my.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            231,
+            231,
+            301,
+            320
+        ],
+        "text": "Welcome, Welcome!!",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            336,
+            572,
+            408,
+            668
+        ],
+        "text": "What's this line for?! A bargain sale?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            312,
+            22,
+            394,
+            186
+        ],
+        "text": "When you want the finest noodles money can buy, nothing short of Sangoro's special soba will suffice!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            463,
+            32,
+            528,
+            99
+        ],
+        "text": "They're so chewy!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            126,
+            524,
+            201
+        ],
+        "text": "The noodles practically shine!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            32,
+            709,
+            190
+        ],
+        "text": "It's delicious!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            143,
+            912,
+            212
+        ],
+        "text": "Those aren't samurai, he's recruiting!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            263,
+            961,
+            389
+        ],
+        "text": "Melts on your tongue, but al dente between your teeth!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            52,
+            1056,
+            198
+        ],
+        "text": "Does that boy have any idea whose turf he's muscling in on...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            261,
+            1094,
+            354
+        ],
+        "text": "It's my special soba!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            433,
+            1092,
+            590
+        ],
+        "text": "Soba Cart Cook Sangoro",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            642,
+            623,
+            735,
+            723
+        ],
+        "text": "Come and have a serving, ladies!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

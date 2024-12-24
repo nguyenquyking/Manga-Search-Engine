@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            7,
+            201,
+            72,
+            236
+        ],
+        "text": "\u30b7\u30ad",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            256,
+            405,
+            273,
+            463
+        ],
+        "text": "THUD!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            361,
+            93,
+            482,
+            189
+        ],
+        "text": "The All-Stars and the Flying Six were defeated?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            570,
+            72,
+            614,
+            182
+        ],
+        "text": "This is no joke...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            325,
+            434,
+            408
+        ],
+        "text": "It can't be!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            559,
+            408,
+            605
+        ],
+        "text": "Has",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            395,
+            659,
+            419,
+            731
+        ],
+        "text": "King...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            743,
+            86,
+            841,
+            240
+        ],
+        "text": "...As long as those two monsters are still standing!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            678,
+            855,
+            846
+        ],
+        "text": "Then again, those wins are meaningless...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

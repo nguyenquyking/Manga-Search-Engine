@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            37,
+            717,
+            166,
+            844
+        ],
+        "text": "BAR-AAG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            287,
+            707,
+            422,
+            835
+        ],
+        "text": "YOU MUST BE GETTING TIRED!! I'LL PUT YOU TO SLEEP FOREVER, DUKE OF THE DAY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            714,
+            584,
+            835
+        ],
+        "text": "THERE'S NO NEED TO DRAW THIS OUT. I'VE ALREADY FORGIVEN YOU FOR LYING TO ME ABOUT THE SAMURAI...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            306,
+            80,
+            464,
+            217
+        ],
+        "text": "...YOUR COUNTRY'S ALREADY PAID THE PRICE FOR SHELTERING HIM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            71,
+            637,
+            641
+        ],
+        "text": "PANT\nPANT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

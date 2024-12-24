@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            267,
+            74,
+            433,
+            326
+        ],
+        "text": "YEAH!!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            152,
+            1879,
+            296,
+            2071
+        ],
+        "text": "GIVING UP ON GETTING STRONGER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            833,
+            1237,
+            960,
+            1512
+        ],
+        "text": "...EVERYONE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            1621,
+            1232,
+            1808
+        ],
+        "text": "...IS EVEN HARDER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1171,
+            153,
+            1296,
+            266
+        ],
+        "text": "USING THE ELVES' ESOTERIC ART...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1371,
+            55,
+            1428,
+            213
+        ],
+        "text": "ULTIMATE MAGIC!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1284,
+            701,
+            1382,
+            834
+        ],
+        "text": "IN THAT CASE, YOU CAN GET STRONGER.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1331,
+            1147,
+            1468,
+            1258
+        ],
+        "text": "YOU PEOPLE ARE AS MUCH OF A PAIN AS EVER.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1344,
+            1420,
+            1392,
+            1488
+        ],
+        "text": "I SEE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1419,
+            1753,
+            1496,
+            1851
+        ],
+        "text": "ISN'T THAT RIGHT...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

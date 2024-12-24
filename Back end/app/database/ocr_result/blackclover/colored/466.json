@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            883,
+            1716,
+            826,
+            1897
+        ],
+        "text": "BRZZZAP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1142,
+            1650,
+            1489,
+            1839
+        ],
+        "text": "WE CAN'T LET HIM GO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1226,
+            842,
+            1474,
+            1065
+        ],
+        "text": "IT WILL MEAN THE END OF THE WORLD!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1781,
+            76,
+            1847,
+            534
+        ],
+        "text": "CAPTAIN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2751,
+            1537,
+            2804,
+            1691
+        ],
+        "text": "00000",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

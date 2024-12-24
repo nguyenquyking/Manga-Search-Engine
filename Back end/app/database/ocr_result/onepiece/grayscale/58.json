@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            105,
+            545,
+            203,
+            653
+        ],
+        "text": "WHAT THE HELL DID YOU DO TO MY BODY?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            192,
+            873,
+            288
+        ],
+        "text": "YOU SHOULD GIVE UP ON TRYING TO COLLECT MY KEY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            309,
+            872,
+            407
+        ],
+        "text": "IN EXCHANGE, YOUR FIGHTING POWER IS HALF OF WHAT IT USED TO BE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            437,
+            937,
+            571
+        ],
+        "text": "...IT REALLY GIVES YOU THE MOST BEAUTIFUL SKIN. FRANKLY, I'M ENVIOUS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            924,
+            903,
+            1042
+        ],
+        "text": "THOUGH THE MOVE HAS THE UNFORTUNATE DOWNSIDE OF DIMINISHING YOUR CURVES...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            91,
+            953,
+            179
+        ],
+        "text": "I CAN'T DO THAT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            524,
+            1126,
+            665
+        ],
+        "text": "TEMPEST KICK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1084,
+            953,
+            1124,
+            1054
+        ],
+        "text": "COOL CHARGE!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1328,
+            712,
+            1433,
+            810
+        ],
+        "text": "IT'S POINTLESS. PLAYTIME IS OVER.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

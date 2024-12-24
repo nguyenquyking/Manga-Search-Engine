@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            84,
+            19,
+            168,
+            105
+        ],
+        "text": "IF WE SUBJECT THEM TO TORTURE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            354,
+            166,
+            435
+        ],
+        "text": "CAPTURE ONE OF THEM, ANY ONE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            479,
+            148,
+            584
+        ],
+        "text": "THE STRAW HAT PIRATE CREW, HUH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            611,
+            144,
+            704
+        ],
+        "text": "HAWKINS WAS RIGHT, THEN.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            205,
+            9,
+            282,
+            103
+        ],
+        "text": "...WE WILL LEARN WHAT THEY'RE AFTER.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            332,
+            14,
+            391,
+            81
+        ],
+        "text": "YES, SIR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            39,
+            560,
+            110
+        ],
+        "text": "THAT'S JUST A GUN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            216,
+            490,
+            507
+        ],
+        "text": "BLAM-BLAM-BLAM. BE-BENG BENG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            540,
+            614,
+            626,
+            704
+        ],
+        "text": "NINPO: HELL BIWA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            14,
+            896,
+            150
+        ],
+        "text": "HE'S RUNNING OFF WITH THE KAMURO GIRL!! AFTER THEM!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            309,
+            808,
+            361
+        ],
+        "text": "I KNOW!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            375,
+            890,
+            496
+        ],
+        "text": "DON'T WORRY, I'VE GOT HER!! WATCH OUT FOR THE DINOSAUR!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            551,
+            844,
+            691
+        ],
+        "text": "THANKS, USOHACHI!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1062,
+            127,
+            1122,
+            238
+        ],
+        "text": "DADDY!! AHA HA HA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            228,
+            750,
+            292
+        ],
+        "text": "KADOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

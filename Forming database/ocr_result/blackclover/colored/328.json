@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            41,
+            330,
+            331,
+            389
+        ],
+        "text": "LEVEL 0\nLEVEL 1\nLEVEL 2\nLEVEL 3\nLEVEL 4\nLEVEL 5\nLEVEL 6\nLEVEL 7\nLEVEL 8\nLEVEL 9",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            169,
+            13,
+            302,
+            211
+        ],
+        "text": "THE AMOUNT OF\nMAGES A COUNTRY\nHAS NEARING LEVEL\n0 REPRESENTS\nTHAT COUNTRY'S\nSTRENGTH...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            130,
+            656,
+            306,
+            835
+        ],
+        "text": "THAT'S\nWHY FOR\nWARS BETWEEN\nMAGIC NATIONS,\nMILITARY STRENGTH\nIS MEASURED\nBY \"MAGIC\nLEVELS\"...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            442,
+            109,
+            478,
+            369
+        ],
+        "text": "Team: @ColorClover",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            588,
+            59,
+            635,
+            186
+        ],
+        "text": "DEVILS...\nOH YEAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            525,
+            534,
+            672,
+            816
+        ],
+        "text": "FURTHER-\nMORE...\nFIGHTING DEVILS\nREQUIRES MAGES\nOF AT LEAST LEVEL\n1 OR GREATER.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            751,
+            65,
+            790,
+            334
+        ],
+        "text": "Artist: @xCatharsys",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            903,
+            2,
+            1010,
+            126
+        ],
+        "text": "EITHER WAY...\nUNFORTUNATELY\nWE CAN'T SPEAK\nABOUT THAT TO\nANYONE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            236,
+            958,
+            318
+        ],
+        "text": "ONLY\nTHE SPIRIT\nDIRECTOR\nSHOULD KNOW\nABOUT THAT...\nHOW DID THEY\nGET THAT\nINFORMA-\nTION...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            376,
+            958,
+            492
+        ],
+        "text": "DO\nYOU KNOW\nANYTHING\nABOUT\nTHAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            339,
+            1099,
+            425
+        ],
+        "text": "...THERE\nHE GOES\nAGAIN... JUST\nRIGHT OUT\nWITH IT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            878,
+            683,
+            1102,
+            831
+        ],
+        "text": "WE\nCAME\nTO THIS\nCOUNTRY ON\nTHE TRAIL OF\nA POWERFUL\nCURSE THAT\nMAY BELONG\nTO A DEVIL\n...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

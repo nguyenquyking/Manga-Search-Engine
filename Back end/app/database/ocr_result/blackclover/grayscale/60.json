@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            203,
+            82,
+            283,
+            215
+        ],
+        "text": "Licht's soul is definitely here, but he hasn't fully awakened.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            139,
+            468,
+            337,
+            606
+        ],
+        "text": "It's likely that he reincarnated with his soul still bound by the influence of the forbidden magic.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            577,
+            92,
+            638,
+            155
+        ],
+        "text": "Leave it to me.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            520,
+            617,
+            600
+        ],
+        "text": "Will we be able to wake him up?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            93,
+            966,
+            226
+        ],
+        "text": "The prince had a genius for thinking of how to do things even better.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            776,
+            464,
+            968,
+            624
+        ],
+        "text": "However, during the time I spent exploring its possibilities with the prince, it evolved.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            894,
+            903,
+            1007
+        ],
+        "text": "Once, my magic did nothing but open and shut objects.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1156,
+            76,
+            1272,
+            232
+        ],
+        "text": "Can release any seal!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1153,
+            816,
+            1424,
+            976
+        ],
+        "text": "At this point, my sealing magic...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

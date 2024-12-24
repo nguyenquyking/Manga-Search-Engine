@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            52,
+            43,
+            117,
+            178
+        ],
+        "text": "Not you again!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            234,
+            61,
+            278
+        ],
+        "text": "SHUNK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            393,
+            49,
+            490,
+            173
+        ],
+        "text": "Trafal-Gaaaaar!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            53,
+            670,
+            127
+        ],
+        "text": "Onigashima,\nAbove Wano",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            808,
+            104,
+            804,
+            173
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            930,
+            139,
+            944,
+            188
+        ],
+        "text": "ZRRP...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            591,
+            631,
+            650,
+            706
+        ],
+        "text": "UNDERGROUND\nARMORY",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1012,
+            640,
+            1062,
+            728
+        ],
+        "text": "What is that?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

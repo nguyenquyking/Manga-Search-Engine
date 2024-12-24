@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            83,
+            89,
+            172,
+            212
+        ],
+        "text": "...against the Beast Pirates' 30,000 man crew!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            723,
+            170,
+            836
+        ],
+        "text": "The Samurai-Pirate Alliance started this raid with an army of 5,400...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            447,
+            83,
+            538,
+            202
+        ],
+        "text": "The disparity in military strength has shrunk...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            378,
+            269,
+            448,
+            352
+        ],
+        "text": "Black Maria\nPage One",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            384,
+            564,
+            405,
+            648
+        ],
+        "text": "Who's Who",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            416,
+            727,
+            536,
+            832
+        ],
+        "text": "After a valiant struggle and Otama's Kibi Dango strategy,",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1180,
+            227,
+            1235,
+            359
+        ],
+        "text": "...have been defeated!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1159,
+            547,
+            1249,
+            700
+        ],
+        "text": "And the Mighty Flying Six...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

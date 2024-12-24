@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            38,
+            282,
+            218,
+            441
+        ],
+        "text": "I repeat, a supermassive villain is currently making a beeline directly north...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            198,
+            55,
+            331,
+            251
+        ],
+        "text": "...from Mt. Gunga in Wakayama Prefecture to Jaku City in the greater Kyoto region.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            550,
+            652,
+            819,
+            860
+        ],
+        "text": "The villain's predicted route will take him through Mino City, Kakun City, Nebaro City, Hando City, Mosu City, Horisu City, Kuraudo City, Karida City, Karamari City, Suinara City, Hau City, Sairo City...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            877,
+            68,
+            1033,
+            254
+        ],
+        "text": "...Shido City, Anoto City, Deno City, Ota City, Asaruda City, Nabato City, Kawa City, Kohera City-",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1269,
+            177,
+            1355,
+            301
+        ],
+        "text": "...are away for this mission, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1279,
+            762,
+            1320,
+            864
+        ],
+        "text": "Most heroes...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            57,
+            313,
+            74,
+            341
+        ],
+        "text": "BDMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            990,
+            39,
+            1069,
+            155
+        ],
+        "text": "A SYSTEM SO FRAGILE\nIT MADE MY\nHEAD SPIN...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1004,
+            236,
+            1102,
+            301
+        ],
+        "text": "WE'RE\nHUGE\nFANS!!\nSHAKE\nOUR\nHANDS!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

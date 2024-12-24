@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            581,
+            49,
+            699,
+            397
+        ],
+        "text": "TP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            582,
+            335,
+            629,
+            370
+        ],
+        "text": "TP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            619,
+            552,
+            640,
+            609
+        ],
+        "text": "HUH?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            48,
+            818,
+            138
+        ],
+        "text": "ERI...? UM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            244,
+            815,
+            309
+        ],
+        "text": "NOD",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            780,
+            341,
+            864,
+            460
+        ],
+        "text": "WHAT NOW...\nDONE WITH\nYOUR LITTLE\nTANTRUM?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            951,
+            575,
+            1007,
+            644
+        ],
+        "text": "TP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

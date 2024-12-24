@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            288,
+            121,
+            411,
+            253
+        ],
+        "text": "...so we can take down that bony jerk!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            858,
+            638,
+            968
+        ],
+        "text": "I'm storing up mana over here...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            161,
+            977,
+            287
+        ],
+        "text": "...is through losing!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            908,
+            890,
+            932,
+            998
+        ],
+        "text": "Yuno...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1318,
+            384,
+            1484,
+            487
+        ],
+        "text": "I don't hate people like you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1260,
+            495,
+            1315,
+            585
+        ],
+        "text": "All right.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1172,
+            896,
+            1297,
+            1029
+        ],
+        "text": "It does look like he has a chance, at least.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

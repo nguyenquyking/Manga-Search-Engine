@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            41,
+            41,
+            121,
+            159
+        ],
+        "text": "So you want to do it that way...\nThen die!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            206,
+            99,
+            276
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            309,
+            57,
+            389,
+            143
+        ],
+        "text": "You idiot, Nami!! Get outta there!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            321,
+            370,
+            409
+        ],
+        "text": "...King of the Pirates...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            149,
+            654,
+            224,
+            728
+        ],
+        "text": "...Stop until he's...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            243,
+            241,
+            265,
+            294
+        ],
+        "text": "SNAP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            408,
+            397,
+            419,
+            474
+        ],
+        "text": "CHOMP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            472,
+            494,
+            558,
+            607
+        ],
+        "text": "Get her, Koma-Chiyo!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            648,
+            551,
+            734
+        ],
+        "text": "But it's true!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            633,
+            836,
+            740
+        ],
+        "text": "Hey!! Onami!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            93,
+            891,
+            158
+        ],
+        "text": "AAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            962,
+            57,
+            989,
+            186
+        ],
+        "text": "A dog?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            373,
+            1065,
+            453
+        ],
+        "text": "Otama?! What are you doing here?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            603,
+            1005,
+            704
+        ],
+        "text": "Huh?! Is that...?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

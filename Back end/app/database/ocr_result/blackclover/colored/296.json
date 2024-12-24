@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            123,
+            15,
+            285,
+            167
+        ],
+        "text": "THIS CURSE... THE DEMON THAT'S CONNECTED TO MY MOTHER MIGHT BE A CLUE...!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            286,
+            327,
+            378,
+            438
+        ],
+        "text": "IT TRULY IS HARD TO BELIEVE, BUT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            192,
+            792,
+            345,
+            946
+        ],
+        "text": "THROUGHOUT ALL THAT... IT'S SURPRISING TO HEAR OF DEMONS AND CURSES BEING THERE...!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            29,
+            781,
+            147
+        ],
+        "text": "WELL, IT'S NOT LIKE WE'RE GOING THERE TO PICK A FIGHT WITH HER... BUT I GUESS WE CAN'T LET OUR GUARD DOWN!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            607,
+            376,
+            708,
+            452
+        ],
+        "text": "SAY WHAAAT!? THAT'S AMAZING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            786,
+            838,
+            944
+        ],
+        "text": "I DIDN'T MEET HER PERSONALLY, BUT THE POWER OF THEIR QUEEN ALONE IS ON PAR WITH THE COMBINED STRENGTH OF OUR MAGIC KNIGHTS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            293,
+            889,
+            414
+        ],
+        "text": "SO SHE'S A QUEEN... NO, LIKE A MAGIC EMPRESS...? THAT'S OUT OF THIS WORLD IF IT'S TRUE",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1186,
+            47,
+            1251,
+            144
+        ],
+        "text": "THANK YOU, MIMOSA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1218,
+            229,
+            1329,
+            346
+        ],
+        "text": "I'LL PUT IN AN APPLICATION FOR YOU GUYS TO ENTER THE KINGDOM!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1105,
+            334,
+            1276,
+            452
+        ],
+        "text": "ACTUALLY, THIS JUST SO HAPPENS TO BE THE TIME OF YEAR WHERE THEY'RE SOLICITING MORE TRAVELLERS INTO THE KINGDOM.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1158,
+            512,
+            1377,
+            643
+        ],
+        "text": "IT'S BEEN SAID THAT SHE'S AN OMNISCIENT SORCERER WHO KNOWS EVERYTHING ABOUT THE COUNTRY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1423,
+            77,
+            1497,
+            504
+        ],
+        "text": "OneHoox",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

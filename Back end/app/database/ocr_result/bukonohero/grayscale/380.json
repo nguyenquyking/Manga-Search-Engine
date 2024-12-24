@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            79,
+            116,
+            178,
+            238
+        ],
+        "text": "So normally, nobody else would have access to this data in any form.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            558,
+            163,
+            723
+        ],
+        "text": "Tatarus's system is a standalone one, built that way in order to prevent interference from external forces.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            340,
+            188,
+            480,
+            341
+        ],
+        "text": "Because All For One himself must have synchronized with his vestige residing within Tomura Shigaraki, right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            569,
+            535,
+            763
+        ],
+        "text": "As for the data itself, it concerns the cause of their system shutdown\u2014the same radio waves that Shigaraki made extensive use of in the main battle. In this case, the prison was hit with those blasts over and over, from both inside and out.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            586,
+            81,
+            630,
+            171
+        ],
+        "text": "Well, Sansa...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            115,
+            878,
+            269
+        ],
+        "text": "The problem is that it isn't a two-way channel.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            768,
+            334,
+            896,
+            474
+        ],
+        "text": "I've experienced the same phenomenon with One For All.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            585,
+            928,
+            774
+        ],
+        "text": "Yes, the piece of his consciousness inside his quirk works as a conduit... for sharing thoughts.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

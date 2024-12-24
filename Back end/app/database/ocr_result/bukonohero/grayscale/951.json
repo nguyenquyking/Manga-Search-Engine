@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            73,
+            51,
+            146,
+            164
+        ],
+        "text": "Well? Have you experienced the world...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            268,
+            175,
+            417
+        ],
+        "text": "Bakugo?! I can't take my eyes off of you for even a second! You mustn't push yourself! It could be fatal!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            461,
+            7,
+            494,
+            81
+        ],
+        "text": "Bakugo?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            509,
+            275,
+            571,
+            351
+        ],
+        "text": "Nejire! You okay?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            7,
+            1048,
+            101
+        ],
+        "text": "I held off on the big reveal until you could hear it!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            922,
+            117,
+            975,
+            217
+        ],
+        "text": "That name was temporary.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            926,
+            277,
+            1016,
+            395
+        ],
+        "text": "Feeling just peachy now that you're here, Togata. Weird, huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            27,
+            1364,
+            109,
+            1517
+        ],
+        "text": "Gotta save...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

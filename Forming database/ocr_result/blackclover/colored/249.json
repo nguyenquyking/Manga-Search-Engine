@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            59,
+            59,
+            163,
+            132
+        ],
+        "text": "I wonder if she's heard about \"Weg\"?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            430,
+            127,
+            452
+        ],
+        "text": "WAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            104,
+            720,
+            159,
+            805
+        ],
+        "text": "The Blue Rose's Captain!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            375,
+            49,
+            691,
+            167
+        ],
+        "text": "WAAAAAH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            505,
+            606,
+            640,
+            698
+        ],
+        "text": "Don't worry, it's bad times that we've got to stick together-",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            578,
+            818,
+            633,
+            867
+        ],
+        "text": "Hey... Stop it!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            644,
+            703,
+            677,
+            725
+        ],
+        "text": "Heh heh",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            911,
+            234,
+            969,
+            299
+        ],
+        "text": "Ugyaa AAHH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            911,
+            820,
+            994,
+            851
+        ],
+        "text": "WAAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

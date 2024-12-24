@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            64,
+            49,
+            107,
+            114
+        ],
+        "text": "AAAGH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            193,
+            88,
+            256,
+            212
+        ],
+        "text": "SHE'S SUCKING OUT HIS SOUL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            266,
+            235,
+            379
+        ],
+        "text": "WHAAAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            295,
+            590,
+            373,
+            663
+        ],
+        "text": "OH...\nALREADY\nOUT OF\nENERGY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            82,
+            486,
+            212
+        ],
+        "text": "YOU REALLY\nARE USELESS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            62,
+            723,
+            166
+        ],
+        "text": "EAT\nTHESE\nAND MAKE\nA GET-\nAWAY!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            574,
+            382,
+            667,
+            472
+        ],
+        "text": "FINE! ONE\nLAST GIFT\nOF BLACK\nBALLS,",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            550,
+            583,
+            603,
+            664
+        ],
+        "text": "EAT UP,\nHERA!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            572,
+            764,
+            630
+        ],
+        "text": "YAY!\u2661",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            67,
+            898,
+            144
+        ],
+        "text": "...MR.\nZEUS!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            412,
+            910,
+            501
+        ],
+        "text": "THANKS\nFOR THE\nMEAL...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1015,
+            530,
+            1104,
+            713
+        ],
+        "text": "IT'S NO GOOD!!\nHE'S LOST HIS SOUL,\nAND WON'T EAT HIS\nFAVORITE SNACK!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

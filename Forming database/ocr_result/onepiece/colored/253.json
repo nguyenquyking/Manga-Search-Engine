@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            185,
+            51,
+            248,
+            172
+        ],
+        "text": "I'll remember this bowl...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            46,
+            410,
+            157
+        ],
+        "text": "For the rest of my life!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            301,
+            688,
+            361,
+            830
+        ],
+        "text": "Thank you, Samurai!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            7,
+            650,
+            171
+        ],
+        "text": "Slice",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            566,
+            468,
+            626,
+            552
+        ],
+        "text": "Even if I get hungry?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            565,
+            581,
+            622,
+            670
+        ],
+        "text": "Can I become a samurai...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            699,
+            600,
+            758
+        ],
+        "text": "Hey...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            83,
+            1007,
+            244
+        ],
+        "text": "Huh, how is a disgraced samurai meant to introduce himself? I'm... nobody important...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            290,
+            991,
+            374
+        ],
+        "text": "Who are you, Samurai-san?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            437,
+            993,
+            540
+        ],
+        "text": "That man captivated all of us too...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            708,
+            965,
+            825
+        ],
+        "text": "You want to be Koziki Oden, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            581,
+            977,
+            654
+        ],
+        "text": "I heard you earlier.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1049,
+            465,
+            1107,
+            533
+        ],
+        "text": "Were you his friend?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1236,
+            61,
+            1263,
+            150
+        ],
+        "text": "Hehe!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

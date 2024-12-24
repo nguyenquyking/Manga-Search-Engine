@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            707,
+            93,
+            652,
+            254
+        ],
+        "text": "SHUMP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            636,
+            770,
+            666,
+            995
+        ],
+        "text": "EEYAAAAAAAAAA",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            1167,
+            696,
+            1332
+        ],
+        "text": "FWAAP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            737,
+            692,
+            786,
+            1073
+        ],
+        "text": "CRIK\nCRIK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1062,
+            662,
+            1177,
+            826
+        ],
+        "text": "HEEEENG!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1524,
+            86,
+            1546,
+            194
+        ],
+        "text": "THUD",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1325,
+            398,
+            1371,
+            536
+        ],
+        "text": "3 3",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1259,
+            961,
+            1262,
+            1116
+        ],
+        "text": "SHWAP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1641,
+            591,
+            1816,
+            834
+        ],
+        "text": "IT'S LIKE SOMETHING\nFROM A COMIC\nSTRIP...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2016,
+            160,
+            2212,
+            308
+        ],
+        "text": "YOU\nCANNOT\nDEFEAT\nME.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2002,
+            437,
+            2166,
+            679
+        ],
+        "text": "BUT YOU'VE\nREACHED YOUR\nLIMIT, HAVEN'T\nYOU?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2002,
+            755,
+            2182,
+            991
+        ],
+        "text": "WELL, THAT\nWAS A VERY\nENTERTAINING\nSHOW.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2035,
+            1575,
+            2081,
+            1741
+        ],
+        "text": "OOOOF!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2169,
+            1029,
+            2303,
+            1672
+        ],
+        "text": "WEEZ...\nWEEZ...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2532,
+            145,
+            2655,
+            319
+        ],
+        "text": "SHUD-\nDUP!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

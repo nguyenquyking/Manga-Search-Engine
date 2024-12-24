@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            121,
+            527,
+            196,
+            715
+        ],
+        "text": "I thank you for your cooperation.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            642,
+            976,
+            774
+        ],
+        "text": "Right, so I shall be handing you the details on an individual basis...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1095,
+            38,
+            1151,
+            140
+        ],
+        "text": "So that's what happened, huh...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

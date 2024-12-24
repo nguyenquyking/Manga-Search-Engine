@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            60,
+            94,
+            77,
+            113
+        ],
+        "text": "Ah...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            332,
+            528,
+            408
+        ],
+        "text": "Hurry up, Miss!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            291,
+            431,
+            360,
+            528
+        ],
+        "text": "My wife's... inside.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            701,
+            147,
+            756,
+            247
+        ],
+        "text": "...as I can!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            387,
+            687,
+            444
+        ],
+        "text": "Gotta save them.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            617,
+            730,
+            725
+        ],
+        "text": "What apartment number?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1029,
+            355,
+            1049,
+            419
+        ],
+        "text": "As many...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            718,
+            1095,
+            756
+        ],
+        "text": "ZSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

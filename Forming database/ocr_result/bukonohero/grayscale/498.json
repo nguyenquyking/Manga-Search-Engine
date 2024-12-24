@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            129,
+            91,
+            257,
+            182
+        ],
+        "text": "...We will be creating special suits for you geared toward stealth!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            229,
+            588,
+            294,
+            688
+        ],
+        "text": "For the purposes of this critical mission...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            106,
+            464,
+            142
+        ],
+        "text": "Heh.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            619,
+            518,
+            688
+        ],
+        "text": "Special suits!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            542,
+            240,
+            598,
+            299
+        ],
+        "text": "Sparing no expense, huh.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            193,
+            725,
+            264
+        ],
+        "text": "Just like All Might...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            441,
+            843,
+            484
+        ],
+        "text": "I want a cape!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            621,
+            814,
+            701
+        ],
+        "text": "I've been thinking about upgrading my arm covers, so I might as well test out my designs.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            64,
+            934,
+            112
+        ],
+        "text": "GRRR",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            962,
+            266,
+            1048,
+            340
+        ],
+        "text": "But, but...there's something so heroic about capes.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            937,
+            618,
+            1046,
+            703
+        ],
+        "text": "No! I'm not worthy of a cape! Not yet!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

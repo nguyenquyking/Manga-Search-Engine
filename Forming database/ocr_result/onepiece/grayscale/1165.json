@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            68,
+            354,
+            99,
+            440
+        ],
+        "text": "Yah!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            104,
+            651,
+            212,
+            788
+        ],
+        "text": "Smoke Escape Jutsu!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            96,
+            834,
+            244,
+            986
+        ],
+        "text": "Wait up!! Why are you running away from me?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            275,
+            618,
+            340,
+            695
+        ],
+        "text": "Whoa!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            246,
+            550,
+            561
+        ],
+        "text": "GRRRG",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            502,
+            597,
+            644,
+            739
+        ],
+        "text": "You Straw Hats just keep popping up...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            521,
+            66,
+            616,
+            203
+        ],
+        "text": "...One after the other!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            742,
+            80,
+            878,
+            228
+        ],
+        "text": "Uh-oh!! Big Mom's about to rampage!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1148,
+            721,
+            1220,
+            1034
+        ],
+        "text": "Stomp! Stomp! Stomp!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            996,
+            301,
+            1161,
+            452
+        ],
+        "text": "Let's go after those Tobi Roppo dinosaurs Denjiro told us about!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            78,
+            1177,
+            233
+        ],
+        "text": "We might not beat them, but we can at least slow them down!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            510,
+            1155,
+            657
+        ],
+        "text": "We won't get anywhere against numbers like these! Huff, huff...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            704,
+            1136,
+            826
+        ],
+        "text": "You don't wanna get caught in the middle!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1024,
+            861,
+            1118,
+            990
+        ],
+        "text": "Let's get outta here!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1427,
+            68,
+            1552,
+            257
+        ],
+        "text": "True, we're just wasting our time dealing with these low-level drunks!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

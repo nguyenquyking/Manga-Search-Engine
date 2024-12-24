@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            88,
+            91,
+            177,
+            221
+        ],
+        "text": "They're being infected!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            124,
+            295,
+            192,
+            400
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            78,
+            492,
+            224,
+            975
+        ],
+        "text": "AAAAAGH! Help!! It's cold... I'm turning into an oni!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            67,
+            763,
+            251
+        ],
+        "text": "This is the shining jewel of my plague rounds...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            860,
+            67,
+            969,
+            237
+        ],
+        "text": "Ice Oni!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            617,
+            855,
+            748,
+            1001
+        ],
+        "text": "Close the doors to every tower!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            849,
+            936,
+            991
+        ],
+        "text": "This floor is finished!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            940,
+            267,
+            1060,
+            456
+        ],
+        "text": "DO",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1108,
+            66,
+            1179,
+            178
+        ],
+        "text": "Wait, Luffy!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1120,
+            526,
+            1235,
+            669
+        ],
+        "text": "Outta the way,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1116,
+            882,
+            1228,
+            969
+        ],
+        "text": "First Basement Level",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1425,
+            46,
+            1539,
+            170
+        ],
+        "text": "GRAA! OOPF!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1484,
+            880,
+            1572,
+            928
+        ],
+        "text": "B1\nB2",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

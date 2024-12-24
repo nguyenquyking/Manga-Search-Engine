@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            96,
+            635,
+            139,
+            704
+        ],
+        "text": "From what I hear...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            132,
+            65,
+            267,
+            174
+        ],
+        "text": "To use that style, you need a ton of magic, good instincts and fast reflexes.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            143,
+            561,
+            273,
+            715
+        ],
+        "text": "In the Heart Kingdom, they put mana method together on the spot and make it part of the fight they're in.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            312,
+            57,
+            535,
+            347
+        ],
+        "text": "Us peasants have an advantage of our own though!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            642,
+            517,
+            713
+        ],
+        "text": "I'm a peasant. I've got none of that stuff.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            314,
+            674,
+            429
+        ],
+        "text": "That's especially true for powerful ones like that counter-trap spell.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            550,
+            669,
+            645
+        ],
+        "text": "All I can do is put the arrays together slowly beforehand.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            62,
+            984,
+            193
+        ],
+        "text": "...We can take a ton of time and build super-complicated arrays in advance!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            638,
+            980,
+            747
+        ],
+        "text": "Runes we make with our puny magic are so puny they just stick around.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            548,
+            1061,
+            622
+        ],
+        "text": "That means...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

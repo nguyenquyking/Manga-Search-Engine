@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            125,
+            384,
+            129,
+            433
+        ],
+        "text": "VROOO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            599,
+            516,
+            654,
+            584
+        ],
+        "text": "STILL ON THE MOVE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            610,
+            89,
+            664,
+            209
+        ],
+        "text": "KID, YOU'RE NOT GETTING MUCH SLEEP...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            301,
+            851,
+            351
+        ],
+        "text": "...IN A WARM, COZY BED.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            785,
+            412,
+            858,
+            480
+        ],
+        "text": "\"I RECOMMEND A DECENT NIGHT'S SLEEP.\"",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            192,
+            1062,
+            256
+        ],
+        "text": "NIGHT-",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            117,
+            81,
+            207,
+            166
+        ],
+        "text": "Whaddya think they're fighting for?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            204,
+            163,
+            304
+        ],
+        "text": "Think about it. Those ones who're still left, still fighting...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            114,
+            367,
+            196,
+            454
+        ],
+        "text": "...Heroes can't be hoping for glory and riches at",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            643,
+            182,
+            732
+        ],
+        "text": "The stage is gone now. The theater's knocked down.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            291,
+            345,
+            385,
+            467
+        ],
+        "text": "So many of those folks we once called heroes have hung up their capes.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            562,
+            77,
+            659,
+            175
+        ],
+        "text": "Sure, we're all hurting here, but let's stop and use our heads!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            523,
+            191,
+            654,
+            281
+        ],
+        "text": "How'll there be any chance in hell of going back to our old lives?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            540,
+            611,
+            622
+        ],
+        "text": "...What do we even got left?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            525,
+            662,
+            622,
+            756
+        ],
+        "text": "If we reject the ones still standing up for what's right...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            671,
+            812,
+            743
+        ],
+        "text": "How long...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            433,
+            970,
+            552
+        ],
+        "text": "...Can we be spectators on the sidelines?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

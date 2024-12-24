@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            219,
+            454,
+            364,
+            533
+        ],
+        "text": "Thank you. I was happy as well.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            583,
+            483,
+            679
+        ],
+        "text": "...made me very happy!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            369,
+            949,
+            564,
+            1034
+        ],
+        "text": "Being able to serve you, all this time...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            536,
+            107,
+            777,
+            221
+        ],
+        "text": "Five hundred years... Really, Secre, thank you for all you've done!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

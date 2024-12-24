@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            243,
+            19,
+            276,
+            71
+        ],
+        "text": "S",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            433,
+            407,
+            649,
+            565
+        ],
+        "text": "They're still fighting, mindlessly trapped in that contrived revenge!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1028,
+            292,
+            1185,
+            613
+        ],
+        "text": "One sword isn't gonna cover all that! Besides, I can't use my power over and over right now!! ARGH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            672,
+            1270,
+            721
+        ],
+        "text": "Let's just knock them all out.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1438,
+            870,
+            1488,
+            949
+        ],
+        "text": "But... how?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1329,
+            389,
+            1377,
+            424
+        ],
+        "text": "BRR BRR",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1348,
+            87,
+            1459,
+            213
+        ],
+        "text": "If light is here, there is a way!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            66,
+            30,
+            207,
+            138
+        ],
+        "text": "I bet you were insanely reckless on your way here, as usual.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            185,
+            370,
+            267,
+            441
+        ],
+        "text": "Noelle!! You can totally handle this!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            630,
+            187,
+            724
+        ],
+        "text": "Excuse me?! What are you talking about?! You just got here!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            63,
+            447,
+            207
+        ],
+        "text": "\u2026Enough.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            585,
+            449,
+            713
+        ],
+        "text": "You've done\u2026",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            34,
+            711,
+            184
+        ],
+        "text": "...gives me strength!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            305,
+            723,
+            421
+        ],
+        "text": "Simply thinking about you...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            898,
+            629,
+            978,
+            709
+        ],
+        "text": "Oh, it really is true then.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            73,
+            1041,
+            134
+        ],
+        "text": "I...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            261,
+            1036,
+            369
+        ],
+        "text": "...to think I'd realize it at a time like this.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            443,
+            1077,
+            560
+        ],
+        "text": "I've been explaining it away, but...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

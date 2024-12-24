@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            329,
+            575,
+            550,
+            774
+        ],
+        "text": "Water Creation Magic:\nSea Serpent's Bellow",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            436,
+            52,
+            427,
+            139
+        ],
+        "text": "SPLOOOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            836,
+            599,
+            849,
+            650
+        ],
+        "text": "KERSPLASH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

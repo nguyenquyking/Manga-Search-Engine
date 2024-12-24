@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            72,
+            41,
+            144,
+            129
+        ],
+        "text": "NO, THAT GLORY BELONGS",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            171,
+            158,
+            273
+        ],
+        "text": "IT'S A CHANCE FOR A PROMOTION!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            293,
+            156,
+            388
+        ],
+        "text": "HIS HEAD WILL BE MINE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            422,
+            151,
+            532
+        ],
+        "text": "GOOD! THE CUFFS ARE STILL ON!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            568,
+            144,
+            704
+        ],
+        "text": "THEN IT'S TRUE... THAT'S KAWAMATSU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            134,
+            556,
+            264
+        ],
+        "text": "SO YOU'RE THE WEIRDO WHO LOVES POISONED FISH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            471,
+            382,
+            534,
+            468
+        ],
+        "text": "THERE! I SEE SOMETHING FILTHY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            525,
+            552,
+            591
+        ],
+        "text": "HEY! KIKU, WAIT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            474,
+            634,
+            540,
+            697
+        ],
+        "text": "KAWAMATSU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            20,
+            792,
+            142
+        ],
+        "text": "AND THAT'S A LEGENDARY SAMURAI?!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            184,
+            968,
+            289
+        ],
+        "text": "THAT'S THE NINJA FROM YESTERDAY! GET HIM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            331,
+            954,
+            435
+        ],
+        "text": "THE INTRUDER GOT AWAY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            966,
+            87,
+            1027,
+            149
+        ],
+        "text": "NIN-NIN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            574,
+            938,
+            692
+        ],
+        "text": "TIME TO DIE, LEGEND!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1101,
+            648,
+            1140,
+            708
+        ],
+        "text": "GLINT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

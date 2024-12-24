@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            61,
+            46,
+            196,
+            191
+        ],
+        "text": "That sharp glance can startle me even just from watching him through a screen.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            35,
+            661,
+            220,
+            785
+        ],
+        "text": "He's a famously stoic hero who's not only strict with others, but also with himself\u2014and it shows in his work.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            352,
+            30,
+            483,
+            170
+        ],
+        "text": "You've gotta make him laugh at least once.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            385,
+            447,
+            526
+        ],
+        "text": "Then sometime between when you first meet him and when you're finished talking...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            558,
+            463,
+            729
+        ],
+        "text": "He can be like that, totally\u2026 But sir's actually got another face that he doesn't show the media.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            557,
+            787,
+            667
+        ],
+        "text": "So if you don't wanna get turned away at the door...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            760,
+            771,
+            779
+        ],
+        "text": "!?",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            831,
+            44,
+            864,
+            139
+        ],
+        "text": "Huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            7,
+            1143,
+            154
+        ],
+        "text": "He respects humor above everything else.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1010,
+            335,
+            1155,
+            474
+        ],
+        "text": "Sure, sir looks like a grumpy-puss\u2026but despite that, or maybe because of it...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            513,
+            1110,
+            645
+        ],
+        "text": "Wha\u2026 What do you mean?! Make him laugh?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

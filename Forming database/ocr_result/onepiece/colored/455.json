@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            90,
+            577,
+            193,
+            722
+        ],
+        "text": "BUT OUR LIVES ALONE ARE NOT ENOUGH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            48,
+            333,
+            194
+        ],
+        "text": "WE NEED MORE HELP!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            277,
+            589,
+            357,
+            723
+        ],
+        "text": "THE ENEMY NUMBERS 30,000!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            319,
+            553,
+            375
+        ],
+        "text": "AAAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            553,
+            615,
+            743
+        ],
+        "text": "MORE HELP-- ENOUGH, KIN'EMON!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            55,
+            768,
+            131
+        ],
+        "text": "THEN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            738,
+            192,
+            856,
+            295
+        ],
+        "text": "THERE WILL BE NO HELP!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            750,
+            458,
+            840,
+            579
+        ],
+        "text": "THE HEAVENS HAVE TURNED AGAINST US!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            742,
+            610,
+            847,
+            718
+        ],
+        "text": "JUST LOOK AT THE SEA AND SKY!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1036,
+            39,
+            1144,
+            139
+        ],
+        "text": "THEN I CAN ONLY ASSUME... SOMETHING HAS HAPPENED TO THEM...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

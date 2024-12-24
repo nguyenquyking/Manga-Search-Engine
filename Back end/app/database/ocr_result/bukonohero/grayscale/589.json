@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            245,
+            57,
+            308,
+            146
+        ],
+        "text": "DON'T BE RECKLESS!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            234,
+            252,
+            297,
+            310
+        ],
+        "text": "HANG ON, DEKU!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            263,
+            459,
+            297,
+            546
+        ],
+        "text": "BE CAUTIOUS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            246,
+            657,
+            306,
+            767
+        ],
+        "text": "GOOD LUCK IN THERE, EVERYONE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            550,
+            579,
+            707
+        ],
+        "text": "HAIBORI WOODS",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1027,
+            285,
+            1108,
+            554
+        ],
+        "text": "FORMER HIDEOUT OF THE\nCREATURE REJECTION CLAN\n(THE HATE GROUP AGAINST\nHETEROMORPHS)",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

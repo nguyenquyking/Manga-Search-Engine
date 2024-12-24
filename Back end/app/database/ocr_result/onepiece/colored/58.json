@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            117,
+            368,
+            221,
+            546
+        ],
+        "text": "H... Hiyori!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            652,
+            292,
+            896
+        ],
+        "text": "TREASURE\nREPOSITORY,\n2ND FLOOR,\nONIGASHIMA",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            155,
+            1352,
+            325,
+            1698
+        ],
+        "text": "...THERE IS NO\nPOWER MORE\nRIDICULOUS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            340,
+            781,
+            465
+        ],
+        "text": "RAAHH\nKABOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            677,
+            1320,
+            781,
+            1416
+        ],
+        "text": "\u30c9\u30b4\u30a9\u30fc\u30f3!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1125,
+            153,
+            1284,
+            454
+        ],
+        "text": "I... I WAS\nBEING USED!!\nBY KAIDO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1073,
+            1466,
+            1294,
+            1745
+        ],
+        "text": "I... I\nLOVED ODEN\nTOO, YOU\nKNOW...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1447,
+            1494,
+            1587,
+            1706
+        ],
+        "text": "TH... THINK\nCAREFULLY\nNOW!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1472,
+            142,
+            1647,
+            482
+        ],
+        "text": "COME, LET'S\nESCAPE HIS WRATH\nTOGETHER! NOW\nUNDO THE NAILS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1890,
+            437,
+            2081,
+            658
+        ],
+        "text": "MY FATHER\nUPHELD HIS\nPROMISE\nTO YOU.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1885,
+            894,
+            2076,
+            1124
+        ],
+        "text": "...WHO DO\nYOU EXPECT\nWILL LISTEN TO\nYOU NOW?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1887,
+            1244,
+            2076,
+            1725
+        ],
+        "text": "AFTER YOU HAVE\nKICKED DIRT UPON EVERY\nSAMURAI TO WHOM YOU\nOWED A DEBT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2070,
+            181,
+            2182,
+            336
+        ],
+        "text": "DID HE\nNOT?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2185,
+            849,
+            2281,
+            1305
+        ],
+        "text": "BE-BE-BENG\nBE-BENG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            62,
+            353,
+            99,
+            459
+        ],
+        "text": "INTRUDERS!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            592,
+            184,
+            693
+        ],
+        "text": "Even if there's a diversion outside the castle...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            302,
+            72,
+            385,
+            169
+        ],
+        "text": "...You'll probably encounter some dark disciples.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            461,
+            654,
+            554
+        ],
+        "text": "When you do, have someone act as a decoy...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            179,
+            1057,
+            283
+        ],
+        "text": "...And let as many people as possible go on to strike the Triad!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

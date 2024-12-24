@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            293,
+            1093,
+            366,
+            1208
+        ],
+        "text": "WHAT IS THIS PLACE...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1289,
+            479,
+            1421,
+            615
+        ],
+        "text": "A CERTAIN NOBLE'S.\nA FORMER\nNOBLE,\nTHAT IS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1610,
+            1150,
+            1686,
+            1243
+        ],
+        "text": "WHOSE\nHOUSE\nIS IT?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

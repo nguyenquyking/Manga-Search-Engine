@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            40,
+            89,
+            69,
+            156
+        ],
+        "text": "HUH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            447,
+            153,
+            530
+        ],
+        "text": "SPECIAL ATTACK,\nGREEN STAR...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            409,
+            617,
+            498,
+            727
+        ],
+        "text": "DEVIL!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            639,
+            654,
+            730
+        ],
+        "text": "EEEK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            58,
+            736,
+            159
+        ],
+        "text": "HELP ME,\nPAY-PAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            770,
+            593,
+            830,
+            725
+        ],
+        "text": "YES!! GOT\nHER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            603,
+            1106,
+            721
+        ],
+        "text": "NOW\nMELT HER\nDOWN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            55,
+            962,
+            149
+        ],
+        "text": "YOU CAN\nESCAPE ON\nYOUR OWN.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

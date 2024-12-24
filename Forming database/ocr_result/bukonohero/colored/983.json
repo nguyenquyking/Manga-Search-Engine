@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            107,
+            94,
+            185,
+            254
+        ],
+        "text": "The investigation has progressed considerably.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            708,
+            180,
+            843
+        ],
+        "text": "Thanks to all of the information you supplied,",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            276,
+            309,
+            300,
+            665
+        ],
+        "text": "The heart of the matter draws near!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            429,
+            106,
+            510,
+            249
+        ],
+        "text": "Along with the sharing of acquired information,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            650,
+            655,
+            837
+        ],
+        "text": "The small Yakuza organization, the Eightfold Cleansers... What exactly are they plotting?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            87,
+            765,
+            224
+        ],
+        "text": "I would like to consult with you all today.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1235,
+            561,
+            1279,
+            840
+        ],
+        "text": "MY HERO ACADEMIA ...No. 134 /END",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

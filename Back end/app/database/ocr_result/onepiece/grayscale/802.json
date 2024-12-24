@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            66,
+            659,
+            123,
+            741
+        ],
+        "text": "TREASURE REPOSITORY,\nBEHIND THE TOWER",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            358,
+            59,
+            435,
+            215
+        ],
+        "text": "I feel as though I saw...\nBut...it must have been a dream.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            385,
+            255,
+            433,
+            347
+        ],
+        "text": "I do not know...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            369,
+            640,
+            441,
+            713
+        ],
+        "text": "Who tended to us?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            380,
+            539,
+            421,
+            588
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            406,
+            411,
+            433,
+            467
+        ],
+        "text": "RAAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            603,
+            60,
+            662,
+            213
+        ],
+        "text": "Because it couldn't possibly be true!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            744,
+            83,
+            803,
+            212
+        ],
+        "text": "Just look at you!! You've gone through",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            292,
+            857,
+            410
+        ],
+        "text": "...is engaging with Kaido for now...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            754,
+            624,
+            833,
+            717
+        ],
+        "text": "Sir Luffy's group...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            818,
+            512,
+            832,
+            551
+        ],
+        "text": "Wobble...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            954,
+            269,
+            1090,
+            427
+        ],
+        "text": "The battle still rages all over the island!! We must go!! There is still life left in us to spend!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

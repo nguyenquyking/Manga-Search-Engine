@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            92,
+            179,
+            316,
+            420
+        ],
+        "text": "Ha ha ha... That just means we're pressuring Kaido...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            549,
+            319,
+            832
+        ],
+        "text": "It seems that Onigashima is in danger of falling!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            1181,
+            254,
+            1426
+        ],
+        "text": "Are you all right, Boss Hyogoro?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            1540,
+            281,
+            1666
+        ],
+        "text": "Inside the Skull Dome",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            341,
+            888,
+            557,
+            1131
+        ],
+        "text": "\u30ba\u30c9\u30fc\u30f3\uff01\nZDOOM!!\nRAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            920,
+            377,
+            1103,
+            615
+        ],
+        "text": "...We will all fall to our deaths!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            693,
+            1141,
+            905
+        ],
+        "text": "If the Straw Hat fellow defeats Kaido...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            1247,
+            1057,
+            1460
+        ],
+        "text": "Which would you prefer?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            939,
+            1531,
+            1032,
+            1696
+        ],
+        "text": "Tell me, then...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1223,
+            1019,
+            1234,
+            1148
+        ],
+        "text": "RAAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1406,
+            108,
+            1516,
+            360
+        ],
+        "text": "But if we survive...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1762,
+            130,
+            1939,
+            353
+        ],
+        "text": "If we win this battle, I'll rest assured...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1767,
+            480,
+            1915,
+            678
+        ],
+        "text": "And my wife is in Ringo!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1762,
+            815,
+            1939,
+            981
+        ],
+        "text": "I've got children back in Hakumai.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1751,
+            1116,
+            1964,
+            1305
+        ],
+        "text": "Really...? Is that supposed to be a debate...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1789,
+            1469,
+            1947,
+            1724
+        ],
+        "text": "...It means Kaido's won!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2035,
+            1398,
+            2114,
+            1497
+        ],
+        "text": "?!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2016,
+            99,
+            2180,
+            248
+        ],
+        "text": "...They can lead a good life!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2436,
+            115,
+            2650,
+            461
+        ],
+        "text": "How wonderful that would be!! We'll have a country we can be proud of again!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

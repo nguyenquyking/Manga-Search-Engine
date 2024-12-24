@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            73,
+            43,
+            174,
+            146
+        ],
+        "text": "Are you sure?! This bridge is vital to the area!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            513,
+            150,
+            599
+        ],
+        "text": "Bridge between Kibi and Udon",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            636,
+            138,
+            695
+        ],
+        "text": "NEXT!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            249,
+            24,
+            300,
+            123
+        ],
+        "text": "Shut up! Next!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            25,
+            505,
+            168
+        ],
+        "text": "Why is this happening?! Now we can't cross to the other bank!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            198,
+            501,
+            309
+        ],
+        "text": "Look! The great bridge that connects the regions!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            346,
+            494,
+            444
+        ],
+        "text": "Bridge between Ringo and Hakumai",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            420,
+            576,
+            487,
+            696
+        ],
+        "text": "When this is over, we'll rebuild it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            566,
+            146,
+            576,
+            267
+        ],
+        "text": "Mutter, mutter!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            564,
+            572,
+            589,
+            655
+        ],
+        "text": "GRRRGGG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            802,
+            33,
+            914,
+            120
+        ],
+        "text": "None of these ships can sail now!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            820,
+            453,
+            902,
+            540
+        ],
+        "text": "Itachi Port, Kuri",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            794,
+            610,
+            861,
+            693
+        ],
+        "text": "NEXT!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            886,
+            188,
+            896,
+            228
+        ],
+        "text": "KABAMM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            977,
+            24,
+            1074,
+            104
+        ],
+        "text": "Very good!! Mwa ha ha ha!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

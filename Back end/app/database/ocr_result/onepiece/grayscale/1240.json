@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            27,
+            435,
+            49,
+            744
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            446,
+            96,
+            502,
+            741
+        ],
+        "text": "Oda Sensei! Look, over there! It's a UFO!! Let's start the SBS.\n--The Man Respected by Higuma",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            521,
+            62,
+            598,
+            899
+        ],
+        "text": "A: What was that?! That was like an elementary school trick!!\nAnd you fooled me!! Dammit!! Oh, it says he's ll... So he is in elementary school...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            110,
+            742,
+            560
+        ],
+        "text": "Oda Sensei, hello! My mom farts around\nthe clock all day long. Do you think she has\nthe power of the Toot-Toot Fruit?\n--Hata",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            62,
+            812,
+            559
+        ],
+        "text": "A: No, that's just a sign of good gut\nhealth. Next question.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            109,
+            924,
+            693
+        ],
+        "text": "Oda Sensei, hello! According to my\ngrandma, Yamato's birthday is November 3. Is that true?\n--Hata",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            62,
+            968,
+            602
+        ],
+        "text": "A: Yep. Why wouldn't it be November 3?",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            61,
+            1017,
+            763
+        ],
+        "text": "Q: Please draw Law making a sour face after eating a pickled plum!",
+        "panel_id": "8",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            619,
+            1163,
+            751
+        ],
+        "text": "Simple\nversion.",
+        "panel_id": "9",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1228,
+            65,
+            1316,
+            949
+        ],
+        "text": "I'm so, so, soooo curious about Broth Splatterina, the first crush of both Kid and\nKiller! What does she look like? I bet she's really cute!\n--Onimaru",
+        "panel_id": "10",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1376,
+            297,
+            1480,
+            394
+        ],
+        "text": "You splattered\nbroth all\nover me!!!",
+        "panel_id": "11",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1500,
+            918,
+            1569,
+            992
+        ],
+        "text": "28",
+        "panel_id": "11",
+        "type": "page_number"
+    },
+    {
+        "text_box": [
+            222,
+            922,
+            401,
+            944
+        ],
+        "text": "(Sankoko, Gunma)",
+        "panel_id": "2",
+        "type": "background_text"
+    }
+]

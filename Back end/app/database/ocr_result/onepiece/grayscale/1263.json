@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            108,
+            67,
+            211,
+            211
+        ],
+        "text": "THE KING OF THE PIRATES...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            668,
+            228,
+            908
+        ],
+        "text": "GYA HA HA!\nDOES HE KNOW WHOSE CASTLE HE'S INVADING?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            1065,
+            133,
+            1252
+        ],
+        "text": "HUHHH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            574,
+            129,
+            702,
+            364
+        ],
+        "text": "I'LL SPLIT YOUR SKULL IN TWO!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            705,
+            859,
+            960
+        ],
+        "text": "...IS OBVIOUSLY\nGOING TO BE\nMASTER KAIDO,\nYOU ULTRA-\nBUFFOON!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            1121,
+            589,
+            1294
+        ],
+        "text": "GRRG...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            918,
+            427,
+            946,
+            637
+        ],
+        "text": "A HEADBUTT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1153,
+            1026,
+            1393,
+            1317
+        ],
+        "text": "ULTI-MORTAR!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

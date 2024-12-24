@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            40,
+            68,
+            77,
+            674
+        ],
+        "text": "IS THIS ALL I WAS WORTH?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            141,
+            26,
+            251,
+            106
+        ],
+        "text": "THEY SAID I WAS THE HOPE OF THE VILLAGE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            141,
+            657,
+            231,
+            726
+        ],
+        "text": "EVERYONE CALLED ME A GENIUS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            351,
+            17,
+            365,
+            88
+        ],
+        "text": "TRUSTED",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            353,
+            364,
+            422
+        ],
+        "text": "ENVIED.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            329,
+            573,
+            368,
+            727
+        ],
+        "text": "I WAS CHOSEN.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            472,
+            181,
+            491,
+            244
+        ],
+        "text": "HATED.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            441,
+            504,
+            472,
+            582
+        ],
+        "text": "ACKNOWLEDGED",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            605,
+            42,
+            692,
+            166
+        ],
+        "text": "...AND I SWORE.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            620,
+            509,
+            689,
+            678
+        ],
+        "text": "I SUFFERED LOSS...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1046,
+            41,
+            1077,
+            79
+        ],
+        "text": "GRRT",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1023,
+            332,
+            1094,
+            412
+        ],
+        "text": "Boo...",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1008,
+            590,
+            1001,
+            642
+        ],
+        "text": "GRRT",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            117,
+            94,
+            203,
+            166
+        ],
+        "text": "He's like that guy!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            117,
+            393,
+            166,
+            512
+        ],
+        "text": "This feeling...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            338,
+            404,
+            447,
+            506
+        ],
+        "text": "Now that I've acquired a devil's heart...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            15,
+            754,
+            181
+        ],
+        "text": "...My strength is even more devastating.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            272,
+            654,
+            308
+        ],
+        "text": "ZZT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            927,
+            89,
+            1037,
+            175
+        ],
+        "text": "Isn't any human like that...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            399,
+            1057,
+            503
+        ],
+        "text": "He uses a devil's power. He has a devil's heart.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

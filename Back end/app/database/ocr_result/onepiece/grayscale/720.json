@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            64,
+            58,
+            135,
+            183
+        ],
+        "text": "Good timing, Black Leg. Take him.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            25,
+            445,
+            121,
+            720
+        ],
+        "text": "BAAAM!! Why couldn't it be girls?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            183,
+            606,
+            277,
+            718
+        ],
+        "text": "Where did you two come from, anyway?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            60,
+            482,
+            246
+        ],
+        "text": "I'm not a doctor, man!! I don't have time to fix him up!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            290,
+            488,
+            388
+        ],
+        "text": "I wasn't asking about him!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            412,
+            498,
+            597
+        ],
+        "text": "He's got 20 or 30 broken bones. Give him splints, keep his head facing up, and make sure he's conscious and breathing.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            383,
+            632,
+            475,
+            727
+        ],
+        "text": "Hey! At least explain first!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            503,
+            291,
+            667,
+            392
+        ],
+        "text": "Dun dun. What's the commotion over there? Big Mom? Huff, huff!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            78,
+            859,
+            154
+        ],
+        "text": "He's gonna win!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            196,
+            867,
+            286
+        ],
+        "text": "It seemed like he figured something out...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            785,
+            340,
+            828,
+            406
+        ],
+        "text": "Makes sense.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            429,
+            832,
+            534
+        ],
+        "text": "Kaido. Big Mom.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            584,
+            851,
+            707
+        ],
+        "text": "Who were you fighting to get this messed up?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            881,
+            336,
+            954,
+            419
+        ],
+        "text": "Surprised you found the roof-top.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            349,
+            1103,
+            429
+        ],
+        "text": "I trust Luffy's okay up there.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1091,
+            145,
+            1120,
+            152
+        ],
+        "text": "RAHH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

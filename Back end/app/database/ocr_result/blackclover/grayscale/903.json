@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            93,
+            9,
+            196,
+            193
+        ],
+        "text": "I'LL END\nTHIS IN 30\nSECONDS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            77,
+            657,
+            109,
+            722
+        ],
+        "text": "NO!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            677,
+            838,
+            726
+        ],
+        "text": "WHOOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

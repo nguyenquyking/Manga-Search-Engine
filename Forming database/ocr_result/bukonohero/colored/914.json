@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            103,
+            290,
+            147,
+            373
+        ],
+        "text": "Huh? Really?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            719,
+            182,
+            849
+        ],
+        "text": "You've been looking kinda down since you started your internship.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            575,
+            74,
+            685,
+            219
+        ],
+        "text": "\"If you need someone to talk to, you can always talk to us.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            65,
+            907,
+            175
+        ],
+        "text": "We're friends, after all.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

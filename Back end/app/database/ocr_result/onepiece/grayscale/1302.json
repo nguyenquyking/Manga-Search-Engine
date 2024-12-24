@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            118,
+            138,
+            352,
+            347
+        ],
+        "text": "AFTER THE DISTURBANCE WITH LUFFY AT THE PARTY, THE PLEASURE HALL WAS BASICALLY EMPTY.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            112,
+            453,
+            313,
+            684
+        ],
+        "text": "IF THERE ARE NO WOMEN IN THE PLEASURE HALL, THERE CERTAINLY WON'T BE ANY MEN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            116,
+            751,
+            311,
+            902
+        ],
+        "text": "I DON'T THINK HE SAW ANY WOMEN IN THERE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            151,
+            1180,
+            241,
+            1333
+        ],
+        "text": "IT'S SIR SANJI!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            440,
+            97,
+            555,
+            267
+        ],
+        "text": "WE CAN CROSS THE BRIDGE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            103,
+            868,
+            342
+        ],
+        "text": "THE REST OF YOU, FOLLOW ME!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            113,
+            1095,
+            211
+        ],
+        "text": "GOT IT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1280,
+            103,
+            1496,
+            264
+        ],
+        "text": "KEEP AN EYE ON THE WINDOWS OF THE PLEASURE HALL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            421,
+            879,
+            1339
+        ],
+        "text": "INFILTRATION TEAM, HEAD THROUGH THE BUILDING!! YOU BET! THAT'S THE SPIRIT! GOOD ANSWER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            879,
+            1034,
+            1084
+        ],
+        "text": "DADADA...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2017,
+            129,
+            2084,
+            352
+        ],
+        "text": "SWISH...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1667,
+            468,
+            1829,
+            614
+        ],
+        "text": "OH NO! JUMP INTO THE WATER!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1663,
+            1152,
+            1825,
+            1307
+        ],
+        "text": "IF YOU SPOT A FIGURE IN THEM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1978,
+            737,
+            2084,
+            948
+        ],
+        "text": "I HEAR LOTS OF NOISE OUTSIDE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

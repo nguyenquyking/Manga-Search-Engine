@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            24,
+            549,
+            111,
+            873
+        ],
+        "text": "MY HERO\nACADEMIA",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            347,
+            4,
+            370,
+            299
+        ],
+        "text": "No. 276 - You Cheated...!",
+        "panel_id": "2",
+        "type": "chapter_title"
+    },
+    {
+        "text_box": [
+            339,
+            603,
+            364,
+            787
+        ],
+        "text": "BY KOHEI HORIKOSHI",
+        "panel_id": "2",
+        "type": "author"
+    },
+    {
+        "text_box": [
+            709,
+            517,
+            744,
+            888
+        ],
+        "text": "TRANSLATION: CALEB COOK LETTERING: JOHN HUNT",
+        "panel_id": "3",
+        "type": "credits"
+    },
+    {
+        "text_box": [
+            1044,
+            6,
+            1097,
+            297
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "author_social_media"
+    }
+]

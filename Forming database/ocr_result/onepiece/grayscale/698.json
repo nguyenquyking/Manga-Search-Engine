@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            257,
+            60,
+            358,
+            193
+        ],
+        "text": "And Big Mom's right behind us!! How could you possibly expect to win?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            241,
+            241,
+            335,
+            342
+        ],
+        "text": "We gotta go!! She's gonna get up again!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            257,
+            649,
+            320,
+            746
+        ],
+        "text": "Nami, what are you thinking?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            61,
+            806,
+            192
+        ],
+        "text": "Otama!! Are you still alive?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            311,
+            748,
+            343
+        ],
+        "text": "BAM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            727,
+            386,
+            817,
+            536
+        ],
+        "text": "Huff, huff... She's going to chase after us either way!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            578,
+            812,
+            732
+        ],
+        "text": "Hey, Tama! Hang in there, kid!! Oh, that looks vicious...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            254,
+            1109,
+            393
+        ],
+        "text": "But the main thing is, she deserves what's coming to her!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

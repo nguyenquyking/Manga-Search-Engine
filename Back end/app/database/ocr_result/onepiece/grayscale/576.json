@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            62,
+            66,
+            187,
+            173
+        ],
+        "text": "YOU\nWILL\nNOT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            593,
+            77,
+            712
+        ],
+        "text": "OPEN WANO'S\nBORDERS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            153,
+            390,
+            184,
+            445
+        ],
+        "text": "BOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            709,
+            307,
+            810,
+            421
+        ],
+        "text": "BLAST\nBREATH\n!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1083,
+            91,
+            1101,
+            145
+        ],
+        "text": "KADOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            995,
+            52,
+            1101,
+            145
+        ],
+        "text": "GRRRR\n...\nHUFF!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            354,
+            968,
+            400
+        ],
+        "text": "HUFF\n!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            424,
+            1079,
+            510
+        ],
+        "text": "YOU WILL\nNEVER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

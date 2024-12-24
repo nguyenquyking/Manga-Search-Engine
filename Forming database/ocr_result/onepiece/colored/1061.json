@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            76,
+            28,
+            156,
+            136
+        ],
+        "text": "...of Oden Castle!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            591,
+            176,
+            689
+        ],
+        "text": "They are in hiding at the ruins...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            214,
+            34,
+            245,
+            77
+        ],
+        "text": "?",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            559,
+            16,
+            622,
+            114
+        ],
+        "text": "Is this true?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            554,
+            611,
+            604,
+            706
+        ],
+        "text": "Hawkins!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            20,
+            837,
+            161
+        ],
+        "text": "...So if we have those old castle ruins erased while they are empty...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            746,
+            197,
+            843,
+            327
+        ],
+        "text": "But, perhaps because of that particular legend approaching...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            738,
+            413,
+            840,
+            507
+        ],
+        "text": "No, it's merely a lie to contain his rampage.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            732,
+            551,
+            787,
+            696
+        ],
+        "text": "Oden Castle...?!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1027,
+            196,
+            1110,
+            342
+        ],
+        "text": "This is only bound to enflame Shogun Orochi's fears...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1027,
+            362,
+            1131,
+            508
+        ],
+        "text": "...People have spoken of sightings of eerie light near the peak.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1058,
+            77,
+            1131,
+            168
+        ],
+        "text": "...It should kill two birds with one stone!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

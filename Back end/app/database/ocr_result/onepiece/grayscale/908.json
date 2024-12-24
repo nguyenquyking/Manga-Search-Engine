@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            129,
+            60,
+            229,
+            126
+        ],
+        "text": "I've got my daily training to do anyway.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            135,
+            169,
+            206
+        ],
+        "text": "No need to tell me twice.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            279,
+            171,
+            369
+        ],
+        "text": "Well, sorry, but I'm busy! Get outta my kitchen!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            578,
+            187,
+            713
+        ],
+        "text": "Excuse me? What're you even in here for anyway? That desperate for attention?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            291,
+            652,
+            344,
+            711
+        ],
+        "text": "But before I go...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            340,
+            415,
+            421
+        ],
+        "text": "...I need to leave one of my swords here.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            321,
+            469,
+            340,
+            508
+        ],
+        "text": "TNK...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            550,
+            310,
+            619,
+            385
+        ],
+        "text": "This here is a big boy sword.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            197,
+            819,
+            276
+        ],
+        "text": "It won't listen to lame playboys who only know how to goof off.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            952,
+            81,
+            1054,
+            164
+        ],
+        "text": "...He wouldn't even have the guts to pick it up.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            417,
+            1065,
+            547
+        ],
+        "text": "But I only know one guy like that, and I know if I left this sword in the same room as him...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

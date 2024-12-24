@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            27,
+            60,
+            66,
+            703
+        ],
+        "text": "TOYA WAS ALWAYS SMALL BECAUSE HE CAME OUT OF THE OVEN A LITTLE EARLY, BUT AT LONG LAST HE HAD A GROWTH SPURT",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            194,
+            81,
+            240,
+            191
+        ],
+        "text": "MAN, DAD'S SURE IN FOR A SURPRISE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            206,
+            229,
+            294
+        ],
+        "text": "I'M PRETTY AWESOME,\nIF I DO SAY SO MYSELF.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            166,
+            577,
+            278,
+            718
+        ],
+        "text": "RIGHT... IT'S JUST ANOTHER BODILY PROCESS! MY FIREPOWER'S LINKED TO MY FEELINGS, SO IF I GET RILED UP...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            125,
+            578,
+            256
+        ],
+        "text": "...I DUNNO WHY,\nBUT I START CRYING.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            531,
+            578,
+            605,
+            649
+        ],
+        "text": "WHEN\nI GET\nWORKED\nUP...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            485,
+            679,
+            520,
+            743
+        ],
+        "text": "BUT DANG...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            119,
+            717,
+            620
+        ],
+        "text": "...CHANGED FROM RED TO BLUE.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            859,
+            208,
+            929,
+            324
+        ],
+        "text": "...YOU GOTTA\nCOME UP TO\nSEKOTO PEAK\nWITH ME.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            863,
+            426,
+            933,
+            526
+        ],
+        "text": "LISTEN, DAD,\nNEXT TIME\nYOU GET A\nDAY OFF...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

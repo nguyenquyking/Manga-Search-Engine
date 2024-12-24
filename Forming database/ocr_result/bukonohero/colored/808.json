@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            101,
+            94,
+            161,
+            177
+        ],
+        "text": "...IF THAT'S WHAT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            327,
+            54,
+            370,
+            138
+        ],
+        "text": "...YOU DESIRE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            106,
+            566,
+            199,
+            669
+        ],
+        "text": "...I'LL GRANT YOU POWER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            537,
+            173,
+            614,
+            255
+        ],
+        "text": "Even you're here, Hawks! Hooray for the whole liberation thing!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            578,
+            420,
+            587,
+            451
+        ],
+        "text": "ZRM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            595,
+            75,
+            660,
+            168
+        ],
+        "text": "WELL, HOW D'YOU DO, MR. NUMBER TWO?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            512,
+            682,
+            602
+        ],
+        "text": "YOU NEED TO BRING ME SOMETHING.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            615,
+            681,
+            727
+        ],
+        "text": "HOWEVER... THERE'S ONE FINAL LITTLE TASK BEFORE THAT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            35,
+            854,
+            104
+        ],
+        "text": "CAN'T MAKE A MOVE YET.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            151,
+            863,
+            244
+        ],
+        "text": "SURE AM! NOW HOW ABOUT SOME INTROS?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            626,
+            858,
+            717
+        ],
+        "text": "YOU'RE LOOKING PLEASED AS PUNCH.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            22,
+            974,
+            112
+        ],
+        "text": "...ALL OF JAPAN IS DONE FOR.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            264,
+            1009,
+            368
+        ],
+        "text": "C'MON, HAWKS! IF YOU'RE NOT QUICK ENOUGH...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            567,
+            1075,
+            719
+        ],
+        "text": "THERE'S STILL THEIR BACKER IN THE SHADOWS! I GOTTA FIGURE OUT THE WHOLE STORY HERE ASAP BEFORE CALLING IN ENDEAVOR AND THE OTHERS!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1122,
+            12,
+            1139,
+            253
+        ],
+        "text": "Next chapter hits Sept. 1!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

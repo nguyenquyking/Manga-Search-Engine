@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            117,
+            109,
+            172,
+            244
+        ],
+        "text": "It's as if this year's Reverie was cursed.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            271,
+            90,
+            318,
+            200
+        ],
+        "text": "We should put what happened aside for now.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            729,
+            167,
+            832
+        ],
+        "text": "The Holy Land - Mary Geoise, Red Line",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            490,
+            94,
+            574,
+            221
+        ],
+        "text": "It wouldn't be out of place for someone to die unexpectedly...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            462,
+            282,
+            534,
+            463
+        ],
+        "text": "Nico Robin must've been apprehended by now. It's time to act!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            474,
+            556,
+            546,
+            714
+        ],
+        "text": "There was no way of knowing that the battle would go this far!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            464,
+            749,
+            538,
+            830
+        ],
+        "text": "Wano is the more pressing issue.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            647,
+            77,
+            748,
+            239
+        ],
+        "text": "During a war that involves Kaido and Big Mom... This is our chance to erase that nuisance!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            978,
+            75,
+            1024,
+            165
+        ],
+        "text": "What's the matter?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            216,
+            965,
+            247
+        ],
+        "text": "Uh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            955,
+            578,
+            1027,
+            665
+        ],
+        "text": "All units standing by...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            950,
+            751,
+            1019,
+            826
+        ],
+        "text": "The seas around Wano",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

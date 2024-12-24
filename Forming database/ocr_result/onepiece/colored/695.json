@@ -1,0 +1,365 @@
+[
+    {
+        "text_box": [
+            43,
+            43,
+            74,
+            522
+        ],
+        "text": "The story of ONE PIECE 1>>94",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            45,
+            110,
+            282
+        ],
+        "text": "Character",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            165,
+            266,
+            192,
+            506
+        ],
+        "text": "The Straw Hat Crew",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            245,
+            43,
+            301,
+            247
+        ],
+        "text": "Chopperemon [Ninja]\nTony Tony Chopper",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            306,
+            42,
+            345,
+            232
+        ],
+        "text": "Studied powerful medicines in the Birdie Kingdom as he waited to rejoin the crew.",
+        "panel_id": "3",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            367,
+            47,
+            381,
+            212
+        ],
+        "text": "Ship's Doctor, Bounty: 100 belly",
+        "panel_id": "3",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            244,
+            388,
+            300,
+            566
+        ],
+        "text": "Luffytaro [Ronin]\nMonkey D. Luffy",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            306,
+            392,
+            358,
+            589
+        ],
+        "text": "A young man dreaming of being the Pirate King. After two years of training, he rejoins his friends in search of the New World!",
+        "panel_id": "4",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            367,
+            397,
+            381,
+            559
+        ],
+        "text": "Captain, Bounty: 1.5 billion belly",
+        "panel_id": "4",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            408,
+            41,
+            462,
+            173
+        ],
+        "text": "Orobi [Geisha]\nNico Robin",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            474,
+            44,
+            512,
+            230
+        ],
+        "text": "Spent time on the island of Baltigo with Dragon, Luffy's father and leader of the Revolutionary Army.",
+        "panel_id": "5",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            534,
+            47,
+            547,
+            240
+        ],
+        "text": "Archeologist, Bounty: 130 million belly",
+        "panel_id": "5",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            410,
+            391,
+            464,
+            558
+        ],
+        "text": "Zorojuro [Ronin]\nRoronoa Zoro",
+        "panel_id": "6",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            474,
+            391,
+            514,
+            572
+        ],
+        "text": "Swallowed his pride on Gloom Island and trained under Mihawk before rejoining Luffy.",
+        "panel_id": "6",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            534,
+            397,
+            548,
+            566
+        ],
+        "text": "Fighter, Bounty: 320 million belly",
+        "panel_id": "6",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            583,
+            42,
+            634,
+            240
+        ],
+        "text": "Franosuke [Carpenter]\nFranky",
+        "panel_id": "7",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            646,
+            43,
+            685,
+            225
+        ],
+        "text": "Upgraded himself into \"Armored Franky\" in the Future Land, Baldimore.",
+        "panel_id": "7",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            708,
+            47,
+            720,
+            228
+        ],
+        "text": "Shipwright, Bounty: 94 million belly",
+        "panel_id": "7",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            585,
+            397,
+            638,
+            558
+        ],
+        "text": "Nami [Kunoichi]\nNami",
+        "panel_id": "8",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            645,
+            391,
+            699,
+            576
+        ],
+        "text": "Learned about the climates of the New World on Weatheria, a Sky Island that studies the atmosphere.",
+        "panel_id": "8",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            708,
+            397,
+            721,
+            573
+        ],
+        "text": "Navigator, Bounty: 66 million belly",
+        "panel_id": "8",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            756,
+            41,
+            811,
+            209
+        ],
+        "text": "Bonekichi [Ghost]\nBrook",
+        "panel_id": "9",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            822,
+            44,
+            862,
+            235
+        ],
+        "text": "Originally captured by Long-Arm bandits for a freak show, he is now the mega-star \"Soul King\" Brook.",
+        "panel_id": "9",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            880,
+            48,
+            894,
+            217
+        ],
+        "text": "Musician, Bounty: 83 million belly",
+        "panel_id": "9",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            758,
+            392,
+            816,
+            598
+        ],
+        "text": "Usohachi [Toad Oil Salesman]\nUsopp",
+        "panel_id": "10",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            820,
+            391,
+            861,
+            576
+        ],
+        "text": "Received Heraclesun's lessons on the Bowin Islands in his quest to be the \"king of the snipers.\"",
+        "panel_id": "10",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            882,
+            397,
+            895,
+            564
+        ],
+        "text": "Sniper, Bounty: 200 million belly",
+        "panel_id": "10",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            933,
+            391,
+            957,
+            583
+        ],
+        "text": "Sangoro [Soba Cook]",
+        "panel_id": "11",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            973,
+            390,
+            987,
+            427
+        ],
+        "text": "Sanji",
+        "panel_id": "11",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            996,
+            391,
+            1035,
+            584
+        ],
+        "text": "Honed his skills fighting with the masters of Newkama Kenpo in the Kamabakka Kingdom.",
+        "panel_id": "11",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1054,
+            396,
+            1070,
+            560
+        ],
+        "text": "Cook, Bounty: 330 million belly",
+        "panel_id": "11",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            963,
+            59,
+            983,
+            133
+        ],
+        "text": "Shanks",
+        "panel_id": "12",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1012,
+            62,
+            1074,
+            213
+        ],
+        "text": "One of the Four Emperors.\nWaits for Luffy in the \"New World,\" the second half of the Grand Line.\nCaptain of the Red-Hair Pirates",
+        "panel_id": "12",
+        "type": "description"
+    }
+]

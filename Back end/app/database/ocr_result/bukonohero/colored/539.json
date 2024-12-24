@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            8,
+            594,
+            356,
+            710
+        ],
+        "text": "YAY! I AM ON MY WAY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            127,
+            750,
+            263,
+            909
+        ],
+        "text": "I HAVE BEEN WAITING, MASTER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            570,
+            586,
+            682,
+            675
+        ],
+        "text": "THE TEAM IN JAKU MUST'VE FAILED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            789,
+            672,
+            956
+        ],
+        "text": "AIN'T THAT THE \"WALKING CALAMITY\"? I THOUGHT HE DIDN'T MOVE AROUND MUCH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            81,
+            752,
+            208
+        ],
+        "text": "NOTHING'S WORKING! HE'S TOO SOLID!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            256,
+            775,
+            367
+        ],
+        "text": "WE GOTTA BACK UP LADY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            434,
+            1005,
+            521
+        ],
+        "text": "WAHHH!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1113,
+            390,
+            1246,
+            507
+        ],
+        "text": "THE ICE GUY'S STILL ALIVE AND KICKING?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1239,
+            156,
+            1327,
+            280
+        ],
+        "text": "WHAT'S HAPPENING HERE?! THIS IS A MESS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            711,
+            1359,
+            978
+        ],
+        "text": "SHNK SHNK SHNK SHNK",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

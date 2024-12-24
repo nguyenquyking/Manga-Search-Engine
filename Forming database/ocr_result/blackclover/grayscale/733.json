@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            54,
+            23,
+            233,
+            107
+        ],
+        "text": "I HAVE TO GO DEFEAT HIM FAST!! THERE'S NO OTHER WAY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            230,
+            216,
+            360
+        ],
+        "text": "IF I LET MORRIS GO UNCHECKED, THE SITUATION WILL KEEP DETERIORATING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            383,
+            193,
+            727
+        ],
+        "text": "DAMN IT!! THEY'RE EVERYWHERE...!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            32,
+            526,
+            176
+        ],
+        "text": "SOMEONE HAS TO KEEP THEM OCCUPIED AS WELL!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            395,
+            596,
+            651,
+            721
+        ],
+        "text": "HOWEVER, THERE'S NO TELLING WHAT DEVILS OF THE HIGHEST ORDER MAY DO.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            918,
+            26,
+            1021,
+            146
+        ],
+        "text": "IF WE'RE GOING TO \"WIN,\" THE BEST MOVE IS-",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            918,
+            592,
+            1070,
+            714
+        ],
+        "text": "DEFEAT MORRIS AND KEEP THE DEVILS IN CHECK...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

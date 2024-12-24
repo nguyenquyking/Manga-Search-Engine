@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            662,
+            44,
+            733,
+            142
+        ],
+        "text": "He now seeks to save everyone...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            634,
+            212,
+            689,
+            306
+        ],
+        "text": "For better or worse...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            404,
+            716,
+            491
+        ],
+        "text": "Naw! The kiddo...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            621,
+            612,
+            730,
+            687
+        ],
+        "text": "My own feelings place a heavy burden on him...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            28,
+            1054,
+            156
+        ],
+        "text": "...as a true superhero.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            978,
+            208,
+            1116,
+            347
+        ],
+        "text": "The manifestation of our quirks has enabled him to act on his primary motivation.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1011,
+            407,
+            1118,
+            511
+        ],
+        "text": "...sees every cause as a worthy one.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

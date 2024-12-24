@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            798,
+            341,
+            897,
+            486
+        ],
+        "text": "...and keep running alongside him.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1025,
+            311,
+            1092,
+            467
+        ],
+        "text": "NO. 321",
+        "panel_id": "1",
+        "type": "caption"
+    }
+]

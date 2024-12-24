@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            56,
+            470,
+            216,
+            565
+        ],
+        "text": "MURMUR...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            123,
+            607,
+            332,
+            809
+        ],
+        "text": "WHY SHOULDN'T I?\nA WIN'S A WIN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            140,
+            1196,
+            328,
+            1349
+        ],
+        "text": "DON'T WIND HIM UP, CAT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            457,
+            855,
+            565,
+            1208
+        ],
+        "text": "CHIK!!\nHuh?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1146,
+            1020,
+            1332,
+            1332
+        ],
+        "text": "I CHANGED MY MIND!\nI ALTERED THE SENTENCE TO DEATH\nBY FIRING SQUAD...\nONE MINUTE AGO!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1164,
+            201,
+            1280,
+            349
+        ],
+        "text": "EEEEK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1170,
+            712,
+            1375,
+            930
+        ],
+        "text": "THAT WASN'T THE DEAL!\nLORD ODEN UPHELD THE--!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1425,
+            989,
+            1561,
+            1164
+        ],
+        "text": "AND THE ENTIRE CLAN\nGETS PUT TO\nDEATH TOO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1572,
+            604,
+            1678,
+            872
+        ],
+        "text": "DO IT\nFOR ME...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1654,
+            1152,
+            1676,
+            1179
+        ],
+        "text": "??",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1812,
+            865,
+            1918,
+            931
+        ],
+        "text": "??",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1881,
+            1206,
+            2067,
+            1359
+        ],
+        "text": "WHAT KINDA\nCHILDISH\nNONSENSE\n--?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1944,
+            159,
+            2060,
+            578
+        ],
+        "text": "OPEN WANO'S\nBORDERS!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

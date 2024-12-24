@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            52,
+            468,
+            75,
+            521
+        ],
+        "text": "No...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            91,
+            34,
+            248,
+            191
+        ],
+        "text": "Especially now that Toya knows what you're hoping to achieve through the children!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            138,
+            401,
+            251,
+            513
+        ],
+        "text": "That would be too much! It's too cruel!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            102,
+            556,
+            232
+        ],
+        "text": "...He comes home with fresh burns every day.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            280,
+            568,
+            363
+        ],
+        "text": "No matter what I say...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            649,
+            6,
+            671,
+            196
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            759,
+            78,
+            848,
+            208
+        ],
+        "text": "That's the only way to make him give up.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            689,
+            835,
+            861
+        ],
+        "text": "He inherited that pigheaded stubbornness from me!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1026,
+            724,
+            1131,
+            887
+        ],
+        "text": "Since he'll never be the one to surpass...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

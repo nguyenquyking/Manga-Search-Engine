@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            140,
+            109,
+            305,
+            143
+        ],
+        "text": "\u707c\u71b1\u306e\u30cb\u30e9\u30a4\u30ab\u30ca\u30a4",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            137,
+            308,
+            327,
+            356
+        ],
+        "text": "\u756a\u5916\u7de8",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            985,
+            553,
+            1016,
+            578
+        ],
+        "text": "\u30b6\u30b6\u30fc",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            618,
+            404,
+            761,
+            435
+        ],
+        "text": "\u5cf6\u304c\u898b\u3048\u305f\u305e\u3063!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            700,
+            100,
+            856,
+            124
+        ],
+        "text": "\u3066\u3086\u30fc\u304b\u6bce\u65e5\u898b\u3066\u308b\u305e\u3063!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            176,
+            735,
+            194
+        ],
+        "text": "\u3066\u3086\u30fc\u304b\u3082\u3046\u4f4f\u3093\u3067\u308b\u305e\u3063",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            72,
+            1122,
+            97
+        ],
+        "text": "\u30a4\u30eb\u30ab\u306f\u6d77\u306b\u3044\u308b",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            647,
+            1185,
+            668
+        ],
+        "text": "\u30aa\u30ec\u306e\u53f3\u8db3\u306f\u2026\u592a\u3044",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1003,
+            695,
+            1146,
+            722
+        ],
+        "text": "\u53f3\u624b\u306f\u2026\u7121\u7406\u304c\u3042\u308b",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            523,
+            1050,
+            545
+        ],
+        "text": "\u77db\u76fe\u3057\u3066\u308b",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1192,
+            335,
+            1358,
+            437
+        ],
+        "text": "\u3068\u3044\u3046\u304b\u2026\u305d\u3053\u3092\u4f55\u3068\u304b!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            810,
+            1064,
+            857
+        ],
+        "text": "\u8239\u9577\u3001\u30bf\u30d0\u30b3\u3059\u3063\u3066\u304d\u3066\u3044\u3044\u3063\u3059\u304b\uff1f",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            502,
+            1136,
+            602
+        ],
+        "text": "\u3044\u3044\u3088\u3044\u3044\u3088\u3063\u305d\u3046\u3044\u3046\u306e!!\u3082\u3063\u3068\u3061\u3087\u3046\u3060\u3044!!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            87,
+            279,
+            162,
+            679
+        ],
+        "text": "DJ PUNCH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            600,
+            1468,
+            691,
+            1591
+        ],
+        "text": "That naive dream of ours, as kids...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            866,
+            1867,
+            981,
+            2008
+        ],
+        "text": "It's turned into a nightmare now, but still...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1132,
+            1661,
+            1216,
+            1803
+        ],
+        "text": "The three of us could...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1240,
+            1400,
+            1357,
+            1577
+        ],
+        "text": "Find out if you're the real thing!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1315,
+            75,
+            1431,
+            336
+        ],
+        "text": "That one's for making my pal cry!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

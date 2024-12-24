@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            50,
+            101,
+            54,
+            136
+        ],
+        "text": "KABOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            42,
+            948,
+            70,
+            1125
+        ],
+        "text": "BWAAAA!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            49,
+            1420,
+            109,
+            1486
+        ],
+        "text": "AHA HA HA HA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            258,
+            1252,
+            277,
+            1303
+        ],
+        "text": "HUH?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            926,
+            389,
+            976
+        ],
+        "text": "HUP!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            502,
+            898,
+            494,
+            973
+        ],
+        "text": "BWAIING!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            625,
+            534,
+            735,
+            638
+        ],
+        "text": "AH\nHYA HYA\nHYA!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            677,
+            183,
+            804,
+            495
+        ],
+        "text": "GEAR FIVE",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            716,
+            1149,
+            755,
+            1268
+        ],
+        "text": "BO-YOING!!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            708,
+            1404,
+            725,
+            1456
+        ],
+        "text": "GRAK!!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            767,
+            1260,
+            831,
+            1343
+        ],
+        "text": "GOOO!!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            1387,
+            788,
+            1494
+        ],
+        "text": "NRRR!!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            810,
+            368,
+            930,
+            448
+        ],
+        "text": "DON'T\nSWEAT\nIT!!",
+        "panel_id": "8",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            479,
+            985,
+            551
+        ],
+        "text": "I DIDN'T\nWANT TO\nWIN THAT\nWAY.",
+        "panel_id": "8",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            839,
+            564,
+            916,
+            649
+        ],
+        "text": "I'M SORRY\nABOUT\nTHAT IDIOT\nEARLIER...",
+        "panel_id": "8",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            81,
+            1085,
+            219
+        ],
+        "text": "LET'S\nFINISH\nTHIS\nUP!!!",
+        "panel_id": "8",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            255,
+            1125,
+            428
+        ],
+        "text": "To be continued!",
+        "panel_id": "8",
+        "type": "narration"
+    }
+]

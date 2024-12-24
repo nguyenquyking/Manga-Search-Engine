@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            148,
+            775,
+            153,
+            848
+        ],
+        "text": "FWSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1250,
+            41,
+            1303,
+            125
+        ],
+        "text": "TOO FAST!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1169,
+            378,
+            1270,
+            526
+        ],
+        "text": "HE FLEW OUTSIDE WITH THE FLAMES... AND CIRCLED AROUND BACK?!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

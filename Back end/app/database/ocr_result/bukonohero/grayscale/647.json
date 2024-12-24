@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            26,
+            267,
+            24,
+            330
+        ],
+        "text": "SHOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            137,
+            639,
+            139,
+            683
+        ],
+        "text": "BLAM!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            847,
+            266,
+            992,
+            363
+        ],
+        "text": "...I've got no way to tell them that it's Lady Nagant who's after me.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            851,
+            409,
+            958,
+            530
+        ],
+        "text": "All Might and Hawks will realize that something's amiss, but...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            843,
+            555,
+            916,
+            653
+        ],
+        "text": "She destroyed my secure line.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1019,
+            118,
+            1088,
+            233
+        ],
+        "text": "She might target them too as they get closer!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            54,
+            262,
+            108,
+            315
+        ],
+        "text": "WAIT! HANG ON!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            444,
+            101,
+            488
+        ],
+        "text": "HOW IS THIS REAL?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            160,
+            305,
+            195,
+            349
+        ],
+        "text": "CALL AN AMBULANCE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            206,
+            45,
+            223,
+            148
+        ],
+        "text": "AHHHH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            253,
+            528,
+            290,
+            581
+        ],
+        "text": "SOMEBODY, PLEASE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            487,
+            653,
+            563
+        ],
+        "text": "I NEED...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            433,
+            913,
+            529
+        ],
+        "text": "...A NEW LINE OF WORK...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

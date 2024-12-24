@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            51,
+            358,
+            201,
+            515
+        ],
+        "text": "He's the one who was rampaging in the Flower Capital recently!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            92,
+            720,
+            216,
+            892
+        ],
+        "text": "That's Drake from the Tobi Roppo!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            193,
+            158,
+            305,
+            321
+        ],
+        "text": "Drake?! But why is he attacking the Numbers?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            305,
+            393,
+            433,
+            1006
+        ],
+        "text": "RAAAAAAAAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1033,
+            203,
+            1100,
+            300
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1060,
+            427,
+            1179,
+            636
+        ],
+        "text": "Hey, Drake!! Why would you take out one of the Numbers?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            699,
+            1192,
+            811
+        ],
+        "text": "He must be one of their officers. Strange...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            856,
+            1163,
+            996
+        ],
+        "text": "I could have sworn he just looked like a dinosaur!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1384,
+            76,
+            1459,
+            189
+        ],
+        "text": "The thing about Luffy is...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

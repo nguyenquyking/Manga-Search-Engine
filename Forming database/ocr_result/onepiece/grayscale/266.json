@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            91,
+            137,
+            166,
+            282
+        ],
+        "text": "...We need to find some other way to beat them on taste.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            238,
+            101,
+            280
+        ],
+        "text": "Which...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            326,
+            178,
+            408
+        ],
+        "text": "Good question. We can't beat them on flour quality.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            449,
+            425,
+            527
+        ],
+        "text": "So what do we do now?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            569,
+            451,
+            626
+        ],
+        "text": "This is why I like you so much!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            640,
+            432,
+            722
+        ],
+        "text": "Hnnn! The pride of a good, honest meal!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            333,
+            717,
+            394
+        ],
+        "text": "What else is there?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            337,
+            913,
+            407
+        ],
+        "text": "What flavors do I have that they don't?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            456,
+            848,
+            586
+        ],
+        "text": "Paradise Farms having all the food supplies firmly under their thumb makes this rough.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            749,
+            675,
+            803,
+            727
+        ],
+        "text": "She has a point.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            921,
+            248,
+            1052,
+            327
+        ],
+        "text": "What ingredients can I find that Paradise Farms can't?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

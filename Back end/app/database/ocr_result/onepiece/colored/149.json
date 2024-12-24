@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            380,
+            402,
+            443,
+            496
+        ],
+        "text": "WODEN CREATIV",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            527,
+            46,
+            611,
+            176
+        ],
+        "text": "I was just starting to hit that good buzz!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            533,
+            309,
+            587,
+            396
+        ],
+        "text": "You little...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            527,
+            749,
+            572,
+            827
+        ],
+        "text": "ARGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            689,
+            434,
+            744,
+            555
+        ],
+        "text": "His Haki's getting stronger!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            660,
+            54,
+            686,
+            118
+        ],
+        "text": "WHEW",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            880,
+            675,
+            1094,
+            834
+        ],
+        "text": "Why'd you have to sober me up, you brat!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1124,
+            51,
+            1207,
+            182
+        ],
+        "text": "ANGRY\nDRUNK\nPHASE",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1253,
+            321,
+            1294,
+            449
+        ],
+        "text": "WODEN\nCREATIV",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            91,
+            643,
+            187,
+            721
+        ],
+        "text": "THAT'S THE MOST PATENTLY RIDICULOUS THING I'VE-",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            209,
+            443,
+            328,
+            511
+        ],
+        "text": "OROBI! WOULD YOU HONOR ME BY HAVING A TASTE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            523,
+            360,
+            604
+        ],
+        "text": "*FLAGS: SOBA",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            423,
+            71,
+            567,
+            146
+        ],
+        "text": "CHEW \u3082\u3050\u3082\u3050 GULP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            431,
+            439,
+            444,
+            479
+        ],
+        "text": "SLURP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            596,
+            667,
+            665,
+            689
+        ],
+        "text": "SIP...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            848,
+            375,
+            899,
+            451
+        ],
+        "text": "THIS FLAVOR IS AMAZING!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            992,
+            76,
+            1080,
+            280
+        ],
+        "text": "AND WITH EACH BITE... THE NOODLES HAVE A SATISFYINGLY CHEWY AL DENTE TEXTURE.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

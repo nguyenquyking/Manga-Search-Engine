@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            48,
+            88,
+            88,
+            713
+        ],
+        "text": "2020\u5e743\u670826\u65e5(\u6728)\u767a\u58f2\u6c7a\u5b9a!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            106,
+            90,
+            201,
+            733
+        ],
+        "text": "ONE PIECE \u6d77\u8cca\u7121\u53cc4",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            208,
+            100,
+            243,
+            270
+        ],
+        "text": "PS4",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            234,
+            532,
+            245,
+            561
+        ],
+        "text": "Nintendo Switch",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            532,
+            511,
+            654,
+            719
+        ],
+        "text": "\u5bfe\u5fdc\u6a5f\u7a2e\uff0fPS4\u3001Nintendo Switch\nXbox One(\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u5c02\u58f2)\n\u30e1\u30fc\u30ab\u30fc\uff0f\u30d0\u30f3\u30c0\u30a4\u30ca\u30e0\u30b3\u30a8\u30f3\u30bf\u30fc\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8\n\u958b\u767a\uff0f\u30b3\u30fc\u30a8\u30fc\u30c6\u30af\u30e2\u30b2\u30fc\u30e0\u30b9\n\u30b8\u30e3\u30f3\u30eb\uff0f\u7121\u53cc\u30a2\u30af\u30b7\u30e7\u30f3\n\u4fa1\u683c\uff0f7800\u5186+\u7a0e(\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u7248\u540c\u4fa1\u683c)",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            679,
+            591,
+            842,
+            676
+        ],
+        "text": "\u7121\u53cc!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            924,
+            532,
+            962,
+            650
+        ],
+        "text": "\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u7248\n\u7279\u5178\n\u304a\u30ca\u30df\n\u30ca\u30df\u8ffd\u52a0\u8863\u88c5",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            937,
+            135,
+            948,
+            182
+        ],
+        "text": "\u30be\u30ed\n\u30be\u30ed\u8ffd\u52a0\u8863\u88c5",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            937,
+            135,
+            948,
+            182
+        ],
+        "text": "\u304a\u305d\u3070\u30de\u30b9\u30af\n\u30b5\u30f3\u30b8\u8ffd\u52a0\u8863\u88c5",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1106,
+            84,
+            1126,
+            533
+        ],
+        "text": "https://oppw4-20.bn-ent.net/",
+        "panel_id": "6",
+        "type": "website"
+    },
+    {
+        "text_box": [
+            1154,
+            83,
+            1166,
+            281
+        ],
+        "text": "\u00a9\u5c3e\u7530\u6804\u4e00\u90ce\uff0f\u96c6\u82f1\u793e\u30fb\u30d5\u30b8\u30c6\u30ec\u30d3\u30fb\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\n\u00a9BANDAI NAMCO Entertainment Inc.",
+        "panel_id": "6",
+        "type": "copyright"
+    }
+]

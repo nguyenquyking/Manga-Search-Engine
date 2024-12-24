@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            304,
+            109,
+            414,
+            265
+        ],
+        "text": "THAT DIDN'T STOP IT! IT'S NOT JUST SOME KINDA SHOCK WAVE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            401,
+            822,
+            557
+        ],
+        "text": "EVERYTHING'S CRUMBLING TO DUST...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1061,
+            47,
+            1204,
+            278
+        ],
+        "text": "...YOUR THROAT WOULD START CRUMBLING, FROM THE SKIN INWARD... YOU'D TURN TO DUST IN UNDER A MINUTE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1091,
+            678,
+            1187,
+            861
+        ],
+        "text": "THE SECOND ALL FIVE OF MY FINGERS TOUCH YOUR NECK...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

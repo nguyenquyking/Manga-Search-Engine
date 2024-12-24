@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            36,
+            108,
+            105,
+            208
+        ],
+        "text": "ENMA\nIS--!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            342,
+            628,
+            408,
+            742
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            531,
+            67,
+            588,
+            157
+        ],
+        "text": "IN THE MIDST\nOF BATTLE?\nWHAT TRICK\nIS THIS...?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            621,
+            64,
+            687,
+            211
+        ],
+        "text": "IT'S\nCOMING FROM\nTHE NEXT\nROOM...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            670,
+            429,
+            749,
+            521
+        ],
+        "text": "SHAMISEN\nPLAYING?\nTHAT'S NON-\nSENSE...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            533,
+            655,
+            585,
+            744
+        ],
+        "text": "TREASURE\nREPOSITORY",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            847,
+            51,
+            877,
+            127
+        ],
+        "text": "WUH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1071,
+            51,
+            1096,
+            129
+        ],
+        "text": "KO...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            831,
+            408,
+            910,
+            501
+        ],
+        "text": "AH... IT'S\nSO BRIGHT!!\nSOMEONE'S\nIN THERE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            414,
+            1106,
+            505
+        ],
+        "text": "IS IT AN\nENEMY?! DO\nTHEY KNOW\nI'M HERE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            146,
+            169,
+            272,
+            355
+        ],
+        "text": "...to open\nup this\ncountry!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            179,
+            427,
+            267,
+            557
+        ],
+        "text": "...I would\nlike...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            149,
+            774,
+            257,
+            982
+        ],
+        "text": "If I manage\nto survive\nthis boiling...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            1190,
+            254,
+            1344
+        ],
+        "text": "Huff,\nhuff...\nListen to\nme!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            373,
+            115,
+            477,
+            221
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            119,
+            997,
+            316
+        ],
+        "text": "What did\nyou learn\nout there,\non the great\nwide sea?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            381,
+            978,
+            614
+        ],
+        "text": "That the\nKozuki clan had\nsomething to do\nwith our closed\npolicy...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            673,
+            967,
+            829
+        ],
+        "text": "You\nsaid that\nbefore,\nmy lord.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            940,
+            961,
+            1126
+        ],
+        "text": "What's he\nblabbing\nabout...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1529,
+            188,
+            1624,
+            300
+        ],
+        "text": "What?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1479,
+            390,
+            1691,
+            576
+        ],
+        "text": "...were\nthe\nKozuki\nclan!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1794,
+            133,
+            2010,
+            424
+        ],
+        "text": "And it was\nto protect\nWano...from a\ngreat external\npower!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1488,
+            1032,
+            1706,
+            1330
+        ],
+        "text": "Long, long\nago... the ones\nresponsible for\nclosing this nation\nto the rest of\nthe world...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1760,
+            1180,
+            1959,
+            1317
+        ],
+        "text": "Huff!!\nHuff!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

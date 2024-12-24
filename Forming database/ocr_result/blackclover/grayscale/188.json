@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            433,
+            53,
+            512,
+            135
+        ],
+        "text": "THERE\nHE\nIS!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            412,
+            205,
+            492,
+            251
+        ],
+        "text": "HAR\nHAR\nHAR\nHAR!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            344,
+            279,
+            496,
+            506
+        ],
+        "text": "Wah ha\nHa ha\nHa ha!!\nWhat a\nreliable\nfellow!!\nIt was a\ntotal\ncake-\nwalk!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            625,
+            189,
+            656,
+            248
+        ],
+        "text": "Hm?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            371,
+            853,
+            500,
+            988
+        ],
+        "text": "With my\nnewly\nawakened\ntrue\npower...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            660,
+            507,
+            792,
+            808
+        ],
+        "text": "BAAAAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1088,
+            78,
+            1300,
+            216
+        ],
+        "text": "Augustus\nKira.\nWe've\ncome to\nrelieve\nyou of\nyour\nlife!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            852,
+            511,
+            984,
+            749
+        ],
+        "text": "ZAH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            995,
+            887,
+            1132,
+            969
+        ],
+        "text": "There\nis one\nmagic\nknight\nwith\nhim...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1235,
+            768,
+            1460,
+            894
+        ],
+        "text": "...But he's\na rank-\nand-file\nmember,\nand his\nmana isn't\nthat high.\nHe won't\nbe a\nproblem!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            83,
+            539,
+            157,
+            643
+        ],
+        "text": "TIME REMAINING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            580,
+            51,
+            663,
+            231
+        ],
+        "text": "ONE SECOND.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            97,
+            145,
+            168,
+            225
+        ],
+        "text": "...at about 4,200!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            361,
+            144,
+            481
+        ],
+        "text": "Two days before the battle...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            577,
+            151,
+            654
+        ],
+        "text": "This puts our total manpower...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            385,
+            111,
+            476,
+            225
+        ],
+        "text": "Let us meet at the promised port!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            343,
+            483,
+            492
+        ],
+        "text": "Use your remaining time to travel and prepare!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            65,
+            550,
+            102
+        ],
+        "text": "You got",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            617,
+            457,
+            745
+        ],
+        "text": "Well done, everyone!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            98,
+            820,
+            230
+        ],
+        "text": "We're on top of it, Boss Franosuke!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            742,
+            266,
+            844,
+            436
+        ],
+        "text": "Can you move all these ships to the port in time?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            490,
+            780,
+            543
+        ],
+        "text": "You",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            490,
+            780,
+            543
+        ],
+        "text": "bet!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            591,
+            844,
+            741
+        ],
+        "text": "All right, folks!! Let's finish up enough ships to carry 5,000 men!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            873,
+            53,
+            932,
+            120
+        ],
+        "text": "Good!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            80,
+            1099,
+            166
+        ],
+        "text": "Itachi Port, Kuri",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            261,
+            93,
+            349,
+            224
+        ],
+        "text": "OH!\nHE'S\nWAKING\nUP!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            166,
+            582,
+            226
+        ],
+        "text": "AH,\nTHAT'S\nGREAT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            64,
+            607,
+            145
+        ],
+        "text": "CAN YOU\nHEAR ME,\nMIDORIYA?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            582,
+            579,
+            681
+        ],
+        "text": "THIRTEEN!\nHE'S UP!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            29,
+            665,
+            65
+        ],
+        "text": "YES\n...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            131,
+            883,
+            272
+        ],
+        "text": "THE MAJORITY OF\nTHE HOLDOUTS\nARE ANTI-HERO\nPROTESTERS\nWHO'VE FORMED\nVIGILANTE\nCORPS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            941,
+            57,
+            1049,
+            172
+        ],
+        "text": "...OR VIOLENT\nPILLAGERS,\nSIMPLY RIDING\nTHE WAVE OF\nTHE ESCAPED\nCONVICTS.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            757,
+            613,
+            793,
+            702
+        ],
+        "text": "AT\nPRESENT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            887,
+            516,
+            1045,
+            672
+        ],
+        "text": "...MOST\nCIVILIANS HAVE\nMOVED INTO\nEVACUATION\nSHELTERS\nACROSS THE\nCOUNTRY.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

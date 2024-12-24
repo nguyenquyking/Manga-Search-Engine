@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            248,
+            53,
+            331,
+            129
+        ],
+        "text": "YOU'RE FINALLY AWAKE, HM?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            156,
+            289,
+            201,
+            341
+        ],
+        "text": "HUH...? ",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            312,
+            428,
+            335
+        ],
+        "text": "...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1256,
+            71,
+            1281,
+            258
+        ],
+        "text": "YOU'RE\u2014!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            350,
+            234,
+            366,
+            259
+        ],
+        "text": "BLINK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            112,
+            46,
+            178,
+            113
+        ],
+        "text": "HERE'S THE COUNT-DOWN!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            344,
+            619,
+            362,
+            689
+        ],
+        "text": "THREE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            498,
+            708,
+            548
+        ],
+        "text": "TWO!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            181,
+            1030,
+            227
+        ],
+        "text": "ONE!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

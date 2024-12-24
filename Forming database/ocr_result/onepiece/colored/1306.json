@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            73,
+            81,
+            170,
+            222
+        ],
+        "text": "I will stay at Princess Shirahoshi's side for the week of the summit.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            296,
+            165,
+            419
+        ],
+        "text": "You have saved me from giving it all up for lost, Mjosgard.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            478,
+            147,
+            603
+        ],
+        "text": "That would be the same way it is among fish-men!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            632,
+            164,
+            709
+        ],
+        "text": "So, some are bad, and some are good...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            223,
+            27,
+            339,
+            166
+        ],
+        "text": "I'm just glad that my station at birth is finally helping someone for once.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            648,
+            26,
+            808,
+            133
+        ],
+        "text": "I will gladly take responsibility for any fight undertaken to protect the princess and her companions!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            654,
+            377,
+            700,
+            435
+        ],
+        "text": "Er... Yes!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            661,
+            592,
+            759,
+            716
+        ],
+        "text": "You mean, if you say the order, we can beat up anyone we want?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            57,
+            983,
+            190
+        ],
+        "text": "...to have a discussion with King Riku of Dressrosa!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            901,
+            226,
+            982,
+            387
+        ],
+        "text": "He went with Admiral Purple Tiger, the one who sent that letter...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            892,
+            433,
+            951,
+            514
+        ],
+        "text": "Oh, Pell... Where's Papa?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            908,
+            605,
+            1050,
+            714
+        ],
+        "text": "I'm so sorry, Princess Vivi! I should have been at your side!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1089,
+            63,
+            1104,
+            107
+        ],
+        "text": "...?",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

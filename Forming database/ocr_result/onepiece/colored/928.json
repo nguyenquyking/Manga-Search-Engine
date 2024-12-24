@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            72,
+            13,
+            163,
+            122
+        ],
+        "text": "He's got three swords at his side!! Aha ha ha ha!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            146,
+            159,
+            228
+        ],
+        "text": "Who's with ya, Tonoyasu?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            262,
+            163,
+            344
+        ],
+        "text": "Da ha ha! So?! What wouldja eat with it?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            361,
+            144,
+            467
+        ],
+        "text": "Looky that! Another tooth fell out from malnutrition!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            502,
+            144,
+            577
+        ],
+        "text": "So am I! Join the club!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            617,
+            138,
+            695
+        ],
+        "text": "Hey, Ma, I'm hungry!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            102,
+            502,
+            231
+        ],
+        "text": "Now, now! Keep your hands off of this catch, folks--I saw him first!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            269,
+            489,
+            392
+        ],
+        "text": "Hey, buddy! Is that for a comedy bit?! Wa ha ha ha!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            494,
+            477,
+            579
+        ],
+        "text": "And all of them full-size katanas!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            402,
+            617,
+            481,
+            698
+        ],
+        "text": "You're right!! Three swords!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            15,
+            624,
+            146
+        ],
+        "text": "I feel so sorry for you, stranger. You're stuck with a real weirdo!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            15,
+            819,
+            148
+        ],
+        "text": "Hey! I'll have you know I'm the best dang sycophant in the whole country!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            25,
+            1020,
+            141
+        ],
+        "text": "The Witching Hour Boy showed up again!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            34,
+            1137,
+            117
+        ],
+        "text": "He did?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            271,
+            975,
+            380
+        ],
+        "text": "That's right, Tonoyasu! Guess what happened last",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            526,
+            907,
+            559
+        ],
+        "text": "een!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            900,
+            602,
+            997,
+            694
+        ],
+        "text": "Is that so? Well, he doesn't seem happy about it!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1035,
+            597,
+            1141,
+            700
+        ],
+        "text": "Look now, you've got to smile! Something good happened here today!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

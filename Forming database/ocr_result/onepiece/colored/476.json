@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            73,
+            1004,
+            110,
+            1456
+        ],
+        "text": "Chapter 957: ULTIMATE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            138,
+            357,
+            328,
+            870
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            450,
+            469,
+            530,
+            515
+        ],
+        "text": "NEW ERA",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

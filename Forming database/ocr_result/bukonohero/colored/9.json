@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            97,
+            594,
+            172,
+            690
+        ],
+        "text": "...CARRIED AWAY URARAKA AND DEKU!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            548,
+            42,
+            676,
+            176
+        ],
+        "text": "Things must be pretty dicey if they can't even use Warp Gate!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            195,
+            745,
+            275
+        ],
+        "text": "I gotta get there on my own!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            629,
+            449,
+            711,
+            520
+        ],
+        "text": "What'd Sensei say, Deku?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            600,
+            1096,
+            722
+        ],
+        "text": "Then we better hurry and-",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            223,
+            263,
+            229,
+            329
+        ],
+        "text": "RMMBBL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

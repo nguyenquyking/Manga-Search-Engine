@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            110,
+            610,
+            196,
+            729
+        ],
+        "text": "YOU WERE JUST LIKE ACE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            431,
+            462,
+            509
+        ],
+        "text": "NOTHIN'",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            514,
+            426,
+            591,
+            506
+        ],
+        "text": "I DIDN'T SAY NOTHIN' AT ALL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            649,
+            489,
+            732
+        ],
+        "text": "HUH?! WHAT'D YOU SAY?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            681,
+            43,
+            727,
+            144
+        ],
+        "text": "WHO GOES THERE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            641,
+            777,
+            725
+        ],
+        "text": "NEAR ENTRANCE TO BAKURA TOWN",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1041,
+            602,
+            1099,
+            688
+        ],
+        "text": "I WILL HAVE YOUR LIFE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1112,
+            52,
+            1153,
+            124
+        ],
+        "text": "SWISH...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

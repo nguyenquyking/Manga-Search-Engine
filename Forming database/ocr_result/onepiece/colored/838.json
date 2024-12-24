@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            57,
+            174,
+            162,
+            274
+        ],
+        "text": "TOP THREE THINGS YOU'RE WORRIED ABOUT!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            111,
+            52,
+            151,
+            156
+        ],
+        "text": "DRUMMMMM...ROLL!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            102,
+            623,
+            188,
+            728
+        ],
+        "text": "ALL RIGHT, BABANUKI,\nGIMME YOUR RANKING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            242,
+            68,
+            288,
+            148
+        ],
+        "text": "NUMBER\n3!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            428,
+            70,
+            451,
+            213
+        ],
+        "text": "WHAAAAAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            240,
+            495,
+            368
+        ],
+        "text": "SOMEONE STOLE\nTHE KEY TO THE\nSEASTONE\nCUFFS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            426,
+            419,
+            450,
+            557
+        ],
+        "text": "WHAAAAAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            590,
+            472,
+            727
+        ],
+        "text": "EUSTASS KID\nESCAPED.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            572,
+            52,
+            630,
+            116
+        ],
+        "text": "AND\nNUMBER\n1?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            572,
+            402,
+            628,
+            465
+        ],
+        "text": "AND\nNUMBER\n2?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            722,
+            111,
+            820,
+            274
+        ],
+        "text": "AFTER HIM,\nYOU NUMB-\nSKULLS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            321,
+            765,
+            492
+        ],
+        "text": "WHAAAAAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            714,
+            549,
+            807,
+            668
+        ],
+        "text": "STRAW\nHAT LUFFY'S\nESCAPING AS\nWE SPEAK.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

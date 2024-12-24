@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            68,
+            211,
+            174,
+            296
+        ],
+        "text": "...AND UNLOAD THIS STUFF!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            436,
+            170,
+            554
+        ],
+        "text": "GOOD! LET'S GO TO OKOBRE TOWN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            586,
+            160,
+            709
+        ],
+        "text": "ZOROJURO, WE'RE LEAVING THE TOWN SOON!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            822,
+            207,
+            995
+        ],
+        "text": "AND YOU'RE SUPPOSED TO BE A RONIN IN THE FLOWER CAPITAL!! WHAT ARE YOU DOING IN KURI?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            1054,
+            177,
+            1185
+        ],
+        "text": "...YOU'VE ALSO CALLED JACK DOWN UPON US!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            1220,
+            156,
+            1331
+        ],
+        "text": "BUT NOT ONLY ARE YOU A WANTED MAN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            1354,
+            193,
+            1475
+        ],
+        "text": "I SEEM TO REMEMBER YOU SWEARING UP AND DOWN YOU WOULDN'T MAKE WAVES!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            284,
+            807,
+            368,
+            905
+        ],
+        "text": "WH-WHO IS THIS?! IS EVERYTHING ALL RIGHT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            259,
+            658,
+            335
+        ],
+        "text": "WHAT FOR?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            524,
+            495,
+            577,
+            573
+        ],
+        "text": "BUT WHY?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            608,
+            583,
+            726
+        ],
+        "text": "A TREASURE BARGE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            948,
+            559,
+            1079
+        ],
+        "text": "IT'S FOOD!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            413,
+            1084,
+            513
+        ],
+        "text": "ARE WE REALLY ALLOWED?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

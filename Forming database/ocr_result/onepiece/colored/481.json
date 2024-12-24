@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            97,
+            57,
+            274,
+            193
+        ],
+        "text": "The vote results are fantastic! And an attempted murder?! Thrilling stuff!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            217,
+            134,
+            274
+        ],
+        "text": "But!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            126,
+            579,
+            316,
+            742
+        ],
+        "text": "There's been a fatality!! Big obits sell papers, that's a fact!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            171,
+            519,
+            291
+        ],
+        "text": "Yowza! Get a gander at the digits on this check!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            62,
+            651,
+            154
+        ],
+        "text": "They want me to cover up a story? But which one...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            337,
+            517,
+            461
+        ],
+        "text": "I've got a telegram from the government, boss!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            446,
+            494,
+            498,
+            553
+        ],
+        "text": "Yes, sir!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            592,
+            552,
+            730
+        ],
+        "text": "Double A-1s!! I'm breaking the mold!! Two covers, front and back!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            69,
+            878,
+            192
+        ],
+        "text": "You're going to do as we say, Morgans.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            453,
+            802,
+            480
+        ],
+        "text": "\u2026",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            786,
+            571,
+            854,
+            722
+        ],
+        "text": "Kuwa ha ha ha\u2026 Bounce it back to 'em!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1048,
+            529,
+            1140,
+            686
+        ],
+        "text": "They want me to sit on a story this big?! Never!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            427,
+            1134,
+            485
+        ],
+        "text": "Now, now...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

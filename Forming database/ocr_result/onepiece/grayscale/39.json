@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            33,
+            57,
+            77,
+            227
+        ],
+        "text": "You're only telling me where",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            261,
+            133,
+            336
+        ],
+        "text": "Let go of me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            69,
+            462,
+            186
+        ],
+        "text": "You still have a weakness to cutting attacks, I presume!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            303,
+            603,
+            414,
+            752
+        ],
+        "text": "Dragon Twister\u2014Demolition Gust!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1071,
+            93,
+            1096,
+            146
+        ],
+        "text": "HRRG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1023,
+            636,
+            1087,
+            732
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

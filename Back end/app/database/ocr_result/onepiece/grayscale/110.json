@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            93,
+            603,
+            166,
+            726
+        ],
+        "text": "JUMP ROPE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            389,
+            78,
+            458,
+            200
+        ],
+        "text": "GAAAAH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            297,
+            599,
+            436
+        ],
+        "text": "BLAST BREATH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            603,
+            668,
+            651,
+            753
+        ],
+        "text": "AAAAAA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            531,
+            699,
+            548
+        ],
+        "text": "WHOOO!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            912,
+            277,
+            952,
+            372
+        ],
+        "text": "BWOOSH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1048,
+            101,
+            1101,
+            210
+        ],
+        "text": "YEOWWW!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            297,
+            134,
+            409,
+            264
+        ],
+        "text": "As things stand, we'll have three problems.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            248,
+            900,
+            428,
+            1029
+        ],
+        "text": "The fighting's over, and the most pressing issue is settled. However...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            750,
+            131,
+            888,
+            240
+        ],
+        "text": "Captain Yami...! That ki... It can't be... Is that...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            769,
+            597,
+            785,
+            626
+        ],
+        "text": "!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            710,
+            757,
+            809,
+            834
+        ],
+        "text": "He's a child. Who does he think he is?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            853,
+            856,
+            947
+        ],
+        "text": "Calling us over all of a sudden... Who is this?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1316,
+            105,
+            1420,
+            182
+        ],
+        "text": "So I was right?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1344,
+            486,
+            1512,
+            588
+        ],
+        "text": "Uh, pretty sure he's right here. It's you, you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1080,
+            893,
+            1233,
+            1037
+        ],
+        "text": "Problem one\u2014the Wizard King is gone.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

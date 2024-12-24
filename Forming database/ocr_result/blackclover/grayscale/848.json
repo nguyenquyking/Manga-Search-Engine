@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            202,
+            62,
+            223,
+            127
+        ],
+        "text": "OH YEAH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            225,
+            269,
+            316
+        ],
+        "text": "Once you're satisfied,\nget lost!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            620,
+            246,
+            715
+        ],
+        "text": "Attack all you like!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            33,
+            696,
+            107
+        ],
+        "text": "I'LL TAKE YOU UP ON THAT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            636,
+            553,
+            705
+        ],
+        "text": "OKAY, THEN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            39,
+            974,
+            112
+        ],
+        "text": "So what?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            315,
+            927,
+            374
+        ],
+        "text": "And?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

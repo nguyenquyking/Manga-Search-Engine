@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            188,
+            5,
+            201,
+            54
+        ],
+        "text": "SHP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            198,
+            544,
+            307,
+            686
+        ],
+        "text": "...Won't you try out your Rewind power on me...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            177,
+            771,
+            311,
+            891
+        ],
+        "text": "So please, Eri! I'm sorry for using you like this, but...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            91,
+            629,
+            204
+        ],
+        "text": "This's why I'm training!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            493,
+            700,
+            536,
+            809
+        ],
+        "text": "Don't be sorry.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            415,
+            995,
+            460
+        ],
+        "text": "PTOO!\nFWP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            842,
+            564,
+            870,
+            655
+        ],
+        "text": "...Eri!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            821,
+            798,
+            885,
+            906
+        ],
+        "text": "Thank you...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1120,
+            33,
+            1303,
+            215
+        ],
+        "text": "Still, even my power ain't enough to take down these Nomu with one punch, so...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1399,
+            398,
+            1410,
+            439
+        ],
+        "text": "WHF",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

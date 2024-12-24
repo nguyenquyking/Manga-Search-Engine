@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            52,
+            342,
+            104,
+            503
+        ],
+        "text": "MOVE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            68,
+            779,
+            172,
+            926
+        ],
+        "text": "STOP HUNTING THE KOZUKI CLAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            944,
+            161,
+            1047
+        ],
+        "text": "PLEASE HAVE MERCY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            82,
+            753,
+            164
+        ],
+        "text": "KYAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            702,
+            288,
+            739,
+            371
+        ],
+        "text": "AGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            720,
+            905,
+            977,
+            1049
+        ],
+        "text": "DON'T HESITATE TO SHOOT ANY VERMIN...\nTHAT DARES DEFY THEIR SHOGUN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1145,
+            142,
+            1297,
+            299
+        ],
+        "text": "THE KOZUKI LINE IS OFFICIALLY DEAD!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1145,
+            899,
+            1217,
+            1003
+        ],
+        "text": "WHAT OF ODEN'S WIFE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1328,
+            869,
+            1446,
+            1001
+        ],
+        "text": "SHE WAS CONFIRMED DEAD IN BAKURA TOWN.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1448,
+            688,
+            1558,
+            839
+        ],
+        "text": "NO ONE ELSE WAS SEEN FLEEING THE RUINS OF ODEN CASTLE.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

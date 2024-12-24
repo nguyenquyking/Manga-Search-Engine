@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            90,
+            72,
+            180,
+            181
+        ],
+        "text": "...Never wants to talk about that one!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            228,
+            144,
+            305
+        ],
+        "text": "But the man himself...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            453,
+            178,
+            584
+        ],
+        "text": "There are so many legends about him already...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            629,
+            171,
+            723
+        ],
+        "text": "So that's how that name started!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            345,
+            68,
+            393,
+            165
+        ],
+        "text": "Huh? Why not?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            213,
+            584,
+            306
+        ],
+        "text": "Big Mom and Kaido?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            642,
+            149,
+            704,
+            267
+        ],
+        "text": "It's just one thing after another...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            526,
+            578,
+            608
+        ],
+        "text": "...I'll tell you a bit of it...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            632,
+            574,
+            739
+        ],
+        "text": "For the sake of the historical record...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            76,
+            892,
+            190
+        ],
+        "text": "...which was never reported...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1006,
+            66,
+            1126,
+            206
+        ],
+        "text": "...is that he had to work with pirates to win the battle.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            819,
+            545,
+            888,
+            662
+        ],
+        "text": "The first reason for this...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

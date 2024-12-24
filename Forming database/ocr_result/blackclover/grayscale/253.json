@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            244,
+            697,
+            508,
+            874
+        ],
+        "text": "I tried to erase these feelings, to forget them, but it was no use.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            417,
+            66,
+            755,
+            206
+        ],
+        "text": "...In love with that man!!!!",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            726,
+            680,
+            857,
+            878
+        ],
+        "text": "I am hopelessly...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            569,
+            1853,
+            1020,
+            2075
+        ],
+        "text": "I like ya-MIIII!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1131,
+            57,
+            1254,
+            164
+        ],
+        "text": "I knew it. There's no way they'd allow...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1193,
+            757,
+            1217,
+            838
+        ],
+        "text": "Sis...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

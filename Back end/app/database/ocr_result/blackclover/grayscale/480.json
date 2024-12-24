@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            88,
+            361,
+            230,
+            491
+        ],
+        "text": "In the first place, your body can't move anymore...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            220,
+            690,
+            308,
+            853
+        ],
+        "text": "Not possible.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            273,
+            67,
+            468,
+            193
+        ],
+        "text": "...and as things stand, I can't make any more contracts with it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            102,
+            731,
+            240
+        ],
+        "text": "...for being weak!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            890,
+            740,
+            1008
+        ],
+        "text": "It's your fault...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            756,
+            944,
+            995
+        ],
+        "text": "PLEASE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1188,
+            375,
+            1252,
+            489
+        ],
+        "text": "ROUGE!!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1284,
+            456,
+            1465,
+            586
+        ],
+        "text": "SHOO",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1216,
+            197,
+            1376,
+            332
+        ],
+        "text": "VUM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

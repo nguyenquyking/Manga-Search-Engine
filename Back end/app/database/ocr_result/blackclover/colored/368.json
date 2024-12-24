@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            106,
+            642,
+            375,
+            828
+        ],
+        "text": "INGENIOUS POISON CREATION MAGIC:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            299,
+            19,
+            464,
+            237
+        ],
+        "text": "\"BASILISK'S BREATH\"",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            635,
+            31,
+            845,
+            154
+        ],
+        "text": "YOU ARE NO MATCH FOR MY MAGIC...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            682,
+            825,
+            818
+        ],
+        "text": "YOU SEEMED HIGH-TIER BEFORE, BUT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            229,
+            1225,
+            354
+        ],
+        "text": "THIS FORTRESS IS USELESS WITHOUT NOURISHMENT...!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1043,
+            754,
+            1157,
+            834
+        ],
+        "text": "IN THE END...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

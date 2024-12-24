@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            123,
+            68,
+            232,
+            226
+        ],
+        "text": "If you wanna get stronger, then push it open yourself!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            681,
+            214,
+            799
+        ],
+        "text": "Right, it's just beyond that door.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            525,
+            146,
+            613,
+            265
+        ],
+        "text": "But evidence was found of blood stains that had been wiped off.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            522,
+            285,
+            596,
+            403
+        ],
+        "text": "Let's see, the contact point was already deserted...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            700,
+            378,
+            836,
+            524
+        ],
+        "text": "And due to the serious damage to the building in question, it's believed that some sort of struggle occurred. In all likelihood, negotiations must have broken down...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            897,
+            97,
+            996,
+            253
+        ],
+        "text": "I think that a society without vigor or humor is one without a future.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1110,
+            130,
+            1215,
+            248
+        ],
+        "text": "Huh?! Ah, wait, no... it was just a long report, so I... no, please, please no--",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            436,
+            1162,
+            514
+        ],
+        "text": "Bubble Girl...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

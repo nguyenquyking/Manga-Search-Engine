@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            496,
+            426,
+            571,
+            559
+        ],
+        "text": "THANK YOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            795,
+            1038,
+            944
+        ],
+        "text": "0",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

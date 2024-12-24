@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            30,
+            57,
+            85,
+            148
+        ],
+        "text": "\"MAKING ME OH SO CUTE\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            28,
+            196,
+            85,
+            299
+        ],
+        "text": "\"IT STAINS ME RED ALL OVER\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            26,
+            375,
+            99,
+            469
+        ],
+        "text": "...AND DANCES A JIG INSIDE ME!\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            28,
+            536,
+            123,
+            642
+        ],
+        "text": "\"SOONER OR LATER IT RIPS MY TUMMY OPEN...\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            85,
+            468,
+            156
+        ],
+        "text": "\"MAKES ME SO HAPPY\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            231,
+            469,
+            340
+        ],
+        "text": "\"SUCH A PLEASANT DREAM\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            28,
+            747,
+            109
+        ],
+        "text": "THREW IT ALL AWAY...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

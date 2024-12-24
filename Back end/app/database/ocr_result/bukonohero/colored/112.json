@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            100,
+            112,
+            135,
+            196
+        ],
+        "text": "We won't let you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            225,
+            129,
+            317
+        ],
+        "text": "We're not letting go of you now.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            547,
+            119,
+            641
+        ],
+        "text": "Bakugo played his part too.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            281,
+            563,
+            409,
+            661
+        ],
+        "text": "Because, when heroes need protecting...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            658,
+            462,
+            676,
+            547
+        ],
+        "text": "...who...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            946,
+            78,
+            1068,
+            189
+        ],
+        "text": "...will be there to protect them?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1117,
+            471,
+            1138,
+            688
+        ],
+        "text": "Colorist: HEXAMENDLE",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            54,
+            75,
+            116,
+            163
+        ],
+        "text": "NO ONE'S\nCOMING TO\nHELP!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            647,
+            130,
+            740
+        ],
+        "text": "IF YOU\nWANT TO\nLIVE TO SEE\nTOMORROW...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            208,
+            163,
+            265,
+            223
+        ],
+        "text": "...IS\nCLOSED\nOFF!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            209,
+            289,
+            246,
+            352
+        ],
+        "text": "THIS\nNATION...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            200,
+            632,
+            261,
+            699
+        ],
+        "text": "...THEN\nGET TO\nWORK!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            269,
+            387,
+            332,
+            479
+        ],
+        "text": "WORK, YOU\nMISERABLE\nTRASH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            82,
+            509,
+            222
+        ],
+        "text": "THEY ACTUALLY\nGOBBLED UP THE\nLEFTOVER SCRAPS\nOF SMILE FRUIT!!\nGU HU HA HA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            264,
+            499,
+            382
+        ],
+        "text": "LOOK AT\nTHOSE GREEDY\nBEGGARS,\nKAIDO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            466,
+            480,
+            558
+        ],
+        "text": "TRUST IN\nLADY TOKI'S\nWORDS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            615,
+            487,
+            740
+        ],
+        "text": "DON'T RUSH, BE\nPATIENT. THERE'S\nA LONG, LONG\nWINTER AHEAD...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            92,
+            856,
+            262
+        ],
+        "text": "IT'S JUST WHAT\nYOU WRITHING,\nCRAWLING MAGGOTS\nDESERVE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            321,
+            846,
+            432
+        ],
+        "text": "...BUT YOU\nCAN STILL\nLAUGH AND\nLEAD A BRIGHT,\nCHEERY LIFE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            470,
+            842,
+            585
+        ],
+        "text": "YOU MIGHT BE\nHUNGRY, YOUR\nFAMILY MIGHT\nBE DEAD...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            629,
+            849,
+            722
+        ],
+        "text": "THAT'S\nRIGHT!!\nLEARN\nFROM EBISU\nTOWN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            879,
+            343,
+            926,
+            393
+        ],
+        "text": "AHA HA\nHA HA!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            57,
+            1083,
+            148
+        ],
+        "text": "GU HU\nHA HA HA\nHA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

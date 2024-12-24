@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            27,
+            1251,
+            61,
+            1378
+        ],
+        "text": "DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            508,
+            1323,
+            606,
+            1445
+        ],
+        "text": "URGH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            53,
+            872,
+            284
+        ],
+        "text": "STOMP TROMP\nSTOMP TROMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            890,
+            420,
+            925,
+            1036
+        ],
+        "text": "STOMP TROMP\nSTOMP TROMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            975,
+            1086,
+            1069,
+            1196
+        ],
+        "text": "WA HA\nHA HA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            1281,
+            1140,
+            1427
+        ],
+        "text": "THE\nFLOWER\nCAPITAL",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1005,
+            130,
+            1151,
+            296
+        ],
+        "text": "NOW, LIGHT\nTHE FIRES\nIN THE SKY\nBOATS!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1051,
+            885,
+            1174,
+            1034
+        ],
+        "text": "CHATTER\nCHATTER",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1135,
+            673,
+            1282,
+            847
+        ],
+        "text": "DID YOU\nALL WRITE\nDOWN YOUR\nWISHES?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1325,
+            208,
+            1376,
+            439
+        ],
+        "text": "CHATTER\nCHATTER",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1472,
+            183,
+            1639,
+            379
+        ],
+        "text": "WA HA HA",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1513,
+            552,
+            1591,
+            679
+        ],
+        "text": "YAY!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1525,
+            1042,
+            1566,
+            1266
+        ],
+        "text": "STOMP TROMP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1536,
+            723,
+            1635,
+            918
+        ],
+        "text": "CHATTER\nCHATTER",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2031,
+            293,
+            2223,
+            568
+        ],
+        "text": "IT'S TIME TO\nMAKE THEM FLY!!\nSEND YOUR WISHES\nINTO THE SKY!!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

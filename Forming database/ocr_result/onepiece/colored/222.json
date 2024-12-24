@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            92,
+            696,
+            162,
+            840
+        ],
+        "text": "NICE GOING, MOMO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            650,
+            267,
+            683,
+            335
+        ],
+        "text": "UGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            933,
+            258,
+            1001,
+            394
+        ],
+        "text": "WE'VE SEEN THE LAST OF THE MOON TONIGHT!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1088,
+            45,
+            1173,
+            159
+        ],
+        "text": "DRAGONS\nCALL FORTH\nSTORM CLOUDS\nAFTER ALL...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1086,
+            320,
+            1162,
+            410
+        ],
+        "text": "TREASURE\nREPOSITORY,\nDOME\nINTERIOR",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1216,
+            60,
+            1268,
+            126
+        ],
+        "text": "PANT...\nPANT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1088,
+            562,
+            1081,
+            651
+        ],
+        "text": "CRUMBLE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

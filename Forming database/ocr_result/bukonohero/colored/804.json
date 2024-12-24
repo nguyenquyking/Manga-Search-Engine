@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            64,
+            192,
+            175,
+            263
+        ],
+        "text": "Hmph... That name's just a decoration.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            330,
+            218,
+            591
+        ],
+        "text": "\"The Paranormal Liberation Front!\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            539,
+            37,
+            616,
+            133
+        ],
+        "text": "We're gonna do whatever we want!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            321,
+            1006,
+            473
+        ],
+        "text": "\"Furthermore, I appoint the nine individuals you see here as my lieutenants, who will each be forming teams suited to their separate needs.\"",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            936,
+            1431,
+            1078,
+            1549
+        ],
+        "text": "Uh... We removed the 'villain' part and expanded on the concept of liberation. I give you...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            1207,
+            108,
+            1263
+        ],
+        "text": "ZABAM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

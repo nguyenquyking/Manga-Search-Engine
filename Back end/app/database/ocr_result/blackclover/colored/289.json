@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            293,
+            97,
+            312,
+            159
+        ],
+        "text": "FINRAL!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            108,
+            598,
+            286
+        ],
+        "text": "Twitter.com/Reizung1",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            370,
+            749,
+            539,
+            860
+        ],
+        "text": "LANGRIS!! SO YOU'VE FINALLY WOKEN UP!\nTHAT'S GREAT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            648,
+            596,
+            839
+        ],
+        "text": "Twitter.com/ColorClovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            644,
+            180,
+            806,
+            297
+        ],
+        "text": "I MADE MY PARENTS ISSUE AN APOLOGY IN THE MIDDLE OF ALL OF IT, AND THEN I TRIED TO ATTACK MY OWN KING...!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            767,
+            82,
+            846,
+            173
+        ],
+        "text": "FATHER IS PROBABLY ASHAMED OF ME...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            733,
+            558,
+            854,
+            650
+        ],
+        "text": "I HURT MY BROTHER, AND THEN SOME PESKY LITTLE KID DOES ME IN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            689,
+            778,
+            752,
+            871
+        ],
+        "text": "SERVES ME RIGHT, HUH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1137,
+            84,
+            1193,
+            173
+        ],
+        "text": "I HEARD ABOUT THE TRIAL...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1081,
+            327,
+            1207,
+            455
+        ],
+        "text": "THEN, AFTER ALL THAT, I'M SAVED BY THAT SAME BROTHER, WHO LOOKS DOWN ON ME!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1053,
+            479,
+            1151,
+            555
+        ],
+        "text": "ONCE WE CLEAR UP THIS MISUNDERSTANDING, IT'LL ALL BE O-",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1047,
+            765,
+            1170,
+            886
+        ],
+        "text": "WHAT ARE YOU SAYING!? THAT WAS ALL BECAUSE AN ELF WAS CONTROLLING YOUR BODY...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

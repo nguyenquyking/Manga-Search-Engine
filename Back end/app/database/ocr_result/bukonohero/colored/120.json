@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            79,
+            52,
+            169,
+            152
+        ],
+        "text": "Seems like Midoriya finally cut himself off...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            464,
+            64,
+            518,
+            150
+        ],
+        "text": "...from All Might too.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            388,
+            292,
+            516,
+            421
+        ],
+        "text": "You can't leave those two alone with each other! Not them!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            581,
+            538,
+            694
+        ],
+        "text": "Listen, Endeavor!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            8,
+            763,
+            114
+        ],
+        "text": "Does that thing have GPS tracking?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            308,
+            746,
+            336
+        ],
+        "text": "Yo.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            605,
+            806,
+            705
+        ],
+        "text": "If only we could have the same speed...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1035,
+            573,
+            1068,
+            668
+        ],
+        "text": "...to be by his side.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            389,
+            1064,
+            438
+        ],
+        "text": "But...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            44,
+            81,
+            73,
+            802
+        ],
+        "text": "A Reimagining by BOICHI!! A Fifty-Page Cover Comic!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            125,
+            76,
+            154,
+            234
+        ],
+        "text": "TCBSCANS.COM",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1016,
+            70,
+            1469,
+            130
+        ],
+        "text": "Cover Comic Project?\nAn explanation on the next page!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1305,
+            245,
+            1489,
+            1352
+        ],
+        "text": "NAMI VS KALIFA",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1348,
+            1452,
+            1469,
+            2064
+        ],
+        "text": "Artist: BOICHI\nOriginal Work: Eiichiro Oda",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

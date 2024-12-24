@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            17,
+            218,
+            58,
+            298
+        ],
+        "text": "Oh, Sensei!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            12,
+            343,
+            114,
+            436
+        ],
+        "text": "Regardless,\nshe said\nto\nflee...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            12,
+            456,
+            95,
+            532
+        ],
+        "text": "What's\nour\nstrategy?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            808,
+            188,
+            937
+        ],
+        "text": "What\nhappened...\nto\nMidnight...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            70,
+            291,
+            251
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            427,
+            799,
+            605,
+            913
+        ],
+        "text": "THOOM\nTHOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            791,
+            164,
+            829,
+            230
+        ],
+        "text": "THOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1173,
+            729,
+            1214,
+            792
+        ],
+        "text": "THOOM",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1187,
+            157,
+            1204,
+            251
+        ],
+        "text": "Do we...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1161,
+            443,
+            1230,
+            574
+        ],
+        "text": "What's\nthe plan,\nMomoyao?!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1283,
+            73,
+            1393,
+            199
+        ],
+        "text": "...Throw\nin the\ntowel and\nretreat\n...?",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

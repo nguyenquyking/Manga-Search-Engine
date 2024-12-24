@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            53,
+            330,
+            154,
+            441
+        ],
+        "text": "THAT MEAT OF YOURS LOOKS NICE AND TENDER!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            640,
+            107,
+            726
+        ],
+        "text": "MWA HA HA HA!\nYOU'RE DONE TOO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            273,
+            77,
+            312,
+            220
+        ],
+        "text": "CRAKK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            299,
+            327,
+            372,
+            408
+        ],
+        "text": "DIABLE JAMBE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            629,
+            463,
+            729
+        ],
+        "text": "YOU COWARDLY\nEXCUSE FOR\nA MONSTER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            530,
+            487,
+            557,
+            552
+        ],
+        "text": "CRUNCH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1009,
+            66,
+            1067,
+            176
+        ],
+        "text": "ROTIS-SERIE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

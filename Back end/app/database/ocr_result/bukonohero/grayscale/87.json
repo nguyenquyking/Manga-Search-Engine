@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            354,
+            39,
+            439,
+            108
+        ],
+        "text": "Thoughts of Himiko Toga popped into my head.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            374,
+            221,
+            446,
+            301
+        ],
+        "text": "And just like my mom and dad.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            443,
+            415,
+            513
+        ],
+        "text": "...Just like Ochaco.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            615,
+            370,
+            690
+        ],
+        "text": "Izuku, you're...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            47,
+            591,
+            121
+        ],
+        "text": "\"She looked so sad.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            84,
+            966,
+            161
+        ],
+        "text": "So people like you and I...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1035,
+            38,
+            1112,
+            133
+        ],
+        "text": "...are destined to remain apart.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            620,
+            693,
+            716
+        ],
+        "text": "You think that heroes and those they protect are the only ones...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            402,
+            993,
+            450
+        ],
+        "text": "BWAM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1007,
+            577,
+            1079,
+            654
+        ],
+        "text": "...who count as real people.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            629,
+            94,
+            709,
+            193
+        ],
+        "text": "...Why don't we take a moment and hear these folks out?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            415,
+            676,
+            519
+        ],
+        "text": "Instead of freaking out and laying blame every which way...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            73,
+            1048,
+            233
+        ],
+        "text": "...So if the boy needs a break before the world grinds him down to nothing, this place is his last, best bet!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            935,
+            270,
+            1063,
+            386
+        ],
+        "text": "But supplies and good help are hard to find out there these days...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            905,
+            608,
+            1013,
+            736
+        ],
+        "text": "The boy's not asking to kick up his feet and stay here forever, right?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

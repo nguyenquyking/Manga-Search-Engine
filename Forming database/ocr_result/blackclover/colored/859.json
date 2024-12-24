@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            91,
+            1169,
+            267,
+            1528
+        ],
+        "text": "YA MORON! NOT A THING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            672,
+            682,
+            945
+        ],
+        "text": "YOU AND ME ARE BOTH JUST OUT OF MAGIC. THAT'S ALL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1083,
+            1295,
+            1268,
+            1464
+        ],
+        "text": "WITH YOUR MONSTER MAGIC, I BET...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1163,
+            150,
+            1495,
+            333
+        ],
+        "text": "...SO YOU DIDN'T EVEN REALIZE YOU WERE BURNING THROUGH SO MUCH, DIDJA?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1332,
+            429,
+            1664,
+            603
+        ],
+        "text": "YOU'VE ALSO NEVER FOUGHT ANYBODY WHO HAS AS MUCH MAGIC AS YOU DO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1440,
+            1128,
+            1584,
+            1293
+        ],
+        "text": "...YOU'VE NEVER RUN OUT BEFORE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1889,
+            117,
+            2056,
+            399
+        ],
+        "text": "...I LOST MY CONNECTION TO LUCIFERO AS WELL?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1886,
+            1174,
+            2063,
+            1434
+        ],
+        "text": "MY OWN MAGIC'S TAPPED OUT, AND SO...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

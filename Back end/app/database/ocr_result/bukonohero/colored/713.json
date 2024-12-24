@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            38,
+            54,
+            124,
+            378
+        ],
+        "text": "MY HERO ACADEMIA",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            147,
+            139,
+            204,
+            274
+        ],
+        "text": "NO. 268",
+        "panel_id": "1",
+        "type": "chapter_number"
+    },
+    {
+        "text_box": [
+            353,
+            333,
+            440,
+            656
+        ],
+        "text": "SCRAMBLE!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1164,
+            1413,
+            1303,
+            1569
+        ],
+        "text": "I'LL ERASE IT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            536,
+            1783,
+            542,
+            1862
+        ],
+        "text": "THOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1350,
+            94,
+            1376,
+            305
+        ],
+        "text": "BY KOHEI HORIKOSHI",
+        "panel_id": "5",
+        "type": "author"
+    },
+    {
+        "text_box": [
+            1350,
+            548,
+            1425,
+            925
+        ],
+        "text": "TRANSLATION: CALEB COOK LETTERING: JOHN HUNT\nColorist: HEXAMENDLE\u00a9",
+        "panel_id": "5",
+        "type": "credits"
+    }
+]

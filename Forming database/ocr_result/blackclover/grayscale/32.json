@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            1380,
+            136,
+            1406,
+            206
+        ],
+        "text": "Licht...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1459,
+            505,
+            1513,
+            566
+        ],
+        "text": "Te... Tia...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

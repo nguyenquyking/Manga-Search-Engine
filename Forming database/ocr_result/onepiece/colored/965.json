@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            75,
+            41,
+            174,
+            157
+        ],
+        "text": "Er, now, now, that's enough laughing. Go and fetch her...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            210,
+            216,
+            326
+        ],
+        "text": "AAAA HA HA HA!! I can't believe he really did it!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            570,
+            194,
+            697
+        ],
+        "text": "Daw HA HA HA HA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            256,
+            199,
+            352,
+            297
+        ],
+        "text": "Can you believe this lovestruck old fool?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            33,
+            540,
+            152
+        ],
+        "text": "It's time for Komurasaki to come and live with me...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            486,
+            220,
+            511,
+            290
+        ],
+        "text": "Hmm?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            482,
+            614,
+            506,
+            672
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            35,
+            696,
+            153
+        ],
+        "text": "Komurasaki's got it! I left it with her!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            172,
+            682,
+            236
+        ],
+        "text": "Of course I do!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            254,
+            710,
+            371
+        ],
+        "text": "Have you got the money to buy out her contract?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            601,
+            742,
+            697
+        ],
+        "text": "Are you crazy?! We'll need to see a bit more than that!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            908,
+            23,
+            1011,
+            130
+        ],
+        "text": "...Was all for me, didn't you?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            321,
+            972,
+            410
+        ],
+        "text": "You said that money...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            450,
+            951,
+            561
+        ],
+        "text": "Komurasaki! You must explain to them!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            892,
+            614,
+            942,
+            697
+        ],
+        "text": "Oh! It's Bingo.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1089,
+            453,
+            1152,
+            561
+        ],
+        "text": "They don't know about us!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1134,
+            599,
+            1142,
+            657
+        ],
+        "text": "Swish...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            54,
+            20,
+            183,
+            227
+        ],
+        "text": "...Someone will inherit that will of heroism.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            43,
+            535,
+            204,
+            740
+        ],
+        "text": "As long as people stand up to save each other...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            748,
+            26,
+            804,
+            190
+        ],
+        "text": "...They will strike you down.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            729,
+            565,
+            815,
+            718
+        ],
+        "text": "And make no mistake...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

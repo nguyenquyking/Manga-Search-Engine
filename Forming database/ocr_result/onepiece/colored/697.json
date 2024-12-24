@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            80,
+            200,
+            222,
+            557
+        ],
+        "text": "ONE PIECE\nvol. 94\nA SOLDIER'S DREAM",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            312,
+            219,
+            340,
+            536
+        ],
+        "text": "CONTENTS",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            363,
+            61,
+            396,
+            696
+        ],
+        "text": "\u7b2c943\u8a71\u3000Smile          007",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            422,
+            60,
+            456,
+            697
+        ],
+        "text": "\u7b2c944\u8a71\u3000Partner          025",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            483,
+            61,
+            516,
+            697
+        ],
+        "text": "\u7b2c945\u8a71\u3000Olin            042",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            542,
+            61,
+            576,
+            694
+        ],
+        "text": "\u7b2c946\u8a71\u3000Queen vs. Olin    061",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            601,
+            62,
+            636,
+            695
+        ],
+        "text": "\u7b2c947\u8a71\u3000Queen's Gamble    079",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            661,
+            62,
+            696,
+            696
+        ],
+        "text": "\u7b2c948\u8a71\u3000Introducing Kawamatsu the Kappa 097",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            721,
+            62,
+            754,
+            697
+        ],
+        "text": "\u7b2c949\u8a71\u3000Mummy            114",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            781,
+            62,
+            814,
+            697
+        ],
+        "text": "\u7b2c950\u8a71\u3000A Soldier's Dream  135",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            840,
+            61,
+            874,
+            697
+        ],
+        "text": "\u7b2c951\u8a71\u3000Rampage          152",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            900,
+            62,
+            934,
+            697
+        ],
+        "text": "\u7b2c952\u8a71\u3000Hiyori and Kawamatsu 173",
+        "panel_id": "3",
+        "type": "table"
+    },
+    {
+        "text_box": [
+            960,
+            61,
+            993,
+            693
+        ],
+        "text": "\u7b2c953\u8a71\u3000Once a Fox        191",
+        "panel_id": "3",
+        "type": "table"
+    }
+]

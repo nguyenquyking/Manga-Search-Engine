@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            117,
+            56,
+            158,
+            135
+        ],
+        "text": "DIE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            348,
+            84,
+            427
+        ],
+        "text": "HUMMM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            433,
+            357,
+            445,
+            421
+        ],
+        "text": "SWFF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            406,
+            749,
+            437,
+            862
+        ],
+        "text": "SURE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            34,
+            643,
+            94
+        ],
+        "text": "KRAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            908,
+            112,
+            922,
+            184
+        ],
+        "text": "RRRIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1161,
+            47,
+            1262,
+            231
+        ],
+        "text": "BUT ONLY\nWHEN IT'S\nMY TIME!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

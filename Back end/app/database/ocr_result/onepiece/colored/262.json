@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            94,
+            691,
+            191,
+            838
+        ],
+        "text": "BRIDAL GRABBER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            750,
+            908,
+            824
+        ],
+        "text": "NOW WE'RE EVEN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1105,
+            55,
+            1254,
+            230
+        ],
+        "text": "THAT BASTARD'S CRAZY!! THAT BURNING LEG OF YOURS IS SOME KIND OF AUGMENTATION, RIGHT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1063,
+            266,
+            1183,
+            430
+        ],
+        "text": "GERMA 66",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1121,
+            647,
+            1270,
+            823
+        ],
+        "text": "MUHAHA!! I REMEMBER NOW! ALL OF JUDGE'S BRATS ARE ENHANCED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

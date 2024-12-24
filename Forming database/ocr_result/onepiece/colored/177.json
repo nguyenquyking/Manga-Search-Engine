@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            33,
+            113,
+            91,
+            222
+        ],
+        "text": "FAFAFA\n...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            300,
+            154,
+            424
+        ],
+        "text": "TO THINK\nYOU ACTUALLY\nATE A SMILE\nFRUIT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            722,
+            128,
+            847
+        ],
+        "text": "PLEASE!!\nFAFAFA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            228,
+            301,
+            306,
+            418
+        ],
+        "text": "YOU REALLY\nHAVE THE\nWORST LUCK,\nKILLER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            273,
+            91,
+            313,
+            245
+        ],
+        "text": "I'M BEGGING\nYOU TO STOP!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            209,
+            750,
+            273,
+            816
+        ],
+        "text": "HAHA\nHA",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            431,
+            83,
+            535,
+            234
+        ],
+        "text": "BUT\nYOU'RE NOT\nFIGHTING\nEITHER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            302,
+            516,
+            429
+        ],
+        "text": "FAFAFA.\nJUST SHUT UP\nAND DO WHAT\nYOU'RE TOLD...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            491,
+            512,
+            648
+        ],
+        "text": "HE KEEPS\nBASHING HIS\nSKULL AGAINST\nTHAT PILLAR,\nIS HE NUTS?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            419,
+            691,
+            505,
+            837
+        ],
+        "text": "WHY CAN'T\nWE HELP YOU\nFINISH HIM,\nKILLER-SAN?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            929,
+            124,
+            1045,
+            270
+        ],
+        "text": "YOU CAN\nHAVE MY LIFE IF\nTHAT'S WHAT\nIT TAKES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            951,
+            456,
+            1034,
+            559
+        ],
+        "text": "RELEASE\nKID...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            666,
+            969,
+            792
+        ],
+        "text": "WE CAN'T\nTAKE THIS\nANYMORE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1157,
+            630,
+            1258,
+            820
+        ],
+        "text": "THE FIRE'S\nALMOST HERE!!\nWE NEED TO HURRY\nAND LEAVE BEFORE\nIT'S TOO LATE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

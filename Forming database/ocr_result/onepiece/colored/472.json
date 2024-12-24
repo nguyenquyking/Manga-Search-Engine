@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            111,
+            31,
+            172,
+            194
+        ],
+        "text": "...Edward Newgate!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            551,
+            192,
+            700
+        ],
+        "text": "Captain of the Whitebeard Pirates...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            448,
+            25,
+            498,
+            200
+        ],
+        "text": "5,046,000,000 Belly!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            654,
+            34,
+            769,
+            195
+        ],
+        "text": "...The Pirate King, Gold Roger!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            661,
+            537,
+            753,
+            695
+        ],
+        "text": "Captain of the Roger Pirates...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1017,
+            32,
+            1070,
+            219
+        ],
+        "text": "5,564,800,000 Belly!!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

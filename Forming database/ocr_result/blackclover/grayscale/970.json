@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            19,
+            235,
+            112,
+            335
+        ],
+        "text": "But even then...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            433,
+            17,
+            585,
+            181
+        ],
+        "text": "...you can't destroy the heart of a supreme devil.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            766,
+            32,
+            869,
+            137
+        ],
+        "text": "...I was wrong after all.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            376,
+            1094,
+            449,
+            1221
+        ],
+        "text": "...and the flexibility of water.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            384,
+            1422,
+            472,
+            1544
+        ],
+        "text": "You have the strength of steel...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            630,
+            1119,
+            676,
+            1216
+        ],
+        "text": "My blood is fizzing.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            703,
+            1488,
+            751,
+            1560
+        ],
+        "text": "DON'T THINK...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            993,
+            54,
+            1096,
+            196
+        ],
+        "text": "I shouldn't have shut her away or kept her out of this.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1001,
+            1265,
+            1101,
+            1346
+        ],
+        "text": "...you can block this.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1028,
+            1132,
+            1117,
+            1199
+        ],
+        "text": "Steel has gotten inside-",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

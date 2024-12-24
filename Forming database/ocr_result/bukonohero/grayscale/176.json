@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            358,
+            424,
+            436,
+            677
+        ],
+        "text": "DEMON\nTOGA THE TERRIBLE\nDIE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            519,
+            385,
+            678,
+            708
+        ],
+        "text": "GET LOST!\nYOUR FAULT FOR HAVING HER\nVAMPIRE DEMON'S LAIR",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            812,
+            232,
+            885,
+            337
+        ],
+        "text": "\"WE DID OUR\nBEST, BUT\nNOTHING\nWORKED.\"",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            934,
+            62,
+            978,
+            185
+        ],
+        "text": "\"THE GIRL IS\nDEMONIC.\"",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

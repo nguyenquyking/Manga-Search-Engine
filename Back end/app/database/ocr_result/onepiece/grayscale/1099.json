@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            75,
+            839,
+            187,
+            948
+        ],
+        "text": "Have you heard the legend of the Continent Puller?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            969,
+            142,
+            1042
+        ],
+        "text": "Speaking of giants...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            268,
+            927,
+            358,
+            1046
+        ],
+        "text": "My grandpa used to tell me a tale...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            875,
+            489,
+            952
+        ],
+        "text": "about a man bigger than giants",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            337,
+            194,
+            428,
+            309
+        ],
+        "text": "Our main problem was time.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            430,
+            427,
+            526,
+            565
+        ],
+        "text": "I've heard that his descendants...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            335,
+            777,
+            441
+        ],
+        "text": "Do not have many days to complete their task.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            696,
+            242,
+            838,
+            316
+        ],
+        "text": "The hunger did not just weaken us,",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            750,
+            150,
+            848,
+            231
+        ],
+        "text": "It ate away at our souls",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            657,
+            868,
+            780,
+            975
+        ],
+        "text": "We managed to find some fresh water",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1065,
+            311,
+            1150,
+            444
+        ],
+        "text": "Slowly, gradually, bit by bit.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1228,
+            905,
+            1320,
+            1005
+        ],
+        "text": "But two grown adults",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1321,
+            772,
+            1467,
+            868
+        ],
+        "text": "without food forced to build a ship",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

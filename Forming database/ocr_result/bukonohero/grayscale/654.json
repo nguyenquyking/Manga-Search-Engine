@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            59,
+            171,
+            167,
+            284
+        ],
+        "text": "YOU KEEP HIDDEN FOR NOW SINCE THE TARGET'S ON HIS WAY TO US.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            635,
+            93,
+            696
+        ],
+        "text": "YEAH, YEAH...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            158,
+            572,
+            212,
+            670
+        ],
+        "text": "ONCE WE'RE DONE HERE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            421,
+            550,
+            512,
+            639
+        ],
+        "text": "MAYBE I SHOULD'VE DITCHED YOU AFTER ALL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            665,
+            435,
+            703
+        ],
+        "text": "UGH",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            98,
+            616,
+            151
+        ],
+        "text": "DOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            677,
+            560,
+            766,
+            680
+        ],
+        "text": "AH, THE TREACHEROUS HERO\u2014THE LOVELY LADY NAGANT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            162,
+            1036,
+            251
+        ],
+        "text": "WHAT AN HONOR TO MEET YOU.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            56,
+            98,
+            163,
+            243
+        ],
+        "text": "FOR FIVE LONG YEARS, MY FATHER DANCED AND MADE A FOOL OF HIMSELF...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            229,
+            41,
+            324,
+            152
+        ],
+        "text": "...NEVER ONCE EXPLAINING HIMSELF TO HIS OWN FAMILY!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            563,
+            167,
+            714
+        ],
+        "text": "HE TRUSTED IN THE DEAL THAT HE MADE WITH YOU AND KAIDO TO LIBERATE WANO.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            463,
+            49,
+            548,
+            196
+        ],
+        "text": "...AND WITHSTOOD ONE HOUR OF YOUR BOILING CAULDRON!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            612,
+            50,
+            693,
+            171
+        ],
+        "text": "HE WITHSTOOD THE SEARING BURNS OF THE BUBBLING OIL!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            460,
+            337,
+            545,
+            482
+        ],
+        "text": "HE BELIEVED THAT YOU WOULD FREE THE PEOPLE IN THE END...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            456,
+            628,
+            551,
+            714
+        ],
+        "text": "MY FATHER KEPT HIS WORD!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            793,
+            172,
+            886,
+            295
+        ],
+        "text": "HIS SUFFERING WAS UNIMAGINABLE!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            785,
+            334,
+            883,
+            422
+        ],
+        "text": "...BECAUSE THE ENTIRE COUNTRY WAS TAKEN HOSTAGE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            794,
+            466,
+            872,
+            558
+        ],
+        "text": "...HE BORE YOUR TORMENTS ALL ALONE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            791,
+            614,
+            878,
+            718
+        ],
+        "text": "DESPITE THE SMILE THAT NEVER LEFT HIS FACE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1049,
+            54,
+            1104,
+            146
+        ],
+        "text": "WHAT'S THE MATTER, HIYORI?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

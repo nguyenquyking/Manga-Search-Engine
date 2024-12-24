@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            142,
+            424,
+            267,
+            643
+        ],
+        "text": "THE ENTIRE PLAN WAS LEAKED!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            123,
+            1147,
+            282,
+            1311
+        ],
+        "text": "I AM SORRY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            420,
+            542,
+            591
+        ],
+        "text": "WHAAAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            103,
+            935,
+            328
+        ],
+        "text": "WE DON'T KNOW WHAT'S GOIN' ON, EITHER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            522,
+            870,
+            616
+        ],
+        "text": "OH, NO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            1031,
+            941,
+            1313
+        ],
+        "text": "WHATEVER IT IS THAT HAPPENED TO THEM, I KNOW NOTHING!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1507,
+            106,
+            1667,
+            267
+        ],
+        "text": "AND ON SHOGUN OROCHI'S ORDERS...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1775,
+            61,
+            1967,
+            303
+        ],
+        "text": "...WE TOOK DOWN EVERY GREAT BRIDGE THAT CONNECTS THE REGIONS!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1483,
+            1058,
+            1650,
+            1300
+        ],
+        "text": "WE MIGHT'VE FAILED TO DESTROY THAT LION SHIP...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1779,
+            1041,
+            2015,
+            1310
+        ],
+        "text": "...BUT WE MADE SURE TO SINK EVERY BOAT LINED UP AT ITACHI PORT LAST NIGHT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            59,
+            127,
+            145,
+            240
+        ],
+        "text": "WHEN THEIR DAILY LIVES WERE STOLEN AWAY SO SENSELESSLY.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            50,
+            639,
+            124,
+            741
+        ],
+        "text": "I COULDN'T SIT BACK AND ACCEPT IT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            98,
+            528,
+            185,
+            634
+        ],
+        "text": "...WHEN THE MADNESS KEPT TAKING FROM PEOPLE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            360,
+            76,
+            431,
+            201
+        ],
+        "text": "I HAD TO MAKE THE WORLD A BETTER PLACE SOMEHOW.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            303,
+            613,
+            353,
+            701
+        ],
+        "text": "POWERLESS THOUGH I WAS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            463,
+            444,
+            582
+        ],
+        "text": "...I REFUSED TO SIT ON THE SIDELINES.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            607,
+            326,
+            692,
+            411
+        ],
+        "text": "BUT I'VE RUN MY COURSE NOW.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            818,
+            165,
+            891,
+            300
+        ],
+        "text": "I'D GIVE MY LIFE IN AN INSTANT TO PROTECT MY DISCIPLE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            71,
+            1082,
+            213
+        ],
+        "text": "...BUT I COULDN'T BRING MYSELF TO TELL HIM TO TAKE TIME FOR HIMSELF.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            650,
+            861,
+            731
+        ],
+        "text": "AND THIS IS THE END RESULT.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

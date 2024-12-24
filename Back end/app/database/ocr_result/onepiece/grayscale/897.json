@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            155,
+            68,
+            176,
+            126
+        ],
+        "text": "Scuze me?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            194,
+            632,
+            261,
+            719
+        ],
+        "text": "No measly East Blue cook ever could!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            361,
+            80,
+            448,
+            180
+        ],
+        "text": "...I can't let that insult slide, Monsieur Ruibe!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            518,
+            532,
+            628
+        ],
+        "text": "As the former sous-chef of a floating restaurant proud to sail the East Blue...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            639,
+            464,
+            695
+        ],
+        "text": "You wait right there!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            83,
+            812,
+            186
+        ],
+        "text": "You're going home with your head held high, old man!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            558,
+            762,
+            716
+        ],
+        "text": "Besides...If it means boosting the happiness of a lovely lady...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            959,
+            418,
+            1056,
+            491
+        ],
+        "text": "I'll fillet the dragon salmon!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            559,
+            1062,
+            636
+        ],
+        "text": "...How could I not give a helping hand?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

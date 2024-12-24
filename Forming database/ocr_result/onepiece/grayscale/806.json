@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            42,
+            64,
+            129,
+            232
+        ],
+        "text": "So that would be... the opposite direction of Kin'emon's group!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            38,
+            267,
+            129,
+            390
+        ],
+        "text": "Near the entrance... to the Skull Dome...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            56,
+            420,
+            82,
+            456
+        ],
+        "text": "N...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            49,
+            593,
+            138,
+            723
+        ],
+        "text": "Hey, you!! Which way is the sealed storeroom?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            177,
+            29,
+            191,
+            136
+        ],
+        "text": "Beneath the roof",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            267,
+            33,
+            280,
+            128
+        ],
+        "text": "Dome entrance",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            478,
+            112,
+            543,
+            207
+        ],
+        "text": "This way!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            485,
+            279,
+            559,
+            389
+        ],
+        "text": "This way?! Or that way?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            423,
+            533,
+            509
+        ],
+        "text": "RAAAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            479,
+            609,
+            547,
+            721
+        ],
+        "text": "Which side needs me more right now?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            664,
+            645,
+            720
+        ],
+        "text": "Huff, huff!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            656,
+            277,
+            678,
+            344
+        ],
+        "text": "...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            656,
+            378,
+            672,
+            421
+        ],
+        "text": "Thump...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            807,
+            405,
+            820,
+            452
+        ],
+        "text": "Waaaaah",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1048,
+            591,
+            1056,
+            640
+        ],
+        "text": "Grrg...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            69,
+            64,
+            96,
+            204
+        ],
+        "text": "Lady Vivi...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            274,
+            129,
+            383
+        ],
+        "text": "Gods are not bound by logic.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            436,
+            124,
+            543
+        ],
+        "text": "That doesn't make logical sense!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            564,
+            110,
+            712
+        ],
+        "text": "Leo!!\nSai!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            65,
+            439,
+            190
+        ],
+        "text": "Stop, Princess of Alabasta!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            594,
+            452,
+            716
+        ],
+        "text": "Give back Shirahoshi!! She's a friend!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            493,
+            24,
+            531,
+            106
+        ],
+        "text": "King Neptune!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            625,
+            90,
+            690,
+            223
+        ],
+        "text": "...and return to the sea-floor!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            615,
+            462,
+            702,
+            537
+        ],
+        "text": "I will crush these worms...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            586,
+            702,
+            717
+        ],
+        "text": "Thank you!! I will not forget the kindness you've shown!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            45,
+            843,
+            171
+        ],
+        "text": "In any case, if this is what the surface holds, then I cannot bring my people here!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            53,
+            966,
+            164
+        ],
+        "text": "No!! This isn't the surface!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            45,
+            1130,
+            172
+        ],
+        "text": "This is not humanity!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1074,
+            425,
+            1130,
+            544
+        ],
+        "text": "King Neptune!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            593,
+            1134,
+            713
+        ],
+        "text": "But as painful as it is to admit... We must abandon our hopes!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

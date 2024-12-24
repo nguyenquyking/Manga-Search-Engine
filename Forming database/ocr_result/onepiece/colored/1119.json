@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            93,
+            39,
+            188,
+            153
+        ],
+        "text": "Forgive me for not welcoming you here!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            568,
+            200,
+            700
+        ],
+        "text": "Oh, Sir Luffy! You have completed your journey!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            332,
+            435,
+            374
+        ],
+        "text": "Hot...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            343,
+            630,
+            446,
+            724
+        ],
+        "text": "I'm afraid I've been struck with violent stomach outbursts...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            245,
+            445,
+            310
+        ],
+        "text": "Kin!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            12,
+            480,
+            100
+        ],
+        "text": "I'm so glad to see you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            592,
+            54,
+            654,
+            155
+        ],
+        "text": "When did I say he was dead...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            586,
+            188,
+            655,
+            312
+        ],
+        "text": "So he is alive after all, Traffy!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            768,
+            381,
+            827,
+            541
+        ],
+        "text": "Kozuki Clan Vassal\nFoxfire Kin'emon",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            894,
+            159,
+            938,
+            279
+        ],
+        "text": "KSHUF!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1056,
+            32,
+            1128,
+            112
+        ],
+        "text": "Who goes there?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            317,
+            1146,
+            418
+        ],
+        "text": "You don't have to be so misleading about it!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            617,
+            1110,
+            714
+        ],
+        "text": "I said he might come out of the bathroom by tonight.",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            62,
+            351,
+            237,
+            843
+        ],
+        "text": "\u30d0\u30a1\u30f3\u30c3!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            500,
+            1179,
+            610,
+            1255
+        ],
+        "text": "We're climbing the waterfall!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            1185,
+            890,
+            1273
+        ],
+        "text": "Oh no! Now we're going upstream again!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            573,
+            668,
+            628,
+            688
+        ],
+        "text": "\u30ba\u30ba\u30c3",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            966,
+            1027,
+            1008,
+            1098
+        ],
+        "text": "\u30b9\u30ad\u30c3\u30bf\u30fc \u30b9\u30ad\u30c3\u30bf\u30fc",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            964,
+            1422,
+            1032,
+            1488
+        ],
+        "text": "It's a whirlpool!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1063,
+            54,
+            1116,
+            141
+        ],
+        "text": "\u30d5\u30f3\u30c3!!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    }
+]

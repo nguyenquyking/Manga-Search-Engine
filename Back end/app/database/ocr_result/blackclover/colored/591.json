@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            89,
+            1117,
+            171,
+            1194
+        ],
+        "text": "HERE.\nOVER\nHERE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            261,
+            771,
+            414,
+            959
+        ],
+        "text": "YOU'RE\nALL\nTINY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            505,
+            87,
+            688,
+            316
+        ],
+        "text": "IT LOOKS\nLIKE THIS'S\nWHAT HAPPENS\nWHEN I\nGIVE YOU MY\nPOWER.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            1142,
+            704,
+            1219
+        ],
+        "text": "HUH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            112,
+            1135,
+            231
+        ],
+        "text": "THE\nDEVIL'S\nPOWER IS\nONLY\nTRICKLING\nINTO YOU.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1005,
+            604,
+            1129,
+            723
+        ],
+        "text": "YOUR\nCURRENT\nCONDITION\nISN'T\nUNION.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1514,
+            107,
+            1648,
+            241
+        ],
+        "text": "HOW\nCAN I\nUSE YOUR\nREAL\nPOWER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1501,
+            602,
+            1648,
+            719
+        ],
+        "text": "YOU SAID\nTHE SAME\nTHING\nEARLIER,\nRIGHT,\nLIEBE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1543,
+            856,
+            1679,
+            972
+        ],
+        "text": "THAT'S\nWHY I\nCAN USE\nUNION SO\nEASILY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1381,
+            1019,
+            1677,
+            1226
+        ],
+        "text": "IN DEVIL-\nBINDING\nCONTRACTS,\nTHE INITIATIVE\nBELONGS\nENTIRELY TO\nTHE ONE GIVING\nTHE ORDERS.\nIN OTHER\nWORDS, TO\nTHE HUMAN.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

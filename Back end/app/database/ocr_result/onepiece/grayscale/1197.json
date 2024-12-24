@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            96,
+            306,
+            192,
+            428
+        ],
+        "text": "I'M BUSY\nRIGHT\nNOW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            469,
+            164,
+            604
+        ],
+        "text": "UGH!! BIG\nMOM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            827,
+            241,
+            1002
+        ],
+        "text": "STRAW\nHAAAAAT\n!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            465,
+            724,
+            598
+        ],
+        "text": "ELECLAW\n!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            632,
+            721,
+            762
+        ],
+        "text": "BLACK\nBALLS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            826,
+            718,
+            986
+        ],
+        "text": "LET'S GET\nOUT OF HERE,\nCARROT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            65,
+            1107,
+            201
+        ],
+        "text": "GYAAAA\n!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1052,
+            397,
+            1137,
+            524
+        ],
+        "text": "LIGHTNING\nCLOUD\nROD!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1073,
+            563,
+            1150,
+            778
+        ],
+        "text": "POP POP POP POP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1078,
+            899,
+            1112,
+            996
+        ],
+        "text": "YEAH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1288,
+            320,
+            1497,
+            458
+        ],
+        "text": "...JUST\nSO I\nCOULD\nKILL\nYOU!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1326,
+            827,
+            1462,
+            1004
+        ],
+        "text": "I CAME\nALL THIS\nWAY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

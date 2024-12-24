@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            58,
+            641,
+            149,
+            755
+        ],
+        "text": "DESPITE HAVING EVERY RIGHT TO RESENT ME, HE'S STARTED CALLING ME \"MOM\" AGAIN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            384,
+            636,
+            399,
+            671
+        ],
+        "text": "I SEE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            564,
+            574,
+            664
+        ],
+        "text": "I NEVER REALLY GOT TO FACE MY FOLKS LIKE THAT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            566,
+            87,
+            630,
+            190
+        ],
+        "text": "YOU'RE A CLASS ACT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            407,
+            585,
+            500
+        ],
+        "text": "SHOTO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            560,
+            857,
+            594
+        ],
+        "text": "STILL SO CLOSE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            585,
+            1004,
+            700
+        ],
+        "text": "I GAVE UP ON THEM. MOVED ON AND LEFT THEM BEHIND.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

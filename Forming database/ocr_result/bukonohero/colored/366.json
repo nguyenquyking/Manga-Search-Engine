@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            297,
+            239,
+            340,
+            343
+        ],
+        "text": "Here he comes!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            167,
+            505,
+            187,
+            611
+        ],
+        "text": "Father!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            539,
+            493,
+            670
+        ],
+        "text": "I didn't believe you were dead.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            621,
+            878,
+            671,
+            963
+        ],
+        "text": "At the time, I kept...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            814,
+            868,
+            865,
+            965
+        ],
+        "text": "...searching for you.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            971,
+            200,
+            1164,
+            361
+        ],
+        "text": "Worry about the rest later!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1139,
+            414,
+            1299,
+            560
+        ],
+        "text": "Get moving! You gotta protect them!! C'mon!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1157,
+            670,
+            1316,
+            838
+        ],
+        "text": "Protect Midoriya and the others!! Hado and I will fight!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

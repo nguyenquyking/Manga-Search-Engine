@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            154,
+            62,
+            270,
+            188
+        ],
+        "text": "YOU'RE IN THE WAY,\nERASER HEAD.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            550,
+            21,
+            639,
+            107
+        ],
+        "text": "NO,\nCAN'T\nAFFORD\nTO DIE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            721,
+            515,
+            759
+        ],
+        "text": "BAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            855,
+            348,
+            918,
+            459
+        ],
+        "text": "...HAVE TO\nWATCH\nOVER...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            639,
+            872,
+            721
+        ],
+        "text": "I STILL...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            887,
+            801,
+            915,
+            864
+        ],
+        "text": "IF I\nDIE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1018,
+            17,
+            1106,
+            153
+        ],
+        "text": "UNTIL THEY\nGRADUATE\nAND BECOME\nHEROES.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            287,
+            1199,
+            371
+        ],
+        "text": "...THEM.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1096,
+            777,
+            1207,
+            895
+        ],
+        "text": "...THERE'LL\nBE NO ONE\nLEFT TO\nHOLD HIM\nBACK!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

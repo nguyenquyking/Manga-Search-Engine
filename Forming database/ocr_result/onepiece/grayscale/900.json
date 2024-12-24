@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            314,
+            275,
+            341,
+            387
+        ],
+        "text": "...He has unbelievable skill.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            301,
+            414,
+            346,
+            461
+        ],
+        "text": "For a young kid...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            281,
+            586,
+            383,
+            701
+        ],
+        "text": "It's like the fish is dancing on the cutting board!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            258,
+            653,
+            305,
+            692
+        ],
+        "text": "The way he's...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            83,
+            550,
+            130
+        ],
+        "text": "What was that explosion?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            146,
+            480,
+            197
+        ],
+        "text": "Yikes! You okay?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            317,
+            851,
+            370
+        ],
+        "text": "Hah! There, see?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            903,
+            96,
+            965,
+            152
+        ],
+        "text": "That's the hardest part!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            492,
+            787,
+            531
+        ],
+        "text": "?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            603,
+            479,
+            649
+        ],
+        "text": "POOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

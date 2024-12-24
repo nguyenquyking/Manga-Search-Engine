@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            94,
+            102,
+            137,
+            175
+        ],
+        "text": "YEAH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            45,
+            244,
+            176,
+            367
+        ],
+        "text": "You are right, Iida! That's where we show our resolution! Right?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            425,
+            191,
+            567
+        ],
+        "text": "However, studies are the true duty of a student!! Sleeping in class is not allowed!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            367,
+            150,
+            423,
+            265
+        ],
+        "text": "You say some great things!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            395,
+            346,
+            501,
+            503
+        ],
+        "text": "I should've gone too... but dealing with both seems tough...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            398,
+            681,
+            530
+        ],
+        "text": "The learning pace is different from person to person.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            416,
+            602,
+            488,
+            724
+        ],
+        "text": "Sensei said he'd prepare supplementary lessons!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            755,
+            497,
+            878
+        ],
+        "text": "And you were saying your studies are crap. You sure you're okay?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            240,
+            977,
+            411
+        ],
+        "text": "However, at the same time, the thought of that girl was growing inside me day in and day out.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            842,
+            690,
+            954,
+            840
+        ],
+        "text": "All Might and Mirrio-Senpai, and also Nighteye...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1099,
+            461,
+            1206,
+            639
+        ],
+        "text": "I know it's a story I still can't be comfortable with.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

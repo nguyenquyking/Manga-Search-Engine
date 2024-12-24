@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            72,
+            82,
+            92,
+            223
+        ],
+        "text": "KAWAMATSU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            66,
+            174,
+            239
+        ],
+        "text": "The key to the cuffs and your katana!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            285,
+            171,
+            395
+        ],
+        "text": "That's a fish bone!! Disgusting!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            416,
+            150,
+            499
+        ],
+        "text": "A needle?! No...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            514,
+            144,
+            599
+        ],
+        "text": "YEOWWW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            193,
+            286,
+            228,
+            380
+        ],
+        "text": "SWOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            438,
+            73,
+            499,
+            169
+        ],
+        "text": "Just in time...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            438,
+            318,
+            464,
+            419
+        ],
+        "text": "WHOA!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            438,
+            500,
+            476,
+            606
+        ],
+        "text": "JINGLE!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            640,
+            65,
+            666,
+            175
+        ],
+        "text": "...Raizo.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            776,
+            74,
+            852,
+            200
+        ],
+        "text": "Do you like Sumo wrestling?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            239,
+            853,
+            298
+        ],
+        "text": "Tell me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            517,
+            820,
+            676
+        ],
+        "text": "My old trusty blade...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            397,
+            808,
+            465
+        ],
+        "text": "CLANK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1104,
+            345,
+            1131,
+            551
+        ],
+        "text": "SOTOMUSO!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

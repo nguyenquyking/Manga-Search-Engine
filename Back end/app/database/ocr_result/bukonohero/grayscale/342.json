@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            88,
+            38,
+            141,
+            151
+        ],
+        "text": "PREPARE TO SURPASS HIM, CASSIE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            616,
+            170,
+            732
+        ],
+        "text": "ALL MIGHT HIMSELF COULDN'T PUT A PROPER END TO THIS VILLAIN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            342,
+            53,
+            427,
+            201
+        ],
+        "text": "MAKE SURE EVERY LAST ONE HITS THE MARK.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            313,
+            546,
+            378,
+            639
+        ],
+        "text": "THEIR NAME IS TIAMAT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            541,
+            478,
+            664,
+            679
+        ],
+        "text": "STATE-OF-THE-ART HYPERSONIC INTERCONTINENTAL CRUISE MISSILES:",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            715,
+            70,
+            927,
+            126
+        ],
+        "text": "TIAMAT",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1118,
+            59,
+            1135,
+            233
+        ],
+        "text": "To be continued!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

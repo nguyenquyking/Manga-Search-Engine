@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            58,
+            252,
+            136,
+            575
+        ],
+        "text": "SHOCK WILLE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            689,
+            707,
+            796,
+            816
+        ],
+        "text": "AAAAAA\nAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            917,
+            96,
+            965,
+            174
+        ],
+        "text": "HUH?\nWHAT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            418,
+            995,
+            509
+        ],
+        "text": "HOW\nDARE\nYOU HURT\nMAMA?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1201,
+            75,
+            1246,
+            180
+        ],
+        "text": "SOMETHING IS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

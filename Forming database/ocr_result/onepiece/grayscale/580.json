@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            25,
+            64,
+            161,
+            202
+        ],
+        "text": "I can't believe Lady Black Maria's illusion mist didn't work on them!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            36,
+            407,
+            122,
+            506
+        ],
+        "text": "They're getting away!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            32,
+            576,
+            112,
+            730
+        ],
+        "text": "You could have reassured me if it wasn't working on you, Robin.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            248,
+            53,
+            301,
+            129
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            438,
+            294,
+            452,
+            456
+        ],
+        "text": "STOMP\nSTOMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            373,
+            573,
+            443,
+            737
+        ],
+        "text": "Such a horrible thing to do, toying with someone's most precious memories!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            476,
+            502,
+            553
+        ],
+        "text": "KRAASH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            534,
+            644,
+            610,
+            739
+        ],
+        "text": "Oh dear, is that true?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            569,
+            162,
+            598,
+            199
+        ],
+        "text": "!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            662,
+            60,
+            739,
+            148
+        ],
+        "text": "Ugh, this mansion is simply terrifying!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

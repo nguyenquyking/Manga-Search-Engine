@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            73,
+            622,
+            160,
+            734
+        ],
+        "text": "My pf-f-friend is barely breathing...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            497,
+            193,
+            576
+        ],
+        "text": "...and needs urgent help!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            180,
+            106,
+            204,
+            149
+        ],
+        "text": "FWOOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            651,
+            71,
+            717,
+            175
+        ],
+        "text": "Answer me, Kanjuro!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            205,
+            708,
+            273
+        ],
+        "text": "Zzsh... Hey!! Zzsh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            405,
+            725,
+            536
+        ],
+        "text": "After Sir Law cut me in two, perhaps I was never properly attached again.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            584,
+            720,
+            717
+        ],
+        "text": "Hold on a bit longer, Kiku... I have found some of our allies!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1027,
+            77,
+            1117,
+            169
+        ],
+        "text": "But Kanjuro is dead already...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1028,
+            225,
+            1119,
+            355
+        ],
+        "text": "Is that... the voice of the beheaded Orochi?!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            986,
+            407,
+            1112,
+            533
+        ],
+        "text": "It is a miracle!! If I can use this to save Kiku's life, if nothing else...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1001,
+            585,
+            1107,
+            716
+        ],
+        "text": "It is hard to believe that I still live, with my torso severed.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

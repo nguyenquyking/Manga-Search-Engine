@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            174,
+            730,
+            330,
+            902
+        ],
+        "text": "The thief has stolen the stockpile of gold!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            1149,
+            267,
+            1353
+        ],
+        "text": "It's Ushimitsu Kozo!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            208,
+            879,
+            440
+        ],
+        "text": "Where have you gone...? Why?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            606,
+            896,
+            794
+        ],
+        "text": "Princess!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            1123,
+            874,
+            1290
+        ],
+        "text": "Lady Hiyori!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            818,
+            817,
+            876,
+            1113
+        ],
+        "text": "WAAAA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1021,
+            1049,
+            1038,
+            1327
+        ],
+        "text": "DUT DUT DUT DUT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1313,
+            777,
+            1455,
+            999
+        ],
+        "text": "Seems like an orphan who wandered into the capital...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1300,
+            1105,
+            1473,
+            1363
+        ],
+        "text": "There's an adorable little girl who showed up at our step, Boss...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1566,
+            735,
+            1684,
+            898
+        ],
+        "text": "The poor thing's starving.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1665,
+            406,
+            1773,
+            626
+        ],
+        "text": "You may not recognize me, my lady...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1702,
+            162,
+            1719,
+            210
+        ],
+        "text": "...",
+        "panel_id": "4",
+        "type": "thought"
+    }
+]

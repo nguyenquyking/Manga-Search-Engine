@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            111,
+            480,
+            219,
+            563
+        ],
+        "text": "Maybe so, but I can't just say...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            79,
+            482,
+            183
+        ],
+        "text": "...\"Oh, is that right?\" And back down!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            104,
+            890,
+            203
+        ],
+        "text": "We belong...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            515,
+            1048,
+            554
+        ],
+        "text": "THOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

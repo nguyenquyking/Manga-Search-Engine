@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            85,
+            381,
+            156,
+            433
+        ],
+        "text": "STARTING FROM SQUARE ONE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            149,
+            330,
+            179,
+            374
+        ],
+        "text": "BRING IT ON.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            263,
+            572,
+            333
+        ],
+        "text": "HOW WILL THEY USE THEIR REMAINING TIME?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            372,
+            603,
+            506,
+            722
+        ],
+        "text": "OF COURSE JAPAN'S NUMBER ONE HERO...IS OVERPOWERING THEM.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            914,
+            215,
+            993,
+            325
+        ],
+        "text": "BY ALL THREE ATTACKING AT ONCE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

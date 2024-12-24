@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            119,
+            204,
+            154,
+            276
+        ],
+        "text": "Wow, Ochaco!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            324,
+            620,
+            341,
+            695
+        ],
+        "text": "Midoriya.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            348,
+            215,
+            380,
+            291
+        ],
+        "text": "...is fighting.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            360,
+            335,
+            411,
+            424
+        ],
+        "text": "Right now, Uraraka...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            369,
+            684,
+            448
+        ],
+        "text": "But for everyone else too.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            641,
+            632,
+            731
+        ],
+        "text": "For you, of course.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            260,
+            682,
+            345
+        ],
+        "text": "I always loved seeing happy people.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            69,
+            1086,
+            172
+        ],
+        "text": "Fighting for our right to smile again.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

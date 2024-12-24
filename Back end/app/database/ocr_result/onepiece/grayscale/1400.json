@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            86,
+            326,
+            207,
+            440
+        ],
+        "text": "HOLD UP,\nGUYS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            127,
+            105,
+            278,
+            267
+        ],
+        "text": "DON'T\nWIMP OUT,\nTHEY CAN'T\nBE THAT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            774,
+            237,
+            908
+        ],
+        "text": "MAN,\nTHEY'RE\nREALLY\nMAD!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            979,
+            257,
+            1176
+        ],
+        "text": "WAIT,\nWAIT, WAIT,\nHOLD ON!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            1029,
+            838,
+            1280
+        ],
+        "text": "AAAAAH\n!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1773,
+            99,
+            1933,
+            266
+        ],
+        "text": "SHOOT\n'EM\nDEAD!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1743,
+            802,
+            1892,
+            937
+        ],
+        "text": "THOSE\nCAPTAINS\nARE\nCRAZY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1974,
+            810,
+            2045,
+            959
+        ],
+        "text": "DO SOMETHING!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

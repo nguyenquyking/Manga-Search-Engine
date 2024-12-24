@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            72,
+            68,
+            162,
+            159
+        ],
+        "text": "Yes. That creature there is Kaido...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            221,
+            174,
+            399
+        ],
+        "text": "Is that really...? ",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            337,
+            244,
+            399
+        ],
+        "text": "What is that thing?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            449,
+            134,
+            551
+        ],
+        "text": "So Kaido's a dragon?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            466,
+            69,
+            585,
+            223
+        ],
+        "text": "...into a dragon!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            445,
+            623,
+            566,
+            725
+        ],
+        "text": "Kaido can transform...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

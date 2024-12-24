@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            26,
+            199,
+            79,
+            259
+        ],
+        "text": "...to feel equal.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            358,
+            77,
+            456
+        ],
+        "text": "Always wanted...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            499,
+            87,
+            547
+        ],
+        "text": "Only me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            319,
+            88,
+            365,
+            156
+        ],
+        "text": "And then, in the forest...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            310,
+            265,
+            346,
+            322
+        ],
+        "text": "At USJ...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            191,
+            372,
+            229
+        ],
+        "text": "Yuga, no!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            357,
+            476,
+            362,
+            522
+        ],
+        "text": "Shhh",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            472,
+            600,
+            540,
+            725
+        ],
+        "text": "Each time, I led them to us.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            269,
+            807,
+            327
+        ],
+        "text": "I am...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            782,
+            418,
+            836,
+            499
+        ],
+        "text": "Do you hear me, Midoriya?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            56,
+            1021,
+            190
+        ],
+        "text": "...A despicable villain.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1098,
+            620,
+            1124,
+            717
+        ],
+        "text": "Cheese pieces: I know",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1118,
+            59,
+            1135,
+            233
+        ],
+        "text": "To be continued!",
+        "panel_id": "5",
+        "type": "caption"
+    }
+]

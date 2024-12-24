@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            223,
+            605,
+            296,
+            714
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            312,
+            79,
+            416,
+            145
+        ],
+        "text": "IT'S BIG M...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            499,
+            41,
+            570,
+            128
+        ],
+        "text": "If she wakes up, we're done for!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            489,
+            150,
+            567,
+            221
+        ],
+        "text": "We have to get out of here!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            505,
+            279,
+            572,
+            408
+        ],
+        "text": "Don't speak!! She'll wake up!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            502,
+            444,
+            564,
+            541
+        ],
+        "text": "Chopper-emon, what is this...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            616,
+            522,
+            692
+        ],
+        "text": "...Om!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            768,
+            68,
+            788,
+            146
+        ],
+        "text": "URRGH...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            778,
+            193,
+            858,
+            304
+        ],
+        "text": "Think of her as Kaido!! She's just like Kaido!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            769,
+            331,
+            866,
+            424
+        ],
+        "text": "Don't shout!! I'll finish her off right now!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            450,
+            865,
+            568
+        ],
+        "text": "What?! This is the dreaded Big Mom?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            754,
+            622,
+            837,
+            694
+        ],
+        "text": "No... It won't matter anyway!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            519,
+            983,
+            565
+        ],
+        "text": "SHING",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            936,
+            185,
+            1009,
+            301
+        ],
+        "text": "Chopperemon, you have to explain what's going on.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1076,
+            190,
+            1128,
+            291
+        ],
+        "text": "I'll do it later!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            612,
+            1131,
+            722
+        ],
+        "text": "Assuming she came here chasing after us...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            36,
+            1026,
+            89
+        ],
+        "text": "Koff!! Hakk!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

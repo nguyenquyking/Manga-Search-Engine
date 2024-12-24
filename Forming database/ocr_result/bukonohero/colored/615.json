@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            81,
+            39,
+            168,
+            226
+        ],
+        "text": "...ain't outta the picture yet!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            714,
+            138,
+            864
+        ],
+        "text": "Listen, us heroes...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            350,
+            771,
+            414,
+            834
+        ],
+        "text": "Hang on a sec...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            119,
+            413,
+            216
+        ],
+        "text": "That thing...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            852,
+            64,
+            960,
+            190
+        ],
+        "text": "...will be brought down by everyone who's left!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            882,
+            492,
+            918,
+            546
+        ],
+        "text": "BOOF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1109,
+            674,
+            1124,
+            735
+        ],
+        "text": "FWSH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1048,
+            653,
+            1074,
+            904
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

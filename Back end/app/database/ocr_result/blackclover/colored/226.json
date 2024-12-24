@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            62,
+            105,
+            224,
+            200
+        ],
+        "text": "Y-You didn't come here to save me?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            336,
+            185,
+            445
+        ],
+        "text": "You managed to give Marie a piggyback amid the confusion, huh...Die, Asta.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            746,
+            250,
+            849
+        ],
+        "text": "Are you an idiot?! You got captured right away!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            641,
+            306,
+            848
+        ],
+        "text": "How many times do you have to die till you're satisfied, huh?! Stupid Asta!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            159,
+            488,
+            247,
+            588
+        ],
+        "text": "If that happened, I'd kill 'em!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            226,
+            228,
+            306,
+            285
+        ],
+        "text": "S- Stop that, big bro!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            82,
+            657,
+            215
+        ],
+        "text": "I see two of my members are currently in your loving care.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            527,
+            742,
+            611,
+            856
+        ],
+        "text": "Greetings, member of the Royal Kira House.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            293,
+            1060,
+            436
+        ],
+        "text": "I- I don't belong to this generation, and I have strayed from the path of humans with my use of forbidden magic...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            207,
+            1212,
+            333
+        ],
+        "text": "In accordance with my mission, please use this opportunity...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1067,
+            708,
+            1198,
+            846
+        ],
+        "text": "Don't mind me! Just take Asta and go!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

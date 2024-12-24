@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            103,
+            45,
+            230,
+            164
+        ],
+        "text": "I can only set new rules for up to two different targets at once.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            109,
+            250,
+            167,
+            434
+        ],
+        "text": "\"TOMURA SHIGARAKI\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            65,
+            643,
+            197
+        ],
+        "text": "One of the two is always myself! I can't quite conjure up super strength on All Might's level, but I'm not too shabby!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            775,
+            239,
+            903,
+            360
+        ],
+        "text": "I'll never forget the sight of those two hair tufts! He was my role model from that day forward!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            749,
+            468,
+            817,
+            539
+        ],
+        "text": "He was there.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            933,
+            147,
+            1041,
+            266
+        ],
+        "text": "As a show of my own even greater dedication to peace, I went for...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            751,
+            920,
+            849,
+            1028
+        ],
+        "text": "A burglar on the run attacked us in our car.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            922,
+            903,
+            1038,
+            1017
+        ],
+        "text": "\"At least let my little sister live!\" I cried. I was ready to face death, but then...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            690,
+            1216,
+            815,
+            1335
+        ],
+        "text": "My family and I were on our way to the Santa Monica Pier when it happened.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            688,
+            1401,
+            796,
+            1500
+        ],
+        "text": "Years ago, a Japanese student studying abroad saved me.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            441,
+            1419,
+            558,
+            1517
+        ],
+        "text": "And playing right into my hands!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

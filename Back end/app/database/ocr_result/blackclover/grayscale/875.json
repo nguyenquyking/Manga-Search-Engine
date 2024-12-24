@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            50,
+            242,
+            88,
+            300
+        ],
+        "text": "Heh heh...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            117,
+            171,
+            195,
+            254
+        ],
+        "text": "I'm gonna win that one...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            332,
+            591,
+            473
+        ],
+        "text": "I'm really looking forward to fighting you sometime!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            557,
+            205,
+            580,
+            290
+        ],
+        "text": "Luck!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            774,
+            127,
+            867,
+            242
+        ],
+        "text": "I actively added commoners to my brigade.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            756,
+            310,
+            867,
+            419
+        ],
+        "text": "Even so, I was so strong I worked my way up to captain.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            757,
+            460,
+            793,
+            569
+        ],
+        "text": "I'm a commoner.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            937,
+            28,
+            1096,
+            181
+        ],
+        "text": "But when that nutcase Yami let a peasant into his, I thought \"He's gotta be out of his skull.\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            964,
+            288,
+            1055,
+            367
+        ],
+        "text": "I won't lose to nobles or to royals.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

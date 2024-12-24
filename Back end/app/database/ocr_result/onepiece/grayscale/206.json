@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            33,
+            80,
+            60,
+            234
+        ],
+        "text": "CAPTAIN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            398,
+            84,
+            508
+        ],
+        "text": "WAY TO GO, BOSS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            574,
+            90,
+            720
+        ],
+        "text": "BIG MOM'S NOT DOWN FOR THE COUNT, IS SHE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            262,
+            522,
+            299,
+            593
+        ],
+        "text": "PLEASE NO! NOT TO THEM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            429,
+            441,
+            484
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            520,
+            461,
+            590
+        ],
+        "text": "URGH...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            573,
+            380,
+            646,
+            480
+        ],
+        "text": "THAT'S GOTTA BE HURTIN' THE OLD HAG NOW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            71,
+            848,
+            231
+        ],
+        "text": "WHO CARES ABOUT THAT?!! IT'S NOT IMPORTANT RIGHT NOW!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            284,
+            828,
+            462
+        ],
+        "text": "I'M NOT YOUR OPENING ACT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            530,
+            828,
+            721
+        ],
+        "text": "YOU JUST HAD TO DO YOUR BIG FANCY ATTACK RIGHT AFTER MINE, TO MAKE IT LOOK LIKE YOU WERE THE WINNER...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            571,
+            912,
+            627
+        ],
+        "text": "RAAAAA",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

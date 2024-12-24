@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            61,
+            1083,
+            205,
+            1179
+        ],
+        "text": "Yes, Mama!\nI'm glad you're back to normal!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            1378,
+            158,
+            1489
+        ],
+        "text": "Napoleon!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            278,
+            1162,
+            345,
+            1261
+        ],
+        "text": "Sometimes I wish I wasn't so shy...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            320,
+            1413,
+            406,
+            1480
+        ],
+        "text": "A sword popped out...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            348,
+            1086,
+            411,
+            1162
+        ],
+        "text": "...and started talking!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            505,
+            1102,
+            565,
+            1273
+        ],
+        "text": "And what kind of idiot shows up to get killed?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            500,
+            1337,
+            565,
+            1474
+        ],
+        "text": "I told you I'd kill you if you came here.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            152,
+            393,
+            228
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            562,
+            158,
+            600,
+            235
+        ],
+        "text": "?",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            894,
+            22,
+            968,
+            159
+        ],
+        "text": "Get off of Onigashima now!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            250,
+            977,
+            358
+        ],
+        "text": "Everyone evacuate!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            1238,
+            778,
+            1357
+        ],
+        "text": "GRRRGGGG",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            67,
+            104,
+            106,
+            129
+        ],
+        "text": "I WILL-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            523,
+            106,
+            627
+        ],
+        "text": "I'LL...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            369,
+            71,
+            482,
+            207
+        ],
+        "text": "...IT FELT AS IF I WAS FLOATING IN EMPTY SPACE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            369,
+            471,
+            482,
+            611
+        ],
+        "text": "AFTER I GOT SEALED INTO THE FIVE-LEAF GRIMOIRE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            581,
+            99,
+            614,
+            580
+        ],
+        "text": "THE WHOLE TIME I WAS IN THERE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            675,
+            67,
+            834,
+            272
+        ],
+        "text": "Kill! I hate them! I can't ever forgive them!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            645,
+            353,
+            727,
+            414
+        ],
+        "text": "I'm gonna kill them!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            682,
+            530,
+            742,
+            616
+        ],
+        "text": "I'm never forgiving them!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            760,
+            448,
+            827,
+            491
+        ],
+        "text": "I'll kill 'em!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            782,
+            290,
+            821,
+            344
+        ],
+        "text": "I swear it!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            876,
+            125,
+            900,
+            550
+        ],
+        "text": "...I KEPT CURSING THE DEVILS.",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            61,
+            102,
+            132,
+            156
+        ],
+        "text": "I'm still alive, Gaja.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            36,
+            326,
+            90,
+            361
+        ],
+        "text": "No, no, no!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            177,
+            50,
+            246,
+            139
+        ],
+        "text": "If you hadn't been there, I would have died.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            590,
+            198,
+            723
+        ],
+        "text": "No apology could ever be enough!! I'm no longer fit to be a spirit guardian!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            53,
+            551,
+            154
+        ],
+        "text": "That's thanks to you, Gaja!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            442,
+            438,
+            485
+        ],
+        "text": "Dweh heh heh!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            400,
+            602,
+            496,
+            714
+        ],
+        "text": "The fact that no one in the kingdom is hurt...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            515,
+            495,
+            613,
+            589
+        ],
+        "text": "...makes me happier than anything.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            879,
+            29,
+            1068,
+            124
+        ],
+        "text": "...and been forced to do what you never wanted to do, hurt others.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            879,
+            356,
+            992,
+            440
+        ],
+        "text": "...you have become this twisted shape...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            899,
+            623,
+            1086,
+            722
+        ],
+        "text": "I tried to protect the citizens, the country, everything. As a result...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

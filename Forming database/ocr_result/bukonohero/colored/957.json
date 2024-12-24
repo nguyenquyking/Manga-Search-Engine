@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            45,
+            177,
+            200,
+            324
+        ],
+        "text": "It's gotten curtailed heavily nowadays, but it's sold wholesale across all levels by many different people, groups and organizations.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            346,
+            151,
+            459
+        ],
+        "text": "That drug's distribution web's real complicated.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            90,
+            627,
+            202,
+            798
+        ],
+        "text": "The guy Kirishima captured! And the illegal substance he was using.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            102,
+            39,
+            210,
+            159
+        ],
+        "text": "And now we can finally reach the source of it all!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            128,
+            535,
+            215
+        ],
+        "text": "That's it?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            662,
+            577,
+            771
+        ],
+        "text": "There's no evidence the cleansers themselves are dealing the stuff...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            640,
+            552,
+            725,
+            765
+        ],
+        "text": "But there's been contact between them and a middleman organization",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            880,
+            301,
+            972,
+            378
+        ],
+        "text": "One of the villains who gigantified",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            887,
+            404,
+            1010,
+            563
+        ],
+        "text": "The boss of one of those gangs was with one of those middleman groups.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            885,
+            661,
+            1012,
+            793
+        ],
+        "text": "Recall the clash between villain groups that Ryukyu and her team cleaned up a few days ago.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1052,
+            164,
+            1130,
+            367
+        ],
+        "text": "Only maintained it for a short while. They must have been inferior goods.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

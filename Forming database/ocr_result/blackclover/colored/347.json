@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            27,
+            684,
+            120,
+            782
+        ],
+        "text": "IN THE GRAND MAGIC ZONE ON THE BOUNDARY BETWEEN TWO COUNTRIES...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            300,
+            204,
+            324,
+            409
+        ],
+        "text": "@BIZZTHEGOAT",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            903,
+            199,
+            927,
+            399
+        ],
+        "text": "COLORCLOVERS",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            991,
+            45,
+            1023,
+            119
+        ],
+        "text": "AGH...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1101,
+            702,
+            1140,
+            759
+        ],
+        "text": "-GH...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

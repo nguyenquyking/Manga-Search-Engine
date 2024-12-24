@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            893,
+            680,
+            943,
+            796
+        ],
+        "text": "LIGHT!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1053,
+            3,
+            1110,
+            234
+        ],
+        "text": "OneHoox",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1062,
+            469,
+            1101,
+            880
+        ],
+        "text": "Twitter:BlackCloverTeam",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

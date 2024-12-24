@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            93,
+            43,
+            168,
+            110
+        ],
+        "text": "And clean up this mess.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            274,
+            598,
+            289,
+            642
+        ],
+        "text": "Sure.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            323,
+            717,
+            454
+        ],
+        "text": "They're suffering from chronic heroism.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            864,
+            196,
+            896,
+            318
+        ],
+        "text": "PSSHH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            893,
+            0,
+            1021,
+            124
+        ],
+        "text": "Eri... You've got to stop being so selfish.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

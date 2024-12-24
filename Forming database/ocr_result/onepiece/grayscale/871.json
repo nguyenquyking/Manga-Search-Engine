@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            38,
+            122,
+            114,
+            371
+        ],
+        "text": "RHINO SCHNEIDER!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            62,
+            592,
+            128,
+            725
+        ],
+        "text": "THEY'RE MORE VEXING THAN I IMAGINED!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            103,
+            926,
+            279
+        ],
+        "text": "I AM NOT YOUR PERSONAL SERVANT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            841,
+            353,
+            917,
+            466
+        ],
+        "text": "FIRST THEM, NOW YOU?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            609,
+            929,
+            727
+        ],
+        "text": "TRAFFY, SHOOT ME UP THERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            30,
+            949,
+            73
+        ],
+        "text": "POP!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

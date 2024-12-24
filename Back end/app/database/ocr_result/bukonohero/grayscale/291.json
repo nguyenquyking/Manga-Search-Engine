@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            129,
+            100,
+            202,
+            262
+        ],
+        "text": "...holds data from the battle.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            95,
+            552,
+            167,
+            672
+        ],
+        "text": "Each X-66 we rode in on...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            443,
+            35,
+            528,
+            166
+        ],
+        "text": "Hopefully that data will provide a lead.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            428,
+            559,
+            545
+        ],
+        "text": "...and analyzing every quirk during the fight.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            564,
+            471,
+            679
+        ],
+        "text": "They were recording each bio-signature...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            368,
+            891,
+            463
+        ],
+        "text": "...that monster, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            729,
+            502,
+            835,
+            645
+        ],
+        "text": "No way you folks don't already have people studying...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            192,
+            1067,
+            548
+        ],
+        "text": "CENTRAL HOSPITAL",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

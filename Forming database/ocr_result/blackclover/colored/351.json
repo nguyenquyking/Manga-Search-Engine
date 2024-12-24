@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            91,
+            96,
+            271,
+            227
+        ],
+        "text": "But what's surprising is that he's hardworking, gutsy, and on top of that, he hates to lose.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            111,
+            747,
+            232,
+            817
+        ],
+        "text": "I mean, he is dark-tier...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            22,
+            1086,
+            153
+        ],
+        "text": "Well, then! Will the next ones please go inside?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1166,
+            95,
+            1255,
+            185
+        ],
+        "text": "And carry the fallen people out while you're at it!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1107,
+            563,
+            1166,
+            649
+        ],
+        "text": "Aaand done!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            855,
+            44,
+            960,
+            145
+        ],
+        "text": "I feel the same way... We've only spent a year together...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            218,
+            978,
+            338
+        ],
+        "text": "...It's only by chance I wound up in the same class as the guy, but still!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            875,
+            365,
+            894,
+            412
+        ],
+        "text": "Well...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            448,
+            978,
+            530
+        ],
+        "text": "M-mind if we borrow this, sir?! Cuz...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            28,
+            1075,
+            80
+        ],
+        "text": "...But that's plenty.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

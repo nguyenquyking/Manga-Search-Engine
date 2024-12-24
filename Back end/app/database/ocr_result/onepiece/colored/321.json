@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            43,
+            185,
+            192,
+            426
+        ],
+        "text": "BLACK-LEG KNEW I WAS HUNTING FOR YOU, AND HE HELPED LURE YOU RIGHT INTO MY TRAP!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            884,
+            205,
+            1036
+        ],
+        "text": "DON'T YOU GET IT YET, NICO ROBIN?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            289,
+            864,
+            455,
+            1039
+        ],
+        "text": "IT'S OBVIOUS TO ANYONE WITH A BRAIN THAT YOU'VE BEEN SOLD OUT BY YOUR FRIENDS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            597,
+            879,
+            776,
+            1031
+        ],
+        "text": "ICE BURN!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            999,
+            58,
+            1147,
+            216
+        ],
+        "text": "THAT'S WHY HE WAS SO EAGER TO GUIDE YOU TO ME!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1010,
+            540,
+            1144,
+            721
+        ],
+        "text": "THE TARGET OF FIGURES BIGGER AND MORE POWERFUL THAN YOU!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            999,
+            912,
+            1142,
+            1022
+        ],
+        "text": "YOU'RE JUST THE BAGGAGE OF YOUR CREW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            407,
+            89,
+            478,
+            247
+        ],
+        "text": "SOUL PARADE...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

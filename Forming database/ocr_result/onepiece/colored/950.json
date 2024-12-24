@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            110,
+            116,
+            171,
+            218
+        ],
+        "text": "You don't want these borders...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            212,
+            70,
+            288,
+            154
+        ],
+        "text": "...to be opened up either, do you?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            500,
+            127,
+            578
+        ],
+        "text": "Gu hu hu hu...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            134,
+            627,
+            194,
+            708
+        ],
+        "text": "Orochi's Castle,\nFlower Capital",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            423,
+            42,
+            484,
+            149
+        ],
+        "text": "But after the loss of Doflamingo...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            193,
+            487,
+            289
+        ],
+        "text": "It's all a big joke, isn't it?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            391,
+            468,
+            459
+        ],
+        "text": "Gu hu hu hu...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            412,
+            488,
+            487,
+            605
+        ],
+        "text": "...to buy the weapons you needed to fight pirates.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            624,
+            498,
+            728
+        ],
+        "text": "After all, you were desperate enough to go to a pirate...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            570,
+            43,
+            654,
+            148
+        ],
+        "text": "...the arms broker known as \"Joker\"...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            244,
+            872,
+            378
+        ],
+        "text": "I know you're in a weak position...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            244,
+            915,
+            386
+        ],
+        "text": "and I can ask for the stars!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            837,
+            613,
+            903,
+            730
+        ],
+        "text": "You lost that veil of anonymity...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            597,
+            1102,
+            716
+        ],
+        "text": "...and now you have no choice but to deal with us directly...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            43,
+            1130,
+            158
+        ],
+        "text": "But, Your Majesty... we simply can't fulfill this request!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

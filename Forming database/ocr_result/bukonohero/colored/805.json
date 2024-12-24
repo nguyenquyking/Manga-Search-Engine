@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            121,
+            300,
+            272,
+            422
+        ],
+        "text": "I'M TOO LATE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            71,
+            564,
+            150
+        ],
+        "text": "That was you guys, right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            203,
+            547,
+            284
+        ],
+        "text": "What really happened over in Deika?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            546,
+            355,
+            622,
+            414
+        ],
+        "text": "This explains why he let me in so easily...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            785,
+            62,
+            894,
+            167
+        ],
+        "text": "...All those good little citizens wouldn't have had to die...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            317,
+            881,
+            408
+        ],
+        "text": "If only someone had taken down the League sooner...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1082,
+            367,
+            1100,
+            411
+        ],
+        "text": "Hah!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

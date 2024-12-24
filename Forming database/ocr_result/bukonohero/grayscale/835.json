@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            140,
+            163,
+            222,
+            247
+        ],
+        "text": "Many had eagerly signed up for the cause...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            169,
+            527,
+            294,
+            659
+        ],
+        "text": "This was the trigger that convinced numerous heroes to abandon their careers.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            238,
+            78,
+            352,
+            178
+        ],
+        "text": "...When a peaceful society was the baseline assumption, but now...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            464,
+            83,
+            537,
+            252
+        ],
+        "text": "...was being put to the test.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            460,
+            491,
+            579,
+            669
+        ],
+        "text": "...for better or worse, the meaning of the word \"hero\"...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

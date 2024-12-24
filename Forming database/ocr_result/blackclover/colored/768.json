@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            147,
+            95,
+            296,
+            204
+        ],
+        "text": "...and showed a talent for it.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            157,
+            552,
+            369,
+            671
+        ],
+        "text": "Meanwhile, I threw myself into the study of devils...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            132,
+            1171,
+            315,
+            1292
+        ],
+        "text": "In the Magic Knights, Morgen and Yami...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            310,
+            742,
+            525,
+            867
+        ],
+        "text": "...became a dynamic duo of light and dark.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            972,
+            390,
+            1136,
+            524
+        ],
+        "text": "You are a genius, Nacht!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            877,
+            1165,
+            1056,
+            1318
+        ],
+        "text": "To think you'd contract with four devils so quickly...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1071,
+            1006,
+            1218,
+            1144
+        ],
+        "text": "...and master their power so well!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1652,
+            124,
+            1858,
+            301
+        ],
+        "text": "...to contract with this devil as well!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1644,
+            1108,
+            1852,
+            1229
+        ],
+        "text": "You just might be able...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

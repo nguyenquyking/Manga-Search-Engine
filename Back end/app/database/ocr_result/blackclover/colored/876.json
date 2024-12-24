@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            786,
+            463,
+            692,
+            713
+        ],
+        "text": "FUAAASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1630,
+            207,
+            2138,
+            616
+        ],
+        "text": "...are absolutely going to take you down!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1576,
+            2258,
+            1753,
+            2492
+        ],
+        "text": "NO,\nWE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            3268,
+            212,
+            3772,
+            476
+        ],
+        "text": "But Undine served Queen Lolo-Pechka! Why is she...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            3612,
+            1095,
+            3670,
+            1189
+        ],
+        "text": "i...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            3469,
+            1410,
+            3670,
+            1596
+        ],
+        "text": "I knew it!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2953,
+            2393,
+            3022,
+            2570
+        ],
+        "text": "AHA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

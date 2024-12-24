@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            141,
+            39,
+            247,
+            114
+        ],
+        "text": "You're just like your captain. You make foolish choices.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            277,
+            174,
+            383
+        ],
+        "text": "Did pity turn your head? Accompanying someone who lost before is sheer folly.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            373,
+            31,
+            445,
+            118
+        ],
+        "text": "Because you have those things...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            311,
+            441,
+            385
+        ],
+        "text": "Trivial pride and dreams.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            337,
+            431,
+            419,
+            520
+        ],
+        "text": "A spell this huge, without even moving?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            289,
+            594,
+            476,
+            716
+        ],
+        "text": "If a mage is inside the space of a spell, they can't even maintain their magic!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            51,
+            926,
+            137
+        ],
+        "text": "...A single step.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            672,
+            592,
+            807,
+            678
+        ],
+        "text": "...You'll die without even having made me take...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

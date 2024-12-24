@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            429,
+            72,
+            534,
+            180
+        ],
+        "text": "...The King of Hell!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            703,
+            481,
+            835
+        ],
+        "text": "I'll become...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            72,
+            685,
+            146
+        ],
+        "text": "Pant... Pant...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1167,
+            95,
+            1224,
+            177
+        ],
+        "text": "Victor:\nZoro",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1172,
+            477,
+            1263,
+            581
+        ],
+        "text": "Battle\noutside the\nRight Brain\nTower...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

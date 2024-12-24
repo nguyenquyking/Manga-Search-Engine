@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            140,
+            28,
+            212,
+            127
+        ],
+        "text": "NO WAY, FOOL! I OUTPACED",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            604,
+            198,
+            691
+        ],
+        "text": "I BEAT YOU!! I GOT ONE MORE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            570,
+            523,
+            693
+        ],
+        "text": "HOW MANY TIMES DO YOU HAVE TO MAKE THAT TRIP TO GET THIS",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            57,
+            760,
+            192
+        ],
+        "text": "ARE YOU THAT STUPID OF A MONKEY THAT YOU CAN'T EVEN COUNT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            572,
+            748,
+            699
+        ],
+        "text": "NUH-UH, NO YOU DIDN'T, JAGGY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            19,
+            920,
+            104
+        ],
+        "text": "WHAT ARE YOU, THEIR MOM?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            268,
+            924,
+            344
+        ],
+        "text": "HEY! SLOW DOWN AND CHEW YOUR FOOD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            376,
+            950,
+            445
+        ],
+        "text": "HOW DO THEIR BODIES EVEN WORK?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            597,
+            928,
+            703
+        ],
+        "text": "I THOUGHT THEY WERE BOTH HEAVILY INJURED...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            233,
+            1093,
+            336
+        ],
+        "text": "RAAAHH!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1044,
+            367,
+            1119,
+            513
+        ],
+        "text": "HOW ARE WE SUPPOSED TO BREAK THEIR SPIRITS LIKE THIS?! GO ON, SAY",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            578,
+            1105,
+            701
+        ],
+        "text": "AFTER A FEW DAYS OF WORKING, EATING AND SLEEPING... THEY SEEM TO BE THE PICTURE OF HEALTH NOW.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

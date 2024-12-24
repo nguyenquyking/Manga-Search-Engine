@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            59,
+            14,
+            143,
+            97
+        ],
+        "text": "Was he really run through with a giant sword?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            56,
+            285,
+            87,
+            316
+        ],
+        "text": "This is...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            435,
+            143,
+            557
+        ],
+        "text": "Give Gauche a proper look too.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            312,
+            8,
+            427,
+            95
+        ],
+        "text": "His very tissue has been reassembled!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            340,
+            267,
+            405,
+            335
+        ],
+        "text": "This is beyond \"recovery.\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            614,
+            529,
+            696,
+            600
+        ],
+        "text": "The true nature of your magic...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            684,
+            204,
+            746,
+            292
+        ],
+        "text": "...may not be transformation.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            3,
+            931,
+            105
+        ],
+        "text": "@TheMarilus\n@colorclovers",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            68,
+            32,
+            159,
+            136
+        ],
+        "text": "Whoa! You called, Nami?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            204,
+            46,
+            286,
+            129
+        ],
+        "text": "I'll give you a weather egg.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            321,
+            82,
+            349,
+            167
+        ],
+        "text": "Really?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            409,
+            140,
+            464
+        ],
+        "text": "Bwoooof!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            84,
+            605,
+            120,
+            701
+        ],
+        "text": "Zeus",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            121,
+            633,
+            164,
+            666
+        ],
+        "text": "!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            402,
+            447,
+            551
+        ],
+        "text": "Stomp stomp stomp!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            501,
+            15,
+            567,
+            82
+        ],
+        "text": "Sally Forth!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            615,
+            193,
+            661,
+            267
+        ],
+        "text": "Oh no, they figured me out!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            175,
+            759,
+            278
+        ],
+        "text": "Well, I suppose that's enough of this.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            490,
+            612,
+            602,
+            693
+        ],
+        "text": "Hmm?! Wait, this spirit isn't actually attacking us!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            646,
+            584,
+            746,
+            701
+        ],
+        "text": "This is no time to be on the run from vengeful ghosts!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            86,
+            874,
+            135
+        ],
+        "text": "FLASH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            837,
+            257,
+            930,
+            389
+        ],
+        "text": "Seize the intruders!! Purge the yokai!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            837,
+            616,
+            921,
+            700
+        ],
+        "text": "Sally Forth!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            958,
+            604,
+            1096,
+            696
+        ],
+        "text": "An incident unfolds in the feast hall!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1014,
+            17,
+            1038,
+            81
+        ],
+        "text": "Hmm?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            264,
+            1146,
+            354
+        ],
+        "text": "Stop Shogun Orochi's rampage!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

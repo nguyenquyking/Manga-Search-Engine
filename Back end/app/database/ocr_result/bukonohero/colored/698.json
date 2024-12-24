@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            112,
+            58,
+            151,
+            406
+        ],
+        "text": "MY HERO\nACADEMIA",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            186,
+            92,
+            215,
+            347
+        ],
+        "text": "NO. 269 - THE THREE OF US",
+        "panel_id": "1",
+        "type": "chapter_title"
+    },
+    {
+        "text_box": [
+            232,
+            96,
+            261,
+            288
+        ],
+        "text": "BY KOHEI HORIKOSHI",
+        "panel_id": "1",
+        "type": "author"
+    },
+    {
+        "text_box": [
+            273,
+            96,
+            297,
+            490
+        ],
+        "text": "TRANSLATION: CALEB COOK  LETTERING: JOHN HUNT",
+        "panel_id": "1",
+        "type": "credits"
+    },
+    {
+        "text_box": [
+            303,
+            96,
+            321,
+            257
+        ],
+        "text": "Colorist: HEXAMENDLE\u00a9",
+        "panel_id": "1",
+        "type": "credits"
+    },
+    {
+        "text_box": [
+            820,
+            58,
+            826,
+            143
+        ],
+        "text": "SPLUT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            582,
+            464,
+            682,
+            781
+        ],
+        "text": "HFF\nAH...\nHUFF!\nHFF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1038,
+            869,
+            1021,
+            941
+        ],
+        "text": "SPLUT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1158,
+            494,
+            1233,
+            565
+        ],
+        "text": "HE'S\nSTILL\nBACK\nTHERE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1170,
+            825,
+            1263,
+            958
+        ],
+        "text": "I'M\nCAUTERIZING\nYOUR\nWOUNDS!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1326,
+            51,
+            1461,
+            263
+        ],
+        "text": "IT'S BEEN ALMOST FIVE\nWHOLE MINUTES SINCE\nSHE CONTACTED US\nFROM HERE... WAS SHE\nFACING MULTIPLE\nNOMU? ALL\nALONE?",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1350,
+            642,
+            1443,
+            705
+        ],
+        "text": "GET\nREADY!\nTHIS IS\nGONNA\nHURT.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1413,
+            904,
+            1435,
+            955
+        ],
+        "text": "FWP",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            276,
+            298,
+            383,
+            411
+        ],
+        "text": "YOU HAD USED YOUR OWN POWERS TO SURVIVE THE EXPLOSION.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            915,
+            85,
+            954,
+            163
+        ],
+        "text": "NOT STRONG",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            369,
+            990,
+            447
+        ],
+        "text": "OVER THIS PAST HALF-YEAR,\nYOU'VE GROWN STRONG.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            468,
+            1036,
+            555
+        ],
+        "text": "IT'S INCREDIBLE\nTHAT YOU\nFACED SUCH\nA POWERFUL\nENEMY AND\nWEREN'T\nANNIHILATED.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            806,
+            615,
+            905,
+            696
+        ],
+        "text": "THANKS TO YOU,\nTHE HEART KINGDOM'S\nCITIZENS\nWERE ALSO\nSPARED.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

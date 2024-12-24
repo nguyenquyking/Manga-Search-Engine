@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            1068,
+            4,
+            1090,
+            290
+        ],
+        "text": "HEXAMENDLEY",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1226,
+            659,
+            1257,
+            878
+        ],
+        "text": "GAHHHHHH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

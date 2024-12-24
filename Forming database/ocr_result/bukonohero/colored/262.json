@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            128,
+            120,
+            216,
+            236
+        ],
+        "text": "...been waiting so damn long for this.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            111,
+            276,
+            133,
+            341
+        ],
+        "text": "I've...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            115,
+            778,
+            204,
+            892
+        ],
+        "text": "Can't wait to see his pathetic mug.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            124,
+            477,
+            199
+        ],
+        "text": "And Shoto.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            439,
+            493,
+            516
+        ],
+        "text": "Fuyumi.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            611,
+            538,
+            666
+        ],
+        "text": "Mom.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            538,
+            282,
+            558,
+            356
+        ],
+        "text": "Natsu.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            775,
+            467,
+            880
+        ],
+        "text": "Enji Todoroki.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            754,
+            865,
+            851
+        ],
+        "text": "Take a real good look at me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            153,
+            1107,
+            268
+        ],
+        "text": "In the depths of hell.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

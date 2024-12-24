@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            155,
+            541,
+            194,
+            638
+        ],
+        "text": "IZUKU MIDORIYA...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            176,
+            692,
+            183,
+            730
+        ],
+        "text": "ZRM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            193,
+            233,
+            262,
+            332
+        ],
+        "text": "The Soul...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            272,
+            505,
+            330,
+            590
+        ],
+        "text": "You're the real deal-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            70,
+            453,
+            185
+        ],
+        "text": "...is far too fickle.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            990,
+            61,
+            1124,
+            321
+        ],
+        "text": "Which is why... I added a failure clause to your contract.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

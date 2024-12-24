@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            75,
+            114,
+            94,
+            281
+        ],
+        "text": "TAKEYAMAAA!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            101,
+            530,
+            165,
+            924
+        ],
+        "text": "KRAK\nSNAP\nTHOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            450,
+            346,
+            530,
+            427
+        ],
+        "text": "THEY\nMUST'VE\nFAILED\nIN JAKU!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            469,
+            169,
+            608,
+            317
+        ],
+        "text": "AND IF THIS GUY\nDESCENDS UPON\nTHE CITY, WE'RE\nLOOKING AT AN\nUNPRECEDENTED\nCATASTROPHE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            526,
+            78,
+            625,
+            143
+        ],
+        "text": "POWER\nALONE\nWON'T\nSTOP\nHIM!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            485,
+            819,
+            563,
+            947
+        ],
+        "text": "STAY\nFOCUSED\n!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            841,
+            250,
+            900,
+            392
+        ],
+        "text": "SO\nGET ME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1242,
+            319,
+            1293,
+            468
+        ],
+        "text": "...NEAR HIS\nFACE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1285,
+            182,
+            1290,
+            251
+        ],
+        "text": "ZOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

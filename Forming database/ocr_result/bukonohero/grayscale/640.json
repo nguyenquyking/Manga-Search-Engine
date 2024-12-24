@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            202,
+            600,
+            280,
+            669
+        ],
+        "text": "YOU GOT SOME NERVE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            435,
+            732,
+            493
+        ],
+        "text": "RMMMBLL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            973,
+            607,
+            1088,
+            731
+        ],
+        "text": "HIDE IN THE SMOKE ALL YOU LIKE...\nYOU WON'T GET AWAY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

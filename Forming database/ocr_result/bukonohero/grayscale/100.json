@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            229,
+            130,
+            234,
+            165
+        ],
+        "text": "BWF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1033,
+            304,
+            1057,
+            435
+        ],
+        "text": "BWAaaah!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            981,
+            47,
+            1069,
+            149
+        ],
+        "text": "BIG FISH!\nTHESE GUYS\nGOT MAJOR\nUPGRADES\nSINCE JAKU!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            628,
+            803,
+            693
+        ],
+        "text": "AHH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

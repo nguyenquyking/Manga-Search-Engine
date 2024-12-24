@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            75,
+            39,
+            207,
+            138
+        ],
+        "text": "IT KEEPS MOST PHYSICAL ATTACKS FROM GETTING THROUGH!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            114,
+            324,
+            169,
+            417
+        ],
+        "text": "I SEE... A FOOLISH ENDEAVOR.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            101,
+            636,
+            203,
+            740
+        ],
+        "text": "OVERWHELMING HARDNESS AND REGENERATION SPEED!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            604,
+            19,
+            720,
+            111
+        ],
+        "text": "...YOU WOULD HAVE SURVIVED A LITTLE LONGER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            599,
+            630,
+            720,
+            709
+        ],
+        "text": "IF YOU'D STAYED QUIETLY AT HOME...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            937,
+            81,
+            1065,
+            162
+        ],
+        "text": "...YOU WENT ON QUITE A SPREE WHILE I WAS AWAY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            637,
+            1017,
+            686
+        ],
+        "text": "THEY TELL ME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            156,
+            150,
+            170,
+            194
+        ],
+        "text": "BENG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            186,
+            563,
+            265,
+            666
+        ],
+        "text": "GRRR!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            352,
+            581,
+            376,
+            699
+        ],
+        "text": "ONIMARU?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            538,
+            30,
+            679,
+            148
+        ],
+        "text": "It was the companion to the deceased Daimyo of Ringo, Shimotsuki Ushimaru.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            544,
+            583,
+            656,
+            684
+        ],
+        "text": "This Koma Fox went by the name of Onimaru.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            835,
+            35,
+            858,
+            104
+        ],
+        "text": ".....!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            827,
+            394,
+            888,
+            491
+        ],
+        "text": "SWOOSH...\u307e\u3059\u3044...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            847,
+            274,
+            896,
+            367
+        ],
+        "text": "ONIMARU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            841,
+            551,
+            912,
+            666
+        ],
+        "text": "I have met you once before.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            186,
+            873,
+            242
+        ],
+        "text": "THUMP!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

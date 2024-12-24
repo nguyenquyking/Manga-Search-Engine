@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            174,
+            128,
+            300,
+            234
+        ],
+        "text": "IT WAS NO MORE THAN MY DUTY AS A SPIRIT GUARDIAN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            189,
+            335,
+            268,
+            473
+        ],
+        "text": "Please stop. BOW",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            128,
+            571,
+            268,
+            704
+        ],
+        "text": "ALL THAT FOR SOMEBODY LIKE ME\u2014I'M SORRY! I'M SORRY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            273,
+            800,
+            365,
+            986
+        ],
+        "text": "CAPTAIN CHAR-LOOOOTE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            237,
+            1179,
+            264,
+            1318
+        ],
+        "text": "GAJA...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            577,
+            783,
+            573,
+            861
+        ],
+        "text": "Thank goodness!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            513,
+            831,
+            633
+        ],
+        "text": "DON'T YOU PEOPLE HAVE ANYTHING ELSE TO SAY?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            763,
+            1022,
+            959
+        ],
+        "text": "MIMOSA, THAT WAS WAY TOO COOL!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1390,
+            649,
+            1537,
+            776
+        ],
+        "text": "I LOVE YOU.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

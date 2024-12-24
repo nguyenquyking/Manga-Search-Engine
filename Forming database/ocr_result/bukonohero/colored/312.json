@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            125,
+            675,
+            311,
+            874
+        ],
+        "text": "EACH ONE'S GOTTA BE JUST AS STRONG AS THE NOMU IN KYUSHU!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            842,
+            92,
+            1014,
+            307
+        ],
+        "text": "YOU DON'T WANNA GET TAGGED BY THESE GUYS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            621,
+            1068,
+            753
+        ],
+        "text": "YOU'RE IN NO STATE TO TAKE A HIT FROM THESE THINGS!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            775,
+            1144,
+            897
+        ],
+        "text": "GREAT EXPLOSION MURDER GOD DYNAMIGHT! YOU MUST RETREAT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1134,
+            16,
+            1206,
+            110
+        ],
+        "text": "...TOWARD THE LEAGUE OF VILLAINS!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1140,
+            222,
+            1287,
+            337
+        ],
+        "text": "AT LAST I CAN REDIRECT THE RESOURCES SPENT ON RESTRAINING THE GIANT...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1180,
+            503,
+            1197,
+            577
+        ],
+        "text": "ANYHOW",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1296,
+            371,
+            1400,
+            473
+        ],
+        "text": "...JUST GOTTA KEEP DODGING SO JEANIST IS OFF THEIR RADAR!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1220,
+            687,
+            1345,
+            784
+        ],
+        "text": "CRAP! THERE AIN'T A SNAPPY COMEBACK, 'CAUSE HE'S RIGHT.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1290,
+            823,
+            1320,
+            897
+        ],
+        "text": "GAH!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1350,
+            667,
+            1416,
+            824
+        ],
+        "text": "BOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

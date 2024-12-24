@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            1018,
+            2296,
+            1034,
+            2434
+        ],
+        "text": "FUOOOH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1118,
+            686,
+            1127,
+            801
+        ],
+        "text": "FUOOOH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1585,
+            1361,
+            1681,
+            1548
+        ],
+        "text": "!MODO: EQUUS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1673,
+            337,
+            1698,
+            445
+        ],
+        "text": "FUOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1772,
+            2265,
+            1749,
+            2350
+        ],
+        "text": "FUOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1809,
+            1520,
+            1879,
+            1492
+        ],
+        "text": "FUAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

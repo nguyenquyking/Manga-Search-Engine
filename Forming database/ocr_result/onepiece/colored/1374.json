@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            103,
+            64,
+            193,
+            209
+        ],
+        "text": "CHOOSE YOUR OWN FATE!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            570,
+            216,
+            741
+        ],
+        "text": "WHAT'S THE CALL, YOU TRASH-MONGERS?! WILL YOU DIE, OR WILL YOU FIGHT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            770,
+            84,
+            830,
+            219
+        ],
+        "text": "IT COULD BE YOURS!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            688,
+            613,
+            817,
+            725
+        ],
+        "text": "IS BEING THE HERO SOMEONE ELSE'S JOB?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            919,
+            57,
+            990,
+            194
+        ],
+        "text": "LIND, KARASU! PROVIDE BACKUP!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            925,
+            334,
+            991,
+            460
+        ],
+        "text": "YOU MAKE ME LAUGH!! ARE YOU ACTUALLY",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1082,
+            57,
+            1126,
+            129
+        ],
+        "text": "YOU GOT IT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            625,
+            1014,
+            735
+        ],
+        "text": "THE TOWNSFOLK PICKED UP STICKS!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            67,
+            493,
+            100,
+            616
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            109,
+            509,
+            156,
+            603
+        ],
+        "text": "BUY ME THREE MINUTES!!\n@notrot3\n@ritoxriot",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            350,
+            235,
+            504,
+            361
+        ],
+        "text": "WE'VE GOT A SPELL THAT CAN BEAT THE ENEMY. HE NEEDS TIME TO STORE UP MANA, THOUGH.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            683,
+            27,
+            766,
+            128
+        ],
+        "text": "HE CAN'T FIRE IT WHILE HE'S ON THE DEFENSIVE!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            883,
+            23,
+            949,
+            107
+        ],
+        "text": "IN ORDER TO TAKE THIS GUY DOWN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            897,
+            504,
+            1017,
+            612
+        ],
+        "text": "I'LL FINISH HIM WITH MY NEXT ATTACK.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

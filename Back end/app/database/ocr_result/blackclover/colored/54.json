@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            403,
+            35,
+            932,
+            401
+        ],
+        "text": "YOU SLEAZY BLACK BASTARD!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            764,
+            685,
+            892
+        ],
+        "text": "LET'S GOOOOOOOO!!!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            247,
+            1081,
+            390
+        ],
+        "text": "Anti-magic, eh? 'Tis more troublesome than I had thought...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1125,
+            378,
+            1264,
+            505
+        ],
+        "text": "You were a fun little toy while it lasted, but I have no use for you now...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            760,
+            1248,
+            889
+        ],
+        "text": "Well, well! So you managed to undo the Dark Elf transformation...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

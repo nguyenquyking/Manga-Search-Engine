@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            88,
+            80,
+            157,
+            223
+        ],
+        "text": "It's incredibly purr-turbing...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            201,
+            563,
+            233,
+            669
+        ],
+        "text": "PUSSYCATS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            559,
+            90,
+            679,
+            268
+        ],
+        "text": "If only I still had my search quirk, I could be helping everyone.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            924,
+            271,
+            1034,
+            394
+        ],
+        "text": "You kids evacuate with the remaining heroes!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            35,
+            1097,
+            203
+        ],
+        "text": "Listen to the authorities!! We gotta get farther away!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            762,
+            998,
+            884
+        ],
+        "text": "Burnin'! Wait!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1310,
+            127,
+            1348,
+            706
+        ],
+        "text": "TOMP TOMP TOMP TOMP TOMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

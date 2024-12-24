@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            32,
+            110,
+            164,
+            326
+        ],
+        "text": "DASH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            298,
+            110,
+            371,
+            218
+        ],
+        "text": "DAMMIT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            154,
+            684,
+            285
+        ],
+        "text": "AFTER THEM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            357,
+            708,
+            565
+        ],
+        "text": "GYA HA HA!\nHEY, THEY'RE\nRUNNIN'\nFOR IT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            1118,
+            756,
+            1353
+        ],
+        "text": "NO CHOICE!!\nJUST HAVE\nTO GET\nAWAY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1524,
+            139,
+            1697,
+            254
+        ],
+        "text": "THEIR\nSKILL\nRUNS\nDEEP!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1527,
+            408,
+            1702,
+            653
+        ],
+        "text": "IT'S NOT JUST\nTHAT THEY\nOUTNUMBER\nUS!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1527,
+            722,
+            1699,
+            996
+        ],
+        "text": "...WE WON'T\nLAST TO\nACTUALLY FIGHT\nKAIDO!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1527,
+            1090,
+            1652,
+            1365
+        ],
+        "text": "IF WE TAKE TOO\nMUCH DAMAGE\nHERE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

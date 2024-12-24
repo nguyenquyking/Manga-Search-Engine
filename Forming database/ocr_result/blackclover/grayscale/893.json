@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            62,
+            29,
+            348,
+            160
+        ],
+        "text": "She'd never be able to reach Saint Stage and be able to destroy devils that way.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            27,
+            360,
+            140,
+            465
+        ],
+        "text": "The best she could do was make knight \"dolls\".",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            358,
+            258,
+            452,
+            385
+        ],
+        "text": "...and use spells that only looked like attacks.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            518,
+            282,
+            709
+        ],
+        "text": "Lolopechka wasn't able to learn a single attack spell.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            624,
+            30,
+            724,
+            105
+        ],
+        "text": "Not being able to learn attack spells...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            755,
+            96,
+            841,
+            194
+        ],
+        "text": "I'm a failure as a princess, aren't I?\nDweh heh heh...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            945,
+            48,
+            1017,
+            134
+        ],
+        "text": "That's not true, Lolopechka.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            511,
+            585,
+            590,
+            718
+        ],
+        "text": "That girl...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            899,
+            352,
+            1063,
+            467
+        ],
+        "text": "...is far too kind.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

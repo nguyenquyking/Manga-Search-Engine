@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            50,
+            56,
+            122,
+            193
+        ],
+        "text": "SOME VIBRATION JARRED THE SEA PRISM STONE NAIL LOOSE!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            40,
+            224,
+            108,
+            273
+        ],
+        "text": "IT... IT'S OUT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            304,
+            66,
+            358
+        ],
+        "text": "THERE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            634,
+            106,
+            708
+        ],
+        "text": "TREASURE REPOSITORY, 2ND FLOOR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            367,
+            180,
+            433,
+            325
+        ],
+        "text": "I'M TAKING YOUR PRECIOUS DAUGHTER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            433,
+            443,
+            566
+        ],
+        "text": "ARE YOU WATCHING, ODEN?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            599,
+            599,
+            681,
+            731
+        ],
+        "text": "AT THE VERY LEAST... I CAN TAKE YOU DOWN WITH ME!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            61,
+            858,
+            191
+        ],
+        "text": "WHAA- AAAAAAA- AAA?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            257,
+            800,
+            326
+        ],
+        "text": "HUH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            576,
+            835,
+            679
+        ],
+        "text": "HEY!! MOMO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1062,
+            259,
+            1110,
+            325
+        ],
+        "text": "LUFFY...?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1091,
+            398,
+            1128,
+            460
+        ],
+        "text": "GRRRGG...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

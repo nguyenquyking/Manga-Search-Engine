@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            56,
+            98,
+            117,
+            223
+        ],
+        "text": "We did honest work, and that's that!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            300,
+            132,
+            464
+        ],
+        "text": "Hey, we're weaklings now. Our power's been drained by this seastone.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            513,
+            129,
+            623
+        ],
+        "text": "You have no right to fight back!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            654,
+            130,
+            727
+        ],
+        "text": "That's correct!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            57,
+            452,
+            220
+        ],
+        "text": "Poor fools... The inside of the hippo's mouth is Master Dobon's chamber of slaughter...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            384,
+            605,
+            490,
+            727
+        ],
+        "text": "You're guilty of eating my food!! And now you must learn--",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            281,
+            710,
+            374
+        ],
+        "text": "Aaah!! They got eaten!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            188,
+            816,
+            594
+        ],
+        "text": "WHAM!! CRAK!! HIPPOOO!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1088,
+            36,
+            1152,
+            164
+        ],
+        "text": "THUD!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

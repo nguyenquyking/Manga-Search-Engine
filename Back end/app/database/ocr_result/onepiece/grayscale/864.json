@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            117,
+            146,
+            194,
+            238
+        ],
+        "text": "DEMOLITION GUST!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            161,
+            595,
+            190,
+            705
+        ],
+        "text": "GRRRMMM...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            401,
+            634,
+            499,
+            729
+        ],
+        "text": "HAH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            607,
+            96,
+            618,
+            147
+        ],
+        "text": "POP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            988,
+            669,
+            1025,
+            751
+        ],
+        "text": "KID!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

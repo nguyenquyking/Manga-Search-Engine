@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            79,
+            135,
+            109,
+            186
+        ],
+        "text": "...Sushi\nIt is.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            275,
+            175,
+            344
+        ],
+        "text": "It's\nhard to\nchoose,\nbut...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            414,
+            607,
+            432,
+            694
+        ],
+        "text": "Which one,\nthough?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            176,
+            83,
+            243,
+            163
+        ],
+        "text": "Wait, no.\nEel is too\nhard to\npass up.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            46,
+            471,
+            174
+        ],
+        "text": "Don't forget\nwe can't let on\nthat we're here\nillegally.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            683,
+            53,
+            732,
+            153
+        ],
+        "text": "Best to pick\nsomething\nthat'll help",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            53,
+            1055,
+            149
+        ],
+        "text": "Hn? Ooh!\nSomething\nsmells\ngood.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            794,
+            376,
+            962,
+            480
+        ],
+        "text": "Excuse me?!\nAre you\nimplying\nmy dishes\ncould\npossibly\nlose out\nto some\ntown\ncook's?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            579,
+            1078,
+            678
+        ],
+        "text": "Something\nthat won't\nhave too\nmuch local\ncompetition\neither.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

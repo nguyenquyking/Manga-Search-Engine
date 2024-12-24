@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            26,
+            23,
+            18,
+            207
+        ],
+        "text": "Struggles to win...!?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            113,
+            581,
+            135,
+            848
+        ],
+        "text": "Page 207: The Ultimate Magic",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            484,
+            155,
+            600,
+            456
+        ],
+        "text": "Twitter: ColorClover",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            714,
+            475,
+            786,
+            593
+        ],
+        "text": "\"Storm of Swords!\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            778,
+            840,
+            909
+        ],
+        "text": "Since it can integrate anything it touches, but...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            606,
+            1146,
+            691
+        ],
+        "text": "\"Get Back!\"",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1103,
+            29,
+            1278,
+            123
+        ],
+        "text": "Looks like it won't be enough with just one weapon...",
+        "panel_id": "4",
+        "type": "thought"
+    }
+]

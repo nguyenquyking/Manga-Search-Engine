@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            385,
+            114,
+            443,
+            211
+        ],
+        "text": "That's a lotta burning...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            603,
+            71,
+            746,
+            183
+        ],
+        "text": "Plus, even if he wants to say adios to this world, his position won't allow it.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            580,
+            203,
+            705,
+            292
+        ],
+        "text": "I know dear old dad ain't gonna die. He's tougher than that.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            365,
+            863,
+            435
+        ],
+        "text": "Can't feel a thing, though.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            113,
+            1084,
+            233
+        ],
+        "text": "He'll have to make some kinda public statement pretty soon too.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            65,
+            72,
+            148,
+            184
+        ],
+        "text": "BUT I CAN'T GET A HOLD OF HER EITHER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            236,
+            152,
+            319
+        ],
+        "text": "I BET MOMO'S WITH SHINOBU-CHAN,",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            55,
+            379,
+            163,
+            525
+        ],
+        "text": "LAST UPDATE I GOT WAS WHAT MOMONOSUKE SAID EARLIER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            572,
+            133,
+            664
+        ],
+        "text": "NO IDEA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            748,
+            156,
+            823
+        ],
+        "text": "RIGHT-BRAIN TOWER",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            487,
+            80,
+            595,
+            190
+        ],
+        "text": "BUT A BUNCH OF ENEMIES KEEP TRYING TO STORM THE LIVE FLOOR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            505,
+            223,
+            566,
+            343
+        ],
+        "text": "I'M NOT SURE WHAT'S GOING ON,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            473,
+            379,
+            573,
+            494
+        ],
+        "text": "IF YOU'RE DONE UPSTAIRS, MEET ME DOWN HERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            567,
+            553,
+            640
+        ],
+        "text": "HOW CAN YOU SAY THAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            497,
+            703,
+            562,
+            832
+        ],
+        "text": "NO NEWS IS PROBABLY GOOD NEWS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            59,
+            702,
+            138
+        ],
+        "text": "RUN!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            902,
+            197,
+            988,
+            328
+        ],
+        "text": "YOU CAN'T START GIVING US ORDERS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            895,
+            389,
+            982,
+            496
+        ],
+        "text": "WE'RE IN AN EQUAL ALLIANCE, HI-YAH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            550,
+            999,
+            689
+        ],
+        "text": "ZORO AND SANJI ARE BUSY TAKIN' ON THE ALL-STARS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            720,
+            991,
+            836
+        ],
+        "text": "DON'T LET THEM THROUGH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

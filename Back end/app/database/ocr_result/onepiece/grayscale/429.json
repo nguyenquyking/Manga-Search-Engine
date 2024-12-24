@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            82,
+            59,
+            180,
+            159
+        ],
+        "text": "HIS STRAW-MAN!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            261,
+            120,
+            456
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            241,
+            1351,
+            346,
+            1467
+        ],
+        "text": "IT MEANS I CAN FINALLY END YOUR MISERABLE LIFE MYSELF!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            443,
+            1309,
+            472,
+            1370
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            728,
+            1276,
+            793,
+            1459
+        ],
+        "text": "BEHEADING CLAWS!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            609,
+            119,
+            657,
+            191
+        ],
+        "text": "THE TOWER.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            622,
+            263,
+            747,
+            357
+        ],
+        "text": "SHOW ME THE ENDING OF THIS FIGHT!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            609,
+            392,
+            708,
+            498
+        ],
+        "text": "THAT STRAWMAN WILL NOT PERISH...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            993,
+            399,
+            1085,
+            528
+        ],
+        "text": "IT WILL COME BACK TO LIFE, AS THE CARDS DICTATE!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            780,
+            595,
+            870,
+            736
+        ],
+        "text": "GYIEEE!!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            81,
+            1345,
+            172,
+            1484
+        ],
+        "text": "THE CARD OF DESTRUCTION!!!",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

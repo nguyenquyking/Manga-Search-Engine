@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            79,
+            31,
+            168,
+            98
+        ],
+        "text": "You mustn't say that!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            337,
+            218,
+            422
+        ],
+        "text": "Mmm! Mmm! No, you can't!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            272,
+            343,
+            340,
+            414
+        ],
+        "text": "Please, Luffy-Taro!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            313,
+            814,
+            361,
+            896
+        ],
+        "text": "Poor Otama...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            335,
+            491,
+            425
+        ],
+        "text": "Hey! Who are you people?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            538,
+            561,
+            668
+        ],
+        "text": "We're here to save--",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            855,
+            564,
+            1089
+        ],
+        "text": "Tamaaa!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            1380,
+            582,
+            1482
+        ],
+        "text": "Front Gate of Bakura, Kuri, Wano",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            582,
+            504,
+            638,
+            570
+        ],
+        "text": "Bmff!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            609,
+            31,
+            690,
+            101
+        ],
+        "text": "I have no record of you being allowed into town.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            619,
+            364,
+            673,
+            421
+        ],
+        "text": "Halt!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            158,
+            885,
+            238
+        ],
+        "text": "...of the ones who took Otama!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            278,
+            879,
+            408
+        ],
+        "text": "All the people here in this town are the cohorts...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

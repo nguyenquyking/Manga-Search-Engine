@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            8,
+            308,
+            96,
+            389
+        ],
+        "text": "Naw, that was nothing, you know?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            429,
+            149,
+            504
+        ],
+        "text": "But thank you. I mean it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            630,
+            198,
+            727
+        ],
+        "text": "Sorry, I couldn't find a moment to say anything until now.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            282,
+            350,
+            304,
+            392
+        ],
+        "text": "Mm.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            278,
+            423,
+            363
+        ],
+        "text": "Just looking at the city.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            287,
+            427,
+            400,
+            525
+        ],
+        "text": "Sooo, whatcha doing out here?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            300,
+            886,
+            426
+        ],
+        "text": "Weird? You're not weird. You're strong and brave, with a hairdo that's perfect for you. Not to mention kind and honest and...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            484,
+            832,
+            557
+        ],
+        "text": "...Kind of weird.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            769,
+            633,
+            791,
+            690
+        ],
+        "text": "I'm...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            41,
+            949,
+            133
+        ],
+        "text": "When I was shouting from the top of U.A...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            137,
+            825,
+            211
+        ],
+        "text": "Back there...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            886,
+            258,
+            940,
+            342
+        ],
+        "text": "That's not what I meant.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            257,
+            978,
+            337
+        ],
+        "text": "Didn't see that coming...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            35,
+            1076,
+            113
+        ],
+        "text": "Outta nowhere...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            115,
+            251,
+            203,
+            367
+        ],
+        "text": "You never change, huh? Always sweating the small stuff.",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

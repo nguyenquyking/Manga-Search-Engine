@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            183,
+            125,
+            416,
+            374
+        ],
+        "text": "The large skull that looms over the island is part of the mountain range, and the castle is inside of it.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            211,
+            1078,
+            475,
+            1332
+        ],
+        "text": "Onigashima is an island surrounded by mountains!! The only way in is through the front gate!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            535,
+            138,
+            753,
+            434
+        ],
+        "text": "According to the mansion plans we acquired, there is a rear gate around the back of the castle.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1002,
+            112,
+            1194,
+            398
+        ],
+        "text": "...and launch a surprise attack on Kaido as he is intoxicated from the feast!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            948,
+            1044,
+            1194,
+            1343
+        ],
+        "text": "We will split the forces in two, taking both mountain paths on left and right, then infiltrate through the rear gate...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1496,
+            794,
+            1682,
+            980
+        ],
+        "text": "So what is the real plan?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1468,
+            1067,
+            1697,
+            1324
+        ],
+        "text": "I see. And that was the plan you revealed in Kanjuro's presence to deceive him...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1967,
+            167,
+            2080,
+            351
+        ],
+        "text": "He's over-estimated you again!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1967,
+            601,
+            2032,
+            717
+        ],
+        "text": "Uh!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

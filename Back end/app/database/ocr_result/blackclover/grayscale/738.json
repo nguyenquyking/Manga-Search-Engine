@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            172,
+            53,
+            328,
+            194
+        ],
+        "text": "DON'T LET IT GO ANY FARTHER!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            117,
+            659,
+            387,
+            771
+        ],
+        "text": "GNRR-RRRR-RRRR-RRRR-RRRR-RRRR-RRGH!!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            794,
+            230,
+            828,
+            303
+        ],
+        "text": "THE DEMON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            988,
+            52,
+            1086,
+            136
+        ],
+        "text": "...IS CHARGING STRAIGHT FOR THE ROYAL CAPITAL!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1008,
+            452,
+            1062,
+            563
+        ],
+        "text": "...EVACUATE THE CITIZENS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            667,
+            891,
+            765
+        ],
+        "text": "WHILE CAPTAIN KAISER AND THE PURPLE ORCAS ARE SLOWING IT DOWN...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

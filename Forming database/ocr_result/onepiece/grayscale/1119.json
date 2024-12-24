@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            664,
+            242,
+            718,
+            298
+        ],
+        "text": "!?",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            940,
+            443,
+            996,
+            536
+        ],
+        "text": "It seems like...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            944,
+            784,
+            1008,
+            878
+        ],
+        "text": "I have a little brother...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1164,
+            788,
+            1252,
+            867
+        ],
+        "text": "Who ate a Devil Fruit.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1436,
+            581,
+            1532,
+            681
+        ],
+        "text": "Don't tell me that what we just ate was...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1384,
+            104,
+            1475,
+            209
+        ],
+        "text": "A \"Fire\" Ability",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            915,
+            956,
+            944,
+            973
+        ],
+        "text": "CRACK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

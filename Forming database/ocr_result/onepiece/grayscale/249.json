@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            77,
+            91,
+            162,
+            222
+        ],
+        "text": "This year's Reverie is simply accursed...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            637,
+            139,
+            735
+        ],
+        "text": "Sacred Marijoa, Red Line",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            217,
+            85,
+            282,
+            167
+        ],
+        "text": "Oh, let it go already.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            254,
+            480,
+            397
+        ],
+        "text": "If we strike, it should be now... I presume we have Nico Robin in custody already.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            425,
+            87,
+            500,
+            190
+        ],
+        "text": "When Kaido and Big Mom are involved in a fight...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            64,
+            657,
+            212
+        ],
+        "text": "...Death could easily come for anyone! Which makes it the perfect cover to eliminate inconveniences.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            495,
+            488,
+            614
+        ],
+        "text": "Who could have imagined the battle would become this intense?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            654,
+            492,
+            740
+        ],
+        "text": "It's what is unfolding in Wano that makes matters pressing now.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            382,
+            539,
+            484
+        ],
+        "text": "Highest Power\nIn the World",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            849,
+            78,
+            896,
+            138
+        ],
+        "text": "What is it?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            185,
+            843,
+            230
+        ],
+        "text": "Um...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            501,
+            894,
+            596
+        ],
+        "text": "All ships remain on standby...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            831,
+            654,
+            890,
+            731
+        ],
+        "text": "At sea, near Wano",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            843,
+            295,
+            893,
+            470
+        ],
+        "text": "Gloom",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            961,
+            610,
+            978,
+            653
+        ],
+        "text": "Flap",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

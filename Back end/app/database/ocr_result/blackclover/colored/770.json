@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            52,
+            220,
+            147,
+            330
+        ],
+        "text": "Besides, more than anything, it's dangerous!! Any more would be-",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            200,
+            71,
+            283,
+            181
+        ],
+        "text": "Dangerous? That's what's good about it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            210,
+            374,
+            259,
+            452
+        ],
+        "text": "Morgen... When did you...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            639,
+            196,
+            743
+        ],
+        "text": "Father, Mother, forbidden magic is a crime! As a magic knight, I can't overlook this!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            327,
+            464,
+            394
+        ],
+        "text": "You and I...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            431,
+            504,
+            502
+        ],
+        "text": "Life really should be this much of a rush!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            678,
+            510,
+            763
+        ],
+        "text": "A Supreme Devil... I like the sound of that!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            506,
+            46,
+            559,
+            310
+        ],
+        "text": "...are different. Brother...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            767,
+            59,
+            894,
+            200
+        ],
+        "text": "...I'll surpass my limits!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            770,
+            649,
+            865,
+            745
+        ],
+        "text": "Here and now...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

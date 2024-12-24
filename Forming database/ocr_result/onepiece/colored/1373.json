@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            96,
+            1153,
+            156,
+            1226
+        ],
+        "text": "They're still staring!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            192,
+            1067,
+            250,
+            1121
+        ],
+        "text": "Pipe down, scum!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            297,
+            1080,
+            438,
+            1200
+        ],
+        "text": "They're the Revolutionary Army's...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            358,
+            272,
+            463,
+            425
+        ],
+        "text": "Military Captains!!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            633,
+            558,
+            706
+        ],
+        "text": "Let me use my new weapons!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            576,
+            63,
+            614,
+            308
+        ],
+        "text": "Captain of the Revolutionary Army Northern Forces",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            573,
+            408,
+            610,
+            650
+        ],
+        "text": "Captain of the Revolutionary Army Southern Forces",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            576,
+            832,
+            612,
+            1077
+        ],
+        "text": "Captain of the Revolutionary Army Eastern Forces",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            573,
+            1176,
+            610,
+            1419
+        ],
+        "text": "Captain of the Revolutionary Army Western Forces",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            810,
+            133,
+            870,
+            244
+        ],
+        "text": "SNAP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            871,
+            13,
+            924,
+            101
+        ],
+        "text": "Whaaat?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            15,
+            1106,
+            117
+        ],
+        "text": "He just snapped for some reason!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            829,
+            335,
+            912,
+            428
+        ],
+        "text": "Nobody's answering the question!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            325,
+            1038,
+            414
+        ],
+        "text": "And what's that guy mumbling about?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            819,
+            603,
+            883,
+            712
+        ],
+        "text": "Can I go already, Betty?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            1016,
+            900,
+            1095
+        ],
+        "text": "You boys and your violence!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            1121,
+            1050,
+            1275
+        ],
+        "text": "Why are four of the Revolutionary Army's officers here in this one town?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1076,
+            1018,
+            1128,
+            1115
+        ],
+        "text": "Because they like you, you giant rube.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1095,
+            837,
+            1135,
+            915
+        ],
+        "text": "Ew. Yuck. Barf.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            1354,
+            920,
+            1447
+        ],
+        "text": "R... Revolutionaries...?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

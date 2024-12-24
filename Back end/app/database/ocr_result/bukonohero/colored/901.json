@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            174,
+            69,
+            397,
+            266
+        ],
+        "text": "MY BODY IS BEING PULLED APART FROM THE INSIDE!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            181,
+            1122,
+            209,
+            1257
+        ],
+        "text": "WHAT?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            282,
+            951,
+            390,
+            1039
+        ],
+        "text": "NOW IT FEELS LIKE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            324,
+            714,
+            343,
+            767
+        ],
+        "text": "KRIK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            699,
+            998,
+            939,
+            1241
+        ],
+        "text": "YOU CAN'T CONTROL YOUR POWER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            696,
+            1000,
+            806
+        ],
+        "text": "YOU DON'T KNOW HOW...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1386,
+            1029,
+            1628,
+            1272
+        ],
+        "text": "BY CHANCE, SOMETHING ACTIVATED IT NOW, BUT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1620,
+            16,
+            1985,
+            192
+        ],
+        "text": "TO STOP IT, ERI!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

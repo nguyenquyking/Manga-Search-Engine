@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            105,
+            773,
+            252,
+            923
+        ],
+        "text": "IF I SHOULD DIE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            75,
+            1118,
+            282,
+            1285
+        ],
+        "text": "I WANT YOU TO USE YOUR POWER, TOKI.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            120,
+            624,
+            326
+        ],
+        "text": "FWAP FWIP!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            736,
+            105,
+            842,
+            254
+        ],
+        "text": "WA HA HA! THAT'S MY WIFE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            719,
+            338,
+            857,
+            479
+        ],
+        "text": "WHO SAID YOU WERE GOING TO DIE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            565,
+            838,
+            721
+        ],
+        "text": "AREN'T YOU SAD? IT'S A DEATH SENTENCE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            719,
+            792,
+            851,
+            912
+        ],
+        "text": "IT SOUNDS DANGEROUS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            714,
+            1199,
+            879,
+            1330
+        ],
+        "text": "PLEASE. GIVE THE CHILDREN THESE SWORDS.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1289,
+            102,
+            1512,
+            440
+        ],
+        "text": "LOOK AHEAD, ODEN\u2014TO 20 YEARS IN THE FUTURE!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1242,
+            1134,
+            1416,
+            1310
+        ],
+        "text": "I'D BE A LAUGHING-STOCK IF ANYONE SAW ME CRYING.",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1462,
+            1121,
+            1503,
+            1157
+        ],
+        "text": "SNIFF",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1749,
+            136,
+            2000,
+            383
+        ],
+        "text": "THE STORY HURTLES TOWARD THE PRESENT DAY!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1879,
+            1127,
+            2052,
+            1304
+        ],
+        "text": "WE ARE NOT YOUR WEAKNESS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

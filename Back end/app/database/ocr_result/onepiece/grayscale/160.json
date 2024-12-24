@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            58,
+            627,
+            133,
+            719
+        ],
+        "text": "JUST STAAAHP.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            163,
+            105,
+            209,
+            198
+        ],
+        "text": "DRUNK-EN BEGGAR",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            463,
+            323,
+            553,
+            449
+        ],
+        "text": "URRP! DON'T ASSUME YOU'RE THE ONLY ONE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            50,
+            538,
+            154
+        ],
+        "text": "...WHO CAN SEE THE FUTURE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            641,
+            693,
+            748
+        ],
+        "text": "ARE YOU STILL DRUNK?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            464,
+            1067,
+            563
+        ],
+        "text": "WEEZ...\nWHAT IF I TRY COPYING YOU...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1096,
+            410,
+            1110,
+            461
+        ],
+        "text": "WEEZ!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

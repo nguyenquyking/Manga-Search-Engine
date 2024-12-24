@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            66,
+            24,
+            145,
+            126
+        ],
+        "text": "YOU WILL NOT HAVE IT BACK! NOT THAT ONE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            318,
+            122,
+            413
+        ],
+        "text": "YAAAH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            375,
+            30,
+            499,
+            218
+        ],
+        "text": "THAT INCURRED THE WRATH OF THE GOD OF THE BLADE!! SINCE THEN, EACH REGION SUFFERED LOSS AFTER LOSS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            378,
+            359,
+            491,
+            502
+        ],
+        "text": "ITS REMOVAL FROM OUR LAND WAS THE START OF ALL OF OUR MISFORTUNE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            366,
+            543,
+            498,
+            692
+        ],
+        "text": "THE KATANA YOU HAD--SHUSUI--WAS A STOLEN NATIONAL TREASURE OF WANO!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            558,
+            29,
+            666,
+            143
+        ],
+        "text": "...UNTIL THE COUNTRY ITSELF FELL UNDER ENEMY CONTROL!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            930,
+            36,
+            1054,
+            128
+        ],
+        "text": "CEASE THIS FIGHT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            430,
+            968,
+            501
+        ],
+        "text": "WHAT GOD?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            921,
+            530,
+            979,
+            624
+        ],
+        "text": "SHUSUI?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            644,
+            966,
+            705
+        ],
+        "text": "WHAT...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

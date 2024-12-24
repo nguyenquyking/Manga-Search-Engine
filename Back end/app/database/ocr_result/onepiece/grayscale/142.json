@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            103,
+            59,
+            168,
+            148
+        ],
+        "text": "THERE IS NO WATER HERE!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            172,
+            146,
+            252
+        ],
+        "text": "WE ARE UP IN THE SKY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            590,
+            177,
+            712
+        ],
+        "text": "THERE ARE STILL THOUSANDS OF OUR COMRADES INSIDE THE BUILDING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            96,
+            504,
+            181
+        ],
+        "text": "I BEG OF YOU, LEAP OUT OF THERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            41,
+            622,
+            168
+        ],
+        "text": "THERE IS NO GLORY IN BEING BURNED TO",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            452,
+            605,
+            550,
+            731
+        ],
+        "text": "THERE IS NOTHING WE CAN DO TO STOP THIS CONFLAGRATION!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            408,
+            227,
+            419,
+            312
+        ],
+        "text": "RAAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            310,
+            363,
+            312,
+            423
+        ],
+        "text": "FWOOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            812,
+            209,
+            823,
+            260
+        ],
+        "text": "AAAA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1014,
+            298,
+            1035,
+            387
+        ],
+        "text": "AAAAAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1039,
+            62,
+            1095,
+            137
+        ],
+        "text": "WHAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            333,
+            1062,
+            354
+        ],
+        "text": "!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            925,
+            700,
+            937,
+            725
+        ],
+        "text": "?!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

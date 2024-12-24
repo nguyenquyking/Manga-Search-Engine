@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            52,
+            66,
+            146,
+            168
+        ],
+        "text": "...It's always about All Might!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            48,
+            349,
+            135,
+            408
+        ],
+        "text": "Everywhere I go...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            98,
+            449,
+            193,
+            583
+        ],
+        "text": "...with eight long strands!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            271,
+            298,
+            366,
+            397
+        ],
+        "text": "That's why he's the symbol of peace.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            549,
+            701,
+            683,
+            849
+        ],
+        "text": "Oh, and by the way, I've both touched you and said your name.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            220,
+            1205,
+            360
+        ],
+        "text": "...His heart will stop.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1021,
+            523,
+            1212,
+            731
+        ],
+        "text": "\"If Shigaraki Tomura were to move even an inch from this point onwards...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

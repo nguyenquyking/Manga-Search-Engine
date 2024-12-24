@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            75,
+            656,
+            133,
+            921
+        ],
+        "text": "SMASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            746,
+            107,
+            769,
+            157
+        ],
+        "text": "SKFF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            799,
+            532,
+            891,
+            637
+        ],
+        "text": "?!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1068,
+            205,
+            1088,
+            359
+        ],
+        "text": "MUSCULAR...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1088,
+            744,
+            1104,
+            806
+        ],
+        "text": "FSHH",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

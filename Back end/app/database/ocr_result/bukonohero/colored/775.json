@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            656,
+            9,
+            667,
+            193
+        ],
+        "text": "HEXAMENDLEY",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            751,
+            298,
+            801,
+            379
+        ],
+        "text": "GET IT YET?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            283,
+            997,
+            484
+        ],
+        "text": "THUD",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

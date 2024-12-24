@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            373,
+            43,
+            433,
+            144
+        ],
+        "text": "...Tama!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            363,
+            599,
+            423,
+            696
+        ],
+        "text": "So long...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            44,
+            849,
+            149
+        ],
+        "text": "Luffy-Taro!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            313,
+            877,
+            460
+        ],
+        "text": "Let's go! I guess you didn't get turned into a servant by dumplings, huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

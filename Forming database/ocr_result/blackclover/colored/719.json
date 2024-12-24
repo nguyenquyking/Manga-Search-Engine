@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            93,
+            262,
+            158,
+            333
+        ],
+        "text": "...and the best I can do is divert the attack!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            533,
+            145,
+            609
+        ],
+        "text": "Dammit!!! I spent six months training my magic...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            567,
+            757,
+            599
+        ],
+        "text": "GRAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            13,
+            268,
+            16,
+            328
+        ],
+        "text": "FOOOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            204,
+            5,
+            232,
+            67
+        ],
+        "text": "Shiury",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            215,
+            199,
+            243,
+            328
+        ],
+        "text": "ColorClovers",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

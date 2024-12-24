@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            119,
+            1005,
+            322,
+            1436
+        ],
+        "text": "Con-",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            604,
+            519,
+            1014,
+            958
+        ],
+        "text": "...stars are born.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1268,
+            47,
+            1554,
+            1260
+        ],
+        "text": "Junction",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1905,
+            133,
+            2003,
+            286
+        ],
+        "text": "WE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1882,
+            1273,
+            2012,
+            1459
+        ],
+        "text": "YOU MEAN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1999,
+            631,
+            2157,
+            932
+        ],
+        "text": "AAAA\nBudding of\nYggdrasil\nTree\nRecovery\nMagic:",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

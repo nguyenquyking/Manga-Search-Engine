@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            121,
+            680,
+            316,
+            975
+        ],
+        "text": "Black Oil\nCreation\nMagic:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            572,
+            107,
+            1048,
+            878
+        ],
+        "text": "Curse\nCandle\nRitual\nDisk",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1052,
+            98,
+            1172,
+            167
+        ],
+        "text": "Huh?\nHey,\nThat's\nour\nhide-\nout.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            381,
+            1068,
+            561
+        ],
+        "text": "Wait...\nOver\nhere...\nThis one's\nincredibility\nfiece!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            890,
+            1179,
+            1007
+        ],
+        "text": "Flames\nare\ncurses.\nFlame\nintensity\nshows\ndepth and\nvicious-\nness...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1371,
+            85,
+            1449,
+            187
+        ],
+        "text": "Wait.\nThat\ncurse\nresponse...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1334,
+            595,
+            1484,
+            699
+        ],
+        "text": "This is\na map\nof the\nsickness\neroding\nthis\ncountry!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

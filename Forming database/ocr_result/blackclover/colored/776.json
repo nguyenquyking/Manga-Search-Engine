@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            164,
+            57,
+            291,
+            161
+        ],
+        "text": "Save my brother!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            165,
+            168,
+            304
+        ],
+        "text": "I'm begging you!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            109,
+            484,
+            170,
+            574
+        ],
+        "text": "Even if I couldn't shine...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            322,
+            476,
+            377,
+            551
+        ],
+        "text": "...I wanted you to do it.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            373,
+            177,
+            441,
+            301
+        ],
+        "text": "I'm the one...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            54,
+            689,
+            182
+        ],
+        "text": "...who should die?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            654,
+            201,
+            793,
+            307
+        ],
+        "text": "He hasn't done anything wrong!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            504,
+            591,
+            569
+        ],
+        "text": "If I was beside you...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            600,
+            607,
+            767
+        ],
+        "text": "I really loved you.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            495,
+            978,
+            556
+        ],
+        "text": "...I'd defile your light, so I...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            69,
+            1072,
+            223
+        ],
+        "text": "Gods, please!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

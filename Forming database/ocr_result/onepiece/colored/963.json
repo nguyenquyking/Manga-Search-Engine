@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            62,
+            30,
+            140,
+            174
+        ],
+        "text": "WHAT FOOL OF A MAN WOULD MISTRUST THE WOMAN HE LOVES?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            213,
+            168,
+            304
+        ],
+        "text": "THEN I SHALL MARK IT ON THE LEDGER FOR YOU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            325,
+            159,
+            420
+        ],
+        "text": "IT'S NOT ENOUGH YET, BUT I WANT YOU TO HAVE IT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            441,
+            157,
+            558
+        ],
+        "text": "THIS IS THE DOWN PAYMENT TO BUY YOU FROM THE BROTHEL.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            600,
+            157,
+            703
+        ],
+        "text": "BUT, SIR! I HAVE NEVER SEEN SUCH RICHES...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            320,
+            34,
+            378,
+            177
+        ],
+        "text": "IT IS A FAIR TRADE\u2014MY GOLD FOR YOUR WORD!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            213,
+            369,
+            295
+        ],
+        "text": "NO! DON'T BOTHER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            77,
+            518,
+            224
+        ],
+        "text": "I'VE SOLD EVERYTHING I OWN, KOMURASAKI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            266,
+            518,
+            347
+        ],
+        "text": "WHY, LOOK HOW MUCH THERE IS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            399,
+            525,
+            523
+        ],
+        "text": "HERE, TAKE IT!! THIS MONEY IS YOURS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            576,
+            29,
+            640,
+            90
+        ],
+        "text": "WHY, I'M SO LUCKY!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            753,
+            38,
+            823,
+            154
+        ],
+        "text": "...OF MY FUTURE LIFE WITH YOU.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            190,
+            826,
+            311
+        ],
+        "text": "I MUST ADMIT THAT I PASS THE NIGHTS BY DREAMING...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            746,
+            359,
+            829,
+            507
+        ],
+        "text": "IT MEANS NOTHING TO ME, BECAUSE IF I CAN FULFILL MY GOAL...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            570,
+            816,
+            685
+        ],
+        "text": "I SOLD OFF MY FAMILY!! HA HA HA HA! KOFF KOFF...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            860,
+            553,
+            926,
+            619
+        ],
+        "text": "PLEASE, TAKE CARE!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            27,
+            1123,
+            114
+        ],
+        "text": "OH... KOMURA-SAKI!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1077,
+            382,
+            1132,
+            487
+        ],
+        "text": "...I'LL BE THE HAPPIEST MAN IN THE ENTIRE WORLD!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1058,
+            589,
+            1135,
+            680
+        ],
+        "text": "HAH... MEDICINE? A WASTE OF MONEY!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

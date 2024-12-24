@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            57,
+            414,
+            127,
+            510
+        ],
+        "text": "FWAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            361,
+            133,
+            417,
+            183
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            42,
+            564,
+            142
+        ],
+        "text": "WHERE IS\nSHE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            184,
+            858,
+            272
+        ],
+        "text": "OR SOME\nGHOULISH\nSPIRIT?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            846,
+            44,
+            966,
+            152
+        ],
+        "text": "WHETHER\nNINJUTSU OR\nSORCERY,\nHER ORIGINAL\nBODY MUST\nBE NEARBY!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1017,
+            36,
+            1075,
+            128
+        ],
+        "text": "FIND\nHER!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            933,
+            345,
+            964,
+            440
+        ],
+        "text": "TEK TEK!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            789,
+            464,
+            855,
+            552
+        ],
+        "text": "IS SHE\nANOTHER\nSHINOBI?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            603,
+            830,
+            699
+        ],
+        "text": "THAT WAS\nA CLOSE\nONE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1054,
+            595,
+            1134,
+            713
+        ],
+        "text": "GOOD THING\nI WAS USING\nA CLONE, JUST\nIN CASE.",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

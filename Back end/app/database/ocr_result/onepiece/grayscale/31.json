@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            62,
+            45,
+            115,
+            141
+        ],
+        "text": "I CAN'T DO IT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            171,
+            124,
+            267
+        ],
+        "text": "IT'S NOT THAT EASY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            327,
+            49,
+            392,
+            139
+        ],
+        "text": "THEY WON'T APPEAR!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            42,
+            622,
+            131,
+            723
+        ],
+        "text": "YOU CAN DO IT, MOMONO-SUKE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            259,
+            522,
+            342,
+            606
+        ],
+        "text": "MAKE THOSE FLAME CLOUDS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            49,
+            637,
+            133
+        ],
+        "text": "GO WITH KIN'EMON AND THE OTHERS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            500,
+            394,
+            543,
+            485
+        ],
+        "text": "MOMONO-SUKE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            607,
+            749,
+            715
+        ],
+        "text": "I CAN'T!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            74,
+            891,
+            248
+        ],
+        "text": "BUT I CAN'T!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            302,
+            964,
+            404
+        ],
+        "text": "...YOU MUST REBUILD THE STRENGTH OF THE KOZUKI CLAN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            623,
+            954,
+            720
+        ],
+        "text": "AND WHEN YOU REACH THE FUTURE, 20 YEARS FROM NOW...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            650,
+            1039,
+            683
+        ],
+        "text": "BENG!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

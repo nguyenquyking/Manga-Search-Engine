@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            75,
+            81,
+            156,
+            193
+        ],
+        "text": "Hey everybody! The newspaper's here!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            230,
+            174,
+            392
+        ],
+        "text": "Don't ever say the names Germa 66 or Vinsmoke in my presence again!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            418,
+            158,
+            495
+        ],
+        "text": "Shut up!! I'm not in Germa!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            527,
+            151,
+            602
+        ],
+        "text": "Yeah! Do it for us!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            634,
+            147,
+            739
+        ],
+        "text": "Hey, Sanji!! I can't get this thing to transform!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            218,
+            639,
+            292,
+            736
+        ],
+        "text": "I don't think it's gonna work unless you do it!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            418,
+            63,
+            518,
+            240
+        ],
+        "text": "Hmm... It says Luffy and Sanji and Jinbe and Bege \"attempted to assassinate Big Mom.\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            422,
+            272,
+            483,
+            355
+        ],
+        "text": "Does it say anything about what happened after we left?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            374,
+            458,
+            427
+        ],
+        "text": "What about Jinbe?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            463,
+            504,
+            546
+        ],
+        "text": "Wow! It's a super close-up of Luffy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            578,
+            73,
+            640,
+            176
+        ],
+        "text": "And here! Luffy's the ringleader.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            746,
+            67,
+            888,
+            199
+        ],
+        "text": "It's 330 million Belly?! Are you serious?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            439,
+            867,
+            540
+        ],
+        "text": "Whoa!! My Bounty!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            616,
+            780,
+            717
+        ],
+        "text": "Oh, bounty posters!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            239,
+            1006,
+            549
+        ],
+        "text": "Vinsmoke Sanji\n330,000,000\nMarine",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            996,
+            60,
+            1096,
+            179
+        ],
+        "text": "Wait, how much is Moss-Head's?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1077,
+            577,
+            1118,
+            625
+        ],
+        "text": "Hmm?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

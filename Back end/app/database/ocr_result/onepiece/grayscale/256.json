@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            127,
+            78,
+            195,
+            197
+        ],
+        "text": "THEY SMELL HEAVENLY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            306,
+            160,
+            425,
+            220
+        ],
+        "text": "HECK YEAH! ONE PIPING HOT BOWL, PLEASE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            358,
+            436,
+            428
+        ],
+        "text": "WOULD YOU LIKE TO TRY THEM?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            326,
+            592,
+            399,
+            716
+        ],
+        "text": "A GENEROUS COMPLIMENT, GOOD SIR! VERY GENEROUS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            535,
+            223,
+            595,
+            261
+        ],
+        "text": "SNIF\nSNIF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            566,
+            326,
+            618,
+            408
+        ],
+        "text": "ORDER UP!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            567,
+            474,
+            577,
+            511
+        ],
+        "text": "SWF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            998,
+            83,
+            1017,
+            173
+        ],
+        "text": "MMMM!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            116,
+            628,
+            158,
+            726
+        ],
+        "text": "AH! SOBA NOODLES!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

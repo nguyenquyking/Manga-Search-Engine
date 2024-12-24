@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            61,
+            741,
+            195,
+            820
+        ],
+        "text": "000\n0000\n00HH\n!!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            338,
+            65,
+            377,
+            379
+        ],
+        "text": "Twitter - @colorclovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            362,
+            814,
+            397,
+            892
+        ],
+        "text": "loveberry",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

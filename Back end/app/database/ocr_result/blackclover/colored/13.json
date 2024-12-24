@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            55,
+            322,
+            72,
+            389
+        ],
+        "text": "...This...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            760,
+            132,
+            770
+        ],
+        "text": "...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            124,
+            30,
+            141,
+            102
+        ],
+        "text": "Is the last",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            122,
+            404,
+            160,
+            449
+        ],
+        "text": "Only the eyes left!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            265,
+            10,
+            282,
+            294
+        ],
+        "text": "Twitter's Black Clover Team",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            265,
+            676,
+            286,
+            792
+        ],
+        "text": "Kin_Clover",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            652,
+            744,
+            715,
+            804
+        ],
+        "text": "This... is...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            836,
+            208,
+            921,
+            293
+        ],
+        "text": "Magic Power...!?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            946,
+            7,
+            1014,
+            114
+        ],
+        "text": "Transcending through time,\nThe hidden seal is now...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1150,
+            119,
+            1184,
+            239
+        ],
+        "text": "BLACK CLOVER",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1146,
+            305,
+            1194,
+            377
+        ],
+        "text": "PAGE 202\n...END",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

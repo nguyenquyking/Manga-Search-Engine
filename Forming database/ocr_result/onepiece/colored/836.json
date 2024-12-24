@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            68,
+            620,
+            164,
+            695
+        ],
+        "text": "Why bother training...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            364,
+            198,
+            431
+        ],
+        "text": "...When you'll never see the sunrise again?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            19,
+            247,
+            174
+        ],
+        "text": "Elephant's Marchoo!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            195,
+            217,
+            331
+        ],
+        "text": "Ah Ah",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            740,
+            46,
+            835,
+            253
+        ],
+        "text": "Excavation Labor Camp\nChief Warden\n(Headliner)\nBabanuki\nElephant Smile Fruit",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            711,
+            542,
+            801,
+            673
+        ],
+        "text": "Bwe-Choonk!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            937,
+            35,
+            1003,
+            123
+        ],
+        "text": "Pawoo Pawoo Pa Papapa!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1070,
+            456,
+            1122,
+            520
+        ],
+        "text": "Aaah!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            553,
+            958,
+            602
+        ],
+        "text": "Zwip!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

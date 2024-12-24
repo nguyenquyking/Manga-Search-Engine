@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            127,
+            128,
+            213,
+            273
+        ],
+        "text": "Pardon me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            321,
+            93,
+            457,
+            241
+        ],
+        "text": "I mean you no harm!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            931,
+            216,
+            1032
+        ],
+        "text": "Whoa!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            168,
+            1072,
+            267,
+            1304
+        ],
+        "text": "Seize him!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            693,
+            105,
+            818,
+            309
+        ],
+        "text": "Waiting for a very long time!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            542,
+            790,
+            702
+        ],
+        "text": "I've been waiting for you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            807,
+            838,
+            997
+        ],
+        "text": "I don't sense any hostility from you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            1175,
+            743,
+            1326
+        ],
+        "text": "True...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            637,
+            918,
+            734
+        ],
+        "text": "Huff huff!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            956,
+            794,
+            1095,
+            950
+        ],
+        "text": "But I'm in a hurry!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1382,
+            74,
+            1615,
+            355
+        ],
+        "text": "I'm Kaido's son!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1782,
+            92,
+            1941,
+            256
+        ],
+        "text": "Huh?!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1373,
+            1044,
+            1566,
+            1323
+        ],
+        "text": "My name is Yamato!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

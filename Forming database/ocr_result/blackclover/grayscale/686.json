@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            125,
+            51,
+            187,
+            119
+        ],
+        "text": "IT'S WORKING!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            302,
+            62,
+            425,
+            180
+        ],
+        "text": "WE'LL BEAT THIS GUY,\nSTOP THE ADVENT OF QLIPHOTH...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            578,
+            464,
+            677,
+            552
+        ],
+        "text": "...AND RESCUE CAPTAIN VANGEANCE!!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

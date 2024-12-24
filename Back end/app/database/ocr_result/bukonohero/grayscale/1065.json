@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            93,
+            477,
+            207,
+            701
+        ],
+        "text": "WYOMING SMASH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            894,
+            66,
+            1004,
+            274
+        ],
+        "text": "ST. LOUIS SMASH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            115,
+            106,
+            116,
+            192
+        ],
+        "text": "DA-DA-DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            108,
+            794,
+            267,
+            973
+        ],
+        "text": "DEAD MAN'S GAME!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            58,
+            1081,
+            172,
+            1161
+        ],
+        "text": "...YOU'LL HAVE TO START WITH MINE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            1406,
+            148,
+            1486
+        ],
+        "text": "IF YOU WANNA CRUSH ANYONE'S SKULL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            430,
+            1107,
+            431,
+            1172
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            427,
+            1400,
+            484,
+            1495
+        ],
+        "text": "DEMON AURA...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            486,
+            1105,
+            563,
+            1199
+        ],
+        "text": "...NINE SWORD STYLE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            753,
+            1287,
+            810,
+            1508
+        ],
+        "text": "HNG!! ASURA",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            780,
+            1171,
+            859,
+            1263
+        ],
+        "text": "BLADES DRAWN!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1032,
+            1437,
+            1062,
+            1489
+        ],
+        "text": "CLANG!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            861,
+            917,
+            887,
+            987
+        ],
+        "text": "OOOH...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            874,
+            525,
+            936,
+            625
+        ],
+        "text": "AAAAHH!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

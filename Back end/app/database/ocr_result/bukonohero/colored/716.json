@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            5,
+            27,
+            436,
+            391
+        ],
+        "text": "NO MATTER THE COST!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            576,
+            386,
+            859
+        ],
+        "text": "IT CAN'T BE RELEASED INTO THE WORLD!!",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

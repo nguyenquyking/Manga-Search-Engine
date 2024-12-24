@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            257,
+            1032,
+            395,
+            1379
+        ],
+        "text": "ELEPHANT GUN!!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1367,
+            506,
+            1479,
+            679
+        ],
+        "text": "HOW DARE YOU TOUCH PAY-PAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1678,
+            139,
+            1820,
+            381
+        ],
+        "text": "THE CASTLE CAN'T WITHSTAND THIS KIND OF DAMAGE!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1674,
+            442,
+            1784,
+            637
+        ],
+        "text": "LADY ULTI'S IN DINOSAUR FORM TOO!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1559,
+            679,
+            1632,
+            956
+        ],
+        "text": "SNAG!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1892,
+            707,
+            1991,
+            793
+        ],
+        "text": "HUH?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1902,
+            957,
+            2013,
+            1163
+        ],
+        "text": "YOU SLIME!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

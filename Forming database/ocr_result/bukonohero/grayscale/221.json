@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            77,
+            91,
+            160,
+            153
+        ],
+        "text": "...is all in the past.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            575,
+            99,
+            645
+        ],
+        "text": "That...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            267,
+            579,
+            275,
+            628
+        ],
+        "text": "FWSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            484,
+            94,
+            539,
+            178
+        ],
+        "text": "Which is precisely why...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            417,
+            410,
+            669,
+            535
+        ],
+        "text": "The responsibility also lies with us... ...for being unable to perceive what lay in his heart.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            933,
+            90,
+            1017,
+            215
+        ],
+        "text": "...our urge is to reach out to him as friends.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            783,
+            601,
+            973,
+            758
+        ],
+        "text": "...when we witness... ...our classmate weeping in despair...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

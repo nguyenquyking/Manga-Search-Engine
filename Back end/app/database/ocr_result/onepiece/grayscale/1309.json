@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            209,
+            918,
+            362,
+            1310
+        ],
+        "text": "ELEPHANT GUN!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            835,
+            260,
+            876,
+            460
+        ],
+        "text": "GYAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1220,
+            266,
+            1347,
+            495
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1559,
+            648,
+            1613,
+            807
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1723,
+            361,
+            1738,
+            437
+        ],
+        "text": "GRRM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

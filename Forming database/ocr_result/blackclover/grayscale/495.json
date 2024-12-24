@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            235,
+            129,
+            377,
+            239
+        ],
+        "text": "I LIKE YOU.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            259,
+            914,
+            348,
+            1043
+        ],
+        "text": "YOU'RE A GOOD PERSON.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1144,
+            416,
+            1180,
+            514
+        ],
+        "text": "WEG?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1278,
+            128,
+            1409,
+            240
+        ],
+        "text": "WHO THE HECK... ARE YOU...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1284,
+            583,
+            1372,
+            677
+        ],
+        "text": "YAMI'S STILL ALIVE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1323,
+            950,
+            1348,
+            1060
+        ],
+        "text": "DON'T WORRY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

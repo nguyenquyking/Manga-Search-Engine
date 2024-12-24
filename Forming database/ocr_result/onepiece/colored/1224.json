@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            74,
+            101,
+            172,
+            210
+        ],
+        "text": "Over a year ago, Kaido's forces added a new headliner...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            222,
+            63,
+            308,
+            196
+        ],
+        "text": "...by the name of X. Drake, who attacked the village.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            596,
+            193,
+            745
+        ],
+        "text": "There are only two of us now, but this was once Amigasa, the village of woven hats.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            504,
+            59,
+            582,
+            180
+        ],
+        "text": "The five samurai who protected our territory...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            646,
+            58,
+            729,
+            194
+        ],
+        "text": "...were wiped out, and our buildings were destroyed.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            833,
+            68,
+            936,
+            222
+        ],
+        "text": "Everywhere else, the countryside has been reduced to a lawless wasteland...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1002,
+            104,
+            1090,
+            232
+        ],
+        "text": "...by the wicked deeds of Kaido's forces!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1081,
+            45,
+            1123,
+            107
+        ],
+        "text": "Waste-land?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            833,
+            595,
+            939,
+            733
+        ],
+        "text": "At this point, the only place in the land of Wano that still flourishes...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1005,
+            593,
+            1111,
+            733
+        ],
+        "text": "...is the Flower Capital, where the Shogun Orochi resides.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

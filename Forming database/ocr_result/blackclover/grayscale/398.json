@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            128,
+            494,
+            208,
+            645
+        ],
+        "text": "ZZZ",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            238,
+            343,
+            422,
+            498
+        ],
+        "text": "Lady Vanica's spell keeps us from dying, you know.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            265,
+            852,
+            385,
+            1002
+        ],
+        "text": "Just give up and lemme lick you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            608,
+            83,
+            737,
+            179
+        ],
+        "text": "...But that isn't all.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            329,
+            728,
+            491
+        ],
+        "text": "...and to avenge my mother!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            603,
+            522,
+            748,
+            651
+        ],
+        "text": "This is for the sake of the world...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            651,
+            843,
+            848,
+            989
+        ],
+        "text": "...Trained so that we wouldn't lose to people like you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1148,
+            112,
+            1249,
+            182
+        ],
+        "text": "No! That's not... I'm just...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1065,
+            260,
+            1187,
+            360
+        ],
+        "text": "Well, of course. Lolopechka is incredible!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            430,
+            1268,
+            551
+        ],
+        "text": "Y-yes! I suppose I could admit you did that!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1137,
+            730,
+            1248,
+            845
+        ],
+        "text": "You've even made us stronger too.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1192,
+            861,
+            1256,
+            1004
+        ],
+        "text": "You really are amazing, Lolopechka!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1428,
+            65,
+            1518,
+            166
+        ],
+        "text": "Modesty looks like sarcasm on you, you know.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

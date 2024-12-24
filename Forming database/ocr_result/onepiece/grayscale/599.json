@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            29,
+            562,
+            139,
+            699
+        ],
+        "text": "Apparently, all of our followers on the performance floor turned coat on us too...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            50,
+            166,
+            117,
+            272
+        ],
+        "text": "Well, I'll slaughter anyone...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            52,
+            155,
+            148
+        ],
+        "text": "...Who dares to stand in my path!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            28,
+            630,
+            133
+        ],
+        "text": "Now move!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            64,
+            865,
+            178
+        ],
+        "text": "...Screw sword!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            379,
+            879,
+            616
+        ],
+        "text": "Trick mechanism...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            708,
+            265,
+            755,
+            373
+        ],
+        "text": "Zwim Zwim",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            877,
+            276,
+            891,
+            340
+        ],
+        "text": "ZRRRM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            960,
+            57,
+            1108,
+            164
+        ],
+        "text": "...But they don't seem to mean any harm!! They're my pals now!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            184,
+            1107,
+            286
+        ],
+        "text": "I dunno what happened that caused our enemies to switch sides...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            966,
+            554,
+            1068,
+            636
+        ],
+        "text": "Well, I'm not steppin' back!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            669,
+            1041,
+            740
+        ],
+        "text": "That freaky sword again?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

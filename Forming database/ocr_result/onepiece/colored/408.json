@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            112,
+            101,
+            195,
+            235
+        ],
+        "text": "The capital lost an entire quarter of its size...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            270,
+            162,
+            386
+        ],
+        "text": "...made up a full-sized town on their own.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            566,
+            166,
+            717
+        ],
+        "text": "They said that the people and buildings were swallowed whole by the beast...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            216,
+            391,
+            232,
+            456
+        ],
+        "text": "RAAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            331,
+            69,
+            417,
+            210
+        ],
+        "text": "...But there were miraculously no fatalities...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            528,
+            62,
+            583,
+            206
+        ],
+        "text": "It's his fault this happened!! He's the bad guy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            524,
+            235,
+            578,
+            325
+        ],
+        "text": "I should thank him!! But I can't.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            518,
+            356,
+            591,
+            413
+        ],
+        "text": "Oden sure looked cool.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            590,
+            630,
+            741
+        ],
+        "text": "Oh, Kin!! Waaaah!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            62,
+            705,
+            140
+        ],
+        "text": "I almost screamed because it was so awesome!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            110,
+            849,
+            194
+        ],
+        "text": "Don't do anything stupid!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            435,
+            897,
+            527
+        ],
+        "text": "I'll tell you the truth of what happened here!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            634,
+            888,
+            727
+        ],
+        "text": "Everyone! Listen to me!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            365,
+            915,
+            408
+        ],
+        "text": "Huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            973,
+            457,
+            983,
+            492
+        ],
+        "text": "BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            66,
+            31,
+            135,
+            165
+        ],
+        "text": "I helped out with your fields!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            206,
+            36,
+            254,
+            142
+        ],
+        "text": "I let you live here.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            452,
+            138,
+            544
+        ],
+        "text": "Not as many as I cooked.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            578,
+            174,
+            694
+        ],
+        "text": "Do you have any idea how many meals I cooked for you?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            51,
+            420,
+            214
+        ],
+        "text": "I'm leaving!! No lingering attachments here, thank you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            17,
+            513,
+            114
+        ],
+        "text": "Be careful out there.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            405,
+            702,
+            720
+        ],
+        "text": "The World's Strongest Swordsman\nWarlord of the Sea\nDracule Mihawk",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            852,
+            38,
+            877,
+            102
+        ],
+        "text": "Huh?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            837,
+            135,
+            919,
+            296
+        ],
+        "text": "Admittedly, this might be the best time to leave this place.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            19,
+            1100,
+            125
+        ],
+        "text": "An odd subject has arisen at the Reverie.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            344,
+            972,
+            414
+        ],
+        "text": "Thanks for everything!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1058,
+            331,
+            1116,
+            418
+        ],
+        "text": "Do you do anything quietly?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            443,
+            936,
+            565
+        ],
+        "text": "You can't just toss out one last kind comment at the end like that! WAAAH!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            601,
+            922,
+            697
+        ],
+        "text": "Now you're nice?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

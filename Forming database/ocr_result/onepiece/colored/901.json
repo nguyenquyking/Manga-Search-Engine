@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            74,
+            486,
+            134,
+            578
+        ],
+        "text": "...for a disguise in a pinch.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            609,
+            145,
+            691
+        ],
+        "text": "This should do just the trick...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            142,
+            80,
+            184,
+            206
+        ],
+        "text": "What's that?\nCanned food?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            634,
+            45,
+            708,
+            137
+        ],
+        "text": "Who cares about the town? Just forget it.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            258,
+            696,
+            350
+        ],
+        "text": "What do you think you're doing, Sangoro?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            380,
+            700,
+            491
+        ],
+        "text": "That fool!\nHe stepped up so he could be killed?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            635,
+            726,
+            725
+        ],
+        "text": "Wait, the soba cook actually showed up?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            388,
+            820,
+            465
+        ],
+        "text": "Otherwise the entire town would be destroyed!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            87,
+            900,
+            185
+        ],
+        "text": "FWAP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            904,
+            249,
+            988,
+            339
+        ],
+        "text": "And there may be times when you can save lives...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1045,
+            58,
+            1130,
+            196
+        ],
+        "text": "Especially if this thing has the power to help!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1038,
+            249,
+            1117,
+            353
+        ],
+        "text": "...if you just learn to swallow your pride.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            895,
+            608,
+            983,
+            720
+        ],
+        "text": "This is a battle against an Emperor of the Sea. There may be times...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1038,
+            603,
+            1140,
+            712
+        ],
+        "text": "...when you can't save lives if you're too stubborn.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            106,
+            61,
+            217,
+            203
+        ],
+        "text": "THAT WAS A FLEETING HOPE INDEED. IT OFFERED ME LITTLE SOLACE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            92,
+            596,
+            183,
+            712
+        ],
+        "text": "IN A SINGLE DAY, I HAD LOST EVERYTHING.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            253,
+            601,
+            363,
+            723
+        ],
+        "text": "THE IDEA THAT MY BROTHER WOULD COME BACK IN 20 YEARS?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            290,
+            62,
+            384,
+            191
+        ],
+        "text": "I HAD TOTALLY LOST THE WILL TO GO ON.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            488,
+            60,
+            651,
+            211
+        ],
+        "text": "APPARENTLY IT WAS EITHER HIM OR ME... THAT WAY, IF SOMETHING HAPPENED TO ONE OF US, THE KOZUKI BLOOD MIGHT STILL LIVE ON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            493,
+            612,
+            606,
+            730
+        ],
+        "text": "YOU WEREN'T ALLOWED TO JUMP INTO THE FUTURE WITH HIM?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            197,
+            868,
+            320
+        ],
+        "text": "...PATIENTLY SUPPORTED AND CARED FOR ME. HE RAISED ME FROM CHILDHOOD.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            750,
+            369,
+            859,
+            494
+        ],
+        "text": "BUT ONE OF MY FATHER'S VASSALS, KAWAMATSU THE KAPPA...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            750,
+            565,
+            816,
+            631
+        ],
+        "text": "THAT'S PRETTY CRUEL.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            65,
+            858,
+            145
+        ],
+        "text": "KAPPA?!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            963,
+            57,
+            1111,
+            209
+        ],
+        "text": "YES, IT IS HARD TO BELIEVE THAT HE IS ONE OF THOSE RIVER IMPS, BUT HE HIMSELF IS VERY PROUD OF THAT FACT, SO...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

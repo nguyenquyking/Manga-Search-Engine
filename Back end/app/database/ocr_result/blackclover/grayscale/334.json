@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            124,
+            40,
+            209,
+            219
+        ],
+        "text": "He did that all by himself!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            126,
+            569,
+            236,
+            731
+        ],
+        "text": "All those Diamond Soldiers...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            716,
+            57,
+            817,
+            136
+        ],
+        "text": "Don't get any weird ideas, luck!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            383,
+            680,
+            490
+        ],
+        "text": "Ah ha ha... Ah ha...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            681,
+            631,
+            833,
+            738
+        ],
+        "text": "Some of those guys were as tough as captains too!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1148,
+            51,
+            1304,
+            127
+        ],
+        "text": "I don't want to fight that guy!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            624,
+            1142,
+            735
+        ],
+        "text": "I hate to say it, but... this is a new feeling for me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1384,
+            452,
+            1433,
+            509
+        ],
+        "text": "I, uh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

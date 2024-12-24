@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            519,
+            482,
+            546,
+            553
+        ],
+        "text": "SWOOP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            666,
+            129,
+            691,
+            199
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            688,
+            610,
+            749,
+            735
+        ],
+        "text": "KOFF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            827,
+            118,
+            880,
+            185
+        ],
+        "text": "HUH?! WAIT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

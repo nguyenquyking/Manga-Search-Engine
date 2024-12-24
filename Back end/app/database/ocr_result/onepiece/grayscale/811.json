@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            58,
+            625,
+            128,
+            738
+        ],
+        "text": "WHY DOES HE LOOK LIKE THAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            199,
+            619,
+            282,
+            734
+        ],
+        "text": "HE WAS JUST A TINY LITTLE GEEZER A MINUTE AGO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            178,
+            67,
+            305,
+            217
+        ],
+        "text": "SOMEHOW, HE'S REVERTED TO THE STRENGTH HE HAD WHEN KAIDO WAS SO RELENTLESS IN TRYING TO RECRUIT HIM!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            392,
+            55,
+            455,
+            236
+        ],
+        "text": "YEAH... IT'S SO COLD...\nBUT I'VE ALWAYS\nHAD A STRONG GRIP",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            339,
+            464,
+            454
+        ],
+        "text": "BOSS!!\nARE YOU ALL\nRIGHT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            671,
+            464,
+            750
+        ],
+        "text": "RRRGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            551,
+            491,
+            638,
+            600
+        ],
+        "text": "ARE THESE SHIVERS...OF EXCITEMENT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            74,
+            866,
+            179
+        ],
+        "text": "IT MAY BE BURNING THE LAST REMNANTS OF MY BODY FOR FUEL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            65,
+            1049,
+            187
+        ],
+        "text": "...BUT I'LL USE THIS STRENGTH TO CUT DOWN ALL OF THEIR MAIN FORCE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            594,
+            1009,
+            733
+        ],
+        "text": "IT SEEMS THAT ACCIDENTALLY COMING INTO CONTACT WITH THAT VIRUS...\n...HAS EXTRACTED ALL THE STRENGTH I HAVE, TO THE VERY LIMIT OF MY LIFE!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1051,
+            577,
+            1103,
+            641
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

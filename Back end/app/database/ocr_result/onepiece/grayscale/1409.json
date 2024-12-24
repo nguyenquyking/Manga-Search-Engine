@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            334,
+            115,
+            507,
+            324
+        ],
+        "text": "TOKI'S\nPOWERS\nWERE REAL\nAFTER ALL!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            157,
+            334,
+            274,
+            463
+        ],
+        "text": "THEY'VE\nREALLY\nCOME!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            168,
+            1193,
+            291,
+            1333
+        ],
+        "text": "A FEW\nMONTHS\nAGO...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            179,
+            941,
+            311,
+            1091
+        ],
+        "text": "COME FOR\nME!! THE\nGHOSTS OF\nTHE PAST!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            727,
+            126,
+            905,
+            410
+        ],
+        "text": "THE FIVE OF THEM...\nHAVE LEAPT INTO\nTHE PRESENT FROM\nTHAT VERY DAY 20\nYEARS AGO!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1010,
+            141,
+            1239,
+            364
+        ],
+        "text": "DOES THAT\nPOWER REALLY\nEXIST? THEY\nESCAPED FROM\nTHAT BURNING\nCASTLE?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            723,
+            1039,
+            896,
+            1332
+        ],
+        "text": "KIN'EMON,\nKANJURO, RAIZO,\nKIKUNOJO,\nMOMONOSUKE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1412,
+            171,
+            1546,
+            486
+        ],
+        "text": "WELL, DON'T KILL\nTHEM. IF THEY'RE\nSTILL ALIVE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1393,
+            590,
+            1594,
+            931
+        ],
+        "text": "KEEP WATCHING\nTHE SHORES!! I'M\nCERTAIN YOU'LL SPOT\nPEOPLE LEAVING\nTHE COUNTRY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1671,
+            604,
+            1749,
+            688
+        ],
+        "text": "YES,\nSIR!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1380,
+            1033,
+            1561,
+            1334
+        ],
+        "text": "YOU SURE\nSOMEONE ISN'T JUST\nGETTING A RISE OUT\nOF YOU BECAUSE\nYOU'RE TERRIFIED?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1896,
+            164,
+            2095,
+            473
+        ],
+        "text": "...I'VE GOT\nQUESTIONS FOR THE\nKOZUKI SURVIVORS\nAFTER THE LAST\n20 YEARS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1946,
+            1051,
+            2075,
+            1321
+        ],
+        "text": "I'M SURE OF\nIT!! LOOK AT\nTHIS LETTER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

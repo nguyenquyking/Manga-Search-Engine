@@ -1,0 +1,244 @@
+[
+    {
+        "text_box": [
+            227,
+            234,
+            377,
+            417
+        ],
+        "text": "AHA HA HA HA HA HA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            197,
+            1070,
+            289,
+            1327
+        ],
+        "text": "NIKA",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            655,
+            137,
+            1751
+        ],
+        "text": "DOOM DUT DA DA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            416,
+            1570,
+            556,
+            1783
+        ],
+        "text": "...AND MADE KAIDO ANGRY. WHAT WAS THE POINT?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            107,
+            1590,
+            528,
+            2592
+        ],
+        "text": "THE HALL OF POWER,\nPANGAEA CASTLE\nSACRED MARIJOA\nSO WE'VE LOST AN ELITE AGENT...",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            756,
+            1565,
+            887,
+            1726
+        ],
+        "text": "...AND NOT ONCE HAS IT EVER SUCCEEDED.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            742,
+            1893,
+            931,
+            2114
+        ],
+        "text": "IN EVERY ERA, THE WORLD GOVERNMENT HAS ATTEMPTED TO RECOVER THE GUM-GUM FRUIT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            758,
+            2193,
+            907,
+            2346
+        ],
+        "text": "IT IS ALWAYS BETTER TO ELIMINATE DANGEROUS VARIABLES...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            736,
+            2385,
+            879,
+            2625
+        ],
+        "text": "WHAT IF I TOLD YOU THAT THERE WAS A POTENTIAL FUTURE THAT WOULD MAKE US BEG FOR THIS OUTCOME?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1041,
+            338,
+            1212,
+            508
+        ],
+        "text": "THE WARRIOR OF LIBERATION, ALSO KNOWN AS...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            997,
+            560,
+            1198,
+            778
+        ],
+        "text": "...AND FIGHTING IN WHATEVER WAY HE FANCIES, BRINGING SMILES TO THE FACES OF THE PEOPLE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1051,
+            825,
+            1187,
+            1024
+        ],
+        "text": "POSSESSING A BODY WITH THE PROPERTIES OF RUBBER...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1452,
+            210,
+            1631,
+            510
+        ],
+        "text": "AWAKENING BRINGS HIS RUBBERY BODY GREATER PHYSICAL STRENGTH AND FREEDOM.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1737,
+            139,
+            1841,
+            330
+        ],
+        "text": "IT IS SAID THAT IN ALL THE WORLD...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1568,
+            1073,
+            1767,
+            1319
+        ],
+        "text": "NIKA,\nTHE SUN\nGOD.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1328,
+            1554,
+            1458,
+            1748
+        ],
+        "text": "THE ZOAN-TYPE HUMAN-HUMAN FRUIT...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1326,
+            1803,
+            1490,
+            1956
+        ],
+        "text": "AND THIS PARTICULAR FRUIT HAS THE NAME OF A GOD...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1342,
+            1991,
+            1436,
+            2188
+        ],
+        "text": "ZOAN FRUITS CONTAIN A WILL OF THEIR OWN.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1348,
+            2363,
+            1490,
+            2628
+        ],
+        "text": "IT IS AS THOUGH THE DEVIL FRUIT IS TRYING TO ESCAPE OUR GRASP.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1635,
+            2439,
+            1739,
+            2595
+        ],
+        "text": "AND IT VERY WELL MIGHT BE.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1745,
+            1811,
+            1877,
+            1980
+        ],
+        "text": "THE OTHER NAME OF THE GUM-GUM FRUIT IS...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1777,
+            1568,
+            1891,
+            1726
+        ],
+        "text": "MYTHICAL\nTYPE,\nMODEL...",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

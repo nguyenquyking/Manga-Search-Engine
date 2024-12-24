@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            38,
+            65,
+            148,
+            166
+        ],
+        "text": "I'M SO HUNGRY... I THINK I'M GONNA STARVE!!",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            188,
+            49,
+            262,
+            119
+        ],
+        "text": "GIMME SOME FOOD...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            599,
+            127,
+            708
+        ],
+        "text": "I DIDN'T... THEY JUST FELL OVER.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            56,
+            464,
+            207
+        ],
+        "text": "AWWW!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            472,
+            535,
+            603,
+            629
+        ],
+        "text": "BUT YAMATO, IF YOU WANT TO CALL YOURSELF ODEN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            643,
+            557,
+            731
+        ],
+        "text": "SUPREME KING HAKI, EH? A GOOD SIGN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            581,
+            256,
+            637,
+            341
+        ],
+        "text": "...THEN DIE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            81,
+            817,
+            200
+        ],
+        "text": "AAAAH!! NO, DON'T LEAVE ME HERE IN THE DARK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            382,
+            817,
+            542
+        ],
+        "text": "WHAT?! A MONTH?! THE POOR KID REALLY WILL DIE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            581,
+            836,
+            717
+        ],
+        "text": "STAY IN THE CAVE UNTIL YOU SEE SENSE!! I'LL GIVE YOU A MONTH.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            278,
+            944,
+            393
+        ],
+        "text": "PLUS, WE'VE GOT VICIOUS SAMURAI LOCKED UP IN THERE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

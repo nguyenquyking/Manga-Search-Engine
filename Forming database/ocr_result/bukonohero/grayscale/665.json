@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            37,
+            43,
+            195,
+            174
+        ],
+        "text": "Yeah, it makes sense that you'd need a young, strong body. But there was another element.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            405,
+            156,
+            510
+        ],
+        "text": "...How a body that's too weak can't receive it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            531,
+            171,
+            624
+        ],
+        "text": "Midoriya and All Might explained to us...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            358,
+            71,
+            448,
+            180
+        ],
+        "text": "After all, One For All contains eight other spirits.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            359,
+            257,
+            409,
+            348
+        ],
+        "text": "A strong emotion is key, no?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            386,
+            501,
+            533
+        ],
+        "text": "What I don't get is why Shigaraki's rage is so essential.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            63,
+            611,
+            154
+        ],
+        "text": "One needs strength of will to override them.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            167,
+            833,
+            313
+        ],
+        "text": "You'd expect the guy to hold onto plenty of hatred for all those other successors.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            385,
+            831,
+            542
+        ],
+        "text": "But All For One has been pursuing his younger brother and One For All for generations.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            974,
+            58,
+            1074,
+            164
+        ],
+        "text": "It's just the impression I get, but...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            941,
+            317,
+            1013,
+            399
+        ],
+        "text": "Or maybe he has none at all.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            457,
+            1063,
+            547
+        ],
+        "text": "Maybe it's not enough hatred yet?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

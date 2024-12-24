@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            22,
+            19,
+            88,
+            111
+        ],
+        "text": "JUST LIKE EARLIER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            20,
+            222,
+            84,
+            289
+        ],
+        "text": "THIS FEELING!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            32,
+            429,
+            51,
+            490
+        ],
+        "text": "SNAP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            103,
+            648,
+            211,
+            876
+        ],
+        "text": "THE FUTURE\nCOMING DOWN\nTHE PIPELINE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            807,
+            109,
+            1048,
+            331
+        ],
+        "text": "...IS ONE WHERE\nALL THAT\nSCHMALTZ AND\nLIP SERVICE IS\nGONNA GET\nBLOWN AWAY\nBY THE CHAOS!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1174,
+            614,
+            1224,
+            874
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1266,
+            333,
+            1350,
+            416
+        ],
+        "text": "HE'S\nBACK\nUP!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1303,
+            767,
+            1327,
+            866
+        ],
+        "text": "YIKES!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

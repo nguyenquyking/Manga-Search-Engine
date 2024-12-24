@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            60,
+            182,
+            172,
+            316
+        ],
+        "text": "I figured I could see all sorts of places if I was there!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            477,
+            169,
+            615
+        ],
+        "text": "AHHH!! Too bad I couldn't get onto Whitebeard's ship!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            665,
+            145,
+            729
+        ],
+        "text": "The next day...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            151,
+            58,
+            288,
+            160
+        ],
+        "text": "But all's well that ends well!! I'm standing on foreign soil for the first time!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            400,
+            55,
+            540,
+            186
+        ],
+        "text": "At last, I have left the land of Wano!! My adventure has begun!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            625,
+            72,
+            705,
+            207
+        ],
+        "text": "That's right. I'm finally out of the country, and you're dressed the same old way.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            54,
+            824,
+            141
+        ],
+        "text": "I must admit, this is a disappointment.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            258,
+            830,
+            363
+        ],
+        "text": "But...did you say you came from Wano?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            388,
+            825,
+            483
+        ],
+        "text": "No, you were the one who saved me!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            636,
+            735,
+            747
+        ],
+        "text": "It would seem that you nursed me to health, woman!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            651,
+            827,
+            719
+        ],
+        "text": "Thank you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            62,
+            999,
+            187
+        ],
+        "text": "Hey! Where'd the monster from yesterday go?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            239,
+            970,
+            361
+        ],
+        "text": "You do not seem to like that idea!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            601,
+            1096,
+            742
+        ],
+        "text": "Actually...it's been my deepest desire to go to Wano, ever since my childhood!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1082,
+            414,
+            1132,
+            554
+        ],
+        "text": "Would you please take me there?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

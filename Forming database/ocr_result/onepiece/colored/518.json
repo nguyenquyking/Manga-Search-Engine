@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            72,
+            35,
+            142,
+            128
+        ],
+        "text": "...YOUR UTTER DEFEAT!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            285,
+            144,
+            364
+        ],
+        "text": "I WANT YOU TO RECALL...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            614,
+            170,
+            687
+        ],
+        "text": "EXCAVATION LABOR CAMP, UDON",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            252,
+            22,
+            340,
+            142
+        ],
+        "text": "RECALL HOW ALL OF YOUR STRENGTH AMOUNTED TO",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            279,
+            427,
+            348,
+            499
+        ],
+        "text": "THAT IS KAIDO'S SKIN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            348,
+            156,
+            366,
+            197
+        ],
+        "text": "HUFF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            458,
+            86,
+            519,
+            221
+        ],
+        "text": "HE'S POUNDING THAT STEEL LIKE IT'S GELATIN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            596,
+            543,
+            712
+        ],
+        "text": "WE DON'T HAVE TIME!! THE ENEMY IS A MONSTER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            478,
+            552,
+            570
+        ],
+        "text": "HUFF!! HUFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            645,
+            630,
+            694,
+            712
+        ],
+        "text": "BUT YOU CAN DO",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            263,
+            849,
+            478
+        ],
+        "text": "YAAAA!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            889,
+            25,
+            966,
+            133
+        ],
+        "text": "FIVE DAYS UNTIL THE RAID.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

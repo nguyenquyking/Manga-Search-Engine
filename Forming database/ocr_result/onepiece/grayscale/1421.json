@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            134,
+            89,
+            230,
+            217
+        ],
+        "text": "Hey, you!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            193,
+            291,
+            270,
+            458
+        ],
+        "text": "But these guys are pirates!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            495,
+            89,
+            645,
+            220
+        ],
+        "text": "Don't pick on samurai in a rowboat!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            286,
+            600,
+            465
+        ],
+        "text": "The worst generation!! I thought they were locked up!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            115,
+            806,
+            324,
+            965
+        ],
+        "text": "This doesn't make sense. They said we just had to sink a few samurai in a rowboat!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            144,
+            1036,
+            224,
+            1195
+        ],
+        "text": "Luffy!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            474,
+            1367,
+            625,
+            1456
+        ],
+        "text": "Why didn't I hear about this?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            1507,
+            241,
+            1689
+        ],
+        "text": "Like I'd let you have the glory for taking down Kaido!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            2035,
+            216,
+            2206
+        ],
+        "text": "So you showed up after all, Jaggy?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            101,
+            2280,
+            199,
+            2457
+        ],
+        "text": "Sir Luffy!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            2037,
+            633,
+            2211
+        ],
+        "text": "What in the world is happening...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            2296,
+            625,
+            2447
+        ],
+        "text": "Is everyone all right?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            1592,
+            1067,
+            1927
+        ],
+        "text": "When you're at sea...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1415,
+            573,
+            1733,
+            936
+        ],
+        "text": "...you fight against pirates!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1605,
+            314,
+            1785,
+            1702
+        ],
+        "text": "DA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1877,
+            486,
+            1906,
+            929
+        ],
+        "text": "To be continued in One Piece, Vol. 97!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

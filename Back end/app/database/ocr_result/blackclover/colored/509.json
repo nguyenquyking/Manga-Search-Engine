@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            44,
+            249,
+            124,
+            324
+        ],
+        "text": "HUH?!\nARE\nYOU AN\nIDIOT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            11,
+            280,
+            97
+        ],
+        "text": "YOU\nALREADY\nLOST\nONCE!\nTHERE'S\nNO WAY\nHE'S\nTAKING\nYOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            11,
+            606,
+            120
+        ],
+        "text": "REMAINING\nHERE AND\nDEFENDING\nTHE CLOVER\nKINGDOM\nIS AN\nIMPORTANT\nMISSION.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            472,
+            260,
+            570,
+            332
+        ],
+        "text": "YUNO...\nWE DO\nUNDERSTAND,\nBUT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            418,
+            604,
+            517
+        ],
+        "text": "BUT...\nI'M\nBEGGING\nYOU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            434,
+            640,
+            525,
+            731
+        ],
+        "text": "I\nKNOW IT'S\nINSOLENT\nOF ME\nTO ASK.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            366,
+            912,
+            457
+        ],
+        "text": "THERE IS\nSOMETHING\nI WANT TO\nASK YOU.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            829,
+            511,
+            850,
+            624
+        ],
+        "text": "YUNO...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

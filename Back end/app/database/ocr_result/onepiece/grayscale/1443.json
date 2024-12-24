@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            136,
+            120,
+            222,
+            299
+        ],
+        "text": "IN YOUR DREAMS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            895,
+            259,
+            1029
+        ],
+        "text": "We'll all survive this...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            1196,
+            246,
+            1332
+        ],
+        "text": "But it won't come to that!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            127,
+            708,
+            336,
+            832
+        ],
+        "text": "...and we'll strike you down!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            266,
+            954,
+            460
+        ],
+        "text": "SHUNK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            790,
+            527,
+            900,
+            637
+        ],
+        "text": "AND ME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            688,
+            913,
+            990
+        ],
+        "text": "I beseech you too!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            875,
+            909,
+            987
+        ],
+        "text": "I beg of you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            1058,
+            876,
+            1370
+        ],
+        "text": "Sh-Shogun Orochi!! Please, stop this execution!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1408,
+            123,
+            1518,
+            318
+        ],
+        "text": "OROCHI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1395,
+            385,
+            1442,
+            514
+        ],
+        "text": "Heh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1425,
+            603,
+            1531,
+            738
+        ],
+        "text": "We must help them!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1404,
+            790,
+            1544,
+            947
+        ],
+        "text": "They've been shot with arrows!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1404,
+            997,
+            1505,
+            1144
+        ],
+        "text": "Eeeek!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1421,
+            1192,
+            1524,
+            1352
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1578,
+            904,
+            1760,
+            1213
+        ],
+        "text": "RAAAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

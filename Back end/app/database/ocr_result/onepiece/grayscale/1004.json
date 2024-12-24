@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            120,
+            172,
+            128,
+            244
+        ],
+        "text": "RAAAAH...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            902,
+            213,
+            938,
+            237
+        ],
+        "text": "FWAP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

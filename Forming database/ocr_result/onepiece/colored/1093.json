@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            213,
+            188,
+            613,
+            245
+        ],
+        "text": "\u5c3e\u7530\u6804\u4e00\u90ce",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            486,
+            403,
+            669,
+            517
+        ],
+        "text": "\u300c\u30b3\u30de\u30a4\u30cc\uff1f\u3057\u304b\u3057\u5730\u65b9\u306e\u77f3\u5de5\u3055\u3093\u3001\u305d\u3093\u306a\u304a\u9054\u3057\u304c\u6765\u307e\u3057\u305f\u3002\u6c5f\u6238\u6642\u4ee3\u3001\u65e5\u672c\u5404\u5730\u306b\u300c\u72db\u72ac\u3092\u795e\u793e\u306b\u4f5c\u308c!!\u300d\u3055\u3042\u3001\u753b\u50cf\u691c\u7d22\u3057\u3066\u307f\u3066\u306d!!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            756,
+            285,
+            780,
+            316
+        ],
+        "text": "!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            789,
+            199,
+            957,
+            230
+        ],
+        "text": "\u305d\u308c\u304c\u300c\u306f\u3058\u3081\u72db\u72ac!!!\u300d",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            798,
+            298,
+            811,
+            448
+        ],
+        "text": "Twitter&\u516c\u5f0fLINE\u30a2\u30ab\u30a6\u30f3\u30c8!",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            894,
+            281,
+            990,
+            522
+        ],
+        "text": "Twitter\nSNS\u9650\u5b9a\u30b3\u30f3\u30c6\u30f3\u30c4&\u4f01\u753b\u3082\u591a\u6570\u914d\u4fe1\u4e2d!\nURL\u306f\u3053\u3061\u3089!\nTwitter: https://twitter.com/eiichiro_staff\nLINE: https://goo.gl/a8rsxD",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

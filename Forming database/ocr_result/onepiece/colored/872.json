@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            780,
+            67,
+            924,
+            180
+        ],
+        "text": "ONE BLOW,\nSTRAIGHT\nTHROUGH\nLADY\nKOMURA-\nSAKI!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            727,
+            611,
+            877,
+            730
+        ],
+        "text": "THE\nOIRAN'S\nBEEN\nSLASHED\n!!!",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

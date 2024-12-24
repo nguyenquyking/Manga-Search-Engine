@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            77,
+            14,
+            105,
+            157
+        ],
+        "text": "AWWWW",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            274,
+            584,
+            329,
+            693
+        ],
+        "text": "I heard we had intruders...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            52,
+            622,
+            142
+        ],
+        "text": "...But neither of you is Noelle.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            78,
+            905,
+            185
+        ],
+        "text": "...Whether or not you'll be fun to fight.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            49,
+            982,
+            141
+        ],
+        "text": "For starters...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            634,
+            949,
+            703
+        ],
+        "text": "Well, go on. Show me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

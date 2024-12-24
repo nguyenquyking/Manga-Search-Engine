@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            75,
+            225,
+            184,
+            353
+        ],
+        "text": "I hear we're welcoming the big oaf to his new home tomorrow morning.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            213,
+            24,
+            301,
+            161
+        ],
+        "text": "Yeah. Gigantomachia... He's ol' Mushface's goon, right?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            414,
+            96,
+            433,
+            258
+        ],
+        "text": "@HEXAMENDLE",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            559,
+            42,
+            692,
+            205
+        ],
+        "text": "And since he's human, they wouldn't just blow him to bits with a missile.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            228,
+            653,
+            366
+        ],
+        "text": "Nope. Guns are useless against a giant like him.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            482,
+            748,
+            560,
+            856
+        ],
+        "text": "What, they couldn't kill that thing?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            860,
+            156,
+            960,
+            326
+        ],
+        "text": "And we've got our hands full with accusations of human rights violations.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            55,
+            1094,
+            182
+        ],
+        "text": "You don't know where something will be leaked from.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            474,
+            953,
+            602
+        ],
+        "text": "Cut it out. You know we're being recorded.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            887,
+            670,
+            965,
+            792
+        ],
+        "text": "More like a disaster on legs... or a wild beast.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            813,
+            918,
+            891
+        ],
+        "text": "Feh. Human? Hardly.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1283,
+            20,
+            1348,
+            128
+        ],
+        "text": "You know I'm right, though.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1237,
+            368,
+            1375,
+            530
+        ],
+        "text": "The Hearts and Mind Party may be dissolved, but its factions won't let this golden chance pass them by.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1254,
+            681,
+            1363,
+            837
+        ],
+        "text": "Just like the rest of the animals we've got locked up here.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

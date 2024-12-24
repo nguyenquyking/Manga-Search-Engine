@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            108,
+            135,
+            233,
+            290
+        ],
+        "text": "AND THE KOZUKI CREST!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            97,
+            420,
+            183,
+            567
+        ],
+        "text": "DO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            101,
+            1074,
+            289,
+            1301
+        ],
+        "text": "THERE IT IS!! THE FINAL ROAD PONEGLIFF!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            349,
+            938,
+            386,
+            1059
+        ],
+        "text": "OOOH!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            650,
+            97,
+            790,
+            326
+        ],
+        "text": "THEN IT'S TRUE THAT WE WERE BROTHERS WITH THE MINKS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            961,
+            97,
+            1114,
+            388
+        ],
+        "text": "SEE, EVERYONE GETS THEIR TURN... THEIR TIME TO SHINE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            614,
+            1097,
+            813
+        ],
+        "text": "LISTEN, KID... YOU'RE ON THE WAITING LIST!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            935,
+            889,
+            1071,
+            1039
+        ],
+        "text": "PEDRO, YOU SAID YOUR NAME WAS?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            950,
+            1118,
+            1099,
+            1316
+        ],
+        "text": "PLEASE, MISTER!! YOU GOTTA TAKE ME ALONG!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1164,
+            885,
+            1226,
+            979
+        ],
+        "text": "PAT...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1585,
+            108,
+            1699,
+            357
+        ],
+        "text": "WE HAD FOUND SEVERAL REAL PONEGLIFFS...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1885,
+            110,
+            2010,
+            361
+        ],
+        "text": "...AND THE FOUR ROAD PONEGLIFFS.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1697,
+            416,
+            1740,
+            571
+        ],
+        "text": "GRRG...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1509,
+            650,
+            1671,
+            825
+        ],
+        "text": "OKAY, I WILL!! I'LL COME TO YOUR AID!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1505,
+            925,
+            1689,
+            1113
+        ],
+        "text": "WHEN IT COMES AROUND, YOU CAN HELP US!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1527,
+            1169,
+            1624,
+            1323
+        ],
+        "text": "MY TURN?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

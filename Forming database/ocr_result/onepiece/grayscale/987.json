@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            67,
+            104,
+            153,
+            184
+        ],
+        "text": "...Is FLYING?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            58,
+            632,
+            141,
+            719
+        ],
+        "text": "Huh?! Onigashima...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            476,
+            61,
+            571,
+            190
+        ],
+        "text": "...What is Marco the Phoenix doing here?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            387,
+            538,
+            467
+        ],
+        "text": "But also...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            482,
+            523,
+            574,
+            617
+        ],
+        "text": "Kaido can do that?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            665,
+            563,
+            739
+        ],
+        "text": "And it's not falling...? ",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            80,
+            692,
+            163
+        ],
+        "text": "Whose side is he on?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            768,
+            81,
+            802,
+            206
+        ],
+        "text": "Hey!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            615,
+            883,
+            749
+        ],
+        "text": "Gyaaaa!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            635,
+            1046,
+            748
+        ],
+        "text": "Chopper!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

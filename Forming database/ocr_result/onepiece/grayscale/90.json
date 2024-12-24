@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            60,
+            60,
+            164,
+            186
+        ],
+        "text": "There are thousands of your men trapped down there too!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            42,
+            378,
+            159,
+            527
+        ],
+        "text": "Huff, huff... The battle is burning everything below, from the performance floor to the castle.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            564,
+            91,
+            715
+        ],
+        "text": "Koff!! Koff!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            217,
+            74,
+            279,
+            165
+        ],
+        "text": "They will all burn to death!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            393,
+            55,
+            499,
+            182
+        ],
+        "text": "All I have to do is beat you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            563,
+            476,
+            726
+        ],
+        "text": "Nah, I left everyone else in charge down there!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            355,
+            637,
+            437
+        ],
+        "text": "Beeeoying!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            680,
+            502,
+            725,
+            589
+        ],
+        "text": "Whoaaaa!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            675,
+            629,
+            757,
+            737
+        ],
+        "text": "Demolition Gust!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

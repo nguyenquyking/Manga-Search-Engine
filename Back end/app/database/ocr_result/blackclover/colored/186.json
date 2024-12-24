@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            88,
+            196,
+            299,
+            322
+        ],
+        "text": "The effects don't make themselves apparent right away, but it definitely wasn't supposed to start me back up so young...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            165,
+            101,
+            301,
+            169
+        ],
+        "text": "Looks like I wasn't very skilled with it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            319,
+            124,
+            327,
+            186
+        ],
+        "text": "Ha ha ha!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            185,
+            774,
+            295,
+            908
+        ],
+        "text": "My time magic and Swallowtail were very compatible.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            380,
+            360,
+            595,
+            492
+        ],
+        "text": "If by chance anything were to happen to my life, I would use that stored time to start over.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            248,
+            487,
+            314
+        ],
+        "text": "Nah, you're plenty skilled.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            693,
+            588,
+            861
+        ],
+        "text": "Little by little, I stored both my own time and magic in the crest on my forehead.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            52,
+            598,
+            124
+        ],
+        "text": "You're just nuts. And now you look like a kid, old man.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            143,
+            627,
+            254
+        ],
+        "text": "There ain't a person alive that could revert themselves back like that.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            55,
+            913,
+            157
+        ],
+        "text": "I did my best, sir!!! But I can always do better!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            350,
+            902,
+            458
+        ],
+        "text": "Thank you, Asta. You're as energetic as ever. Have you been successful in your endeavors?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            61,
+            1155,
+            154
+        ],
+        "text": "I didn't see you there, but just judging by your face, you...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            417,
+            1075,
+            452
+        ],
+        "text": "Oh...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            774,
+            965,
+            909
+        ],
+        "text": "Whatever you did, I'm so glad you're alive, Magic Emperor!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

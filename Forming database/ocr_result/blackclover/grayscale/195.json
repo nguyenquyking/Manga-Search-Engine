@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            124,
+            126,
+            224,
+            237
+        ],
+        "text": "So he's an orphan from the Forsaken Realm?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            457,
+            225,
+            475,
+            267
+        ],
+        "text": "My...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            779,
+            43,
+            817,
+            158
+        ],
+        "text": "Disgusting peasant!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            160,
+            807,
+            240,
+            877
+        ],
+        "text": "Asta of the Black Bulls.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            212,
+            658,
+            388,
+            781
+        ],
+        "text": "Originally from the church in the village of Hage, at the far edge of the Forsaken Realm.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            643,
+            327,
+            780,
+            449
+        ],
+        "text": "A peasant without parents, who has no detectable magic.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1062,
+            52,
+            1211,
+            193
+        ],
+        "text": "...And those horns are clear proof that she has used forbidden magic!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1062,
+            522,
+            1192,
+            619
+        ],
+        "text": "The Kingdom has no record of her birth...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            985,
+            699,
+            1016,
+            760
+        ],
+        "text": "Those horns!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            966,
+            909,
+            982,
+            940
+        ],
+        "text": "Hey...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1232,
+            870,
+            1329,
+            925
+        ],
+        "text": "Then we have this girl.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

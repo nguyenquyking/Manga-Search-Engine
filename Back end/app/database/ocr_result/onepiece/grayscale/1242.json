@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            114,
+            165,
+            289,
+            316
+        ],
+        "text": "THEN\nSHUT UP\nAND LIE\nDOWN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            110,
+            385,
+            235,
+            522
+        ],
+        "text": "PRAY\nFOR POOR\nLIDDLE ME!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            558,
+            239,
+            777
+        ],
+        "text": "AWW, PAY-\nPAY! THAT HURT\nSO MUCH!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            118,
+            514,
+            313
+        ],
+        "text": "\"SHUT\nUP\"?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            1019,
+            207,
+            1139
+        ],
+        "text": "AAGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            116,
+            1177,
+            226,
+            1356
+        ],
+        "text": "GET OFF\nME, MEDICAL\nTEAM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            156,
+            864,
+            717
+        ],
+        "text": "THUNDER\nBAGUA?\n...BLUNDER\nBAGUA!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            551,
+            866,
+            681
+        ],
+        "text": "MORE\nLIKE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            680,
+            820,
+            889,
+            1110
+        ],
+        "text": "YOU DARE\nTO ATTEMPT\nUSING MASTER\nKAIDO'S THUNDER\nBAGUA?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            1183,
+            853,
+            1347
+        ],
+        "text": "OOH,\nAND I'LL\nGET THAT\nYAMATO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1321,
+            103,
+            1419,
+            303
+        ],
+        "text": "ACTUALLY,\nTHAT HIT YOU\nPRETTY HARD!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1334,
+            920,
+            1404,
+            1075
+        ],
+        "text": "I GUESS\nSHE'S FINE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1576,
+            129,
+            1717,
+            489
+        ],
+        "text": "SHEESH... IT'S\nHARD TO BELIEVE HOW\nTOUGH THOSE DINOSAUR\nPOWERS ARE!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1555,
+            578,
+            1751,
+            840
+        ],
+        "text": "DON'T\nLEAVE ME\nBEHIND!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1617,
+            904,
+            1658,
+            1026
+        ],
+        "text": "GOOD.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1591,
+            1087,
+            1749,
+            1350
+        ],
+        "text": "PAGE ONE!!\nMASTER YAMATO\nAND STRAW HAT\nHAVE STOPPED!!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

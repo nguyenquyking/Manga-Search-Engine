@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            260,
+            117,
+            377,
+            230
+        ],
+        "text": "Even so, Asta, your position is shaky. Don't get careless.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            155,
+            282,
+            240,
+            440
+        ],
+        "text": "...and how that reincarnation got undone.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            222,
+            795,
+            377,
+            906
+        ],
+        "text": "Besides, we're the ones who can best explain about the elves and the devil...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            161,
+            945,
+            281,
+            1025
+        ],
+        "text": "If we talk to them, they'll understand!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1112,
+            114,
+            1404,
+            264
+        ],
+        "text": "What the heck is this?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            974,
+            1459,
+            1012
+        ],
+        "text": "HEEEEEEEEEY!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

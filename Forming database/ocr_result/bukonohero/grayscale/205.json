@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            34,
+            167,
+            56,
+            224
+        ],
+        "text": "HMM?!",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            28,
+            335,
+            50,
+            382
+        ],
+        "text": "HRM?!",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            99,
+            596,
+            168,
+            729
+        ],
+        "text": "YOU DON'T SAY?! WELL, THAT MAKES SENSE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            282,
+            54,
+            396,
+            202
+        ],
+        "text": "IS SHE CLUELESS ABOUT THE STATE OF THE WORLD?!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            349,
+            440,
+            366,
+            529
+        ],
+        "text": "WOOOOW!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            327,
+            588,
+            373,
+            698
+        ],
+        "text": "DON'T TELL ME...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            54,
+            917,
+            145
+        ],
+        "text": "COSTUME REPAIRS? COME ON IN.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            314,
+            777,
+            365
+        ],
+        "text": "KAKLANG",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            802,
+            424,
+            909,
+            532
+        ],
+        "text": "HATSUME... I SWEAR, WHAT IS IT WITH YOU AND EXPLOSIONS?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            593,
+            820,
+            693
+        ],
+        "text": "KOFF! KOFF!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1065,
+            55,
+            1128,
+            228
+        ],
+        "text": "SUPPORT COURSE\nSTUDIO OVERSEER\nPOWER LOADER",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

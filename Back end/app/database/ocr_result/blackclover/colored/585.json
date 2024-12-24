@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            21,
+            454,
+            51,
+            628
+        ],
+        "text": "LICITA'S...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            95,
+            447,
+            138,
+            496
+        ],
+        "text": "GEH HEH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            171,
+            58,
+            207,
+            177
+        ],
+        "text": "...KID",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            338,
+            302,
+            397,
+            395
+        ],
+        "text": "IT'S LIEBE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

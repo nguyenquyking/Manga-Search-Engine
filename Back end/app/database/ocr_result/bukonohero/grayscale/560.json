@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            99,
+            89,
+            208,
+            219
+        ],
+        "text": "Yes, indeed... You're just as he described you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            125,
+            474,
+            196,
+            569
+        ],
+        "text": "...to the point of exhaustion and ruin.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            89,
+            588,
+            163,
+            664
+        ],
+        "text": "You take on the world alone...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            887,
+            27,
+            1083,
+            119
+        ],
+        "text": "An escapee from Tartarus, another hired gun.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            930,
+            218,
+            966,
+            310
+        ],
+        "text": "You're dictator!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1015,
+            352,
+            1065,
+            436
+        ],
+        "text": "...will bring me security!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            834,
+            635,
+            888,
+            719
+        ],
+        "text": "Power in numbers, I say!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            613,
+            1085,
+            684
+        ],
+        "text": "Taking you in...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

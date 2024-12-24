@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            133,
+            27,
+            224,
+            175
+        ],
+        "text": "KILLER!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            96,
+            298,
+            160,
+            372
+        ],
+        "text": "FWA FWA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            99,
+            615,
+            216,
+            708
+        ],
+        "text": "TALK TO ME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            546,
+            19,
+            692,
+            162
+        ],
+        "text": "WHAT DID THEY DO TO MAKE YOU ACT LIKE THIS?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            399,
+            564,
+            485
+        ],
+        "text": "GYA HA HA HA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            522,
+            519,
+            556,
+            586
+        ],
+        "text": "...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            659,
+            568,
+            710
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            50,
+            904,
+            155
+        ],
+        "text": "SO HE TRIED TO SAVE HIS COMPANION, WHO WAS A VICTIM OF THE SMILE FRUIT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            804,
+            199,
+            870,
+            290
+        ],
+        "text": "YOU MEAN THAT'S... THE MASK GUY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            469,
+            900,
+            636
+        ],
+        "text": "WHO DID THIS TO MY PARTNER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            329,
+            934,
+            409
+        ],
+        "text": "FWA FWA FWA!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1080,
+            46,
+            1138,
+            114
+        ],
+        "text": "THE PITIABLE SOULS...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

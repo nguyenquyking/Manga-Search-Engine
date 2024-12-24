@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            88,
+            65,
+            263,
+            206
+        ],
+        "text": "ONCE I'VE BURNED AWAY ALL THAT THING HOLDS NEAR AND DEAR...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            79,
+            565,
+            197
+        ],
+        "text": "...THAT'LL BE THE MARK I'VE LEFT ON THIS WORLD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            50,
+            996,
+            198
+        ],
+        "text": "LIKE I SAID, BIG BROTHER\u2014NOT ON MY WATCH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            59,
+            1135,
+            233
+        ],
+        "text": "To be continued!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

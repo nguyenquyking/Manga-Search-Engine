@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            52,
+            47,
+            178,
+            143
+        ],
+        "text": "Well, I suppose we'll gang up on her, capture her...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            185,
+            130,
+            288
+        ],
+        "text": "What are you going to do...with Robin...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            325,
+            116,
+            431
+        ],
+        "text": "Those were the orders from Kaido.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            467,
+            216,
+            537
+        ],
+        "text": "Then I'll set you free.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            539,
+            130,
+            617
+        ],
+        "text": "...All throughout the castle.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            625,
+            133,
+            725
+        ],
+        "text": "Speak to this girl here, and your voice will carry...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            421,
+            86,
+            472,
+            292
+        ],
+        "text": "Underestimate Nico Robin...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            419,
+            332,
+            555,
+            418
+        ],
+        "text": "...Will we finally kill her. So don't worry, she's got time.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            448,
+            545,
+            569
+        ],
+        "text": "...And only when we're done with her, however many years that takes...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            414,
+            607,
+            518,
+            722
+        ],
+        "text": "...Then mutilate her limbs to incapacitate her...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            102,
+            796,
+            261
+        ],
+        "text": "...At your own peril...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            221,
+            937,
+            320
+        ],
+        "text": "Detected!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            888,
+            361,
+            936,
+            449
+        ],
+        "text": "Detected!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1035,
+            491,
+            1062,
+            535
+        ],
+        "text": "Ah!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            896,
+            651,
+            945,
+            714
+        ],
+        "text": "Performance Floor",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1075,
+            25,
+            1109,
+            77
+        ],
+        "text": "GRRRG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

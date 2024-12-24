@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            71,
+            1437,
+            249,
+            1620
+        ],
+        "text": "EMPEROR OF THE SEA,\nBIG MOM VS.\nTHE NEW GENERATION",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            199,
+            2510,
+            271,
+            2611
+        ],
+        "text": "WHAT IS IT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            1814,
+            331,
+            1931
+        ],
+        "text": "WHERE IS IT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            1827,
+            684,
+            1997
+        ],
+        "text": "SOME OF IT'S IN THIS\nCOUNTRY TOO,\nISN'T IT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            1844,
+            859,
+            1953
+        ],
+        "text": "UGH,\nI'M SO\nCLOSE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            474,
+            144,
+            504,
+            300
+        ],
+        "text": "WINNER...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            819,
+            158,
+            1256,
+            658
+        ],
+        "text": "STOMP-TROMP\n\u30c9\u30f3\u30c1\u30e3\u30f3\u30ab\nSTOMP-TROMP\n\u30ae\u30e3\u30cf\u30cf\u30cf\n\u30ef\u30cf\u30cf\u30cf",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1037,
+            2502,
+            1115,
+            2606
+        ],
+        "text": "KID!!\nLAW!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1121,
+            1852,
+            1228,
+            1972
+        ],
+        "text": "THEY'LL\nPAY FOR\nTHIS!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1408,
+            2087,
+            1512,
+            2232
+        ],
+        "text": "DON'T\nYOU DARE\nASSUME...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1791,
+            1871,
+            1903,
+            2018
+        ],
+        "text": "...THAT\nTHIS'LL\nKILL ME!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1586,
+            125,
+            1759,
+            513
+        ],
+        "text": "EUSTASS\n\"CAPTAIN\" KID AND\n\"SURGEON OF DEATH\"\nTRAFALGAR LAW!!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1607,
+            773,
+            1645,
+            887
+        ],
+        "text": "DOOM!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

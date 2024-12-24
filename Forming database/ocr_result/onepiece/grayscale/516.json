@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            30,
+            129,
+            107,
+            236
+        ],
+        "text": "Is that... Oden's Voyage",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            296,
+            152,
+            403
+        ],
+        "text": "But the words are too hard for me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            636,
+            148,
+            744
+        ],
+        "text": "I want to read this journal...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            229,
+            473,
+            289,
+            545
+        ],
+        "text": "Oden's Travels",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            763,
+            68,
+            851,
+            215
+        ],
+        "text": "When that time comes, I'll fight on the side of Wano...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            350,
+            855,
+            449
+        ],
+        "text": "...that your father might actually intend to let you die...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            477,
+            833,
+            547
+        ],
+        "text": "Yamato, it seems to me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            611,
+            855,
+            699
+        ],
+        "text": "Well, it's been ten days now...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            644,
+            909,
+            746
+        ],
+        "text": "Gya ha ha ha...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            936,
+            600,
+            946,
+            633
+        ],
+        "text": "Yack",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            980,
+            272,
+            1106,
+            381
+        ],
+        "text": "At this rate, we won't be around to see this battle 20 years in the future that Oden speaks of...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1041,
+            71,
+            1115,
+            211
+        ],
+        "text": "I'll have gone to sea...and I'll be much, much, much stronger..!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

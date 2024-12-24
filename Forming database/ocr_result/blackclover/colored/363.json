@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            959,
+            26,
+            980,
+            444
+        ],
+        "text": "TWITTER: dabi_s_wife / \\u26a1ColorClovers",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1063,
+            71,
+            1127,
+            134
+        ],
+        "text": "UP\nABOVE,\nHUH?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1210,
+            557,
+            1241,
+            615
+        ],
+        "text": "GAH...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

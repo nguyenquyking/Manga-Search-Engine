@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            133,
+            222,
+            207,
+            315
+        ],
+        "text": "WE DON'T WANT YOU TO DIE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            370,
+            158,
+            463
+        ],
+        "text": "TOO BAD YOU AIN'T OUR BOSS!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            612,
+            411,
+            665
+        ],
+        "text": "SHOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1001,
+            466,
+            1025,
+            563
+        ],
+        "text": "YOOO!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

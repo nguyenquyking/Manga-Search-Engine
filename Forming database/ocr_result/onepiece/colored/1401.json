@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            1035,
+            650,
+            1058,
+            725
+        ],
+        "text": "vol. 90",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1062,
+            415,
+            1108,
+            724
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

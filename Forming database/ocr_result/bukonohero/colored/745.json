@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            706,
+            238,
+            808,
+            401
+        ],
+        "text": "MAYBE BY YOUR SCREWED-UP STANDARDS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            677,
+            639,
+            846
+        ],
+        "text": "HE WAS JUST \"UNLUCKY,\" HUH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            525,
+            204,
+            619
+        ],
+        "text": "BWOOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1275,
+            135,
+            1359,
+            207
+        ],
+        "text": "BUT HOW?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            135,
+            702,
+            199
+        ],
+        "text": "FWMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            765,
+            679,
+            795,
+            848
+        ],
+        "text": "MY HERO ACADEMIA",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

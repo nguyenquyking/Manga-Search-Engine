@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            65,
+            93,
+            115,
+            268
+        ],
+        "text": "DON'T WORRY,\nIT'S OKAY TO LET GO.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            343,
+            118,
+            393,
+            249
+        ],
+        "text": "I ASSURE YOU,\nI WON'T RUN!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            495,
+            424,
+            575,
+            537
+        ],
+        "text": "AFTER ALL,\nYOUR RIGHT\nHAND...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            61,
+            677,
+            185
+        ],
+        "text": "...WON'T COME\nCRASHING\nDOWN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            805,
+            684,
+            994,
+            889
+        ],
+        "text": "THEY'VE\nWAITED ALL THIS\nTIME FOR YOU\n\"SAVIORS\" TO\nSHOW UP!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            382,
+            927,
+            518
+        ],
+        "text": "FSHHH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1072,
+            69,
+            1165,
+            209
+        ],
+        "text": "...BECAUSE\nI'M GOING TO\nVAPORIZE IT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            682,
+            1871,
+            820,
+            2116
+        ],
+        "text": "FLAMING\nDRUM DRAGON!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1053,
+            1882,
+            1167,
+            2087
+        ],
+        "text": "THIS HAS BEEN\nA LAWLESS LAND\nSINCE THEN!!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

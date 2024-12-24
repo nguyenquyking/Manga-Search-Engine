@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            81,
+            73,
+            168,
+            179
+        ],
+        "text": "It's a miracle it stayed intact in all that chaos.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            48,
+            355,
+            105,
+            446
+        ],
+        "text": "One of them survived.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            53,
+            484,
+            141,
+            611
+        ],
+        "text": "I thought all of Tomura's handy-hands got busted up?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            243,
+            58,
+            306,
+            152
+        ],
+        "text": "Yeah, cuz it's like his defining gimmick.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            474,
+            58,
+            580,
+            178
+        ],
+        "text": "Yes, until that day, that is what I believed! I never doubted it!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            204,
+            541,
+            328
+        ],
+        "text": "...I saw the League of Villains as an obstacle to be overcome!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            625,
+            531,
+            765
+        ],
+        "text": "In our quest to enlighten the world with Destro's will...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            733,
+            358,
+            895,
+            482
+        ],
+        "text": "Bound by my blood and trapped by principles, that is until the day I witnessed true liberation!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            119,
+            1080,
+            287
+        ],
+        "text": "Have I surrendered? No!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            834,
+            687,
+            977,
+            769
+        ],
+        "text": "But please understand\u2014I was blind to the truth!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

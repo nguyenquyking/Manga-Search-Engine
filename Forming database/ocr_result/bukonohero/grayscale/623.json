@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            124,
+            110,
+            208,
+            240
+        ],
+        "text": "WHICH IS EXACTLY WHY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            428,
+            121,
+            569,
+            257
+        ],
+        "text": "...I'VE GOTTA EXTEND A HELPING HAND!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            217,
+            956,
+            467
+        ],
+        "text": "EVEN IN MID-AIR, HE DODGED TO PROTECT HIS JOINTS FROM TAKING DAMAGE... HE'S FOCUSED ON READING MY PATTERNS AND EVADING!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            873,
+            56,
+            898,
+            148
+        ],
+        "text": "FINE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            953,
+            545,
+            1052,
+            656
+        ],
+        "text": "THAT PHONY EDUCATION'S DONE WONDERS FOR YOU.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            438,
+            697,
+            506,
+            847
+        ],
+        "text": "ARGH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            565,
+            170,
+            594,
+            266
+        ],
+        "text": "majkanart",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

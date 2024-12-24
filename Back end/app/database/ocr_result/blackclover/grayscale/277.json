@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            150,
+            97,
+            452,
+            320
+        ],
+        "text": "YAAAAAAAAUGH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            176,
+            538,
+            243,
+            609
+        ],
+        "text": "THE\nDOG\nTOO?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            281,
+            347,
+            393,
+            333
+        ],
+        "text": "CHOMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            657,
+            78,
+            817,
+            194
+        ],
+        "text": "DON'T\nCOME\nOVER\nHERE\nIN A\nGROUP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            211,
+            776,
+            430
+        ],
+        "text": "SHDR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            641,
+            558,
+            691,
+            600
+        ],
+        "text": "NO!\nNOT\nTO A\nGUEST!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            410,
+            1000,
+            486
+        ],
+        "text": "EEE-\nEEE-\nEEK!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            848,
+            744,
+            884,
+            805
+        ],
+        "text": "BAD\nNUN-\nNALLY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            696,
+            1065,
+            899
+        ],
+        "text": "AAH!\nSHDR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1174,
+            58,
+            1337,
+            203
+        ],
+        "text": "ALSO,\nYOU TWO\nAREN'T\nGENETI-\nCALLY\nRELATED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1384,
+            104,
+            1436,
+            180
+        ],
+        "text": "Why do\nyou look\nalike?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1164,
+            303,
+            1230,
+            426
+        ],
+        "text": "WHY\nNOT JOIN\nUS FOR\nDINNER?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1212,
+            704,
+            1316,
+            774
+        ],
+        "text": "THAT'S\nONE\nINSANE\nFAMILY\nRESEM-\nBLANCE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1348,
+            584,
+            1480,
+            660
+        ],
+        "text": "WELL,\nYOU'VE\nCOME\nALL THIS\nWAY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1161,
+            943,
+            1222,
+            988
+        ],
+        "text": "ASTA,\nARE\nYOU\nOKAY?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1145,
+            929,
+            1160,
+            942
+        ],
+        "text": "GRRRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

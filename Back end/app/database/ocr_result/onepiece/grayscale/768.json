@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            82,
+            582,
+            219,
+            737
+        ],
+        "text": "RAG-NARAKU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            326,
+            86,
+            328,
+            119
+        ],
+        "text": "DA-KAMM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            624,
+            41,
+            689,
+            155
+        ],
+        "text": "LUFFYYY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            217,
+            764,
+            302
+        ],
+        "text": "THWUNK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            790,
+            56,
+            822,
+            183
+        ],
+        "text": "ROOM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            384,
+            791,
+            456
+        ],
+        "text": "WHUH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            691,
+            743,
+            753
+        ],
+        "text": "HUFF,\nHUFF...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            831,
+            654,
+            846,
+            731
+        ],
+        "text": "KCHANK!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1064,
+            280,
+            1109,
+            352
+        ],
+        "text": "IT'S ALL\nREADY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

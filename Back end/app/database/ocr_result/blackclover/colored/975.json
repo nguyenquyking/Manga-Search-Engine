@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            425,
+            80,
+            508,
+            205
+        ],
+        "text": "After all...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            123,
+            807,
+            286,
+            1017
+        ],
+        "text": "We'll just Overrule Reality!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            686,
+            630,
+            924,
+            795
+        ],
+        "text": "That's what magic does, right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            313,
+            2057,
+            601,
+            2487
+        ],
+        "text": "Ultimate Plant Magic:",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1066,
+            1122,
+            1391,
+            1582
+        ],
+        "text": "Flower Princess Utopia",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1522,
+            2092,
+            1644,
+            2262
+        ],
+        "text": "This recovery spell! It's-!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

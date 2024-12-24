@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            72,
+            62,
+            178,
+            168
+        ],
+        "text": "AND I DO NOT WISH TO CARRY THAT CURSED BLADE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            213,
+            152,
+            314
+        ],
+        "text": "THIS ONE IS FAMED AS WELL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            350,
+            162,
+            437
+        ],
+        "text": "THEN I'LL TRADE IT FOR YOUR KATANA.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            483,
+            156,
+            627
+        ],
+        "text": "NO, NO, NO, YOU MAY NOT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            649,
+            140,
+            743
+        ],
+        "text": "Y'KNOW, I'LL TAKE IT ANYWAY.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            69,
+            531,
+            167
+        ],
+        "text": "YOU MUST BRING IT BACK!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            400,
+            238,
+            440,
+            299
+        ],
+        "text": "SURE THING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            602,
+            486,
+            731
+        ],
+        "text": "YOU WILL BE PUT UNDER ITS CURSE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            618,
+            638,
+            730
+        ],
+        "text": "IF ANYTHING HAPPENS TO OTAMA, YOU WILL PAY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            585,
+            63,
+            644,
+            172
+        ],
+        "text": "WHY AREN'T YOU RESPONDING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            69,
+            774,
+            174
+        ],
+        "text": "HEY, THAT'S",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            68,
+            952,
+            141
+        ],
+        "text": "WOOF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            726,
+            340,
+            796,
+            436
+        ],
+        "text": "YOU'RE GIVING US A RIDE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1050,
+            665,
+            1116,
+            732
+        ],
+        "text": "HEY, IT'S THE DOG!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

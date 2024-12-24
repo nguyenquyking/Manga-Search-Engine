@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            43,
+            95,
+            135,
+            314
+        ],
+        "text": "IT'S ONLY FAIR! The wound you already gave me will prove fatal, Kiku!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            460,
+            81,
+            540
+        ],
+        "text": "I CANNOT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            367,
+            448,
+            466
+        ],
+        "text": "Master Kin, this one cannot do it...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            259,
+            439,
+            322
+        ],
+        "text": "Weez, Weez!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            528,
+            57,
+            604,
+            155
+        ],
+        "text": "AAAAH!! Kanjuro...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            523,
+            238,
+            578,
+            302
+        ],
+        "text": "Kiku!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            550,
+            607,
+            650,
+            723
+        ],
+        "text": "Kanju-roooo!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            925,
+            33,
+            991,
+            107
+        ],
+        "text": "Kiku!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            950,
+            173,
+            996,
+            247
+        ],
+        "text": "Master Kin...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            339,
+            842,
+            352
+        ],
+        "text": "CLANK...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1038,
+            10,
+            1061,
+            24
+        ],
+        "text": "Huff...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

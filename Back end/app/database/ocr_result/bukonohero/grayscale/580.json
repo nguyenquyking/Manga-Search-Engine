@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            103,
+            166,
+            143,
+            251
+        ],
+        "text": "Hey, I'm Hawks!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            172,
+            24,
+            235,
+            161
+        ],
+        "text": "Your Replacement!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            33,
+            680,
+            120
+        ],
+        "text": "...I bet you've realized...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            577,
+            145,
+            649,
+            249
+        ],
+        "text": "And now that you've fought that kid...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            54,
+            1051,
+            166
+        ],
+        "text": "...that it's too early for us to throw in the towel!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            355,
+            978,
+            445
+        ],
+        "text": "I know you're better than this.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            522,
+            654,
+            665
+        ],
+        "text": "All For One must've sweet-talked you into this!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

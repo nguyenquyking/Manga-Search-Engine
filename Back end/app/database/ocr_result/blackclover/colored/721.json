@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            124,
+            374,
+            205,
+            475
+        ],
+        "text": "THE WIZARD KING!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            327,
+            82,
+            452,
+            194
+        ],
+        "text": "It's THE WIZARD KING!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1113,
+            87,
+            1319,
+            265
+        ],
+        "text": "I ADVANCED MY BODY'S TIME BY TEN YEARS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1414,
+            84,
+            1661,
+            462
+        ],
+        "text": "...BUT IF I COMBINE MY POWER WITH DAMNATION'S... BOTH TIME AND MY ABILITIES ARE LIMITED...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

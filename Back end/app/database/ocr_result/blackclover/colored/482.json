@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            769,
+            64,
+            787,
+            425
+        ],
+        "text": "@charmythedwarf || @ColorClovers",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            931,
+            331,
+            1020,
+            418
+        ],
+        "text": "...will never be able to rescue Yami.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            916,
+            639,
+            989,
+            732
+        ],
+        "text": "A human who can't defeat me...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

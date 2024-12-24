@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            90,
+            108,
+            241,
+            371
+        ],
+        "text": "And when that figure appears, after an 800-year span...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            99,
+            1072,
+            272,
+            1327
+        ],
+        "text": "Wano... No, the entire world awaits a figure...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            345,
+            97,
+            490,
+            388
+        ],
+        "text": "...This country must be prepared to welcome and work with them.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            747,
+            105,
+            969,
+            377
+        ],
+        "text": "They are going... to kill me today.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            1128,
+            883,
+            1333
+        ],
+        "text": "I will be clear with you.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1321,
+            99,
+            1570,
+            715
+        ],
+        "text": "BENG! ...To open up Wano in my stead!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1410,
+            744,
+            1540,
+            966
+        ],
+        "text": "I want you...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1365,
+            1088,
+            1555,
+            1301
+        ],
+        "text": "No!! You can withstand the boiling!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1911,
+            1062,
+            2019,
+            1304
+        ],
+        "text": "You're already a third of the way through!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

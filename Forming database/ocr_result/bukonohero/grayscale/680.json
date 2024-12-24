@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            49,
+            122,
+            122,
+            187
+        ],
+        "text": "It'll spoil before long...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            209,
+            119,
+            243,
+            179
+        ],
+        "text": "...so eat up.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            407,
+            269,
+            496
+        ],
+        "text": "Thank you!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            957,
+            85,
+            1055,
+            206
+        ],
+        "text": "It's like we've slid back in time to darker days.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

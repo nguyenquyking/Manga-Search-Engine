@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            31,
+            330,
+            64,
+            544
+        ],
+        "text": "CHAPTER NOTES:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            109,
+            398,
+            226,
+            749
+        ],
+        "text": "The \"Kazenbo\" is a demon from Toriyama Sekien's picture book \"Konjaku Hyakki Shui\" (A Guide to a Hundred Demons, Past and Present).",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            250,
+            396,
+            389,
+            813
+        ],
+        "text": "It was believed to appear in Mt. Toribe in Kyoto, which was known as an old burial ground in the Heian period. It is portrayed as a beggar bonze (Buddhist teacher) who is engulfed by flames and smoke.",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

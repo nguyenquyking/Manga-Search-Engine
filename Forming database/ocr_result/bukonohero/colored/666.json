@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            50,
+            814,
+            68,
+            875
+        ],
+        "text": "TOKO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            607,
+            224,
+            647
+        ],
+        "text": "...Ya...\n...Mi...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            249,
+            536,
+            388
+        ],
+        "text": "YOU'VE\nSTOPPED\nTHINKING FOR\nYOURSELF.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            539,
+            525,
+            580,
+            595
+        ],
+        "text": "I'M\nJUST...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            812,
+            785,
+            873
+        ],
+        "text": "BWAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1223,
+            527,
+            1293,
+            679
+        ],
+        "text": "...CONCERNED\nABOUT MY\nMENTOR.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

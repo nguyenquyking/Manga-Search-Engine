@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            194,
+            131,
+            479,
+            408
+        ],
+        "text": "...because they're waiting for the Mermaid Princess to be born.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            166,
+            1131,
+            444,
+            1350
+        ],
+        "text": "The Neptunians are restless...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            578,
+            856,
+            714,
+            1095
+        ],
+        "text": "Prophet Girl Sharley (Age 3)",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            874,
+            146,
+            1045,
+            381
+        ],
+        "text": "Now, wait a moment! I'm not even married yet.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            476,
+            1004,
+            656
+        ],
+        "text": "That's wonderful news!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            750,
+            1023,
+            895
+        ],
+        "text": "Will His Majesty have a child?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            887,
+            1103,
+            1028,
+            1375
+        ],
+        "text": "Mermaid Princess?! You've had another prophecy then?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1095,
+            1157,
+            1168,
+            1333
+        ],
+        "text": "YAMMER YAMMER",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1196,
+            125,
+            1362,
+            362
+        ],
+        "text": "I only took the throne a few months ago...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1537,
+            180,
+            1730,
+            478
+        ],
+        "text": "I mean, the seditious mermaid Otohime and her political protest the other day!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1542,
+            565,
+            1695,
+            754
+        ],
+        "text": "And she was right about the seductive...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1553,
+            840,
+            1669,
+            1136
+        ],
+        "text": "She prophesied the death of the late king too!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1572,
+            1196,
+            1652,
+            1363
+        ],
+        "text": "But, King Neptune!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1762,
+            843,
+            1842,
+            912
+        ],
+        "text": "She did.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1872,
+            125,
+            2047,
+            336
+        ],
+        "text": "These are not good prophecies to be correct about!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            90,
+            36,
+            112,
+            118
+        ],
+        "text": "\"GRAMPS\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            416,
+            165,
+            513
+        ],
+        "text": "AND LOOK AT GRAMPS!\nLIKE HE'S THE BOSS OF\nTHEM ALL!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            638,
+            159,
+            731
+        ],
+        "text": "HA HA HA!\nTHESE GUYS ARE\nINTENSE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            351,
+            63,
+            491,
+            181
+        ],
+        "text": "STOP THAT!! I\nOWE THIS MAN MY\nLIFE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            247,
+            459,
+            476
+        ],
+        "text": "HOW MANY YOU WANT,\nBOSS?! FINGERNAILS?\nPINKIES? EARLOBES?\nJUST SAY THE WORD!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            501,
+            438,
+            580
+        ],
+        "text": "GWAAA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            360,
+            596,
+            470,
+            723
+        ],
+        "text": "YER GONNA\nPAY THE\nPRICE FOR\nYER SAUCY\nTONGUE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            131,
+            876,
+            234
+        ],
+        "text": "...WE CAN FINALLY\nREPORT BACK\nTO KIN'EMON.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            796,
+            260,
+            890,
+            349
+        ],
+        "text": "WELL,\nNOW THAT\nTHIS IS\nOVER...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            895,
+            387,
+            949,
+            463
+        ],
+        "text": "LIKE I\nCARE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            794,
+            473,
+            874,
+            576
+        ],
+        "text": "LET THIS BE\nA LESSON TO\nMIND YOUR\nMANNERS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            792,
+            604,
+            870,
+            719
+        ],
+        "text": "AN ACT OF\nMERCY SPARED\nYOUR STONES\nTODAY, BOY.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            204,
+            506,
+            356,
+            664
+        ],
+        "text": "Let's crush the bad guys!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            307,
+            455,
+            481
+        ],
+        "text": "Together!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            114,
+            1340,
+            317
+        ],
+        "text": "I dunno whether destiny exists, but...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1283,
+            587,
+            1430,
+            703
+        ],
+        "text": "You really are... a total idiot.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

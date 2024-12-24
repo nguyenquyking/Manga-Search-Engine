@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            376,
+            47,
+            437,
+            163
+        ],
+        "text": "...OF HELL!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            345,
+            611,
+            415,
+            719
+        ],
+        "text": "THE KING...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            47,
+            589,
+            130
+        ],
+        "text": "HUFF, HUFF...!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1014,
+            59,
+            1068,
+            161
+        ],
+        "text": "WINNER:\nZOLO",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1012,
+            406,
+            1109,
+            500
+        ],
+        "text": "BATTLE\nOUTSIDE\nTHE DOME,\nRIGHTBRAIN\nTOWER...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            911,
+            598,
+            914,
+            661
+        ],
+        "text": "BOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

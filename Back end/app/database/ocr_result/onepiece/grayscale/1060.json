@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            97,
+            336,
+            116,
+            631
+        ],
+        "text": "FWEETLE-DEEN\u266a",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            132,
+            885,
+            222,
+            1001
+        ],
+        "text": "THE FLOWER CAPITAL",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            216,
+            101,
+            292,
+            227
+        ],
+        "text": "IT'S THE NIGHT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            408,
+            283,
+            593,
+            1018
+        ],
+        "text": "STOMP! TROMP! ...OF THE GRAND FIRE FESTIVAL!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            660,
+            107,
+            777,
+            217
+        ],
+        "text": "HERE IN THE FLOWER CAPITAL...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            814,
+            297,
+            894,
+            377
+        ],
+        "text": "HA HA\nHA HA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            775,
+            881,
+            857
+        ],
+        "text": "GYA HA\nHA HA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1156,
+            86,
+            1284,
+            250
+        ],
+        "text": "...COVER UP THE FEARS AND PRESSURES THAT LURK BEHIND THEM.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1172,
+            281,
+            1265,
+            505
+        ],
+        "text": "RAAA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1169,
+            957,
+            1212,
+            1065
+        ],
+        "text": "HH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1428,
+            731,
+            1537,
+            832
+        ],
+        "text": "...THE SMILES\nOF THE\nPEOPLE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1387,
+            869,
+            1496,
+            1006
+        ],
+        "text": "...THE LONE PLACE THAT\nFLOURISHES\nIN WANO...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

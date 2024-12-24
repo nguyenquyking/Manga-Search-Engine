@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            26,
+            637,
+            85,
+            750
+        ],
+        "text": "IF I GET OUT OF THAT RANGE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            298,
+            545,
+            304,
+            605
+        ],
+        "text": "SHOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            662,
+            158,
+            736,
+            642
+        ],
+        "text": "TWANG\nHA\nHA!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            171,
+            1003,
+            207
+        ],
+        "text": "HA\nHA\nHA!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

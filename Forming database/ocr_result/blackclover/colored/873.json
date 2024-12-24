@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            701,
+            1066,
+            770,
+            1312
+        ],
+        "text": "LOLOPECHKA,\nSWEETIE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1272,
+            1093,
+            1266,
+            1222
+        ],
+        "text": "FUOOOH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1593,
+            81,
+            1841,
+            287
+        ],
+        "text": "GOING\nON AN\nALL-OUT\nRAMPAGE\nFEELS\nFANTASTIC,\nDOESN'T IT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1633,
+            1115,
+            1864,
+            1314
+        ],
+        "text": "I JUST\nKNEW YOU'D\nBE AMAZING\nIF YOU GOT\nSERIOUS\nWITH YOUR\nATTACKS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

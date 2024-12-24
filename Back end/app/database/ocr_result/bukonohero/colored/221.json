@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            95,
+            88,
+            208,
+            314
+        ],
+        "text": "...Actually turns out to be someone beyond saving...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            98,
+            710,
+            203,
+            899
+        ],
+        "text": "If a person who looks like they need saving...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            682,
+            736,
+            772,
+            922
+        ],
+        "text": "...Will you have the resolve...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1124,
+            117,
+            1243,
+            322
+        ],
+        "text": "...To kill him, if that's what it takes?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            25,
+            542,
+            38,
+            584
+        ],
+        "text": "SHP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

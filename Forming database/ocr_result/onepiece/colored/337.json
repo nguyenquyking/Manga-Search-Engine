@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            65,
+            96,
+            184,
+            243
+        ],
+        "text": "If you'd come with me, we could have conquered the world...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            71,
+            693,
+            131,
+            868
+        ],
+        "text": "Huff! What a shame...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            91,
+            270,
+            128,
+            319
+        ],
+        "text": "Huff!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            393,
+            208,
+            406,
+            340
+        ],
+        "text": "DA-DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            534,
+            345,
+            639,
+            450
+        ],
+        "text": "We'd never go with you, idiot...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            734,
+            616,
+            822
+        ],
+        "text": "With you?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            523,
+            58,
+            609,
+            238
+        ],
+        "text": "BOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            806,
+            69,
+            898,
+            197
+        ],
+        "text": "We love the samurai...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1026,
+            69,
+            1149,
+            259
+        ],
+        "text": "Do not over-stress. You must allow the Haki to flow into your fist!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1026,
+            308,
+            1134,
+            431
+        ],
+        "text": "...Penetrates and destroys the enemy from the inside.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1030,
+            466,
+            1108,
+            563
+        ],
+        "text": "The Haki you wield...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1201,
+            628,
+            1332,
+            885
+        ],
+        "text": "Huff, Huff. Mark my words... You're going down!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

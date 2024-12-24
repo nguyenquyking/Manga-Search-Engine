@@ -1,0 +1,365 @@
+[
+    {
+        "text_box": [
+            43,
+            44,
+            74,
+            523
+        ],
+        "text": "The story of ONE PIECE 1>90",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            86,
+            44,
+            109,
+            282
+        ],
+        "text": "Character",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            163,
+            264,
+            193,
+            505
+        ],
+        "text": "The Straw Hat Crew",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            228,
+            47,
+            260,
+            249
+        ],
+        "text": "Tony Tony Chopper",
+        "panel_id": "3",
+        "type": "character_name"
+    },
+    {
+        "text_box": [
+            294,
+            48,
+            336,
+            247
+        ],
+        "text": "After researching powerful medicine in Birdie Kingdom, he reunited with the rest of the crew.",
+        "panel_id": "3",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            352,
+            51,
+            366,
+            215
+        ],
+        "text": "Ship's Doctor, Bounty: 100 belly",
+        "panel_id": "3",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            231,
+            397,
+            288,
+            599
+        ],
+        "text": "Monkey D. Luffy",
+        "panel_id": "4",
+        "type": "character_name"
+    },
+    {
+        "text_box": [
+            294,
+            396,
+            336,
+            599
+        ],
+        "text": "A young man who dreams of becoming the Pirate King. After training with Rayleigh, he and his crew head for the New World!",
+        "panel_id": "4",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            352,
+            399,
+            366,
+            570
+        ],
+        "text": "Captain, Bounty: 500 million belly",
+        "panel_id": "4",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            403,
+            43,
+            429,
+            192
+        ],
+        "text": "Nico Robin",
+        "panel_id": "5",
+        "type": "character_name"
+    },
+    {
+        "text_box": [
+            468,
+            47,
+            510,
+            240
+        ],
+        "text": "She spent her time in Baltigo with the leader of the Revolutionary Army: Luffy's father, Dragon.",
+        "panel_id": "5",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            528,
+            50,
+            540,
+            247
+        ],
+        "text": "Archeologist, Bounty: 130 million belly",
+        "panel_id": "5",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            404,
+            394,
+            429,
+            576
+        ],
+        "text": "Roronoa Zoro",
+        "panel_id": "6",
+        "type": "character_name"
+    },
+    {
+        "text_box": [
+            470,
+            396,
+            511,
+            597
+        ],
+        "text": "He swallowed his pride and asked to be trained by Mihawk on Gloom Island before reuniting with the rest of the crew.",
+        "panel_id": "6",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            528,
+            399,
+            541,
+            568
+        ],
+        "text": "Fighter, Bounty: 320 million belly",
+        "panel_id": "6",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            576,
+            44,
+            612,
+            133
+        ],
+        "text": "Franky",
+        "panel_id": "7",
+        "type": "character_name"
+    },
+    {
+        "text_box": [
+            640,
+            47,
+            697,
+            247
+        ],
+        "text": "He modified himself in Future Land Baldimore and turned himself into Armored Franky before reuniting with the rest of the crew.",
+        "panel_id": "7",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            703,
+            50,
+            716,
+            232
+        ],
+        "text": "Shipwright, Bounty: 94 million belly",
+        "panel_id": "7",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            583,
+            410,
+            601,
+            460
+        ],
+        "text": "Nami",
+        "panel_id": "8",
+        "type": "character_name"
+    },
+    {
+        "text_box": [
+            640,
+            395,
+            696,
+            594
+        ],
+        "text": "She studied the weather of the New World on the small Sky Island Weatheria, a place where weather is studied as a science.",
+        "panel_id": "8",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            704,
+            401,
+            716,
+            576
+        ],
+        "text": "Navigator, Bounty: 66 million belly",
+        "panel_id": "8",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            750,
+            43,
+            782,
+            122
+        ],
+        "text": "Brook",
+        "panel_id": "9",
+        "type": "character_name"
+    },
+    {
+        "text_box": [
+            818,
+            48,
+            860,
+            250
+        ],
+        "text": "After being captured and used as a freak show by the Longarm Tribe, he became a famous rock star called \"Soul King\" Brook.",
+        "panel_id": "9",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            879,
+            50,
+            892,
+            221
+        ],
+        "text": "Musician, Bounty: 83 million belly",
+        "panel_id": "9",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            754,
+            408,
+            786,
+            475
+        ],
+        "text": "Usopp",
+        "panel_id": "10",
+        "type": "character_name"
+    },
+    {
+        "text_box": [
+            819,
+            397,
+            847,
+            583
+        ],
+        "text": "He trained under Heracles at the Bowin Islands to become the King of Snipers.",
+        "panel_id": "10",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            877,
+            399,
+            890,
+            565
+        ],
+        "text": "Sniper, Bounty: 200 million belly",
+        "panel_id": "10",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            931,
+            403,
+            955,
+            458
+        ],
+        "text": "Sanji",
+        "panel_id": "11",
+        "type": "character_name"
+    },
+    {
+        "text_box": [
+            994,
+            397,
+            1035,
+            586
+        ],
+        "text": "After fighting the New Kama Karate masters in the Kamabakka Kingdom, he returned to the crew.",
+        "panel_id": "11",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1052,
+            401,
+            1066,
+            562
+        ],
+        "text": "Cook, Bounty: 177 million belly",
+        "panel_id": "11",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            955,
+            38,
+            983,
+            115
+        ],
+        "text": "Shanks",
+        "panel_id": "12",
+        "type": "character_name"
+    },
+    {
+        "text_box": [
+            1010,
+            44,
+            1050,
+            194
+        ],
+        "text": "One of the Four Emperors. Waits for Luffy in the \"New World,\" the second half of the Grand Line.",
+        "panel_id": "12",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1057,
+            47,
+            1072,
+            184
+        ],
+        "text": "Captain of the Red-Hair Pirates",
+        "panel_id": "12",
+        "type": "description"
+    }
+]

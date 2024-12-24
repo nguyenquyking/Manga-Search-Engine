@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            632,
+            46,
+            667,
+            104
+        ],
+        "text": "YOU HURT?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            554,
+            669,
+            634,
+            672
+        ],
+        "text": "WHOOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

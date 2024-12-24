@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            134,
+            288,
+            332,
+            375
+        ],
+        "text": "But then why didn't Nozel ever...? ",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            200,
+            815,
+            259,
+            944
+        ],
+        "text": "Mother did?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            42,
+            785,
+            197
+        ],
+        "text": "That was the type of curse that afflicted your mother.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            619,
+            795,
+            798,
+            943
+        ],
+        "text": "\"The lives of those who speak of it are eroded in the same way.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1121,
+            83,
+            1225,
+            200
+        ],
+        "text": "It's taken me too long to confide in you, Noelle.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1096,
+            428,
+            1360,
+            565
+        ],
+        "text": "This place, which is cut off from the outside world, is the only place where we can discuss the curse.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1131,
+            814,
+            1244,
+            950
+        ],
+        "text": "That's why Nozel kept quiet around his siblings.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

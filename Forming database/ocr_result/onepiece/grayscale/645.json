@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            30,
+            476,
+            161,
+            597
+        ],
+        "text": "ARA-BESQUE BRICK FIST!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            659,
+            93,
+            729
+        ],
+        "text": "ZZTT!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            229,
+            70,
+            263,
+            169
+        ],
+        "text": "ZWIP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            381,
+            56,
+            448,
+            163
+        ],
+        "text": "SHAVE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            353,
+            645,
+            493
+        ],
+        "text": "TEMPEST KICK!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

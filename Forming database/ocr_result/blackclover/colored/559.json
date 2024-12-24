@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            231,
+            264,
+            272,
+            498
+        ],
+        "text": "THAT HUMAN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            267,
+            36,
+            285,
+            222
+        ],
+        "text": "@charmythedwarf",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            267,
+            586,
+            286,
+            735
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            483,
+            270,
+            514,
+            489
+        ],
+        "text": "...CHANGED...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            732,
+            274,
+            761,
+            483
+        ],
+        "text": "...MY WORLD.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            871,
+            107,
+            952,
+            205
+        ],
+        "text": "AFTER ALL...YOU AREN'T A BAD GUY!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            558,
+            984,
+            687
+        ],
+        "text": "JUST BECAUSE SOMEBODY'S A DEVIL DOESN'T NECESSARILY MEAN THEY'RE A BAD GUY!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

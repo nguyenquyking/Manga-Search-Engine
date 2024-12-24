@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            70,
+            572,
+            217,
+            728
+        ],
+        "text": "Ladies and gentlemen! The Wano Flower Capital Soba Battle...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            771,
+            66,
+            898,
+            253
+        ],
+        "text": "...doth hereby come to a conclusion!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

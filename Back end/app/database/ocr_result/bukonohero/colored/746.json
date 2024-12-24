@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            20,
+            79,
+            42,
+            279
+        ],
+        "text": "MY HERO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            206,
+            563,
+            319,
+            701
+        ],
+        "text": "\u30dc\u30ed\u30c3",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            306,
+            607,
+            342,
+            667
+        ],
+        "text": "CRMBLE",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            400,
+            47,
+            425,
+            235
+        ],
+        "text": "NO. 266 - HAPPY LIFE",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            400,
+            343,
+            427,
+            525
+        ],
+        "text": "BY KOHEI HORIKOSHI",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            446,
+            752,
+            490,
+            819
+        ],
+        "text": "WHAT-EVER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            118,
+            643,
+            249
+        ],
+        "text": "YOU'VE LOST MOST OF YOUR WEAPONS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            296,
+            643,
+            344
+        ],
+        "text": "CHF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            726,
+            48,
+            746,
+            242
+        ],
+        "text": "TRANSLATION: CALEB COOK",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            726,
+            335,
+            746,
+            502
+        ],
+        "text": "LETTERING: JOHN HUNT",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            726,
+            614,
+            745,
+            871
+        ],
+        "text": "Colorist: HEXAMENDLE",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            819,
+            691,
+            928,
+            782
+        ],
+        "text": "AND YOU NEARLY BURNED UP YOUR FRIEND...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            860,
+            66,
+            968,
+            209
+        ],
+        "text": "CUZ I KNOW THAT HEROES MUST ALWAYS BE READY TO SAVE A LIFE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1171,
+            692,
+            1200,
+            740
+        ],
+        "text": "SWIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1307,
+            809,
+            1329,
+            871
+        ],
+        "text": "NAH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

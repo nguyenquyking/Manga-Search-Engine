@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            124,
+            40,
+            283,
+            197
+        ],
+        "text": "...OF PRIME ENTERTAINMENT?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            390,
+            225,
+            555
+        ],
+        "text": "DON'T BELIEVE FOR A SINGLE MOMENT THAT YOU'RE THE ONLY ONES GIVING YOUR LIVES FOR A CAUSE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            782,
+            541,
+            872,
+            624
+        ],
+        "text": "WELL, READY FOR A TASTE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

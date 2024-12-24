@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            41,
+            425,
+            135,
+            579
+        ],
+        "text": "...AND PRESERVE IT",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            43,
+            599,
+            160,
+            763
+        ],
+        "text": "...I CAN GRANT HIM NEW ORDER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            340,
+            334,
+            383,
+            435
+        ],
+        "text": "NICE TRY, IDIOT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            136,
+            834,
+            243
+        ],
+        "text": "IT'S A REAL SHAME I COULDN'T KILL YOU AND FINISH THE JOB...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            74,
+            1033,
+            176
+        ],
+        "text": "...BUT HERE ARE SOME WORDS OF WISDOM TO REMEMBER, JOHN DOE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            299,
+            1084,
+            442
+        ],
+        "text": "...MY LITTLE REVOLT WAS THE DEATH OF ME.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            588,
+            854,
+            673
+        ],
+        "text": "NEW ORDER REVOLTS AGAINST OTHER QUIRKS!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            957,
+            550,
+            1062,
+            673
+        ],
+        "text": "THANKS TO ALL THOSE OTHER QUIRKS INSIDE YOU...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

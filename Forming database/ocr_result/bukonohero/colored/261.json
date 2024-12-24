@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            483,
+            142,
+            553,
+            261
+        ],
+        "text": "THAT'S A LOTTA BURNING...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            755,
+            91,
+            931,
+            227
+        ],
+        "text": "PLUS, EVEN IF HE WANTS TO SAY ADIOS TO THIS WORLD, HIS POSITION WON'T ALLOW IT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            726,
+            253,
+            882,
+            366
+        ],
+        "text": "I KNOW DEAR OLD DAD AIN'T GONNA DIE. HE'S TOUGHER THAN THAT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            458,
+            1076,
+            545
+        ],
+        "text": "CAN'T FEEL A THING, THOUGH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1222,
+            141,
+            1353,
+            291
+        ],
+        "text": "HE'LL HAVE TO MAKE SOME KINDA PUBLIC STATEMENT PRETTY SOON TOO.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

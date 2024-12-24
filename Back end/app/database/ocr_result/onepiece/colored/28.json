@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            158,
+            125,
+            349,
+            415
+        ],
+        "text": "I CANNOT\nHELP BUT FEEL\nTHAT FATE IS\nAT WORK.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            136,
+            1227,
+            281,
+            1410
+        ],
+        "text": "MY\nHEART IS\nDANCING.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            95,
+            1521,
+            341,
+            1689
+        ],
+        "text": "IT'S AS\nTHOUGH\nYOU'RE\nRIGHT\nTHERE...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            546,
+            559,
+            538,
+            862
+        ],
+        "text": "DOOM DUT DA DA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            554,
+            1257,
+            631,
+            1549
+        ],
+        "text": "DOOM DUT DA DA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            565,
+            164,
+            663,
+            372
+        ],
+        "text": "I CANNOT\nHELP...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1032,
+            409,
+            1213,
+            600
+        ],
+        "text": "THE MAN\nWHO WILL\nSURPASS\nYOU...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1032,
+            727,
+            1191,
+            974
+        ],
+        "text": "I'M\nMONKEY D.\nLUFFY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            1163,
+            1152,
+            1320
+        ],
+        "text": "WHO\nAM I?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1057,
+            1532,
+            1253,
+            1678
+        ],
+        "text": "...BUT\nPUT MY\nHOPES IN\nHIM...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1759,
+            121,
+            2120,
+            456
+        ],
+        "text": "...KING\nOF THE\nPIRATES\n!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1786,
+            1382,
+            1950,
+            1706
+        ],
+        "text": "...AND\nBECOME...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2614,
+            336,
+            2589,
+            480
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

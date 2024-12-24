@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            224,
+            698,
+            327,
+            882
+        ],
+        "text": "JUST SHUT UP ALREADY!! IT'S LIKE I SAID, MASTER...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            294,
+            74,
+            414,
+            286
+        ],
+        "text": "I'M RUNNING THE SHOW NOW! THIS IS MY DREAM!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1290,
+            61,
+            1356,
+            198
+        ],
+        "text": "YOU CAN'T MOVE IN THIS WORLD YET...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1129,
+            28,
+            1144,
+            68
+        ],
+        "text": "SHF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1014,
+            542,
+            1040,
+            596
+        ],
+        "text": "SLAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

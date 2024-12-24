@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            125,
+            121,
+            160,
+            167
+        ],
+        "text": "All right, thanks",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            200,
+            127,
+            266
+        ],
+        "text": "Need any green onions?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            471,
+            101,
+            535
+        ],
+        "text": "Thanks",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            589,
+            125,
+            651
+        ],
+        "text": "I'll give you some beef stew, too.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            696,
+            143,
+            788
+        ],
+        "text": "...I'm going to give you half a thing of soba.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            640,
+            210,
+            869,
+            359
+        ],
+        "text": "In the vicinity of a facility associated with the Eightfold Cleansers",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            701,
+            29,
+            798,
+            150
+        ],
+        "text": "A place that could be their new stronghold, huh...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            676,
+            738,
+            695,
+            794
+        ],
+        "text": "Oho...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1075,
+            575,
+            1200,
+            669
+        ],
+        "text": "That same day",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

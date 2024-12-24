@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            36,
+            634,
+            54,
+            702
+        ],
+        "text": "\"WELL?\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            523,
+            144,
+            612
+        ],
+        "text": "\"SHALL WE BEGIN, MY WARDS?!\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            283,
+            273,
+            391,
+            504
+        ],
+        "text": "THE ZYGOTES I MET THAT DAY HAVE LONG SINCE HATCHED.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            503,
+            123,
+            591,
+            244
+        ],
+        "text": "...THEY SPREAD THEIR WINGS TO REASSURE ME.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            503,
+            340,
+            537,
+            397
+        ],
+        "text": "...AND NOW...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            501,
+            466,
+            591,
+            578
+        ],
+        "text": "THEY REFUSE TO SUCCUMB TO THE RAGING STORM...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            859,
+            202,
+            977,
+            301
+        ],
+        "text": "\"THOSE FOOLISH VILLAINS PICKED THE WRONG FIGHT!!\"",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            418,
+            949,
+            508
+        ],
+        "text": "YOU MADE A FOOLISH MOVE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            539,
+            922,
+            616
+        ],
+        "text": "I'LL SAY IT AGAIN.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            661,
+            924,
+            730
+        ],
+        "text": "ALL FOR ONE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            7,
+            1056,
+            124
+        ],
+        "text": "BECAUSE CLASS 1-A...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1077,
+            162,
+            1101,
+            201
+        ],
+        "text": "00",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

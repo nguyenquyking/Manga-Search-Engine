@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            121,
+            1215,
+            205,
+            1307
+        ],
+        "text": "IMAGIA DE GRAVEDAD! \nANTE EL REY \nDEMONIO!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            289,
+            60,
+            432,
+            263
+        ],
+        "text": "I KNOW YOU'RE TOUGH...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            153,
+            970,
+            330
+        ],
+        "text": "IF YOU GO\nOUT THERE\nNOW, YOU\nWON'T BE\nANY HELP.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            77,
+            1213,
+            220
+        ],
+        "text": "YOU'LL\nJUST DIE\nOR GET\nIN THE\nWAY!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1079,
+            794,
+            1209,
+            955
+        ],
+        "text": "THAT\nSPELL'S\nNOT\nCOMPLETE\nYET!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1591,
+            607,
+            1602,
+            636
+        ],
+        "text": "CAPA",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1787,
+            1189,
+            1791,
+            1208
+        ],
+        "text": "SHU",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

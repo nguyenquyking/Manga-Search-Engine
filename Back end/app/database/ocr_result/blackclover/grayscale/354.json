@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            43,
+            302,
+            153,
+            496
+        ],
+        "text": "Secre Swallowtail\n(Nero)",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            172,
+            302,
+            363,
+            490
+        ],
+        "text": "Member of:\nThe Black Bulls\nMagic: Sealing\nShe paid for using forbidden magic by\nbecoming a bird 500 years ago. She watched\nover Licht's grimoire.",
+        "panel_id": "1",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            172,
+            763,
+            339,
+            966
+        ],
+        "text": "Member of:\nThe Black Bulls\nMagic: Lightning\nA battle maniac. Once\nhe starts fighting, he gets\ntotally absorbed in it.\nSmiles constantly.",
+        "panel_id": "2",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            163,
+            1198,
+            281,
+            1582
+        ],
+        "text": "Member of:\nThe Golden Dawn\nAsta's best friend, and a good rival who's\nalso been working to become the Wizard King.\nHe controls Sylph, the spirit of wind.",
+        "panel_id": "3",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            433,
+            302,
+            721,
+            486
+        ],
+        "text": "Lolopechka\nMagic: Water\nThe princess of the\nHeart Kingdom.\nShe's fundamentally\nklutzy and clueless.\nShe's been cursed by\nthe devil Megicula.",
+        "panel_id": "4",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            769,
+            302,
+            1035,
+            494
+        ],
+        "text": "Gaja\nMagic: Lightning\nLolopechka's close\nadviser. He has Zero\nStage magic and is one\nof the Heart Kingdom's\nspirit guardians.",
+        "panel_id": "5",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            416,
+            759,
+            697,
+            936
+        ],
+        "text": "Mimosa\nVermillion\nMember of:\nThe Golden Dawn\nMagic: Plant\nNoelle's cousin. She's\nladylike and a bit of\nan airhead, but she\ncan be rude. She just\nmight like Asta...",
+        "panel_id": "6",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            772,
+            761,
+            1009,
+            947
+        ],
+        "text": "Undine\nMagic: Water Spirit\nOne of the four great\nspirits, she's contracted\nto Lolopechka,\nwhom she adores.",
+        "panel_id": "7",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            648,
+            1633,
+            833,
+            2019
+        ],
+        "text": "Asta\nMember of: The Black Bulls\nMagic: None (Anti-Magic)\nHe has no magic, but he's working to become the\nWizard King through sheer guts and his well-\ntrained body. He fights with anti-magic swords.",
+        "panel_id": "8",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            908,
+            1857,
+            1203,
+            2039
+        ],
+        "text": "Yami\nSukehiro\nMember of:\nThe Black Bulls\nMagic: Dark\nA captain who looks\nfiece, but is very\npopular with his\nbrigade, which has a\ndeep-rooted confidence\nin him. Heavy smoker.",
+        "panel_id": "9",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            948,
+            1426,
+            1177,
+            1612
+        ],
+        "text": "Finral\nRoulacase\nMember of:\nThe Black Bulls\nMagic: Spatial\nA playboy who\nimmediately chats up\nany woman he sees. He\ncan't attack, but he has\nhigh-level abilities.",
+        "panel_id": "10",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1240,
+            1429,
+            1536,
+            1606
+        ],
+        "text": "Charmy\nPappitson\nMember of:\nThe Black Bulls\nMagic: Cotton and Food\nShe eats like a\nmaniac, and prizes\nfood above all else.\nShe's half dwarf.\nShe has a big\ncrush on Yuno.",
+        "panel_id": "11",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1273,
+            1857,
+            1520,
+            2032
+        ],
+        "text": "Noelle\nSilva\nMember of:\nThe Black Bulls\nMagic: Water\nA royal. She feels\ninferior to her\nbrilliant siblings. Her\nlatent abilities are an\nunknown quantity.",
+        "panel_id": "12",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            1104,
+            91,
+            1190,
+            917
+        ],
+        "text": "STORY\nIn a world where magic is everything, Asta and Yuno are both found abandoned on the same day at a\nchurch in the remote village of Hage. Both dream of becoming the Wizard King, the highest of all mages,",
+        "panel_id": "13",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1252,
+            89,
+            1344,
+            910
+        ],
+        "text": "The year they turn 15, both receive grimoires, magic books that amplify their bearer's magic. They take\nthe entrance exam for the Magic Knights, nine groups of mages under the direct control of the Wizard\nKing. Yuno, whose magic is strong, joins the Golden Dawn, an elite group, while Asta, who has no magic\nat all, joins the Black Bulls, a group of misfits. With this, the two finally take their first step toward\nbecoming the Wizard King...",
+        "panel_id": "13",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1360,
+            89,
+            1468,
+            912
+        ],
+        "text": "In search of hints regarding the devils and curses that lurk in the shadows of the world, Asta and\ncompany went to the princess of the Heart Kingdom, Lolopechka. After learning of the threat of the\ndevil Megicula, who has made his lair in the Spade Kingdom and is plotting to invade other countries,\nthe Clover Kingdom decides to join forces with the Heart Kingdom. Asta and the others then spend half\na year training with the spirit guardians, but what will the results be...?!",
+        "panel_id": "13",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1508,
+            413,
+            1526,
+            599
+        ],
+        "text": "BLACK CLOVER",
+        "panel_id": "14",
+        "type": "background"
+    }
+]

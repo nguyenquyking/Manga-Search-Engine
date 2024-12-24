@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            101,
+            129,
+            112,
+            159
+        ],
+        "text": "A ghost!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            187,
+            164,
+            273
+        ],
+        "text": "A HERO?! NAH, NOT LIKELY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            316,
+            209,
+            329,
+            250
+        ],
+        "text": "I STILL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            29,
+            514,
+            129
+        ],
+        "text": "...HAVE A CHANCE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            437,
+            373,
+            454,
+            440
+        ],
+        "text": "HRAAAH...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            87,
+            613,
+            103,
+            672
+        ],
+        "text": "URGH...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            654,
+            412,
+            692,
+            481
+        ],
+        "text": "IN THAT CASE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            683,
+            611,
+            772,
+            724
+        ],
+        "text": "MS. STAR LIKELY ASSIGNED A NEW RULE TO HER QUIRK...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            914,
+            4,
+            984,
+            63
+        ],
+        "text": "ONCE HE'S QUIRK-LESS...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            919,
+            383,
+            989,
+            496
+        ],
+        "text": "...I'LL JUST STEAL THIS BYSTANDER'S QUIRK!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            551,
+            1071,
+            641
+        ],
+        "text": "...THAT PREVENTS IT FROM RESIDING AMONG OTHER QUIRKS!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

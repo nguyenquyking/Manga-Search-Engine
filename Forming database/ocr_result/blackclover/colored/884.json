@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            277,
+            113,
+            462,
+            278
+        ],
+        "text": "But you did it out of kindness, didn't you?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            887,
+            583,
+            1045
+        ],
+        "text": "That might have been a mistake.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            241,
+            1119,
+            424,
+            1285
+        ],
+        "text": "Not telling her about the saint stage...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1079,
+            415,
+            1104,
+            520
+        ],
+        "text": "Noelle...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1373,
+            1177,
+            1451,
+            1307
+        ],
+        "text": "Being kind.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1543,
+            597,
+            1785,
+            860
+        ],
+        "text": "How could those things ever be mistakes!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1694,
+            1057,
+            1829,
+            1253
+        ],
+        "text": "Feeling affection for someone.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1444,
+            368,
+            1549,
+            490
+        ],
+        "text": "We don't get along...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1495,
+            84,
+            1625,
+            236
+        ],
+        "text": "...But we do have the same goal, don't we?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

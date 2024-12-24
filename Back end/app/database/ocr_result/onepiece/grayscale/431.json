@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            72,
+            78,
+            154,
+            156
+        ],
+        "text": "I don't want to be like them...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            170,
+            537,
+            210,
+            628
+        ],
+        "text": "No, I...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            58,
+            500,
+            163
+        ],
+        "text": "Those unfeeling monsters...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

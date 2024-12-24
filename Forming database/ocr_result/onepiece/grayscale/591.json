@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            67,
+            62,
+            195,
+            163
+        ],
+        "text": "And Blackfoot has your crew's second highest bounty?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            59,
+            349,
+            167,
+            477
+        ],
+        "text": "All of Onigashima heard that laughing stock!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            660,
+            126,
+            815
+        ],
+        "text": "Robin-chan!! Save me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            60,
+            375,
+            163
+        ],
+        "text": "That should tell you something!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            585,
+            58,
+            635,
+            156
+        ],
+        "text": "I appreciate it!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            236,
+            614,
+            332
+        ],
+        "text": "Thanks!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            570,
+            374,
+            902,
+            519
+        ],
+        "text": "Robin-san,\nI assume you'd like to take it from here?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            640,
+            900,
+            810
+        ],
+        "text": "Yohohohoho!\nSanji-san truly is extraordinary!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            61,
+            1098,
+            190
+        ],
+        "text": "Even though I'm scared of ghosts!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            998,
+            680,
+            1173,
+            834
+        ],
+        "text": "You can leave the rest of these night demons to me!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            39,
+            218,
+            76,
+            235
+        ],
+        "text": "!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            54,
+            284,
+            98,
+            338
+        ],
+        "text": "Pant... Pant...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            520,
+            124,
+            585
+        ],
+        "text": "Three-Sword Style...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            632,
+            159,
+            833
+        ],
+        "text": "That bastard's talking down to me!! I've gotta knock him outta the sky before I run out of steam!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            328,
+            413,
+            370,
+            485
+        ],
+        "text": "@WODEN CREATIV",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            454,
+            632,
+            611,
+            835
+        ],
+        "text": "KALASUTRA: GREAT DRAGON TWISTER!!",
+        "panel_id": "2",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            826,
+            56,
+            873,
+            105
+        ],
+        "text": "!!?",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            915,
+            670,
+            952,
+            751
+        ],
+        "text": "@WODEN CREATIV",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1027,
+            15,
+            1077,
+            146
+        ],
+        "text": "...With his wings?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1025,
+            260,
+            1082,
+            402
+        ],
+        "text": "He's blocking...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1216,
+            418,
+            1242,
+            466
+        ],
+        "text": "...!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

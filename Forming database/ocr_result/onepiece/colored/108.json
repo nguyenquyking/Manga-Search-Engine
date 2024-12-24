@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            60,
+            314,
+            243,
+            611
+        ],
+        "text": "AAAH! SHE'S TAKING OUR LIFE SPAN AWAY TOO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            106,
+            890,
+            155,
+            1029
+        ],
+        "text": "GAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            81,
+            1494,
+            278,
+            1736
+        ],
+        "text": "YOU SHOULD GET AWAY FROM HER, BOSS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            138,
+            1054,
+            366
+        ],
+        "text": "SHE'S TERRIFYING!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            581,
+            980,
+            785
+        ],
+        "text": "ZRRRRMM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            857,
+            1476,
+            1100,
+            1771
+        ],
+        "text": "NO CREATURE ON THE BRINK OF DEATH IS THIS POWERFUL!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2065,
+            422,
+            2188,
+            594
+        ],
+        "text": "FOLLOW YOUR OWN ADVICE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2062,
+            1118,
+            2188,
+            1229
+        ],
+        "text": "HUH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1969,
+            1463,
+            2128,
+            1715
+        ],
+        "text": "CAPTAIN! GET OUT OF HERE, GO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2270,
+            879,
+            2319,
+            1042
+        ],
+        "text": "ZRRRRMM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

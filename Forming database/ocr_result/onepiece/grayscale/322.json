@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            232,
+            1199,
+            357,
+            1315
+        ],
+        "text": "KING OF HELL,\nTHREE-SWORD\nSERPENT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            737,
+            950,
+            883,
+            1136
+        ],
+        "text": "DRAGON\nDAMNATION!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            799,
+            1329,
+            863,
+            1489
+        ],
+        "text": "103\nMERCIES...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1126,
+            65,
+            1140,
+            224
+        ],
+        "text": "To be continued!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

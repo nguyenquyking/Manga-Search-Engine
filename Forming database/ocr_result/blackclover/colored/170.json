@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            59,
+            485,
+            215,
+            576
+        ],
+        "text": "WHAT A PAIN,\nTHAT\nGUY.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            103,
+            198,
+            199
+        ],
+        "text": "Rhya...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            165,
+            1136,
+            473,
+            1333
+        ],
+        "text": "IN THE END,\nEVEN YOU\nMISSED OUT\nON BEING WITH\nLIGHT IN THE\nAFTER-\nLIFE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            415,
+            1011,
+            637
+        ],
+        "text": "I NEVER\nTHOUGHT THE\nDAY WOULD COME\nWHERE I COULD\nHOLD YOU LIKE\nTHIS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            68,
+            899,
+            227
+        ],
+        "text": "WILLIAM!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1708,
+            43,
+            1961,
+            192
+        ],
+        "text": "I HAVE\nSO MUCH...\nSO, SO\nMUCH TO\nTELL YOU,\nBUT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1691,
+            528,
+            1953,
+            660
+        ],
+        "text": "MY DEAR\nFRIEND,\nWHOM I\nSHARE THE\nHEAVIEST\nOF SINS\nWITH...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

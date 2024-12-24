@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            136,
+            126,
+            282,
+            380
+        ],
+        "text": "DON'T TAG ALONG WITH ME!!\nSEARCH SOMEWHERE ELSE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            116,
+            518,
+            280
+        ],
+        "text": "ARE YOU TELLING ME WHAT TO DO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            162,
+            424,
+            241,
+            705
+        ],
+        "text": "OH, I'M SO TIRED... CAN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            155,
+            620,
+            194,
+            679
+        ],
+        "text": "YOU",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            170,
+            773,
+            259,
+            931
+        ],
+        "text": "YOU CAN DO IT, PAY-PAY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            168,
+            1003,
+            259,
+            1163
+        ],
+        "text": "YOU CAN DO IT, PAY-PAY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            352,
+            1173,
+            468,
+            1326
+        ],
+        "text": "INSIDE KAIDO'S CASTLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            680,
+            93,
+            794,
+            231
+        ],
+        "text": "STOP RUNNING, THEN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            270,
+            771,
+            410
+        ],
+        "text": "THAT'S NOT MY PROBLEM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            483,
+            816,
+            673
+        ],
+        "text": "PAY-PAY, I'M EVER SO TIRED...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            771,
+            842,
+            917
+        ],
+        "text": "OH MY STARS!! I JUST CAN'T GO ON...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            671,
+            1225,
+            786,
+            1334
+        ],
+        "text": "HUFF... HUFF...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1207,
+            102,
+            1378,
+            336
+        ],
+        "text": "DON'T DRAG ME DOWN!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1157,
+            1072,
+            1408,
+            1288
+        ],
+        "text": "YOU'RE SUPPOSED TO OFFER TO CARRY ME!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1483,
+            1153,
+            1589,
+            1274
+        ],
+        "text": "URGL!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1769,
+            908,
+            1833,
+            1272
+        ],
+        "text": "ANIMAL KINGDOM PIRATES\nTOBI ROPPO",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1915,
+            895,
+            2121,
+            1285
+        ],
+        "text": "ULTI &\nPAGE ONE",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

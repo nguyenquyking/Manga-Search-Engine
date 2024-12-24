@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            36,
+            707,
+            162,
+            827
+        ],
+        "text": "The Legendary... First Ever Magic Emperor!?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            107,
+            11,
+            406,
+            188
+        ],
+        "text": "Which means...you can move!? W-What's happening here!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            157,
+            500,
+            339,
+            619
+        ],
+        "text": "WHOAAA!!! It's the real deal!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            482,
+            579,
+            533
+        ],
+        "text": "Wha- you- What...!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            234,
+            594,
+            302
+        ],
+        "text": "Oh, they're...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            767,
+            664,
+            872
+        ],
+        "text": "C- Calm down, Asta. I think we're just seeing things.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            592,
+            640,
+            672
+        ],
+        "text": "WHOAAAA!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            847,
+            618,
+            916,
+            766
+        ],
+        "text": "That girl... seems familiar...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            874,
+            799,
+            909,
+            868
+        ],
+        "text": "...Hmmm...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            923,
+            447,
+            1063,
+            597
+        ],
+        "text": "Those guys are the Magic Knights of this time... They helped gather the magic stones and defended the kingdom...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1040,
+            74,
+            1121,
+            185
+        ],
+        "text": "But, Prince, Licht takes precedence...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

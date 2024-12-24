@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            97,
+            203,
+            109,
+            280
+        ],
+        "text": "GRRRM...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            209,
+            94,
+            188,
+            319
+        ],
+        "text": "\u30b4\u30b4\u30b4\u30aa\u30aa",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            563,
+            360,
+            579,
+            415
+        ],
+        "text": "\u30d3\u30ad\u2026",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            899,
+            165,
+            951,
+            294
+        ],
+        "text": "MIRROR MOUNTAIN!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1100,
+            261,
+            1140,
+            357
+        ],
+        "text": "\u30d1\u30ad\u30c3 \u30d1\u30ad\u30c3",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1069,
+            679,
+            1103,
+            700
+        ],
+        "text": "\u30dd\u30bf\u2026",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            924,
+            728,
+            1070,
+            842
+        ],
+        "text": "SWOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1321,
+            104,
+            1539,
+            226
+        ],
+        "text": "Both of your magics are fantastic, Lady Vani-caaaa.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1379,
+            575,
+            1464,
+            693
+        ],
+        "text": "Doh ho ho ho ho ho!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1100,
+            985,
+            1121,
+            1029
+        ],
+        "text": "Ghk...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            36,
+            80,
+            146,
+            159
+        ],
+        "text": "HERE'S THE STORY OF HOW I BECAME DABI...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            160,
+            389,
+            234,
+            449
+        ],
+        "text": "ROTTEN OR NOT, I'M STILL YOUR BIG BRO.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            144,
+            475,
+            196,
+            534
+        ],
+        "text": "HAPPY TO SHARE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            593,
+            113,
+            694
+        ],
+        "text": "YOU REALLY WANNA KNOW? FINE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            57,
+            970,
+            235
+        ],
+        "text": "...EVEN WHEN I NEVER STOPPED BURNING HOTTER THAN YOU\u2014HIS MASTERPIECE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            463,
+            1025,
+            597
+        ],
+        "text": "AND THE REASON I'M STILL ALIVE AND KICKING TO TELL THE TALE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1119,
+            60,
+            1133,
+            232
+        ],
+        "text": "To be continued!",
+        "panel_id": "2",
+        "type": "caption"
+    }
+]

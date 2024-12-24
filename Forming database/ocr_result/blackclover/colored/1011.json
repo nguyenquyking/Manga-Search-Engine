@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            24,
+            677,
+            37,
+            740
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            905,
+            434,
+            1000,
+            561
+        ],
+        "text": "You're still standing in my way? You can't even die right.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            680,
+            809,
+            747
+        ],
+        "text": "00000",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1071,
+            528,
+            1143,
+            766
+        ],
+        "text": "@AcierValey @colorclovers",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

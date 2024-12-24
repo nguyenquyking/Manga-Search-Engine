@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            168,
+            102,
+            259,
+            247
+        ],
+        "text": "I think so.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            416,
+            97,
+            557,
+            283
+        ],
+        "text": "Gaban, Rayleigh, stop!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            885,
+            581,
+            1045
+        ],
+        "text": "Should we nip this in the bud, Rayleigh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            1141,
+            207,
+            1344
+        ],
+        "text": "The stories... are true!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            248,
+            1144,
+            594,
+            1337
+        ],
+        "text": "THUMP! He's mighty!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            717,
+            77,
+            861,
+            200
+        ],
+        "text": "Hey there, Samurai!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            848,
+            460,
+            952,
+            578
+        ],
+        "text": "I smell a wild beast!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            799,
+            868,
+            918
+        ],
+        "text": "You just want to fight.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            689,
+            948,
+            900,
+            1352
+        ],
+        "text": "DUT DUT DUT DUT DUT I wouldn't want you guys to get hurt.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1790,
+            133,
+            2008,
+            391
+        ],
+        "text": "Divine Departure!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

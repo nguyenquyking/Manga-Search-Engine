@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            50,
+            138,
+            79,
+            223
+        ],
+        "text": "I don't recommend it either.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            44,
+            635,
+            121,
+            733
+        ],
+        "text": "Huh? No, don't even try it... That's too dangerous!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            60,
+            200,
+            114
+        ],
+        "text": "SHAHH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            250,
+            58,
+            360,
+            160
+        ],
+        "text": "\"Once you've got that down, throw in another thing.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            258,
+            297,
+            417,
+            410
+        ],
+        "text": "First, figure out how to handle two processes at once subconsciously.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            313,
+            464,
+            403,
+            576
+        ],
+        "text": "I know exactly what you're trying to do...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            104,
+            867,
+            208
+        ],
+        "text": "It's a bit too late for that!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            254,
+            869,
+            396
+        ],
+        "text": "You haven't even tested my quirk yet. Before adding it to your parallel processes, you need to get a feel for how it works.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            966,
+            460,
+            1020,
+            563
+        ],
+        "text": "You've admitted it yourself.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            866,
+            614,
+            936,
+            721
+        ],
+        "text": "...But you're not proficient enough yet.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

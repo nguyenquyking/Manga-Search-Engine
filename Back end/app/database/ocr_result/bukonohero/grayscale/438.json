@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            77,
+            580,
+            161,
+            696
+        ],
+        "text": "...that we should be covered in filth too?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            580,
+            561,
+            724
+        ],
+        "text": "NO!\nHeroes are the only ones coated in that filth!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            893,
+            386,
+            1030,
+            533
+        ],
+        "text": "So give him a moment's rest to wash away the grime!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

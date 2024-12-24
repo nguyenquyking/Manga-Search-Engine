@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            759,
+            326,
+            831,
+            428
+        ],
+        "text": "BUT THE ROAD AHEAD WILL BE PERILOUS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1038,
+            26,
+            1059,
+            79
+        ],
+        "text": "YEAH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            488,
+            1052,
+            568
+        ],
+        "text": "...IS CLEARED.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            572,
+            1046,
+            679
+        ],
+        "text": "WITH THAT, OUR FIRST CHALLENGE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            30,
+            47,
+            122,
+            179
+        ],
+        "text": "OTAMA!\nWHY ARE YOU\nRUNNING AWAY\nFROM ME...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            232,
+            89,
+            315
+        ],
+        "text": "OTAMA!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            410,
+            119,
+            533
+        ],
+        "text": "USOHACHI,\nONAMI! WE\nGOTTA RUN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            591,
+            122,
+            729
+        ],
+        "text": "OOOO HO HO HO!\nTHE POWER\nIS RIPPLING\nTHROUGH ME!\u2661",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            204,
+            226,
+            249,
+            307
+        ],
+        "text": "C'MON,\nHURRY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            301,
+            57,
+            368,
+            181
+        ],
+        "text": "I HATE IT\nWHEN PEOPLE\nLEAVE ME!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            326,
+            595,
+            369,
+            675
+        ],
+        "text": "SHE\nATE HIM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            53,
+            527,
+            183
+        ],
+        "text": "EYAAAAA\n!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            597,
+            581,
+            723
+        ],
+        "text": "IT MEANS\nI HAVE\nTO KILL\nTHEM!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            933,
+            56,
+            969,
+            159
+        ],
+        "text": "PUNK",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1083,
+            257,
+            1108,
+            324
+        ],
+        "text": "HMM?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

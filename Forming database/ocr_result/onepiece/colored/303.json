@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            365,
+            557,
+            360,
+            729
+        ],
+        "text": "POK POK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            69,
+            1560,
+            144,
+            1732
+        ],
+        "text": "DEMONIO FLEUR!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            100,
+            1132,
+            287,
+            1385
+        ],
+        "text": "GRAND JACUZZI CLUTCH!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            607,
+            1522,
+            729,
+            1636
+        ],
+        "text": "I CAN BE A DEMON IF I HAVE TO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            570,
+            1936,
+            665,
+            2026
+        ],
+        "text": "A... DEMON?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            860,
+            1766,
+            969,
+            1921
+        ],
+        "text": "FOR THE PEOPLE WHO ARE COUNTING ON ME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            1981,
+            972,
+            2158
+        ],
+        "text": "I'LL DO IT FOR THE PEOPLE WHO TRULY NEED ME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1060,
+            1529,
+            1170,
+            1663
+        ],
+        "text": "STOP! WHY DO YOU LOOK LIKE THAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1268,
+            1842,
+            1326,
+            2030
+        ],
+        "text": "WHAT WAS THAT YOU SAID ABOUT NOT NEEDING ARMS AND LEGS?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1326,
+            2104,
+            1393,
+            2191
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1446,
+            1493,
+            1560,
+            1614
+        ],
+        "text": "YOU'RE THE ONE NOBODY WANTS...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1453,
+            1652,
+            1557,
+            1771
+        ],
+        "text": "WHAT?! I WASN'T TALKING ABOUT ME...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1360,
+            512,
+            1468,
+            752
+        ],
+        "text": "AAAAUGH!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1495,
+            291,
+            1495,
+            458
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

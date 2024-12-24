@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            839,
+            7,
+            1019,
+            117
+        ],
+        "text": "The magic tools we made are?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            742,
+            515,
+            748,
+            521
+        ],
+        "text": "!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

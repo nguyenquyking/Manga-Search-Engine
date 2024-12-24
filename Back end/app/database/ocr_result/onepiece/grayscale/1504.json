@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            88,
+            189,
+            309,
+            404
+        ],
+        "text": "AFTERWARD,\nIN REFERENCE TO THESE RED\nSCABBARDS, AND\nIN HONOR OF\nTHEIR STRENGTH\nAND LOYALTY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            111,
+            1879,
+            286,
+            2122
+        ],
+        "text": "WITH HIM\nSTOOD NINE MEN,\nMADE SAMURAI\nTHROUGH HIS\nPATRONAGE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            2270,
+            293,
+            2444
+        ],
+        "text": "...TO THE\nONCE-IN-A-\nLIFETIME\nUPROAR\nCAUSED...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            341,
+            2199,
+            524,
+            2488
+        ],
+        "text": "ZSH ZSH\nWHAT'S\nTHIS?",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            432,
+            1907,
+            574,
+            2114
+        ],
+        "text": "THE HOUR\nWAS SUNSET,\nTHE SUN\nCRIMSON RED.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            545,
+            552,
+            714,
+            744
+        ],
+        "text": "IT SHONE LIKE\nFLAMES UPON\nTHESE MEN\nHEADING INTO\nBATTLE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            606,
+            2329,
+            691,
+            2414
+        ],
+        "text": "MURMUR\nMURMUR",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            819,
+            532,
+            1006,
+            765
+        ],
+        "text": "...AND THE\nKATANAS THEY\nWORE AT THEIR\nWAISTS BURNED\nJUST AS BRIGHTLY\nWITH LIFE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            831,
+            161,
+            996,
+            396
+        ],
+        "text": "...PEOPLE\nCALLED THEM\nTHE AKAZAYA\nNINE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            840,
+            2242,
+            1009,
+            2457
+        ],
+        "text": "...BY KOZUKI\nODEN, THE\nMAN FOR WHOM\nALL OF WANO\nWEPT!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1194,
+            747,
+            1363,
+            1029
+        ],
+        "text": "AND NOW, DEAR\nAUDIENCE, LET NOT\nYOUR EYELIDS BLINK,\nLEST YOU MISS A\nSINGLE MOMENT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1211,
+            256,
+            1359,
+            522
+        ],
+        "text": "...OF WHAT\nSHALL BE KNOWN\nAS THE HOUR OF\nLEGENDS!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1207,
+            1871,
+            1361,
+            2048
+        ],
+        "text": "THE STORY OF\nTHEIR MARCH\nIS A THING\nOF THE PAST,\nSADLY...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1219,
+            1505,
+            1365,
+            1725
+        ],
+        "text": "...AND IT ENDS\nIN THE PUBLIC\nEXECUTION OF\nKOZUKI ODEN.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1217,
+            2163,
+            1359,
+            2385
+        ],
+        "text": "THEIR FOE WAS\nKAIDO--THEY\nPAID HEED TO\nNO OTHER.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1731,
+            53,
+            1900,
+            2519
+        ],
+        "text": "BE-BENG!!\nBENGBENG\nBEBENG\nBENG\nBENG!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

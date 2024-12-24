@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            76,
+            112,
+            178,
+            218
+        ],
+        "text": "THERE'S A BATTLE UNFOLDING!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            420,
+            174,
+            515
+        ],
+        "text": "GET AWAY FROM RASETSU TOWN!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            585,
+            159,
+            679
+        ],
+        "text": "FLOWER CAPITAL,\nWANO",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            252,
+            266,
+            264,
+            346
+        ],
+        "text": "RAAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            480,
+            28,
+            588,
+            164
+        ],
+        "text": "...IS DECLARING THEMSELVES MY ENEMY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            583,
+            564,
+            699
+        ],
+        "text": "GET OVER THERE AND FIGHT!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            508,
+            304,
+            516,
+            367
+        ],
+        "text": "RAAAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            640,
+            571,
+            734,
+            698
+        ],
+        "text": "ANYONE WHO DARES\nTO ALLY WITH\nYASUIE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            945,
+            419,
+            1086,
+            558
+        ],
+        "text": "SEIZE THEM ALL\nAND STRIKE\nOFF THEIR\nHEADS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

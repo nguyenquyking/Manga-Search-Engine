@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            376,
+            385,
+            430,
+            706
+        ],
+        "text": "THAT HUMAN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            720,
+            390,
+            771,
+            697
+        ],
+        "text": "...CHANGED...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1067,
+            397,
+            1105,
+            685
+        ],
+        "text": "...MY WORLD.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1264,
+            160,
+            1371,
+            296
+        ],
+        "text": "After all...you aren't a bad guy!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1272,
+            790,
+            1414,
+            967
+        ],
+        "text": "Just because somebody's a devil doesn't necessarily mean they're a bad guy!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

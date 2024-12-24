@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            532,
+            49,
+            558,
+            229
+        ],
+        "text": "SHIGARAKI!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1146,
+            214,
+            1276,
+            374
+        ],
+        "text": "NUMBER ONE. YOU'RE ONE HELL OF A WAKE-UP CALL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1400,
+            612,
+            1420,
+            929
+        ],
+        "text": "Next chapter hits June 7!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

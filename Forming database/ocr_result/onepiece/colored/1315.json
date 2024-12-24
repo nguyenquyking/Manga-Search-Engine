@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            68,
+            114,
+            138,
+            237
+        ],
+        "text": "Even with seven days, there's no end of topics to discuss.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            285,
+            128,
+            380
+        ],
+        "text": "This should go quickly...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            583,
+            111,
+            699
+        ],
+        "text": "Bollywood, eh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            807,
+            300,
+            860
+        ],
+        "text": "It's me. Greetings, everyone.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            1062,
+            135,
+            1124
+        ],
+        "text": "Who is it this time?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            1386,
+            164,
+            1482
+        ],
+        "text": "The position of chairman rotates...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            266,
+            1360,
+            290,
+            1440
+        ],
+        "text": "Luffy...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            280,
+            460,
+            297,
+            566
+        ],
+        "text": "Salutations.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            88,
+            548,
+            247
+        ],
+        "text": "...Let us commence with the discussion...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            1298,
+            535,
+            1447
+        ],
+        "text": "My esteemed fellow monarchs...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            560,
+            786,
+            937
+        ],
+        "text": "WORLD GOVT.",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            858,
+            386,
+            996,
+            1102
+        ],
+        "text": "REVERIE\nWORLD MEETING",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            974,
+            33,
+            1092,
+            190
+        ],
+        "text": "...About this beautiful world of ours!!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            32,
+            265,
+            273,
+            422
+        ],
+        "text": "He says, \"Fan the flames. Rally the discontented faction that's been keeping quiet and lying in wait.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            611,
+            332,
+            740
+        ],
+        "text": "You-know-who anticipated that, as evacuees here, we wouldn't be able to act freely.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            70,
+            630,
+            183
+        ],
+        "text": "\"So fan the flames.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            479,
+            265,
+            687,
+            419
+        ],
+        "text": "\"The school knows of the impending danger, but they're keeping it from the common people.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            591,
+            677,
+            738
+        ],
+        "text": "\"U.A. is aware that Tomura Shigaraki will be operational in less than a week's time.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            315,
+            1077,
+            517
+        ],
+        "text": "\"Until that fortress is once again an inhospitable place for Izuku Midoriya.\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

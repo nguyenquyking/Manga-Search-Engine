@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            40,
+            417,
+            62,
+            516
+        ],
+        "text": "RSTL",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            93,
+            637,
+            163,
+            750
+        ],
+        "text": "YOU HAVE TO SAVE US!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            283,
+            606,
+            308,
+            698
+        ],
+        "text": "YUGA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

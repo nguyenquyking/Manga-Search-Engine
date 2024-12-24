@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            224,
+            36,
+            382,
+            206
+        ],
+        "text": "The distortions Patry glimpsed in the kingdom, and the grief he felt were undeniably real.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            100,
+            467,
+            280,
+            590
+        ],
+        "text": "Because of it, people despised and discriminated against me, and so to me...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            99,
+            787,
+            259,
+            911
+        ],
+        "text": "This curse was engraved on my face, and no one ever even told me why.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            481,
+            60,
+            660,
+            189
+        ],
+        "text": "In that case, at the very least, I have to lay the foundation for its end!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            481,
+            814,
+            680,
+            963
+        ],
+        "text": "I couldn't fully believe in Master Julius, or in the future. I had a duty to protect. My weakness brought on this fight.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1216,
+            35,
+            1419,
+            349
+        ],
+        "text": "Combo Spell:",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

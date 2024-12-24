@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            98,
+            107,
+            143,
+            147
+        ],
+        "text": "Keh keh.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            249,
+            111,
+            321
+        ],
+        "text": "So, seriously,\nThank you so much!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            327,
+            103,
+            376
+        ],
+        "text": "It's thanks\nto you that I've\nmanaged\nto fight\nup till now!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            717,
+            161,
+            776
+        ],
+        "text": "Thank you!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            308,
+            594,
+            377,
+            748
+        ],
+        "text": "That's my line.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            63,
+            546,
+            212
+        ],
+        "text": "You moron.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            550,
+            707,
+            712
+        ],
+        "text": "Thanks to you...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            67,
+            1126,
+            353
+        ],
+        "text": "...I can fight these guys at the highest level!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

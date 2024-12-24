@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            137,
+            166,
+            261,
+            305
+        ],
+        "text": "...yours and the country's!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            162,
+            726,
+            341,
+            856
+        ],
+        "text": "My grimoire... is once more, and will always be...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            989,
+            249,
+            1033,
+            316
+        ],
+        "text": "All right.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

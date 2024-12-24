@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            114,
+            248,
+            164,
+            343
+        ],
+        "text": "Stop, Trumpet. Any more...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            534,
+            467,
+            643
+        ],
+        "text": "...would bring about meaningless death.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            112,
+            786,
+            223
+        ],
+        "text": "It was their willingness to die for the cause that brought us this far.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            733,
+            263,
+            798,
+            348
+        ],
+        "text": "They were following Destro's will.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            723,
+            438,
+            737,
+            465
+        ],
+        "text": "No.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            703,
+            499,
+            782,
+            585
+        ],
+        "text": "These fine people were just following my-",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            877,
+            367,
+            943,
+            433
+        ],
+        "text": "\u30ac\u30c3\u2026\nSHF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

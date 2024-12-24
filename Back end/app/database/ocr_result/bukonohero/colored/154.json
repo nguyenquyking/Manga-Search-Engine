@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            145,
+            280,
+            218,
+            420
+        ],
+        "text": "You've known real darkness...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            214,
+            50,
+            307,
+            237
+        ],
+        "text": "...so you gotta know there's a way to bring back the light.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            522,
+            637,
+            599,
+            755
+        ],
+        "text": "Please! Fight on our side.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            109,
+            768,
+            282
+        ],
+        "text": "I can tell you've still got the soul of a hero.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            193,
+            988,
+            258
+        ],
+        "text": "What a guy.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            518,
+            1005,
+            550
+        ],
+        "text": "BLAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            888,
+            739,
+            1146,
+            800
+        ],
+        "text": "BDMP\n000",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

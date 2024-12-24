@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            88,
+            117,
+            272,
+            363
+        ],
+        "text": "Your speedy charge has cleared the checkpoint for us to pass!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            88,
+            419,
+            245,
+            593
+        ],
+        "text": "We appreciate this, Sir Luffy!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            852,
+            396,
+            1027,
+            596
+        ],
+        "text": "All ships, onward to Onigashima!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1238,
+            64,
+            1374,
+            230
+        ],
+        "text": "But for now, speed is of the essence!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1217,
+            263,
+            1372,
+            442
+        ],
+        "text": "That Straw Hat Crew is a good group to have on our side!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1242,
+            481,
+            1324,
+            609
+        ],
+        "text": "RAHHH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1434,
+            227,
+            1466,
+            399
+        ],
+        "text": "RAAAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1163,
+            783,
+            1303,
+            967
+        ],
+        "text": "What kind of sense of smell do you have?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1441,
+            1039,
+            1664,
+            1185
+        ],
+        "text": "Let's raise a toast! To Jimbei joining the...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1468,
+            1408,
+            1576,
+            1664
+        ],
+        "text": "All right, gang. Now that we've got mugs...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1468,
+            1794,
+            1637,
+            1991
+        ],
+        "text": "This was the first big challenge we were going to face!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1464,
+            2260,
+            1660,
+            2457
+        ],
+        "text": "The Torii Guards have been wiped out!!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1660,
+            107,
+            1824,
+            286
+        ],
+        "text": "Don't give the enemy time to prepare!!",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

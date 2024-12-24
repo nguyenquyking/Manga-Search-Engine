@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            49,
+            496,
+            240,
+            690
+        ],
+        "text": "Once upon a time, vigilantes played the role of heroes and won the people's trust. In turn, the country made sure they kept doing their part.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            397,
+            52,
+            546,
+            213
+        ],
+        "text": "At the end of the day, trust in heroes is the foundation of superpowered society.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            619,
+            544,
+            788,
+            688
+        ],
+        "text": "And me? I was a cog set in place to keep that system running nice and smooth.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            168,
+            1057,
+            245
+        ],
+        "text": "We only started talking about-",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            291,
+            1031,
+            390
+        ],
+        "text": "Wait! No! We haven't done anything yet!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            575,
+            1030,
+            703
+        ],
+        "text": "A system with two sides to it. A front and a back.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

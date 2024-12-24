@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            84,
+            126,
+            147,
+            228
+        ],
+        "text": "THERE IS A SMALL BOAT HERE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            284,
+            55,
+            331,
+            130
+        ],
+        "text": "WE CAN USE IT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            89,
+            445,
+            211
+        ],
+        "text": "ONIGASHIMA",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            429,
+            604,
+            519,
+            703
+        ],
+        "text": "WHAT ARE YOU DOING, DOGSTORM?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            567,
+            393,
+            625,
+            478
+        ],
+        "text": "STOP THIS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            72,
+            832,
+            199
+        ],
+        "text": "...THE PREVIOUS NIGHT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1051,
+            442,
+            1125,
+            581
+        ],
+        "text": "THE INCIDENT ALREADY HAPPENED...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

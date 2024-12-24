@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            145,
+            34,
+            254,
+            132
+        ],
+        "text": "Indeed. Demons are said to reside there.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            98,
+            243,
+            200,
+            336
+        ],
+        "text": "...This world...and a different world?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            55,
+            691,
+            312,
+            815
+        ],
+        "text": "The black horns are proof of an established link into the forbidden realm of magic\u2014a world far different from ours...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            367,
+            380,
+            475,
+            471
+        ],
+        "text": "It's a curse called \"Weg\"...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            659,
+            90,
+            773,
+            231
+        ],
+        "text": "When that first demon failed to obtain it.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            777,
+            441,
+            808,
+            488
+        ],
+        "text": "FWIP...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            669,
+            701,
+            800,
+            824
+        ],
+        "text": "Another demon came to reside in your five-leaf grimoire...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            954,
+            89,
+            1053,
+            189
+        ],
+        "text": "I fell under the magic of a forbidden curse...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            941,
+            433,
+            1068,
+            523
+        ],
+        "text": "500 years ago, in order to seal the demon...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            946,
+            558,
+            1050,
+            626
+        ],
+        "text": "So those horns really are!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            967,
+            754,
+            1014,
+            821
+        ],
+        "text": "...You are...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

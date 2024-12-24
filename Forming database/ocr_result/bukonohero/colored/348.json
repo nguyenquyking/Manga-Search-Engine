@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            259,
+            814,
+            270,
+            885
+        ],
+        "text": "FOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            625,
+            65,
+            745,
+            219
+        ],
+        "text": "Remember him? The brother you cried to every day?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            646,
+            589,
+            758,
+            672
+        ],
+        "text": "One of them almost killed Natsu!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            762,
+            722,
+            887
+        ],
+        "text": "You really sent those villains our way?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            897,
+            77,
+            995,
+            223
+        ],
+        "text": "That would've really hurt Endeavor.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            711,
+            1008,
+            798
+        ],
+        "text": "Almost killed? What a shame.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1060,
+            163,
+            1087,
+            437
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1171,
+            23,
+            1345,
+            245
+        ],
+        "text": "Sure am, Shoto. See, your brother's not so big on \"feelings\" anymore.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1229,
+            735,
+            1317,
+            893
+        ],
+        "text": "Are you freaking insane?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

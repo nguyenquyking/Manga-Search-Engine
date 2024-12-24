@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            51,
+            50,
+            164,
+            203
+        ],
+        "text": "I can only imagine how hideous your death scream will be!!!",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            67,
+            243,
+            130,
+            345
+        ],
+        "text": "RE-ROOM!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            385,
+            146,
+            516
+        ],
+        "text": "...Of some old hag who's outlived her welcome?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            603,
+            147,
+            728
+        ],
+        "text": "Why should we be afraid of the weak words...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            535,
+            57,
+            622,
+            186
+        ],
+        "text": "Do they not have a single ounce of fear for the Emperor of the Sea?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            543,
+            579,
+            628,
+            725
+        ],
+        "text": "Neither of them is losing even a second of his life span!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            833,
+            71,
+            930,
+            196
+        ],
+        "text": "Let me give you a hand and send you on your way to hell!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            226,
+            928,
+            332
+        ],
+        "text": "Don't you know when to give up the ghost, Emperor?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            618,
+            928,
+            719
+        ],
+        "text": "I'll save you, Mama!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            367,
+            1106,
+            467
+        ],
+        "text": "This is what my savior would have done.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1076,
+            572,
+            1107,
+            623
+        ],
+        "text": "POP!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

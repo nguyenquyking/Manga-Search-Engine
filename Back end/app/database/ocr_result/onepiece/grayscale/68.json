@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            116,
+            668,
+            142,
+            746
+        ],
+        "text": "WATER!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            152,
+            837,
+            228,
+            923
+        ],
+        "text": "BUT WHY? WHAT CAUSED IT?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            555,
+            492,
+            657
+        ],
+        "text": "I CAN WASH AWAY THE SOAP AND ITS EFFECTS WITH WATER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            323,
+            931,
+            412,
+            1051
+        ],
+        "text": "IT'S WET? THAT MUST BE FROM EARLIER...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            304,
+            785,
+            324,
+            852
+        ],
+        "text": "SEE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            595,
+            426,
+            632,
+            506
+        ],
+        "text": "UGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1088,
+            113,
+            1184,
+            213
+        ],
+        "text": "AREN'T YOU UNDERESTIMATING ME?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1140,
+            370,
+            1184,
+            428
+        ],
+        "text": "FUFU FU!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1326,
+            932,
+            1376,
+            982
+        ],
+        "text": "NGH...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1292,
+            990,
+            1324,
+            1008
+        ],
+        "text": "!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1433,
+            807,
+            1529,
+            954
+        ],
+        "text": "EVEN IF YOU FIGURED OUT HOW TO REMOVE THE GOLDEN AWA...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1403,
+            164,
+            1523,
+            261
+        ],
+        "text": "...I WILL NOT SIMPLY STAND BY AND LET YOU...!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

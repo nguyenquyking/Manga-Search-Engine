@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            62,
+            578,
+            132,
+            644
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            428,
+            164,
+            500
+        ],
+        "text": "CAN I?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            846,
+            209,
+            967
+        ],
+        "text": "Yamao!! You handle Momo!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            233,
+            402,
+            356,
+            524
+        ],
+        "text": "What do you mean, \"Can I\"?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            244,
+            206,
+            376,
+            357
+        ],
+        "text": "Oh... Right. It's only natural. He's my son, after all.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            267,
+            852,
+            380,
+            967
+        ],
+        "text": "Help Shinobu protect him!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            278,
+            64,
+            355,
+            161
+        ],
+        "text": "Just go!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            90,
+            668,
+            289
+        ],
+        "text": "...So we can start this party over again!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            492,
+            771,
+            683,
+            951
+        ],
+        "text": "Listen up, everybody!!! We're gonna kill every last invading samurai...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1096,
+            80,
+            1200,
+            321
+        ],
+        "text": "The wedding!! The tea party!! The feast!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1419,
+            73,
+            1529,
+            285
+        ],
+        "text": "You've destroyed everything I look forward to!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1128,
+            585,
+            1252,
+            977
+        ],
+        "text": "RAAAH\nYEAAAAH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

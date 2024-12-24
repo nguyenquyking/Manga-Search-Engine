@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            74,
+            156,
+            195,
+            300
+        ],
+        "text": "If you hadn't showed up...\nThis never would've happened!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            612,
+            182,
+            722
+        ],
+        "text": "Please... Just get outta here!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            146,
+            450,
+            195,
+            530
+        ],
+        "text": "RAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            476,
+            124,
+            601,
+            353
+        ],
+        "text": "...You still can't win!! Not against that enormous flying dragon... Not against Kaido!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            471,
+            419,
+            594,
+            543
+        ],
+        "text": "...Who supposedly died 20 years ago...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            578,
+            579,
+            728
+        ],
+        "text": "Even if you are the Red-Scabbard Samurai...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            58,
+            795,
+            199
+        ],
+        "text": "No one can stand up to the might of the Beasts Pirates!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            154,
+            1004,
+            247
+        ],
+        "text": "...wreaks this much devastation!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            987,
+            62,
+            1119,
+            146
+        ],
+        "text": "Witness our futility against its power!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            924,
+            419,
+            1008,
+            520
+        ],
+        "text": "...created by one of his followers",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            921,
+            536,
+            1014,
+            632
+        ],
+        "text": "Just look! Just one weapon...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            262,
+            1074,
+            318
+        ],
+        "text": "GRRRGG...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

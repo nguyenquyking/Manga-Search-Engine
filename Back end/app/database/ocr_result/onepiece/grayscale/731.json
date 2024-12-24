@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            67,
+            91,
+            124,
+            184
+        ],
+        "text": "The more precarious the situation...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            38,
+            209,
+            115,
+            300
+        ],
+        "text": "I can tell you're enjoying yourself...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            347,
+            107,
+            480
+        ],
+        "text": "Woro ro ro ro ro!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            143,
+            552,
+            184,
+            613
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            354,
+            54,
+            398,
+            172
+        ],
+        "text": "...the bigger your smile!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            534,
+            55,
+            603,
+            130
+        ],
+        "text": "Is that right...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            545,
+            695,
+            590,
+            748
+        ],
+        "text": "Huff!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            684,
+            431,
+            736,
+            490
+        ],
+        "text": "Huff!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1111,
+            117,
+            1115,
+            221
+        ],
+        "text": "Da-doom!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            105,
+            57,
+            264,
+            173
+        ],
+        "text": "Forgive me. My cover is blown! I've spotted at least 11 ninja within the palace.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            597,
+            194,
+            713
+        ],
+        "text": "Onami! Shinobu! Bonekichi!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            59,
+            480,
+            201
+        ],
+        "text": "We're Orobi's guards!! Find out where she is.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            400,
+            460,
+            444,
+            548
+        ],
+        "text": "By 11 of them...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            570,
+            462,
+            669
+        ],
+        "text": "What?! Robin got seen?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            536,
+            47,
+            624,
+            211
+        ],
+        "text": "Fukurokuju and the Oniwabanshu are the best of the best.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            534,
+            639,
+            609,
+            709
+        ],
+        "text": "Under the castle roof",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            716,
+            53,
+            804,
+            180
+        ],
+        "text": "Do not cause a stir!! This is one measly little rat!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            714,
+            263,
+            798,
+            397
+        ],
+        "text": "Be smart! Shogun Orochi is enjoying his feast!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            710,
+            484,
+            816,
+            600
+        ],
+        "text": "Oh my!! How could Orobi, of all people, get busted...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            734,
+            651,
+            792,
+            720
+        ],
+        "text": "At the castle well",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            855,
+            47,
+            912,
+            105
+        ],
+        "text": "Yes, sir!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1052,
+            508,
+            1134,
+            687
+        ],
+        "text": "And just when I finally got a job that isn't gathering food for once!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

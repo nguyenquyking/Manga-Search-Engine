@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            90,
+            93,
+            336,
+            318
+        ],
+        "text": "WE ALL STARTED OFF AS UNINVITED VASSALS!! IT IS ENTIRELY UP TO YOU!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            82,
+            774,
+            311,
+            954
+        ],
+        "text": "DO YOU THINK I CAN BE ONE OF THE KOZUKI VASSALS TOO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            1154,
+            252,
+            1313
+        ],
+        "text": "HEY, MASTER KIN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            509,
+            87,
+            630,
+            220
+        ],
+        "text": "OKAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            866,
+            97,
+            1134,
+            295
+        ],
+        "text": "I BET THAT SPY KAIDO MENTIONED YOUGARA, DOG!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            370,
+            1105,
+            578
+        ],
+        "text": "SHUT YOUR DISLOYAL MOUTH!! YOU'RE MORE WORRIED ABOUT HOW THE ENEMY FEELS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            627,
+            1049,
+            761
+        ],
+        "text": "YOU ADDLE-BRAINED CAT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            817,
+            1082,
+            1036
+        ],
+        "text": "YOUGARA MIGHT AS WELL HAVE BEEN THE ONE WHO KILLED LORD ODEN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            1116,
+            1049,
+            1311
+        ],
+        "text": "DOGSTORM, CAT VIPER, KNOCK IT OFF!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1337,
+            97,
+            1477,
+            286
+        ],
+        "text": "LOOK OUT BEHIND YOU!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1622,
+            93,
+            1786,
+            347
+        ],
+        "text": "DON'T TURN BACK TO HELP!! WE DON'T HAVE TIME!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1624,
+            421,
+            1760,
+            568
+        ],
+        "text": "WHAT IS THAT THING?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1641,
+            669,
+            1784,
+            881
+        ],
+        "text": "DOG, CAT!! THOSE IDIOTS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1652,
+            1200,
+            1751,
+            1326
+        ],
+        "text": "AAAH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1980,
+            1206,
+            2062,
+            1317
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

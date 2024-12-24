@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            57,
+            866,
+            204,
+            1001
+        ],
+        "text": "...FIND THOSE DEVILS AND",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            249,
+            109,
+            553,
+            313
+        ],
+        "text": "There's no way this rage could lose to anything!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            260,
+            738,
+            419,
+            877
+        ],
+        "text": "Kill them!!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1392,
+            99,
+            1512,
+            448
+        ],
+        "text": "PHOOO",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

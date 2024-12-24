@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            45,
+            481,
+            70,
+            536
+        ],
+        "text": "But...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            148,
+            212,
+            193,
+            313
+        ],
+        "text": "...as I thought...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            722,
+            318,
+            843,
+            416
+        ],
+        "text": "This is as far as you go.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

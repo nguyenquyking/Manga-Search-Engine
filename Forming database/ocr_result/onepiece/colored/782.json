@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            66,
+            137,
+            92,
+            199
+        ],
+        "text": "HUP!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            66,
+            366,
+            117,
+            437
+        ],
+        "text": "STAY THERE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            469,
+            147,
+            566
+        ],
+        "text": "ALPACA FENCING!\nCHYA CHYA CHYA!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            55,
+            604,
+            126,
+            722
+        ],
+        "text": "STRAW HAT FELLOW!\nWHICH WAY NEXT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            363,
+            219,
+            419
+        ],
+        "text": "WHAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            202,
+            631,
+            224,
+            739
+        ],
+        "text": "KCHING-KCHING!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            398,
+            68,
+            464,
+            195
+        ],
+        "text": "NO, YOU CAN'T\nDO THIS! PUT\nME DOWN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            241,
+            476,
+            330
+        ],
+        "text": "IT'LL BE\nEASIER\nTHIS WAY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            60,
+            655,
+            204
+        ],
+        "text": "I WON'T HAVE\nYOU BURDENED BY\nME THIS WAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            606,
+            651,
+            758
+        ],
+        "text": "GLANK\nWHOA!\nCHYA CHYA\nCHYA!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            744,
+            66,
+            819,
+            289
+        ],
+        "text": "I'M NOT TRYING TO HOLD\nBACK AT THE LAST SECOND!!\nI WANNA PUNCH THEM AND\nKNOCK THEM AWAY WITHOUT",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            345,
+            836,
+            536
+        ],
+        "text": "YOU'RE A PRISONER,\nIN THE MIDST OF THIS\nSICK EXECUTION GAME...\nAND YOU SAY YOU'RE\nTRAINING?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            592,
+            808,
+            718
+        ],
+        "text": "ACTUALLY,\nTHE HEAVIER,\nTHE BETTER!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            50,
+            1116,
+            143
+        ],
+        "text": "BUT I\nWON'T\nKNOW UNTIL\nI CAN\nACTUALLY\nDO IT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            992,
+            163,
+            1135,
+            298
+        ],
+        "text": "IT FEELS LIKE\nI MIGHT BE ABLE\nTO DESTROY\nTHOSE TOUGH\nSCALES OF\nKAIDO'S THAT\nWAY...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            337,
+            1136,
+            551
+        ],
+        "text": "YOU KEEP HOLDING\nBACK YOUR PUNCHES AND\nSAYING, \"THAT'S NOT RIGHT.\"\nWHAT IN THE WORLD ARE\nYOU UP TO...?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1065,
+            599,
+            1114,
+            726
+        ],
+        "text": "IT'S GOOD\nTRAINING!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

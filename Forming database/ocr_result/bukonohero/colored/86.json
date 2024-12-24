@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            27,
+            455,
+            93,
+            530
+        ],
+        "text": "WITH FAILURE AFTER FAILURE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            117,
+            113,
+            204,
+            194
+        ],
+        "text": "WHADDAYA THINK THEY'RE FIGHTING FOR?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            234,
+            161,
+            333
+        ],
+        "text": "THINK ABOUT IT. THOSE WHO ARE STILL LEFT, STILL FIGHTING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            75,
+            670,
+            182,
+            759
+        ],
+        "text": "THE STAGE IS GONE NOW. THE THEATER'S KNOCKED DOWN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            114,
+            395,
+            210,
+            483
+        ],
+        "text": "...HEROES CAN'T BE HOPING FOR GLORY AND RICHES AT THIS POINT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            289,
+            374,
+            385,
+            495
+        ],
+        "text": "SO MANY OF THOSE FOLKS WE ONCE CALLED HEROES HAVE HUNG UP THEIR CAPES.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            559,
+            109,
+            654,
+            206
+        ],
+        "text": "SURE, WE'RE ALL HURTING HERE, BUT LET'S STOP AND USE OUR HEADS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            519,
+            222,
+            648,
+            309
+        ],
+        "text": "HOW'LL THERE BE ANY CHANCE IN HELL OF GOING BACK TO OUR OLD LIVES?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            567,
+            607,
+            649
+        ],
+        "text": "...WHAT DO WE EVEN GOT LEFT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            522,
+            688,
+            620,
+            783
+        ],
+        "text": "IF WE REJECT THE ONES STILL STANDING UP FOR WHAT'S RIGHT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            769,
+            699,
+            807,
+            771
+        ],
+        "text": "HOW LONG...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            894,
+            461,
+            964,
+            580
+        ],
+        "text": "...CAN WE BE SPECTATORS ON THE SIDELINES?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

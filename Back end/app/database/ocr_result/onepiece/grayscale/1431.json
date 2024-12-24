@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            179,
+            200,
+            308,
+            430
+        ],
+        "text": "I have something to tell you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            146,
+            1170,
+            328,
+            1300
+        ],
+        "text": "Everyone... Come to me!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            139,
+            531,
+            508
+        ],
+        "text": "Fwoo",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            455,
+            1173,
+            559,
+            1321
+        ],
+        "text": "Om...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            115,
+            866,
+            300
+        ],
+        "text": "Just a bit longer, Princess!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            584,
+            816,
+            712
+        ],
+        "text": "Almost there!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            1092,
+            820,
+            1314
+        ],
+        "text": "To the future?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            747,
+            907,
+            858
+        ],
+        "text": "Hup!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1416,
+            112,
+            1574,
+            312
+        ],
+        "text": "Someone popped out! Shoot him!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1334,
+            372,
+            1427,
+            545
+        ],
+        "text": "Neigh-hee-hee",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1354,
+            842,
+            1494,
+            995
+        ],
+        "text": "Block all the exits!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1352,
+            1121,
+            1499,
+            1317
+        ],
+        "text": "Don't let the samurai escape the castle!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1846,
+            1271,
+            1866,
+            1326
+        ],
+        "text": "...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            66,
+            18,
+            175,
+            274
+        ],
+        "text": "My magic's effects were nullified!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            86,
+            1079,
+            292,
+            1349
+        ],
+        "text": "The guy who can destroy your nullification...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            1781,
+            232,
+            2035
+        ],
+        "text": "But Rouge hasn't disappeared! He can't completely restrain us...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            653,
+            241,
+            811
+        ],
+        "text": "Is our boy Asta!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1012,
+            18,
+            1154,
+            153
+        ],
+        "text": "Take this!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            634,
+            1028,
+            978
+        ],
+        "text": "Causality Break",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            688,
+            1447,
+            1024,
+            1761
+        ],
+        "text": "Demon-Destroyer Sword",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            406,
+            1390,
+            444,
+            1490
+        ],
+        "text": "And...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            510,
+            690,
+            536,
+            1126
+        ],
+        "text": "ARTIST: @ILUVLUVNUTELLA",
+        "panel_id": "6",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            510,
+            1595,
+            536,
+            1966
+        ],
+        "text": "TEAM: @COLORCLOVERS",
+        "panel_id": "6",
+        "type": "background"
+    }
+]

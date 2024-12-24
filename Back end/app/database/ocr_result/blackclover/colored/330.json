@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            169,
+            2,
+            271,
+            189
+        ],
+        "text": "AND AS I UNDERSTAND IT... THIS IS SOMETHING WE'VE RATHER IN COMMON...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            162,
+            655,
+            265,
+            839
+        ],
+        "text": "WAS IN ORDER TO DEFEAT THAT WHICH HAS CURSED ROLOPECHIKA... THE DEVIL MEGICULA.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            509,
+            5,
+            626,
+            228
+        ],
+        "text": "!? WHAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            585,
+            693,
+            666,
+            835
+        ],
+        "text": "THE PEOPLE OF CLOVER KINGDOM... AND OURSELVES...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            10,
+            995,
+            113
+        ],
+        "text": "...IS IT REALLY OKAY FOR A GIRL LIKE THAT TO BE THE PRINCESS OF A COUNTRY...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            300,
+            988,
+            405
+        ],
+        "text": "WOW... WE WERE RIGHT IN THE MIDDLE OF A SERIOUS CONVERSATION THERE... OR SO I THOUGHT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            717,
+            1108,
+            828
+        ],
+        "text": "OH! I FORGOT TO WATER POPRATTA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1271,
+            486,
+            1290,
+            784
+        ],
+        "text": "T/N: WRITTEN AS \"POPRATTA THE TREE\"",
+        "panel_id": "4",
+        "type": "translator_note"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            73,
+            152,
+            144,
+            241
+        ],
+        "text": "WHAT?! WHEN DID YOU--?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            651,
+            180,
+            722
+        ],
+        "text": "LET'S SCRAM, TAMA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            245,
+            635,
+            308,
+            733
+        ],
+        "text": "SORRY FOR TAKING SO LONG!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            358,
+            600,
+            408,
+            647
+        ],
+        "text": "HUH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            418,
+            582,
+            539
+        ],
+        "text": "GET THAT LITTLE BRAT BACK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            495,
+            580,
+            578,
+            712
+        ],
+        "text": "WHAT ARE YOU DOING, KAMIJIRO?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            95,
+            588,
+            167
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            566,
+            205,
+            668,
+            345
+        ],
+        "text": "SLI-SLI-SLICE!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            601,
+            40,
+            648,
+            91
+        ],
+        "text": "OOFH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            627,
+            496,
+            675,
+            537
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            62,
+            1003,
+            138
+        ],
+        "text": "THIS WAY, DOG!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            458,
+            968,
+            545
+        ],
+        "text": "EEEK! OH, IT'S THE KOMAINU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            593,
+            946,
+            676
+        ],
+        "text": "WHOA!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            38,
+            1098,
+            128
+        ],
+        "text": "WOOF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1141,
+            694,
+            1153,
+            727
+        ],
+        "text": "\u30ba\u30c3",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

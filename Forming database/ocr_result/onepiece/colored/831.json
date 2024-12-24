@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            70,
+            136,
+            174,
+            262
+        ],
+        "text": "Someone stole the key to the seastone cuffs!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            399,
+            174,
+            521
+        ],
+        "text": "Miss Solitaire, a key's been stolen!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            610,
+            198,
+            728
+        ],
+        "text": "Officer's Tower,\nExcavation Labor Camp, Udon",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            423,
+            72,
+            519,
+            225
+        ],
+        "text": "What are you idiots doing?! Did anyone see the thief?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            57,
+            682,
+            153
+        ],
+        "text": "Oook!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            734,
+            61,
+            847,
+            191
+        ],
+        "text": "He bamboozled me into putting the fake keys into the safe! Wait'll I get my claws on him!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            266,
+            827,
+            355
+        ],
+        "text": "It was a man with a freakishly huge face!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1053,
+            62,
+            1124,
+            182
+        ],
+        "text": "That's it, you're off key duty!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            210,
+            1125,
+            342
+        ],
+        "text": "Just because a guy can only walk sideways...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            485,
+            1100,
+            662
+        ],
+        "text": "Excavation Labor Camp\nVice Warden (Headliner)\nSolitaire\nMonkey Smile Fruit",
+        "panel_id": "5",
+        "type": "background"
+    }
+]

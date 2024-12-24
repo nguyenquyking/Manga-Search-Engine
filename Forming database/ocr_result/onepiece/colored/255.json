@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            50,
+            118,
+            130,
+            191
+        ],
+        "text": "AFTER ALL, 20 YEARS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            205,
+            54,
+            271,
+            174
+        ],
+        "text": "...is a little too long for us to wait.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            699,
+            130,
+            804
+        ],
+        "text": "THAT'S THE SPIRIT. IN THAT CASE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            202,
+            650,
+            315,
+            829
+        ],
+        "text": "WE CAN MAKE OUR CONTRIBUTION TO THAT FUTURE BATTLE BY ENSURING YOUR SURVIVAL...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            69,
+            517,
+            182
+        ],
+        "text": "WE CANNOT JUST SIT HERE AND STARVE LIKE STRAY DOGS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            591,
+            518,
+            699
+        ],
+        "text": "SAMURAI-SAN!! IF YOU DO THIS, MY FATHER WILL--",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            66,
+            854,
+            185
+        ],
+        "text": "WE NEVER HAD ANY INTENTION OF YIELDING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1199,
+            63,
+            1235,
+            166
+        ],
+        "text": "EVEN I...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            551,
+            1090,
+            678
+        ],
+        "text": "THE SAMURAI HAVE BROKEN OUT OF AMANO-IWATO!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1010,
+            717,
+            1054,
+            807
+        ],
+        "text": "KAIDO-SAMA!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

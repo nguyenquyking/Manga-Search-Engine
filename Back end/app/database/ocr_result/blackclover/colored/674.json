@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            131,
+            881,
+            299,
+            1221
+        ],
+        "text": "Death Scythe:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            570,
+            78,
+            726,
+            393
+        ],
+        "text": "Lunatic Slash",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            929,
+            859,
+            940,
+            915
+        ],
+        "text": "DAK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1652,
+            97,
+            1814,
+            288
+        ],
+        "text": "...has improved my body's regenerative abilities even further.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1694,
+            984,
+            1774,
+            1115
+        ],
+        "text": "Morris's sorcery science...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

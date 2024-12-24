@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            106,
+            94,
+            231,
+            184
+        ],
+        "text": "Do you know about that one...? ",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            142,
+            405,
+            181,
+            526
+        ],
+        "text": "How very unpleasant.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            171,
+            231,
+            270,
+            337
+        ],
+        "text": "The vinegar suicide incident.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            431,
+            398,
+            493,
+            486
+        ],
+        "text": "Please leave at once.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            159,
+            745,
+            295,
+            892
+        ],
+        "text": "A hard-core All Might fan!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            227,
+            1134,
+            378
+        ],
+        "text": "During the interview, immediately after, his eyes were all puckered up as he smiled.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1056,
+            431,
+            1233,
+            553
+        ],
+        "text": "But while in a panic, the kid ended up turning the river's water into vinegar.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            991,
+            581,
+            1102,
+            690
+        ],
+        "text": "All Might rescued him and saved the day.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            952,
+            746,
+            1150,
+            883
+        ],
+        "text": "A teenager with a quirk that could change the properties of water was drowning in a river.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1281,
+            245,
+            1389,
+            373
+        ],
+        "text": "That was the face I chose to try a minute ago!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1311,
+            430,
+            1422,
+            551
+        ],
+        "text": "When All Might dove in, he got an eyeful of it.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

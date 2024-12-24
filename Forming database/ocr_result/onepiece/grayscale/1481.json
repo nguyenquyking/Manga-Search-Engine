@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            125,
+            204,
+            289,
+            372
+        ],
+        "text": "And he asked me to see to you...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            446,
+            254,
+            620
+        ],
+        "text": "He said that his wife and children would be in danger.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            118,
+            804,
+            233,
+            1052
+        ],
+        "text": "Oden sent a messenger to me by horse.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            1163,
+            231,
+            1360
+        ],
+        "text": "Lord Yasue?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            126,
+            734,
+            349
+        ],
+        "text": "So mo... er, Lord Momonosuke is already eight.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            933,
+            152,
+            1097,
+            360
+        ],
+        "text": "If Oden loses this battle...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            956,
+            694,
+            1162,
+            838
+        ],
+        "text": "Eek\nKyahahaha",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            905,
+            1173,
+            1118,
+            1344
+        ],
+        "text": "Otoki, we must be prepared for the worst...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1337,
+            162,
+            1458,
+            374
+        ],
+        "text": "...is lost!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1280,
+            586,
+            1617,
+            900
+        ],
+        "text": "GRRMM...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1362,
+            1131,
+            1449,
+            1379
+        ],
+        "text": "Then this country...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1598,
+            895,
+            1661,
+            950
+        ],
+        "text": "Wa\nHa\nHa",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1620,
+            607,
+            1686,
+            707
+        ],
+        "text": "Chatter\nChatter",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

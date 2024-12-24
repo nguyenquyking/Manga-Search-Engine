@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            53,
+            100,
+            131,
+            248
+        ],
+        "text": "MAAMAMA\nHAHAHA! What's the matter...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            524,
+            130,
+            658
+        ],
+        "text": "Hey, you don't look too good.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            716,
+            124,
+            800
+        ],
+        "text": "SECOND\nFLOOR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            205,
+            55,
+            263,
+            185
+        ],
+        "text": "You got a migraine?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            313,
+            157,
+            364,
+            247
+        ],
+        "text": "Kid!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            53,
+            765,
+            167
+        ],
+        "text": "Yes, Mama!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            678,
+            769,
+            809
+        ],
+        "text": "Get him, Hera!!\nNapoleon!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            725,
+            973,
+            831
+        ],
+        "text": "Eustass-Ya!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

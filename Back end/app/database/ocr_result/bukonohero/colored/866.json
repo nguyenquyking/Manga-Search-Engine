@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            1243,
+            166,
+            1398,
+            291
+        ],
+        "text": "ENDEAVOR! HAWKS! YOU BOYS DON'T GET TO HAVE ALL THE FUN!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1278,
+            518,
+            1374,
+            633
+        ],
+        "text": "I SAW THE NEWS AND CAME HOPPING!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

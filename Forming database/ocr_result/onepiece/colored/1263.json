@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            73,
+            63,
+            132,
+            228
+        ],
+        "text": "Ohh... All of the princesses, getting together...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            304,
+            156,
+            476
+        ],
+        "text": "The acorn guy! Rebecca! Sai! Look at all these people we know!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            104,
+            515,
+            123,
+            597
+        ],
+        "text": "Ugh!! Wapol!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            629,
+            133,
+            730
+        ],
+        "text": "Yes!! It's Viola!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            440,
+            41,
+            506,
+            125
+        ],
+        "text": "What's up, Chobro?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            146,
+            512,
+            248
+        ],
+        "text": "Whoaaaa!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            432,
+            266,
+            496,
+            352
+        ],
+        "text": "Look here, Chopper!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            382,
+            486,
+            458
+        ],
+        "text": "Well, it's nice to dream.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            583,
+            639,
+            717
+        ],
+        "text": "...and talking about me, I bet!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            140,
+            820,
+            219
+        ],
+        "text": "Heh heh heh...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            860,
+            43,
+            928,
+            140
+        ],
+        "text": "Don't cut that out, Chopper!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            261,
+            844,
+            366
+        ],
+        "text": "Hiya!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            759,
+            390,
+            840,
+            503
+        ],
+        "text": "Oh, she hasn't kicked the bucket yet...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            560,
+            934,
+            716
+        ],
+        "text": "It's Doctorine!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1102,
+            353,
+            1128,
+            423
+        ],
+        "text": "BFB!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

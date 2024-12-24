@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            203,
+            541,
+            217,
+            601
+        ],
+        "text": "FOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            958,
+            777,
+            1036,
+            927
+        ],
+        "text": "THANKS FOR THE BREATHER!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1207,
+            789,
+            1340,
+            937
+        ],
+        "text": "AND SINCE YOU'RE ON DEATH'S DOOR AND ALL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1249,
+            419,
+            1300,
+            567
+        ],
+        "text": "...PREPARE TO-",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

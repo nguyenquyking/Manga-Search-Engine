@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            52,
+            122,
+            52,
+            237
+        ],
+        "text": "DA DA DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            404,
+            523,
+            420,
+            678
+        ],
+        "text": "BOOM BOOM BOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            451,
+            667,
+            500,
+            729
+        ],
+        "text": "WEEZ!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            470,
+            304,
+            566,
+            440
+        ],
+        "text": "IS HE BENDING THE TRAJECTORY OF HIS ATTACKS?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            488,
+            153,
+            531,
+            236
+        ],
+        "text": "THAT HURTS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            506,
+            7,
+            602,
+            118
+        ],
+        "text": "GIVEN THE NATURE OF RUBBER, THAT'S IMPOSSIBLE!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            543,
+            432,
+            567,
+            492
+        ],
+        "text": "WEEZ",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            73,
+            777,
+            473
+        ],
+        "text": "GAK GAK GAK GAK GAK\nDAGAK-GAK GAK GAK GAK",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            784,
+            243,
+            802,
+            289
+        ],
+        "text": "L",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            787,
+            490,
+            842,
+            602
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            71,
+            1100,
+            184
+        ],
+        "text": "STOP IT ALREADY!!\nYEOWWW!!\nTHAT HURTS...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

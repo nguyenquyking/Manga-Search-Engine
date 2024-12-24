@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            94,
+            280,
+            265,
+            388
+        ],
+        "text": "If he's a royal, that would explain his magic...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            132,
+            455,
+            153,
+            520
+        ],
+        "text": "I see...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            160,
+            734,
+            177,
+            799
+        ],
+        "text": "Yeah...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            897,
+            310,
+            995
+        ],
+        "text": "Yuno... Wha... For real?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            219,
+            581,
+            417,
+            745
+        ],
+        "text": "Apparently, they evacuated me to the Clover Kingdom when the rebellion against the royal family broke out.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            751,
+            473,
+            807
+        ],
+        "text": "You're not even fazed?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            103,
+            833,
+            233
+        ],
+        "text": "He should know all about the enemy and the castle's design.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            858,
+            848,
+            992
+        ],
+        "text": "The guy at my place was a servant of the old Spade royal family.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            389,
+            1153,
+            490
+        ],
+        "text": "Heck, you might even be one!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1241,
+            528,
+            1363,
+            646
+        ],
+        "text": "That servant could be a hostile spy!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1286,
+            89,
+            1424,
+            201
+        ],
+        "text": "If I'm not the one to save him, there's no point.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1196,
+            870,
+            1305,
+            1006
+        ],
+        "text": "Keh! That don't make letting you handle it a good idea!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1491,
+            934,
+            1512,
+            963
+        ],
+        "text": "46",
+        "panel_id": "4",
+        "type": "page_number"
+    }
+]

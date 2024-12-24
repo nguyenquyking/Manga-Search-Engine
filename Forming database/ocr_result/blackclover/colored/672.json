@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            80,
+            31,
+            339,
+            203
+        ],
+        "text": "Wait, so Charlotte managed to become a captain without even using her true power?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            369,
+            361,
+            537,
+            549
+        ],
+        "text": "...and show you just how strong I've become, Yami!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            851,
+            406,
+            994
+        ],
+        "text": "I'll save you...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1093,
+            30,
+            1467,
+            210
+        ],
+        "text": "I just found the best opponent ever!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1234,
+            650,
+            1271,
+            754
+        ],
+        "text": "AHAHAHAHAHA!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

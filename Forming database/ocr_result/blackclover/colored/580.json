@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            97,
+            96,
+            287,
+            249
+        ],
+        "text": "ARE YOU ATTEMPTING TO MAKE AN EQUAL CONTRACT WITH THAT DEVIL?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            240,
+            442,
+            297,
+            530
+        ],
+        "text": "WAIT, WAIT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            188,
+            611,
+            350,
+            766
+        ],
+        "text": "SEE, FRIENDS ARE, UMM... YOU WORK TOGETHER AS EQUALS, AND-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            205,
+            1048,
+            366,
+            1206
+        ],
+        "text": "WHAT? DEVILS DON'T EVEN KNOW WHAT FRIENDS ARE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            446,
+            60,
+            472,
+            160
+        ],
+        "text": "YEAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            921,
+            57,
+            1170,
+            227
+        ],
+        "text": "I WANT TO KNOW MORE ABOUT HIM! SO I'LL START BY MAKING FRIENDS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            711,
+            545,
+            915,
+            735
+        ],
+        "text": "IT'S JUST, EVEN THOUGH WE'VE BEEN TOGETHER ALL ALONG, I DIDN'T KNOW ANYTHING.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            829,
+            1026,
+            1029,
+            1209
+        ],
+        "text": "I SAID SO BEFORE WE FOUGHT. HE'S THE REASON I'VE BEEN ABLE TO FIGHT ALL THIS TIME!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1245,
+            410,
+            1271,
+            984
+        ],
+        "text": "@CloverColors @RitoxRiot",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1630,
+            88,
+            1662,
+            169
+        ],
+        "text": "NO...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1531,
+            259,
+            1691,
+            459
+        ],
+        "text": "THERE'S ABSOLUTELY NO MERIT IN A CONTRACT LIKE THAT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1397,
+            1074,
+            1525,
+            1214
+        ],
+        "text": "WHAT ARE YOU TALKING ABOUT?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1575,
+            899,
+            1773,
+            1091
+        ],
+        "text": "YOU HAVE NO GUARANTEE THAT DEVIL WILL LISTEN TO YOU.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            211,
+            255,
+            368,
+            391
+        ],
+        "text": "The redo didn't activate promptly though, and this was the oldest it let me get.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            292,
+            892,
+            400,
+            1031
+        ],
+        "text": "My time magic and Swallowtail were very compatible.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            185,
+            433,
+            260
+        ],
+        "text": "Ha ha ha!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            507,
+            440,
+            737,
+            565
+        ],
+        "text": "Time I could use to do things over, if the worst happened to me.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            312,
+            636,
+            392
+        ],
+        "text": "Nah, I'd say it worked pretty good.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            832,
+            752,
+            972
+        ],
+        "text": "I stored up my own time and magic in the crest on my forehead, little by little.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            92,
+            745,
+            185
+        ],
+        "text": "You're unbelievable, you baby-faced old guy.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            680,
+            197,
+            758,
+            322
+        ],
+        "text": "Life doesn't normally hand out do-overs.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            915,
+            439,
+            1072,
+            545
+        ],
+        "text": "Thank you, Asta. You're as energetic as ever. Did you do a lot out there?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            103,
+            1100,
+            225
+        ],
+        "text": "I gave it my best, sir!! I've still got a long way to go, though!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            974,
+            897,
+            1182,
+            1030
+        ],
+        "text": "However it happened, Wizard King, I'm so glad you're alive!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1265,
+            503,
+            1307,
+            560
+        ],
+        "text": "Well, well...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1280,
+            112,
+            1376,
+            205
+        ],
+        "text": "I haven't seen you before, but...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1492,
+            946,
+            1516,
+            988
+        ],
+        "text": "162",
+        "panel_id": "4",
+        "type": "page_number"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            4,
+            6,
+            31,
+            190
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            121,
+            205,
+            231,
+            368
+        ],
+        "text": "DON'T WORRY THOUGH, KIDDO!\nWE'LL STILL GIVE YOU YOUR\nPRIVACY WHEN",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            686,
+            274,
+            887
+        ],
+        "text": "IN THE EARLIER BATTLE,\nMY BROTHER'S POWER DREW US\nOUT BY SHEER FORCE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            174,
+            442,
+            313,
+            632
+        ],
+        "text": "...ALLOWING US TO APPEAR\nBEFORE YOU\nMORE EASILY\nTHAN BEFORE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            347,
+            55,
+            477,
+            278
+        ],
+        "text": "FWP\nOH RIGHT!\nYOU AIN'T\nGOT A\nFWF",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            25,
+            882,
+            134
+        ],
+        "text": "MY MOUTH HAS\nFORMED...\nJUST A\nLITTLE\nBIT!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            748,
+            152,
+            861,
+            238
+        ],
+        "text": "I DID MANAGE\nTO\nSPEAK\nTHEN.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            735,
+            794,
+            825,
+            870
+        ],
+        "text": "BUT\nWAIT!\nBACK\nTHERE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            402,
+            1146,
+            488
+        ],
+        "text": "ALLOW ME TO\nEXPLAIN.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1088,
+            621,
+            1177,
+            736
+        ],
+        "text": "...OO ELL\nEE?\n(...TO TELL\nME?)",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1060,
+            782,
+            1174,
+            871
+        ],
+        "text": "AHD OO\nEED...\n(WHAT'D\nYOU\nNEED...)",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1184,
+            103,
+            1204,
+            163
+        ],
+        "text": "LOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

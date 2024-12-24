@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            30,
+            178,
+            127,
+            289
+        ],
+        "text": "...I have put considerable thought into the threat posed by Shigaraki.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            28,
+            336,
+            106,
+            432
+        ],
+        "text": "Indeed. Ever since he attacked U.A. last year...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            43,
+            475,
+            149,
+            577
+        ],
+        "text": "Shigaraki easily broke through Tartarus's defenses,",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            669,
+            117,
+            726
+        ],
+        "text": "But, sir...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            65,
+            480,
+            144
+        ],
+        "text": "There was much heated debate.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            397,
+            181,
+            441,
+            267
+        ],
+        "text": "Who knew that was possible?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            628,
+            520,
+            751
+        ],
+        "text": "Which is precisely why I've added my own personal touches to the fortifications of U.A.'s defense system.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            719,
+            62,
+            790,
+            161
+        ],
+        "text": "A villain incursion would not succeed.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            660,
+            191,
+            749,
+            306
+        ],
+        "text": "...No harm would come to the evacuees or students.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            722,
+            411,
+            811,
+            539
+        ],
+        "text": "...If an invasion were to begin at this very moment...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            657,
+            637,
+            707,
+            733
+        ],
+        "text": "To make a long story short...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1013,
+            98,
+            1035,
+            237
+        ],
+        "text": "...TRAVEL!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            954,
+            332,
+            1011,
+            396
+        ],
+        "text": "U.A. itself can...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            985,
+            623,
+            1057,
+            745
+        ],
+        "text": "The U.A. barrier is more than mere walls.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

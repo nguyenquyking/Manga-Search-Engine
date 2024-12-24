@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            138,
+            64,
+            201,
+            318
+        ],
+        "text": "SMASH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            38,
+            620,
+            103,
+            822
+        ],
+        "text": "TEXAS...",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            838,
+            26,
+            924,
+            151
+        ],
+        "text": "No, he's gonna lose if this keeps up.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            192,
+            885,
+            318
+        ],
+        "text": "A-amazing...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            386,
+            1365,
+            552
+        ],
+        "text": "There's gotta be a way... to put this kid down for good... Some other quirk... Gotta find one!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

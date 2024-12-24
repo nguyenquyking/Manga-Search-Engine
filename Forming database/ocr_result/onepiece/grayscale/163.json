@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            48,
+            67,
+            104,
+            156
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            203,
+            482,
+            208,
+            547
+        ],
+        "text": "BOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            599,
+            74,
+            669,
+            209
+        ],
+        "text": "BABOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            533,
+            386,
+            551,
+            435
+        ],
+        "text": "KOFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            756,
+            50,
+            910,
+            141
+        ],
+        "text": "URRGH!\nWEEZ, WEEZ...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            528,
+            839,
+            734
+        ],
+        "text": "KOFF!!\nBOUNCE-MAN!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

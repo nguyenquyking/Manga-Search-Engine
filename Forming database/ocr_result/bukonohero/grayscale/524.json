@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            5,
+            360,
+            20,
+            408
+        ],
+        "text": "KLANG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            37,
+            423,
+            48,
+            454
+        ],
+        "text": "KLANG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            56,
+            549,
+            76,
+            586
+        ],
+        "text": "Eri...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            673,
+            90,
+            719
+        ],
+        "text": "That's just fine!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            237,
+            492,
+            293,
+            567
+        ],
+        "text": "...Doesn't need me. It doesn't have to be me!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            506,
+            85,
+            635,
+            197
+        ],
+        "text": "...For this mission to ensure your safety.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            528,
+            500,
+            673,
+            617
+        ],
+        "text": "We've been authorized to use our quirks to aid Endeavor and the other heroes...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            441,
+            631,
+            550,
+            738
+        ],
+        "text": "You should know that we intended to join you in your efforts.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            778,
+            228,
+            792,
+            258
+        ],
+        "text": "KRAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            922,
+            373,
+            995,
+            447
+        ],
+        "text": "A machine to put me to sleep?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            644,
+            728,
+            660,
+            755
+        ],
+        "text": "TMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

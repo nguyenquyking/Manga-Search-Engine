@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            225,
+            59,
+            389,
+            215
+        ],
+        "text": "The least you could've done was tell us about the One Piece before you croaked!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            389,
+            347,
+            418,
+            429
+        ],
+        "text": "KYAAH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            634,
+            59,
+            709,
+            147
+        ],
+        "text": "It is real... right?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            266,
+            725,
+            411
+        ],
+        "text": "WOAAAH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            68,
+            717,
+            173,
+            796
+        ],
+        "text": "\"The Great Pirate Era\"?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            1163,
+            185,
+            1249
+        ],
+        "text": "The whole world bought it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            470,
+            723,
+            561,
+            855
+        ],
+        "text": "Your time was up, so it didn't affect you!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            417,
+            1403,
+            470,
+            1478
+        ],
+        "text": "Damn it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            1397,
+            623,
+            1496
+        ],
+        "text": "This is all your fault...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            706,
+            966,
+            831
+        ],
+        "text": "All those brats came flooding in, looking for their chance to shine...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            849,
+            393,
+            902,
+            490
+        ],
+        "text": "GWAAH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1105,
+            48,
+            1109,
+            118
+        ],
+        "text": "...!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1128,
+            426,
+            1179,
+            550
+        ],
+        "text": "Water!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1123,
+            1130,
+            1198,
+            1232
+        ],
+        "text": "And you left us...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1321,
+            697,
+            1372,
+            800
+        ],
+        "text": "...to deal with it!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1391,
+            1390,
+            1516,
+            1511
+        ],
+        "text": "Why did you have to go and say all that?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1414,
+            440,
+            1489,
+            541
+        ],
+        "text": "I need water!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1162,
+            2035,
+            1230,
+            2145
+        ],
+        "text": "Are you listening, Roger?!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

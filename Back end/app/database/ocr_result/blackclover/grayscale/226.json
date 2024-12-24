@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            129,
+            608,
+            254,
+            702
+        ],
+        "text": "THE BLACK BULLS?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            296,
+            120,
+            504,
+            259
+        ],
+        "text": "I heard they were the second highest-achieving brigade this year... Was that some sort of mistake?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            308,
+            802,
+            363,
+            868
+        ],
+        "text": "What's that huge thing?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            604,
+            544,
+            734,
+            669
+        ],
+        "text": "Such violence in a sacred place like Parliament!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1022,
+            221,
+            1177,
+            316
+        ],
+        "text": "...But the pair with horns over there are our members.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            511,
+            1142,
+            581
+        ],
+        "text": "Huh? Wait, didn't you know?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1110,
+            116,
+            1228,
+            206
+        ],
+        "text": "If you're planning to mess with them...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1233,
+            479,
+            1353,
+            590
+        ],
+        "text": "We're the lowest brigade, the worst of the worst...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1305,
+            650,
+            1476,
+            769
+        ],
+        "text": "Do you understand what that will do to the Black Bulls' position?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1304,
+            918,
+            1476,
+            1036
+        ],
+        "text": "You're defending the criminal who caused the Great War?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1462,
+            266,
+            1481,
+            307
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

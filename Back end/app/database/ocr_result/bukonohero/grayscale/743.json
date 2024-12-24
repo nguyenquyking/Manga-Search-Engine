@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            81,
+            594,
+            154,
+            722
+        ],
+        "text": "More than anything, the public needed something...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            372,
+            563,
+            404,
+            642
+        ],
+        "text": "...to cling to.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            569,
+            90,
+            677,
+            180
+        ],
+        "text": "And for what I've done, I cannot apologize enough.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            390,
+            628,
+            482
+        ],
+        "text": "He spoke the truth.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            116,
+            906,
+            181
+        ],
+        "text": "Whoa...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            786,
+            424,
+            878,
+            525
+        ],
+        "text": "Endeavor spoke freely and openly about...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            993,
+            336,
+            1065,
+            453
+        ],
+        "text": "...his and his family's sickening past.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

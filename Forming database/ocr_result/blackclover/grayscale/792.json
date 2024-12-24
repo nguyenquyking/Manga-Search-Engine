@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            468,
+            479,
+            500,
+            526
+        ],
+        "text": "MOR-GEN!!\nMOR-GEN...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            756,
+            81,
+            791,
+            137
+        ],
+        "text": "YOU\nJUST...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            748,
+            265,
+            766,
+            302
+        ],
+        "text": "YOU",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            46,
+            898,
+            114
+        ],
+        "text": "WHY...\nDID\nYOU...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            173,
+            1014,
+            275
+        ],
+        "text": "MY...\nDREAM...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            922,
+            342,
+            1098,
+            447
+        ],
+        "text": "...didn't\nreport it...\nto the\nKnights.\nI guess...\nthis is...\nwhat I\nget...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            589,
+            946,
+            694
+        ],
+        "text": "I knew\nmy family\nwas...\nworking\nwith\nforbidden\nmagic,\nbut I...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            697,
+            776,
+            742
+        ],
+        "text": "Ha\nha...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

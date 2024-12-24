@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            72,
+            90,
+            194,
+            210
+        ],
+        "text": "The boy's being targeted by an assassin!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            607,
+            210,
+            727
+        ],
+        "text": "They're trying to split up me and the boy!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            392,
+            518,
+            435
+        ],
+        "text": "BWAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            988,
+            224,
+            1077,
+            394
+        ],
+        "text": "ROLL ROLL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

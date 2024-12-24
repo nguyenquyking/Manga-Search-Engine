@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            26,
+            338,
+            57,
+            535
+        ],
+        "text": "CHAPTER NOTES:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            105,
+            206,
+            765
+        ],
+        "text": "Yamato's plight in the cave is a reference to a legend about Amaterasu, the Shinto sun goddess. In the story, Amaterasu was pestered by her trouble-making little brother, Susano, until she was depressed enough to shut herself away in Amano-Iwato, a heavenly cave. As a result of her absence, the world was enshrouded in darkness.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            232,
+            79,
+            391,
+            790
+        ],
+        "text": "A myriad of gods gathered to try to find a solution to this problem. Omoikane, the god of wisdom, suggested that they line up a bunch of roosters to lure Amaterasu out of the cave with their long, beautiful crows. In the end, Ame-no-Uzume was able to get Amaterasu to leave the cave by dancing and thus, light returned to the world. This folktale explains why roosters crow at dawn and is the origin of the traditional Kagura dance.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            421,
+            105,
+            448,
+            382
+        ],
+        "text": "PHOTO OF AMANO YASUGAWARA",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            424,
+            517,
+            736,
+            729
+        ],
+        "text": "AMANO-IWATO\nReturn this card to the hand.",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            753,
+            43,
+            991,
+            722
+        ],
+        "text": "Kaido's thunderous arrow attack is a reference to Indra's weapon Vajra (The Thunderbolt). It can also mean indestructible, adamant, or diamond. There is a clear intent to contrast it with Yamato's attack in terms of the intensity of the sound that's insinuated by the names. Kaido's being much more abrasively loud than Yamato's.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1022,
+            77,
+            1119,
+            794
+        ],
+        "text": "Usohachi's self-proclaimed title in Japanese is \"The Hunter of Two Fellows.\" This comes from the raw translation for the Flying Six (Flying Six Fellows). To adapt this, we decided to call him the Beast Hunter, to play off the Beast Pirates as a whole.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            378,
+            38,
+            472,
+            120
+        ],
+        "text": "He's a true cook, through and through!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            396,
+            258,
+            434,
+            323
+        ],
+        "text": "It'll be fine!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            358,
+            432,
+            418
+        ],
+        "text": "You can't be serious!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            367,
+            463,
+            432,
+            555
+        ],
+        "text": "It's a crucial step. I'll do it in two hours!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            635,
+            450,
+            724
+        ],
+        "text": "But that method will take all night!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            40,
+            774,
+            152
+        ],
+        "text": "I was just imagining Big Mom's face when she tastes how delicious this is.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            648,
+            364,
+            740,
+            453
+        ],
+        "text": "Oh... Sorry. I couldn't help it...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            513,
+            717,
+            608
+        ],
+        "text": "Take it seriously, Black-leg!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            627,
+            704,
+            711
+        ],
+        "text": "Why are you grinning like that?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            873,
+            138,
+            930,
+            225
+        ],
+        "text": "Your life is in grave danger!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            866,
+            237,
+            937,
+            336
+        ],
+        "text": "You're dreaming of how happy she'll be?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            866,
+            382,
+            921,
+            447
+        ],
+        "text": "He's so wonderful...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1021,
+            524,
+            1134,
+            673
+        ],
+        "text": "Don't you realize the life of your ship and the very fate of this nation are riding on this?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

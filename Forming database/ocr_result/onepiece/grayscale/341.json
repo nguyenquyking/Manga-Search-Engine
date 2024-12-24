@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            63,
+            1598,
+            130,
+            1683
+        ],
+        "text": "WHAT?! QUEEN-SAMA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            879,
+            341,
+            1101
+        ],
+        "text": "BOEUF BURST!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            293,
+            0,
+            226,
+            158
+        ],
+        "text": "GREIISH",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            371,
+            1197,
+            462,
+            1535
+        ],
+        "text": "PARLONS! BASSE C\u00d4TE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            1201,
+            928,
+            1326
+        ],
+        "text": "TENDRON! FLANCHET!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            683,
+            1577,
+            774,
+            1686
+        ],
+        "text": "JUMEAU \u00c0 BIFTECK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            1630,
+            871,
+            1695
+        ],
+        "text": "GUH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1072,
+            1394,
+            1119,
+            1697
+        ],
+        "text": "JARRET!! POIRE!! QUEUE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1183,
+            1197,
+            1264,
+            1273
+        ],
+        "text": "GET OUT OF MY SIGHT, SCUM.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            79,
+            936,
+            258
+        ],
+        "text": "BLERGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1211,
+            879,
+            1287,
+            1116
+        ],
+        "text": "GREIISH\nDEVIANTART | GRECIIAGZZ",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1251,
+            188,
+            1271,
+            307
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "5",
+        "type": "background"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            48,
+            123,
+            154,
+            686
+        ],
+        "text": "OP\u516c\u5f0fYouTube\n\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u3088\u308d\u3057\u304f!!!",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            316,
+            84,
+            348,
+            721
+        ],
+        "text": "\u516c\u5f0f\u30c1\u30e3\u30f3\u30cd\u30eb\u306a\u3089\u3067\u306f\u306e\u9650\u5b9a\u30b3\u30f3\u30c6\u30f3\u30c4\u304c\u305f\u3063\u3077\u308a!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            364,
+            158,
+            523,
+            279
+        ],
+        "text": "2",
+        "panel_id": "2",
+        "type": "number"
+    },
+    {
+        "text_box": [
+            410,
+            256,
+            541,
+            550
+        ],
+        "text": "\u30a8\u30d4\u30bd\u30fc\u30c9\u30aa\u30d6\u30b7\u30ea\u30fc\u30ba\u3082\n\u5927\u66b4\u308c!!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            534,
+            295,
+            654,
+            387
+        ],
+        "text": "OP\u30ad\u30e3\u30e9\u306b\u306a\u3063\u3066",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            611,
+            666,
+            717
+        ],
+        "text": "\u30c1\u30e3\u30f3\u30cd\u30eb\u767b\u9332\u306f\n\u30b3\u30c1\u30e9\u304b\u3089!!\u2192",
+        "panel_id": "2",
+        "type": "instruction"
+    },
+    {
+        "text_box": [
+            758,
+            98,
+            820,
+            363
+        ],
+        "text": "\u4eca\u5f8c\u3082VTuber\u52d5\u753b\u306a\u3069\u3092\n\u7d9a\u3005\u8ffd\u52a0\u4e88\u5b9a\u3060!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            906,
+            480,
+            951,
+            639
+        ],
+        "text": "\u300eONE PIECE\u300f3\u5927\u516c\u5f0fSNS\u3082\u8e8d\u52d5\u4e2d!!",
+        "panel_id": "4",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1015,
+            94,
+            1026,
+            160
+        ],
+        "text": "Instagram",
+        "panel_id": "4",
+        "type": "label"
+    },
+    {
+        "text_box": [
+            1014,
+            361,
+            1022,
+            387
+        ],
+        "text": "LINE",
+        "panel_id": "4",
+        "type": "label"
+    },
+    {
+        "text_box": [
+            1014,
+            622,
+            1024,
+            667
+        ],
+        "text": "Twitter",
+        "panel_id": "4",
+        "type": "label"
+    },
+    {
+        "text_box": [
+            1113,
+            201,
+            1124,
+            240
+        ],
+        "text": "NEW!!",
+        "panel_id": "4",
+        "type": "label"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            164,
+            102,
+            281,
+            237
+        ],
+        "text": "...is the Demon-Slasher Katana!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            212,
+            815,
+            278,
+            942
+        ],
+        "text": "Your name...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            36,
+            1033,
+            187
+        ],
+        "text": "We'll surpass our limits, right here, right now!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            801,
+            1014,
+            966
+        ],
+        "text": "Let's go get Captain Yami together!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1380,
+            57,
+            1438,
+            184
+        ],
+        "text": "...That phrase.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1364,
+            822,
+            1428,
+            941
+        ],
+        "text": "I hate...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

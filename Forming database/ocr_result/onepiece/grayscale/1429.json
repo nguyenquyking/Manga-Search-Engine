@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            174,
+            185,
+            313,
+            336
+        ],
+        "text": "I'M GONNA FALL! IT'S TOO HIGH! I'LL DIE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            154,
+            568,
+            325
+        ],
+        "text": "YOUR FATHER... IS A FOOL OF A LORD.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            296,
+            710,
+            475
+        ],
+        "text": "GRRRG...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            116,
+            856,
+            226,
+            1067
+        ],
+        "text": "HAGH..!!\nURH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            1166,
+            224,
+            1314
+        ],
+        "text": "WHAT IS YOUR NAME?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            881,
+            116,
+            1015,
+            381
+        ],
+        "text": "BECAUSE YOUR FATHER IS A GREAT MAN... AND YOU ARE MEANT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            868,
+            493,
+            972,
+            576
+        ],
+        "text": "HIC...\n!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            874,
+            732,
+            967,
+            804
+        ],
+        "text": "NO\n!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            1173,
+            1144,
+            1344
+        ],
+        "text": "WITH YOUR DEATH,\nI PRESUME\nTHE KOZUKI\nCLAN IS\nFISHED.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1386,
+            159,
+            1496,
+            404
+        ],
+        "text": "WILL ONE DAY...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1382,
+            443,
+            1492,
+            658
+        ],
+        "text": "AND I...\nHIC!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1401,
+            730,
+            1486,
+            920
+        ],
+        "text": "...A GREAT WARRIOR...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1371,
+            1166,
+            1473,
+            1346
+        ],
+        "text": "FATHER\nIS...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1816,
+            80,
+            2069,
+            341
+        ],
+        "text": "CARRY THIS\nNATION\nODH BY\nSHOULDERZ\n!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

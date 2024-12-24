@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            98,
+            77,
+            182,
+            173
+        ],
+        "text": "...when it comes to sailing the seas!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            522,
+            156,
+            625
+        ],
+        "text": "You can't believe how good the Cat Viper is...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            678,
+            130,
+            741
+        ],
+        "text": "New World",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            288,
+            68,
+            384,
+            204
+        ],
+        "text": "He wanted Yougara to wait here because you look too scary.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            282,
+            261,
+            386,
+            366
+        ],
+        "text": "Until he comes back with Marco the Phoenix!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            284,
+            433,
+            380,
+            544
+        ],
+        "text": "So... how long are we supposed to wait at these ruins?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            282,
+            618,
+            373,
+            725
+        ],
+        "text": "Of course! He was good enough to ride on the Pirate King's ship!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            55,
+            526,
+            163
+        ],
+        "text": "Is Marco really the kind of guy my face is gonna scare off?!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            700,
+            62,
+            774,
+            203
+        ],
+        "text": "I'm talking about the village, fool! Don't go over there!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            703,
+            345,
+            777,
+            538
+        ],
+        "text": "Minks Guardians",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            868,
+            65,
+            966,
+            178
+        ],
+        "text": "They're now scattered far and wide to parts unknown.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            868,
+            188,
+            983,
+            391
+        ],
+        "text": "After the loss of their \"Pops,\" the remainder of the crew waged war against Blackbeard to avenge their captain, but it was in vain.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            868,
+            401,
+            985,
+            628
+        ],
+        "text": "The all-powerful Whitebeard Pirates lost their captain in the Battle of Marineford two years ago, and his right-hand man was Marco.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            896,
+            649,
+            960,
+            739
+        ],
+        "text": "A Marco the Phoenix Refresher",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

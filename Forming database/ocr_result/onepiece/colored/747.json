@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            62,
+            122,
+            114,
+            276
+        ],
+        "text": "Pardon me for being so bold, but might I see your pan...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            345,
+            88,
+            429
+        ],
+        "text": "Ooh! \u2661",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            128,
+            45,
+            195,
+            129
+        ],
+        "text": "EEEK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            232,
+            44,
+            285,
+            117
+        ],
+        "text": "Wow! A ghost!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            265,
+            347,
+            307,
+            430
+        ],
+        "text": "A pretty lady. \u2661",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            38,
+            501,
+            184
+        ],
+        "text": "But to think that you are the younger sister of Momonosuke!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            221,
+            491,
+            324
+        ],
+        "text": "...and say, \"I'm so hungry! A curse upon you!\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            386,
+            338,
+            489,
+            453
+        ],
+        "text": "Yes. Kin'emon gave me orders to stay in the well...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            492,
+            488,
+            627
+        ],
+        "text": "So that's why all those offerings were left outside the well.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            647,
+            447,
+            695
+        ],
+        "text": "Oh, I see.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            541,
+            9,
+            603,
+            124
+        ],
+        "text": "And as beautiful as the oiran!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            664,
+            5,
+            714,
+            123
+        ],
+        "text": "The skeleton's got big, poofy",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            822,
+            35,
+            919,
+            136
+        ],
+        "text": "You can look on the bright side of anything, can't you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            179,
+            946,
+            359
+        ],
+        "text": "But everyone gets besotted by the thought of sleeping next to me! Was that exciting for you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            402,
+            912,
+            485
+        ],
+        "text": "I'm so sorry! It was cold inside...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            841,
+            513,
+            898,
+            587
+        ],
+        "text": "We were just sleeping.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            610,
+            906,
+            704
+        ],
+        "text": "I'm quite jealous, Zoro!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            17,
+            1062,
+            93
+        ],
+        "text": "Yo ho ho ho!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            143,
+            308,
+            241,
+            456
+        ],
+        "text": "Unfortunately, now I've depleted my stock of seeds.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            758,
+            226,
+            879
+        ],
+        "text": "He nearly had us! That's the child who sucked up the electric attack at the villa!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            497,
+            28,
+            563,
+            163
+        ],
+        "text": "Sleep, dammit!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            326,
+            532,
+            441
+        ],
+        "text": "Sleep!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            550,
+            778,
+            646,
+            839
+        ],
+        "text": "Tug",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            911,
+            93,
+            1005,
+            234
+        ],
+        "text": "...Reach the city!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            805,
+            577,
+            978,
+            686
+        ],
+        "text": "Bwah...Let him...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            775,
+            941,
+            875
+        ],
+        "text": "We can't...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1180,
+            194,
+            1194,
+            272
+        ],
+        "text": "Fwooh",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1403,
+            100,
+            1428,
+            258
+        ],
+        "text": "Hexamendle",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

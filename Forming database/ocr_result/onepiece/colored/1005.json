@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            108,
+            60,
+            169,
+            155
+        ],
+        "text": "THE PIRATE ISLAND OF FULLALEAD",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            106,
+            637,
+            154,
+            711
+        ],
+        "text": "NEW WORLD",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            429,
+            51,
+            560,
+            168
+        ],
+        "text": "I SAID BRING ME TEACH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            415,
+            615,
+            498,
+            723
+        ],
+        "text": "DIDN'T YOU HEAR ME?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            961,
+            427,
+            1094,
+            723
+        ],
+        "text": "CAPTAIN OF THE\nTHRILLER BARK PIRATES\n(FORMER WARLORD OF THE SEA)\nGECKO MORIA\nBOUNTY: 320 MILLION B",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

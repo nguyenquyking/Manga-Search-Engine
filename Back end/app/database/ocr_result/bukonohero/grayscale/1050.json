@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            167,
+            206,
+            175,
+            226
+        ],
+        "text": "KA-",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            393,
+            281,
+            411,
+            532
+        ],
+        "text": "TRANSLATION: CALEB COOK LETTERING: JOHN HUNT",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1001,
+            76,
+            1093,
+            184
+        ],
+        "text": "SO MUCH BLOOD SPILLED, FOR NO GOOD REASON...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            210,
+            1053,
+            289
+        ],
+        "text": "THIS BATTLE... TODAY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            683,
+            1013,
+            723
+        ],
+        "text": "MY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1116,
+            707,
+            1131,
+            751
+        ],
+        "text": "THROB",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

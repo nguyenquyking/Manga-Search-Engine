@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            39,
+            74,
+            56,
+            718
+        ],
+        "text": "I ASSISTED THE PRINCE IN THE CREATION OF THESE MAGIC TOOLS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            274,
+            109,
+            294,
+            693
+        ],
+        "text": "HE WAS... COMPLETELY DIFFERENT FROM WHAT I EXPECTED.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            362,
+            67,
+            425,
+            179
+        ],
+        "text": "AND DIDN'T LIKE HIS INNOVATIVE PERSONALITY...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            344,
+            636,
+            419,
+            732
+        ],
+        "text": "ALTHOUGH THERE WERE ALSO ROYALS WHO WERE DISPLEASED...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            530,
+            222,
+            638,
+            291
+        ],
+        "text": "HE WAS A STRONG PERSON, ALWAYS STRIVING FORWARD.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            549,
+            580,
+            638,
+            737
+        ],
+        "text": "HE NEVER CARED ABOUT WHAT THEY THOUGHT. HIS PERSONAL IDEALS NEVER WAIVERED.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            892,
+            66,
+            982,
+            133
+        ],
+        "text": "WHERE IN THE WORLD ARE THEY GOING?",
+        "panel_id": "5",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            896,
+            128,
+            896,
+            171
+        ],
+        "text": "PEEK",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            883,
+            273,
+            993,
+            352
+        ],
+        "text": "RECENTLY THE PRINCE HAS BEEN FREQUENTLY SNEAKING OUT WITH HIS SISTER TETIA.",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

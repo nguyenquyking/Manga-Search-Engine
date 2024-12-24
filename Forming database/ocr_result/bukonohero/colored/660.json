@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            532,
+            49,
+            558,
+            229
+        ],
+        "text": "SHIGARAKI!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1144,
+            215,
+            1277,
+            374
+        ],
+        "text": "NUMBER ONE,\nYOU'RE ONE\nHELL OF A\nWAKE-UP\nCALL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            138,
+            1679,
+            254,
+            1909
+        ],
+        "text": "MEANWHILE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            565,
+            1669,
+            831,
+            1926
+        ],
+        "text": "BACK\nAT THE\nRUINS\nOF JAKU\nHOSPITAL",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            825,
+            1275,
+            802,
+            1373
+        ],
+        "text": "20000SH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1400,
+            611,
+            1420,
+            929
+        ],
+        "text": "Next chapter hits June 7!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

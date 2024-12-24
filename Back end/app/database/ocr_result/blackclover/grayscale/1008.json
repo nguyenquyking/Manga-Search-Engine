@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            212,
+            117,
+            233,
+            170
+        ],
+        "text": "BADMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            989,
+            76,
+            1046,
+            159
+        ],
+        "text": "WHAT...?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

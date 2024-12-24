@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            22,
+            18,
+            149,
+            86
+        ],
+        "text": "Something packing an even bigger punch than this?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            21,
+            106,
+            100,
+            174
+        ],
+        "text": "Is she waiting for something?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            21,
+            179,
+            214,
+            289
+        ],
+        "text": "...She realizes that without a single attack powerful enough to vaporize me into nothing, it's all pointless.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            21,
+            288,
+            88,
+            342
+        ],
+        "text": "All of which tells me...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            24,
+            567,
+            149,
+            705
+        ],
+        "text": "This united laser blast is only meant to stun, lock me via relentless damage.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            352,
+            114,
+            458,
+            231
+        ],
+        "text": "...While you switch over to the big booms that really bring the pain!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            44,
+            525,
+            115
+        ],
+        "text": "Dammit, it's almost like...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            328,
+            566,
+            415,
+            692
+        ],
+        "text": "Roger that, Star. We'll be sure to keep his hyper-regen busy...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            53,
+            688,
+            141
+        ],
+        "text": "A make-or-break moment for us both!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            627,
+            248,
+            699,
+            318
+        ],
+        "text": "...She must have a way!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            581,
+            562,
+            633,
+            640
+        ],
+        "text": "No, couldn't be...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            872,
+            23,
+            940,
+            114
+        ],
+        "text": "...Of hot potato.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            887,
+            577,
+            953,
+            704
+        ],
+        "text": "...A shitty game...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

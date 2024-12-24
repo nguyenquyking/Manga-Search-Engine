@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            63,
+            21,
+            150,
+            174
+        ],
+        "text": "This is bad. I'm worried about Bepo and the crew, but I can't leave that idiot there, either...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            203,
+            138,
+            292
+        ],
+        "text": "Nails made of seastone...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            188,
+            216,
+            260,
+            288
+        ],
+        "text": "Never heard of that before!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            375,
+            115,
+            650
+        ],
+        "text": "Huff!! Ungh... Huff!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            601,
+            38,
+            666,
+            135
+        ],
+        "text": "He shall not escape...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            604,
+            154,
+            666,
+            249
+        ],
+        "text": "But I will track him down.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            280,
+            450,
+            376
+        ],
+        "text": "Well, we've caught one. That is",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            399,
+            439,
+            459
+        ],
+        "text": "See...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            498,
+            456,
+            587
+        ],
+        "text": "Not in town anymore, I reckon...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            418,
+            619,
+            454,
+            686
+        ],
+        "text": "Bakura Town",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            790,
+            53,
+            816,
+            166
+        ],
+        "text": "...?",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            752,
+            199,
+            832,
+            294
+        ],
+        "text": "Huff... Oh, if only I could say I'm sorry...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            762,
+            310,
+            818,
+            390
+        ],
+        "text": "I wish I could apologize...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            759,
+            422,
+            859,
+            515
+        ],
+        "text": "Be strong, Gorobei! You're going to make it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            371,
+            870,
+            397
+        ],
+        "text": "Huff!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            807,
+            627,
+            841,
+            701
+        ],
+        "text": "Okobore Town",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1048,
+            87,
+            1128,
+            206
+        ],
+        "text": "...to Luffytar\u014d!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

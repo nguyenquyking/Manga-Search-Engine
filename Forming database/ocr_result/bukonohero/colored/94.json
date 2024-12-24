@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            123,
+            44,
+            229,
+            181
+        ],
+        "text": "Be sure to tell my class president \"Job well done\" for me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            598,
+            256,
+            682
+        ],
+        "text": "Aizawa.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            841,
+            181,
+            912,
+            269
+        ],
+        "text": "I try to speak to him every day, but...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            142,
+            1071,
+            232
+        ],
+        "text": "...No progress on that front.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            324,
+            1032,
+            418
+        ],
+        "text": "And Kurogiri?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            469,
+            938,
+            578
+        ],
+        "text": "I won't be the next Mirko, I can tell you that.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            847,
+            622,
+            882,
+            692
+        ],
+        "text": "How's the leg faring?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            38,
+            146,
+            41,
+            187
+        ],
+        "text": "FLAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            283,
+            661,
+            338,
+            728
+        ],
+        "text": "QUEEN LOLO-PECHKA",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            361,
+            452,
+            433,
+            516
+        ],
+        "text": "I'M SO GLAD YOU'RE SAFE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            468,
+            807,
+            525
+        ],
+        "text": "WHUMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            938,
+            44,
+            934,
+            108
+        ],
+        "text": "FWUMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

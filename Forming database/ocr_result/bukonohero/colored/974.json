@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            92,
+            58,
+            253,
+            218
+        ],
+        "text": "YOU'LL BECOME AN INCREDIBLE HERO! WITHOUT A DOUBT!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            511,
+            188,
+            611
+        ],
+        "text": "YA SAVED ALL OF US!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            211,
+            645,
+            309,
+            823
+        ],
+        "text": "DAT WAS A MAGNIFICENT DEBUT... COMPLETELY DIFFERENT FROM MY DEBUT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            700,
+            74,
+            743,
+            258
+        ],
+        "text": "THANKS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            224,
+            1075,
+            368
+        ],
+        "text": "DAT KINDA DRUG IS DA KIND THAT'S BANNED IN JAPAN...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1002,
+            53,
+            1175,
+            205
+        ],
+        "text": "IF WE LOOK AT THE SHORT EFFECT DURATION, IT'S AN INFERIOR TYPE FROM ASIA. IF IT WAS FROM AFRICA, IT WOULD HAVE LASTED ONE TO TWO HOURS.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            998,
+            519,
+            1075,
+            643
+        ],
+        "text": "A QUIRK POWER UP HUH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

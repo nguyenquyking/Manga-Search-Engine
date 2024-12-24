@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            68,
+            462,
+            109,
+            515
+        ],
+        "text": "WHAT IS IT?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            702,
+            161,
+            786
+        ],
+        "text": "WELL... THERE'S A GIANT SHADOW...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            156,
+            31,
+            195,
+            103
+        ],
+        "text": "AN ISLAND?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            107,
+            338,
+            128,
+            395
+        ],
+        "text": "NO IDEA...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            128,
+            414,
+            279
+        ],
+        "text": "HOW ELSE DO YOU EXPLAIN THE WORLD GOVERNMENT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            370,
+            403,
+            512
+        ],
+        "text": "IT HASN'T AWAKENED FOR CENTURIES!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            562,
+            406,
+            738
+        ],
+        "text": "THAT'S IMPOSSIBLE!! THAT FRUIT IS NOTHING BUT A LEGEND NOW, EVEN FOR US.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            492,
+            72,
+            614,
+            205
+        ],
+        "text": "GIVING A SPECIFIC DEVIL FRUIT A UNIQUE NAME?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            90,
+            876,
+            221
+        ],
+        "text": "...FROM THE ANNALS OF HISTORY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            665,
+            880,
+            809
+        ],
+        "text": "THEY WERE HIDING THE FRUIT'S TRUE NAME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            18,
+            995,
+            106
+        ],
+        "text": "WHAT DOES THIS MEAN...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1157,
+            276,
+            1290,
+            629
+        ],
+        "text": "GREIISH\nDEVIANTART |GRECIA6ZZ\nCH.1037  BREAK\n/END     NEXT WEEK\nONE PIECE",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            186,
+            1935,
+            318,
+            2131
+        ],
+        "text": "ONE OF GIDEMOLO'S CHARACTERISTICS IS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            284,
+            2201,
+            560,
+            2371
+        ],
+        "text": "...THE CHARACTERISTICS OF EACH OF MY DEVILS TO SHADOW MAGIC.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            106,
+            2447,
+            312,
+            2551
+        ],
+        "text": "USING DEVIL UNION LETS ME ADD...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            509,
+            86,
+            566,
+            329
+        ],
+        "text": "\"PACK.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1385,
+            522,
+            1659,
+            1063
+        ],
+        "text": "@colorclovers @rooxer9",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1814,
+            1099,
+            1822,
+            1201
+        ],
+        "text": "00000",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

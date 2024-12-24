@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            66,
+            65,
+            114,
+            162
+        ],
+        "text": "ONE PLATINUM COIN?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            258,
+            171,
+            415
+        ],
+        "text": "IF WE TAKE THIS BOAR TO THE CAPITAL, WE COULD GET A WHOLE PLATINUM FOR HIM.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            471,
+            151,
+            595
+        ],
+        "text": "OOOH, WHAT A BEAUTIFUL WHITE BOAR!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            638,
+            126,
+            735
+        ],
+        "text": "LOOK AT THIS LITTLE GUY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            69,
+            478,
+            159
+        ],
+        "text": "THAT'S ENOUGH TO BUILD A GORGEOUS HOME!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            560,
+            64,
+            673,
+            171
+        ],
+        "text": "WHITE BOARS ARE THE AGENTS OF THE GODS!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            561,
+            210,
+            654,
+            275
+        ],
+        "text": "AS A SIDE-SHOW?\nNO!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            560,
+            347,
+            676,
+            466
+        ],
+        "text": "THERE WAS A BOUNTY ON THE BEAST, BUT NO ONE WAS EVER ABLE TO FIND IT.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            568,
+            517,
+            666,
+            618
+        ],
+        "text": "...TO DISPLAY OUTSIDE OF HIS PLACE FOR ALL TO SEE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            559,
+            647,
+            666,
+            737
+        ],
+        "text": "THE KUROKOMA BOSS WANTS THE LEGENDARY WHITE BOAR...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            739,
+            68,
+            855,
+            183
+        ],
+        "text": "DA HA HA HA! OH, YOU'RE SO SWEET. IT'S JUST A RARE CREATURE, THAT'S ALL!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            570,
+            1015,
+            655
+        ],
+        "text": "OH... JUST A MOMENT.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            63,
+            983,
+            120
+        ],
+        "text": "SNAG!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

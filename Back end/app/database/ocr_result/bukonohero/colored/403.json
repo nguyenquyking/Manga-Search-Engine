@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            118,
+            82,
+            165,
+            376
+        ],
+        "text": "DOOM\nRATTL",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            208,
+            571,
+            299,
+            793
+        ],
+        "text": "DOOM\nRMMB",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            374,
+            76,
+            433,
+            156
+        ],
+        "text": "No...\nShe ran\naway...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            406,
+            390,
+            506,
+            537
+        ],
+        "text": "She might be\naiming for our\nblind spots!\nLet's stand\nback-to-\nback...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            453,
+            863,
+            490,
+            915
+        ],
+        "text": "She's\ngone!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            589,
+            233,
+            682,
+            340
+        ],
+        "text": "Since\nwe like\nthe same\nboy...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            436,
+            619,
+            542
+        ],
+        "text": "Ochaco...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            63,
+            726,
+            217
+        ],
+        "text": "...I thought\nmaybe we\ncould\nconfide in\neach other\nabout love...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            652,
+            775,
+            762
+        ],
+        "text": "The giant\nvillain...\nGetting\nbigger...\nWon't\nstop...\nKzzt\nWon't\nstop...\nKzzt",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            842,
+            56,
+            865,
+            280
+        ],
+        "text": "HEXAMENDLEY\u00a9",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            918,
+            164,
+            984,
+            303
+        ],
+        "text": "My\nconfusion's\nall cleared\naway.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            884,
+            452,
+            927,
+            564
+        ],
+        "text": "I'm going\nback to",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            619,
+            975,
+            744
+        ],
+        "text": "Ah... We're\nlosing...\nLive feed...\nAirwaves\nare...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            836,
+            858,
+            924
+        ],
+        "text": "\u30c9\u30aa\u30ad\u30e5\u30fc\u30f3",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1116,
+            795,
+            1216,
+            889
+        ],
+        "text": "TMP\nTMP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1260,
+            294,
+            1302,
+            388
+        ],
+        "text": "She was\ncrying...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

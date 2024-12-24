@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            73,
+            260,
+            143,
+            365
+        ],
+        "text": "AND THAT CHANGES THINGS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            399,
+            207,
+            514
+        ],
+        "text": "YOU HEARD IT FOR YOURSELVES, DIDN'T YOU? THERE'S A CHANCE THE ALLIANCE IS GOING TO BE INVOLVED.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            126,
+            730,
+            214,
+            836
+        ],
+        "text": "WHAAA-AA?! WHY NOW?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            431,
+            239,
+            480,
+            345
+        ],
+        "text": "Not since that little fight.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            450,
+            722,
+            505,
+            823
+        ],
+        "text": "ON THE OTHER HAND... MIDORIYA...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            584,
+            600,
+            724
+        ],
+        "text": "YOU STILL HAVEN'T RESTORED MY TRUST IN YOU.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            517,
+            888,
+            653
+        ],
+        "text": "SO I'D BE GRATEFUL IF YOU RESTORE THAT TRUST BY GOING THROUGH THE PROPER CHANNELS AND HERO-ING LEGALLY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            399,
+            840,
+            494
+        ],
+        "text": "WE WON'T FAIL YOU THIS TIME, ERI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            350,
+            845,
+            430
+        ],
+        "text": "WE'LL PROTECT HER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            709,
+            898,
+            741
+        ],
+        "text": "HUH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1045,
+            68,
+            1150,
+            212
+        ],
+        "text": "YOU'D JUST JUMP INTO THE FRAY AGAIN.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            542,
+            1001,
+            619
+        ],
+        "text": "Easy does it...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            966,
+            664,
+            1110,
+            827
+        ],
+        "text": "IT'S A DAMN SHAME, BUT... I'M AFRAID I'VE CONVINCED THAT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            558,
+            1176,
+            670
+        ],
+        "text": "IF I TRIED STOPPING YOU...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

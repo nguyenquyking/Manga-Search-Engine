@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            302,
+            52,
+            357,
+            77
+        ],
+        "text": "SHUR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            291,
+            198,
+            354,
+            233
+        ],
+        "text": "SHUR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            318,
+            283,
+            380,
+            381
+        ],
+        "text": "HE'S NOT FAZED AT ALL?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            299,
+            495,
+            330,
+            727
+        ],
+        "text": "GRIK GRIK...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            350,
+            404,
+            415,
+            515
+        ],
+        "text": "BAM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            539,
+            635,
+            609,
+            704
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            95,
+            583,
+            194
+        ],
+        "text": "IMPERIAL...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            785,
+            98,
+            780,
+            150
+        ],
+        "text": "ZING!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            676,
+            420,
+            688,
+            495
+        ],
+        "text": "FWOOM!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            701,
+            599,
+            787,
+            740
+        ],
+        "text": "BUT THAT LAST ONE WAS A WAY BETTER ATTACK!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            714,
+            329,
+            766,
+            401
+        ],
+        "text": "AAAH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            180,
+            919,
+            262
+        ],
+        "text": "...DEEP PRIDE...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            983,
+            50,
+            1044,
+            156
+        ],
+        "text": "NOT NOW!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            353,
+            1095,
+            462
+        ],
+        "text": "WAIT, ENMA!! STOP!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            699,
+            1102,
+            725
+        ],
+        "text": "CHK!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            26,
+            148,
+            40,
+            275
+        ],
+        "text": "DA DA DA DOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            897,
+            95,
+            988,
+            299
+        ],
+        "text": "...DRAGON\nSWARM!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            924,
+            471,
+            949,
+            598
+        ],
+        "text": "GA GA GANK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            135,
+            805,
+            233,
+            992
+        ],
+        "text": "...GATLING\n!!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            1092,
+            120,
+            1180
+        ],
+        "text": "GUM-GUM...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            1197,
+            82,
+            1246
+        ],
+        "text": "HUFF,\nHUFF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            9,
+            1462,
+            30,
+            1533
+        ],
+        "text": "BAKOOM!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            405,
+            1426,
+            480,
+            1509
+        ],
+        "text": "ROC\n....!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            439,
+            1252,
+            506,
+            1401
+        ],
+        "text": "SWISH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            762,
+            1141,
+            776,
+            1472
+        ],
+        "text": "KUNDALI...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            722,
+            1299,
+            744,
+            1437
+        ],
+        "text": "SWOOP SWOOP",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            224,
+            62,
+            353,
+            209
+        ],
+        "text": "I made that. It's the boy who's on your mind.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            648,
+            283,
+            624,
+            494
+        ],
+        "text": "DWAAAAAAAAAAH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            692,
+            819,
+            838,
+            974
+        ],
+        "text": "He is so completely not on my mind!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            59,
+            854,
+            119
+        ],
+        "text": "Oh dear.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            139,
+            1217,
+            210
+        ],
+        "text": "What do you mean?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1318,
+            266,
+            1468,
+            357
+        ],
+        "text": "...This is the perfect place for secret chats.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1329,
+            627,
+            1460,
+            688
+        ],
+        "text": "Eh heh heh! Well, after all...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1360,
+            747,
+            1456,
+            864
+        ],
+        "text": "Absolutely not, all right?! Not the tiniest bit!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            879,
+            1228,
+            975
+        ],
+        "text": "Did you maybe come here for his sake too?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

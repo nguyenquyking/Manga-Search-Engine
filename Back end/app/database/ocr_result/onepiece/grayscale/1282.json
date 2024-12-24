@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            133,
+            92,
+            248,
+            347
+        ],
+        "text": "So they call that separate little island...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            125,
+            797,
+            233,
+            1003
+        ],
+        "text": "They're in the middle of the raid!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            112,
+            1069,
+            261,
+            1236
+        ],
+        "text": "Everybody sounds good to me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            371,
+            123,
+            492,
+            270
+        ],
+        "text": "...Onigashima now?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            192,
+            881,
+            420
+        ],
+        "text": "You mean the guy who wrecked up Zou was just an officer?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            512,
+            902,
+            718
+        ],
+        "text": "Mrow! Row row! No kidding! Guess I'll toss out this note, then!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            792,
+            872,
+            1067
+        ],
+        "text": "What was the point of me asking you to send a message to Straw Hat Luffy, then?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            689,
+            1152,
+            861,
+            1311
+        ],
+        "text": "Go figure that we showed up at the same time.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            80,
+            1077,
+            241
+        ],
+        "text": "We're in for a big fight!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1334,
+            100,
+            1470,
+            345
+        ],
+        "text": "Cat Viper's Men",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1591,
+            178,
+            1751,
+            421
+        ],
+        "text": "Then let's hurry!! I got a genius plan in mind!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1820,
+            194,
+            1941,
+            385
+        ],
+        "text": "FWIP\nI might be late,\nbut I'll be there",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1989,
+            349,
+            1952,
+            421
+        ],
+        "text": "Marco",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1581,
+            793,
+            1756,
+            1081
+        ],
+        "text": "Look, I love Oden, but word from Wano doesn't travel out of the country...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1566,
+            1157,
+            1743,
+            1307
+        ],
+        "text": "I'm surprised you got involved, Marco.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1797,
+            622,
+            2000,
+            810
+        ],
+        "text": "I never thought things had gotten this bad.",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

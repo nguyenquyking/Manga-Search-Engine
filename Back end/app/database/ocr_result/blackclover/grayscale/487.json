@@ -1,0 +1,13 @@
+[
+    {
+        "text_box": [
+            624,
+            415,
+            1267,
+            1007
+        ],
+        "text": "ZZZT",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

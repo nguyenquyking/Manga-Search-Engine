@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            44,
+            361,
+            84,
+            392
+        ],
+        "text": "SHUR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            74,
+            572,
+            178,
+            679
+        ],
+        "text": "Ah...\nAhhh...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            183,
+            540,
+            202,
+            554
+        ],
+        "text": "BRR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            404,
+            52,
+            549,
+            183
+        ],
+        "text": "Guh-\nGood,\ngood...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            737,
+            512,
+            758
+        ],
+        "text": "BRR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            582,
+            675,
+            614,
+            723
+        ],
+        "text": "Ah!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            654,
+            657,
+            665,
+            693
+        ],
+        "text": "BRR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            745,
+            604,
+            763,
+            640
+        ],
+        "text": "HEE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            761,
+            146,
+            814,
+            200
+        ],
+        "text": "...until\nat last,\nhe's...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            784,
+            282,
+            809,
+            312
+        ],
+        "text": "HEE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            776,
+            687,
+            843,
+            742
+        ],
+        "text": "Good,\nvery\ngood.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            816,
+            511,
+            830,
+            547
+        ],
+        "text": "HEE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            847,
+            91,
+            862,
+            140
+        ],
+        "text": "empty.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            927,
+            299,
+            978,
+            361
+        ],
+        "text": "...until\nthe very\nend...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            996,
+            679,
+            1068,
+            745
+        ],
+        "text": "Screams\nof agony\nand\ndespair...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1006,
+            70,
+            1077,
+            127
+        ],
+        "text": "Very,\nvery\ngood.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1022,
+            471,
+            1110,
+            556
+        ],
+        "text": "...wrung\nfrom the\nstraining\nthroat of a\nhuman...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1044,
+            626,
+            1062,
+            659
+        ],
+        "text": "HEE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

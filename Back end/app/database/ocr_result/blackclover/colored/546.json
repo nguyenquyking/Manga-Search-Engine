@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            149,
+            371,
+            177,
+            465
+        ],
+        "text": "FIGHT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            448,
+            78,
+            504,
+            143
+        ],
+        "text": "IF YOU LOSE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            455,
+            566,
+            565
+        ],
+        "text": "THEN DEFEAT HIM,\nNO MATTER\nWHAT IT\nTAKES.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            591,
+            483,
+            713
+        ],
+        "text": "YOU CAME\nHERE TO GET\nSTRONGER,\nDIDN'T YOU?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            78,
+            760,
+            133
+        ],
+        "text": "...!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            691,
+            657,
+            804,
+            751
+        ],
+        "text": "...THE\nDEVIL\nWILL TAKE\nOVER\nYOUR\nBODY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            276,
+            1012,
+            385
+        ],
+        "text": "...AND\nYOU'LL\nBECOME A\nGROTESQUE\nMONSTER!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

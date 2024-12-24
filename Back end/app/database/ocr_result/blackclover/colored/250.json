@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            31,
+            15,
+            308,
+            36
+        ],
+        "text": "Novairah_art",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            343,
+            8,
+            611,
+            31
+        ],
+        "text": "Twitter - Instagram",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            484,
+            100,
+            542,
+            265
+        ],
+        "text": "BLUE ROSE\nHEADQUARTERS",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            954,
+            13,
+            1192,
+            41
+        ],
+        "text": "Color Clover\nTwitter",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

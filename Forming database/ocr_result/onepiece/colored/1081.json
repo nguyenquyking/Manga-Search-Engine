@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            68,
+            73,
+            128,
+            133
+        ],
+        "text": "IS IT...?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            146,
+            641,
+            186,
+            691
+        ],
+        "text": "??!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            330,
+            229,
+            354,
+            297
+        ],
+        "text": "HMM?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            621,
+            415,
+            706
+        ],
+        "text": "BUT WHY...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            6,
+            727,
+            97
+        ],
+        "text": "NO!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            528,
+            677,
+            582
+        ],
+        "text": "IS IT GONNA RAIN?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            631,
+            690,
+            699
+        ],
+        "text": "WHAT'S GOING ON OVER THERE...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            19,
+            939,
+            135
+        ],
+        "text": "WHAT'S UP, TRAFFY?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            198,
+            906,
+            223
+        ],
+        "text": "?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            583,
+            998,
+            701
+        ],
+        "text": "STRAW HAT! COME HERE AT ONCE!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

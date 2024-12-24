@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            67,
+            526,
+            168,
+            901
+        ],
+        "text": "MY HERO\nACADEMIA",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            194,
+            588,
+            221,
+            818
+        ],
+        "text": "BY Kohei Horikoshi",
+        "panel_id": "1",
+        "type": "author"
+    },
+    {
+        "text_box": [
+            248,
+            553,
+            264,
+            864
+        ],
+        "text": "Translation: Caleb Cook Lettering: John Hunt",
+        "panel_id": "1",
+        "type": "credits"
+    },
+    {
+        "text_box": [
+            1398,
+            4,
+            1425,
+            307
+        ],
+        "text": "No. 275 - Encounter, Part 2",
+        "panel_id": "2",
+        "type": "chapter_title"
+    },
+    {
+        "text_box": [
+            1412,
+            694,
+            1426,
+            775
+        ],
+        "text": "Colorist:",
+        "panel_id": "2",
+        "type": "credits"
+    }
+]

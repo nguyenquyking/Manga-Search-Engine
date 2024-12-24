@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            125,
+            92,
+            299,
+            246
+        ],
+        "text": "This is my final Gear Four!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            310,
+            283,
+            436
+        ],
+        "text": "How many more minutes left?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            527,
+            231,
+            634
+        ],
+        "text": "Woro Ro Ro...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            286,
+            715,
+            212,
+            854
+        ],
+        "text": "BABABA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            682,
+            916,
+            776,
+            1072
+        ],
+        "text": "BA BOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            551,
+            1155,
+            654,
+            1314
+        ],
+        "text": "DAMMIT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            450,
+            849,
+            569
+        ],
+        "text": "You're coming back?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            139,
+            911,
+            335
+        ],
+        "text": "There's no time to waste!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            717,
+            1261,
+            1018
+        ],
+        "text": "As long as you're around, the people of Wano won't even have clean water to drink!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            58,
+            1406,
+            295
+        ],
+        "text": "GRIK GRIK\nGUM-GUM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1163,
+            1296,
+            1282,
+            1445
+        ],
+        "text": "Losing's not an option!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1767,
+            171,
+            2230,
+            574
+        ],
+        "text": "Weez\u2026Weez\u2026\nWell, you\u2019re free to take sides however you wish\u2026",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2024,
+            638,
+            2138,
+            731
+        ],
+        "text": "Woro Ro Ro!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2074,
+            819,
+            2170,
+            946
+        ],
+        "text": "Huff, huff\u2026",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2003,
+            1285,
+            2228,
+            1441
+        ],
+        "text": "Urrp! You\u2019re rather demanding.",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

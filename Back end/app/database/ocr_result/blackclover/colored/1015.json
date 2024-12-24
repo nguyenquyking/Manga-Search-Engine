@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            329,
+            103,
+            443,
+            341
+        ],
+        "text": "...DIRECTLY TO LANGRIS!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            359,
+            1095,
+            516,
+            1328
+        ],
+        "text": "I'LL APPLY FALLEN ANGEL'S WINGBEAT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            724,
+            857,
+            827,
+            1260
+        ],
+        "text": "Instant",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1344,
+            111,
+            1495,
+            894
+        ],
+        "text": "Teleportation",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1619,
+            95,
+            1824,
+            281
+        ],
+        "text": "FINRAL'S TELEPORTATION IS HIGHLY AGILE AND ACCURATE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1814,
+            643,
+            1896,
+            771
+        ],
+        "text": "RIGHT NOW...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1617,
+            1117,
+            1999,
+            1329
+        ],
+        "text": "EVEN WITHIN ZENON'S ABSOLUTE SPACE, LANGRIS'S MANA ZONE MAKES IT POSSIBLE TO ACTIVATE SPELLS.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

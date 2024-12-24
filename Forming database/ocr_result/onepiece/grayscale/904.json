@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            77,
+            125,
+            177,
+            234
+        ],
+        "text": "I was in over my head from the start with this dragon salmon idea!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            315,
+            164,
+            390
+        ],
+        "text": "Quit trying already! It's over!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            217,
+            611,
+            316,
+            701
+        ],
+        "text": "I've never seen Sanji look so scary in the kitchen before.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            522,
+            378,
+            596
+        ],
+        "text": "I know you said it was, but I had no idea it was that hard.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            495,
+            418,
+            528,
+            463
+        ],
+        "text": "Just stop!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            669,
+            512,
+            712
+        ],
+        "text": "Stop...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            346,
+            741,
+            436
+        ],
+        "text": "Some things are just plain impossible. Better to give up with grace.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            680,
+            67,
+            802,
+            162
+        ],
+        "text": "But it's for your daughter, right?! Who you care about a lot!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            650,
+            810,
+            712
+        ],
+        "text": "Hey, wait! Don't give up yet!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            539,
+            862,
+            632
+        ],
+        "text": "Sanji is trying his best for your daughter...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            46,
+            972,
+            126
+        ],
+        "text": "Got sick real bad more times than I can count.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            889,
+            207,
+            973,
+            273
+        ],
+        "text": "See... she was a frail little girl.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            887,
+            321,
+            911,
+            352
+        ],
+        "text": "SWF",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            954,
+            505,
+            1086,
+            606
+        ],
+        "text": "I was so busy with work I never did much for her when she was growing up.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            621,
+            1065,
+            707
+        ],
+        "text": "You bet I do! She... she's way too precious a treasure for a dad like me.",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

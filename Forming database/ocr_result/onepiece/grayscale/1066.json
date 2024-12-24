@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            156,
+            231,
+            276,
+            333
+        ],
+        "text": "HOW SHOULD I KNOW?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            227,
+            375,
+            280,
+            567
+        ],
+        "text": "...IS SUPPOSED TO GROW?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            617,
+            259,
+            743
+        ],
+        "text": "THEN WHY DON'T YOU TELL ME HOW A GORILLA...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            85,
+            500,
+            227
+        ],
+        "text": "WHOA!! THAT WAS PRETTY POWERFUL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            858,
+            929,
+            1030
+        ],
+        "text": "GORILLA PUNCH PUNCH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1097,
+            94,
+            1212,
+            250
+        ],
+        "text": "SHUT UP!! IS TEN SECONDS TOO LONG FOR YOU?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1076,
+            297,
+            1206,
+            448
+        ],
+        "text": "IT'LL TAKE YOU TOO LONG TO HANDLE ALL THESE GUYS ALONE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1076,
+            505,
+            1246,
+            706
+        ],
+        "text": "HOW MANY TIMES DO WE HAVE TO TELL YOU TO CONSERVE YOUR STRENGTH FOR KAIDO?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1110,
+            741,
+            1214,
+            849
+        ],
+        "text": "ALL RIGHT, I'LL TAKE CARE OF 'EM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            874,
+            1195,
+            1013
+        ],
+        "text": "HEY, THERE'S A BUNCH BACK THERE TOO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1288,
+            86,
+            1363,
+            173
+        ],
+        "text": "I'LL DO IT IN THREE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1452,
+            85,
+            1505,
+            221
+        ],
+        "text": "FISH-MAN KARATE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            67,
+            77,
+            165,
+            192
+        ],
+        "text": "THIS IS NOTHING BUT SUICIDE!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            219,
+            59,
+            324,
+            188
+        ],
+        "text": "LET US TURN BACK FOR NOW, TO WAIT FOR ANOTHER CHANCE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            615,
+            138,
+            730
+        ],
+        "text": "STOP THIS, ALL OF YOU!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            60,
+            507,
+            207
+        ],
+        "text": "OUR CONTROL OVER UDON WILL BE REVEALED MOMENTARILY!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            573,
+            61,
+            690,
+            213
+        ],
+        "text": "KAIDO WILL SEND HIS ENTIRE ARMY TO HUNT DOWN ALL OF THE REBELS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            418,
+            542,
+            538,
+            731
+        ],
+        "text": "IF WE LET THIS OPPORTUNITY PASS, THE NEXT WILL NOT COME FOR ANOTHER YEAR!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            576,
+            697,
+            727
+        ],
+        "text": "AND WE CANNOT STAY IN HIDING ANY LONGER THAN THIS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            99,
+            891,
+            250
+        ],
+        "text": "...TOOK RESPONSIBILITY FOR OUR CRIMES!! THE VILLAGE WAS BURNT TO THE GROUND!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            792,
+            268,
+            898,
+            405
+        ],
+        "text": "THE PEOPLE OF OKOBORE TOWN, BELIEVING IN OUR PLAN TO GO INTO BATTLE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            789,
+            438,
+            900,
+            578
+        ],
+        "text": "SURELY YOU HEARD ABOUT WHAT HAPPENED BEFORE WE LEFT KURI!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            613,
+            906,
+            734
+        ],
+        "text": "THERE IS ONLY SO MUCH FOOD THAT WE CAN STEAL!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            118,
+            516,
+            276,
+            669
+        ],
+        "text": "But you did well to keep the Sulongs in check.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            179,
+            1891,
+            267,
+            2060
+        ],
+        "text": "They're just...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            102,
+            640,
+            251
+        ],
+        "text": "Have your wounds tended to. You've done enough...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            53,
+            864,
+            181
+        ],
+        "text": "We are grateful to the Mink Warriors.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            872,
+            750,
+            1040,
+            955
+        ],
+        "text": "...that strong!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            915,
+            1252,
+            977,
+            1631
+        ],
+        "text": "Grrrr!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1019,
+            83,
+            1131,
+            228
+        ],
+        "text": "Now run, tire, and perish!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            969,
+            281,
+            1102,
+            571
+        ],
+        "text": "KHH Woro ro ro ro!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1230,
+            63,
+            1371,
+            202
+        ],
+        "text": "I am eager to see how many of these you can evade!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1217,
+            667,
+            1315,
+            857
+        ],
+        "text": "...has caused us grievous losses...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1200,
+            1665,
+            1308,
+            1795
+        ],
+        "text": "Their Sulong power...",
+        "panel_id": "7",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1201,
+            2005,
+            1228,
+            2090
+        ],
+        "text": "Huff!!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1467,
+            1868,
+            1526,
+            1938
+        ],
+        "text": "Huff!!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    }
+]

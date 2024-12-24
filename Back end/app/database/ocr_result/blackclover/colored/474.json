@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            116,
+            1119,
+            352,
+            1257
+        ],
+        "text": "I heard they're holding another captains' meeting later on.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            284,
+            284,
+            393,
+            377
+        ],
+        "text": "...is rest up.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            549,
+            656,
+            728,
+            804
+        ],
+        "text": "What you can do now... What you should do...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1768,
+            288,
+            1881,
+            436
+        ],
+        "text": "BINK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

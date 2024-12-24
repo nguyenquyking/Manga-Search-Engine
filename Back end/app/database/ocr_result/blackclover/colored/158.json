@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            57,
+            134,
+            75,
+            198
+        ],
+        "text": "Patri...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            287,
+            210,
+            438
+        ],
+        "text": "I believe that just disappearing like this is not enough to atone for everything I've done, but...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            748,
+            217,
+            858
+        ],
+        "text": "Of course... I've had regrets in this second life... but I fear death no more.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            312,
+            532,
+            336,
+            821
+        ],
+        "text": "TEAM: @COLOR CLOVERS",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            471,
+            743,
+            522,
+            819
+        ],
+        "text": "I'm...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            54,
+            578,
+            192
+        ],
+        "text": "Going on ahead...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            9,
+            989,
+            206
+        ],
+        "text": "Until the very end... made me truly happy...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            812,
+            392,
+            946,
+            607
+        ],
+        "text": "Fighting alongside Licht and the others...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            816,
+            705,
+            921,
+            819
+        ],
+        "text": "I'm sorry, Licht... But I'm leaving things to you...!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1171,
+            804,
+            1210,
+            867
+        ],
+        "text": "All right...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            775,
+            210,
+            827,
+            313
+        ],
+        "text": "The gnats...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            971,
+            289,
+            990,
+            336
+        ],
+        "text": "FWP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1270,
+            246,
+            1335,
+            358
+        ],
+        "text": "Hold on tight, comrades.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1260,
+            401,
+            1302,
+            468
+        ],
+        "text": "...are down.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1282,
+            20,
+            1297,
+            81
+        ],
+        "text": "SHNK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

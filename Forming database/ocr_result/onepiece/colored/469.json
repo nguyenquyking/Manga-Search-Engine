@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            98,
+            65,
+            204,
+            232
+        ],
+        "text": "...Red-Haired Shanks!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            585,
+            216,
+            729
+        ],
+        "text": "Chief of the Red-Hair Pirates...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            600,
+            57,
+            652,
+            247
+        ],
+        "text": "4,048,900,000 Belly!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            850,
+            59,
+            919,
+            177
+        ],
+        "text": "...and with her 85 children...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            997,
+            58,
+            1122,
+            193
+        ],
+        "text": "...She rules as the undisputed queen of the country of Sweets, Totto Land!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            802,
+            430,
+            906,
+            599
+        ],
+        "text": "Next, a born monster who laid waste to a village of giants in Elbaf as a toddler!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            964,
+            438,
+            1116,
+            568
+        ],
+        "text": "She mistrusts anyone not a direct part of her family...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            74,
+            63,
+            117,
+            212
+        ],
+        "text": "YOU CALL THIS DEVASTATION?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            262,
+            156,
+            365
+        ],
+        "text": "WHAT ARE YOU DOING, SIR LUFFY-TARO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            401,
+            110,
+            505
+        ],
+        "text": "IS HE INSANE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            551,
+            126,
+            630
+        ],
+        "text": "HE TOUCHED US...HIMSELF?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            394,
+            53,
+            531,
+            167
+        ],
+        "text": "...NO EFFECT ON ME!!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            396,
+            198,
+            486,
+            286
+        ],
+        "text": "THIS STUFF HAS...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            400,
+            601,
+            506,
+            716
+        ],
+        "text": "YOU CALL THIS OVERWHELMING POWER...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            47,
+            945,
+            162
+        ],
+        "text": "...ARE ALL STRONG AND HARDY.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1005,
+            47,
+            1114,
+            156
+        ],
+        "text": "BUT YOU GUYS ARE BROKEN ALL THE WAY ON THE INSIDE!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            864,
+            401,
+            948,
+            513
+        ],
+        "text": "THE SAMURAI I KNOW...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            871,
+            560,
+            955,
+            716
+        ],
+        "text": "LIAR!! GET AWAY FROM THEM, LUFFY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

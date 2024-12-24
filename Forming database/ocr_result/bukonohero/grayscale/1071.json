@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            98,
+            505,
+            192,
+            597
+        ],
+        "text": "At the same time, it's...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            705,
+            6,
+            741,
+            92
+        ],
+        "text": "\"Kacchan, I'm...\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            701,
+            157,
+            828,
+            265
+        ],
+        "text": "I'm not gonna be your worthless punching bag, Deku, forever...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            661,
+            300,
+            687,
+            444
+        ],
+        "text": "*Hero Analysis for My Future, No. 13*",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

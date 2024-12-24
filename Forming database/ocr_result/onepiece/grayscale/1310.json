@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            133,
+            1186,
+            235,
+            1347
+        ],
+        "text": "FIGHT!\nFIGHT!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            321,
+            465,
+            492,
+            626
+        ],
+        "text": "GYA HA\nHA! YEAH,\nMESS 'EM\nUP!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            927,
+            933,
+            1153
+        ],
+        "text": "GRRM!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            848,
+            459,
+            926,
+            639
+        ],
+        "text": "It's Straw Hat...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            688,
+            1084,
+            853
+        ],
+        "text": "LOOK,\nCAPTAIN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1239,
+            145,
+            1391,
+            321
+        ],
+        "text": "WHAT DOES\nTHAT IDIOT\nTHINK HE'S\nDOING?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1524,
+            650,
+            1699,
+            842
+        ],
+        "text": "THIS\nJUST MAKES\nIT EASIER FOR\nUS TO GET\nAROUND!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1550,
+            915,
+            1630,
+            1039
+        ],
+        "text": "FORGET\nHIM.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1544,
+            1116,
+            1753,
+            1369
+        ],
+        "text": "WE'RE TRYING TO\nSNEAK THROUGH\nTHIS BANQUET\nAREA USING THESE\nDISGUISES, AND\nLOOK AT HIM...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1779,
+            182,
+            1872,
+            334
+        ],
+        "text": "ZRSH...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1928,
+            159,
+            2095,
+            408
+        ],
+        "text": "AAAH!! THERE'S\nA CRACK RUNNING\nTHROUGH THE\nSECOND FLOOR\nBALCONY!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

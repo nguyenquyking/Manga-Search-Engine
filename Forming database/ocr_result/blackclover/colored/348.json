@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            155,
+            1198,
+            458,
+            1377
+        ],
+        "text": "This giant moving fortress, Candero, created for travelling across the Grand Magic Zone...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            307,
+            83,
+            415,
+            276
+        ],
+        "text": "Ugh! Ahh! It's the best thing ever!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1075,
+            115,
+            1427,
+            314
+        ],
+        "text": "We must wring out that mana from all of them, even the children.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1103,
+            784,
+            1363,
+            961
+        ],
+        "text": "The power of life itself carries mana...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1040,
+            1233,
+            1216,
+            1414
+        ],
+        "text": "But jeez, these lower-tier people run out of magic too fast!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1292,
+            1022,
+            1556,
+            1168
+        ],
+        "text": "Even though we're passing through the Grand Magic Zone, all we really need is half of them to live.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1579,
+            936,
+            1617,
+            1253
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

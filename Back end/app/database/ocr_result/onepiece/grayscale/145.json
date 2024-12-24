@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            51,
+            63,
+            148,
+            158
+        ],
+        "text": "And there are always more replacements!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            51,
+            188,
+            129,
+            262
+        ],
+        "text": "It's all your life is worth!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            280,
+            122,
+            387
+        ],
+        "text": "When you tire and fall apart, you'll simply die!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            35,
+            426,
+            143,
+            562
+        ],
+        "text": "Women, children, I'll use them all!! Everyone here is a slave!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            29,
+            603,
+            133,
+            716
+        ],
+        "text": "This entire country is one gigantic weapons factory!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            393,
+            80,
+            514,
+            213
+        ],
+        "text": "The cost of your defeat is your freedom and your hope!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            378,
+            266,
+            495,
+            359
+        ],
+        "text": "This is what it means to lose a war!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            385,
+            472,
+            448,
+            564
+        ],
+        "text": "...And you have earned my",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            597,
+            482,
+            693
+        ],
+        "text": "You dared to fight back against me...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            534,
+            238,
+            582,
+            312
+        ],
+        "text": "Not my wife and children!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            523,
+            338,
+            578,
+            393
+        ],
+        "text": "No, please, no...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            853,
+            70,
+            936,
+            177
+        ],
+        "text": "The battle is not over until I deal with him!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            858,
+            633,
+            950,
+            721
+        ],
+        "text": "Bring Momonosuke to me!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            318,
+            974,
+            382
+        ],
+        "text": "RAAAHHH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

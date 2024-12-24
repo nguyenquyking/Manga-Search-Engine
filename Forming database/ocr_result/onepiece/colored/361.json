@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            346,
+            106,
+            370,
+            327
+        ],
+        "text": "\u8d70\u308c\u30b9\u30d4\u30fc\u30c9!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            141,
+            395,
+            175,
+            602
+        ],
+        "text": "\u5b88\u308c\u3054\u4e3b\u4eba!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            141,
+            395,
+            175,
+            602
+        ],
+        "text": "\u4e00\u5ea6\u306f\u304a\u3044\u3067\uff01\u30ef\u30ce\u56fd\u3078!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            448,
+            528,
+            550
+        ],
+        "text": "Coraz\u00f3n\nX\nLaw",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            656,
+            439,
+            724,
+            717
+        ],
+        "text": "\u307b\u306e\u307c\u306e\u306e\u30b3\u30e9\u3055\u3093\u3001\u30ed\u30fc\u661f\u306e\u4e0b\u3002",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            788,
+            402,
+            858,
+            475
+        ],
+        "text": "HAPPY\nONE PIECE\nDAY!!\n2019 07 22",
+        "panel_id": "5",
+        "type": "background"
+    }
+]

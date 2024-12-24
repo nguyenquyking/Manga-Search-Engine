@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            104,
+            528,
+            177,
+            609
+        ],
+        "text": "You get the rest.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            39,
+            476,
+            305
+        ],
+        "text": "We've decided to rebel!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            394,
+            250,
+            451,
+            332
+        ],
+        "text": "We know, and we don't care.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            373,
+            387,
+            468,
+            513
+        ],
+        "text": "Remember, anyone who defies a jailer in their first offense gets...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            373,
+            548,
+            445,
+            604
+        ],
+        "text": "Hey! Stop, you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            60,
+            744,
+            182
+        ],
+        "text": "Brilliant work, Straw Hat fellow!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            235,
+            826,
+            352
+        ],
+        "text": "Eight days to the great battle, and without the main army knowing...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            702,
+            402,
+            756,
+            598
+        ],
+        "text": "GYAAAA RAHHH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            979,
+            45,
+            1100,
+            170
+        ],
+        "text": "You've brought us one heck of a ringer, Kin'emon!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1048,
+            232,
+            1092,
+            338
+        ],
+        "text": "...Udon is pacified!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            673,
+            1349,
+            742,
+            1495
+        ],
+        "text": "Pagyaaa!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            865,
+            799,
+            942,
+            896
+        ],
+        "text": "What a capable fellow!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            1159,
+            960,
+            1267
+        ],
+        "text": "Chief Warden!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            898,
+            1374,
+            974,
+            1489
+        ],
+        "text": "Master Babanuki!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

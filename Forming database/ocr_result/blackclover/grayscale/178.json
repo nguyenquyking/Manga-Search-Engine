@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            352,
+            108,
+            465,
+            267
+        ],
+        "text": "...will be destroyed by other nations.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            302,
+            898,
+            473,
+            1034
+        ],
+        "text": "If nothing changes, the Clover Kingdom...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            889,
+            99,
+            934,
+            174
+        ],
+        "text": "You mean...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1121,
+            831,
+            1337,
+            1004
+        ],
+        "text": "Like the Diamond Kingdom and countries like that?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1249,
+            156,
+            1313,
+            272
+        ],
+        "text": "More-over...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

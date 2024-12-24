@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            42,
+            82,
+            171,
+            262
+        ],
+        "text": "You were able to summon flame clouds!! That means you've got a shot!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            91,
+            702,
+            197,
+            860
+        ],
+        "text": "And there is no telling if my powers are exactly like Kaido's!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            327,
+            86,
+            393,
+            256
+        ],
+        "text": "This is an unbelievable disaster!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            523,
+            92,
+            687,
+            250
+        ],
+        "text": "His clouds would disappear, and Onigashima would be sent hurtling towards the surface!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            523,
+            303,
+            633,
+            459
+        ],
+        "text": "It'd be even worse if he were to run out of steam early.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            546,
+            515,
+            621,
+            651
+        ],
+        "text": "Crushing everyone in the capital!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            521,
+            686,
+            637,
+            849
+        ],
+        "text": "If we do nothing, it'll land like Kaido intended...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            85,
+            1134,
+            218
+        ],
+        "text": "There wouldn't be time to evacuate the capital!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            930,
+            232,
+            1008,
+            329
+        ],
+        "text": "Even at this distance...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            925,
+            370,
+            1027,
+            498
+        ],
+        "text": "The whole island is basically a giant bomb!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            915,
+            648,
+            1041,
+            837
+        ],
+        "text": "Onigashima is stocked with more weapons and gunpowder than you can imagine...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

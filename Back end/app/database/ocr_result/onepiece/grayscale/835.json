@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            249,
+            57,
+            326,
+            164
+        ],
+        "text": "I appreciate you taking care of that for me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            584,
+            267,
+            713
+        ],
+        "text": "On the other hand... You have good timing...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            303,
+            583,
+            411
+        ],
+        "text": "At the end of this, you're going to belong...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            639,
+            548,
+            724
+        ],
+        "text": "Listen to me, Nico Robin.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            619,
+            36,
+            695,
+            133
+        ],
+        "text": "...to Master Kaido.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            700,
+            383,
+            720,
+            418
+        ],
+        "text": "BAM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            938,
+            256,
+            1032,
+            398
+        ],
+        "text": "I'd rather be dead!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            630,
+            922,
+            728
+        ],
+        "text": "No thanks.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            386,
+            1126,
+            480
+        ],
+        "text": "DA-DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1096,
+            12,
+            1138,
+            150
+        ],
+        "text": "Next chapter hits Mar. 7!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

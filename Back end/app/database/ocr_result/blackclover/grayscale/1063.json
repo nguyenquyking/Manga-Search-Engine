@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            298,
+            438,
+            322,
+            526
+        ],
+        "text": "Silence.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            36,
+            1037,
+            178
+        ],
+        "text": "I'm looking forward...\n...to Asta's future...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            65,
+            474,
+            159,
+            600
+        ],
+        "text": "AFTER THE BATTLE, MOST OF THE MAGIC KNIGHTS HAVE BEEN WOKEN FROM THE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            169,
+            721,
+            273,
+            813
+        ],
+        "text": "OKIE-DOKE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            75,
+            325,
+            250
+        ],
+        "text": "WITH THIS, MOST OF THE WRECKAGE SHOULD'VE BEEN SENT TO THE DREAM WORLD!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            657,
+            95,
+            755,
+            191
+        ],
+        "text": "THE CAPTAIN REALLY IS AMAZING WHEN SHE'S AWAKE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            402,
+            691,
+            490
+        ],
+        "text": "YES, CAPTAIN DOROTHY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            767,
+            722,
+            871
+        ],
+        "text": "WELL, I'LL LEAVE THE REST OF IT TO YOU GUYS!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            383,
+            834,
+            875
+        ],
+        "text": "TWITTER: dabi_s_wife / @ColorClovers",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            930,
+            418,
+            952,
+            487
+        ],
+        "text": "UM...!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            41,
+            1184,
+            134
+        ],
+        "text": "WAS MY MOM REALLY... DID A DEMON...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1063,
+            741,
+            1168,
+            861
+        ],
+        "text": "'CUZ A CUTE GIRL'S HERE TO SEE ME!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

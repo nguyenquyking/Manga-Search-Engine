@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            128,
+            15,
+            221,
+            127
+        ],
+        "text": "THIS 500-YEAR BATTLE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            130,
+            481,
+            214,
+            582
+        ],
+        "text": "HERE... WE SHALL SETTLE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            779,
+            180,
+            871
+        ],
+        "text": "...BUT RIGHT NOW... ALL THAT WE CAN DO IS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            266,
+            623,
+            432,
+            733
+        ],
+        "text": "TO NOT DWELL ON OUR MISTAKES... AND PREVENT ANY FURTHER TRAGEDIES FROM OCCURRING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            566,
+            143,
+            631,
+            227
+        ],
+        "text": "THAT'S RIGHT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            662,
+            643,
+            731
+        ],
+        "text": "HN\nHN HN\nHN!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            894,
+            12,
+            1030,
+            120
+        ],
+        "text": "AND SWALLOW THEM ALL UP!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            821,
+            744,
+            965,
+            868
+        ],
+        "text": "I WILL TAKE ALL YOUR WORTHLESS LITTLE FEELINGS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

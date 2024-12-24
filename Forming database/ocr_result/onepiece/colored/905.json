@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            63,
+            83,
+            132,
+            168
+        ],
+        "text": "NOW\nWHERE'D\nYOU GO...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            199,
+            120,
+            262
+        ],
+        "text": "Hmmm?!",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            464,
+            473,
+            489,
+            595
+        ],
+        "text": "SPIN SPIN",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            489,
+            659,
+            528,
+            731
+        ],
+        "text": "HE\nVANISHED?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1027,
+            87,
+            1095,
+            192
+        ],
+        "text": "GOAAH!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

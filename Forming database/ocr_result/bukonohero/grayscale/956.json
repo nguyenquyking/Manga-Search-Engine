@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            287,
+            82,
+            295,
+            99
+        ],
+        "text": "WHAM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            528,
+            49,
+            575,
+            128
+        ],
+        "text": "So I've got you, Todoroki!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            557,
+            364,
+            654,
+            432
+        ],
+        "text": "The others are backing up Jeanist.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            881,
+            338,
+            1025,
+            397
+        ],
+        "text": "Who cares if my arms and legs are done?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            483,
+            1057,
+            557
+        ],
+        "text": "NNG!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            34,
+            304,
+            65,
+            330
+        ],
+        "text": "!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            100,
+            236,
+            114,
+            296
+        ],
+        "text": "!!\\xAD\\xAD\\xAD!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            90,
+            213,
+            113,
+            237
+        ],
+        "text": "!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            96,
+            573,
+            137,
+            658
+        ],
+        "text": "RAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            492,
+            206,
+            506,
+            297
+        ],
+        "text": "BST!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            516,
+            57,
+            567,
+            128
+        ],
+        "text": "HUFF,\nHUFF...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            52,
+            1020,
+            121
+        ],
+        "text": "...HE\nCAN\nMOVE A\nLITTLE\nFASTER!\nBUT...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            887,
+            226,
+            1017,
+            314
+        ],
+        "text": "I WAS\nRIGHT,\nWHEN THE\nFLAMES\nON HIS\nBACK GO\nOUT.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

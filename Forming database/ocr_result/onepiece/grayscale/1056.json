@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            84,
+            105,
+            248,
+            221
+        ],
+        "text": "...to save your life!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            132,
+            460,
+            204,
+            588
+        ],
+        "text": "...I ran to Kuri...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            660,
+            230,
+            795
+        ],
+        "text": "Momono-suke!! On that terrible day...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            295,
+            785,
+            453
+        ],
+        "text": "...as Kaido dangled you over the edge!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            646,
+            512,
+            788,
+            649
+        ],
+        "text": "All I could do was watch...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            680,
+            721,
+            753,
+            871
+        ],
+        "text": "But I'm sorry!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            654,
+            892,
+            1097,
+            995
+        ],
+        "text": "Huh? How... How are you fine...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1200,
+            89,
+            1288,
+            257
+        ],
+        "text": "...I didn't have the strength!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1176,
+            396,
+            1276,
+            599
+        ],
+        "text": "Vooom!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1379,
+            667,
+            1459,
+            799
+        ],
+        "text": "Back then...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

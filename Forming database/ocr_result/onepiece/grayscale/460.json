@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            37,
+            62,
+            148,
+            211
+        ],
+        "text": "You made flame clouds, didn't you?! I know you can do this!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            596,
+            178,
+            738
+        ],
+        "text": "And I may not have the same power as Kaido, either!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            248,
+            53,
+            354,
+            219
+        ],
+        "text": "The situation's much more dangerous than we imagined!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            458,
+            75,
+            593,
+            192
+        ],
+        "text": "...The flame clouds will vanish, and Onigashima will plummet to Earth!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            443,
+            249,
+            561,
+            390
+        ],
+        "text": "And in the worst case, if Kaido should succumb first...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            454,
+            435,
+            559,
+            551
+        ],
+        "text": "...There will be terrible losses within the city!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            446,
+            591,
+            557,
+            721
+        ],
+        "text": "Even if it settles down on land the way Kaido envisions...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            877,
+            59,
+            991,
+            176
+        ],
+        "text": "...There's no way the citizens can evacuate in time!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            811,
+            191,
+            856,
+            275
+        ],
+        "text": "At this distance...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            796,
+            312,
+            907,
+            417
+        ],
+        "text": "Onigashima might as well be a giant bomb!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            798,
+            540,
+            912,
+            722
+        ],
+        "text": "There's an incredible stockpile of weapons within the island... and explosives!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

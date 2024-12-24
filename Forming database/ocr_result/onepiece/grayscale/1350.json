@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            116,
+            442,
+            302,
+            679
+        ],
+        "text": "And I hear we got some special guests in the house tonight!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            761,
+            237,
+            921
+        ],
+        "text": "YAAAA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            123,
+            1144,
+            289,
+            1307
+        ],
+        "text": "The Ninja Oniwa-Bansho!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            146,
+            158,
+            265,
+            391
+        ],
+        "text": "Big Mom's Children!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            89,
+            555,
+            253
+        ],
+        "text": "WHAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            457,
+            1183,
+            542,
+            1296
+        ],
+        "text": "Gu hu hu...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            74,
+            918,
+            342
+        ],
+        "text": "Awww! Pay-pay, sweetie, you don't have to be ashamed.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            401,
+            928,
+            666
+        ],
+        "text": "Is this another one of your weird trends? Stop talking like that; it's embarrassing.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            745,
+            972,
+            1023
+        ],
+        "text": "He just called the Tobi Roppo arrogant punks! Why, the nerve of that beastly man!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            1111,
+            933,
+            1311
+        ],
+        "text": "Stupid Queen, he's ever so obnoxious.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1382,
+            90,
+            1481,
+            374
+        ],
+        "text": "If you're dropping out as a candidate, that'd be great.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1492,
+            126,
+            1555,
+            344
+        ],
+        "text": "Pay-pay can't hack it either.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1423,
+            455,
+            1512,
+            666
+        ],
+        "text": "I have no interest...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1410,
+            741,
+            1542,
+            999
+        ],
+        "text": "I'm guessing you think it's yourself?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1380,
+            1085,
+            1557,
+            1308
+        ],
+        "text": "...But if Queen were to die, say, tonight...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1872,
+            247,
+            2015,
+            388
+        ],
+        "text": "You're dropping out too, right?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1879,
+            59,
+            1995,
+            216
+        ],
+        "text": "WHAT?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1868,
+            1084,
+            2064,
+            1310
+        ],
+        "text": "...Who would be the next lead performer, you think?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

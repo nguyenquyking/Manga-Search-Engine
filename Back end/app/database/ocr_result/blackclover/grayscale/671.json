@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            455,
+            130,
+            461,
+            161
+        ],
+        "text": "SIZZ",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            940,
+            129,
+            964,
+            197
+        ],
+        "text": "KABOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            809,
+            487,
+            824,
+            522
+        ],
+        "text": "DIK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

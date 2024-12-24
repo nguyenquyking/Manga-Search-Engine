@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            84,
+            39,
+            196,
+            153
+        ],
+        "text": "Then, I led Starservant and Ending straight to you, one after the other!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            522,
+            175,
+            650
+        ],
+        "text": "My blood ran cold when I thought you might bite the big one in Kyushu!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            344,
+            18,
+            423,
+            161
+        ],
+        "text": "Or was all the praise and admiration like chicken soup for your soul?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            593,
+            443,
+            721
+        ],
+        "text": "You were finally number one! It's all you ever wanted! But it must've weighed on you, right?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            18,
+            735,
+            141
+        ],
+        "text": "...Didja finally start to feel the warm and fuzzy bonds of family?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            590,
+            760,
+            712
+        ],
+        "text": "When, at long last, you could stare your kids in the eye...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            77,
+            1046,
+            201
+        ],
+        "text": "I can tell you're at a loss for words, so here's the answer!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            937,
+            517,
+            1053,
+            665
+        ],
+        "text": "You must've thought, \"As long as I face the future, I can be better!\"",
+        "panel_id": "4",
+        "type": "thought"
+    }
+]

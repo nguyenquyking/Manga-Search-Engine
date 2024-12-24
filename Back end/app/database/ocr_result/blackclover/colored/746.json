@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            30,
+            205,
+            170,
+            319
+        ],
+        "text": "But I imagine playing with humans...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            201,
+            490,
+            239,
+            522
+        ],
+        "text": "AAAH\nHA\nHA",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            299,
+            1105,
+            443,
+            1219
+        ],
+        "text": "A game of catch as we drink in delectable outside mana. It doesn't get better than that.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            251,
+            1326,
+            391,
+            1550
+        ],
+        "text": "MID-RANKING\nDEVILS!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            593,
+            10,
+            675,
+            185
+        ],
+        "text": "...will be even more entertaining!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            896,
+            42,
+            964,
+            120
+        ],
+        "text": "...MY ULTIMATE\nMAGIC\nCAN DO.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            890,
+            323,
+            943,
+            392
+        ],
+        "text": "LET'S\nSEE\nHOW\nMUCH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            497,
+            1068,
+            588
+        ],
+        "text": "HEY,\nLOOK AT\nTHAT\nPERFECT\nPLAY-\nMATES.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            570,
+            1012,
+            589
+        ],
+        "text": "ha!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            973,
+            1040,
+            1063
+        ],
+        "text": "THE\nPROBLEM\nIS THE\nDEVILS\nWHO ARE\nMID-LEVEL\nAND\nHIGHER!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            878,
+            1132,
+            1028,
+            1208
+        ],
+        "text": "...YOU\nCAN MOW\nTHEM\nDOWN\nEVEN IF\nYOU'RE\nNOT\nARCANE\nSTAGE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            880,
+            1431,
+            999,
+            1511
+        ],
+        "text": "WITH\nLOW-\nLEVEL\nDEVILS, IF\nYOU USE\nA TON OF\nMANA...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1033,
+            312,
+            1016,
+            381
+        ],
+        "text": "FLAAARE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1049,
+            62,
+            1092,
+            148
+        ],
+        "text": "SNAP\nSNAP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            1385,
+            171,
+            1454,
+            802
+        ],
+        "text": "SIX MONTHS LATER...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1537,
+            273,
+            1568,
+            683
+        ],
+        "text": "TO BE CONTINUED IN VOLUME 24!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

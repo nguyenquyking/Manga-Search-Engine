@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            64,
+            376,
+            97,
+            453
+        ],
+        "text": "FWAP...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            456,
+            25,
+            531,
+            129
+        ],
+        "text": "Not only did that woman reject him...\nShe cut off",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            468,
+            357,
+            535,
+            450
+        ],
+        "text": "Look at Urashima!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

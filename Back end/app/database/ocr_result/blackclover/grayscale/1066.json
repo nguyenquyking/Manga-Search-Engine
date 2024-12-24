@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            936,
+            49,
+            1092,
+            201
+        ],
+        "text": "They hung on longer than I expected...but I guess they were only human after all. Game Over.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            959,
+            419,
+            1108,
+            543
+        ],
+        "text": "That mansion's magic was the only reason they could fight.",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

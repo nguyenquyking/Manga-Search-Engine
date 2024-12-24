@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            201,
+            1089,
+            474,
+            1345
+        ],
+        "text": "...AND I KNOW I'M WEAK!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            844,
+            110,
+            879,
+            230
+        ],
+        "text": "But...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1010,
+            171,
+            1291,
+            356
+        ],
+        "text": "...and pretend that it doesn't bother me!!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1003,
+            1107,
+            1297,
+            1303
+        ],
+        "text": "I can't just go back to everybody else...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1774,
+            113,
+            1862,
+            230
+        ],
+        "text": "...like you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1692,
+            263,
+            1751,
+            435
+        ],
+        "text": "...on garbage...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1675,
+            1139,
+            1833,
+            1264
+        ],
+        "text": "I have no intention...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1789,
+            992,
+            1955,
+            1108
+        ],
+        "text": "...of using any of my magic...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

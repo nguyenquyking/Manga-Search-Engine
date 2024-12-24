@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            64,
+            232,
+            171,
+            342
+        ],
+        "text": "I possessed One For All, the second longest, second only after Yagi.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            99,
+            396,
+            121,
+            459
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            125,
+            388,
+            260
+        ],
+        "text": "From the moment I inherited the Quirk, I knew I could never defeat that villain...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            302,
+            567,
+            427,
+            703
+        ],
+        "text": "For 18 long years... I evaded All For One and devoted my life to building up power.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            385,
+            17,
+            510,
+            146
+        ],
+        "text": "...So I decided to spend my \"turn,\" so to speak, amassing further strength.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            642,
+            72,
+            721,
+            196
+        ],
+        "text": "...These cracks appeared on my body.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            640,
+            608,
+            698,
+            686
+        ],
+        "text": "In my final years...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            859,
+            44,
+            1082,
+            238
+        ],
+        "text": "I say I died of \"old age\" because possessing multiple Quirks effectively ate away at my very life.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            845,
+            572,
+            986,
+            708
+        ],
+        "text": "I thought it was an unknown disease of some sort, or that perhaps I hadn't trained hard enough.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1017,
+            510,
+            1125,
+            675
+        ],
+        "text": "But when Yagi dug up my medical history and autopsy report, the truth became clear.",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

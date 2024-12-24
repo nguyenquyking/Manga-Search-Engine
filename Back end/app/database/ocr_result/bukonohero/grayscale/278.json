@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            57,
+            627,
+            176,
+            858
+        ],
+        "text": "...to not hastily make your moves,\nShigaraki Tomura\nis by far our\ngreatest enemy.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            338,
+            104,
+            436,
+            310
+        ],
+        "text": "Along with AFO's\nreal body...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            620,
+            580,
+            729,
+            851
+        ],
+        "text": "...the insane\nvillain Dabi who's\nfirepower rivals\nEndeavor...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            854,
+            119,
+            972,
+            334
+        ],
+        "text": "...the troublesome\nlittle girl\nHimiko Toga...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1144,
+            660,
+            1264,
+            847
+        ],
+        "text": "...the remaining\n6 Near High\nEnds...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

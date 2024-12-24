@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            72,
+            213,
+            109,
+            278
+        ],
+        "text": "VOOSH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            362,
+            245,
+            433,
+            480
+        ],
+        "text": "BLUEBIRD!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            86,
+            539,
+            133
+        ],
+        "text": "BOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            966,
+            67,
+            1032,
+            226
+        ],
+        "text": "KRASH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

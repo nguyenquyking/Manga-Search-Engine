@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            42,
+            185,
+            81,
+            294
+        ],
+        "text": "HAH HAH HAH HA HA!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            321,
+            70,
+            691,
+            187
+        ],
+        "text": "THE MAN BEHIND THE CURTAIN!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            940,
+            543,
+            976,
+            665
+        ],
+        "text": "...A STAR.",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

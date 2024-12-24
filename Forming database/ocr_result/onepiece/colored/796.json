@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            48,
+            88,
+            135,
+            224
+        ],
+        "text": "IT WAS MY OWN LACK OF SKILL THAT GOT ME HURT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            92,
+            285,
+            152,
+            394
+        ],
+        "text": "I DON'T KNOW HOW TO EXPRESS MY REGRET...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            414,
+            115,
+            475
+        ],
+        "text": "Just...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            498,
+            142,
+            604
+        ],
+        "text": "AND YOU SUFFERED THAT TERRIBLE WOUND IN THE PROCESS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            639,
+            135,
+            719
+        ],
+        "text": "YEAH, THANKS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            300,
+            86,
+            367,
+            222
+        ],
+        "text": "IT'S GOT NOTHING TO DO WITH YOU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            55,
+            532,
+            162
+        ],
+        "text": "OW OW OW, THAT HURTS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            202,
+            541,
+            355
+        ],
+        "text": "PLEASE, NO! YOU MUSN'T!! DON'T GO OUTSIDE WHEN YOU'RE HURTING LIKE THAT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            47,
+            636,
+            150
+        ],
+        "text": "THAT'S THE SHOULDER,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            557,
+            538,
+            700
+        ],
+        "text": "WHERE DID THAT HUGE GUY GO?! I'VE STILL GOT TO GET MY SWORD BACK FROM HIM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            714,
+            48,
+            790,
+            135
+        ],
+        "text": "OH! I'M SO SORRY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            42,
+            969,
+            176
+        ],
+        "text": "WE SPREAD THAT ON, SO YOU'LL GET BETTER IN NO TIME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            225,
+            928,
+            307
+        ],
+        "text": "SO YOU STOLE IT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            404,
+            996,
+            532
+        ],
+        "text": "BACK IN THE CAPITAL, THERE WAS SOME SPECIAL TOAD OIL THAT I STOLE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1039,
+            436,
+            1120,
+            520
+        ],
+        "text": "THAT I BOUGHT FOR THIS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            580,
+            939,
+            706
+        ],
+        "text": "BUT IT'LL GET BETTER SOON.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            22,
+            1128,
+            144
+        ],
+        "text": "IT'S INCREDIBLE STUFF! JUST MAKES SWORD WOUNDS MELT AWAY!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

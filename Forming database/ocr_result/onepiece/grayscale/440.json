@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            56,
+            617,
+            145,
+            711
+        ],
+        "text": "PERFORMANCE\nFLOOR,\nINSIDE THE\nDOME",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            192,
+            193,
+            243,
+            265
+        ],
+        "text": "MWA HA\nHA HA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            48,
+            470,
+            175
+        ],
+        "text": "FLYING\nPAN!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            395,
+            603,
+            447,
+            726
+        ],
+        "text": "I'M NOT\nSTOPPING!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            88,
+            930,
+            203
+        ],
+        "text": "SO COME\nON ALREADY!!\nSHOW IT\nTO ME!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1061,
+            418,
+            1107,
+            477
+        ],
+        "text": "WHOA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1048,
+            504,
+            1093,
+            581
+        ],
+        "text": "HE'S SO\nHEAVY!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

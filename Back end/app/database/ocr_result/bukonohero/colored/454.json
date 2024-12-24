@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            186,
+            815,
+            234,
+            917
+        ],
+        "text": "...IN MY HEAD.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            861,
+            693,
+            902,
+            766
+        ],
+        "text": "MY BODY...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1204,
+            706,
+            1287,
+            915
+        ],
+        "text": "NO. 285",
+        "panel_id": "1",
+        "type": "caption"
+    }
+]

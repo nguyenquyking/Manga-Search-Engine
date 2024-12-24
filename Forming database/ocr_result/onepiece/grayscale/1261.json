@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            90,
+            136,
+            308,
+            443
+        ],
+        "text": "I lost sight of Heat and the rest... As long as they're still undetected, they should be all right!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            881,
+            291,
+            1127
+        ],
+        "text": "Kid... I don't think we can break through the front!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            1212,
+            267,
+            1327
+        ],
+        "text": "Team Kid,\nInside\nThe\nCastle",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            801,
+            146,
+            952,
+            375
+        ],
+        "text": "Don't concern yourself with me!! Just let me go!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            794,
+            761,
+            969,
+            1012
+        ],
+        "text": "Wait, sir!! Master Kaido is looking for you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            794,
+            1118,
+            989,
+            1339
+        ],
+        "text": "Heh heh!! If we kill you guys, we get a chance at promotion!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1207,
+            145,
+            1244,
+            191
+        ],
+        "text": "...?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1499,
+            267,
+            1609,
+            463
+        ],
+        "text": "AAAAGH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1434,
+            1131,
+            1658,
+            1334
+        ],
+        "text": "Lose focus around me, and you die!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

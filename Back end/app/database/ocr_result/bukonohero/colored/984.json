@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            46,
+            0,
+            103,
+            82
+        ],
+        "text": "What, as in \"Blockhead\"?! You okay with that?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            85,
+            58,
+            122
+        ],
+        "text": "Deku?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            374,
+            100,
+            459
+        ],
+        "text": "We never told each other our hero names!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            299,
+            75,
+            341
+        ],
+        "text": "Mine's Deku.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            553,
+            109,
+            606
+        ],
+        "text": "Oh, by the way!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            172,
+            41,
+            190,
+            80
+        ],
+        "text": "Yup.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            297,
+            12,
+            363,
+            109
+        ],
+        "text": "It sounds like the band Remioromen, so it's cool, right?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            288,
+            112,
+            405,
+            209
+        ],
+        "text": "But I took a name that'll make me a guy who can save millions!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            297,
+            208,
+            405,
+            290
+        ],
+        "text": "I can't save all people like All Might can...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            547,
+            409,
+            643
+        ],
+        "text": "I go by Lemillion!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            16,
+            484,
+            73
+        ],
+        "text": "Remioromen.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            417,
+            672,
+            537
+        ],
+        "text": "...We become heroes!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            604,
+            544,
+            677,
+            647
+        ],
+        "text": "The second we throw on our costumes and hit the town...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            753,
+            12,
+            843,
+            156
+        ],
+        "text": "No freaking way...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            911,
+            423,
+            949,
+            483
+        ],
+        "text": "Roger that,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            893,
+            556,
+            936,
+            646
+        ],
+        "text": "Don't let your guard down, Deku!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            97,
+            87,
+            324,
+            288
+        ],
+        "text": "We have to cut off Straw Hat's head and show the world!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            360,
+            272,
+            588
+        ],
+        "text": "Right! Remember who ruined Mama's honor and our reputation!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            650,
+            630,
+            829
+        ],
+        "text": "Remember why we're here in the first place!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            466,
+            879,
+            596,
+            967
+        ],
+        "text": "Alliance?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            1075,
+            626,
+            1288
+        ],
+        "text": "Mama decided. We follow.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            67,
+            954,
+            293
+        ],
+        "text": "Prepare for battle!! Don't be caught unawares!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            842,
+            946,
+            1044
+        ],
+        "text": "Here we are in Wano!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            779,
+            1123,
+            930,
+            1314
+        ],
+        "text": "I don't really care about all of that!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1175,
+            833,
+            1362,
+            1081
+        ],
+        "text": "Let's take out Straw Hat, and talk about the alliance afterward!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1250,
+            1152,
+            1386,
+            1323
+        ],
+        "text": "I just wanna be Kaido's new favorite!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1537,
+            154,
+            1684,
+            315
+        ],
+        "text": "No... It's not him!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1563,
+            437,
+            1669,
+            593
+        ],
+        "text": "Huh?! King?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1944,
+            413,
+            2047,
+            578
+        ],
+        "text": "Not again!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1961,
+            676,
+            2069,
+            771
+        ],
+        "text": "Huh?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1512,
+            797,
+            1570,
+            918
+        ],
+        "text": "FLAP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1533,
+            1098,
+            1706,
+            1311
+        ],
+        "text": "Remember, this is exactly where that hateful King was waiting...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

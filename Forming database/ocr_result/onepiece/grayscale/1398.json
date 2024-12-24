@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            103,
+            103,
+            280,
+            391
+        ],
+        "text": "You're all small-timers that have already been captured in Wano once before!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            399,
+            86,
+            617,
+            319
+        ],
+        "text": "In the name of Kaido, Emperor of the Sea,\nyou'll all be sunk beneath the waves!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            86,
+            1105,
+            254,
+            1296
+        ],
+        "text": "So what if three tiny pirate ships...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            321,
+            1147,
+            503,
+            1310
+        ],
+        "text": "...have come to save their Samurai friends?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            725,
+            84,
+            874,
+            339
+        ],
+        "text": "BZAP ZAP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            790,
+            446,
+            866,
+            662
+        ],
+        "text": "You stand back, idiot!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1231,
+            156,
+            1352,
+            411
+        ],
+        "text": "Don't you two dare get in my way!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            758,
+            789,
+            900,
+            987
+        ],
+        "text": "Why are you flunkies acting tough?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            1090,
+            900,
+            1311
+        ],
+        "text": "Prepare to fire cannons!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1244,
+            692,
+            1352,
+            992
+        ],
+        "text": "I've heard enough! Everyone, stand back!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1540,
+            264,
+            1578,
+            436
+        ],
+        "text": "Losers?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1516,
+            489,
+            1624,
+            712
+        ],
+        "text": "You're too slow. You're both losers.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1512,
+            797,
+            1624,
+            1005
+        ],
+        "text": "You make it sound like I can't do it",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1514,
+            1128,
+            1715,
+            1304
+        ],
+        "text": "No, stay away! I'll wipe 'em out in one blow!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1628,
+            74,
+            1792,
+            208
+        ],
+        "text": "Aaah, here they come!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1691,
+            964,
+            1792,
+            1159
+        ],
+        "text": "HUP HUP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1801,
+            264,
+            1877,
+            384
+        ],
+        "text": "Whoa!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1779,
+            514,
+            1803,
+            626
+        ],
+        "text": "FWIP!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            406,
+            55,
+            462,
+            152
+        ],
+        "text": "VICE WARDEN DOBON?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            228,
+            469,
+            268
+        ],
+        "text": "Uh...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            570,
+            285,
+            630,
+            355
+        ],
+        "text": "WHERE'S YOUR PROOF?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            577,
+            399,
+            604,
+            419
+        ],
+        "text": "?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            681,
+            308,
+            738,
+            365
+        ],
+        "text": "HUH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            565,
+            576,
+            638,
+            699
+        ],
+        "text": "OH, YOU'VE DONE IT NOW!! THE DEATH PENALTY FOR SURE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            593,
+            889,
+            710
+        ],
+        "text": "NICE JOB, YOU GUYS!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            20,
+            1104,
+            136
+        ],
+        "text": "THE SHINING STARS OF THE PRISON YARD!!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

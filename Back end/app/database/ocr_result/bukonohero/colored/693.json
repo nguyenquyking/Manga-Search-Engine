@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            114,
+            90,
+            140,
+            151
+        ],
+        "text": "STOP",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            393,
+            224,
+            452
+        ],
+        "text": "SHUP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            560,
+            9,
+            572,
+            55
+        ],
+        "text": "TUG",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1262,
+            68,
+            1283,
+            154
+        ],
+        "text": "TENKO!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1369,
+            724,
+            1385,
+            784
+        ],
+        "text": "GRAP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

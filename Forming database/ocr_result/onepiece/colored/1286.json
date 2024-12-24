@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            86,
+            77,
+            177,
+            518
+        ],
+        "text": "\u30ef\u30f3\u30d4\u30fc\u30b9\u30cf\u30ed\u30a6\u30a3\u30f32018",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            193,
+            91,
+            243,
+            426
+        ],
+        "text": "\u30ef\u30f3\u30d4\u30fc\u30b9\u30cf\u30ed\u30a6\u30a3\u30f32018\n2018\u5e749\u670815\u65e5(\u571f)~10\u670831\u65e5(\u6c34)",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            384,
+            528,
+            477,
+            705
+        ],
+        "text": "TOKYO\nONE PIECE\nTOWER\n\u6771\u4eac\u30ef\u30f3\u30d4\u30fc\u30b9\u30bf\u30ef\u30fc",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            481,
+            81,
+            504,
+            395
+        ],
+        "text": "27\u65e5\u306e\u5b50\u3069\u3082\u7121\u6599Day\u306f\u30ad\u30c3\u30ba\u9650\u5b9a\u30b3\u30f3\u30c6\u30b9\u30c8\u3060!",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            742,
+            100,
+            804,
+            352
+        ],
+        "text": "ONE PIECE LIVE ATTRACTION\n\u300ePHANTOM\u300f",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            842,
+            112,
+            867,
+            337
+        ],
+        "text": "PHANTOM",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            900,
+            115,
+            896,
+            273
+        ],
+        "text": "ONE PIECE LIVE ATTRACTION",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1046,
+            382,
+            1093,
+            607
+        ],
+        "text": "\u8a73\u7d30\u306f2\u6b21\u5143\u30d0\u30fc\u30b3\u30fc\u30c9\u304b\u3089\n\u3059\u3050\u306b\u30c1\u30a7\u30c3\u30af\u3067\u304d\u308b\u305e!!",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1098,
+            394,
+            1120,
+            598
+        ],
+        "text": "https://onepiecetower.tokyo/",
+        "panel_id": "4",
+        "type": "url"
+    },
+    {
+        "text_box": [
+            1132,
+            397,
+            1146,
+            605
+        ],
+        "text": "\u00a9Amusequest Tokyo Tower LLP",
+        "panel_id": "4",
+        "type": "copyright"
+    }
+]

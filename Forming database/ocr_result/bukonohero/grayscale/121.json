@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            53,
+            597,
+            201,
+            713
+        ],
+        "text": "Lock them down for an instant.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            226,
+            659,
+            363
+        ],
+        "text": "Break them into smaller groups.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            168,
+            925,
+            209
+        ],
+        "text": "Yup!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            292,
+            973,
+            409
+        ],
+        "text": "Seize the slightest advantage!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            595,
+            969,
+            680
+        ],
+        "text": "Deku!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            958,
+            50,
+            1001,
+            122
+        ],
+        "text": "All of this...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            87,
+            93,
+            122,
+            159
+        ],
+        "text": "No, I don't.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            626,
+            162,
+            761
+        ],
+        "text": "Hey, remember what I said when Shigaraki made Swiss cheese outta me?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            73,
+            469,
+            181
+        ],
+        "text": "I needed to tell you that I got stabbed cuz my body moved on its own.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            395,
+            389,
+            459,
+            487
+        ],
+        "text": "But I had more to say.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            262,
+            633,
+            352,
+            749
+        ],
+        "text": "It was, \"Stop trying to win this on your own.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            599,
+            94,
+            727,
+            197
+        ],
+        "text": "...But I kept feeling like you were above me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            577,
+            386,
+            651,
+            484
+        ],
+        "text": "You were supposed to be beneath me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            619,
+            698,
+            752
+        ],
+        "text": "You know, I always looked down on you cuz you were quirkless.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1019,
+            67,
+            1071,
+            165
+        ],
+        "text": "I couldn't accept the way you were.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            352,
+            1096,
+            445
+        ],
+        "text": "I couldn't bear to look at you.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            676,
+            1033,
+            736
+        ],
+        "text": "I hated it.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

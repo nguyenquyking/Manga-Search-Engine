@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            109,
+            311,
+            270,
+            385
+        ],
+        "text": "... Asta, was it... Over...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            223,
+            72,
+            366,
+            147
+        ],
+        "text": "No, no! Don't worry about it! It's no one's fault.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            150,
+            282,
+            247,
+            416
+        ],
+        "text": "I've heard all about it... We apologize for having our bodies taken",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            273,
+            465,
+            367,
+            569
+        ],
+        "text": "Nah, we're in big trouble thanks to that kid.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            762,
+            228,
+            877
+        ],
+        "text": "Sigh. Seems like we have both been blessed with wonderful members...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            93,
+            555,
+            165
+        ],
+        "text": "I don't really get it.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            525,
+            226,
+            540,
+            272
+        ],
+        "text": "Sure.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            572,
+            304,
+            698,
+            421
+        ],
+        "text": "Would you like to discuss it over a meal?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            661,
+            188,
+            699,
+            275
+        ],
+        "text": "Kyaaaa!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            553,
+            769,
+            715,
+            889
+        ],
+        "text": "Yami... Umm... You wanted to talk about something, right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            100,
+            911,
+            446
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            900,
+            521,
+            926,
+            751
+        ],
+        "text": "ALPHIEKO",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

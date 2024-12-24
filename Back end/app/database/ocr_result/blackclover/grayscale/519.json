@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            211,
+            846,
+            209,
+            910
+        ],
+        "text": "!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1251,
+            93,
+            1380,
+            273
+        ],
+        "text": "I believe I'm qualified to attend this meeting as well.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1193,
+            684,
+            1300,
+            840
+        ],
+        "text": "Devils...? This man is a devil host?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1121,
+            1574,
+            1201,
+            1680
+        ],
+        "text": "He had more?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            1934,
+            1208,
+            2081
+        ],
+        "text": "Devils! Four of them?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            47,
+            93,
+            149,
+            243
+        ],
+        "text": "MAAAMA\nMAMA...\nHA HA HA! Oh,\nPROMETHEUS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            548,
+            170,
+            637
+        ],
+        "text": "OH,\nMAMA! I'M\nSO GLAD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            657,
+            114,
+            714
+        ],
+        "text": "HUFF,\nHUFF...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            49,
+            779,
+            134,
+            877
+        ],
+        "text": "WHEW!\nI'M\nSAVED!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            205,
+            81,
+            254,
+            214
+        ],
+        "text": "MY SWEET\nLITTLE BABY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            569,
+            72,
+            651,
+            163
+        ],
+        "text": "HMM?\nWHAT IS\nIT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            233,
+            672,
+            339
+        ],
+        "text": "ANYWAY,\nMAMA, CAN I\nASK YOU FOR\nSOMETHING?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            560,
+            414,
+            662,
+            551
+        ],
+        "text": "HE'S A DUNCE AND\nA DOPE AND HE'S\nALWAYS HOLDING\nUS BACK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            588,
+            662,
+            691
+        ],
+        "text": "THAT'S\nWHAT I KEEP\nTELLING YOU,\nMAMA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            560,
+            729,
+            660,
+            897
+        ],
+        "text": "WHAT DOES\nZEUS THINK HE'S\nDOING?! HE'S\nUSELESS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            90,
+            1062,
+            215
+        ],
+        "text": "WHAT'S\nWITH THESE\nCLOUDS...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1013,
+            370,
+            1155,
+            522
+        ],
+        "text": "\u30b4\u30ed\u30b4\u30ed...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1031,
+            688,
+            1052,
+            763
+        ],
+        "text": "...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1100,
+            613,
+            1120,
+            667
+        ],
+        "text": "HUFF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1211,
+            261,
+            1230,
+            316
+        ],
+        "text": "HUFF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

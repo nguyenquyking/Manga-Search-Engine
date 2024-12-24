@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            174,
+            46,
+            206,
+            105
+        ],
+        "text": "Ah...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            269,
+            261,
+            622
+        ],
+        "text": "Swish Swish!!\nGlint!!\nEek!\nThump!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            777,
+            71,
+            846,
+            177
+        ],
+        "text": "Hmph!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            627,
+            968,
+            684
+        ],
+        "text": null,
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            960,
+            374,
+            1044,
+            436
+        ],
+        "text": "Hang on a sec!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            69,
+            1137,
+            146
+        ],
+        "text": "Huff... Huff...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

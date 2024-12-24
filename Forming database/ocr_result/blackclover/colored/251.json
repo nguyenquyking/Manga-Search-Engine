@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            335,
+            27,
+            475,
+            153
+        ],
+        "text": "WHAT\nDID YOU\nWANT TO\nTELL US\n...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            118,
+            612,
+            137,
+            725
+        ],
+        "text": "CAPTAIN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            286,
+            1141,
+            372,
+            1316
+        ],
+        "text": "WHAT'S\nWRONG BIG\nSIS...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            903,
+            54,
+            1198,
+            281
+        ],
+        "text": "...AND\nFOR THAT\nREASON, I AM\nPREPARED TO\nSTEP DOWN AS\nCAPTAIN FOR\nWHAT I AM\nABOUT TO\nSAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            1025,
+            1163,
+            1346
+        ],
+        "text": "...THE BLUE\nROSE IS A\nSQUAD THAT DOES\nAWAY WITH THE NOTION\nOF WORSHIPPING AND\nIDOLIZING MEN AND\nINSTEAD CHAMPIONS\nTHE POWER AND\nBRAVERY OF\nWOMEN...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1824,
+            135,
+            1865,
+            298
+        ],
+        "text": "...I-I...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1804,
+            1121,
+            1847,
+            1234
+        ],
+        "text": "...I...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

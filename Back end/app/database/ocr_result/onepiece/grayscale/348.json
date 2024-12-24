@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            43,
+            52,
+            149,
+            178
+        ],
+        "text": "ARE YOU A FOOL? I CAN'T SELL YOU THAT SWORD!! IF YOU DIED...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            332,
+            113,
+            397
+        ],
+        "text": "THIS SWORD'S BEWITCHED.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            431,
+            117,
+            494
+        ],
+        "text": "THAT IS ONE OF MINE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            36,
+            520,
+            138,
+            597
+        ],
+        "text": "YOU ALREADY WIELD KITETSU III.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            179,
+            419,
+            222,
+            490
+        ],
+        "text": "WHAT, REALLY?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            250,
+            74,
+            293,
+            142
+        ],
+        "text": "I'LL TAKE IT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            287,
+            352,
+            386
+        ],
+        "text": "...IT'D BE LIKE I KILLED YOU MYSELF!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            67,
+            499,
+            153
+        ],
+        "text": "KADOOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            727,
+            89,
+            802,
+            221
+        ],
+        "text": "...JUST TO SAVE YOUR SWORD?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            506,
+            753,
+            730
+        ],
+        "text": "KRUNCH\nYOU'RE GOING TO DIE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            938,
+            57,
+            984,
+            110
+        ],
+        "text": "HUFF!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1046,
+            64,
+            1112,
+            128
+        ],
+        "text": "THAT\nFELT\nHOT...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1052,
+            290,
+            1096,
+            327
+        ],
+        "text": "!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1052,
+            470,
+            1065,
+            495
+        ],
+        "text": "KRAASH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

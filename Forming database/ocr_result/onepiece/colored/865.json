@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            57,
+            90,
+            159,
+            243
+        ],
+        "text": "THE SHOGUN IS A FREE MAN!\nNOTHING CAN STOP HIM FROM DOING WHAT HE WANTS!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            329,
+            126,
+            430
+        ],
+        "text": "SAVE THE OIRAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            467,
+            134,
+            591
+        ],
+        "text": "WHY AREN'T YOU NINJA STOPPING THE",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            617,
+            133,
+            701
+        ],
+        "text": "DAIKOKU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            331,
+            7,
+            354,
+            99
+        ],
+        "text": "BESIDES...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            489,
+            34,
+            538,
+            160
+        ],
+        "text": "OROBI'S THE INTRUDER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            202,
+            553,
+            302
+        ],
+        "text": "AN INTRUDER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            565,
+            580,
+            684
+        ],
+        "text": "WE ARE CURRENTLY DEALING WITH AN INTRUDER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            27,
+            777,
+            167
+        ],
+        "text": "YOU KNOW, I'D NEVER SEEN HER BEFORE THIS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            24,
+            973,
+            153
+        ],
+        "text": "...AFTER THE WAY YOU ANGERED THE SHOGUN!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            873,
+            432,
+            922,
+            499
+        ],
+        "text": "BUT I CAN'T!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            418,
+            1106,
+            507
+        ],
+        "text": "I DON'T EVEN KNOW IF I CAN SAVE YOU...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            570,
+            1131,
+            689
+        ],
+        "text": "AHA HA HA HA!\nPLEASE, MISS!! SAVE THE OIRAN!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

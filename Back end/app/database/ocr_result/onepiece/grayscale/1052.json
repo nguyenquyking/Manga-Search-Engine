@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            105,
+            78,
+            272,
+            311
+        ],
+        "text": "MAKE SURE YOU HUG 'EM ONE LAST TIME BEFORE THEY GO!! CATCH THE FEVER!! DON'T MISS IT!! MWA HA HA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            803,
+            276,
+            976
+        ],
+        "text": "THEY MIGHT BE AS STRONG AND LIVELY AS THEY'VE EVER BEEN IN THEIR LIVES!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            292,
+            627,
+            372,
+            755
+        ],
+        "text": "RAAAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            352,
+            96,
+            404,
+            197
+        ],
+        "text": "NO! STAY BACK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            355,
+            787,
+            420,
+            886
+        ],
+        "text": "AAAGH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            760,
+            69,
+            867,
+            216
+        ],
+        "text": "OPEN THE DOOR ALREADY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            604,
+            886,
+            729
+        ],
+        "text": "I'M GETTING OFF THIS FLOOR!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            811,
+            870,
+            966
+        ],
+        "text": "ANOTHER SICK NEW WEAPON... THAT GUY'S A REAL PIECE OF WORK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1209,
+            65,
+            1368,
+            171
+        ],
+        "text": "IF THEY TAKE THAT FROM YOU,\nI'LL SLAUGHTER MYSELF...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1164,
+            192,
+            1252,
+            289
+        ],
+        "text": "OH, FOR THE ICE ONI...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1144,
+            325,
+            1256,
+            460
+        ],
+        "text": "THE ONLY ANTIBODIES IN THE WORLD.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1457,
+            62,
+            1515,
+            154
+        ],
+        "text": "EXCUSE ME?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1152,
+            531,
+            1187,
+            625
+        ],
+        "text": "HUH?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1476,
+            515,
+            1547,
+            636
+        ],
+        "text": "WHAT'S THIS...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            851,
+            1267,
+            992
+        ],
+        "text": "HEY, BROTHER APOO!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

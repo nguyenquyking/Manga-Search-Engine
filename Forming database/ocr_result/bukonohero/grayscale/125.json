@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            203,
+            103,
+            389,
+            330
+        ],
+        "text": "...TO PHASE TWO!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            191,
+            1274,
+            325,
+            1525
+        ],
+        "text": "...WE SHIFT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            970,
+            490,
+            988,
+            528
+        ],
+        "text": "SHNK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            986,
+            1372,
+            1059,
+            1539
+        ],
+        "text": "WELCOME, FELLAS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

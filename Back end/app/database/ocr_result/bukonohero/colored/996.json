@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            101,
+            180,
+            228,
+            301
+        ],
+        "text": "CHASE TOO FAR AND YOU'LL JUST MAKE HIM HARDER TO CATCH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            333,
+            163,
+            371,
+            254
+        ],
+        "text": "C'MON, LET'S RESPECT SIR'S ORDERS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            65,
+            640,
+            138
+        ],
+        "text": "PLIP\nKURONO, PREPARE MY BATH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            611,
+            501,
+            669,
+            613
+        ],
+        "text": "THE KIDS THESE DAYS ARE MORE DISEASE-RIDDEN THAN EVER.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            787,
+            532,
+            865,
+            625
+        ],
+        "text": "I... I'M SORRY, CAPO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            446,
+            1056,
+            573
+        ],
+        "text": "I JUST LOOKED AWAY FOR A SECOND AND THE DAMN KID PULLED A RUNNER ON M...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

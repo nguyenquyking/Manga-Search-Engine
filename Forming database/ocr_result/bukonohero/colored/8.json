@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            356,
+            645,
+            424,
+            779
+        ],
+        "text": "Did All For One stuff them full of even MORE Quirks?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            129,
+            762,
+            208
+        ],
+        "text": "Stay frosty, boys!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            665,
+            780,
+            755
+        ],
+        "text": "Don't forget the escaped cons!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            959,
+            103,
+            1013,
+            183
+        ],
+        "text": "But that shock wave...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            929,
+            360,
+            946,
+            407
+        ],
+        "text": "Yes!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            917,
+            438,
+            1027,
+            496
+        ],
+        "text": "You good?! That attack was even able to reach our rear guard!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            690,
+            993,
+            758
+        ],
+        "text": "Froppy!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

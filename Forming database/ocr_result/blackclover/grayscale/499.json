@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            92,
+            409,
+            180,
+            704
+        ],
+        "text": "The Blank Page Brigade",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            233,
+            412,
+            379,
+            696
+        ],
+        "text": "This volume's topic:\nSomething that made you think \"Compared to who I used to be, I've grown.\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            584,
+            241,
+            652,
+            386
+        ],
+        "text": "The thickness\nof my calves.\nMy fat arms.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            468,
+            837,
+            564,
+            1000
+        ],
+        "text": "I'm now capable\nof booting up a\ncomputer.\nCaptain Tabata",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            769,
+            357,
+            889,
+            584
+        ],
+        "text": "When I eat out,\nI've stopped ordering\nextra-large portions.\nComics editor\nFujiwara",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            774,
+            814,
+            892,
+            1016
+        ],
+        "text": "During my physical\nthis year, I turned\nout to be exactly\n170 cm tall.\nEditor Fukuda",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1004,
+            348,
+            1059,
+            788
+        ],
+        "text": "AFTERWORD",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1124,
+            226,
+            1356,
+            868
+        ],
+        "text": "Between this and that, Mr. Fukuda is now my\neditor! At first, I thought, \"This guy has a lot\nof energy. Youth is a wonderful thing,\" but\nnow, after a few months have passed, he's\npretty ragged!! I'll take him to hell with me,",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

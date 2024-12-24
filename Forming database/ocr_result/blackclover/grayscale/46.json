@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            665,
+            99,
+            963,
+            230
+        ],
+        "text": "There you are, you dark creepy jerk!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1161,
+            338,
+            1288,
+            467
+        ],
+        "text": "That anti-magic is even more galling than I expected.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1332,
+            501,
+            1510,
+            603
+        ],
+        "text": "I have no interest in toys. I'm done playing with them, though.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1260,
+            901,
+            1425,
+            1036
+        ],
+        "text": "Well, well... To think you'd undo the Dark Elf transformation!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            960,
+            1065,
+            1007
+        ],
+        "text": "RAAAAAAAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

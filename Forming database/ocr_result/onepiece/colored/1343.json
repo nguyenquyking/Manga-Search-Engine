@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            84,
+            78,
+            177,
+            220
+        ],
+        "text": "...You talking about Sir Luffy just now?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            641,
+            120,
+            715
+        ],
+        "text": "Did I hear...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            254,
+            96,
+            337,
+            186
+        ],
+        "text": "Shirahoshi!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            190,
+            415,
+            261
+        ],
+        "text": "Oh! The Mermaid Princess.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            289,
+            415,
+            338
+        ],
+        "text": "Aaah!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            283,
+            689,
+            307,
+            758
+        ],
+        "text": "Quack!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            507,
+            106,
+            572,
+            216
+        ],
+        "text": "Did you just say \"Sir Luffy\"?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            506,
+            253,
+            601,
+            443
+        ],
+        "text": "They went to the New World...so any pirate ship would have to travel the Fish-Man Island Route...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            511,
+            483,
+            627,
+            604
+        ],
+        "text": "Luffy is a pirate!! If anyone finds out you're friends with him, la-si-do!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            522,
+            620,
+            618,
+            746
+        ],
+        "text": "Just because they're talking doesn't mean they know him!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            610,
+            49,
+            685,
+            147
+        ],
+        "text": "Wait, Rebecca! We might have misheard--",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            119,
+            901,
+            278
+        ],
+        "text": "Ditto!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            357,
+            1002,
+            469
+        ],
+        "text": "I owe Sir Luffy and his companions a great debt...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            502,
+            940,
+            595
+        ],
+        "text": "Stop that! Everyone knows his name!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            634,
+            988,
+            726
+        ],
+        "text": "I did!\u2661 Do you know him?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            471,
+            769,
+            526
+        ],
+        "text": "Aww.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            532,
+            820,
+            556
+        ],
+        "text": "00",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

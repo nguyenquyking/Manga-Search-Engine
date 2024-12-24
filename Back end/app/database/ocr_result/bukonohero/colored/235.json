@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            206,
+            81,
+            301,
+            226
+        ],
+        "text": "...until Yagi told us after some research.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            173,
+            298,
+            284,
+            428
+        ],
+        "text": "...had no way of knowing my cause of death...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            138,
+            454,
+            183,
+            535
+        ],
+        "text": "Banjo and I...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            130,
+            830,
+            216,
+            938
+        ],
+        "text": "Old age?! He was only 40, though?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            671,
+            90,
+            789,
+            298
+        ],
+        "text": "...cannot be wielded by an ordinary person.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            599,
+            710,
+            719,
+            904
+        ],
+        "text": "I'll get straight to the point. As of now, One for All...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

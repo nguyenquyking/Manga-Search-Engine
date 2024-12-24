@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            585,
+            61,
+            663,
+            206
+        ],
+        "text": "This couldn't be worse!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            260,
+            649,
+            355
+        ],
+        "text": "Where is that fool?! Dammit!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            737,
+            626,
+            901
+        ],
+        "text": "Bubaiagawa! You've done it now!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            829,
+            612,
+            1013,
+            909
+        ],
+        "text": "I've been keeping a close eye on Hawks from the start! He never acted suspicious in any way!! We've been deceived, but it wasn't my fault! Bubaiagawa is to blame...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            372,
+            1106,
+            549
+        ],
+        "text": "HEROES\nARE\nCOMING!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1157,
+            135,
+            1184,
+            203
+        ],
+        "text": "KRRRAK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1398,
+            358,
+            1418,
+            687
+        ],
+        "text": "Next chapter hits Mar. 8!",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

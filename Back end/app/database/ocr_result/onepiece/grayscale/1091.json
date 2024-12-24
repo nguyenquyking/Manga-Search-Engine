@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            68,
+            799,
+            163,
+            981
+        ],
+        "text": "I'M SO HUNGRY THAT I CAN'T THINK STRAIGHT... IT'S NO USE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            276,
+            807,
+            385,
+            897
+        ],
+        "text": "NO ANIMALS INHABIT THIS DESOLATE PLACE, AND FISH DON'T APPROACH THE SHORE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            334,
+            467,
+            444,
+            573
+        ],
+        "text": "I NEVER THOUGHT I'D END UP WRITING ON A DESERTED ISLAND",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1120,
+            74,
+            1292,
+            174
+        ],
+        "text": "SO THIS IS WHAT THE WORLD IS LIKE BEYOND THESE SEAS...!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1088,
+            504,
+            1204,
+            628
+        ],
+        "text": "\"LITTLE GARDEN\"!? THE ISLAND WHERE GIANTS LIVE!?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1369,
+            665,
+            1496,
+            756
+        ],
+        "text": "WHAT IS THAT BOOK!!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

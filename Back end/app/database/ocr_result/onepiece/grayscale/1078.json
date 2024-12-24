@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            97,
+            197,
+            193,
+            394
+        ],
+        "text": "There's no one in the tatami room with us! Can you imagine?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            104,
+            481,
+            182,
+            628
+        ],
+        "text": "Do you think they'll come up here?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            683,
+            163,
+            809
+        ],
+        "text": "The whole island is in an uproar.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            110,
+            874,
+            201,
+            994
+        ],
+        "text": "Banquet Hall,\nInside the Castle",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            225,
+            82,
+            334,
+            228
+        ],
+        "text": "Will you play a song for us, Miss Maria?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            164,
+            544,
+            327
+        ],
+        "text": "...But could never be together...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            444,
+            403,
+            534,
+            567
+        ],
+        "text": "Two who wished to be united...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            463,
+            712,
+            560,
+            810
+        ],
+        "text": "On a snowy night...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            470,
+            874,
+            547,
+            1000
+        ],
+        "text": "Of course. How about this one?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            513,
+            820,
+            574
+        ],
+        "text": "Wait up!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            921,
+            956,
+            999
+        ],
+        "text": "...At last...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            952,
+            107,
+            1009,
+            234
+        ],
+        "text": "Their passions...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            952,
+            401,
+            1057,
+            507
+        ],
+        "text": "Beneath the light of the moon...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1139,
+            330,
+            1200,
+            462
+        ],
+        "text": "Ooh, so romantic!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1156,
+            881,
+            1233,
+            1002
+        ],
+        "text": "...Will meet!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1265,
+            290,
+            1372,
+            472
+        ],
+        "text": "Pe-pe-peng",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1425,
+            84,
+            1513,
+            249
+        ],
+        "text": "...Run high!!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

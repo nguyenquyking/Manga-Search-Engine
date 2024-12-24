@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            86,
+            19,
+            129,
+            68
+        ],
+        "text": "ASTA!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            266,
+            150,
+            392,
+            213
+        ],
+        "text": "ANTI-MAGIC IS EVEN ABLE TO WORK AGAINST THAT, TOO!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            10,
+            570,
+            86
+        ],
+        "text": "AND... HE'S UNINJURED...!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            555,
+            290,
+            668
+        ],
+        "text": "WHOAAA!!!! I THOUGHT I WAS A GONER!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            11,
+            930,
+            108
+        ],
+        "text": "AT THIS RATE, IT WILL REACH THE OTHER ROOMS AND ENDANGER EVERYONE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            857,
+            334,
+            988,
+            452
+        ],
+        "text": "...JUST AS I SUSPECTED...! THAT OMINOUS MAGIC IS FLOODING IN FROM THE TOP ROOM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            572,
+            786,
+            674
+        ],
+        "text": "SO THAT STUFF DOESN'T HAVE A USE FOR SWALLOWING UP A BODY THAT HAS NO MAGIC POWER...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            791,
+            486,
+            839,
+            544
+        ],
+        "text": "WHAT EVEN IS HE!?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            898,
+            540,
+            991,
+            617
+        ],
+        "text": "HEEEY DON'T TALK LIKE I'M A FREAK!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

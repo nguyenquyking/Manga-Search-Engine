@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            76,
+            57,
+            150,
+            126
+        ],
+        "text": "...so that no damage reaches",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            148,
+            160,
+            304
+        ],
+        "text": "With my Straw-Straw powers, I infuse my body with my subordinates' spirits...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            336,
+            162,
+            487
+        ],
+        "text": "My Strawman is a stand-in for my followers' lives.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            621,
+            157,
+            732
+        ],
+        "text": "What did you just do?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            355,
+            69,
+            440,
+            191
+        ],
+        "text": "When I have ten infused, I can die ten times...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            59,
+            651,
+            241
+        ],
+        "text": "Know that I am not so forthright as to battle two of my fellow Worst Generation members in a fair fight!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            529,
+            624,
+            627
+        ],
+        "text": "...of Straw-Man Cards!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            534,
+            656,
+            639,
+            741
+        ],
+        "text": "Now... let us begin a game...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            873,
+            57,
+            970,
+            142
+        ],
+        "text": "Whoa!! Something just came outta the sword!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

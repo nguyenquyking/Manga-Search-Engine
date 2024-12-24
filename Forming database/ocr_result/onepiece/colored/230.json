@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            72,
+            739,
+            118,
+            850
+        ],
+        "text": "GOING ON THE\nDEFENSIVE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1029,
+            426,
+            1154,
+            564
+        ],
+        "text": "HIMORO-\nGIRI!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1036,
+            607,
+            1076,
+            880
+        ],
+        "text": "T/N: HIMOROGI ARE SACRED ALTARS IN\nSHINTOISM. LITERALLY MEANS \"GLACIAL SLASH\".",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

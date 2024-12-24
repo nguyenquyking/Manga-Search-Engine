@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            347,
+            384,
+            374,
+            529
+        ],
+        "text": "TWO SWORDS,\nSIDE BY SIDE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            41,
+            794,
+            251
+        ],
+        "text": "Page 209: The Wish",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            677,
+            789,
+            833
+        ],
+        "text": "y\u016bki Tabata",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            811,
+            5,
+            826,
+            837
+        ],
+        "text": "THE FINAL BATTLE AGAINST THE WORD MAGIC DEMON IS AT HAND! LEARNING FROM THE FIRST MAGIC EMPEROR AND HIS ALLIES, ASTA AND YUNO FURTHER AWAKEN THEIR MAGIC POTENTIAL!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            881,
+            16,
+            1008,
+            148
+        ],
+        "text": "HE'S\nJUST AN IDIOT\nBORN WITHOUT\nMAGIC POWER,\nAND WHO REALLY\nDOESN'T KNOW\nHIS PLACE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1092,
+            107,
+            1107,
+            148
+        ],
+        "text": "HUH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            771,
+            904,
+            844
+        ],
+        "text": "THESE\nGUYS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            661,
+            959,
+            767
+        ],
+        "text": "WHAT\nEXPLOSIVE\nGROWTH\n...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1127,
+            336,
+            1248,
+            443
+        ],
+        "text": "...BUT,\nJUST WHO\nIS THAT BOY\nWHO OWNS\nTHE FIVE LEAF\nGRIMOIRE\n...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            522,
+            1209,
+            638
+        ],
+        "text": "MAGIC\nTHAT\nCREATES\nA WIND-\nELEMENT\nSWORD... I\nSEE... SO\nHE'S...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1220,
+            54,
+            1248,
+            110
+        ],
+        "text": "BUT...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

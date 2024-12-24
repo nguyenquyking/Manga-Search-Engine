@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            105,
+            87,
+            108,
+            410
+        ],
+        "text": "WUB WUB",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            406,
+            130,
+            505,
+            271
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            664,
+            87,
+            771,
+            202
+        ],
+        "text": "I WELCOME THE ATTEMPT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            450,
+            772,
+            598
+        ],
+        "text": "I'LL KILL YOU TOO, FOR WHAT YOU DID TO MY FLEET!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            873,
+            720,
+            1023
+        ],
+        "text": "HOW DARE YOU, JIMBEI!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            101,
+            1060,
+            239
+        ],
+        "text": "AAAAH!! THERE GOES BIG MOM!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            875,
+            395,
+            950,
+            753
+        ],
+        "text": "BAKAA...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            918,
+            820,
+            1017,
+            1011
+        ],
+        "text": "DELPHINIUM!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1457,
+            109,
+            1515,
+            256
+        ],
+        "text": "BUT, WAIT A SECOND...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

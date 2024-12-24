@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            724,
+            448,
+            780,
+            566
+        ],
+        "text": "CAN IT BE TRUE...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            59,
+            1074,
+            199
+        ],
+        "text": "HAS THE KOZUKI CLAN RETURNED?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

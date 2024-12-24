@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            62,
+            64,
+            122,
+            216
+        ],
+        "text": "WHO'S THIS STUPID TURD? GET HIM OUTTA HERE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            121,
+            275,
+            174,
+            354
+        ],
+        "text": "...WHO AM I?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            639,
+            165,
+            718
+        ],
+        "text": "DO YOU KNOW...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            345,
+            52,
+            466,
+            186
+        ],
+        "text": "I AM THE KING OF YOUR HOMELAND OF GOA! KING STELLY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            41,
+            582,
+            143
+        ],
+        "text": "AS YOU ARE MY SUBJECT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            28,
+            788,
+            154
+        ],
+        "text": "...THAT ESSENTIALLY MAKES YOU MY SERVANT AS WELL! KEEP THAT IN MIND!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            340,
+            478,
+            429,
+            559
+        ],
+        "text": "IT IS A MISTAKE, STELLY, ISN'T IT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            597,
+            430,
+            711
+        ],
+        "text": "STUPID TURD?! DID I MISHEAR YOU?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            635,
+            531,
+            719
+        ],
+        "text": "WHAT INSOLENCE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            805,
+            418,
+            912,
+            627
+        ],
+        "text": "KING OF GOA KINGDOM, EAST BLUE\nSTELLY\n(SABO'S FOSTER BROTHER)",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1005,
+            52,
+            1132,
+            191
+        ],
+        "text": "IGNORING GARP, THERE'S ALSO DRAGON, SABO, FIRE FIST AND STRAW HAT! FASCINATING...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1008,
+            494,
+            1143,
+            625
+        ],
+        "text": "FOR SUCH A PEACEFUL LITTLE PLACE, IT'S PRODUCED SOME OF THE MOST WICKED BADDIES AROUND!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1020,
+            650,
+            1125,
+            711
+        ],
+        "text": "THE KING OF GOA!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

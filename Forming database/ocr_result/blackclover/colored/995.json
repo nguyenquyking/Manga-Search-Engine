@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            257,
+            161,
+            460,
+            352
+        ],
+        "text": "Creepy little guy. His bones shoot out of his body.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            269,
+            835,
+            406,
+            964
+        ],
+        "text": "John, you're so tough!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            159,
+            1461,
+            350
+        ],
+        "text": "...so I'll slay you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1150,
+            1247,
+            1451,
+            1484
+        ],
+        "text": "My dad's in the Mage Defense Force...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2183,
+            264,
+            2325,
+            417
+        ],
+        "text": "What're you talking about?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1642,
+            325,
+            1960,
+            481
+        ],
+        "text": "FSSSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1725,
+            591,
+            1801,
+            693
+        ],
+        "text": "FUOSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2058,
+            1395,
+            2085,
+            1481
+        ],
+        "text": "Hot-Hot-Hot!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

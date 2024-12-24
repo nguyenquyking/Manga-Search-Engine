@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            119,
+            79,
+            128,
+            117
+        ],
+        "text": "BAM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            99,
+            394,
+            109,
+            434
+        ],
+        "text": "BAM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            28,
+            618,
+            146,
+            707
+        ],
+        "text": "THE CASTLE'S\nFIRST-\nFLOOR\nCRAWL-\nSPACE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            687,
+            498,
+            720,
+            516
+        ],
+        "text": "TEK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            953,
+            356,
+            965,
+            398
+        ],
+        "text": "SHANK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            32,
+            67,
+            200,
+            228
+        ],
+        "text": "NOW CHECK ME OUT!! I'M A CYBORG, SO I'VE GOT A WHOLE BUNCH OF TRICKS UP MY SLEEVE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            718,
+            195,
+            827
+        ],
+        "text": "YOU MEAN MADS?\nTHAT'S ANCIENT HISTORY.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            575,
+            40,
+            633,
+            185
+        ],
+        "text": "OBVIOUSLY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            653,
+            717,
+            707,
+            836
+        ],
+        "text": "CLANK!!\nCLANK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            995,
+            142,
+            1068,
+            316
+        ],
+        "text": "CHOPPER, YOU HOLDING UP OVER THERE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            396,
+            1069,
+            552
+        ],
+        "text": "THAT KNOWLEDGE\nWON'T SAVE\nYOU THOUGH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            606,
+            1077,
+            711
+        ],
+        "text": "IT'S QUEEN'S\nHYBRID\nFORM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            754,
+            1066,
+            840
+        ],
+        "text": "AAH!!\nTHIS IS\nBAD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1180,
+            597,
+            1229,
+            691
+        ],
+        "text": "GET\nBACK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

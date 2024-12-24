@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            12,
+            3,
+            68,
+            382
+        ],
+        "text": "PLEASE SUPPORT THE OFFICIAL RELEASE WHEN AVAILABLE IN YOUR REGION.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            58,
+            862,
+            202,
+            1212
+        ],
+        "text": "YKZA\nfan Scans",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            220,
+            1371,
+            271,
+            1584
+        ],
+        "text": "TCB SCANS",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            341,
+            1224,
+            394,
+            1544
+        ],
+        "text": "SKR TRANSLATOR",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            417,
+            939,
+            462,
+            1542
+        ],
+        "text": "MIREN & FINNDERS PROOFREADER",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            490,
+            1041,
+            535,
+            1544
+        ],
+        "text": "DEKAMARA & IRST CLEANER",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            562,
+            1078,
+            607,
+            1540
+        ],
+        "text": "BOX & REDHOOD REDRAWER",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            630,
+            1228,
+            681,
+            1545
+        ],
+        "text": "BOX TYPESETTER",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            708,
+            1262,
+            751,
+            1542
+        ],
+        "text": "RIFUUZE EDITOR",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            775,
+            1305,
+            827,
+            1542
+        ],
+        "text": "MIREN TL QC",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            804,
+            200,
+            849,
+            536
+        ],
+        "text": "MY HERO\nACADEMIA",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            870,
+            1107,
+            922,
+            1219
+        ],
+        "text": "NOTES",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            960,
+            792,
+            1068,
+            1177
+        ],
+        "text": "Join our Discord: discord.gg/tcbscans\nFollow us on Twitter & Instagram!\n@TCBScans",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

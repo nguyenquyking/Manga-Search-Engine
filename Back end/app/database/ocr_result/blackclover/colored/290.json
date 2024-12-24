@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            178,
+            32,
+            364,
+            241
+        ],
+        "text": "At this rate... Just think of me as dead...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            106,
+            1078,
+            309,
+            1320
+        ],
+        "text": "That peasant... And my brother, too... The audacity!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            406,
+            694,
+            496
+        ],
+        "text": "Yeah...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            743,
+            45,
+            808,
+            184
+        ],
+        "text": "Our audacity",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            1016,
+            878,
+            1265
+        ],
+        "text": "You've got no talent, and yet you have the gall to take on even more responsibilities...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1140,
+            93,
+            1433,
+            298
+        ],
+        "text": "And I'll become a man worthy of becoming the head of the Vaude House!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1294,
+            751,
+            1617,
+            947
+        ],
+        "text": "From now on, I'm gonna make the effort... to be acknowledged by Father...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            1078,
+            1292,
+            1260
+        ],
+        "text": "You should know... I've got my own declaration of war, too!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1828,
+            138,
+            1859,
+            240
+        ],
+        "text": "And...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

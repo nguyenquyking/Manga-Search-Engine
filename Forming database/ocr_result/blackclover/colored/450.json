@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            62,
+            442,
+            150,
+            519
+        ],
+        "text": "WE CAN WIN THIS!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            129,
+            19,
+            199,
+            105
+        ],
+        "text": "IN THAT CASE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            174,
+            130,
+            267,
+            219
+        ],
+        "text": "WAY TO SHOW 'EM HOW IT'S DONE, ASTA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            40,
+            731,
+            188
+        ],
+        "text": "...PUT EVEN MORE INTO THIS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            1168,
+            602,
+            1279
+        ],
+        "text": "Well done, boy!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            701,
+            842,
+            825
+        ],
+        "text": "IF ASTA LANDS A CLEAN HIT ON THAT GUY-",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            819,
+            75,
+            889,
+            169
+        ],
+        "text": "THAT'S MY LINE, CAPTAIN",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            821,
+            961,
+            915,
+            1065
+        ],
+        "text": "IS THAT RIGHT ARM RADIATING ANTI-MAGIC?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            817,
+            1089,
+            932,
+            1187
+        ],
+        "text": "HE'S REALLY WATCHING OUT FOR ASTA'S ATTACKS!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            771,
+            1183,
+            832,
+            1291
+        ],
+        "text": "THE WAY HE'S FIGHTING...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

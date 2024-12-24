@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            95,
+            1274,
+            191,
+            1413
+        ],
+        "text": "LADY!\nHOLD ON\nJUST A BIT\nLONGER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            589,
+            1764,
+            636,
+            1956
+        ],
+        "text": "...ON\n...NGH!\nHOLDIN'",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            1313,
+            772,
+            1350
+        ],
+        "text": "FLNG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            875,
+            1832,
+            888,
+            1887
+        ],
+        "text": "SKFF",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1067,
+            1436,
+            1131,
+            1544
+        ],
+        "text": "SHORTEST\nROUTE TO\nMASTER.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1307,
+            1542,
+            1322,
+            1609
+        ],
+        "text": "GRAP.",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1388,
+            7,
+            1423,
+            207
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "7",
+        "type": "background"
+    }
+]

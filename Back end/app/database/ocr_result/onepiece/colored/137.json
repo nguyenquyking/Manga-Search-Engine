@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            247,
+            60,
+            293,
+            120
+        ],
+        "text": "Pant... Pant...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            384,
+            57,
+            462,
+            156
+        ],
+        "text": "We have to save the Captain!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            334,
+            445,
+            431
+        ],
+        "text": "MEDICS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            456,
+            568,
+            571
+        ],
+        "text": "Get it together! Are you still breathing?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            395,
+            759,
+            427,
+            850
+        ],
+        "text": "BOSS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            698,
+            81,
+            807,
+            234
+        ],
+        "text": "Tenman-Tenjin!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            691,
+            819,
+            832
+        ],
+        "text": "Quit your bellyaching!! This is a battlefield, you pests!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            741,
+            1020,
+            837
+        ],
+        "text": "GYAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1142,
+            56,
+            1194,
+            160
+        ],
+        "text": "GYAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

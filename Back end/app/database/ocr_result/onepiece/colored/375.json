@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            79,
+            134,
+            159,
+            260
+        ],
+        "text": "CATS HAVE VERY SENSITIVE TONGUES!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            278,
+            150,
+            371
+        ],
+        "text": "DON'T DO THAT, CAT VIPER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            467,
+            154,
+            589
+        ],
+        "text": "...IT'S TOO HOT FOR ME TO EAT!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            674,
+            134,
+            738
+        ],
+        "text": "BUT THE PROBLEM IS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            240,
+            57,
+            350,
+            185
+        ],
+        "text": "WA HA HA HA! LISTEN UP, CAT! ODEN IS MEANT TO BOIL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            57,
+            555,
+            200
+        ],
+        "text": "...AND WE WASHED UP ON THIS LAND! WHEN WE SOUGHT HELP...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            454,
+            247,
+            536,
+            348
+        ],
+        "text": "THE BOAT CARRYING MOTHER AND ME SANK...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            447,
+            396,
+            544,
+            469
+        ],
+        "text": "AND WHAT'S WITH YOU?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            651,
+            505,
+            752
+        ],
+        "text": "I THINK IT'S GOOD.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            60,
+            840,
+            201
+        ],
+        "text": "...SO I SHOULD CLAIM THAT I AM A KAPPA.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            735,
+            277,
+            844,
+            463
+        ],
+        "text": "WHEN MOTHER WAS DYING, SHE TOLD ME THAT FISH-MEN ARE OPPRESSED ALL OVER THE WORLD...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            736,
+            517,
+            837,
+            630
+        ],
+        "text": "BUT MOTHER WAS INJURED, AND WE COULDN'T GET BACK HOME.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            732,
+            655,
+            833,
+            744
+        ],
+        "text": "...THEY THREW ROCKS AND CALLED US FISH-MEN.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            973,
+            67,
+            1128,
+            193
+        ],
+        "text": "I'M KAWAMATSU THE KAPPA, AND I'VE BEEN LIVING ON SCRAPS AND LEFTOVERS.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1076,
+            351,
+            1140,
+            443
+        ],
+        "text": "KAPPA\nKAWA-\nMATSU",
+        "panel_id": "5",
+        "type": "caption"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            65,
+            556,
+            132,
+            663
+        ],
+        "text": "I won't let it end like this!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            731,
+            109,
+            804
+        ],
+        "text": "Huff... Huff...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            348,
+            82,
+            378,
+            148
+        ],
+        "text": "Hm?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            34,
+            577,
+            162
+        ],
+        "text": "There's Kaido! Let's crash-land over there!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            490,
+            397,
+            568,
+            496
+        ],
+        "text": "How are we still going?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            627,
+            392,
+            717,
+            493
+        ],
+        "text": "We need to get to solid ground!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            745,
+            539,
+            828
+        ],
+        "text": "Divine Step!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            878,
+            559,
+            1002,
+            652
+        ],
+        "text": "Gear Fourth: Snake-Man!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            702,
+            962,
+            837
+        ],
+        "text": "Kaido?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1215,
+            567,
+            1274,
+            649
+        ],
+        "text": "Time to land!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1015,
+            291,
+            1108,
+            353
+        ],
+        "text": "Gomu Gomu no..!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

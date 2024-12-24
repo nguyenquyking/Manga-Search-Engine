@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            48,
+            240,
+            175,
+            353
+        ],
+        "text": "...WE DON'T WANT TO BE PROTECTED BY YOU.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            641,
+            137,
+            738
+        ],
+        "text": "THE THING IS, DEKU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            308,
+            534,
+            417
+        ],
+        "text": "FWP\nBLASTING SPEED TURBO...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            456,
+            96,
+            572,
+            214
+        ],
+        "text": "...OR REJECT WHO YOU ARE AND WHAT YOU'RE DOING.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            770,
+            579,
+            787,
+            686
+        ],
+        "text": "CLUSTER!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            942,
+            125,
+            1040,
+            238
+        ],
+        "text": "WE JUST WANT TO BE WITH YOU.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

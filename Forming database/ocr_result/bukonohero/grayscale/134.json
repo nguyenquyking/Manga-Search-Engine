@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            44,
+            60,
+            237,
+            202
+        ],
+        "text": "Even though Shinso hasn't earned his provisional hero license yet, the acting HPSC president, Mera, has given him special permission to act during this crisis.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            202,
+            96,
+            256
+        ],
+        "text": "In case you're curious...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            50,
+            283,
+            138,
+            383
+        ],
+        "text": "Our Aizawa Sensei is as awesome as ever!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            601,
+            166,
+            723
+        ],
+        "text": "Aizawa was sure to train him well.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            98,
+            515,
+            214
+        ],
+        "text": "...Surely that would give us away.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            259,
+            554,
+            390
+        ],
+        "text": "Our numbers are already lacking...and if we do somehow assemble every available hero at the chosen spot for this ambush...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            432,
+            423,
+            525
+        ],
+        "text": "Once our enemies are lured into the trap...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            430,
+            545,
+            509
+        ],
+        "text": "...Can we truly defeat them all?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            646,
+            446,
+            749
+        ],
+        "text": "However... our troubles hardly end there.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            667,
+            650,
+            721,
+            704
+        ],
+        "text": "The thing is...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            371,
+            1046,
+            546
+        ],
+        "text": "...The heroes don't need to be there in advance.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            90,
+            2,
+            164,
+            147
+        ],
+        "text": "LET'S GO\nFACE THE\nUNKNOWN\nFUTURE!\nSTAND\nUP,\nBUDDY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            235,
+            147,
+            344
+        ],
+        "text": "...YEP! WE'RE\nSTILL NEW\nSO WE'RE ALL\nNERVOUS!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            110,
+            522,
+            208,
+            639
+        ],
+        "text": "THIS IS THE\nFIRST TIME\nI'VE SEEN\nEITHER OF\nYOU, NEWBIE\nHEROES?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            278,
+            537,
+            329,
+            604
+        ],
+        "text": "YOU'RE\nBOTH SO\nYOUNG.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            513,
+            583,
+            610
+        ],
+        "text": "AND WHICH\nAGENCY\nARE YOU\nWORKING\nFOR?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            14,
+            812,
+            153
+        ],
+        "text": "RIGHT,\nTHEN, WE'VE\nGOTTA KEEP\nPATROLLING THE\nAREA UNTIL\nNOON!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            285,
+            807,
+            361
+        ],
+        "text": "I WON'T\nREVEAL\nSIR'S\nNAME.\nLET'S GET\nOUT OF\nHERE\nQUICK.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            397,
+            745,
+            501
+        ],
+        "text": "HE'S TRYING\nTO FIGURE OUT\nWHO WE ARE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            528,
+            828,
+            639
+        ],
+        "text": "WE'RE STILL\nSTUDENTS! IN FACT,\nWE'RE STILL SUCH\nFLEDGELINGS THAT\nIT'D BE PRESUMP-\nTUOUS TO EVEN\nTHINK OF BEING\nWITH AN OFFICE\nRIGHT NOW...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            517,
+            987,
+            639
+        ],
+        "text": "WE'RE\nJUST BEING\nALLOWED TO\nPATROL AROUND A\nLITTLE FOR OUR\nWORKPLACE EXPE-\nRIENCE, THAT'S\nALL.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            33,
+            915,
+            75
+        ],
+        "text": "LET'S\nGO!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            296,
+            1003,
+            355
+        ],
+        "text": "OKAY...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

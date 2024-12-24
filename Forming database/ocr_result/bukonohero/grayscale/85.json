@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            67,
+            79,
+            119,
+            137
+        ],
+        "text": "...Wanna do to me?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            349,
+            100,
+            399
+        ],
+        "text": "What do you...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            440,
+            130,
+            485
+        ],
+        "text": "SHVR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            262,
+            31,
+            387,
+            176
+        ],
+        "text": "She can cloak her own presence! If I lose her in this chaotic battle, she'll be one step ahead!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            378,
+            290,
+            392,
+            347
+        ],
+        "text": "I DUNNO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            253,
+            582,
+            299,
+            657
+        ],
+        "text": "Another attack's coming!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            558,
+            49,
+            695,
+            148
+        ],
+        "text": "Like how trying to be like someone else can feel fulfilling.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            542,
+            187,
+            621,
+            271
+        ],
+        "text": "So I get how you feel, Toga.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            511,
+            674,
+            616
+        ],
+        "text": "I... Always wanted to be strong like All Might.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            567,
+            659,
+            737,
+            704
+        ],
+        "text": "SHNK\nSHNK",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            997,
+            48,
+            1068,
+            142
+        ],
+        "text": "...Want to hurt someone I love!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            185,
+            1063,
+            253
+        ],
+        "text": "And I would never...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1005,
+            329,
+            1094,
+            433
+        ],
+        "text": "...Wanting to share the same heart and mind as him.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            473,
+            943,
+            574
+        ],
+        "text": "But... I can't imagine...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            617,
+            952,
+            749
+        ],
+        "text": "She doesn't trigger my danger sense, so in a way, this is the worst matchup I could ask for!!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

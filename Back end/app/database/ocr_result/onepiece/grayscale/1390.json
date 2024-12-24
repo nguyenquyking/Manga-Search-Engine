@@ -1,0 +1,255 @@
+[
+    {
+        "text_box": [
+            30,
+            450,
+            88,
+            961
+        ],
+        "text": "ONE PIECE 1\u226b97",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            41,
+            83,
+            84,
+            437
+        ],
+        "text": "The story of",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            174,
+            486,
+            224,
+            934
+        ],
+        "text": "Animal Kingdom Pirates",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            282,
+            378,
+            360,
+            809
+        ],
+        "text": "Kaido, King of the Beasts\n(Emperor of the Sea)",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            384,
+            388,
+            496,
+            807
+        ],
+        "text": "A pirate known as the \"strongest creature alive.\" Despite numerous tortures and death sentences, none have been able to kill him.",
+        "panel_id": "3",
+        "type": "description"
+    },
+    {
+        "text_box": [
+            522,
+            393,
+            542,
+            698
+        ],
+        "text": "Captain, Animal Kingdom Pirates",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            589,
+            351,
+            619,
+            509
+        ],
+        "text": "Lead Performers",
+        "panel_id": "4",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            587,
+            1019,
+            624,
+            1123
+        ],
+        "text": "Tobi Roppo",
+        "panel_id": "4",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            928,
+            116,
+            954,
+            283
+        ],
+        "text": "King the Wildfire",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            928,
+            342,
+            954,
+            509
+        ],
+        "text": "Queen the Plague",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            930,
+            571,
+            952,
+            731
+        ],
+        "text": "Jack the Drought",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            930,
+            864,
+            952,
+            1012
+        ],
+        "text": "X. (Diez) Drake",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            930,
+            1087,
+            952,
+            1175
+        ],
+        "text": "Page One",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1015,
+            653,
+            1045,
+            751
+        ],
+        "text": "Headliners",
+        "panel_id": "6",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1356,
+            152,
+            1380,
+            289
+        ],
+        "text": "Basil Hawkins",
+        "panel_id": "7",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1356,
+            380,
+            1380,
+            459
+        ],
+        "text": "Holdem",
+        "panel_id": "7",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1358,
+            612,
+            1378,
+            699
+        ],
+        "text": "Babanuki",
+        "panel_id": "7",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1354,
+            836,
+            1382,
+            914
+        ],
+        "text": "Daifugo",
+        "panel_id": "7",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1358,
+            1067,
+            1382,
+            1144
+        ],
+        "text": "Solitaire",
+        "panel_id": "7",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1693,
+            155,
+            1715,
+            210
+        ],
+        "text": "Speed",
+        "panel_id": "8",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1691,
+            383,
+            1715,
+            446
+        ],
+        "text": "Dobon",
+        "panel_id": "8",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1833,
+            106,
+            1877,
+            198
+        ],
+        "text": "Story",
+        "panel_id": "9",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1887,
+            108,
+            2058,
+            1340
+        ],
+        "text": "After two years of hard training, the Straw Hat pirates are back together, first at the Sabaody Archipelago and then through Fish-Man Island to their next stage: the New World!!\nLuffy and crew disembark on Wano for the purpose of defeating Kaido, one of the Four Emperors. They begin to recruit allies for a raid in two weeks' time. But Kaido's side finds out, and the plan is in peril. With great effort, the alliance rebounds and gathers members to await the day of the raid. But on the big day, the Straw Hats are...",
+        "panel_id": "9",
+        "type": "narration"
+    }
+]

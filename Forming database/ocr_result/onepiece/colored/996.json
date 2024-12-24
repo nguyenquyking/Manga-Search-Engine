@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            145,
+            321,
+            216,
+            469
+        ],
+        "text": "GRAAAHH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            468,
+            124,
+            511,
+            196
+        ],
+        "text": "S... SORRY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            228,
+            520,
+            289
+        ],
+        "text": "YOU SLOW-POKES!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            335,
+            559,
+            428
+        ],
+        "text": "THEN GET THE NEXT BOAT OVER HERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            625,
+            564,
+            727
+        ],
+        "text": "WAIT, WAIT! WE CAN'T HOLD ANY MORE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            51,
+            750,
+            111
+        ],
+        "text": "I LOST COUNT AROUND 500...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            679,
+            233,
+            742,
+            304
+        ],
+        "text": "HOW MANY STONES DOES THAT MAKE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            84,
+            951,
+            186
+        ],
+        "text": "WE DID THE WORK! NOW FEED US!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            237,
+            946,
+            392
+        ],
+        "text": "WHAT ARE THEY CAPABLE OF WHEN THE CUFFS COME OFF?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            632,
+            939,
+            733
+        ],
+        "text": "WERE THEY WEARING THE SEASTONE CUFFS?!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            448,
+            1128,
+            590
+        ],
+        "text": "AND THEY STILL HAD THAT MUCH STRENGTH?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            656,
+            1092,
+            715
+        ],
+        "text": "THEY WERE, SIR!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            54,
+            1140,
+            114
+        ],
+        "text": "W-WHAT?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

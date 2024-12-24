@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            72,
+            52,
+            202,
+            188
+        ],
+        "text": "I'M HERE BECAUSE IT'S WANO!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            565,
+            206,
+            726
+        ],
+        "text": "WORO RO RO RO RO...\nDON'T THINK I'M LEAVING FOR ANYWHERE ELSE, YAMATO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            313,
+            37,
+            464,
+            172
+        ],
+        "text": "I REFUSE!!!\nI ALREADY KNOW I CAN'T WIN!!\nBUT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            328,
+            340,
+            350,
+            410
+        ],
+        "text": "ZRRRM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            334,
+            576,
+            486,
+            717
+        ],
+        "text": "THERE IS NO WAY IN WHICH\nYOU CAN BEAT ME!!\nNOW DO AS\nI SAY, YAMATO,\nAND BE SHOGUN\nOF WANO!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            601,
+            242,
+            691,
+            412
+        ],
+        "text": "...I'M GOING\nTO HOLD YOU\nBACK!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            819,
+            103,
+            804,
+            168
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            980,
+            94,
+            1082,
+            260
+        ],
+        "text": "DON'T\nASSUME I'LL\nGO EASY ON\nYOU, YAMATO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            587,
+            596,
+            746,
+            717
+        ],
+        "text": "LUFFY IS\nTHE MAN\nKOZUKI\nODEN WAS\nWAITING\nFOR!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            995,
+            594,
+            1082,
+            718
+        ],
+        "text": "AND\nUNTIL HE\nRETURNS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1122,
+            10,
+            1138,
+            206
+        ],
+        "text": "Next chapter hits June 27!",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

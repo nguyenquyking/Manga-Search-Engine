@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            236,
+            74,
+            574,
+            402
+        ],
+        "text": "It's boring in the underworld, so to kill time the devils on top terrorize the ones beneath them, and the lower devils beat up the ones below them.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            360,
+            858,
+            595,
+            1172
+        ],
+        "text": "From the time they're born, devils have a set place in the pecking order, and there's no way to change it.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            807,
+            927,
+            1007,
+            1192
+        ],
+        "text": "Since I was born without magic, I was solidly at the bottom of the heap.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1058,
+            135,
+            1224,
+            378
+        ],
+        "text": "Ever since I was born, a day didn't go by when I didn't bleed.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1425,
+            105,
+            1631,
+            363
+        ],
+        "text": "...Everybody wants to go to the other world, where the humans are.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1425,
+            882,
+            1701,
+            1151
+        ],
+        "text": "In that dunghill of a world, toying with \"humans\" is the biggest thrill any devil can get, and so...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1841,
+            255,
+            1892,
+            459
+        ],
+        "text": "@Shiuryy",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1843,
+            727,
+            1883,
+            1048
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

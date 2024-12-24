@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            64,
+            503,
+            196,
+            782
+        ],
+        "text": "ABOUT 80 KM FROM\nJAKU HOSPITAL\nGUNGA MOUNTAIN\nVILLA",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            201,
+            265,
+            218,
+            354
+        ],
+        "text": "WAHHHH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            722,
+            83,
+            802,
+            186
+        ],
+        "text": "WHOA!!\nJUST A\nSEC!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            684,
+            854,
+            748
+        ],
+        "text": "ZOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1056,
+            547,
+            1121,
+            633
+        ],
+        "text": "FAT\nGUM!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

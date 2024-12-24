@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            33,
+            89,
+            116,
+            216
+        ],
+        "text": "MAAA MA\nMA, HA HA HA!!\nWHAT'S THE\nMATTER?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            37,
+            453,
+            114,
+            576
+        ],
+        "text": "HEY!!\nWHAT'S\nGOING ON?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            627,
+            115,
+            697
+        ],
+        "text": "SECOND\nFLOOR\nOF THE\nCASTLE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            161,
+            49,
+            304,
+            215
+        ],
+        "text": "GOT A\nMIGRAINE\nKID?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            42,
+            665,
+            152
+        ],
+        "text": "Yes,\nMAMA!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            580,
+            582,
+            650,
+            720
+        ],
+        "text": "HERA,\nNAPOLEON,\nLET'S HELP HIM\nWITH THAT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            791,
+            632,
+            846,
+            733
+        ],
+        "text": "EUSTASS\n!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1090,
+            107,
+            1087,
+            169
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

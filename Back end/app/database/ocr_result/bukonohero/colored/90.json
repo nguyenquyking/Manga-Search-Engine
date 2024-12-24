@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            114,
+            72,
+            123,
+            104
+        ],
+        "text": "TMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            485,
+            3,
+            504,
+            177
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            643,
+            364,
+            717,
+            476
+        ],
+        "text": "...was cause more pain for Deku.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            533,
+            675,
+            612
+        ],
+        "text": "In the end, all we did...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            895,
+            223,
+            926,
+            315
+        ],
+        "text": "No progress?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            37,
+            998,
+            116
+        ],
+        "text": "I disagree.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            571,
+            996,
+            703
+        ],
+        "text": "No real progress... Just a roundabout way of getting to this point.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            291,
+            1043,
+            324
+        ],
+        "text": "TMP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            28,
+            193,
+            49,
+            462
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            419,
+            90,
+            473,
+            949
+        ],
+        "text": "Q: If Zoro, Nami, Usopp, Sanji, and Franky had Devil Fruit Powers, which fruit would each of them eat?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            837,
+            504,
+            944
+        ],
+        "text": "--420 Land",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            521,
+            131,
+            540,
+            938
+        ],
+        "text": "Ooh, that's an interesting question. Here's what I want to see...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            148,
+            809,
+            282
+        ],
+        "text": "Fish-Fish Fruit,\nMythical Type,\nAzure Dragon\nModel",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            322,
+            785,
+            463
+        ],
+        "text": "Rumble-Rumble\nFruit (Lightning\nWoman)",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            497,
+            812,
+            640
+        ],
+        "text": "Pocket-Pocket\nFruit (Unlimited\npockets on your\nbody)",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            670,
+            737,
+            820
+        ],
+        "text": "Swim-Swim Fruit",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            843,
+            737,
+            998
+        ],
+        "text": "Arms-Arms Fruit",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            141,
+            1134,
+            292
+        ],
+        "text": "What if the sword turns\ninto the dragon,\nrather than\nZoro? I think\nthat would be\nawesome.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            330,
+            1091,
+            455
+        ],
+        "text": "She'd be the\ninvincible\nweather girl.\n(To everyone\nbut Luffy)",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            987,
+            506,
+            1113,
+            626
+        ],
+        "text": "Seems like\nthe perfect\nfit for Usopp\nwith all his\ngadgets and\ntools.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            675,
+            1137,
+            809
+        ],
+        "text": "He can pass\nthrough walls\nand swim under\nthe ground.\nA dangerous\npower in\nSanji's hands.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            987,
+            866,
+            1094,
+            976
+        ],
+        "text": "This would\nbe the best\npossible\npower for\nFranky.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1164,
+            140,
+            1276,
+            962
+        ],
+        "text": "Is the vassal tasting Momonosuke's food for poison in chapter 971 the same person who was reporting on Oden's controversial deeds to Sukiyaki in chapter 960? Then he's been serving the Kozuki Clan for generations... I actually cried a little when I realized this.",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1288,
+            661,
+            1308,
+            742
+        ],
+        "text": "-- Higuma",
+        "panel_id": "8",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1324,
+            142,
+            1396,
+            738
+        ],
+        "text": "Yes, that's right. His name is Banzaburo. He was taken in by Sukiyaki at a young age, and feels a lifelong debt to his master.",
+        "panel_id": "9",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1419,
+            139,
+            1444,
+            699
+        ],
+        "text": "Here's what I want to ask: \"LEAVE OR LIFE?\"",
+        "panel_id": "10",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1456,
+            149,
+            1476,
+            259
+        ],
+        "text": "-- Negibozu",
+        "panel_id": "11",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1494,
+            142,
+            1564,
+            896
+        ],
+        "text": "Hey, that's terrifying!! What?! No, you can't have my life! I choose leave! I'm leaving!! That's the end of the SBS! See you next volume!! Zoooom!!",
+        "panel_id": "12",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1542,
+            973,
+            1564,
+            997
+        ],
+        "text": "774",
+        "panel_id": "12",
+        "type": "background"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            105,
+            35,
+            178,
+            132
+        ],
+        "text": "YOU'RE NOT WRONG ABOUT ME...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            258,
+            75,
+            279,
+            115
+        ],
+        "text": "HE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            667,
+            29,
+            701,
+            159
+        ],
+        "text": "...NEUTRALIZED THE HEAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            352,
+            790,
+            418
+        ],
+        "text": "I TOOK THE LONG WAY AROUND...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            211,
+            1006,
+            381
+        ],
+        "text": "A HALF-BAKED DUMMY. THAT'S ME. ...AND WAS FULL OF DOUBT ALL THE WHILE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            45,
+            1094,
+            143
+        ],
+        "text": "HERE I THOUGHT YOU WERE ONLY FOCUSING ON DAD!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            475,
+            540,
+            635
+        ],
+        "text": "BURN!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            839,
+            669,
+            841,
+            737
+        ],
+        "text": "THOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            407,
+            347,
+            478,
+            426
+        ],
+        "text": "Ah ha!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            46,
+            50,
+            45,
+            111
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            863,
+            23,
+            886,
+            103
+        ],
+        "text": "Right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            992,
+            193,
+            1067,
+            310
+        ],
+        "text": "I guess our teamwork was stronger...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            938,
+            348,
+            960,
+            398
+        ],
+        "text": "And...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            903,
+            568,
+            1091,
+            731
+        ],
+        "text": "Even if I limit her curse-warding magic...\nHer blood magic is strong all by itself!! With my blue roses...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

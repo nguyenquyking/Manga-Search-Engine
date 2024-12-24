@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            76,
+            181,
+            120,
+            279
+        ],
+        "text": "I NEVER THOUGHT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            465,
+            144,
+            574
+        ],
+        "text": "WAAAH!! KAWAMATSU!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            109,
+            634,
+            168,
+            722
+        ],
+        "text": "BANDIT'S BRIDGE,\nRINGO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            127,
+            95,
+            200,
+            174
+        ],
+        "text": "...THAT I\nWOULD MEET\nYOU AGAIN\nLIKE THIS!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            469,
+            68,
+            594,
+            200
+        ],
+        "text": "...IS THE\nGREATEST\nGIFT I COULD\nIMAGINE, LADY\nHIYORI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            600,
+            585,
+            717
+        ],
+        "text": "TO SEE\nYOU ALIVE\nAND WELL\nTHIS WAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            672,
+            62,
+            814,
+            230
+        ],
+        "text": "...I KNEW THAT\nYOU COULD SURVIVE\nON YOUR OWN, AND\nTREMBLED AT THE\nTHOUGHT OF YOU\nDYING JUST BECAUSE\nOF ME...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            681,
+            269,
+            780,
+            389
+        ],
+        "text": "...AND I SAW\nHOW YOU GREW\nWEAKER AND\nWEAKER OVER\nTHE YEARS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            679,
+            429,
+            806,
+            566
+        ],
+        "text": "I'M SO SORRY!\nI'M SORRY FOR\nGETTING SCARED\nAND RUNNING\nAWAY FROM\nYOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            612,
+            766,
+            733
+        ],
+        "text": "THAT'S RIGHT!\nSHE SAID THAT\nAFTER HER\nPARENTS DIED...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1029,
+            427,
+            1131,
+            570
+        ],
+        "text": "BUT WHEN\nYOU KEPT GIVING\nWHAT LITTLE FOOD\nYOU COULD FIND\nTO ME...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            612,
+            1126,
+            731
+        ],
+        "text": "...SHE WAS\nRAISED BY A\nKAPPA...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

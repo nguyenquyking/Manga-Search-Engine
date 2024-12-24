@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            230,
+            21,
+            269,
+            111
+        ],
+        "text": "WHAT\u2026!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            411,
+            647,
+            465
+        ],
+        "text": "THIS KID...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1055,
+            84,
+            1116,
+            185
+        ],
+        "text": "DIEEEE!!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

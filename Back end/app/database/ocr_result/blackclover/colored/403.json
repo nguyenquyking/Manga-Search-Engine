@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            64,
+            207,
+            98,
+            260
+        ],
+        "text": "THERE, SEE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            327,
+            59,
+            360,
+            111
+        ],
+        "text": "TOO SLOW.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            175,
+            1014,
+            263
+        ],
+        "text": "I CAN'T EVEN GET INTO THIS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            570,
+            1013,
+            671
+        ],
+        "text": "THERE'S TOO MUCH OF A POWER DIFFERENTIAL HERE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            59,
+            48,
+            85,
+            117
+        ],
+        "text": "KEEE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            45,
+            143,
+            66,
+            287
+        ],
+        "text": "WITH THE\nWHAT",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            313,
+            98,
+            434
+        ],
+        "text": "WE GOT A\nRIDE ON THE\nENEMY'S SHIP!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            473,
+            100,
+            581
+        ],
+        "text": "OTAMA,\nHOW DID YOU\nGET HERE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            670,
+            101,
+            716
+        ],
+        "text": "HEY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            90,
+            395,
+            185
+        ],
+        "text": "UGH!!\nWHAT'S\nWITH THIS\nBABOON?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            310,
+            635,
+            357,
+            726
+        ],
+        "text": "KYAOO!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            633,
+            32,
+            748,
+            168
+        ],
+        "text": "WHEREVER\nIN THE\nWORLD DID\nYOU COME\nFROM?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            668,
+            501,
+            745,
+            720
+        ],
+        "text": "KEEP THEM\nAT BAY FOR\nTHREE MINUTES,\nHIHIMARU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            58,
+            922,
+            181
+        ],
+        "text": "WE CAME\nHERE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            54,
+            1095,
+            184
+        ],
+        "text": "...AS\nSAMURAI\n!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            834,
+            362,
+            916,
+            526
+        ],
+        "text": "DON'T BELITTLE\nHIS POWER,\nONAMI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            576,
+            913,
+            725
+        ],
+        "text": "BUT THEY'RE\nFEROIOUS! THAT\nGIANT MONKEY'S\nIN TROUBLE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1090,
+            399,
+            1114,
+            450
+        ],
+        "text": "BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

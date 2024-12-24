@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            52,
+            56,
+            148,
+            133
+        ],
+        "text": "THREE-SWORD STYLE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            53,
+            421,
+            145,
+            531
+        ],
+        "text": "TANKYU-DON:",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            707,
+            124,
+            815
+        ],
+        "text": "SORRY, FRANKY, I NEED YOU TO STEP BACK!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            383,
+            58,
+            425,
+            136
+        ],
+        "text": "ULTRA...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            373,
+            721,
+            430,
+            801
+        ],
+        "text": "GOT IT!! HANG IN THERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            569,
+            699,
+            652,
+            836
+        ],
+        "text": "DIVINE RED ARCHER!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            759,
+            62,
+            872,
+            184
+        ],
+        "text": "TIGER HUNT!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1219,
+            765,
+            1255,
+            803
+        ],
+        "text": "!?",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            98,
+            107,
+            194,
+            213
+        ],
+        "text": "...that we have the only proper port in all of Wano!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            100,
+            613,
+            170,
+            716
+        ],
+        "text": "It is here in Hakumai...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            241,
+            64,
+            334,
+            173
+        ],
+        "text": "Some visitors mean us well, others mean us harm.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            422,
+            124,
+            454,
+            269
+        ],
+        "text": "RAAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            592,
+            64,
+            694,
+            153
+        ],
+        "text": "They are indeed the fiercest samurai in Wano...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            441,
+            641,
+            495,
+            726
+        ],
+        "text": "Therefore!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            611,
+            687,
+            743
+        ],
+        "text": "It is imperative that we have an invincible military force!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            76,
+            879,
+            257
+        ],
+        "text": "Besides, everyone says that the true heir after Koziki Sukiyaki passes will not be Oden!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            776,
+            331,
+            873,
+            478
+        ],
+        "text": "I was banished from the castle. Who knows if I'm even considered family anymore?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            535,
+            871,
+            701
+        ],
+        "text": "How long are you going to lollygag around here, Oden?! This is no time for idle admiration!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            55,
+            1009,
+            155
+        ],
+        "text": "It'll be Shogun Yasue!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1057,
+            561,
+            1144,
+            673
+        ],
+        "text": "You are the son of the Shogun, remember!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

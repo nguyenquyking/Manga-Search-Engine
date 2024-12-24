@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            188,
+            138,
+            249,
+            263
+        ],
+        "text": "...Then Tomura Shigaraki...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            491,
+            232,
+            669
+        ],
+        "text": "Only he and his vestige could interpret that correspondence at the time. So if we assume they discussed the true schedule...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            815,
+            153,
+            920,
+            273
+        ],
+        "text": "...will be a complete vessel in three days' time.",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

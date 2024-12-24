@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            21,
+            107,
+            18,
+            166
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            286,
+            439,
+            527,
+            702
+        ],
+        "text": "Bone x Spatial Magic:",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            385,
+            84,
+            449,
+            270
+        ],
+        "text": "VUM VUM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            753,
+            20,
+            861,
+            444
+        ],
+        "text": "Demon Sword Dainsleif",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1120,
+            610,
+            1101,
+            672
+        ],
+        "text": "VUMMM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

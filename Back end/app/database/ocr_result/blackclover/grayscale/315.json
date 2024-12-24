@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            57,
+            505,
+            192,
+            715
+        ],
+        "text": "AAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            104,
+            769,
+            200,
+            979
+        ],
+        "text": "He cast his technique on the sky?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            46,
+            408,
+            131
+        ],
+        "text": "This magic...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            532,
+            53,
+            644,
+            206
+        ],
+        "text": "Very bad news...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            327,
+            960,
+            389
+        ],
+        "text": "RUMBLE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1136,
+            609,
+            1257,
+            659
+        ],
+        "text": "00000000",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1235,
+            107,
+            1348,
+            231
+        ],
+        "text": "...The vast mana of nature!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1249,
+            800,
+            1336,
+            924
+        ],
+        "text": "Humans cannot match...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

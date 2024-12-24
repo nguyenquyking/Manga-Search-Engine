@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            84,
+            275,
+            210,
+            394
+        ],
+        "text": "STARTING WITH MY ORIGIN, SO TO SPEAK...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            569,
+            210,
+            703
+        ],
+        "text": "EVEN IF WHAT DABI SAYS ABOUT THE TODOROKI FAMILY IS TRUE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            535,
+            580,
+            649
+        ],
+        "text": "...I KNOW THINGS ARE DIFFERENT NOW.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            677,
+            485,
+            762,
+            558
+        ],
+        "text": "WELL? WHAT'S YOUR MOVE?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            111,
+            953,
+            348
+        ],
+        "text": "ENDEAVOR'S IN TROUBLE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            953,
+            480,
+            1072,
+            610
+        ],
+        "text": "THERE'S A LOT FOR ME TO CLEAN UP.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1114,
+            100,
+            1131,
+            355
+        ],
+        "text": "Next chapter hits Feb. 7!",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

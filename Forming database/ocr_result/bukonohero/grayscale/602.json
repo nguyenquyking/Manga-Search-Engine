@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            159,
+            25,
+            233,
+            156
+        ],
+        "text": "YOUR GUN BARREL'S BUSTED!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            364,
+            18,
+            491,
+            123
+        ],
+        "text": "IT'S OVER, LADY NAGANT!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            1070,
+            337,
+            1527
+        ],
+        "text": "FAUX 100 PERCENT: MANCHESTER!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            821,
+            362,
+            884,
+            575
+        ],
+        "text": "SMASH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

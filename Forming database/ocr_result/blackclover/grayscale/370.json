@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            872,
+            113,
+            1078,
+            624
+        ],
+        "text": "KRAAAASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1200,
+            49,
+            1377,
+            179
+        ],
+        "text": "I dunno how many of you there are, but I'll be the one to insta-kill you, so...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1208,
+            610,
+            1281,
+            727
+        ],
+        "text": "\"Wasting your time\"...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1360,
+            543,
+            1432,
+            624
+        ],
+        "text": "That's my line.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

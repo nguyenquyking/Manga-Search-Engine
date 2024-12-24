@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            132,
+            146,
+            176,
+            229
+        ],
+        "text": "Kaido, please!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            180,
+            73,
+            244,
+            131
+        ],
+        "text": "Stop fighting!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            613,
+            154,
+            697
+        ],
+        "text": "Onigashima",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            344,
+            399,
+            384,
+            669
+        ],
+        "text": "RAAAAH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            662,
+            45,
+            759,
+            173
+        ],
+        "text": "It's gone on all through the night!! The island can't take it!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            663,
+            209,
+            751,
+            297
+        ],
+        "text": "When is this fight going to finish?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            831,
+            24,
+            957,
+            120
+        ],
+        "text": "No fair, Master Queen, you're gonna run away!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            150,
+            930,
+            231
+        ],
+        "text": "Then I'll go and check on them.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            252,
+            919,
+            333
+        ],
+        "text": "Still no connection on the snail.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            364,
+            924,
+            587
+        ],
+        "text": "What kind of idiot runs away when the boss is fighting?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            617,
+            932,
+            717
+        ],
+        "text": "Should we actually evacuate to the mainland?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            364,
+            1129,
+            456
+        ],
+        "text": "Anyway, has there been any word from Udon yet?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            20,
+            1105,
+            110
+        ],
+        "text": "What?! I said \"Check on them\"!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

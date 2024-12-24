@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            117,
+            274,
+            148,
+            370
+        ],
+        "text": "ZWOOP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            60,
+            618,
+            431,
+            765
+        ],
+        "text": "HEART-BEAT...\n...WALL!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            370,
+            93,
+            443,
+            184
+        ],
+        "text": "Dang, he's fast!\nHey, Midoriya!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            545,
+            87,
+            662,
+            177
+        ],
+        "text": "I dunno if it'll matter, but for what it's worth...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            771,
+            267,
+            831,
+            362
+        ],
+        "text": "...It feels like I've got something to prove!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            774,
+            377,
+            861,
+            470
+        ],
+        "text": "\"I was so sure people would just call this a useless hobby, so...\"",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            777,
+            645,
+            938,
+            759
+        ],
+        "text": "...Remember when you helped me organize my notes and gave me tips for the school festival?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            540,
+            1059,
+            656
+        ],
+        "text": "You really helped me back",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            88,
+            1092,
+            214
+        ],
+        "text": "It might not seem like much, but I appreciated that so much!",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

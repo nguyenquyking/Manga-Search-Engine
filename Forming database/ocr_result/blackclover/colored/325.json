@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            546,
+            127,
+            669,
+            276
+        ],
+        "text": "Without the defense I gained from my spell, I would have been in trouble...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            709,
+            56,
+            858,
+            225
+        ],
+        "text": "They were adjusting their power on the fly... That is some extraordinary ability...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1079,
+            55,
+            1196,
+            144
+        ],
+        "text": "Where did they get off to?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            969,
+            228,
+            1029,
+            298
+        ],
+        "text": "Now then...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            673,
+            981,
+            718
+        ],
+        "text": "Phew...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            276,
+            117,
+            300,
+            401
+        ],
+        "text": "Novairah art",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            276,
+            504,
+            305,
+            742
+        ],
+        "text": "Twitter | Instagram",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            672,
+            61,
+            750,
+            137
+        ],
+        "text": "Ain't here...!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            599,
+            516,
+            669,
+            618
+        ],
+        "text": "Lord Julius's body...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            694,
+            466,
+            849
+        ],
+        "text": "...What the hell...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            86,
+            969,
+            422
+        ],
+        "text": "Color Clover",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            941,
+            567,
+            972,
+            674
+        ],
+        "text": "Twitter",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1010,
+            13,
+            1116,
+            152
+        ],
+        "text": "This magic-",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            763,
+            1108,
+            882
+        ],
+        "text": "His body was definitely here, but...",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

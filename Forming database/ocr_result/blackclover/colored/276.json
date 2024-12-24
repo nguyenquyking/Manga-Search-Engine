@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            143,
+            127,
+            258,
+            202
+        ],
+        "text": "SO YOU'VE RETURNED AFTER ALL...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            354,
+            141,
+            375,
+            284
+        ],
+        "text": "FATHER, NATHAN",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            178,
+            729,
+            235,
+            790
+        ],
+        "text": "WELCOME HOME, GORDON.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            452,
+            495,
+            585
+        ],
+        "text": "MOTHER, YONNA",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            347,
+            816,
+            400,
+            860
+        ],
+        "text": "BIG BROTHER...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            698,
+            559,
+            717,
+            756
+        ],
+        "text": "LITTLE SISTER, ROXANNE",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            742,
+            237,
+            761,
+            431
+        ],
+        "text": "GRANDMOTHER, NIRENIA",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            932,
+            72,
+            1193,
+            263
+        ],
+        "text": "THEY ALL HAVE THE SAME FACE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

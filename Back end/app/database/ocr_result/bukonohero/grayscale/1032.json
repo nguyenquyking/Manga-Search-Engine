@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            101,
+            501,
+            172,
+            663
+        ],
+        "text": "I was hoping to chat with Tsuyu too.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            342,
+            66,
+            446,
+            185
+        ],
+        "text": "Because Tsuyu's my cute and precious friend.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            588,
+            577,
+            628,
+            672
+        ],
+        "text": "And with Izuku.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            632,
+            405,
+            728,
+            561
+        ],
+        "text": "I love him when he's all beat-up, which is, like, always! He's so cool!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            67,
+            1001,
+            171
+        ],
+        "text": "So you gotta tell me...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1015,
+            309,
+            1076,
+            401
+        ],
+        "text": "I wanna be just like you.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            497,
+            1060,
+            635
+        ],
+        "text": "I love how cute you are too, Ochaco.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

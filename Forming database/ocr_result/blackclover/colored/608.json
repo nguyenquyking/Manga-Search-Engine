@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            34,
+            15,
+            94,
+            99
+        ],
+        "text": "It's pitch-black...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            207,
+            143,
+            229,
+            184
+        ],
+        "text": "SKASH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            76,
+            1039,
+            380,
+            1258
+        ],
+        "text": "Mana Zone:\nDark Prison\nHunting Ground",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            701,
+            61,
+            724,
+            121
+        ],
+        "text": "This is...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            104,
+            1665,
+            224,
+            1823
+        ],
+        "text": "THE PARTY'S OVER!!\nGRAB YOUR WEAPONS!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            92,
+            1909,
+            233,
+            2054
+        ],
+        "text": "EVERY LAST DRUNK ON ONIGASHIMA,\nLISTEN UP!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            212,
+            863,
+            340,
+            989
+        ],
+        "text": "WO RO\nRO RO\nRO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            1693,
+            692,
+            1947
+        ],
+        "text": "LET'S DO IT!!\nLET'S TAKE BACK OUR WANO!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            78,
+            934,
+            172
+        ],
+        "text": "SIR\nLUFFY\n!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            168,
+            1257,
+            343
+        ],
+        "text": "KIN'EMON!!\nI'LL CATCH\nUP LATER!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1156,
+            411,
+            1257,
+            582
+        ],
+        "text": "MUCH\nAPPRECIATED\n!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1145,
+            1284,
+            1344,
+            1503
+        ],
+        "text": "I'LL SHOW\nYOU THE\nGREATEST\nARMY IN THE\nWORLD!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            1629,
+            1152,
+            1842
+        ],
+        "text": "I HEARD\nTHAT, STRAW\nHAT!! DO IT...\nI ACCEPT YOUR\nCHALLENGE!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            1926,
+            1104,
+            2069
+        ],
+        "text": "WO RO\nRO RO\nRO RO!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1302,
+            1610,
+            1364,
+            1689
+        ],
+        "text": "WHOA\n!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

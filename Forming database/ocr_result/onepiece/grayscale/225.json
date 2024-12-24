@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            46,
+            84,
+            107,
+            176
+        ],
+        "text": "CIPHER POL!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            235,
+            238,
+            250,
+            290
+        ],
+        "text": "BAM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            443,
+            44,
+            550,
+            148
+        ],
+        "text": "...The remnants of Whitebeard's crew to run free, after their historic crimes...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            440,
+            175,
+            519,
+            282
+        ],
+        "text": "Given my job, I shouldn't be allowing...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            613,
+            41,
+            715,
+            159
+        ],
+        "text": "But we're only here to deal with the Straw Hat Pirates.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            431,
+            420,
+            510,
+            525
+        ],
+        "text": "We never saw each other today, Izo.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            425,
+            583,
+            488,
+            708
+        ],
+        "text": "That's right... We're Aegis Zero.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            575,
+            485,
+            590,
+            533
+        ],
+        "text": "BOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            662,
+            600,
+            721,
+            694
+        ],
+        "text": "I knew you were here, but...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            29,
+            1088,
+            146
+        ],
+        "text": "Don't go yet.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            407,
+            875,
+            500
+        ],
+        "text": "No, CPO...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            636,
+            867,
+            722
+        ],
+        "text": "Until we meet again, another day...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

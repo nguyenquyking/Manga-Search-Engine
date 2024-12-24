@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            61,
+            499,
+            150,
+            620
+        ],
+        "text": "I'M GLAD I MADE IT IN TIME!! YOU'RE SAFE NOW.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            670,
+            120,
+            745
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            366,
+            55,
+            464,
+            168
+        ],
+        "text": "YOU'RE THE PARTIES FROM DRESSROSA AND PRODENCE, YES?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            198,
+            432,
+            266
+        ],
+        "text": "IS ANYONE HURT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            55,
+            813,
+            181
+        ],
+        "text": "WHAT JUST HAPPENED? WHERE DID YOU COME FROM?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            202,
+            788,
+            278
+        ],
+        "text": "A MARINE OFFICER...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            315,
+            843,
+            435
+        ],
+        "text": "TMP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            738,
+            618,
+            781,
+            722
+        ],
+        "text": "MARINE HQ CAPTAIN KOBY",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            912,
+            49,
+            981,
+            137
+        ],
+        "text": "HOW'S IT GOING OVER THERE, HELMEPPO?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            921,
+            159,
+            940,
+            186
+        ],
+        "text": "ME TOO!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            908,
+            226,
+            1005,
+            361
+        ],
+        "text": "YOUR SHIP WAS JUST UNDER ATTACK FROM PIRATES UNDER THE SURFACE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1063,
+            233,
+            1126,
+            345
+        ],
+        "text": "A TORPEDO?! I'M GLAD IT MISSED.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            623,
+            973,
+            737
+        ],
+        "text": "MY SHIP'S IN THE DISTANCE, OF COURSE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            622,
+            1129,
+            731
+        ],
+        "text": "YOU MUST BE TIRED FROM YOUR LONG JOURNEY, I IMAGINE!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            111,
+            56,
+            125,
+            111
+        ],
+        "text": "SNFF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1061,
+            105,
+            1113,
+            250
+        ],
+        "text": "MASTER'S SCENT.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            734,
+            435,
+            814,
+            515
+        ],
+        "text": "HE STOOD UP!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1399,
+            171,
+            1419,
+            510
+        ],
+        "text": "Next chapter hits May 24!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

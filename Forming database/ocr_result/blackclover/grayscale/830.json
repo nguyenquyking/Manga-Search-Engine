@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            82,
+            67,
+            186,
+            169
+        ],
+        "text": "What is this guy?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            627,
+            19,
+            697,
+            136
+        ],
+        "text": "...For these Supreme Devils!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            361,
+            711,
+            460
+        ],
+        "text": "I could never have been a match...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            574,
+            590,
+            739,
+            737
+        ],
+        "text": "I was the weakest one in the first level of the Underworld.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

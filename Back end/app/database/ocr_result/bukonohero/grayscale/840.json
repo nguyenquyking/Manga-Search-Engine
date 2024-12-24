@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            26,
+            193,
+            105,
+            316
+        ],
+        "text": "ENDEAVOR DOESN'T HAVE AN EMPATHETIC BONE IN HIS BODY.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            24,
+            590,
+            73,
+            699
+        ],
+        "text": "\"BUT ALAS, I WAS A FAILED CREATION!\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            147,
+            466,
+            245,
+            595
+        ],
+        "text": "\"IT DIDN'T TAKE LONG FOR HIM TO REJECT ME. I WAS TOSSED ASIDE AND FORGOTTEN.\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            109,
+            89,
+            258,
+            223
+        ],
+        "text": "AT HIS CORE, HE'S ADDICTED TO THE LIMELIGHT. A MAN WHO WALLOWS IN HIS OWN SMALL-MINDEDNESS AND SELF-IMPORTANCE!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            105,
+            382,
+            228
+        ],
+        "text": "...EVERYTHING I'VE SOWED!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            352,
+            596,
+            422,
+            690
+        ],
+        "text": "IT'S ALL TRUE. I'M JUST REAPING...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            651,
+            62,
+            737,
+            172
+        ],
+        "text": "MY SON'S A MASS MURDERER, YET...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            66,
+            1017,
+            126
+        ],
+        "text": "...I CAN'T FIGHT HIM.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            583,
+            729,
+            682
+        ],
+        "text": "I MIGHT GET TO LIVE ON...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            559,
+            1088,
+            665
+        ],
+        "text": "...BUT ENDEAVOR DIED BACK THERE.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

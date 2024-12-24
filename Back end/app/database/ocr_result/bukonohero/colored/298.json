@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            62,
+            135,
+            130,
+            259
+        ],
+        "text": "...you'd remember that rage.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            98,
+            757,
+            128,
+            830
+        ],
+        "text": "If only...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

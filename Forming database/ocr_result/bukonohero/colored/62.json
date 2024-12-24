@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            215,
+            612,
+            270,
+            693
+        ],
+        "text": "So the only way to get rid of this guy...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            216,
+            715,
+            292,
+            787
+        ],
+        "text": "And he'd never answer if I asked for his real name.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            216,
+            804,
+            267,
+            871
+        ],
+        "text": "Taking any more damage is pointless.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            421,
+            53,
+            554,
+            267
+        ],
+        "text": "...is busting him down to atoms!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            646,
+            841,
+            761,
+            1096
+        ],
+        "text": "CLAP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

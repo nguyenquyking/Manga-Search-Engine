@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            122,
+            77,
+            245,
+            221
+        ],
+        "text": "YOU\nTRIED TO\nMANIPULATE\nUS?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            181,
+            330,
+            189,
+            403
+        ],
+        "text": "WHACK!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            91,
+            596,
+            152,
+            711
+        ],
+        "text": "OUTSIDE\nOF BAKURA\nTOWN, KURI",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            225,
+            528,
+            337,
+            694
+        ],
+        "text": "Kibi\nKuri\nOni\nFC\nUdon\nHakumai\nRingo",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            423,
+            60,
+            498,
+            217
+        ],
+        "text": "WAIT, ASHURA!!\nWE WERE IN\nTHE WRONG!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            260,
+            481,
+            358
+        ],
+        "text": "KIN'EMON\n!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            560,
+            448,
+            644
+        ],
+        "text": "OOF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            516,
+            606,
+            624,
+            728
+        ],
+        "text": "THEY\nBURNED\nDOWN OUR\nMOUNTAIN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            57,
+            902,
+            267
+        ],
+        "text": "...AND SO I ARROGANTLY\nPRESUMED YOU WOULD\nHELP IF I INVOKED THE\nSAKE OF OUR LIEGE!! AND\nWHEN TIME PRESSED, I\nFORCED THE ISSUE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            778,
+            501,
+            914,
+            669
+        ],
+        "text": "IT'S TRUE!\nI SHOULD HAVE\nSWALLOWED MY\nPRIDE AND BEGGED\nYOU FROM THE\nSTART!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            686,
+            822,
+            738
+        ],
+        "text": "KOFF\n!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            997,
+            47,
+            1083,
+            176
+        ],
+        "text": "FORGIVE\nME,\nASHURA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            544,
+            1126,
+            674
+        ],
+        "text": "IT NEVER\nOCCURRED TO\nME THAT 20\nLONG YEARS\nCAN CHANGE\nA MAN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1110,
+            302,
+            1134,
+            366
+        ],
+        "text": "GONK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

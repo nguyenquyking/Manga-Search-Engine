@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            88,
+            88,
+            243,
+            231
+        ],
+        "text": "AN ENORMOUS, FREAKISH APPARITION HAS APPEARED ON THE SECOND FLOOR OF THE CASTLE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            322,
+            54,
+            394
+        ],
+        "text": "RAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            93,
+            622,
+            146,
+            733
+        ],
+        "text": "REPORT!! REPORT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            282,
+            471,
+            371
+        ],
+        "text": "THE CREATURE IS PASSING THROUGH WALLS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            482,
+            387,
+            528,
+            465
+        ],
+        "text": "...BIT BY BIT!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            511,
+            314,
+            550,
+            370
+        ],
+        "text": "HUFF, HUFF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            375,
+            626,
+            430,
+            706
+        ],
+        "text": "ALL I CAN DO IS BUILD THEM UP...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            550,
+            63,
+            638,
+            172
+        ],
+        "text": "...GLIDING ABOUT LIKE SOME KIND OF GHOST!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            766,
+            116,
+            777,
+            193
+        ],
+        "text": "RAAAAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            756,
+            539,
+            849,
+            684
+        ],
+        "text": "STOMP-TROMP\nSTOMP-TROMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1009,
+            184,
+            1099,
+            302
+        ],
+        "text": "THE CASTLE IS NOW A SEA OF FLAMES!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

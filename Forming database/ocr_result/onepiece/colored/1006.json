@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            81,
+            25,
+            154,
+            131
+        ],
+        "text": "HE'S GOT ZOMBIES!!\nAAARGH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            19,
+            279,
+            105
+        ],
+        "text": "HELP\nMEEE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            601,
+            172,
+            697
+        ],
+        "text": "GET\nOUT HERE,\nBLACK-\nBEARD!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            489,
+            31,
+            631,
+            160
+        ],
+        "text": "THAT'S GECKO\nMORIA, CAP'N\nPIZARRO! THE\nFORMER\nWARLORD OF\nTHE SEA!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            480,
+            625,
+            585,
+            692
+        ],
+        "text": "SEEMS\nKINDA\nNOISY\nDOWN\nTHERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            164,
+            855,
+            273
+        ],
+        "text": "...AND THAT\nINVISIBLE\nMAN NAMED\nABSALOM WHO\nSHOWED UP\nTHE OTHER\nDAY!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            733,
+            291,
+            826,
+            410
+        ],
+        "text": "HE'S\nLOOKING FOR\nADMIRAL\nTEACH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            438,
+            802,
+            591
+        ],
+        "text": "THE DECISION\nWAS MADE FOR US!\nHE WIPED OUT THE\nENTIRE PORT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            616,
+            790,
+            703
+        ],
+        "text": "WHY'D YA\nLET HIM\nTHROUGH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1050,
+            50,
+            1111,
+            123
+        ],
+        "text": "OH,\nHIM...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            203,
+            1135,
+            433
+        ],
+        "text": "FOURTH SHIP CAPTAIN OF\nTHE BLACKBEARD PIRATES\n\"CORRUPT KING\"\nAVALO PIZARRO",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            19,
+            143,
+            75,
+            553
+        ],
+        "text": "START!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            101,
+            609,
+            160,
+            671
+        ],
+        "text": "YOU MAY BEGIN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            429,
+            61,
+            586,
+            171
+        ],
+        "text": "All these obstacles block his lines of sight, so I'll exploit a blind spot and...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            449,
+            472,
+            585,
+            586
+        ],
+        "text": "Given the power gap between us, my best bet is a sneak attack!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            428,
+            616,
+            547,
+            727
+        ],
+        "text": "Landing an attack on Endeavor? In this maze-like arena...?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            472,
+            375,
+            498,
+            417
+        ],
+        "text": "DASH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            225,
+            78,
+            408,
+            467
+        ],
+        "text": "Fischer's \u00d7 ONE PIECE\n7\u3064\u306a\u304e\u306e\u5927\u79d8\u5b9d",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            411,
+            92,
+            439,
+            374
+        ],
+        "text": "\u30d5\u30a3\u30c3\u30b7\u30e3\u30fc\u30ba\u304cOP\u306e\n\u4ef2\u9593\u306b\uff01\u305d\u308c\u3060\u3051\u3067\n\u5fc3\u5f37\u3044\uff01\u5bb4\u3060\u30fc\uff01\uff01",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            325,
+            715,
+            590
+        ],
+        "text": "\u30ef\u30f3\u30d4\u30fc\u30b9\n\u30d1\u30fc\u30c6\u30a3\u30fc",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            561,
+            607,
+            655,
+            721
+        ],
+        "text": "\u4f5c\u8005\u304c\u3059\u3067\u306b\u30de\u30cb\u30a2\u30c3\u30af\uff01\n\u539f\u4f5c\u3067\u306f\u5b9f\u73fe\u3057\u306a\u3044\u5984\u60f3\u304c\n\u6bce\u5ea6\u7206\u767a\u3057\u3066\u307e\u3059\uff01\uff01",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            859,
+            79,
+            976,
+            476
+        ],
+        "text": "CHINPIECE\n\u30eb\u30d5\u30a3\u306b\u61a7\u308c\u308b\u30c1\u30f3\u30d4\u30a3\u304c\u25cf\u30b3\u306e\u751f\u3092\u76ee\u6307\u3059!!\n\u307e\u3055\u304b\u306e\u516c\u5f0f\u30ae\u30e3\u30b0\u30de\u30f3\u30ac\uff01\u30ef\u30f3\u30d4\u30fc\u30b9\u3054\u4e71\u5fc3!?",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1023,
+            97,
+            1054,
+            369
+        ],
+        "text": "\u3053\u308c\u3092\u516c\u5f0f\u3068\u8a8d\u3081\u305f\u4e8b\n\u672c\u5f53\u306b\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u3002\n\u54c1\u304c\u306a\u3044!!\u3067\u3082\u7b11\u3063\u3066\n\u3057\u307e\u3063\u305f\uff65\uff65\uff65",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1171,
+            3,
+            1194,
+            315
+        ],
+        "text": "\u203bP198-P207\u306e\u60c5\u5831\u306f\u30012018\u5e749\u6708\u73fe\u5728\u306e\u3082\u306e\u3067\u3059\u3002",
+        "panel_id": "4",
+        "type": "note"
+    }
+]

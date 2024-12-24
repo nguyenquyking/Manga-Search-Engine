@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            2,
+            55,
+            22,
+            208
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            107,
+            845,
+            196,
+            935
+        ],
+        "text": "BEST JEANIST AND HAWKS!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            324,
+            262,
+            339,
+            314
+        ],
+        "text": "FWP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            359,
+            708,
+            423,
+            843
+        ],
+        "text": "SINCE I WAS DISCHARGED YESTERDAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            482,
+            631,
+            593,
+            763
+        ],
+        "text": "...I'VE BEEN RUNNING AROUND GATHERING INTEL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            320,
+            845,
+            479
+        ],
+        "text": "NO, NO, NO! I AIN'T HERE TO GIVE YOU GRIEF ABOUT THAT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            947,
+            297,
+            1011,
+            418
+        ],
+        "text": "NO NEED TO APOLOGIZE, MA'AM!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            764,
+            908,
+            918
+        ],
+        "text": "I'M TERRIBLY SORRY...FOR WHAT OUR SON DID TO YOU.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1130,
+            219,
+            1144,
+            268
+        ],
+        "text": "FWSH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1141,
+            65,
+            1206,
+            149
+        ],
+        "text": "WHAT'S ILLEGAL DENIM?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1176,
+            300,
+            1330,
+            473
+        ],
+        "text": "WE ARE ONLY HERE TO INQUIRE ABOUT DABI! BUT EAVESDROPPING FEELS RATHER CRIMINAL, LIKE ILLEGAL DENIM...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

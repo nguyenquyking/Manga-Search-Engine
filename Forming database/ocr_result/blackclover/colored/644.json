@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            18,
+            194,
+            71,
+            319
+        ],
+        "text": "WHAT PHENOMENAL MAGIC...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            124,
+            403,
+            152,
+            432
+        ],
+        "text": "!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            149,
+            24,
+            241,
+            106
+        ],
+        "text": "IT'S AS IF HER BODY ITSELF...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            325,
+            41,
+            448,
+            231
+        ],
+        "text": "...HAS BECOME MANA!!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

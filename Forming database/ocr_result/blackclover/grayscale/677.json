@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            38,
+            118,
+            96,
+            186
+        ],
+        "text": "If I didn't exist...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            607,
+            188,
+            731
+        ],
+        "text": "Using spatial magic, he takes full control of the mana within that space!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            261,
+            275,
+            380,
+            381
+        ],
+        "text": "He even interferes with and blocks the mana in his opponent's spells!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            311,
+            19,
+            451,
+            116
+        ],
+        "text": "...It's likely you would have been the ultimate spatial mage.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            564,
+            34,
+            705,
+            349
+        ],
+        "text": "Spatial Magic: Archangel's Destruction",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            591,
+            483,
+            595,
+            532
+        ],
+        "text": "VWORP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            961,
+            77,
+            1033,
+            158
+        ],
+        "text": "...Who talked down to me!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            893,
+            611,
+            969,
+            722
+        ],
+        "text": "It's been a long time since I met anyone...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1085,
+            229,
+            1085,
+            299
+        ],
+        "text": "00000",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

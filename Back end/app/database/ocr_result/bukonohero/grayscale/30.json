@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            390,
+            1030,
+            397,
+            1085
+        ],
+        "text": "KSHNK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            633,
+            515,
+            658,
+            556
+        ],
+        "text": "FWMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1119,
+            59,
+            1133,
+            230
+        ],
+        "text": "To be continued!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

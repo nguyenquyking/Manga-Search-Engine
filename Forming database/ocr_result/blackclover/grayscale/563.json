@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            776,
+            86,
+            881,
+            297
+        ],
+        "text": "...you'd release me voluntarily!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            707,
+            763,
+            822,
+            917
+        ],
+        "text": "Who'd have thought...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1312,
+            94,
+            1372,
+            195
+        ],
+        "text": "...and win.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1273,
+            782,
+            1392,
+            888
+        ],
+        "text": "You fight the devil...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

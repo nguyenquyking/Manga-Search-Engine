@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            113,
+            824,
+            255,
+            1002
+        ],
+        "text": "If there's no chance that she'll get stronger...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            184,
+            467,
+            265,
+            589
+        ],
+        "text": "Failures like you...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            657,
+            285,
+            778
+        ],
+        "text": "It would be best to shut her away.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            268,
+            49,
+            398,
+            167
+        ],
+        "text": "...Aren't needed on the battle-field.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            584,
+            605,
+            784,
+            749
+        ],
+        "text": "Why did Mother have to die giving birth to someone like you?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            825,
+            850,
+            1003
+        ],
+        "text": "If she's just going to end up feeling the way I do, I should distance her from the fight...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            28,
+            845,
+            335
+        ],
+        "text": "No. You killed our Mother!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1091,
+            288,
+            1279,
+            419
+        ],
+        "text": "I'm a coward. I'm not confident or determined enough to protect anything.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1085,
+            578,
+            1200,
+            708
+        ],
+        "text": "I was afraid of losing more, and I ran.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1250,
+            34,
+            1493,
+            174
+        ],
+        "text": "At this point, I have no right to involve myself with you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1261,
+            893,
+            1347,
+            1008
+        ],
+        "text": "I killed her!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1377,
+            741,
+            1514,
+            854
+        ],
+        "text": "I'm useless. I couldn't do a thing.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

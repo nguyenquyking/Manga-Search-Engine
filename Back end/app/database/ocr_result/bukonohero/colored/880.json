@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            18,
+            11,
+            89,
+            107
+        ],
+        "text": "I'm just as perplexed and astonished as you, La Brava.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            19,
+            209,
+            81,
+            282
+        ],
+        "text": "That was extremely violent, gentle...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            308,
+            157,
+            382,
+            241
+        ],
+        "text": "He must be even more frightening!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            48,
+            417,
+            147
+        ],
+        "text": "I am sorry, young man! But I must be off!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            328,
+            549,
+            434,
+            652
+        ],
+        "text": "Namely, if he can withstand a blow of that magnitude despite his appearance,",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            596,
+            191,
+            710,
+            250
+        ],
+        "text": "I'm afraid that's out of the question!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            601,
+            275,
+            766,
+            369
+        ],
+        "text": "Then don't lay a hand on the school!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            622,
+            637,
+            705
+        ],
+        "text": "If you want to apologize",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            3,
+            964,
+            84
+        ],
+        "text": "Gently",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

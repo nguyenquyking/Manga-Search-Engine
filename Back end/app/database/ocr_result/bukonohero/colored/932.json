@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            82,
+            207,
+            105,
+            279
+        ],
+        "text": "Deku...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            146,
+            676,
+            183,
+            773
+        ],
+        "text": "Must feel awful...",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

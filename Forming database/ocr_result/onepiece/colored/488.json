@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            70,
+            114,
+            181,
+            200
+        ],
+        "text": "...to conduct deals of some kind.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            186,
+            35,
+            296,
+            119
+        ],
+        "text": "My mind went blank for minutes after I saw it.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            579,
+            204,
+            684
+        ],
+        "text": "It would mean that the government's coming to pirate-led Wano...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            429,
+            152,
+            526,
+            266
+        ],
+        "text": "I'm on my way to the Island of Women...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            2,
+            537,
+            129
+        ],
+        "text": "...to capture the Pirate Empress, Boa Hancock!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            590,
+            488,
+            685
+        ],
+        "text": "Where are you now?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            52,
+            838,
+            190
+        ],
+        "text": "...There was one news story that stunned all who heard it most of all.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            889,
+            100,
+            1009,
+            249
+        ],
+        "text": "Are they sure about this?! That was one of the Three Great Powers of the world!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            681,
+            308,
+            796,
+            408
+        ],
+        "text": "Heh heh! Those government lapdogs are going bye-bye!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            742,
+            462,
+            822,
+            570
+        ],
+        "text": "They should have done this a long time ago!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            605,
+            739,
+            686
+        ],
+        "text": "But all over the world...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            801,
+            583,
+            890,
+            698
+        ],
+        "text": "It was wrong to have worked with pirates in the first place!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1029,
+            304,
+            1131,
+            409
+        ],
+        "text": "Stupid Pirate Empress!! Hawk Eyes!! Clown!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

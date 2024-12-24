@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            44,
+            361,
+            89,
+            411
+        ],
+        "text": "ANY-ONE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            665,
+            88,
+            710
+        ],
+        "text": "HELP...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            129,
+            0,
+            166,
+            68
+        ],
+        "text": "PRINCE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            140,
+            485,
+            232,
+            540
+        ],
+        "text": "IS ANY-\nBODY\nTHERE\n!!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            407,
+            756,
+            452,
+            839
+        ],
+        "text": "SEKRE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            7,
+            832,
+            136
+        ],
+        "text": "HURRY,\nGET ME OUT\nOF THESE\nBINDINGS!!\nYOU CAN DO IT\nWITH YOUR\nSEALING",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            246,
+            887,
+            388
+        ],
+        "text": "THE\nMAGIC\nTOOLS WE\nMADE...\nTHEY'RE\nGON!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            773,
+            775,
+            860
+        ],
+        "text": "YOU'RE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            406,
+            891,
+            527
+        ],
+        "text": "THAT\nREALLY\nWASN'T\nYOU AFTER\nALL...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            408,
+            1001,
+            816
+        ],
+        "text": "Twitter:BlackCloverTeam",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1167,
+            503,
+            1273,
+            637
+        ],
+        "text": "SEALING\nMAGIC:",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1207,
+            21,
+            1271,
+            162
+        ],
+        "text": "UNBIND",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

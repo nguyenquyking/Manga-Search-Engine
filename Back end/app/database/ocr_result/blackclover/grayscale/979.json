@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            125,
+            96,
+            187,
+            263
+        ],
+        "text": "MIMOSA CAN DO IT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            545,
+            1053,
+            661
+        ],
+        "text": "I'M NOT LETTING ANYONE DIE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

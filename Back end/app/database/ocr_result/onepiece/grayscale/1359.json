@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            66,
+            99,
+            239,
+            256
+        ],
+        "text": "Was that Sir Luffy's voice?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            360,
+            226,
+            529
+        ],
+        "text": "An explosion in the mist?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            95,
+            1208,
+            228,
+            1326
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            244,
+            917,
+            285,
+            1048
+        ],
+        "text": "Aaaa...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            106,
+            1015,
+            404
+        ],
+        "text": "Many of their soldiers are busy having a party there during the fire festival!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            814,
+            493,
+            1000,
+            699
+        ],
+        "text": "The torii in front of the island is a small fortress!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1179,
+            90,
+            1354,
+            313
+        ],
+        "text": "If they receive word about our raid...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            814,
+            1035,
+            864,
+            1324
+        ],
+        "text": "Curses!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1278,
+            995,
+            1388,
+            1311
+        ],
+        "text": "I didn't warn them about the guards at the torii gate!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1337,
+            849,
+            1427,
+            938
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1533,
+            95,
+            1641,
+            188
+        ],
+        "text": "Huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1507,
+            239,
+            1632,
+            404
+        ],
+        "text": "BAKA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1537,
+            587,
+            1620,
+            751
+        ],
+        "text": "No!! Was that them?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1542,
+            856,
+            1728,
+            1013
+        ],
+        "text": "Sir Luffy!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1544,
+            1116,
+            1710,
+            1306
+        ],
+        "text": "Oh, no!! Then we'll be sitting ducks!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

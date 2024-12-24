@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            63,
+            62,
+            178,
+            247
+        ],
+        "text": "THAT MAN HAS TRUE CHIVALROUS SPIRIT, FULL OF HONOR, PROTECTING THE WEAK AND STANDING FIRM AGAINST THE FOOLISH AND MIGHTY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            228,
+            65,
+            350,
+            159
+        ],
+        "text": "IF I DON'T RESPOND HONORABLY IN KIND, THE WORSE I LOOK!!!",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            76,
+            343,
+            174,
+            440
+        ],
+        "text": "I WOULD RATHER DIE THAN TELL YOU!! YOUNG PUNK...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            477,
+            354,
+            551
+        ],
+        "text": "GULP\nHUFF, HUFF...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            62,
+            585,
+            166,
+            722
+        ],
+        "text": "WHO DID YOU GET THE TICKETS FROM?! NAME YOUR CO-CONSPIRATOR!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            579,
+            354,
+            738
+        ],
+        "text": "OLD MAN HYO!!\nTHIS IS JUST CRUEL...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            59,
+            552,
+            162
+        ],
+        "text": "THIS IS THE LAND OF SAMURAI!!\nTHERE WERE MANY OF THEM, ONCE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            438,
+            190,
+            548,
+            347
+        ],
+        "text": "IT'S BEEN A LONG TIME SINCE HYOGORO THE FLOWER FELT SO FULFILLED IN STOMACH AND SPIRIT!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            439,
+            510,
+            534,
+            634
+        ],
+        "text": "MEETING HIM TOOK ME BACK TO THE OLD DAYS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            663,
+            537,
+            735
+        ],
+        "text": "SO GO ON AND KILL ME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            64,
+            752,
+            192
+        ],
+        "text": "AND THEN YOU CAME ALONG AND KILLED THEM ALL!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            826,
+            54,
+            915,
+            116
+        ],
+        "text": "OLD MAN!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            266,
+            920,
+            344
+        ],
+        "text": "STOP!!\nDON'T HIT THE GUARD...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            421,
+            894,
+            505
+        ],
+        "text": "WE COULDN'T BEAT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            627,
+            882,
+            741
+        ],
+        "text": "HEY! STOP, LUFFYTARO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            62,
+            1059,
+            127
+        ],
+        "text": "DON'T!\nI...I CAN'T...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1003,
+            184,
+            1044,
+            241
+        ],
+        "text": "WAIT...\nNO...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            277,
+            1136,
+            374
+        ],
+        "text": "...OR THEY'LL PUT YOU TO DEATH AT ONCE, LUFFYTARO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1069,
+            402,
+            1134,
+            506
+        ],
+        "text": "...THE MIGHT OF THE FOOLISH...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            24,
+            57,
+            93,
+            644
+        ],
+        "text": "\u3079\u3093\u3079\u3093\nBENG BENG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            77,
+            443,
+            162,
+            539
+        ],
+        "text": "I SHALL\nPERFORM...\nMY FINAL\nDANCE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            625,
+            149,
+            708
+        ],
+        "text": "AS YOU\nWISH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            125,
+            322,
+            226,
+            430
+        ],
+        "text": "THE\nGLORIOUS\nDEATH OF THE\nKUROZUMI\nCLAN!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            136,
+            240,
+            154,
+            302
+        ],
+        "text": "THUD...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            156,
+            422,
+            304,
+            690
+        ],
+        "text": "\u3069\u308d\u308d\u3093\nBE-BE-BENG\nGLOOM\nBE-BE-BENG\nBE-BE-BENG\nBE-BE-BENG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            512,
+            619,
+            519,
+            647
+        ],
+        "text": "CRAK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            528,
+            55,
+            555,
+            193
+        ],
+        "text": "KAZENBO.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            743,
+            578,
+            793,
+            657
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            818,
+            49,
+            917,
+            158
+        ],
+        "text": "WHAT\nIS THAT\nMONSTER?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            575,
+            944,
+            703
+        ],
+        "text": "DON'T TOUCH\nIT, OR YOU'LL\nCATCH ON\nFIRF!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            974,
+            310,
+            988,
+            348
+        ],
+        "text": "BE-BENG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

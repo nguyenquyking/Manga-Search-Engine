@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            456,
+            1001,
+            860,
+            1424
+        ],
+        "text": "SEA DRAGON'S ROAR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            905,
+            118,
+            1370,
+            367
+        ],
+        "text": "YOU CAN KEEP SHOWING OFF, BUT WE WON'T BACK DOWN!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1421,
+            109,
+            1464,
+            1357
+        ],
+        "text": "ARTIST: @iluvluvnutella (twitter/tumblr)\nTEAM: @ColorClovers",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1511,
+            86,
+            1677,
+            296
+        ],
+        "text": "SO I WON'T GET DRAGGED DOWN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1542,
+            1194,
+            1703,
+            1397
+        ],
+        "text": "I NEED TO CONSERVE MY ANTI-MAGIC...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            54,
+            320,
+            162,
+            405
+        ],
+        "text": "LIKE HELL THAT WAS YOU, WEDGE. I SHOT FIRST!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            649,
+            136,
+            736
+        ],
+        "text": "THAT GOT HIM! GOOD SHOT, ME!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            163,
+            204,
+            251,
+            259
+        ],
+        "text": "DON'T GET COCKY JUST YET!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            342,
+            88,
+            435,
+            203
+        ],
+        "text": "REFLECT PLUS SCATTER!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

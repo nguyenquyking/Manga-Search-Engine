@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            77,
+            322,
+            128,
+            365
+        ],
+        "text": "GIVE THAT BACK!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            610,
+            186,
+            707
+        ],
+        "text": "YOU'RE LUCKY WE CAME ALONG. MOST PEOPLE WOULD BE THANKING US...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            167,
+            92,
+            257,
+            156
+        ],
+        "text": "WAIT A MINUTE! NEVER MIND THAT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            190,
+            549,
+            274,
+            634
+        ],
+        "text": "SO WHAT'RE YOU IN SUCH A SOUR MOOD FOR?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            80,
+            464,
+            160
+        ],
+        "text": "I WONDER HOW YUMMY THEY TASTE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            359,
+            182,
+            430,
+            264
+        ],
+        "text": "YEAH, I LIKE THE SOUND OF THAT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            305,
+            445,
+            398
+        ],
+        "text": "OOH, DID YOU HEAR?! LEGENDARY FISH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            382,
+            649,
+            467,
+            719
+        ],
+        "text": "THE WEDDING FEAST IS TOMORROW?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            602,
+            559,
+            683
+        ],
+        "text": "WE HAVE TO GET YOU HOME FAST!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            688,
+            141,
+            772,
+            254
+        ],
+        "text": "EAT 'EM. TOSS 'EM BACK IN THE SEA. DO WHATEVER YOU WANT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            334,
+            761,
+            409
+        ],
+        "text": "IF YOU WANT 'EM, YOU CAN TAKE 'EM ALL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            519,
+            744,
+            588
+        ],
+        "text": "...SO LET US HAVE SOME OF THE FISH, 'KAY?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            661,
+            610,
+            749,
+            702
+        ],
+        "text": "HEY! WE'LL TAKE YOU BACK TO YOUR ISLAND...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            999,
+            553,
+            1083,
+            638
+        ],
+        "text": "DIDN'T YOU HEAR HIM? IT'S FOR A WEDDING FEAST!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

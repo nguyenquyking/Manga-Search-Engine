@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            58,
+            25,
+            193,
+            166
+        ],
+        "text": "Not only must you protect your liege, you will do the same...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            213,
+            187,
+            333
+        ],
+        "text": "...must be the greatest samurai of the land!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            350,
+            187,
+            468
+        ],
+        "text": "Those who serve and support him...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            506,
+            196,
+            655
+        ],
+        "text": "One day, he will be Shogun of Wano!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            264,
+            17,
+            349,
+            152
+        ],
+        "text": "...for the capital...and eventually all of Wano!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            136,
+            570,
+            185
+        ],
+        "text": "Weez!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            526,
+            136,
+            570,
+            185
+        ],
+        "text": "Weez!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            435,
+            665,
+            446,
+            687
+        ],
+        "text": "......!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            547,
+            365,
+            606,
+            445
+        ],
+        "text": "Is that understood?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            541,
+            596,
+            622,
+            678
+        ],
+        "text": "You will be our guardian deities!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            6,
+            813,
+            142
+        ],
+        "text": "dut dut dut dut",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            806,
+            224,
+            870,
+            384
+        ],
+        "text": "Lord Yasue...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

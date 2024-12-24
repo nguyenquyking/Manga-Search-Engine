@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            64,
+            646,
+            108,
+            695
+        ],
+        "text": "Huh...? ",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            345,
+            178,
+            457
+        ],
+        "text": "Boss Kyoshiro?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            469,
+            146,
+            551
+        ],
+        "text": "No! Wait!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

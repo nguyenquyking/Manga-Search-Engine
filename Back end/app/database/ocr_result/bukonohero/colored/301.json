@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            105,
+            64,
+            184,
+            223
+        ],
+        "text": "THE NOMU ARE ON THE MOVE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            344,
+            22,
+            489,
+            209
+        ],
+        "text": "IT'S NOT SOMETHING TOMURA CAN NECESSARILY ACHIEVE, GIVEN THAT HE'S STILL INCUBATING.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            377,
+            540,
+            483,
+            691
+        ],
+        "text": "...TO GIVE THE NOMU VERY SPECIFIC COMMANDS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            324,
+            717,
+            433,
+            904
+        ],
+        "text": "THESE RADIO WAVES CAN BE USED AS SIGNALS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            729,
+            34,
+            782,
+            114
+        ],
+        "text": "WHOA!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1051,
+            190,
+            1097,
+            309
+        ],
+        "text": "TOMURA HAS LOST...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1214,
+            54,
+            1287,
+            193
+        ],
+        "text": "...TO ONE FOR ALL AND ENDEAVOR.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            945,
+            481,
+            1034,
+            609
+        ],
+        "text": "HANG ON, SHIGARAKI! WHAT ABOUT COMPRESS? AND MACHIA?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1054,
+            422,
+            1127,
+            492
+        ],
+        "text": "TOGA'S OUT THERE TOO-",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1253,
+            398,
+            1307,
+            494
+        ],
+        "text": "ENOUGH, IGUCHI.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1220,
+            787,
+            1270,
+            842
+        ],
+        "text": "!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

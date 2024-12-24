@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            170,
+            760,
+            198,
+            846
+        ],
+        "text": "Well...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            471,
+            731,
+            572,
+            856
+        ],
+        "text": "WHO AM I INDEED?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1258,
+            152,
+            1277,
+            372
+        ],
+        "text": "@MOR3COLOR",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            46,
+            763,
+            104,
+            844
+        ],
+        "text": "DOME\nINTERIOR,\nLIVE FLOOR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            156,
+            97,
+            218,
+            214
+        ],
+        "text": "THE\nROOF IS\nCRACKING!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            198,
+            702,
+            234,
+            803
+        ],
+        "text": "WHOAA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            289,
+            79,
+            380,
+            220
+        ],
+        "text": "FIRST THE\nCASTLE'S ON\nFIRE AND NOW\nTHE DOME ISN'T\nSTABLE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            487,
+            90,
+            566,
+            191
+        ],
+        "text": "TALK\nABOUT\nUSELESS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            225,
+            562,
+            351
+        ],
+        "text": "BUT THE\nCASTLE AND\nISLAND ARE HALF\nDESTROYED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            394,
+            565,
+            490
+        ],
+        "text": "I'M\nENJOYING\nTHIS,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            514,
+            608,
+            559,
+            677
+        ],
+        "text": "AGH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            500,
+            718,
+            561,
+            831
+        ],
+        "text": "GAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            696,
+            68,
+            773,
+            179
+        ],
+        "text": "SEEMS LIKE\nI CAN'T EVEN\nPROTECT ONE\nLOUSY CASTLE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            69,
+            937,
+            147
+        ],
+        "text": "WHEW...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            874,
+            172,
+            956,
+            301
+        ],
+        "text": "IT'LL\nTAKE WHAT?\nAROUND FIVE\nYEARS...?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            350,
+            955,
+            564
+        ],
+        "text": "I GUESS\nWE COULD\nREBUILD...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            483,
+            969,
+            593
+        ],
+        "text": "YOU\nBASTARD!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            903,
+            755,
+            934,
+            864
+        ],
+        "text": "THAT HURT,\nDAMMIT!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1134,
+            339,
+            1233,
+            408
+        ],
+        "text": "SAD\nDRUNK\nPHASE",
+        "panel_id": "5",
+        "type": "background"
+    }
+]

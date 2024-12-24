@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            55,
+            130,
+            169,
+            256
+        ],
+        "text": "FAT!! There was a discharge, even though it was just a handgun!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            59,
+            282,
+            153,
+            439
+        ],
+        "text": "A while back I worked with the cops, and we were always catching crooks like that.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            89,
+            736,
+            192,
+            836
+        ],
+        "text": "You really know your stuff!! Cool!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            203,
+            582,
+            312
+        ],
+        "text": "Ah, I see... Thanks and sorry for the trouble.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            442,
+            522,
+            579,
+            689
+        ],
+        "text": "But this isn't usual heat he was packing. For starters, we'll check out a few things and report back!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            395,
+            703,
+            520,
+            825
+        ],
+        "text": "It broke into pieces because of his quirk! There was no bullet.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            691,
+            85,
+            821,
+            215
+        ],
+        "text": "...It's such a poor showing... For a hero's quirk to not work.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            702,
+            246,
+            744,
+            337
+        ],
+        "text": "...Such a bitter pill.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            722,
+            706,
+            807,
+            817
+        ],
+        "text": "Senpai, are you okay?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            12,
+            1053,
+            129
+        ],
+        "text": "Yeah, that... you... you're also unbelievable...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            270,
+            1138,
+            390
+        ],
+        "text": "If you're gonna say stuff like that, then the senpai who invited me here shines just as much!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            964,
+            417,
+            1207,
+            511
+        ],
+        "text": "You're the same as Mirrio... you are another of those that shines bright like the sun...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            989,
+            710,
+            1098,
+            834
+        ],
+        "text": "But more importantly... you had to cover for me...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

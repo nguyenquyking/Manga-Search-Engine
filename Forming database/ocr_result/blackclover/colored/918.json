@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            109,
+            46,
+            87,
+            138
+        ],
+        "text": "GRRT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            158,
+            993,
+            240,
+            1106
+        ],
+        "text": "GAJA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            58,
+            1177,
+            268
+        ],
+        "text": "Forgive me, Queen Lolo-Pechka.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            966,
+            1292,
+            1133,
+            1467
+        ],
+        "text": "This won't hurt.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1403,
+            1081,
+            1586,
+            1469
+        ],
+        "text": "Lightning Magic",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1772,
+            228,
+            1735,
+            368
+        ],
+        "text": "SNAP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1973,
+            64,
+            2056,
+            533
+        ],
+        "text": "Pulsaranta",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

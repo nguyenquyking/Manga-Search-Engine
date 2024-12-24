@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            68,
+            62,
+            150,
+            188
+        ],
+        "text": "...UNLESS YOU KNOW THE NAMES OF WANO'S PORTS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            216,
+            145,
+            318
+        ],
+        "text": "THIS WOULD NOT MAKE SENSE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            359,
+            176,
+            499
+        ],
+        "text": "SO WHAT DOES IT MEAN THAT THE VIPER HAS TWO EXTRA LINES? LIKE... \"WIPER\"?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            535,
+            172,
+            659
+        ],
+        "text": "I'M IMPRESSED. ALL THE WANO PEOPLE FIGURED IT OUT RIGHT AWAY.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            489,
+            24,
+            579,
+            190
+        ],
+        "text": "EACH PORT OF WANO HAS A NAME THAT SUGGESTS A DIFFERENT ANIMAL.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            487,
+            370,
+            570,
+            471
+        ],
+        "text": "BUT TWO LEGS HAVE BEEN ADDED ON IT.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            477,
+            526,
+            583,
+            670
+        ],
+        "text": "THE DRAWING OF A PIT VIPER, OR HABU, INDICATES A DESTINATION OF HABU PORT.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            654,
+            19,
+            774,
+            127
+        ],
+        "text": "BY ATTACHING LEGS TO THE VIPER, IT BECOMES A LIZARD, OR TOKAGE!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            568,
+            173,
+            775,
+            517
+        ],
+        "text": "NEKO PORT\nKAERU PORT\nFlower Capital\nITACHI PORT\nTOKAGE PORT\nHABU PORT\nMOGURA PORT",
+        "panel_id": "2",
+        "type": "map"
+    },
+    {
+        "text_box": [
+            861,
+            33,
+            969,
+            217
+        ],
+        "text": "...LORD YASUIE WAS ABLE TO ENSURE OUR RAID CONTINUES, ALL IN ONE CLEAN STROKE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            862,
+            266,
+            976,
+            385
+        ],
+        "text": "...TO KEEP THE DETAILS AWAY FROM OUR CUNNING FOES...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            867,
+            420,
+            955,
+            551
+        ],
+        "text": "BY CLEVERLY ALTERING THE MEETING PLACE OF THE PLAN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            854,
+            605,
+            964,
+            688
+        ],
+        "text": "AND THERE IS A TOKAGE PORT IN UDON.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

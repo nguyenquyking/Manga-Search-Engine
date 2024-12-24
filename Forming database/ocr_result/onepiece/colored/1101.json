@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            108,
+            23,
+            204,
+            154
+        ],
+        "text": "...and their mother, Lady Koziki Toki.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            94,
+            293,
+            156,
+            350
+        ],
+        "text": "Lady Hiyori!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            366,
+            126,
+            440
+        ],
+        "text": "Lord Momonosuke!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            475,
+            156,
+            581
+        ],
+        "text": "...his younger sister, Lady Hiyori...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            608,
+            184,
+            703
+        ],
+        "text": "In the castle were Lord Momonosuke...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            234,
+            150,
+            284,
+            216
+        ],
+        "text": "Lady Toki!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            403,
+            51,
+            491,
+            139
+        ],
+        "text": "...But it can leap into the future!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            565,
+            35,
+            702,
+            172
+        ],
+        "text": "I have used this strange time-time ability to travel further and further into the future.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            394,
+            425,
+            486,
+            528
+        ],
+        "text": "Mankind cannot return to the past...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            388,
+            574,
+            495,
+            699
+        ],
+        "text": "It was difficult for me to believe, but rumor had it...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            555,
+            567,
+            696,
+            692
+        ],
+        "text": "...that Lady Toki had not been born in our era, but long, long ago.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            806,
+            59,
+            896,
+            160
+        ],
+        "text": "We wouldn't dare stop you...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            805,
+            219,
+            900,
+            314
+        ],
+        "text": "Yes. And so I will stay here.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            390,
+            886,
+            491
+        ],
+        "text": "To Lord Oden, you mean...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            806,
+            572,
+            903,
+            681
+        ],
+        "text": "Until at last I arrived here... at my final destination.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            64,
+            44,
+            123,
+            189
+        ],
+        "text": "...WOULD DAWN?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            208,
+            187,
+            273,
+            259
+        ],
+        "text": "...BUT YOU'RE NOTHING LIKE HIM.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            210,
+            500,
+            275,
+            575
+        ],
+        "text": "YOU'RE BOTH GOOD PEOPLE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            38,
+            537,
+            163
+        ],
+        "text": "I CAN ONLY MAINTAIN DEVIL UNION FOR FIVE, SO WE'VE GOTTA HURRY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            355,
+            488,
+            438
+        ],
+        "text": "IT'S BEEN A MINUTE ALREADY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            667,
+            643,
+            697,
+            696
+        ],
+        "text": "OH!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            646,
+            815,
+            708
+        ],
+        "text": "00000",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            980,
+            87,
+            985,
+            123
+        ],
+        "text": "BRR",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

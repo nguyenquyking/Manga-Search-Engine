@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            70,
+            106,
+            171,
+            267
+        ],
+        "text": "...we at least wanted to protect this village Pops had cared so much for.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            304,
+            156,
+            384
+        ],
+        "text": "After the Battle of Marineford...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            426,
+            138,
+            515
+        ],
+        "text": "Thanks for saying that...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            556,
+            150,
+            712
+        ],
+        "text": "In a dirty world, there's no good or bad money. It's just money!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            234,
+            50,
+            337,
+            187
+        ],
+        "text": "When Blackbeard invaded, we started the Grudge War against him...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            438,
+            53,
+            516,
+            198
+        ],
+        "text": "So this is kinda like a final memento of yer Pops, huh...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            237,
+            512,
+            311
+        ],
+        "text": "I think I see whatcha mean...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            448,
+            361,
+            556,
+            457
+        ],
+        "text": "Oh, how I wanted to make that ingrate pay!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            494,
+            548,
+            622
+        ],
+        "text": "...We couldn't overcome, teach anymore. He took everything.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            649,
+            536,
+            728
+        ],
+        "text": "But with Pops's power at his command...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            608,
+            47,
+            712,
+            161
+        ],
+        "text": "Yeah... Red-hair put his grave not too far from here...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            829,
+            53,
+            924,
+            190
+        ],
+        "text": "But we were okay with it... because we knew...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            820,
+            580,
+            909,
+            695
+        ],
+        "text": "Pops was... kind of a cheapskate, ya know?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            226,
+            918,
+            267
+        ],
+        "text": "Rub...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            985,
+            566,
+            1104,
+            716
+        ],
+        "text": "He always wanted other people's drinks. He never paid the whole tab at a restaurant!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1002,
+            50,
+            1117,
+            181
+        ],
+        "text": "...He was putting his entire share of the treasure into this place! Heh heh...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

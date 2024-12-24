@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            412,
+            78,
+            569,
+            237
+        ],
+        "text": "I've missed too many chances for a glorious and meaningful death.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            160,
+            417,
+            256,
+            597
+        ],
+        "text": "GRAK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            395,
+            808,
+            534,
+            972
+        ],
+        "text": "So this is where you've chosen to make your last stand?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            104,
+            819,
+            317
+        ],
+        "text": "Will you die here like your liege?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            726,
+            460,
+            888,
+            648
+        ],
+        "text": "Tug\nLet's hurry!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            887,
+            862,
+            968
+        ],
+        "text": "Very well!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1371,
+            101,
+            1528,
+            346
+        ],
+        "text": "Or will you conquer the world with us?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1297,
+            452,
+            1425,
+            572
+        ],
+        "text": "Choose,\nSamurai\nof\nOrochi!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

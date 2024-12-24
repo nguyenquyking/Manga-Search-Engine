@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            117,
+            63,
+            222,
+            171
+        ],
+        "text": "THE FIRST RULE OF THE EXCAVATION LABOR CAMP IN UDON...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            124,
+            660,
+            164,
+            705
+        ],
+        "text": "EXCAVATION SITE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            420,
+            637,
+            517,
+            729
+        ],
+        "text": "ANYONE WHO TALKS BACK TO A GUARD IS SENTENCED...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            765,
+            53,
+            856,
+            157
+        ],
+        "text": "...TO DOUBLE ARM AMPUTATION FOR THE FIRST OFFENSE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1008,
+            53,
+            1084,
+            141
+        ],
+        "text": "THE THIRD OFFENSE LEADS TO EXECUTION.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            939,
+            627,
+            1034,
+            722
+        ],
+        "text": "...AND DOUBLE LEG AMPUTATION FOR THE SECOND.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            200,
+            281,
+            207,
+            356
+        ],
+        "text": "RAAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

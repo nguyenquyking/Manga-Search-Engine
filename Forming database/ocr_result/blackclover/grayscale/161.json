@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            390,
+            97,
+            412,
+            169
+        ],
+        "text": "Right!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            102,
+            604,
+            190
+        ],
+        "text": "The Wizard King...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            397,
+            704,
+            495
+        ],
+        "text": "I want you to take me to Master Julius!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            150,
+            680,
+            284,
+            805
+        ],
+        "text": "I know this is a selfish request. I'm sorry, Yami...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            854,
+            579,
+            1011
+        ],
+        "text": "Right now, more importantly... Even if I can't be forgiven, there's someone I must apologize to.",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

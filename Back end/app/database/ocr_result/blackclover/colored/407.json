@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            175,
+            120,
+            310,
+            283
+        ],
+        "text": "THIS IS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            661,
+            1221,
+            689,
+            1302
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1090,
+            455,
+            1268,
+            581
+        ],
+        "text": "What was your name again?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1179,
+            1316,
+            1216,
+            1428
+        ],
+        "text": "Girl...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1793,
+            110,
+            2049,
+            302
+        ],
+        "text": "And a magic knight with the Black Bulls!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1674,
+            327,
+            1843,
+            514
+        ],
+        "text": "A Clover Kingdom Royal!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1818,
+            1304,
+            1921,
+            1530
+        ],
+        "text": "Noelle Silva!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1531,
+            861,
+            2131,
+            1346
+        ],
+        "text": "BRR\nBRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

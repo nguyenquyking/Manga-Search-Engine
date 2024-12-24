@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            108,
+            66,
+            164,
+            186
+        ],
+        "text": "...Nico Robin!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            101,
+            620,
+            158,
+            715
+        ],
+        "text": "Bring back...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            224,
+            151,
+            275,
+            348
+        ],
+        "text": "Government Intelligence Agency Cipher Pol \"Aigis\" Zero",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            388,
+            84,
+            469,
+            272
+        ],
+        "text": "GYAAAAA! It's Nico Robin!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            350,
+            486,
+            438
+        ],
+        "text": "...to the forces of piracy.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            419,
+            459,
+            496,
+            546
+        ],
+        "text": "...that woman's existence is key...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            417,
+            599,
+            496,
+            690
+        ],
+        "text": "No matter which way the battle goes...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            503,
+            45,
+            559,
+            130
+        ],
+        "text": "Capture her, don't kill her!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            63,
+            674,
+            116
+        ],
+        "text": "Yes, very true...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            755,
+            106,
+            859,
+            203
+        ],
+        "text": "Careful, or I'll get carried away!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            296,
+            822,
+            373
+        ],
+        "text": "Yo ho ho ho!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            446,
+            810,
+            549
+        ],
+        "text": "It will be done.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            608,
+            867,
+            726
+        ],
+        "text": "It's so good to have you around, Brook!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            407,
+            922,
+            502
+        ],
+        "text": "Whoa! RAAAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

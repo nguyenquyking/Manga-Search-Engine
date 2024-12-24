@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            84,
+            634,
+            152,
+            731
+        ],
+        "text": "Is that okay, kid?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            503,
+            330,
+            535,
+            502
+        ],
+        "text": "He's able to maintain his power...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            520,
+            110,
+            591,
+            260
+        ],
+        "text": "...That's also why the bad guys are coming after him now.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            538,
+            319,
+            603,
+            429
+        ],
+        "text": "It's because he was born quirkless, but...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1009,
+            28,
+            1087,
+            128
+        ],
+        "text": "I'm not going back to U.A.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            185,
+            1103,
+            323
+        ],
+        "text": "We're making arrangements to keep him protected. U.A. will serve as a-",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            411,
+            1087,
+            490
+        ],
+        "text": "What's going to happen to him?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

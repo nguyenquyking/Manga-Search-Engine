@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            77,
+            62,
+            172,
+            437
+        ],
+        "text": "RAAAAH!!\nDRRMM...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            125,
+            602,
+            172,
+            715
+        ],
+        "text": "PUSH THEM\nBAAAACK!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            42,
+            415,
+            90
+        ],
+        "text": "HUFF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            370,
+            57,
+            415,
+            259
+        ],
+        "text": "HUFF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            367,
+            285,
+            581,
+            375
+        ],
+        "text": "BLUP\nBLUP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            411,
+            562,
+            422,
+            619
+        ],
+        "text": "GRRGG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            622,
+            193,
+            1033,
+            325
+        ],
+        "text": "GACHING!!\nPAOW!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            945,
+            599,
+            1083,
+            721
+        ],
+        "text": "NARI-\nKABURA\nARROW\n!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

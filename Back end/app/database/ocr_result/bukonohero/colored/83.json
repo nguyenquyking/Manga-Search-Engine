@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            97,
+            59,
+            229,
+            189
+        ],
+        "text": "You don't gotta cry anymore! You'll be okay!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            218,
+            120,
+            271
+        ],
+        "text": "Get it?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            138,
+            570,
+            199,
+            680
+        ],
+        "text": "...I am here!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            569,
+            477,
+            639
+        ],
+        "text": "Oh... Kota!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            607,
+            30,
+            662,
+            95
+        ],
+        "text": "How lucky for me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            150,
+            689,
+            247
+        ],
+        "text": "But, well, this means I get to see you again.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            573,
+            284,
+            593,
+            423
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            604,
+            618,
+            677,
+            691
+        ],
+        "text": "You're a U.A. student then?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            743,
+            523,
+            780,
+            569
+        ],
+        "text": "Yes, Miss!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            163,
+            985,
+            233
+        ],
+        "text": "Thank you for saving me...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1035,
+            89,
+            1087,
+            162
+        ],
+        "text": "...My crybaby hero.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            957,
+            279,
+            1112,
+            375
+        ],
+        "text": "It was one rejection after the next until U.A. finally took me in.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            875,
+            389,
+            1070,
+            482
+        ],
+        "text": "Several shelters turned me away... No heteromorphs allowed, they said.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

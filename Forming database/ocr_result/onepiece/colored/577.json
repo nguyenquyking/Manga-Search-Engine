@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            82,
+            57,
+            128,
+            133
+        ],
+        "text": "...This\nSolemn",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            268,
+            128,
+            361
+        ],
+        "text": "I humbly\naccept...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            436,
+            147,
+            548
+        ],
+        "text": "Aha ha ha!\nWell, he's in\nyour hands\nnow.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            126,
+            644,
+            182,
+            730
+        ],
+        "text": "EBISU\nTOWN",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            372,
+            76,
+            448,
+            217
+        ],
+        "text": "Do it for us...\nPlease! Hee hee\nhee!! Aha ha ha!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            361,
+            263,
+            472,
+            388
+        ],
+        "text": "But of\ncourse! We\nall owe Lord\nYasue our\nlives!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            363,
+            435,
+            445,
+            525
+        ],
+        "text": "Aha ha\nha! Thanks,\nMister!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            576,
+            480,
+            730
+        ],
+        "text": "I will take Lord\nYasue's remains\nto Kuri, where\nhe can be laid\nto rest.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            136,
+            848,
+            277
+        ],
+        "text": "Until we meet\nagain!! Now\nlet's hurry!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            331,
+            829,
+            423
+        ],
+        "text": "So long,\neveryone.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            782,
+            443,
+            835,
+            504
+        ],
+        "text": "Okay\n!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            535,
+            860,
+            636
+        ],
+        "text": "Nami,\nKanjuro,\nLet's go!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            663,
+            865,
+            728
+        ],
+        "text": "We're\nall\nset!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            89,
+            1032,
+            130
+        ],
+        "text": "GRUNZ!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

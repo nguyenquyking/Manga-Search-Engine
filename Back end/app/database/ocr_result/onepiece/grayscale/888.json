@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            59,
+            167,
+            174,
+            308
+        ],
+        "text": "WHOEVER WINS GETS THAT MUCH CLOSER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            92,
+            1329,
+            222,
+            1489
+        ],
+        "text": "WORO RO RO RO RO!! IT WOULD ALMOST BE A SHAME TO KILL YOU!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            298,
+            1299,
+            417,
+            1484
+        ],
+        "text": "BUT YOU LEAVE ME NO CHOICE! ONCE YOU'RE DEAD, WE'LL TAKE EVERYTHING YOU HAVE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            370,
+            577,
+            526
+        ],
+        "text": "YOU'VE GOT SOME PONEGLIFFS TOO, I ASSUME?! I CAN'T WAIT FOR THAT!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            425,
+            813,
+            540,
+            945
+        ],
+        "text": "ALL YOUR MANPOWER AND TREASURE WILL BELONG TO US!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            545,
+            84,
+            741,
+            249
+        ],
+        "text": "DOOM!! ...TO KING OF THE PIRATES!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1108,
+            10,
+            1124,
+            279
+        ],
+        "text": "Next chapter hits Jan. 31!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            117,
+            151,
+            143,
+            213
+        ],
+        "text": "VWOAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            595,
+            609,
+            714,
+            766
+        ],
+        "text": "RIFLE!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            946,
+            419,
+            989,
+            539
+        ],
+        "text": "SLAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            79,
+            1358,
+            131,
+            1504
+        ],
+        "text": "KONG...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

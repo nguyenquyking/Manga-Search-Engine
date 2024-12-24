@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            33,
+            479,
+            111,
+            740
+        ],
+        "text": "SLASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            152,
+            351,
+            210,
+            578
+        ],
+        "text": "THEM",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            220,
+            571,
+            318
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            649,
+            54,
+            725,
+            428
+        ],
+        "text": "RIBBONS",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            442,
+            886,
+            519
+        ],
+        "text": "Let's test that...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            621,
+            833,
+            771
+        ],
+        "text": "He slashed...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            976,
+            59,
+            1104,
+            144
+        ],
+        "text": "...on your body, loser!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1062,
+            549,
+            1112,
+            708
+        ],
+        "text": "...through gravity!!!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

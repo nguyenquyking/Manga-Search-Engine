@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            706,
+            61,
+            780,
+            237
+        ],
+        "text": "BUT...MY SHAME!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            434,
+            803,
+            553
+        ],
+        "text": "...I HAVE NOTHING TO SHOW LORD ODEN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            612,
+            735,
+            736
+        ],
+        "text": "A...!! ALAS...!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1024,
+            608,
+            1100,
+            730
+        ],
+        "text": "HUFF, HUFF... WHEN I... PASS ON...",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

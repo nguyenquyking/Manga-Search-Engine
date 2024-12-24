@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            216,
+            339,
+            250,
+            385
+        ],
+        "text": "San... Ji?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            212,
+            502,
+            298,
+            586
+        ],
+        "text": "AGH! You idiot! Don't use that name!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            199,
+            628,
+            282,
+            727
+        ],
+        "text": "Yeah, there we go! I knew you'd do it, Sanji!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            265,
+            62,
+            313,
+            119
+        ],
+        "text": "?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            262,
+            228,
+            314,
+            300
+        ],
+        "text": "Did you just say \"Sanji?!\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            421,
+            482,
+            482
+        ],
+        "text": "Oh no!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            411,
+            519,
+            458,
+            572
+        ],
+        "text": "Oh no...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            588,
+            135,
+            646,
+            392
+        ],
+        "text": "DEAD OR ALIVE\nSANJI\n77,000\nMARINE",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            898,
+            60,
+            1088,
+            176
+        ],
+        "text": "Though I couldn't figure out why they used a poorly drawn image on the poster instead of a photo.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            817,
+            206,
+            885,
+            305
+        ],
+        "text": "This Sanji gentleman was amazing!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            927,
+            209,
+            1065,
+            309
+        ],
+        "text": "Why, he was the head chef of a pirate fleet numbering in the millions!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            815,
+            336,
+            1055,
+            432
+        ],
+        "text": "With news of the outside world strictly regulated, all I could do was piece together faint rumors, but...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            810,
+            455,
+            930,
+            555
+        ],
+        "text": "...among the wreckage of a pirate ship that washed ashore.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            809,
+            572,
+            894,
+            658
+        ],
+        "text": "...I found a scrap of a wanted poster...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            810,
+            684,
+            880,
+            751
+        ],
+        "text": "About two years ago...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

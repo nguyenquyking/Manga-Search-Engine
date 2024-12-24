@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            38,
+            112,
+            48,
+            193
+        ],
+        "text": "ZWIP!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            174,
+            435,
+            223,
+            491
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            26,
+            370,
+            107
+        ],
+        "text": "...I CAN CUT HIM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            275,
+            631,
+            322,
+            699
+        ],
+        "text": "HE'S FAST!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            308,
+            527,
+            335,
+            546
+        ],
+        "text": "GANK...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            483,
+            623,
+            502,
+            713
+        ],
+        "text": "MEANING...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            601,
+            847,
+            725
+        ],
+        "text": "BIRD DANCE!!!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

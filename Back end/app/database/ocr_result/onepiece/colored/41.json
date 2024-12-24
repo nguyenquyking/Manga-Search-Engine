@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            215,
+            1528,
+            330,
+            1741
+        ],
+        "text": "GYAAAA!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            652,
+            389,
+            680,
+            544
+        ],
+        "text": "CHOMP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            835,
+            580,
+            969,
+            742
+        ],
+        "text": "GULP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            844,
+            797,
+            898,
+            971
+        ],
+        "text": "CHOMP!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            950,
+            407,
+            1049,
+            555
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1084,
+            1025,
+            1382,
+            1225
+        ],
+        "text": "\u30ae\u30ae\u30ae\nGRRRG",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1284,
+            1603,
+            1387,
+            1773
+        ],
+        "text": "WHY,\nYOU--!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1535,
+            671,
+            1570,
+            836
+        ],
+        "text": "BOOMP!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1554,
+            1053,
+            1688,
+            1191
+        ],
+        "text": "BOMP!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1641,
+            1240,
+            1693,
+            1414
+        ],
+        "text": "DAAAA!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1652,
+            211,
+            1773,
+            478
+        ],
+        "text": "GUM-\nGUM...!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2464,
+            420,
+            2589,
+            548
+        ],
+        "text": "WHUMP!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2521,
+            1272,
+            2658,
+            1332
+        ],
+        "text": "DONK!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2447,
+            1414,
+            2499,
+            1668
+        ],
+        "text": "UUAAARGH!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

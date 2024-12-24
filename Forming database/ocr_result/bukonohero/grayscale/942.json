@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            64,
+            253,
+            101,
+            324
+        ],
+        "text": "FIST",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            62,
+            412,
+            100,
+            567
+        ],
+        "text": "FLASHFIRE",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            120,
+            649,
+            191,
+            739
+        ],
+        "text": "TOYA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            75,
+            387,
+            184
+        ],
+        "text": "Sorry 'bout this, Shoto. Change of plans.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            149,
+            803,
+            298
+        ],
+        "text": "Enji Todoroki isn't completely broken yet. If he passes out now, there's no point in going on with this little performance.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            817,
+            46,
+            851,
+            156
+        ],
+        "text": "Sorry, Masterpiece.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            274,
+            1057,
+            335
+        ],
+        "text": "To me, Dabi!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

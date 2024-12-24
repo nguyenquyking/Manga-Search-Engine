@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            85,
+            106,
+            107,
+            145
+        ],
+        "text": "Uu...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            89,
+            190,
+            92,
+            248
+        ],
+        "text": "BLUCK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            247,
+            243,
+            256,
+            309
+        ],
+        "text": "SPLUT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            370,
+            576,
+            422,
+            644
+        ],
+        "text": "Gwo-urgh...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            61,
+            677,
+            165
+        ],
+        "text": "Ooo-uurgh!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            466,
+            641,
+            516
+        ],
+        "text": "BLORP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            692,
+            649,
+            667,
+            725
+        ],
+        "text": "SPLUTCH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            950,
+            23,
+            1043,
+            151
+        ],
+        "text": "...a gnobody lige zat...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            637,
+            981,
+            714
+        ],
+        "text": "Az iv... I'd...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            544,
+            1109,
+            644
+        ],
+        "text": "...ever lose to...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1075,
+            183,
+            1138,
+            673
+        ],
+        "text": "KRIKKRIK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

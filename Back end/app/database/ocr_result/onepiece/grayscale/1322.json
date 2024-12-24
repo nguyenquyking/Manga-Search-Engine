@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            107,
+            158,
+            155,
+            350
+        ],
+        "text": "PUNK...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            468,
+            288,
+            581
+        ],
+        "text": "KID?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            872,
+            216,
+            1105
+        ],
+        "text": "EAT THIS, APOO!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            301,
+            816,
+            376,
+            885
+        ],
+        "text": "GAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            259,
+            363,
+            428,
+            432
+        ],
+        "text": "KCHING",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1564,
+            314,
+            1724,
+            604
+        ],
+        "text": "GIBSON!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            115,
+            1574,
+            282,
+            1756
+        ],
+        "text": "YOU'RE STILL IN MY FIRING RANGE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            587,
+            1589,
+            618,
+            1748
+        ],
+        "text": "RORONOA!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            566,
+            1809,
+            639,
+            1917
+        ],
+        "text": "STRAW HAT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            585,
+            1963,
+            720,
+            2142
+        ],
+        "text": "LET'S SEE HOW YOU LIKE MY SUB-WOOFER...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            2357,
+            677,
+            2503
+        ],
+        "text": "APPA PA PA!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1313,
+            1643,
+            1367,
+            1817
+        ],
+        "text": "CLANK!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            992,
+            1820,
+            1056,
+            1917
+        ],
+        "text": "CLANK!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1132,
+            1625,
+            1167,
+            1745
+        ],
+        "text": "I DON'T CARE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            1937,
+            1167,
+            2109
+        ],
+        "text": "THEY'LL SPOT YOU TOO!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1023,
+            2280,
+            1152,
+            2444
+        ],
+        "text": "STOP IT, KID!! FWA FWA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1192,
+            2127,
+            1224,
+            2214
+        ],
+        "text": "HMM?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1192,
+            2414,
+            1230,
+            2470
+        ],
+        "text": "AH!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1432,
+            2068,
+            1489,
+            2319
+        ],
+        "text": "DASH!!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1493,
+            1656,
+            1716,
+            1850
+        ],
+        "text": "...IS HOW THIS ALL GOT STARTED!!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1503,
+            2311,
+            1681,
+            2480
+        ],
+        "text": "THAT TRAITOR OVER THERE...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

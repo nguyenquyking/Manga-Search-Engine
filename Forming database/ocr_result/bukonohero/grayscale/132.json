@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            77,
+            68,
+            135,
+            157
+        ],
+        "text": "Sweet costume, dude!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            125,
+            275,
+            144,
+            376
+        ],
+        "text": "SHINSO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            77,
+            446,
+            207
+        ],
+        "text": "Because back during the team battles...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            334,
+            262,
+            440,
+            375
+        ],
+        "text": "One thing shocked me when Aizawa Sensei explained the plan.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            538,
+            69,
+            609,
+            206
+        ],
+        "text": "...You said you can't make other people speak, Shinso.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            74,
+            812,
+            148
+        ],
+        "text": "Yeah, well... about that...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            135,
+            1061,
+            236
+        ],
+        "text": "...Where I'd have to hold my own with all of you.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            274,
+            1021,
+            364
+        ],
+        "text": "In April, I was supposed to join the hero course...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            170,
+            420,
+            187,
+            465
+        ],
+        "text": "Heya!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

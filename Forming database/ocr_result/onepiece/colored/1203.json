@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            75,
+            77,
+            136,
+            185
+        ],
+        "text": "I'VE GOT THE KID FROM THE REPORT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            111,
+            236,
+            135,
+            288
+        ],
+        "text": "Leggo'a me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            168,
+            526,
+            231,
+            608
+        ],
+        "text": "THIS IS GAZELLE-MAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            613,
+            169,
+            697
+        ],
+        "text": "MASTER HOLDEM, COME IN!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            175,
+            48,
+            272,
+            152
+        ],
+        "text": "THE ONE WHO TAMED THE BABOON!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            351,
+            65,
+            399,
+            194
+        ],
+        "text": "BIG BRO LOO-FEEEE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            257,
+            422,
+            311
+        ],
+        "text": "BRING HER HERE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            258,
+            489,
+            297
+        ],
+        "text": "YES,\nSIR!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            528,
+            452,
+            620
+        ],
+        "text": "SHE SEEMS LIKE SHE COULD BE USEFUL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            648,
+            413,
+            708
+        ],
+        "text": "WELL DONE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            45,
+            686,
+            186
+        ],
+        "text": "...THE TOWN OF OFFICIALS AND PIRATES!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            606,
+            486,
+            657,
+            610
+        ],
+        "text": "UP AHEAD\nIS BAKURA",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            622,
+            644,
+            681,
+            731
+        ],
+        "text": "LUFFYTARO,\nZOROJURO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1050,
+            643,
+            1120,
+            741
+        ],
+        "text": "WE MUST\nCHARGE\nRIGHT IN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

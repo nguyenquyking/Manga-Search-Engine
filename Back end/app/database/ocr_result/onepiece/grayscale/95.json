@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            77,
+            46,
+            149,
+            157
+        ],
+        "text": "I appreciate your faith in me!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            42,
+            488,
+            113,
+            709
+        ],
+        "text": "I am prepared, Sir Jimbei!!\nFourth Floor",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            44,
+            630,
+            172
+        ],
+        "text": "Now come!!!\nVery well!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            576,
+            566,
+            726
+        ],
+        "text": "Luffy chose you samurai for our alliance!! Why would I doubt you?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            73,
+            790,
+            153
+        ],
+        "text": "Lady Hiyori!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            746,
+            196,
+            808,
+            281
+        ],
+        "text": "Lord Momonosuke!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            330,
+            775,
+            407
+        ],
+        "text": "Aaaaaah!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            724,
+            455,
+            887,
+            565
+        ],
+        "text": "I have been prepared for this... ever since that fateful...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            598,
+            815,
+            727
+        ],
+        "text": "If anything, I am the one putting my trust in you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            344,
+            1082,
+            410
+        ],
+        "text": "Lady Toki!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

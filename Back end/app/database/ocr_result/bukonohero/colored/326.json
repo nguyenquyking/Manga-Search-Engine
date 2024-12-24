@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            611,
+            63,
+            665,
+            264
+        ],
+        "text": "S-SOMEONE! ANYONE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            639,
+            638,
+            675,
+            746
+        ],
+        "text": "HELP!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            935,
+            438,
+            965,
+            505
+        ],
+        "text": "GLINT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1149,
+            16,
+            1260,
+            166
+        ],
+        "text": "All condensed... Faster! Stronger too!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1151,
+            200,
+            1217,
+            344
+        ],
+        "text": "...were like nothing I'd ever done!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1140,
+            405,
+            1197,
+            575
+        ],
+        "text": "...from that time...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1130,
+            718,
+            1216,
+            894
+        ],
+        "text": "The Explosions...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

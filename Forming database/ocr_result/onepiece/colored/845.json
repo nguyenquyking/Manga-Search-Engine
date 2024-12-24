@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            66,
+            133,
+            178,
+            225
+        ],
+        "text": "I know just the thing to make this exciting!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            434,
+            150,
+            528
+        ],
+        "text": "I've made up my mind!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            565,
+            121,
+            701
+        ],
+        "text": "Hyogoro? You mean... the Hyogoro?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            264,
+            565,
+            321,
+            697
+        ],
+        "text": "You're kidding! That little bean of a man?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            15,
+            126,
+            89
+        ],
+        "text": "Sir Luffy...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            394,
+            59,
+            448,
+            176
+        ],
+        "text": "Name yourself!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            402,
+            218,
+            448,
+            298
+        ],
+        "text": "Who's there?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            364,
+            458,
+            491
+        ],
+        "text": "You look just the same as you once did...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            394,
+            584,
+            460,
+            692
+        ],
+        "text": "I cannot believe it... It's you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            698,
+            104,
+            819,
+            272
+        ],
+        "text": "Is Lord Momonosuke alive and well...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            407,
+            801,
+            521
+        ],
+        "text": "Kawa- Matsu.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            562,
+            799,
+            688
+        ],
+        "text": "Raizo, it's me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            26,
+            1068,
+            158
+        ],
+        "text": "Kawa- Matsu!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

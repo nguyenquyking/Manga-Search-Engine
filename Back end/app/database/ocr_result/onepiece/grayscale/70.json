@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            112,
+            219,
+            174,
+            334
+        ],
+        "text": "BLOWING ME AWAY LIKE THAT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            110,
+            357,
+            126,
+            407
+        ],
+        "text": "PANT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            169,
+            74,
+            289,
+            201
+        ],
+        "text": "HELPED TO GET RID OF THOSE ANNOYING BUBBLES ON MY BODY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            344,
+            100,
+            356,
+            144
+        ],
+        "text": "PANT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            208,
+            474,
+            270,
+            559
+        ],
+        "text": "THANK YOU FOR THAT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            502,
+            290,
+            606,
+            402
+        ],
+        "text": "PUTTING ON A BRAVE FACE,\nHUH... WELL, IF THAT'S WHAT YOU WANT,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            672,
+            298,
+            764,
+            402
+        ],
+        "text": "I'LL GLADLY\nBLOW YOU\nAWAY UNTIL\nYOU DIE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            80,
+            955,
+            241
+        ],
+        "text": "HAH! SUCH A THIN CLOUD\nWON'T GIVE BIRTH TO LIGHTNING.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1406,
+            73,
+            1480,
+            220
+        ],
+        "text": "MY GOAL IS\nTO BRING ABOUT\nCONDENSATION!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1371,
+            287,
+            1452,
+            380
+        ],
+        "text": "CLOUDS...\nAGAIN\nWITH THE\nLIGHTNING?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            795,
+            1017,
+            910
+        ],
+        "text": "CLOUDY\nTEMPO!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            889,
+            920,
+            976,
+            1031
+        ],
+        "text": "THE\nFROECAST IS\nCLOUDS!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1380,
+            618,
+            1536,
+            763
+        ],
+        "text": "IT'S\nNOT THE\nLAME MAGIC\nSHOW IT\nONCE WAS!\nPOOF!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            706,
+            190,
+            747
+        ],
+        "text": "HUFF...",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

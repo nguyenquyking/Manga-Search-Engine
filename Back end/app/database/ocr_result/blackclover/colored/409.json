@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            98,
+            1239,
+            407,
+            1428
+        ],
+        "text": "I fought a lady in armor like Noelle's, ages ago!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            491,
+            314,
+            821,
+            557
+        ],
+        "text": "Back then, when I took a little kid hostage, Acier got really, really, REALLY strong.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            768,
+            105,
+            763,
+            144
+        ],
+        "text": "BRR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            864,
+            664,
+            1227,
+            848
+        ],
+        "text": "Her name was, um... Acier!! Boy, was that fun!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1328,
+            1064,
+            1371,
+            1430
+        ],
+        "text": "@colorclovers",
+        "panel_id": "3",
+        "type": "background_text"
+    },
+    {
+        "text_box": [
+            1339,
+            117,
+            1382,
+            533
+        ],
+        "text": "Hawks_red_wings",
+        "panel_id": "3",
+        "type": "background_text"
+    },
+    {
+        "text_box": [
+            1540,
+            188,
+            1609,
+            292
+        ],
+        "text": "Good grief...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1446,
+            432,
+            1590,
+            602
+        ],
+        "text": "Nobody's gonna complain if I keep her with me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1667,
+            91,
+            1779,
+            199
+        ],
+        "text": "You're fascinating, Vanica.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1669,
+            686,
+            1955,
+            915
+        ],
+        "text": "I don't really get it, but she's your precious friend, right?! Right?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1517,
+            1227,
+            1826,
+            1453
+        ],
+        "text": "If we take Lolopechka hostage, you'll get a whole lot stronger too, won't you, Noelle?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

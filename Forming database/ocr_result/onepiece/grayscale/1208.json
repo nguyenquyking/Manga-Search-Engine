@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            64,
+            288,
+            187,
+            450
+        ],
+        "text": "As long as they don't spot Shinobu, we've still got a chance!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            554,
+            128,
+            624
+        ],
+        "text": "Yes, Mama!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            686,
+            212,
+            795
+        ],
+        "text": "Keep them nice and snug down there.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            827,
+            214,
+            980
+        ],
+        "text": "Maaaa ma ma ha ha ha. So we've cleared up the manpower question.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            41,
+            455,
+            166
+        ],
+        "text": "She can still save Momo!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            519,
+            457,
+            582
+        ],
+        "text": "Let go!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            393,
+            438,
+            464
+        ],
+        "text": "Aaah!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            550,
+            37,
+            681,
+            158
+        ],
+        "text": "Even 20 years ago, the true enemy was Kaido!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            552,
+            473,
+            788,
+            629
+        ],
+        "text": "Lord Oden saw the situation clearly! He knew that vanquishing Orochi would change nothing!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            552,
+            663,
+            620,
+            802
+        ],
+        "text": "Sorry, Onami! I'm going on ahead!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            858,
+            579,
+            982
+        ],
+        "text": "Swi-Swish!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            932,
+            76,
+            1088,
+            277
+        ],
+        "text": "...are carrying on with their festival, unaware that this is their final night of freedom.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            953,
+            329,
+            1065,
+            452
+        ],
+        "text": "The fools in the flower capital...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            927,
+            555,
+            1092,
+            800
+        ],
+        "text": "Now Wano has neither a shogun to lead it, nor samurai to serve him!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            944,
+            841,
+            1080,
+            958
+        ],
+        "text": "Woro ro ro ro! Hey, Kid!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1100,
+            65,
+            1208,
+            492
+        ],
+        "text": "WA HA HA HA HA HA HA HA",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

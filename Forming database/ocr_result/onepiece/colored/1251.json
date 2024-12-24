@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            438,
+            55,
+            482,
+            188
+        ],
+        "text": "This beach sure is noisy.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            429,
+            655,
+            490,
+            744
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            222,
+            517,
+            280
+        ],
+        "text": "ACK!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            90,
+            876,
+            191
+        ],
+        "text": "KEEE!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            326,
+            936,
+            453
+        ],
+        "text": "NO! IN FACT, KILL HIM!! CONSEQUENCES BE DAMNED!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            472,
+            942,
+            612
+        ],
+        "text": "BABOON!! DEAL WITH THE KOMAINU LATER-- CAPTURE HIM NOW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            651,
+            891,
+            741
+        ],
+        "text": "DAMMIT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            131,
+            113,
+            349,
+            354
+        ],
+        "text": "...THE WORLD'S STRONGEST PIRATE ALLIANCE!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            170,
+            398,
+            282,
+            558
+        ],
+        "text": "...TO FORMALLY ANNOUNCE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            118,
+            673,
+            306,
+            887
+        ],
+        "text": "WE WILL HAVE MASTER KAIDO AND BIG MOM JOIN TOGETHER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            129,
+            1010,
+            289,
+            1298
+        ],
+        "text": "AND UPON THE ARRIVAL OF THE BIG MOM PIRATES' SHIP...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            451,
+            116,
+            663,
+            360
+        ],
+        "text": "...A VERY IMPORTANT ANNOUNCEMENT!! THAT IS ALL!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            479,
+            416,
+            619,
+            607
+        ],
+        "text": "FOLLOWING THAT, MASTER KAIDO WILL HAVE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            766,
+            283,
+            959,
+            416
+        ],
+        "text": "IT'S EVER SO ANNOYING!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            87,
+            911,
+            236
+        ],
+        "text": "YEAH, I KNOW...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            463,
+            941,
+            646
+        ],
+        "text": "AN IMPORTANT ANNOUNCEMENT?! IT'S NOT LIKE YOU TO PLAY COY, MASTER KAIDO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1088,
+            84,
+            1254,
+            244
+        ],
+        "text": "BUT IF I LEAD WITH THAT, IT'LL ONLY CAUSE CONFUSION.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1246,
+            770,
+            1365,
+            1000
+        ],
+        "text": "ANIMAL KINGDOM PIRATES HEADLINER BAO HUANG",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1261,
+            1144,
+            1343,
+            1296
+        ],
+        "text": "(FLYING SQUIRREL SMILE FRUIT)",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1607,
+            89,
+            1769,
+            328
+        ],
+        "text": "...MY IDIOT SON YAMATO...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1905,
+            96,
+            2077,
+            322
+        ],
+        "text": "...WHO DISAPPEARED EARLIER TODAY!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1583,
+            1015,
+            1756,
+            1313
+        ],
+        "text": "IN SHORT, THIS IS THE TASK I WANT YOU TO PERFORM.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1877,
+            1067,
+            2052,
+            1277
+        ],
+        "text": "I NEED YOU TO FIND AND BRING BACK...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            231,
+            83,
+            383,
+            174
+        ],
+        "text": "...I'd quit mocking me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            242,
+            652,
+            333,
+            733
+        ],
+        "text": "If I were you...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            59,
+            857,
+            145
+        ],
+        "text": "Yeah, I know.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            329,
+            1088,
+            450
+        ],
+        "text": "...taking you on won't even count as a fight!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            494,
+            989,
+            567
+        ],
+        "text": "I'm telling you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

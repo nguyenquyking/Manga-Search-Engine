@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            198,
+            606,
+            287,
+            726
+        ],
+        "text": "Hey, Mummy in black!! Don't get distracted!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            253,
+            204,
+            309,
+            301
+        ],
+        "text": "KLIK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            453,
+            434,
+            508,
+            524
+        ],
+        "text": "What is that?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            511,
+            282,
+            534,
+            327
+        ],
+        "text": "Ah!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            517,
+            340,
+            555
+        ],
+        "text": "GACHING!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            328,
+            398,
+            338,
+            461
+        ],
+        "text": "GATANG",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1104,
+            247,
+            1135,
+            323
+        ],
+        "text": "KRUNCH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

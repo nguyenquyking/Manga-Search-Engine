@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            743,
+            108,
+            795,
+            210
+        ],
+        "text": "BOOMF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            114,
+            1110,
+            102,
+            1205
+        ],
+        "text": "WHUD",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1817,
+            15,
+            1997,
+            257
+        ],
+        "text": "In the end, our original specs are completely different!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1935,
+            631,
+            2193,
+            851
+        ],
+        "text": "You'll still take damage, while I'll constantly regenerate!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1696,
+            1228,
+            2102,
+            1443
+        ],
+        "text": "Go ahead! Steal half my magic with an underhanded spell, then start a fight on equal terms.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

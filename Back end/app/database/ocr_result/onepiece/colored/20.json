@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            347,
+            748,
+            440,
+            849
+        ],
+        "text": "Tweet Tweet",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            608,
+            519,
+            706,
+            606
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            513,
+            903,
+            620
+        ],
+        "text": "GRRR!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1540,
+            248,
+            1601,
+            614
+        ],
+        "text": "Tug!! Tug!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            273,
+            2218,
+            404,
+            2595
+        ],
+        "text": "Destroyer of Death...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1500,
+            975,
+            1655,
+            1319
+        ],
+        "text": "Thunder Bagua!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

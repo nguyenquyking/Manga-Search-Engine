@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            59,
+            924,
+            144,
+            1015
+        ],
+        "text": "ONI-GASHIMA,\nROOF",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            462,
+            110,
+            505,
+            188
+        ],
+        "text": "UGH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            642,
+            111,
+            656,
+            275
+        ],
+        "text": "BELCH~~~!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            451,
+            904,
+            526,
+            1012
+        ],
+        "text": "@eyuler",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

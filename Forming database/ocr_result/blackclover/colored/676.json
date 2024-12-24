@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            27,
+            478,
+            145,
+            671
+        ],
+        "text": "Gravity Magic:",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            262,
+            326,
+            337,
+            395
+        ],
+        "text": "I HAVE NO USE FOR YOU.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            20,
+            695,
+            338
+        ],
+        "text": "Presence of the Demon King",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            711,
+            1,
+            728,
+            156
+        ],
+        "text": "Twitter: @ZenoSora",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            721,
+            488,
+            741,
+            610
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            771,
+            379,
+            957,
+            499
+        ],
+        "text": "WILL JACK EVEN BE ABLE TO ATTACK INSIDE A GRAVITY",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            891,
+            683,
+            945,
+            736
+        ],
+        "text": "Ghk!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1006,
+            49,
+            1024,
+            133
+        ],
+        "text": "SLOTOS.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

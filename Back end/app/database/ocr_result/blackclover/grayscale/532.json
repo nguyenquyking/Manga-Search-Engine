@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            160,
+            389,
+            353,
+            552
+        ],
+        "text": "The other day, one of their members came to the Clover Kingdom in secret.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            372,
+            832,
+            542,
+            1002
+        ],
+        "text": "There are resistance forces in the Spade Kingdom that oppose the Dark Triad.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            696,
+            193,
+            915,
+            301
+        ],
+        "text": "I believe he's at your place now, isn't he?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            827,
+            1094,
+            942
+        ],
+        "text": "Who exactly are you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1281,
+            620,
+            1328,
+            707
+        ],
+        "text": "Say what?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            30,
+            524,
+            59,
+            549
+        ],
+        "text": "SKASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            820,
+            8,
+            1049,
+            134
+        ],
+        "text": "THE TOUGH GUYS AIN'T THE ONES WITH THE BEST REPUTATIONS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            959,
+            349,
+            1051,
+            411
+        ],
+        "text": "...NO MERE INSECT COULD KILL ME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            639,
+            1014,
+            723
+        ],
+        "text": "NO MATTER HOW MUCH YOU ATTACK...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

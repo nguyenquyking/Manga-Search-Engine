@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            139,
+            53,
+            410,
+            306
+        ],
+        "text": "...But is Morris acting as an accelerant for the gate?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            137,
+            959,
+            414,
+            1114
+        ],
+        "text": "I don't know how it's being done...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            707,
+            862,
+            1194
+        ],
+        "text": "The gate of the underworld...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            734,
+            340,
+            782,
+            394
+        ],
+        "text": "ZZT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1182,
+            62,
+            1312,
+            348
+        ],
+        "text": "...is opening-",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1516,
+            1051,
+            1686,
+            1172
+        ],
+        "text": "NO!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1684,
+            57,
+            1869,
+            292
+        ],
+        "text": "We have to eliminate him.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

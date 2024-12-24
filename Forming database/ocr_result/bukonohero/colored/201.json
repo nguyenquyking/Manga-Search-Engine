@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            160,
+            577,
+            198,
+            642
+        ],
+        "text": "TAGUCHI",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            676,
+            690,
+            755,
+            796
+        ],
+        "text": "They're sending us kids now, huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            868,
+            148,
+            953,
+            239
+        ],
+        "text": "Well, y'wasted a trip. Buzz off.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1216,
+            69,
+            1316,
+            217
+        ],
+        "text": "Please come with us and take shelter at Ketsubutsu Academy.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1173,
+            670,
+            1293,
+            819
+        ],
+        "text": "But it's quite dangerous here, and your provisions won't last forever.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            82,
+            85,
+            152,
+            195
+        ],
+        "text": "Eww! You boys get so scary!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            315,
+            124,
+            397
+        ],
+        "text": "...Just underground!!",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            132,
+            459,
+            222,
+            551
+        ],
+        "text": "Stop raging like that, Sabo!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            663,
+            129,
+            734
+        ],
+        "text": "Meanwhile...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            212,
+            74,
+            315,
+            173
+        ],
+        "text": "Stop raging?! How can I not?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            541,
+            140,
+            648,
+            247
+        ],
+        "text": "To our kind-hearted Kuma!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            574,
+            600,
+            739
+        ],
+        "text": "Look what's being done to our comrade!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            67,
+            862,
+            157
+        ],
+        "text": "It's the reason we're here!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            364,
+            819,
+            436
+        ],
+        "text": "Oomph...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            757,
+            489,
+            840,
+            608
+        ],
+        "text": "We're not gonna leave poor Kuma in that state!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            634,
+            854,
+            738
+        ],
+        "text": "I know, I know. We all feel the same way.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            651,
+            1065,
+            730
+        ],
+        "text": "Is it too cramped? Need more space?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

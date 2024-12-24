@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            56,
+            22,
+            243,
+            148
+        ],
+        "text": "WAIT, SO CHARLOTTE MANAGED TO BECOME A CAPTAIN WITHOUT EVEN USING HER TRUE POWER?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            283,
+            172,
+            409,
+            197
+        ],
+        "text": "RORRR\nWHAAAAAR!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            264,
+            259,
+            389,
+            398
+        ],
+        "text": "...AND SHOW YOU JUST HOW STRONG I'VE BECOME, YAMI!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            929,
+            19,
+            1062,
+            155
+        ],
+        "text": "I JUST FOUND THE BEST OPPONENT EVER!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            471,
+            919,
+            549
+        ],
+        "text": "AH\nHA\nHA\nHA\nHA\nHA!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            184,
+            618,
+            291,
+            724
+        ],
+        "text": "I'LL\nSAVE\nYOU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            46,
+            36,
+            257,
+            316
+        ],
+        "text": "SWOOO\nWHA--?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            25,
+            405,
+            46,
+            459
+        ],
+        "text": null,
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            330,
+            60,
+            395,
+            147
+        ],
+        "text": "WHAT\nHAPPENED\nTO YOU?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            188,
+            398,
+            258
+        ],
+        "text": "ZOLO\n?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            344,
+            465,
+            369,
+            646
+        ],
+        "text": "GSHANK!\nWHOA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            692,
+            178,
+            735,
+            269
+        ],
+        "text": "YOU WANT\nHELP?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            39,
+            854,
+            143
+        ],
+        "text": "NO! NO\nNEED...\nWEEZ,\nWEEZ...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            339,
+            832,
+            570
+        ],
+        "text": "RAAAAA\nWHAT'S\nHAPPENING\nOUT THERE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            610,
+            757,
+            724
+        ],
+        "text": "HUFF, HUFF...\nMAN, HE'S\nSTRONG...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1037,
+            627,
+            1108,
+            709
+        ],
+        "text": "BUT...OF\nCOURSE\nHE IS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

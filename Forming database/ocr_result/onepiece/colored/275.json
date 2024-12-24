@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            55,
+            713,
+            136,
+            782
+        ],
+        "text": "NOW ONIGASHIMA...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            230,
+            671,
+            295,
+            767
+        ],
+        "text": "APPROACHES MAINLAND WANO.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            643,
+            74,
+            730,
+            166
+        ],
+        "text": "...TILL IT REACHES THE FLOWER CAPITAL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            495,
+            702,
+            572,
+            785
+        ],
+        "text": "ONLY 15 MINUTES REMAIN...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

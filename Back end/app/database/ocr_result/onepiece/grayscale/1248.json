@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            103,
+            1071,
+            315,
+            1298
+        ],
+        "text": "MEANWHILE, THE POLAR TANG SUBMARINE CARRYING THE OTHER AKAZAYA...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            125,
+            565,
+            241,
+            813
+        ],
+        "text": "...REACHED THE REAR SIDE OF THE ISLAND...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            146,
+            146,
+            216,
+            380
+        ],
+        "text": "GET US AS CLOSE TO THE ISLAND AS YOU CAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            457,
+            76,
+            535,
+            146
+        ],
+        "text": "GOT IT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            680,
+            115,
+            805,
+            355
+        ],
+        "text": "BEPO, SHACHI, PENGUIN, ARE YOU READY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            933,
+            61,
+            1017,
+            237
+        ],
+        "text": "AYE-AYE, CAPTAIN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            1108,
+            898,
+            1306
+        ],
+        "text": "WE'RE ALREADY CAUGHT IN A POWERFUL CURRENT.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1043,
+            493,
+            1248,
+            679
+        ],
+        "text": "ONCE WE SURFACE, WE'LL ONLY HAVE A MOMENT!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1118,
+            745,
+            1317,
+            1156
+        ],
+        "text": "GRRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1404,
+            897,
+            1585,
+            1108
+        ],
+        "text": "WE ARE READY FOR BATTLE, SIR TRAFFY!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1898,
+            198,
+            2064,
+            496
+        ],
+        "text": "GET READY! WE'RE SURFACING ALONG THE REAR OF ONIGASHIMA!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1902,
+            597,
+            2052,
+            777
+        ],
+        "text": "AND WHAT WILL WE FIND ON THE ISLAND?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

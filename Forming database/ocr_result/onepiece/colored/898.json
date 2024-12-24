@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            103,
+            108,
+            126,
+            156
+        ],
+        "text": "\u304d\u3083\u3042\u3041\u3042\u3093\nKYAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            354,
+            19,
+            510,
+            148
+        ],
+        "text": "APOLOGIZE, KOMURASAKI!!\nGET ON YOUR KNEES AND\nGRIND YOUR FOREHEAD INTO\nTHE FLOOR!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            305,
+            434,
+            375
+        ],
+        "text": "ARE YOU KIDDING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            617,
+            444,
+            704
+        ],
+        "text": "OIRAN,\nWHAT\nHAVE YOU DONE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            631,
+            642,
+            714
+        ],
+        "text": "I\nREFUSE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            629,
+            774,
+            704
+        ],
+        "text": "I DO\nNOT\nGROVEL",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            243,
+            764,
+            342
+        ],
+        "text": "...BEFORE\nANYONE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            734,
+            35,
+            822,
+            205
+        ],
+        "text": "WHEN I KNOW THAT\nI AM IN THE RIGHT,\nI DO NOT NEED TO\nGIVE AN INCH!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            31,
+            1122,
+            206
+        ],
+        "text": "KOMURASAKI...\nI WAS ACTUALLY\nCONSIDERING MAKING\nYOU THE WIFE OF\nTHE SHOGUN...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

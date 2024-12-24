@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            63,
+            23,
+            140,
+            141
+        ],
+        "text": "Good point. But the boss looks scarier than we do!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            182,
+            172,
+            308
+        ],
+        "text": "It's not a place for a group of big, scary warriors to march through.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            484,
+            156,
+            572
+        ],
+        "text": "...There's a peaceful little village...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            604,
+            148,
+            705
+        ],
+        "text": "Apparently, on the other side of the cave behind those falls...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            322,
+            29,
+            364,
+            117
+        ],
+        "text": "If he gets mad.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            587,
+            495,
+            663
+        ],
+        "text": "But his smile is cute.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            562,
+            698,
+            682
+        ],
+        "text": "Very true.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            555,
+            812,
+            639
+        ],
+        "text": "GRAH---",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            73,
+            54,
+            172,
+            180
+        ],
+        "text": "...But it was so disgusting, my innards screamed for mercy.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            215,
+            163,
+            308
+        ],
+        "text": "I'd heard that poisonous fish was a delicacy...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            345,
+            138,
+            411
+        ],
+        "text": "Oofh!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            245,
+            115,
+            258,
+            152
+        ],
+        "text": "THUD",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            247,
+            272,
+            258,
+            304
+        ],
+        "text": "THUD",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            363,
+            121,
+            453,
+            323
+        ],
+        "text": "Compared to the suffering of my lord, this was but a pleasant breeze!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            361,
+            462,
+            480
+        ],
+        "text": "Yet I persevered for 13 long years!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            22,
+            501,
+            133
+        ],
+        "text": "How I have awaited this moment!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            955,
+            405,
+            1078,
+            576
+        ],
+        "text": "Kawamatsu\nThe Kappa\nJoins the\nBattle!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            996,
+            136,
+            1068,
+            329
+        ],
+        "text": "Kozuki Clan Vassal\nYokozuma\nKawamatsu",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1009,
+            877,
+            1098,
+            1016
+        ],
+        "text": "Gaaah!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            874,
+            1229,
+            1032,
+            1466
+        ],
+        "text": "River of Retribution!!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

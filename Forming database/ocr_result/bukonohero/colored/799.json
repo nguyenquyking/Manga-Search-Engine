@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            62,
+            68,
+            114,
+            186
+        ],
+        "text": "I thought he overcame... whatever his issue is...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            129,
+            64,
+            148,
+            157
+        ],
+        "text": "Seems like it's become more severe.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            248,
+            128,
+            330
+        ],
+        "text": "Huh?! What the heck'm I even saying?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            359,
+            130,
+            430
+        ],
+        "text": "I'm a bad, bad boy... Please don't hit me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            481,
+            154,
+            573
+        ],
+        "text": "Ack! Stupid leg! Stop kicking things without permission!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            652,
+            147,
+            750
+        ],
+        "text": "How about I stop creeping people out? How about that?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            207,
+            67,
+            286,
+            167
+        ],
+        "text": "Looks like that forced remedy only made things worse.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            424,
+            65,
+            530,
+            200
+        ],
+        "text": "Shadddup! We're dining on sushi over here!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            526,
+            439,
+            607
+        ],
+        "text": "It's time. Come on.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            61,
+            847,
+            202
+        ],
+        "text": "Yeah? So what? You've got us to thank for your big boss baldy being here in this hideout and not zonked out in a hospital bed!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            262,
+            834,
+            388
+        ],
+        "text": "As well as your medical treatments, the video doctoring and Toga's new coat.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            442,
+            795,
+            581
+        ],
+        "text": "It was our money that paid for that fish, yeah?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            81,
+            1071,
+            160
+        ],
+        "text": "Just let it go, skeptic.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            667,
+            885,
+            752
+        ],
+        "text": "Maguro",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            202,
+            626,
+            212,
+            659
+        ],
+        "text": "PFFT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            314,
+            644,
+            322,
+            676
+        ],
+        "text": "WHAK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

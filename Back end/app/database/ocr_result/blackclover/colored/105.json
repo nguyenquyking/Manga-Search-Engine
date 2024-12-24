@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            35,
+            218,
+            85,
+            286
+        ],
+        "text": "IT'S ALL\nOVER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            98,
+            37,
+            198,
+            101
+        ],
+        "text": "I WILL\nPUT AN\nEND TO\nTHIS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            383,
+            248,
+            405,
+            316
+        ],
+        "text": "YOU\nHUMANS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            375,
+            512,
+            417
+        ],
+        "text": "MEET\nYOUR\nEND.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            564,
+            119,
+            617
+        ],
+        "text": "FARE-\nWELL!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            312,
+            523,
+            377,
+            584
+        ],
+        "text": "I WILL\nKILL YOU\nALL!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            244,
+            755,
+            332,
+            850
+        ],
+        "text": "YOU ARE\nALL MY SILLY\nLITTLE PLAY-\nTHINGS!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            343,
+            702,
+            410,
+            770
+        ],
+        "text": "USELESS!\nINSIGNIFI-\nCANT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            54,
+            690,
+            137
+        ],
+        "text": "THAT'S\nMY LINE,\nASTA...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            409,
+            702,
+            484
+        ],
+        "text": "YOU\nSTILL\nALIVE,\nYUNO?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            605,
+            724,
+            713,
+            889
+        ],
+        "text": "YOU SURE LIKE\nRUNNING YOUR\nMOUTH, YOU BLACK,\nNASTY BASTARD!\nBUT THIS ISN'T\nOVER YET!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            929,
+            154,
+            1112,
+            320
+        ],
+        "text": "LET'S\nTAKE HIM\nDOWN\n...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

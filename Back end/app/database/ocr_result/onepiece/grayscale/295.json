@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            27,
+            144,
+            46,
+            172
+        ],
+        "text": "FLAP...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            328,
+            59,
+            405,
+            185
+        ],
+        "text": "So the lead performers and Tobiroppo are all down.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            327,
+            285,
+            373,
+            356
+        ],
+        "text": "REALLY?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            326,
+            401,
+            367,
+            553
+        ],
+        "text": "?! ...Been defeated!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            569,
+            346,
+            644
+        ],
+        "text": "King has",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            608,
+            504,
+            660
+        ],
+        "text": "Pe-peng",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            469,
+            70,
+            549,
+            145
+        ],
+        "text": "This is a grave state of affairs.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            635,
+            70,
+            743,
+            217
+        ],
+        "text": "...Who can render all of this valiant effort futile...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            644,
+            592,
+            752,
+            736
+        ],
+        "text": "But, of course, there are still two monsters in this battle...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            654,
+            410,
+            675,
+            467
+        ],
+        "text": "RAAAAH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

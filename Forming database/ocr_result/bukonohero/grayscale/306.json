@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            567,
+            630,
+            657,
+            750
+        ],
+        "text": "STAR'S STILL FIGHTIN' THE GOOD FIGHT INSIDE THAT SCUMBAG!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            628,
+            929,
+            750
+        ],
+        "text": "IT'S WORKING!! HE'S READY TO FALL APART!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            935,
+            275,
+            1074,
+            383
+        ],
+        "text": "STAR'S SACRIFICE ISN'T GONNA GO TO WASTE ON OUR WATCH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            492,
+            1088,
+            580
+        ],
+        "text": "KEEP LIGHTIN' 'IM UP, BOYS!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

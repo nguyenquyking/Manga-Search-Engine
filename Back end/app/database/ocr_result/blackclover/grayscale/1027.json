@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            543,
+            727,
+            559,
+            770
+        ],
+        "text": "WAAA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            991,
+            665,
+            1012,
+            721
+        ],
+        "text": "A gri...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            91,
+            1030,
+            163
+        ],
+        "text": "MOIRE!!!",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

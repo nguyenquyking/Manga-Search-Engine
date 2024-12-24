@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            392,
+            187,
+            480,
+            372
+        ],
+        "text": "BOOM!\nLAND MINE\nBLAST!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            618,
+            577,
+            770,
+            689
+        ],
+        "text": "Don't wanna chat, huh?\nYou just gonna\nsneak off then?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            953,
+            302,
+            1061,
+            447
+        ],
+        "text": "So, now that you're\none of the\nall-powerful\nbig shots...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            53,
+            1080,
+            153
+        ],
+        "text": "...are we just a\nbuncha\nNPCs to\nyou?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

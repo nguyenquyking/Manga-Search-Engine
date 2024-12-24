@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            163,
+            588,
+            300,
+            729
+        ],
+        "text": "To that end, preparations for the ritual of the advent of Qliphoth...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            547,
+            814,
+            697,
+            981
+        ],
+        "text": "As you're aware, the Spade Kingdom intends to open a gate to the underworld.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            665,
+            173,
+            776,
+            289
+        ],
+        "text": "...are no doubt underway at Spade Castle.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1065,
+            324,
+            1222,
+            452
+        ],
+        "text": "...will serve as the core of that ritual as sacrificial offerings.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1073,
+            876,
+            1116,
+            1022
+        ],
+        "text": "Yami and Vengeance...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

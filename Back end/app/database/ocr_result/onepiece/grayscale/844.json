@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            37,
+            78,
+            154,
+            255
+        ],
+        "text": "BUT I CAME HERE TO TURN THAT AROUND!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            302,
+            138,
+            456
+        ],
+        "text": "WE HAVE THE ADVANTAGE OF NUMBERS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            573,
+            138,
+            724
+        ],
+        "text": "MORE GIFTERS?! BLOCK THE WAY BEHIND YOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            264,
+            306,
+            368,
+            415
+        ],
+        "text": "IT'S TRUE ALL OVER THE ISLAND!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            367,
+            441,
+            400,
+            518
+        ],
+        "text": "GLINT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            470,
+            58,
+            565,
+            172
+        ],
+        "text": "YOUR WORD IS OUR COMMAND, MASTER!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            191,
+            534,
+            274
+        ],
+        "text": "SURE THING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            427,
+            579,
+            578
+        ],
+        "text": "EVERYBODY!! HELP FRANOSUKE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            629,
+            501,
+            717
+        ],
+        "text": "HMM?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            925,
+            77,
+            993,
+            229
+        ],
+        "text": "HEY, WHAT'S GOING ON...? OH, I CAN MOVE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1049,
+            244,
+            1072,
+            325
+        ],
+        "text": "AAAAH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            957,
+            618,
+            1065,
+            719
+        ],
+        "text": "HUH?! WHAT'S WRONG WITH YOU GUYS?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

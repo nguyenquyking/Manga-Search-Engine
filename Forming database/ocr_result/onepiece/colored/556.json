@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            70,
+            76,
+            166,
+            209
+        ],
+        "text": "THIS IS WARDEN BABANUKI FROM UDON!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            108,
+            271,
+            129,
+            376
+        ],
+        "text": "WOOO!! QUEEN!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            79,
+            403,
+            121,
+            498
+        ],
+        "text": "YO! QUEEN SPEAKING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            280,
+            631,
+            330,
+            657
+        ],
+        "text": "R R",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            448,
+            93,
+            546,
+            211
+        ],
+        "text": "HE'S LOOKING FOR A HEROIC REASON TO LEAVE ONIGASHIMA!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            453,
+            248,
+            542,
+            377
+        ],
+        "text": "NEED SOME HELP? WE CAN HEAD BACK IF YOU WANT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            415,
+            540,
+            521
+        ],
+        "text": "I KNOW I TOOK A LOT OF THE MEN WITH ME.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            496,
+            556,
+            543,
+            596
+        ],
+        "text": "YES, SIR.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            629,
+            540,
+            739
+        ],
+        "text": "SOUNDS LIKE YOU GOT THE SMAILS WORKING AGAIN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            655,
+            58,
+            729,
+            115
+        ],
+        "text": "THEY TURNED HIM DOWN!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            624,
+            146,
+            694,
+            239
+        ],
+        "text": "NO NEED FOR NOW, SIR.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            895,
+            70,
+            940,
+            165
+        ],
+        "text": "MASTER QUEEN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            175,
+            934,
+            263
+        ],
+        "text": "LET THERE BE PROBLEMS.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            297,
+            951,
+            408
+        ],
+        "text": "SO LONG FOR NOW. AS REPORTED, THERE ARE NO PROBLEMS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            861,
+            491,
+            942,
+            598
+        ],
+        "text": "...INTO THE CELLS TO GET THEM TO BEHAVE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            622,
+            948,
+            743
+        ],
+        "text": "WE PUT STRAW HAT LUFFY AND CAPTAIN KID AND ALL THE OTHER EYESORES...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            456,
+            1060,
+            523
+        ],
+        "text": "I SEE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

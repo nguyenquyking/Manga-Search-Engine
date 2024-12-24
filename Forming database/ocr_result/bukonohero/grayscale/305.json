@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            359,
+            21,
+            485,
+            148
+        ],
+        "text": "This backlash against my other quirks! Like a cannibalistic invader! This is dire.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            428,
+            604,
+            512,
+            718
+        ],
+        "text": "STAR!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            674,
+            21,
+            782,
+            136
+        ],
+        "text": "The pilots!! I'll force it on one of them!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            672,
+            168,
+            739,
+            251
+        ],
+        "text": "I must give it away!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            338,
+            932,
+            433
+        ],
+        "text": "I can't just dispose of one!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            701,
+            529,
+            948,
+            704
+        ],
+        "text": "...steal quirks... I can only... bestow them.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

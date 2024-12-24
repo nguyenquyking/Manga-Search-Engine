@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            89,
+            391,
+            268,
+            806
+        ],
+        "text": "KHOOOO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            148,
+            775,
+            337,
+            956
+        ],
+        "text": "AND CAPTAIN VANGEANCE CHOSE RIGHT WHEN HE PROTECTED US.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            273,
+            72,
+            432,
+            221
+        ],
+        "text": "WE'RE GOING IN ORDER TO PROVE THAT!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            803,
+            27,
+            971,
+            212
+        ],
+        "text": "...TO SAVE CAPTAIN VANGEANCE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            808,
+            956,
+            942
+        ],
+        "text": "I WILL BE THE ONE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1227,
+            73,
+            1324,
+            193
+        ],
+        "text": "WOULD YOU BE QUIET ALREADY?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1294,
+            357,
+            1443,
+            450
+        ],
+        "text": "YOU LITTLE... QUIT BARKING WHEN NOBODY ASKED-",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1129,
+            736,
+            1249,
+            840
+        ],
+        "text": "WHAT THE-?! WHAT'S THIS MAGIC?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

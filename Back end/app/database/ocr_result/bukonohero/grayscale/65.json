@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            42,
+            52,
+            442,
+            342
+        ],
+        "text": "THE FATAL FLAMES OF INSANITY!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            45,
+            666,
+            770,
+            894
+        ],
+        "text": "SOMETHING EVEN THE DEMON LORD GAVE UP ON...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

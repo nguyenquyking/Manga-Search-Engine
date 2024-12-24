@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            47,
+            125,
+            79,
+            492
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            56,
+            617,
+            84,
+            887
+        ],
+        "text": "(Buchonosuke, Tochigi)",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            99,
+            972,
+            220,
+            1320
+        ],
+        "text": "Odacchi!!!\u2661\u2661\u2661 Who is he?! Tell me his name!!\n420 Land",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            257,
+            908,
+            421,
+            1088
+        ],
+        "text": "A: You're talking about one of the",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            191,
+            589,
+            1080
+        ],
+        "text": "Roger Pirates. I had lots of questions about Roger's crew, so I'll just put up my rough design sketches of the main members of the group. It'll continue later on page 154, so check them out!! Don't worry, you don't need to know their names!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            872,
+            951,
+            896,
+            1062
+        ],
+        "text": "Bluemarine",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1015,
+            1127,
+            1036,
+            1202
+        ],
+        "text": "Spencer",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1049,
+            463,
+            1077,
+            614
+        ],
+        "text": "Silvers Rayleigh",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1082,
+            214,
+            1110,
+            324
+        ],
+        "text": "Gol D. Roger",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1352,
+            744,
+            1378,
+            904
+        ],
+        "text": "Colonel Muegren",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1512,
+            185,
+            1533,
+            256
+        ],
+        "text": "Bancro",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1557,
+            480,
+            1583,
+            571
+        ],
+        "text": "Peetamu",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1702,
+            1078,
+            1725,
+            1241
+        ],
+        "text": "Sambel the Fish-man",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1941,
+            208,
+            1961,
+            306
+        ],
+        "text": "Dr. Crocus",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1935,
+            1215,
+            1965,
+            1275
+        ],
+        "text": "Buggy",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1974,
+            756,
+            1998,
+            894
+        ],
+        "text": "Moon Isaac Jr.",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1993,
+            468,
+            2017,
+            612
+        ],
+        "text": "Scopper Gaban",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1995,
+            999,
+            2017,
+            1069
+        ],
+        "text": "Shanks",
+        "panel_id": "5",
+        "type": "caption"
+    }
+]

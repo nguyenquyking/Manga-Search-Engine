@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            82,
+            40,
+            168,
+            141
+        ],
+        "text": "...and the rest were driven out of town.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            551,
+            157,
+            692
+        ],
+        "text": "They left only the merchants handling necessities...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            332,
+            20,
+            423,
+            112
+        ],
+        "text": "That's Bakura Town for you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            506,
+            223,
+            516,
+            326
+        ],
+        "text": "AAAAH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            510,
+            499,
+            559,
+            553
+        ],
+        "text": "Hmm?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            105,
+            794,
+            199
+        ],
+        "text": "So maybe it's sumo.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            428,
+            824,
+            558
+        ],
+        "text": "Well, a sumo wrestler just came flying at us...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            605,
+            841,
+            693
+        ],
+        "text": "They're doing something farther ahead.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            61,
+            1131,
+            193
+        ],
+        "text": "You mean he was thrown all the way here, just from the match?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

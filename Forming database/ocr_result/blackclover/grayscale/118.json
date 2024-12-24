@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            84,
+            110,
+            184,
+            259
+        ],
+        "text": "...You'd be able to do it.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            129,
+            330,
+            300,
+            418
+        ],
+        "text": "...to work my butt off and become the Wizard King.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            677,
+            168,
+            762
+        ],
+        "text": "I'm here...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            118,
+            801,
+            185,
+            935
+        ],
+        "text": "I didn't think...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            102,
+            580,
+            243
+        ],
+        "text": "...Someone like the prince.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            465,
+            790,
+            616,
+            931
+        ],
+        "text": "I thought you could never be...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1324,
+            549,
+            1331,
+            579
+        ],
+        "text": "Ugh!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

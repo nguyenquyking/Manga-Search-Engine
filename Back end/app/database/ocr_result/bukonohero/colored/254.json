@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            173,
+            63,
+            261,
+            223
+        ],
+        "text": "\"I'VE ENGAGED SHIGARAKI AT THE HOSPITAL RUINS!!\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            138,
+            353,
+            227,
+            480
+        ],
+        "text": "\"ATTENTION, ALL! ENDEAVOR, HERE!!\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            69,
+            546,
+            231
+        ],
+        "text": "ONE... ...FOR... ...ALL?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            354,
+            394,
+            456
+        ],
+        "text": "\"ONE FOR ALL.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            161,
+            677,
+            231,
+            842
+        ],
+        "text": "ONE FOR ALL...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            65,
+            872,
+            196
+        ],
+        "text": "THERE'S A CHANCE THAT SHIGARAKI IS AFTER ME SPECIFICALLY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            369,
+            868,
+            484
+        ],
+        "text": "SORRY FOR USING THE PRIVATE FREQUENCY, BUT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1067,
+            627,
+            1210,
+            848
+        ],
+        "text": "RIGHT NOW, WE NEED TO KNOW WHAT THAT MEANS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

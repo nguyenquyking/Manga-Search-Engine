@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            35,
+            322,
+            225,
+            461
+        ],
+        "text": "NEXT TIME, I WILL EXECUTE THIS PLAN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            326,
+            49,
+            461,
+            192
+        ],
+        "text": "IN AN ERA WITHOUT THE BOTH OF YOU...!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            163,
+            527,
+            337,
+            949
+        ],
+        "text": "FORBIDDEN MAGIC:\n\"NOAD NEPHESH\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            55,
+            1122,
+            355,
+            1520
+        ],
+        "text": "BEFORE LONG, I'LL REINCARNATE\nWITHIN THE SOUL\nOF AN ELF, AND\nPLAN FOR MY\nINCARNATION!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            872,
+            67,
+            1082,
+            256
+        ],
+        "text": "IT PROBABLY WON'T BE PERFECT, BUT YOUR LIFE CAN BE CONNECTED TO THEM...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            823,
+            280,
+            1029,
+            476
+        ],
+        "text": "HOWEVER, PRINCE!...\nI CAN PLACE\nA SEAL ON YOU\nWITH THESE\nMAGIC\nSTONES...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            837,
+            593,
+            1022,
+            795
+        ],
+        "text": "THE FUTURE\nOF PEACE WE\nAIMED FOR HAS\nBEEN TAKEN\nAWAY...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            865,
+            843,
+            1137,
+            1000
+        ],
+        "text": "...THE DEMON\nWILL UNDO\nTHE SEAL\nI PLACED\nON HIM\nSOME-\nDAY...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            843,
+            1360,
+            943,
+            1530
+        ],
+        "text": "SEKRE...!!!\nARE YOU\nHURT...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1320,
+            1279,
+            1411,
+            1403
+        ],
+        "text": "PRINCE...\nTHAT\nWOUND...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1780,
+            340,
+            1985,
+            543
+        ],
+        "text": "IT IS AS LICHT SAID...\nYOU ARE THE\nHOPE OF THE\nFUTURE...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1802,
+            939,
+            1954,
+            1114
+        ],
+        "text": "I CANNOT\nLET YOU DIE\nHERE, MY\nPRINCE...!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1729,
+            1172,
+            1879,
+            1284
+        ],
+        "text": "You\nwon't\nbe human\nanymore\n...!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1594,
+            1332,
+            1782,
+            1515
+        ],
+        "text": "BUT,\nSEKRE...!\nIF\nYOU USE ANY\nMORE FOR-\nBIDDEN TECH-\nNIQUES...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

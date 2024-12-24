@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            38,
+            232,
+            61,
+            299
+        ],
+        "text": "GRSHHHK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            486,
+            264,
+            528,
+            375
+        ],
+        "text": "FISH-MAN JIU-JITSU...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            674,
+            615,
+            689,
+            677
+        ],
+        "text": "BA-DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            867,
+            582,
+            918,
+            644
+        ],
+        "text": "URGH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1063,
+            375,
+            1125,
+            670
+        ],
+        "text": "LOW TIDE SHOULDER THROW!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

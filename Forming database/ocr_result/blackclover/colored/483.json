@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            75,
+            390,
+            125,
+            431
+        ],
+        "text": "If I-",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            65,
+            512,
+            344,
+            601
+        ],
+        "text": "It's your fault for being weak!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            14,
+            513,
+            130
+        ],
+        "text": "If I was stronger...!!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            868,
+            162,
+            893,
+            211
+        ],
+        "text": "But...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            779,
+            373,
+            811,
+            436
+        ],
+        "text": "You're a fool.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            86,
+            69,
+            144,
+            176
+        ],
+        "text": "WHAAAAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            600,
+            140,
+            707
+        ],
+        "text": "NORTHERN GRAVEYARD,\nRINGO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            200,
+            67,
+            255,
+            149
+        ],
+        "text": "WHO?!\nWHAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            201,
+            571,
+            262,
+            679
+        ],
+        "text": "Kibi\nUdon\nHakumai\nRingo",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            385,
+            39,
+            480,
+            140
+        ],
+        "text": "BROOK...\nWHAT ARE\nYOU DOING\nH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            393,
+            391,
+            449
+        ],
+        "text": "HMM?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            365,
+            505,
+            479
+        ],
+        "text": "WHY,\nI'M SO\nSORRY TO\nINTERRUPT\n!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            635,
+            476,
+            741
+        ],
+        "text": "I DIDN'T\nREALIZE\nTHIS HOUSE\nWAS\nOCCUPIED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            615,
+            644,
+            711
+        ],
+        "text": "WHOA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1042,
+            279,
+            1116,
+            408
+        ],
+        "text": "WHAT?!\nZORO?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

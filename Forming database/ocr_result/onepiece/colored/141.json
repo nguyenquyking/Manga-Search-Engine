@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            41,
+            1309,
+            135,
+            1418
+        ],
+        "text": "I'M SICK OF THESE STEEL BEAMS RUNNING THEIR MOUTHS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            235,
+            1318,
+            330,
+            1398
+        ],
+        "text": "JUST OBEY MY MAGNETIC FIELDS ALREADY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            1611,
+            120,
+            1709
+        ],
+        "text": "...PULLING US IN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            274,
+            1638,
+            312,
+            1714
+        ],
+        "text": "WAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            464,
+            1320,
+            509,
+            1400
+        ],
+        "text": "KID?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            1613,
+            517,
+            1718
+        ],
+        "text": "YOU CAN STILL STAND,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            568,
+            984,
+            704,
+            1195
+        ],
+        "text": "PUNK CORNA DIO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            270,
+            751,
+            376
+        ],
+        "text": "UUUGH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            796,
+            1318,
+            893,
+            1446
+        ],
+        "text": "HAHAHA... IT'S WEIRD, I FEEL LIKE I HAVE A NEW REASON TO KEEP FIGHTIN'!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            813,
+            1570,
+            884,
+            1711
+        ],
+        "text": "GUESS YOU KIDS ARE HELL BENT ON TAKING MY HEAD...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            877,
+            956,
+            956,
+            1073
+        ],
+        "text": "IT'S EVEN BIGGER THAN BIG MOM IN HER GIANT FORM!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            874,
+            1107,
+            949,
+            1179
+        ],
+        "text": "IT'S A MASSIVE BULL!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            886,
+            712,
+            978,
+            829
+        ],
+        "text": "I DON'T CARE IF IT KILLS ME...",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            342,
+            1030,
+            527
+        ],
+        "text": "...YOU'RE NOT REACHING THAT ROOF!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1186,
+            948,
+            1240,
+            1051
+        ],
+        "text": "LISTEN UP, YOU HAG!!",
+        "panel_id": "8",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            1318,
+            1097,
+            1437
+        ],
+        "text": "THEY SAY YOU EMPERORS ARE INVINCIBLE?",
+        "panel_id": "9",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1172,
+            1327,
+            1242,
+            1444
+        ],
+        "text": "WHAT A JOKE. THERE'S NO SUCH THING!!",
+        "panel_id": "9",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            997,
+            1597,
+            1073,
+            1718
+        ],
+        "text": "I BET YOU ANYTHING KAIDO IS REACHING HIS LIMIT UP THERE...",
+        "panel_id": "10",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1140,
+            1570,
+            1244,
+            1707
+        ],
+        "text": "IF YOU GIVE IT LONG ENOUGH, EVEN MOUNTAINS CAN BE WORN DOWN BY RAIN!",
+        "panel_id": "10",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1223,
+            1505,
+            1258,
+            1551
+        ],
+        "text": "PANT... PANT...",
+        "panel_id": "10",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1244,
+            199,
+            1298,
+            490
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "11",
+        "type": "background"
+    }
+]

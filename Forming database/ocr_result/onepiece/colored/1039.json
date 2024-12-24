@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            127,
+            17,
+            136,
+            62
+        ],
+        "text": "FWIP!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            316,
+            50,
+            367,
+            160
+        ],
+        "text": "AAH! MISS SPEED!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            307,
+            552,
+            372,
+            703
+        ],
+        "text": "SO YOU'VE\nHIC! COME TO\nWANO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            597,
+            756,
+            707
+        ],
+        "text": "RUBBER-RUBBER...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

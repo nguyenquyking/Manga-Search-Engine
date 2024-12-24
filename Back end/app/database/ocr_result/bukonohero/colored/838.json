@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            350,
+            27,
+            378,
+            78
+        ],
+        "text": "SKRCH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            543,
+            27,
+            570,
+            78
+        ],
+        "text": "SKRCH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            136,
+            350,
+            208,
+            440
+        ],
+        "text": "At that moment, I still thought...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            104,
+            593,
+            196,
+            684
+        ],
+        "text": "And then, the same thing happened to Hana.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            730,
+            224,
+            801,
+            300
+        ],
+        "text": "HORK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1006,
+            47,
+            1025,
+            78
+        ],
+        "text": "No.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            109,
+            1127,
+            157
+        ],
+        "text": "KRAK\nKRAK",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            921,
+            367,
+            974,
+            459
+        ],
+        "text": "...It was a villain's doing.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

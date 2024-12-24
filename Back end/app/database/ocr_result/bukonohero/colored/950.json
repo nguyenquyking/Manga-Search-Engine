@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            66,
+            162,
+            125,
+            267
+        ],
+        "text": "So you know each other?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            298,
+            301,
+            432
+        ],
+        "text": "I don't think any part of this is \"annoying\"!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            282,
+            81,
+            325,
+            158
+        ],
+        "text": "From my workplace experience",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            475,
+            53,
+            513,
+            169
+        ],
+        "text": "Continuing on.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            426,
+            598,
+            533,
+            678
+        ],
+        "text": "It's the old man who was with All Might at Kamino!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            572,
+            588,
+            645,
+            686
+        ],
+        "text": "Whoa, Midoriya sure knows some amazing people.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            157,
+            756,
+            225
+        ],
+        "text": "You can skip that.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            572,
+            832,
+            685
+        ],
+        "text": "We wanted to request everyone's cooperation on HN.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            706,
+            822,
+            810
+        ],
+        "text": "Uhhh, we have this kind of process!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            813,
+            77,
+            835,
+            141
+        ],
+        "text": "Okay!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            933,
+            557,
+            1012,
+            658
+        ],
+        "text": "That's short for the Hero Network!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            731,
+            970,
+            798
+        ],
+        "text": "\"HN?\"",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            957,
+            230,
+            1097,
+            353
+        ],
+        "text": "It's an internet service that only people with a pro license can use.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1057,
+            76,
+            1185,
+            237
+        ],
+        "text": "They say you can see activity reports and apply for help from heroes with useful quirks nationwide!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

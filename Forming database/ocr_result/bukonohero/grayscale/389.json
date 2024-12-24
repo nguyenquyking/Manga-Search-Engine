@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            123,
+            12,
+            223,
+            173
+        ],
+        "text": "My master's in trouble!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            17,
+            702,
+            159
+        ],
+        "text": "We can't waste a moment's worth of time!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1128,
+            1157,
+            1257,
+            1249
+        ],
+        "text": "It was a direct request from All Might.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1128,
+            1302,
+            1235,
+            1440
+        ],
+        "text": "I know where to go. It just depends on how fast or slow we are.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            1667,
+            1212,
+            1759
+        ],
+        "text": "Krrz. That's a negative, star.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1263,
+            166,
+            1280,
+            336
+        ],
+        "text": "@LOOK_COLOURS",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

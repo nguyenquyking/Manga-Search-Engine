@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            66,
+            44,
+            165,
+            199
+        ],
+        "text": "The soba cook in the capital! The ronin at the inn attacked some yakuza!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            266,
+            172,
+            405
+        ],
+        "text": "...But over in Kuri, the Yokozuna and Jack's followers were recently attacked!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            423,
+            168,
+            502
+        ],
+        "text": "Kaido has already taken care of it...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            64,
+            547,
+            160,
+            687
+        ],
+        "text": "But he's already buried so many people with connections to Oden...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            219,
+            17,
+            319,
+            149
+        ],
+        "text": "These acts might all have been under Kin'emon's orders!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            187,
+            179,
+            302,
+            244
+        ],
+        "text": "2h00\n...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            253,
+            527,
+            308,
+            608
+        ],
+        "text": "And still afraid of Kozuki?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            408,
+            39,
+            486,
+            183
+        ],
+        "text": "Oden died, right before my eyes!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            242,
+            513,
+            370
+        ],
+        "text": "I would enjoy the chance to show you my skill with the blade.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            415,
+            423,
+            511,
+            538
+        ],
+        "text": "...I, for one, would welcome it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            572,
+            522,
+            686
+        ],
+        "text": "If Foxfire Kin'emon and the Red Scabbards should appear...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            572,
+            230,
+            676,
+            343
+        ],
+        "text": "Guhuhuhu! It is good to have you on my side, Kyoshiro!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            789,
+            57,
+            884,
+            204
+        ],
+        "text": "And they seek to return the Kozuki name to power!!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            786,
+            233,
+            880,
+            380
+        ],
+        "text": "The blood of the Kozuki clan has not yet died out!!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            786,
+            431,
+            880,
+            533
+        ],
+        "text": "The boy's body was never found!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            782,
+            575,
+            877,
+            698
+        ],
+        "text": "But his son Momonosuke still lives!!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            963,
+            19,
+            1087,
+            155
+        ],
+        "text": "And no doubt they plan to take down Kaido as well!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1068,
+            312,
+            1122,
+            384
+        ],
+        "text": "What a day-dreamer...",
+        "panel_id": "6",
+        "type": "thought"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            64,
+            57,
+            130,
+            160
+        ],
+        "text": "The pleasures got wiped",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            228,
+            467,
+            276,
+            559
+        ],
+        "text": "We lost again!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            648,
+            177,
+            712
+        ],
+        "text": "Excavation Labor Camp Udon",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            252,
+            606,
+            307,
+            726
+        ],
+        "text": "Kibi\nF.C.\nRingo\nKuri\nHakumai",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            468,
+            270,
+            513,
+            361
+        ],
+        "text": "He did it lighter.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            141,
+            523,
+            226
+        ],
+        "text": "Rayleigh...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            457,
+            432,
+            548,
+            589
+        ],
+        "text": "Hmm... Still not right! Rayleigh knocked that elephant back without touching it.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            546,
+            50,
+            630,
+            158
+        ],
+        "text": "Straw Hat fellow! Who are you...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            57,
+            1006,
+            167
+        ],
+        "text": "...It was really off the charts, I guess.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            408,
+            1015,
+            518
+        ],
+        "text": "The first time he showed me Haki...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            908,
+            592,
+            990,
+            712
+        ],
+        "text": "Just imagine you're wearing invisible armor.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1066,
+            60,
+            1131,
+            156
+        ],
+        "text": "If I could learn to use that...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            87,
+            120,
+            114,
+            162
+        ],
+        "text": "Guh...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            324,
+            320,
+            416,
+            367
+        ],
+        "text": "000\n000\nOhh",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            563,
+            58,
+            555,
+            315
+        ],
+        "text": "BEK_PHENOMENON",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            750,
+            63,
+            794,
+            293
+        ],
+        "text": "@COLORCLOVERS",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1013,
+            54,
+            1097,
+            146
+        ],
+        "text": "Thank you very much!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

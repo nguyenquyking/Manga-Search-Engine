@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            53,
+            85,
+            188,
+            248
+        ],
+        "text": "We can ask him directly about how he survived the blaze and transformed completely into \"Dabi.\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            93,
+            553,
+            201,
+            691
+        ],
+        "text": "The root cause of your son's grudge could provide a lead in this investigation.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            330,
+            84,
+            452,
+            227
+        ],
+        "text": "So to hear how that obsession from your younger days grew into all of this...was quite shocking!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            588,
+            421,
+            680
+        ],
+        "text": "I used to watch old videos of you, Endeavor.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            551,
+            262,
+            672,
+            378
+        ],
+        "text": "Now, this didn't come up in your discussion about Toya, but...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            608,
+            859,
+            702
+        ],
+        "text": "Shoto's burn, here.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            589,
+            1064,
+            706
+        ],
+        "text": "Was that also you, Endeavor?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            879,
+            137,
+            899,
+            175
+        ],
+        "text": "Mo...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            214,
+            1077,
+            300
+        ],
+        "text": "That was me.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            400,
+            1044,
+            454
+        ],
+        "text": "Um, personal space?",
+        "panel_id": "4",
+        "type": "thought"
+    }
+]

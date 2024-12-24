@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            150,
+            193,
+            212,
+            310
+        ],
+        "text": "It's stupid and reckless.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            209,
+            317,
+            332,
+            452
+        ],
+        "text": "As you are now, going isn't courageous or anything like it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            193,
+            821,
+            316,
+            960
+        ],
+        "text": "Even the devil you're counting on has given up on you as hopeless.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            505,
+            516,
+            635
+        ],
+        "text": "You don't understand that right arm very well either.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            35,
+            609,
+            182
+        ],
+        "text": "This guy...!! How...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            466,
+            841,
+            555
+        ],
+        "text": "While we're here now...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            40,
+            881,
+            148
+        ],
+        "text": "Captain Yami is-!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            858,
+            857,
+            952
+        ],
+        "text": "Even so... I have to go!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            611,
+            948,
+            687
+        ],
+        "text": "I have to!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1072,
+            316,
+            1219,
+            420
+        ],
+        "text": "...But what do you even know about Captain Yami?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1184,
+            52,
+            1244,
+            151
+        ],
+        "text": "I'm very familiar with him.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1180,
+            532,
+            1249,
+            640
+        ],
+        "text": "...I dunno who you are...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1256,
+            861,
+            1448,
+            945
+        ],
+        "text": "Oh, him. Why not just leave him?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

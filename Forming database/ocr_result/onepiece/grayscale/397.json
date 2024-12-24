@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            19,
+            491,
+            74,
+            612
+        ],
+        "text": "...in her eyes!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            16,
+            704,
+            107,
+            836
+        ],
+        "text": "She had a terrified look...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            107,
+            4,
+            299,
+            189
+        ],
+        "text": "Hey Luffy... Which version of me do you want around?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            391,
+            16,
+            691,
+            243
+        ],
+        "text": "But as a \"Soldier of Science,\" I'd be able to coldly execute anyone you ordered me to!! Even a beast like this would be easy to dismember.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            649,
+            587,
+            820
+        ],
+        "text": "My human side has always made me useless against female enemies...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            971,
+            65,
+            1088,
+            185
+        ],
+        "text": "Ooh! You're finally breaking out the Germa suit?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            242,
+            1092,
+            351
+        ],
+        "text": "I've made up my mind.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1157,
+            240,
+            1263,
+            404
+        ],
+        "text": "I'm not sure I know the answer, but...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            680,
+            1154,
+            832
+        ],
+        "text": "What kind of person does the Pirate King need by his side...?",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

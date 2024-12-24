@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            70,
+            89,
+            190,
+            217
+        ],
+        "text": "The only way is for you to get Sir to acknowledge you by your own efforts.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            90,
+            249,
+            160,
+            362
+        ],
+        "text": "I wanna help you out, but...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            591,
+            214,
+            751
+        ],
+        "text": "Introducing you is all I can do for you. It's Sir who'll decide whether he can use you or not.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            345,
+            403,
+            451,
+            542
+        ],
+        "text": "I know it's late to ask, but... why are you doing me a favor...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            455,
+            24,
+            1150,
+            416
+        ],
+        "text": "Even though we've only just met...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            655,
+            323,
+            745,
+            482
+        ],
+        "text": "You know, when a hero sees someone in need...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            537,
+            766,
+            689
+        ],
+        "text": "I'm not really thinking of it as doing you a favor or anything.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1061,
+            13,
+            1150,
+            179
+        ],
+        "text": "It's just in their nature to be nosy and help 'em out!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1061,
+            532,
+            1190,
+            762
+        ],
+        "text": "You've got yourself one crazy goal... and you're trying to make it a reality.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            25,
+            365,
+            180,
+            480
+        ],
+        "text": "But even then...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            707,
+            25,
+            909,
+            240
+        ],
+        "text": "...you can't destroy the heart of a supreme devil.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1261,
+            37,
+            1409,
+            185
+        ],
+        "text": "...I was wrong after all.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1562,
+            52,
+            1753,
+            322
+        ],
+        "text": "I shouldn't have shut her away or kept her out of this.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            698,
+            1760,
+            794,
+            1955
+        ],
+        "text": "...and the flexibility of water.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            696,
+            2252,
+            838,
+            2447
+        ],
+        "text": "You have the strength of steel...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            980,
+            1755,
+            1055,
+            1905
+        ],
+        "text": "My blood is fizzing.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1099,
+            2355,
+            1177,
+            2470
+        ],
+        "text": "Don't think...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1137,
+            555,
+            1695,
+            1175
+        ],
+        "text": "DAR DAR DAR DAR",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1587,
+            1990,
+            1746,
+            2120
+        ],
+        "text": "...you can block this.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1666,
+            1772,
+            1773,
+            1887
+        ],
+        "text": "has gotten inside-",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1781,
+            2427,
+            1786,
+            2487
+        ],
+        "text": "ZRUAAAK",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

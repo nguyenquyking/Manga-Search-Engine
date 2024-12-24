@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            107,
+            900,
+            209,
+            1034
+        ],
+        "text": "I DON'T WANT ANY REGRETS EITHER",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            272,
+            73,
+            396,
+            165
+        ],
+        "text": "...HUH? WHAT'S WRONG WITH YOU?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            634,
+            688,
+            751
+        ],
+        "text": "AAAA-AHH!!! WHAT THE HELL IS THIS!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            608,
+            826,
+            689,
+            930
+        ],
+        "text": "YOU'RE ON FIRE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            585,
+            956,
+            689,
+            1038
+        ],
+        "text": "NO, WHAT'S WRONG WITH YOU!?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            477,
+            758,
+            597
+        ],
+        "text": "ROLL IN THE DIRT! NOW!! I'LL THROW DUST ON YOU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            915,
+            533,
+            971,
+            604
+        ],
+        "text": "HOLD ON A SECOND, THIS FIRE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1083,
+            481,
+            1148,
+            590
+        ],
+        "text": "THAT'S IMPOSSIBLE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            665,
+            1132,
+            741
+        ],
+        "text": "WHAT!!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1072,
+            914,
+            1123,
+            992
+        ],
+        "text": "IT'S...NOT HOT!?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1209,
+            504,
+            1297,
+            585
+        ],
+        "text": "HAVE YOU LOST YOUR MIND?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

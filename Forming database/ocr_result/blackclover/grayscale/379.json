@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            188,
+            100,
+            275,
+            227
+        ],
+        "text": "CITIZENS AREN'T TRASH-",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            406,
+            292,
+            622,
+            415
+        ],
+        "text": "FOR LOW-STAGE TRASH,\nI DON'T BELIEVE\nTHERE COULD\nBE ANY GREATER\nHONOR.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            473,
+            715,
+            624,
+            834
+        ],
+        "text": "THEY'RE SACRIFICES\nSO THAT\nTHE SPADE KINGDOM\nMAY PROSPER.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            148,
+            884,
+            344,
+            1005
+        ],
+        "text": "WHY\nARE YOU\nDOING THAT\nAWFUL\nSTUFF\nTO YOUR\nFELLOW\nCOUNTRY-\nMEN?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            81,
+            832,
+            187
+        ],
+        "text": "MY\nBODY\nIT'S...!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1052,
+            568,
+            1088,
+            620
+        ],
+        "text": "DRIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1272,
+            255,
+            1379,
+            373
+        ],
+        "text": "THERE'S\nNOTHING\nMAGICLESS\nSCUM LIKE\nYOU...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1366,
+            106,
+            1513,
+            182
+        ],
+        "text": "...CAN\nDO\nABOUT\nTHINGS\nYOU\nCAN'T\nBLOCK.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

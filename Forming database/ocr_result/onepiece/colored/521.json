@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            104,
+            16,
+            187,
+            95
+        ],
+        "text": "We might actually reach our goal of 5,000 men.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            104,
+            217,
+            182,
+            294
+        ],
+        "text": "It's coming together well.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            383,
+            144,
+            521
+        ],
+        "text": "...of all of Wano!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            594,
+            158,
+            694
+        ],
+        "text": "\"You must be the Guardian Deities...\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            814,
+            180,
+            927
+        ],
+        "text": "Years ago, Lord Yasui left us with an important message...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            965,
+            156,
+            1077
+        ],
+        "text": "It would bring shame upon me to fail to make",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            1098,
+            164,
+            1249
+        ],
+        "text": "We required the help of our savior to his dying moment!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            86,
+            1288,
+            147,
+            1472
+        ],
+        "text": "...was an incredible Yasui... man...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            1415,
+            106,
+            1459
+        ],
+        "text": "This",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            297,
+            188,
+            338,
+            281
+        ],
+        "text": "Yes, it's splendid!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            54,
+            646,
+            186
+        ],
+        "text": "Let's quit wastin' time!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            378,
+            538,
+            516
+        ],
+        "text": "...But we have seven vassals of Koziki gathered!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            445,
+            624,
+            558,
+            718
+        ],
+        "text": "There is still no word on Denjiro, alas...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            447,
+            819,
+            558,
+            946
+        ],
+        "text": "...We are accumulating manpower at an ideal rate!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            466,
+            1209,
+            534,
+            1308
+        ],
+        "text": "...But with your help...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            446,
+            1343,
+            554,
+            1434
+        ],
+        "text": "There are still problems to be conquered...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            844,
+            38,
+            924,
+            142
+        ],
+        "text": "...The Strategy Meeting!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            840,
+            194,
+            921,
+            278
+        ],
+        "text": "Yes, let us begin...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            1196,
+            1190,
+            1369
+        ],
+        "text": "BE-BENG! DOOM!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    }
+]

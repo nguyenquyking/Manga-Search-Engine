@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            220,
+            1189,
+            349,
+            1295
+        ],
+        "text": "WHERE DID DEKU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            492,
+            31,
+            522,
+            163
+        ],
+        "text": "CHISAKI!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            868,
+            13,
+            1105,
+            325
+        ],
+        "text": "YOU CAN'T LEAVE!\nYOU\nBELONG\nTO\nME!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            914,
+            1097,
+            1133
+        ],
+        "text": "EVEN THOUGH I\nHAVEN'T TOLD\nHER ANYTHING\nABOUT HER\nABILITY... OR\nHOW TO USE\nIT SHE...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            1185,
+            993,
+            1303
+        ],
+        "text": "THAT'S\nWHY... I\nDON'T\nTOUCH\nHER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1350,
+            11,
+            1462,
+            95
+        ],
+        "text": "OH\nNO!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1332,
+            500,
+            1479,
+            691
+        ],
+        "text": "I STILL\nNEED YOU\nERI.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1319,
+            1096,
+            1442,
+            1285
+        ],
+        "text": "FOR THE\nOLD MAN'S\nDREAMS",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1788,
+            270,
+            1898,
+            342
+        ],
+        "text": "...WILL\nBE\nFINE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1663,
+            379,
+            1749,
+            450
+        ],
+        "text": "YOU\nALL...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

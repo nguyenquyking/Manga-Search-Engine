@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            34,
+            71,
+            312,
+            316
+        ],
+        "text": "...AND PROTECT THIS KINGDOM!!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            25,
+            322,
+            265,
+            749
+        ],
+        "text": "**JOIN FORCES WITH A DEVIL...**",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            907,
+            60,
+            1043,
+            140
+        ],
+        "text": "A DEVIL'S COME TO HELP THE ANCIENT DEMON DESTROY OUR LAND!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            287,
+            913,
+            364
+        ],
+        "text": "Ah... AAAAAAH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            443,
+            1007,
+            498
+        ],
+        "text": "IT'S A DEVIL!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1049,
+            604,
+            1098,
+            645
+        ],
+        "text": "IS THAT A...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            720,
+            945,
+            750
+        ],
+        "text": "!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

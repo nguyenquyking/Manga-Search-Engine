@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            101,
+            77,
+            190,
+            257
+        ],
+        "text": "Since about two weeks prior, we at the NightEye offices...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            278,
+            94,
+            408,
+            247
+        ],
+        "text": "Have been independently observing... a certain villain group... known as the Eightfold Cleansers!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            281,
+            538,
+            375
+        ],
+        "text": "I remember that.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            406,
+            540,
+            461
+        ],
+        "text": "Aaahh, okay.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            532,
+            496,
+            665,
+            619
+        ],
+        "text": "There was an accident involving a thief gang known as the Reservoir Dogs.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            652,
+            677,
+            723
+        ],
+        "text": "What was the hook?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            547,
+            58,
+            661,
+            272
+        ],
+        "text": "The police cleaned everything up as just an accident, but there were many points that made no sense and we began to track them.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            215,
+            765,
+            851
+        ],
+        "text": "Centipeder, by Oohara Tetsu, is the winning creation from the fan art contest!!",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            869,
+            60,
+            953,
+            201
+        ],
+        "text": "They appear to be an organization moving with the intent to expand and accumulate funds.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            831,
+            218,
+            990,
+            379
+        ],
+        "text": "Within this one-year period that I have been investigating, there has been a rapid increase in contact, both between members of the underground organization, as well as people outside of the group.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            418,
+            910,
+            553
+        ],
+        "text": "I am a sidekick, Centipeder.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1112,
+            56,
+            1175,
+            176
+        ],
+        "text": "Also, shortly after the commencement of investigation...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1018,
+            415,
+            1138,
+            564
+        ],
+        "text": "I have been conducting the tracking and observation as per the instructions put forth by NightEye.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            585,
+            1225,
+            838
+        ],
+        "text": "NightEye Affiliated Offices Sidekick Centipeder",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            148,
+            97,
+            1105,
+            246
+        ],
+        "text": "COLOR HEROES",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            185,
+            285,
+            1063,
+            786
+        ],
+        "text": "AIZENISLIFE\nJAKEYG21\nCANDYSEPTICEYE\nD4TD\nHOTEMO COFFEEMOM\nSONICFROST\nINCOMESCRANE\nBANTCHETT (LAPIS LIOZULI)\nCOB\nFANGOFDRKNESS\nPISTACHOOS\nIZN1337\nMEGA MILK\nIRONS\nMAYUTHEVAMPIRE\nEVILSNOWCOOKIE\nFLASHKID77",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1115,
+            518,
+            1123,
+            688
+        ],
+        "text": "SCANLATION BY:",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

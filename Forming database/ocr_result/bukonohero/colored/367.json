@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            208,
+            67,
+            316,
+            241
+        ],
+        "text": "FLASHFIRE FIST!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            58,
+            1071,
+            120
+        ],
+        "text": "VRIII",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1119,
+            562,
+            1176,
+            854
+        ],
+        "text": "PROMINENCE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

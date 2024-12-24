@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            351,
+            24,
+            370,
+            335
+        ],
+        "text": "TEAM: @COLORCLOVERS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            356,
+            604,
+            370,
+            825
+        ],
+        "text": "ARTIST: @CarbonatedJames",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            494,
+            20,
+            518,
+            116
+        ],
+        "text": "My magic...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1073,
+            39,
+            1173,
+            237
+        ],
+        "text": "My magic power... decreased?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            604,
+            111,
+            781,
+            346
+        ],
+        "text": "NOBODIES LIKE YOU SHOULDN'T EVEN BE HERE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            672,
+            1031,
+            873,
+            1334
+        ],
+        "text": "TALK ABOUT PEONS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1161,
+            636,
+            1373,
+            762
+        ],
+        "text": "YOU HEARD HIM. THERE'S NOTHING YOU CAN DO-",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1159,
+            1164,
+            1281,
+            1356
+        ],
+        "text": "AREN'T THESE GUYS YAMI'S PEASANTS?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1459,
+            96,
+            1604,
+            295
+        ],
+        "text": "WE'RE HERE TO TRASH YOU PEOPLE AND RESCUE CAPTAIN YAMI.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1621,
+            1122,
+            1745,
+            1252
+        ],
+        "text": "WHY ARE YOU DWEEBS HERE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1736,
+            977,
+            1806,
+            1085
+        ],
+        "text": "GET LOST!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1961,
+            882,
+            1995,
+            1361
+        ],
+        "text": "dante_s_wofe/ ColorClovers",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            80,
+            426,
+            178,
+            544
+        ],
+        "text": "Li'l Marie!?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            218,
+            67,
+            351,
+            129
+        ],
+        "text": "... ASTA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            546,
+            38,
+            661,
+            133
+        ],
+        "text": "The truth is, her older brother is an ex-convict!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            612,
+            138,
+            759,
+            296
+        ],
+        "text": "Daughter of the now disgraced Adlai family, she currently lives with orphans in a church...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            582,
+            715,
+            722,
+            794
+        ],
+        "text": "This young woman here is Marie Adlai.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            907,
+            21,
+            1054,
+            178
+        ],
+        "text": "It wasn't her that did that...!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            326,
+            1030,
+            415
+        ],
+        "text": "The hell are you saying?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            460,
+            1235,
+            577
+        ],
+        "text": "Her motive was most likely a grudge against the kingdom itself...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            889,
+            673,
+            1137,
+            839
+        ],
+        "text": "In the recent disaster, it has been proven that she has directly caused harm to citizens and magic knights alike with her eye magic...!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

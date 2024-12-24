@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            120,
+            901,
+            337,
+            1033
+        ],
+        "text": "I fought a lady in armor like Noelle's, ages ago!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            409,
+            119,
+            648,
+            423
+        ],
+        "text": "Back then, when I took a little kid hostage, Acier got really, really, reeeeally strong.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            491,
+            918,
+            629
+        ],
+        "text": "Her name was, um... Acier!! Boy, was that fun!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            335,
+            1172,
+            457
+        ],
+        "text": "Nobody's gonna complain if I keep her with me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1129,
+            97,
+            1304,
+            237
+        ],
+        "text": "Good grief... You're fascinating, Vanica.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1099,
+            886,
+            1347,
+            1036
+        ],
+        "text": "If we take Lolopechka hostage, you'll get a whole lot stronger too, won't you, Noelle?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1225,
+            508,
+            1430,
+            669
+        ],
+        "text": "I don't really get it, but she's your precious friend, right?! Right?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

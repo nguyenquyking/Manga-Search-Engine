@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            99,
+            21,
+            228,
+            187
+        ],
+        "text": "THE WAIT IS OVER!! IT'S TIME TO RESUME THE SUMO INFERNO!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            257,
+            106,
+            334
+        ],
+        "text": "RAAAAHH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            124,
+            393,
+            154,
+            446
+        ],
+        "text": "AH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            642,
+            158,
+            699
+        ],
+        "text": "OOBF!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            376,
+            17,
+            462,
+            203
+        ],
+        "text": "BUT THE NEW RULE IS THAT THEY STAY IN THE WATER AS LONG AS YOU'RE ALIVE!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            534,
+            24,
+            627,
+            171
+        ],
+        "text": "SO WE'LL ONLY PULL THEM OUT ONCE YOU GUYS ARE DEAD!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            382,
+            408,
+            446,
+            516
+        ],
+        "text": "THAT PART WILL REMAIN THE SAME...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            368,
+            551,
+            468,
+            700
+        ],
+        "text": "THE MOMENT YOU LEAVE THIS ARENA,\nTHE SPIKES IN YOUR COLLARS\nWILL KILL YOU!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            714,
+            21,
+            813,
+            142
+        ],
+        "text": "YOU MIGHT DO INFAMOUS DEEDS, AND EARN BOUNTIES OF BILLIONS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            710,
+            268,
+            802,
+            373
+        ],
+        "text": "SO WHY DID YOU JUST LOOK A BIT PANICKED?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            409,
+            787,
+            500
+        ],
+        "text": "THAT'S TRUE, OF COURSE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            694,
+            548,
+            786,
+            690
+        ],
+        "text": "THAT'S RIDICULOUS!! I'VE GOT NOTHING TO DO WITH THEM!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            182,
+            964,
+            307
+        ],
+        "text": "IS IT BECAUSE YOU'RE RIVALS,\nBATTLING IT OUT\nIN THE SAME\nGENERATION?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1027,
+            197,
+            1111,
+            300
+        ],
+        "text": "THEN YOU COULD HELP YOUR PALS AND DIE FOR THEM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1032,
+            10,
+            1132,
+            148
+        ],
+        "text": "...BUT EVERY HUMAN BEING CAN DROWN IN JUST TWO INCHES OF WATER!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

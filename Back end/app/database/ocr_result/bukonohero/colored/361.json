@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            67,
+            371,
+            291,
+            524
+        ],
+        "text": "These twisted people with skeletons in their closets... They cover it all up with masks of justice!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            163,
+            705,
+            230,
+            836
+        ],
+        "text": "I couldn't let that stand!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            68,
+            596,
+            253
+        ],
+        "text": "But they don't stop there! They call themselves \"heroes\" and keep fooling everyone!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            882,
+            411,
+            995,
+            541
+        ],
+        "text": "I just want everyone to stop and think!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1080,
+            68,
+            1305,
+            298
+        ],
+        "text": "The only ones these \"heroes\" protect are themselves! With all that ugliness inside, they use you people to give them protection! Approval! Admiration!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1383,
+            707,
+            1413,
+            748
+        ],
+        "text": "BAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

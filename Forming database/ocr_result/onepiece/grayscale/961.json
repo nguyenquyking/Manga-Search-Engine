@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            49,
+            42,
+            155,
+            151
+        ],
+        "text": "IT'S MY FRIENDS' COUNTRY!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            43,
+            182,
+            128,
+            289
+        ],
+        "text": "OF COURSE I WILL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            323,
+            132,
+            413
+        ],
+        "text": "...WANO... ON YOUR BACK?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            550,
+            121,
+            631
+        ],
+        "text": "WILL YOU... PUT...!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            108,
+            500,
+            184
+        ],
+        "text": "GRRRGGG...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            416,
+            494,
+            484,
+            575
+        ],
+        "text": "HEY! BOY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            45,
+            849,
+            134
+        ],
+        "text": "POP!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            771,
+            455,
+            848,
+            610
+        ],
+        "text": "TRAFFY!! SEND THEM ALL DOWN BELOW!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            768,
+            649,
+            855,
+            732
+        ],
+        "text": "LUFFY-DONO... ..!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

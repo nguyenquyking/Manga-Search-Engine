@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            891,
+            229,
+            991,
+            310
+        ],
+        "text": "SLAM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            901,
+            506,
+            919,
+            554
+        ],
+        "text": "Guh!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            593,
+            1051,
+            630
+        ],
+        "text": "THUD",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            973,
+            272,
+            991,
+            310
+        ],
+        "text": "UGH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            90,
+            319,
+            151,
+            407
+        ],
+        "text": "GAJA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            27,
+            974,
+            102
+        ],
+        "text": "RIGHT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            632,
+            1028,
+            729
+        ],
+        "text": "LET'S DO THIS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            164,
+            32,
+            344,
+            155
+        ],
+        "text": "...That grimoire-stealing rat Fink from forever ago?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            144,
+            409,
+            188,
+            489
+        ],
+        "text": "And you're...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            228,
+            878,
+            358,
+            964
+        ],
+        "text": "The former Purple Orcas Captain?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            419,
+            519,
+            552,
+            636
+        ],
+        "text": "Rrrrggh... How can you work people this hard when you're weakened?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            480,
+            150,
+            518,
+            205
+        ],
+        "text": "It's Revchi.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            53,
+            924,
+            220
+        ],
+        "text": "Amazing. It's a whole crowd of odd spells and people! The Clover Kingdom's in good hands.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            662,
+            866,
+            790,
+            957
+        ],
+        "text": "What are you people doing in a place like this?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            686,
+            592,
+            932,
+            903
+        ],
+        "text": "That's our line, magic-less brat!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1208,
+            54,
+            1430,
+            156
+        ],
+        "text": "Let's get out of here!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1233,
+            858,
+            1336,
+            965
+        ],
+        "text": "Anyway, first things first.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

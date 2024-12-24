@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            51,
+            211,
+            84,
+            528
+        ],
+        "text": "BALLOON!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            403,
+            629,
+            464,
+            726
+        ],
+        "text": "GAAAH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            684,
+            608,
+            717,
+            708
+        ],
+        "text": "URRRGH!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1049,
+            615,
+            1101,
+            690
+        ],
+        "text": "YOU LITTLE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            964,
+            324,
+            1029,
+            423
+        ],
+        "text": "FWOOP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

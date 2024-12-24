@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            51,
+            484,
+            299,
+            646
+        ],
+        "text": "If Asta hadn't shown up, I wouldn't have made it before that explosion hit.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            144,
+            810,
+            285,
+            935
+        ],
+        "text": "Rill, Whoa! That's insanely cool!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            260,
+            701,
+            403,
+            785
+        ],
+        "text": "Also, I'm glad you're not dead!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            39,
+            766,
+            214
+        ],
+        "text": "Thanks to that, I may achieve my ultimate masterpiece!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            102,
+            1085,
+            306
+        ],
+        "text": "When they combine their strength, though, they can do all this...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            882,
+            781,
+            984,
+            1003
+        ],
+        "text": "Individually, they're utterly insignificant.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1365,
+            74,
+            1445,
+            215
+        ],
+        "text": "...fascinating!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1362,
+            840,
+            1483,
+            967
+        ],
+        "text": "You humans really are...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

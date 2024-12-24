@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            275,
+            942,
+            338,
+            911
+        ],
+        "text": "ZWOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1035,
+            213,
+            1065,
+            543
+        ],
+        "text": "@CloverColors",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1030,
+            768,
+            1061,
+            991
+        ],
+        "text": "@RitoxRiot",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1218,
+            47,
+            1439,
+            196
+        ],
+        "text": "THE PREPARATIONS FOR THE DEVIL-BINDING RITUAL ARE NOW COMPLETE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1390,
+            808,
+            1455,
+            905
+        ],
+        "text": "WELL DONE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

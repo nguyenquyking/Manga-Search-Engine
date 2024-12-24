@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            50,
+            112,
+            102,
+            243
+        ],
+        "text": "UGH! DAMMIT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            139,
+            736,
+            219,
+            852
+        ],
+        "text": "Whaa-aat?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            397,
+            198,
+            479,
+            337
+        ],
+        "text": "MUHAHAHA!! You were careless!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            711,
+            492,
+            847
+        ],
+        "text": "ARGHH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            77,
+            650,
+            220
+        ],
+        "text": "This serpentine form is the true nature of the Brachiosaurus!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            891,
+            268,
+            977,
+            392
+        ],
+        "text": "How's that supposed to work?! Dammit!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1157,
+            65,
+            1235,
+            150
+        ],
+        "text": "San-Goro-san!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1144,
+            345,
+            1245,
+            455
+        ],
+        "text": "...My Bracoil Hold!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1134,
+            682,
+            1238,
+            829
+        ],
+        "text": "No one has ever escaped...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

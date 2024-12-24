@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            37,
+            153,
+            95,
+            163
+        ],
+        "text": "...?",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            127,
+            667,
+            175,
+            772
+        ],
+        "text": "I... can't do that.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            127,
+            551,
+            255
+        ],
+        "text": "In short,\nI can only watch one\nperson for a maximum\nof one hour per day.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            420,
+            588,
+            570,
+            802
+        ],
+        "text": "Regarding my foresight ability...\nOnce I activate it,\nit requires a 24-hour interval.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            762,
+            65,
+            903,
+            216
+        ],
+        "text": "However,\nthe entire film's point of\nview is from somewhere\nimmediately near them.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            740,
+            626,
+            857,
+            793
+        ],
+        "text": "Also,\nit plays in my head frame-by-frame, like a flashback.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1035,
+            39,
+            1147,
+            226
+        ],
+        "text": "Ultimately,\nI can only see the person's movements\nand a small amount of the surrounding\nenvironment.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1006,
+            528,
+            1142,
+            732
+        ],
+        "text": "Think of it like this.\nFor one hour after I activate it, I am able\nto watch the entire film of the target person's life.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

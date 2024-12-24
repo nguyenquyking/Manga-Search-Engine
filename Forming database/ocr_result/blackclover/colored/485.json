@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            80,
+            1090,
+            206,
+            1210
+        ],
+        "text": "YOU'RE A DEVIL HOST TOO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            162,
+            767,
+            261,
+            835
+        ],
+        "text": "Haw haw haw!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            625,
+            476,
+            772,
+            587
+        ],
+        "text": "YOU REALLY ARE IN THE BLACK BULLS?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            686,
+            90,
+            793,
+            232
+        ],
+        "text": "I MEAN... YOU'RE OUR VICE CAPTAIN?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            803,
+            643,
+            906,
+            829
+        ],
+        "text": "THIS IS MY DEVIL, GIMODELO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            1147,
+            870,
+            1252
+        ],
+        "text": "THAT'S RIGHT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1140,
+            107,
+            1280,
+            259
+        ],
+        "text": "I'VE ONLY EVER BEEN IN THE HIDEOUT ONCE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            599,
+            1324,
+            724
+        ],
+        "text": "IF THE REST OF YOU DON'T KNOW, IT'S NO WONDER.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1383,
+            470,
+            1459,
+            528
+        ],
+        "text": "Aw! I want to talk more...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1589,
+            144,
+            1650,
+            255
+        ],
+        "text": "WHY'S THAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1583,
+            828,
+            1656,
+            924
+        ],
+        "text": "CAPTAIN YAMI DID?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1545,
+            1046,
+            1690,
+            1194
+        ],
+        "text": "ALTHOUGH IT'S SOMETHING YAMI ARBITRARILY DECIDED.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1474,
+            1172,
+            1499,
+            1252
+        ],
+        "text": "RIGHT.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

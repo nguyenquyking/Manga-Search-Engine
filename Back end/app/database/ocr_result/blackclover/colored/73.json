@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            71,
+            48,
+            225,
+            123
+        ],
+        "text": "Just what you'd expect from the First Magic Emperor's acquaintance!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            123,
+            195,
+            150,
+            240
+        ],
+        "text": "Amazing!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            93,
+            323,
+            131,
+            400
+        ],
+        "text": "Thanks, Sekre...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            64,
+            634,
+            157
+        ],
+        "text": "Like... the aura you give off, or your expression... It reminds me a lot of someone I know...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            506,
+            554,
+            626,
+            646
+        ],
+        "text": "...Uh, by the way... I get the feeling this isn't the first time we've met, right...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            53,
+            959,
+            141
+        ],
+        "text": "Even going after my own seal... Quite a useful ability you've got there.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            829,
+            226,
+            902,
+            335
+        ],
+        "text": "Hn! Ow! Hn! Hn. Ow!?",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            914,
+            279,
+            956,
+            324
+        ],
+        "text": "What are you doing?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            769,
+            505,
+            744,
+            575
+        ],
+        "text": "Pinch",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            757,
+            656,
+            826,
+            714
+        ],
+        "text": "Focus on the battle.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            780,
+            283,
+            893,
+            335
+        ],
+        "text": "Ow! Ow! Ow! Ow!?",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

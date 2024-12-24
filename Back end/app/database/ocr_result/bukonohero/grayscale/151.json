@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            147,
+            107,
+            303,
+            289
+        ],
+        "text": "HE WOULD BECOME THE WORLD'S ARBITER. ITS VERY OWN DEMON LORD.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            152,
+            430,
+            214,
+            545
+        ],
+        "text": "OR ELECTRICITY. OR GAS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            296,
+            417,
+            336,
+            528
+        ],
+        "text": "OR STRENGTH...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            446,
+            452,
+            606,
+            552
+        ],
+        "text": "AS THE WORLD IS PLUNGED INTO THIS STATE OF CHAOTIC DECLINE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            499,
+            604,
+            654,
+            700
+        ],
+        "text": "IN SUCH A WORLD,\nIMAGINE A COUNTRY LACKING POTABLE WATER.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            653,
+            407,
+            879,
+            545
+        ],
+        "text": "...WE SUDDENLY HAVE AN ARENA RIPE FOR A CERTAIN REMARKABLE INDIVIDUAL TO TAKE THE INITIATIVE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            729,
+            596,
+            902,
+            719
+        ],
+        "text": "IMAGINE IF A QUIRK CAPABLE OF PRODUCING THAT WATER WERE TO SUDDENLY APPEAR.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

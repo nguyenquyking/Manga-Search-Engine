@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            92,
+            101,
+            125,
+            210
+        ],
+        "text": "Maybe, just maybe...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            103,
+            512,
+            140,
+            570
+        ],
+        "text": "Delicious!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            121,
+            624,
+            129,
+            654
+        ],
+        "text": "Plip",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            433,
+            21,
+            519,
+            143
+        ],
+        "text": "...I met a cook who'll one day be a legend...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            646,
+            690,
+            735
+        ],
+        "text": "I mean, look at everyone.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            794,
+            635,
+            846,
+            731
+        ],
+        "text": "One bite of his dragon",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            88,
+            764,
+            128
+        ],
+        "text": "Nom",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            824,
+            105,
+            935,
+            272
+        ],
+        "text": "Rumors say that somewhere on the Grand Line is a mermaid's paradise...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            891,
+            27,
+            959,
+            124
+        ],
+        "text": "...and I bet it's something like this!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            905,
+            302,
+            1020,
+            461
+        ],
+        "text": "Has turned this entire banquet into heaven on earth!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

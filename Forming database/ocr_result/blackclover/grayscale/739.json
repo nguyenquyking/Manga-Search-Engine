@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            14,
+            683,
+            319,
+            715
+        ],
+        "text": "KOOOOOH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            215,
+            403,
+            312,
+            523
+        ],
+        "text": "Make it\nstop make it\nstop make it\nStoooooop!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            557,
+            55,
+            704,
+            237
+        ],
+        "text": "Mist\nMagic:\nTransient\nIllusion",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            553,
+            542,
+            855,
+            731
+        ],
+        "text": "Cherry\nBlossom\nMagic:\nMagic\nCherry\nBlossom\nStorm of\nPetals",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

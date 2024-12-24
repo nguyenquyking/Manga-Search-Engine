@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            40,
+            101,
+            140,
+            201
+        ],
+        "text": "To concoct even stronger quirks, my father forced the woman who would become my mother to marry him.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            349,
+            73,
+            398,
+            141
+        ],
+        "text": "It didn't take long for him to reject me.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            440,
+            15,
+            478,
+            101
+        ],
+        "text": "I was tossed aside and forgotten.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            408,
+            367,
+            444,
+            446
+        ],
+        "text": "But alas, I was a failed creation.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            105,
+            906,
+            194,
+            983
+        ],
+        "text": "But when he found himself unable to surpass All Might, he despaired.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            1002,
+            142,
+            1083
+        ],
+        "text": "Once upon a time, Endeavor yearned for nothing but power.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            338,
+            982,
+            413,
+            1083
+        ],
+        "text": "That's when my father created me, in pursuit of his selfish, egotistical dreams.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            632,
+            65,
+            705,
+            142
+        ],
+        "text": "These murderous flames of mine are Endeavor's flames.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            588,
+            210,
+            640,
+            306
+        ],
+        "text": "I'm not saying that everyone has to be pure and selfless.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            232,
+            750,
+            269
+        ],
+        "text": "Just you.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            665,
+            666,
+            741,
+            729
+        ],
+        "text": "And I had plenty of reason to keep watching you.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            632,
+            992,
+            680,
+            1046
+        ],
+        "text": "But I never forgot a thing.",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

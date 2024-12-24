@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            81,
+            123,
+            171,
+            247
+        ],
+        "text": "I ALWAYS LOOK FORWARD TO A BOWL OF THESE NOODLES COME PAYDAY.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            638,
+            152,
+            706
+        ],
+        "text": "MMM! It's so good!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            322,
+            247,
+            343,
+            284
+        ],
+        "text": "HN?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            367,
+            531,
+            385,
+            561
+        ],
+        "text": "WAFT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            516,
+            250,
+            539,
+            294
+        ],
+        "text": "WAFT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            548,
+            463,
+            609,
+            750
+        ],
+        "text": "YAM YAM YAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            634,
+            663,
+            722,
+            737
+        ],
+        "text": "WOW! WOULDJA LOOK AT THIS CROWD!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            346,
+            707,
+            402
+        ],
+        "text": "HM? SANJI?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            609,
+            854,
+            711
+        ],
+        "text": "GUESS YOU WON'T BE OPENING A SOBA RESTAURANT ROUND HERE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

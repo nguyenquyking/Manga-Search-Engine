@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            49,
+            322,
+            68,
+            463
+        ],
+        "text": "YOU! WILL!\nCHAAAAAANGE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            109,
+            705,
+            383,
+            830
+        ],
+        "text": "NOOO!\nWRONG,\nWRONG,\nWRONG,\nFINRAAAA\nAAAAAL!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            135,
+            110,
+            214,
+            190
+        ],
+        "text": "...WHAT'S\nGOING\nON WITH\nFINRAL\n...?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            232,
+            19,
+            261,
+            72
+        ],
+        "text": "WHO\nKNOWS?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            832,
+            18,
+            856,
+            81
+        ],
+        "text": "AAAA\nAAAA\nAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1125,
+            12,
+            1188,
+            105
+        ],
+        "text": "WHAT\nTHE!?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            904,
+            739,
+            969,
+            835
+        ],
+        "text": "CITIZENS OF\nTHE CLOVER\nKINGDOM...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1068,
+            665,
+            1171,
+            770
+        ],
+        "text": "LEND\nME YOUR\nPOWER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

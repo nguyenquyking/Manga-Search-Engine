@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            230,
+            98,
+            308,
+            190
+        ],
+        "text": "STILL,\nAT THIS\nRATE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            156,
+            423,
+            395,
+            636
+        ],
+        "text": "WELL,\nIF I HAD\nTAKEN THAT\nBODY OVER,\nLIGHT MAGIC\nWOULDN'T\nHAVE WORKED\nON ME\nAT ALL.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            192,
+            901,
+            398,
+            1032
+        ],
+        "text": "IF THIS\nIS HOW IT'S\nGOING TO BE,\nWOULDN'T IT\nHAVE BEEN\nBETTER TO\nJUST HAND\nYOUR BODY\nOVER\nTO ME?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            904,
+            795,
+            1022
+        ],
+        "text": "...THERE\nWON'T BE\nANYTHING\nLEFT, YOU\nKNOW.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1344,
+            117,
+            1392,
+            202
+        ],
+        "text": "PRINCE\n!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1228,
+            408,
+            1401,
+            540
+        ],
+        "text": "COULD\nI EVEN\nBLOCK\nTHAT IN\nTHE FIRST\nPLACE?!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1212,
+            778,
+            1409,
+            912
+        ],
+        "text": "THAT'S...\nEVEN IF\nI BLOCK\nIT, THE\nCOUNTRY\nWILL\nBE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

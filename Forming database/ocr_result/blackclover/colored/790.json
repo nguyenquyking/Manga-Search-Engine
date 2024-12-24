@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            77,
+            96,
+            228,
+            283
+        ],
+        "text": "THEY WERE ONLY PLAYING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            1187,
+            194,
+            1326
+        ],
+        "text": "THIS WHOLE TIME...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            546,
+            105,
+            768,
+            335
+        ],
+        "text": "BRR\nWe'll kill him.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            811,
+            708,
+            934
+        ],
+        "text": "...take it anymore.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            572,
+            1021,
+            600,
+            1070
+        ],
+        "text": "No.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            1064,
+            738,
+            1373
+        ],
+        "text": "I can't...\nAhhhh.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            51,
+            995,
+            403
+        ],
+        "text": "Yes.\nBRR\nLet's kill him.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            714,
+            696,
+            918,
+            890
+        ],
+        "text": "BRR\nNo.\nNeither can I.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            1285,
+            902,
+            1351
+        ],
+        "text": "BRR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1116,
+            236,
+            1218,
+            1180
+        ],
+        "text": "THERE IS NO HUMAN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1442,
+            147,
+            1464,
+            301
+        ],
+        "text": "...scream.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1388,
+            1211,
+            1468,
+            1314
+        ],
+        "text": "Let us hear...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1609,
+            792,
+            1717,
+            922
+        ],
+        "text": "...your last and finest...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1874,
+            254,
+            2030,
+            1138
+        ],
+        "text": "...WHO COULD BEAT A SUPREME DEVIL.",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

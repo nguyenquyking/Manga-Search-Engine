@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            38,
+            180,
+            93,
+            269
+        ],
+        "text": "KEEP HER STEADY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            302,
+            58,
+            435
+        ],
+        "text": "AHA HA HA HA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            476,
+            85,
+            583
+        ],
+        "text": "Pi-be-beng",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            441,
+            339,
+            524,
+            435
+        ],
+        "text": "FIND THE WAY TO DADDY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            77,
+            596,
+            309
+        ],
+        "text": "RAAAH!!\nSTOMP TROMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            526,
+            538,
+            532,
+            616
+        ],
+        "text": "Grrrrr...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1054,
+            125,
+            1075,
+            194
+        ],
+        "text": "KOFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1015,
+            493,
+            1072,
+            580
+        ],
+        "text": "GAAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            703,
+            624,
+            752,
+            709
+        ],
+        "text": "LET GO OF ME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            603,
+            793,
+            650
+        ],
+        "text": "GRAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1046,
+            630,
+            1108,
+            740
+        ],
+        "text": "COME DOWN HERE,\nSTRAW HAT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

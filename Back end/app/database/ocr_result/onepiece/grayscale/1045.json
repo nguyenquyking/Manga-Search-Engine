@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            113,
+            119,
+            224,
+            268
+        ],
+        "text": "...But death is what completes a person!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            1141,
+            177,
+            1235
+        ],
+        "text": "Yes, that's it...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            265,
+            1955,
+            376,
+            2051
+        ],
+        "text": "Woro ro ro ro...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            324,
+            1139,
+            436,
+            1249
+        ],
+        "text": "That sense of determination!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            540,
+            1343,
+            632,
+            1446
+        ],
+        "text": "...and Whitebeard...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            563,
+            1589,
+            625,
+            1700
+        ],
+        "text": "Now, Roger...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            1772,
+            646,
+            1909
+        ],
+        "text": "...the way of the samurai...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            566,
+            1955,
+            627,
+            2047
+        ],
+        "text": "I love...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            683,
+            113,
+            784,
+            198
+        ],
+        "text": "Isn't that true?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            206,
+            944,
+            642
+        ],
+        "text": "GRRR",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1064,
+            81,
+            1185,
+            253
+        ],
+        "text": "So let's end this now!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1347,
+            100,
+            1496,
+            273
+        ],
+        "text": "There is no glory in losing to you!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1385,
+            618,
+            1489,
+            793
+        ],
+        "text": "Don't be conceited, Kaido.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1232,
+            1286,
+            1321,
+            1407
+        ],
+        "text": "It may not be the way of the times anymore...",
+        "panel_id": "7",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1230,
+            1448,
+            1497,
+            1721
+        ],
+        "text": "Weez...",
+        "panel_id": "7",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1240,
+            1823,
+            1324,
+            2015
+        ],
+        "text": "They did it right!!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    }
+]

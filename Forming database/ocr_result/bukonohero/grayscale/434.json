@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            14,
+            17,
+            162,
+            167
+        ],
+        "text": "Accordingly, we are only admitting evacuees into U.A. after keeping them in isolation for long enough.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            16,
+            245,
+            179,
+            399
+        ],
+        "text": "We have inferred the limitations of her Quirk in terms of quantity of blood ingested and transformation duration.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            49,
+            608,
+            158,
+            693
+        ],
+        "text": "Still keeping up the strategy against Toga?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            309,
+            558,
+            367,
+            654
+        ],
+        "text": "Then U.A. really is our stronghold.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            440,
+            50,
+            504,
+            141
+        ],
+        "text": "And it's time for payback.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            642,
+            523,
+            725,
+            657
+        ],
+        "text": "Yes, of course.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1119,
+            59,
+            1133,
+            233
+        ],
+        "text": "To be continued!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            196,
+            476,
+            276,
+            736
+        ],
+        "text": "GRRRRRG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            486,
+            1,
+            601,
+            228
+        ],
+        "text": "RUMBLE RUMBLE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            491,
+            807,
+            628,
+            978
+        ],
+        "text": "THAT'S ENOUGH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            359,
+            1108,
+            468
+        ],
+        "text": "THUD!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1100,
+            126,
+            1222,
+            281
+        ],
+        "text": "I have...\nFAILED YOU...\nMASTER\nKAIDO...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            342,
+            1198,
+            481
+        ],
+        "text": "...AS ONE\nOF MY MOST\nVALUED MEN\nIS KILLED.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1097,
+            553,
+            1212,
+            735
+        ],
+        "text": "JACK IS ONE OF\nMY HANDPICKED\nLEAD PERFORMERS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1102,
+            815,
+            1140,
+            972
+        ],
+        "text": "KAIDO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1369,
+            86,
+            1505,
+            226
+        ],
+        "text": "NO... THIS\nDOES NOT\nMAKE YOU\nWEAK!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1424,
+            550,
+            1512,
+            706
+        ],
+        "text": "I WILL NOT\nSTAND BACK\nAND WATCH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            67,
+            21,
+            132,
+            115
+        ],
+        "text": "My eyes!! I'm blind!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            130,
+            108,
+            209
+        ],
+        "text": "Oh, she's gorgeous.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            247,
+            115,
+            310
+        ],
+        "text": "Whoa!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            106,
+            563,
+            480,
+            943
+        ],
+        "text": "EEEEEEK! Whatta babe!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            799,
+            130,
+            872
+        ],
+        "text": "EEK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            262,
+            232,
+            322,
+            304
+        ],
+        "text": "Talk about glitzy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            48,
+            463,
+            130
+        ],
+        "text": "Komura-saki!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            153,
+            483,
+            226
+        ],
+        "text": "K... Komura-saki...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            33,
+            816,
+            162
+        ],
+        "text": "To me, a man is nothing more than a dog that fetches me riches!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            703,
+            307,
+            798,
+            390
+        ],
+        "text": "A request from only the lowest of the low...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            710,
+            428,
+            788,
+            504
+        ],
+        "text": "Return what you gave to me...?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            714,
+            545,
+            796,
+            662
+        ],
+        "text": "I sold off my house, my family, my everything!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            47,
+            1128,
+            148
+        ],
+        "text": "If you have none, you are nothing to me.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1044,
+            545,
+            1105,
+            662
+        ],
+        "text": "Give back all the money I gave to you,",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1015,
+            804,
+            1113,
+            887
+        ],
+        "text": "Look over here, Oiran\u2661",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            1080,
+            1045,
+            1293
+        ],
+        "text": "Greatest courtesan of Wano Komurasaki the Oiran",
+        "panel_id": "7",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            491,
+            1378,
+            591,
+            1492
+        ],
+        "text": "All make way for the passage...",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            1386,
+            876,
+            1485
+        ],
+        "text": "...of Oiran Komura-saki!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    }
+]

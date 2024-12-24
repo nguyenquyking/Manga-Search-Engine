@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            56,
+            312,
+            130,
+            399
+        ],
+        "text": "So you decided to show yourself!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            566,
+            117,
+            692
+        ],
+        "text": "MASTER HOLDEM!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            94,
+            43,
+            250,
+            127
+        ],
+        "text": "I didn't have much of a choice!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            39,
+            608,
+            133
+        ],
+        "text": "GRRRL!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            692,
+            51,
+            756,
+            130
+        ],
+        "text": "BIG BRO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            595,
+            608,
+            724,
+            715
+        ],
+        "text": "You Sumo wrestled my house to the ground!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            279,
+            934,
+            405
+        ],
+        "text": "Urashima came flying out of nowhere and demolished my building!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            449,
+            906,
+            538
+        ],
+        "text": "OTAMA!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            638,
+            898,
+            716
+        ],
+        "text": "TAMA!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            921,
+            41,
+            1038,
+            134
+        ],
+        "text": "Who are you people, and where did you come from?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

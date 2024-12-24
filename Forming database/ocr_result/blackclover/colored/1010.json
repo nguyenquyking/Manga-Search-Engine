@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            1033,
+            1189,
+            952,
+            1371
+        ],
+        "text": "CLAASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1216,
+            1280,
+            1238,
+            1558
+        ],
+        "text": "@COLORCLOVERS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1268,
+            29,
+            1292,
+            223
+        ],
+        "text": "XVALCLOVER",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1402,
+            846,
+            2342,
+            1489
+        ],
+        "text": "CLING\nCLANG\nPAF\nCLING\nPAF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

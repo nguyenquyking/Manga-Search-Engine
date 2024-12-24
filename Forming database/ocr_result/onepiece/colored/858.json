@@ -1,0 +1,277 @@
+[
+    {
+        "text_box": [
+            79,
+            21,
+            159,
+            119
+        ],
+        "text": "If you can't work, give up and starve.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            102,
+            157,
+            145,
+            216
+        ],
+        "text": "That's right.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            253,
+            162,
+            361
+        ],
+        "text": "The rule says you only eat as much as you earn working!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            371,
+            158,
+            443
+        ],
+        "text": "We don't look kindly on cheating, Gramps!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            481,
+            138,
+            560
+        ],
+        "text": "He's just an old man!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            586,
+            156,
+            694
+        ],
+        "text": "Please stop tormenting poor ol' Hyo!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            298,
+            546,
+            393,
+            708
+        ],
+        "text": "Huff, huff... Oh... my poor... precious...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            525,
+            193,
+            588,
+            297
+        ],
+        "text": "...Millet dumplings...!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            632,
+            40,
+            663,
+            118
+        ],
+        "text": "Huh?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            640,
+            163,
+            732,
+            255
+        ],
+        "text": "They're so good...!! So good...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            308,
+            674,
+            373
+        ],
+        "text": "Huff, chomp...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            654,
+            402,
+            758,
+            486
+        ],
+        "text": "...How do you have so many meal tickets?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            644,
+            623,
+            774,
+            693
+        ],
+        "text": "So tell me, old man, if you can barely work...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            21,
+            948,
+            137
+        ],
+        "text": "I won't let a single dumpling he gave to me...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            157,
+            951,
+            231
+        ],
+        "text": "I won't spit them out!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            253,
+            970,
+            321
+        ],
+        "text": "Urbl! Ork...",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            865,
+            347,
+            934,
+            439
+        ],
+        "text": "Spit it out, Grampa!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            586,
+            956,
+            711
+        ],
+        "text": "Who said you could eat that?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1010,
+            10,
+            1032,
+            87
+        ],
+        "text": "Grmp!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1020,
+            141,
+            1028,
+            180
+        ],
+        "text": "Whak!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1011,
+            348,
+            1108,
+            448
+        ],
+        "text": "You don't have the right to eat!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            33,
+            1128,
+            116
+        ],
+        "text": "...Go to waste!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1072,
+            637,
+            1123,
+            701
+        ],
+        "text": "Bmfh!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1130,
+            258,
+            1148,
+            306
+        ],
+        "text": "Chonk!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1148,
+            482,
+            1167,
+            527
+        ],
+        "text": "Stomp!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

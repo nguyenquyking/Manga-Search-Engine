@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            237,
+            138,
+            475,
+            443
+        ],
+        "text": "Huh?! Why?! Kaido is still alive!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            237,
+            630,
+            740,
+            1146
+        ],
+        "text": "RAAAAH\u2026 \u30ba\u30c9\u30c9\u2026 Zrmmm!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            254,
+            1468,
+            417,
+            1715
+        ],
+        "text": "Hurry, Momonosuke!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            770,
+            334,
+            1141,
+            1068
+        ],
+        "text": "DOOM!!  \u308f\u3042\u3042\u3042\u3042 RAHHHH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            975,
+            1491,
+            1136,
+            1741
+        ],
+        "text": "It can't hold any longer!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1109,
+            185,
+            1488,
+            619
+        ],
+        "text": "AAAH!! The flame clouds won't last!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1275,
+            1554,
+            1357,
+            1678
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1680,
+            1365,
+            1934,
+            1745
+        ],
+        "text": "You have to make flame clouds to keep Onigashima aloft!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1743,
+            138,
+            1871,
+            422
+        ],
+        "text": "Whaaaat?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1830,
+            1010,
+            1860,
+            1154
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2084,
+            1450,
+            2371,
+            1740
+        ],
+        "text": "It's always been the only solution!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

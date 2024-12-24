@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            102,
+            713,
+            167,
+            832
+        ],
+        "text": "ALL MIGHT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            276,
+            841,
+            405,
+            991
+        ],
+        "text": "...THIS IS MY WAY OF PAYING YOU BACK.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            286,
+            878,
+            362
+        ],
+        "text": "CRAP!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1162,
+            170,
+            1228,
+            257
+        ],
+        "text": "MOVE FASTER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1246,
+            692,
+            1274,
+            1023
+        ],
+        "text": "@MOR3COLOR",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

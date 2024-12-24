@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            96,
+            95,
+            136,
+            176
+        ],
+        "text": "FLOWER CAPITAL",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            88,
+            646,
+            146,
+            730
+        ],
+        "text": "THE LAND OF WANO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            576,
+            58,
+            670,
+            197
+        ],
+        "text": "THE LATEST UPDATE ABOUT THE GHOST SIGHTINGS AT THE NORTHERN GRAVEYARD!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            571,
+            222,
+            652,
+            318
+        ],
+        "text": "A TALE TO CHILL THE BONES!\nOOOH!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            573,
+            441,
+            648,
+            563
+        ],
+        "text": "THERE'S BEEN ANOTHER\nGHOST SIGHTING,\nFOLKS!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            576,
+            621,
+            625,
+            726
+        ],
+        "text": "ANOTHER SIGHTING!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            878,
+            301,
+            1004,
+            499
+        ],
+        "text": "THE CULPRIT? INFAMOUS\nKAMAZO\nTHE MANSLAYER!!\nWE ALL KNOW IT'S HIM,\nBUT THEY CAN NEVER\nCATCH HIM!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            883,
+            610,
+            979,
+            732
+        ],
+        "text": "REPORTS OF A\nKILLER STRIKING\nON THE EIGHTH\nBLOCK OF\nDISTRICT TWO!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

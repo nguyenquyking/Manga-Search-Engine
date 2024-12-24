@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            260,
+            515,
+            504,
+            715
+        ],
+        "text": "It's fascinating, but I can't expend any more time on this.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            159,
+            1119,
+            365,
+            1318
+        ],
+        "text": "Hmm... No, I really can't understand that.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1425,
+            595,
+            1692,
+            813
+        ],
+        "text": "Curse-Warding Magic: Exploding Life.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

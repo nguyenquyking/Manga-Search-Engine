@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            44,
+            70,
+            132,
+            148
+        ],
+        "text": "THEY'RE BOTH ON DEATH'S DOOR!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            38,
+            457,
+            115,
+            577
+        ],
+        "text": "TAKE DOWN KID AND LAW!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            639,
+            125,
+            733
+        ],
+        "text": "HEH HEH HEH!! HEY, NOW'S OUR CHANCE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            71,
+            486,
+            178
+        ],
+        "text": "...BUT KAIDO WAS ALWAYS THE ULTIMATE ADVERSARY!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            413,
+            299,
+            476,
+            410
+        ],
+        "text": "YOU MIGHT HAVE BEATEN BIG MOM...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            431,
+            211,
+            480,
+            268
+        ],
+        "text": "RAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            460,
+            629,
+            472,
+            653
+        ],
+        "text": "AAA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            650,
+            435,
+            667,
+            516
+        ],
+        "text": "KACHING!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            690,
+            271,
+            763,
+            405
+        ],
+        "text": "PROTECT THE CAPTAINS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            689,
+            527,
+            727,
+            568
+        ],
+        "text": "?!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            704,
+            607,
+            776,
+            740
+        ],
+        "text": "YOU GUYS NEVER STOOD A CHANCE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

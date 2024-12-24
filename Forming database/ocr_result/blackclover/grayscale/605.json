@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            182,
+            814,
+            268,
+            933
+        ],
+        "text": "This isn't a ritual for devil-binding!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            272,
+            723,
+            356,
+            798
+        ],
+        "text": "It's devil-friending!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            585,
+            128,
+            646,
+            252
+        ],
+        "text": "...Mister Nacht!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            580,
+            814,
+            676,
+            930
+        ],
+        "text": "That kid's a moron...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1169,
+            229,
+            1236,
+            323
+        ],
+        "text": "Besides, it looks like...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1256,
+            108,
+            1384,
+            213
+        ],
+        "text": "...We want to take down the same people!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1396,
+            703,
+            1422,
+            775
+        ],
+        "text": "Yes, he is.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

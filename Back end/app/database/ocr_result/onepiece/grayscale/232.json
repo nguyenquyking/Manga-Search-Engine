@@ -1,0 +1,244 @@
+[
+    {
+        "text_box": [
+            42,
+            1157,
+            120,
+            1244
+        ],
+        "text": "WOULD YOU I-BEAMS STOP YAPPIN'...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            1419,
+            106,
+            1500
+        ],
+        "text": "...BACKWARD!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            214,
+            1150,
+            291,
+            1238
+        ],
+        "text": "...AND OBEY MY MAGNETISM?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            237,
+            1440,
+            280,
+            1503
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            304,
+            1335,
+            321,
+            1398
+        ],
+        "text": "CLUNK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            362,
+            1426,
+            462,
+            1497
+        ],
+        "text": "YOU'RE STILL STANDING...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            1172,
+            452,
+            1224
+        ],
+        "text": "...KID?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            882,
+            629,
+            1025
+        ],
+        "text": "PUNK CORNA DIO!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            546,
+            1430,
+            575,
+            1475
+        ],
+        "text": "WEEZ! WEEZ!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            1150,
+            778,
+            1284
+        ],
+        "text": "HA HA HA... FOR SOME REASON, I FEEL LIKE I'M DRIVEN BY A DIFFERENT GOAL NOW...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            703,
+            1370,
+            775,
+            1505
+        ],
+        "text": "I GUESS YOU BRATS REALLY WANT TO TAKE MY HEAD, DON'T YOU...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            625,
+            858,
+            729
+        ],
+        "text": "I'D RATHER DIE...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            312,
+            912,
+            460
+        ],
+        "text": "...THEN LET YOU GO TO THE ROOF!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            843,
+            834,
+            939
+        ],
+        "text": "IT'S EVEN BIGGER THAN BIG MOM'S GIANT FORM!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            764,
+            978,
+            820,
+            1036
+        ],
+        "text": "WHAT A HUGE BULL!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            858,
+            1398,
+            956,
+            1503
+        ],
+        "text": "I'M GUESSING KAIDO'S NEARLY DONE UP THERE TOO.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            887,
+            1158,
+            964,
+            1262
+        ],
+        "text": "THERE AIN'T A SINGLE THING IN THIS WORLD...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            997,
+            1379,
+            1091,
+            1484
+        ],
+        "text": "EVEN WATER DROPLETS CAN CARVE STONE, GIVEN ENOUGH TIME",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1009,
+            1163,
+            1086,
+            1262
+        ],
+        "text": "...THAT'S TOTALLY IMPERVIOUS TO DAMAGE!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1027,
+            832,
+            1090,
+            923
+        ],
+        "text": "LISTEN TO ME, OLD HAG...!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1065,
+            1317,
+            1101,
+            1359
+        ],
+        "text": "HUFF, HUFF!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1123,
+            297,
+            1140,
+            451
+        ],
+        "text": "To be continued!",
+        "panel_id": "7",
+        "type": "narration"
+    }
+]

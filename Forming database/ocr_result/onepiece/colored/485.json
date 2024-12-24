@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            73,
+            78,
+            186,
+            207
+        ],
+        "text": "SAY IT AIN'T SO!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            479,
+            162,
+            593
+        ],
+        "text": "SABO!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            643,
+            135,
+            728
+        ],
+        "text": "MT. CORVO,\nGOA\nKINGDOM",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            103,
+            382,
+            130,
+            427
+        ],
+        "text": "\u3046\u304a\u304a\u3041\nWAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            194,
+            622,
+            260,
+            739
+        ],
+        "text": "\u3046\u308f\u3042\u3042\u3042\nWAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            336,
+            633,
+            409,
+            723
+        ],
+        "text": "WE ONLY\nJUST FOUND\nOUT HE WAS\nALIVE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            472,
+            63,
+            589,
+            155
+        ],
+        "text": "THINGS\nARE JUST\nGETTING\nGOOD\nNOW!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            640,
+            72,
+            692,
+            163
+        ],
+        "text": "HEE HEE\nHEE!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            472,
+            435,
+            588,
+            537
+        ],
+        "text": "OH,\nTHE WORLD\nNEVER\nGETS OLD,\nDOES IT?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            499,
+            625,
+            561,
+            732
+        ],
+        "text": "UNDERSEA\nPRISON,\nIMPEL DOWN",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            618,
+            587,
+            675,
+            630
+        ],
+        "text": "HEE\nHEE\nHEE!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            822,
+            51,
+            925,
+            197
+        ],
+        "text": "WHY LET\nTHE MARINES\nREAP THE\nREWARD...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            818,
+            426,
+            936,
+            554
+        ],
+        "text": "PACK YER\nBAGS!!\nONTO THE\nSHIP!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            55,
+            1099,
+            173
+        ],
+        "text": "...WHEN I\nSTAND TO\nGAIN FROM\nTHIS?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            818,
+            637,
+            882,
+            733
+        ],
+        "text": "PIRATE\nISLAND,\nFULLALEAD",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            942,
+            614,
+            979,
+            685
+        ],
+        "text": "ZE HA HA\nHAA...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

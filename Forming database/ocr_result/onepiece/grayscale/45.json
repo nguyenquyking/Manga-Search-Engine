@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            48,
+            308,
+            160,
+            392
+        ],
+        "text": "He's going to punch right through the island!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            259,
+            73,
+            305,
+            131
+        ],
+        "text": "Luffy, no!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            81,
+            440,
+            210
+        ],
+        "text": "Do it, Momo!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            719,
+            73,
+            772,
+            199
+        ],
+        "text": "I believe in you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            530,
+            468,
+            644,
+            656
+        ],
+        "text": "But Onigashima's in the way!! So move it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            1337,
+            583,
+            1492
+        ],
+        "text": "I'm gonna put an end to all of this!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            321,
+            899,
+            399
+        ],
+        "text": "What?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1123,
+            47,
+            1139,
+            191
+        ],
+        "text": "To be continued!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

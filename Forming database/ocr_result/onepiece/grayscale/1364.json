@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            97,
+            87,
+            570,
+            364
+        ],
+        "text": "Hee hee hee!! Once we beat Kaido, I mean!!!\nAnd Orochi and Big Mom and everyone!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            751,
+            300,
+            969
+        ],
+        "text": "Let's do it with them!!\nThe party,\nthe toast,\neverything!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            138,
+            1172,
+            231,
+            1347
+        ],
+        "text": "Forget it!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            239,
+            1051,
+            339,
+            1141
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            434,
+            1067,
+            598,
+            1294
+        ],
+        "text": "DA\nCLUNK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            740,
+            93,
+            1038,
+            362
+        ],
+        "text": "...The biggest and best party yet!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            753,
+            1059,
+            1010,
+            1330
+        ],
+        "text": "Let's win this fight!! And then we'll have...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1501,
+            95,
+            1648,
+            302
+        ],
+        "text": "Move it, small fry!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1466,
+            450,
+            1639,
+            822
+        ],
+        "text": "AAAA\nHeh heh heh!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1527,
+            871,
+            1641,
+            1046
+        ],
+        "text": "You're on!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1846,
+            838,
+            2064,
+            1052
+        ],
+        "text": "I bet the booze will taste better than ever!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

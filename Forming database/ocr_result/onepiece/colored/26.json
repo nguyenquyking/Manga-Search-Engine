@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            122,
+            140,
+            289,
+            458
+        ],
+        "text": "Some vibration jarred the sea prism stone nail loose!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            103,
+            536,
+            256,
+            648
+        ],
+        "text": "It... It's out!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            729,
+            155,
+            852
+        ],
+        "text": "There...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            114,
+            1516,
+            251,
+            1692
+        ],
+        "text": "Treasure Repository, 2nd Floor",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            642,
+            1310,
+            713,
+            1475
+        ],
+        "text": "FWOOM...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            879,
+            435,
+            1087,
+            776
+        ],
+        "text": "I'm taking your precious daughter... to hell with me!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            1004,
+            1016,
+            1093
+        ],
+        "text": "GFH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            1133,
+            1054,
+            1348
+        ],
+        "text": "Are you watching, Oden?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1442,
+            1432,
+            1622,
+            1740
+        ],
+        "text": "At the very least... I can take you down with me!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1674,
+            1155,
+            1688,
+            1312
+        ],
+        "text": "KRASH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1827,
+            153,
+            2049,
+            456
+        ],
+        "text": "Whaaaaa-aaaaaa-aaa?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1846,
+            622,
+            1906,
+            774
+        ],
+        "text": "Huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1865,
+            1376,
+            1988,
+            1619
+        ],
+        "text": "Hey!! Momo!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2010,
+            940,
+            2010,
+            1099
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2611,
+            949,
+            2696,
+            1107
+        ],
+        "text": "GRRRGG...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2538,
+            622,
+            2639,
+            768
+        ],
+        "text": "Luffy...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

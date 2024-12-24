@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            185,
+            470,
+            296,
+            595
+        ],
+        "text": "IF WE CAN UTILISE THIS NEWFOUND POWER",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            392,
+            446,
+            504,
+            538
+        ],
+        "text": "WE'LL ESCAPE \"THIS ANTLION\"!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            755,
+            128,
+            865,
+            277
+        ],
+        "text": "WE CAN STRUCTURE OUR SHIP LIKE A PADDLE STEAMER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1182,
+            94,
+            1310,
+            235
+        ],
+        "text": "WE'LL MAKE USE OF YOUR DEVIL FRUIT, ACE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1377,
+            643,
+            1456,
+            765
+        ],
+        "text": "AND TO POWER IT,",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1132,
+            835,
+            1243,
+            985
+        ],
+        "text": "THREE PADDLE WHEELS, TWO ON THE SIDES AND ONE ON THE BACK.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            68,
+            94,
+            163,
+            207
+        ],
+        "text": "THE ALL-STARS HAVE BEEN WIPED OUT!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            246,
+            135,
+            310
+        ],
+        "text": "WHAT ARE YOU SAYING...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            370,
+            136,
+            499
+        ],
+        "text": "YOU NEED TO GET OUT OF THE CASTLE QUICKLY.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            567,
+            126,
+            671
+        ],
+        "text": "NOT YET. SOMETHING CAME UP.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            693,
+            137,
+            878
+        ],
+        "text": "HAVE YOU CAPTURED NICO ROBIN? GATCHA!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            442,
+            186,
+            496,
+            366
+        ],
+        "text": "BUT WE NEED TO BE READY IF THEY SOMEHOW PULL OFF AN UPSET.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            442,
+            508,
+            501,
+            686
+        ],
+        "text": "THE ODDS OF THIS NEW GENERATION WINNING ARE A MILLION TO ONE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            933,
+            67,
+            978,
+            153
+        ],
+        "text": "UNDERSTOOD...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            202,
+            976,
+            355
+        ],
+        "text": "...WILL BE DECIDED ON THIS ISLAND IN THE NEXT FEW MINUTES!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            891,
+            393,
+            965,
+            473
+        ],
+        "text": "THE FATE OF AN ERA...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            871,
+            554,
+            971,
+            698
+        ],
+        "text": "NEWS THAT BIG WOULD EXACERBATE EVERYTHING THAT'S HAPPENING AROUND THE WORLD!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

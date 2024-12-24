@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            558,
+            392,
+            575,
+            432
+        ],
+        "text": "ZZZT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            712,
+            0,
+            738,
+            152
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            859,
+            478,
+            856,
+            508
+        ],
+        "text": "BADMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            872,
+            4,
+            896,
+            164
+        ],
+        "text": "@Lightpluto031",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            989,
+            76,
+            1048,
+            159
+        ],
+        "text": "WHAT...?!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1119,
+            447,
+            1132,
+            456
+        ],
+        "text": "...!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

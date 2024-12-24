@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            77,
+            82,
+            148,
+            193
+        ],
+        "text": "...so we can\ncrush 'em,\nlittle by\nlittle!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            53,
+            572,
+            160,
+            688
+        ],
+        "text": "You kids\nstruck first\nwith your\nwide-range\nquirks! You\nrattled the",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            253,
+            501,
+            308,
+            634
+        ],
+        "text": "Now it's time\nfor the net to\nclose in...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            227,
+            28,
+            332,
+            145
+        ],
+        "text": "At this point,\nyour attacks\nwould only\nhit our\nallies and\ntrip 'em up.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            558,
+            564,
+            685
+        ],
+        "text": "You lent\nus your\nstrength, and\nthat was\nenough!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            791,
+            583,
+            862,
+            695
+        ],
+        "text": "Us\ngrown-ups\nhave gotta\nsettle the\nscore now...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            635,
+            1095,
+            730
+        ],
+        "text": "Nice and\nwarm,\nshroom.\nWouldn't mind\nliving in here.",
+        "panel_id": "5",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            717,
+            110,
+            727,
+            172
+        ],
+        "text": "BWOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

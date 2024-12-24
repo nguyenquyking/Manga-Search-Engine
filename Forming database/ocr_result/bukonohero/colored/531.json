@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            147,
+            132,
+            211,
+            281
+        ],
+        "text": "Another that renders him numb to pain.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            351,
+            201,
+            491
+        ],
+        "text": "A quirk that transforms morale into physical energy...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            291,
+            420,
+            352,
+            499
+        ],
+        "text": "Is your arm okay?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            530,
+            469,
+            636,
+            583
+        ],
+        "text": "Oh no! He's getting up!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            532,
+            756,
+            663,
+            929
+        ],
+        "text": "And a whole bunch more... All of these quirks help him last on the battlefield.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            895,
+            806,
+            963,
+            918
+        ],
+        "text": "It's just like Ujiko told us...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            263,
+            672,
+            319
+        ],
+        "text": "Ow, hot!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            84,
+            805,
+            180
+        ],
+        "text": "FWOOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1047,
+            87,
+            1200,
+            261
+        ],
+        "text": "We can't get close because of the flames!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1071,
+            455,
+            1130,
+            581
+        ],
+        "text": "The fire cut off all shadows!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1260,
+            395,
+            1356,
+            554
+        ],
+        "text": "And my spores are burning up, Shroom!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1263,
+            707,
+            1337,
+            884
+        ],
+        "text": "This guy really is our guardian.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

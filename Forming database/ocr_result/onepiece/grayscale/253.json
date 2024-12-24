@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            146,
+            94,
+            234,
+            157
+        ],
+        "text": "...The flower capital blooms with beauty.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            133,
+            605,
+            186,
+            682
+        ],
+        "text": "Aaah... Yet again today...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            374,
+            74,
+            485,
+            178
+        ],
+        "text": "What kind of restaurant are you gonna open?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            581,
+            498,
+            682
+        ],
+        "text": "Hold it, Sangoro. Now's hardly the time to wax poetic.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            532,
+            556,
+            622,
+            647
+        ],
+        "text": "It's about time you made a decision already.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            226,
+            801,
+            279
+        ],
+        "text": "Got any good ideas?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            974,
+            101,
+            1029,
+            188
+        ],
+        "text": "I've got a handful, Usohachi.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            546,
+            780,
+            692
+        ],
+        "text": "~Story Thus Far~",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            917,
+            319,
+            1038,
+            516
+        ],
+        "text": "...Sanji\u2014now called Sangoro\u2014decides to use his cooking to attract as many people and potential candidates as possible!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            930,
+            572,
+            1019,
+            695
+        ],
+        "text": "Looking for powerful samurai to bolster their ranks...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1057,
+            321,
+            1087,
+            555
+        ],
+        "text": "Translation: Adrienne Beck\nLettering: Sara Linsley",
+        "panel_id": "4",
+        "type": "credit"
+    }
+]

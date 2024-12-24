@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            41,
+            53,
+            124,
+            201
+        ],
+        "text": "What, at your limit already?! That was quite a demonstration",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            38,
+            472,
+            106,
+            576
+        ],
+        "text": "MAMA! MAMA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            22,
+            628,
+            108,
+            714
+        ],
+        "text": "So that strength comes at a cost.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            290,
+            618,
+            368,
+            733
+        ],
+        "text": "Still, if all of those punches did full damage...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            327,
+            484,
+            365,
+            547
+        ],
+        "text": "Huff, huff...!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            469,
+            611,
+            523,
+            740
+        ],
+        "text": "Happy Mother's...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            834,
+            588,
+            914,
+            712
+        ],
+        "text": "Blaze!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1017,
+            99,
+            1080,
+            174
+        ],
+        "text": "Whoa!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

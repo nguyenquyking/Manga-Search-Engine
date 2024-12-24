@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            70,
+            69,
+            150,
+            177
+        ],
+        "text": "It's following the piglet's scent!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            216,
+            129,
+            298
+        ],
+        "text": "...Right for us!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            616,
+            144,
+            720
+        ],
+        "text": "That monster's coming...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            434,
+            649,
+            487,
+            742
+        ],
+        "text": "Here it comes!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            505,
+            58,
+            567,
+            125
+        ],
+        "text": "AAAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            91,
+            712,
+            164
+        ],
+        "text": "BAKOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            782,
+            100,
+            840,
+            207
+        ],
+        "text": "...You're going to die one day!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            486,
+            856,
+            580
+        ],
+        "text": "He stole from you again?! I'm so sorry!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            85,
+            1128,
+            215
+        ],
+        "text": "That's fine!! Who's going to miss a guy like me?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            285,
+            1128,
+            418
+        ],
+        "text": "Get a job, Kin!! If you keep getting chased around by yakuza...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1066,
+            484,
+            1126,
+            591
+        ],
+        "text": "I'll pay the full value right now!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            636,
+            1140,
+            748
+        ],
+        "text": "HRAA!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

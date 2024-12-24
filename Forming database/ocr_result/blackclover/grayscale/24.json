@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            132,
+            260,
+            156,
+            858
+        ],
+        "text": "I HELPED THE PRINCE MAKE MAGIC ITEMS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            463,
+            206,
+            488,
+            941
+        ],
+        "text": "HE REALLY WAS NOTHING LIKE WHAT I'D EXPECTED.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            544,
+            106,
+            716,
+            249
+        ],
+        "text": "...AND SOME MEMBERS OF HIS FAMILY DIDN'T LIKE IT MUCH.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            544,
+            851,
+            616,
+            1028
+        ],
+        "text": "HE HAD PROGRESSIVE IDEAS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            822,
+            826,
+            996,
+            1011
+        ],
+        "text": "STILL, HE DIDN'T LET THAT BOTHER HIM, AND HE NEVER COMPROMISED HIS IDEALS.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            916,
+            267,
+            1054,
+            450
+        ],
+        "text": "HE WAS A STRONG AND STRAIGHT-FORWARD PERSON.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1329,
+            401,
+            1524,
+            505
+        ],
+        "text": "LATELY, THE PRINCE AND LADY TETIA, HIS YOUNGER SISTER, HAVE BEEN SNEAKING OUT QUITE FREQUENTLY.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1339,
+            98,
+            1465,
+            237
+        ],
+        "text": "SHF WHERE COULD THEY BE GOING...? ",
+        "panel_id": "5",
+        "type": "thought"
+    }
+]

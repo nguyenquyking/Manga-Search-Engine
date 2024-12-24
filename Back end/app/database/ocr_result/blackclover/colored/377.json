@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            201,
+            111,
+            221,
+            219
+        ],
+        "text": "@_KITSUI",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1224,
+            40,
+            1356,
+            147
+        ],
+        "text": "If we let these people... the Dark Triad... have their way...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1182,
+            294,
+            1240,
+            455
+        ],
+        "text": "00000\nLolo-Pechka?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1253,
+            784,
+            1343,
+            891
+        ],
+        "text": "This is... horrible!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

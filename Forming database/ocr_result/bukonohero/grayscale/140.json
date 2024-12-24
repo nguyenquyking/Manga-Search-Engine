@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            599,
+            72,
+            721,
+            197
+        ],
+        "text": "You ain't the boss of me, Leader.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            667,
+            478,
+            712
+        ],
+        "text": "Dabi.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            647,
+            951,
+            757
+        ],
+        "text": "Fancy running into you here!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            110,
+            1100,
+            273
+        ],
+        "text": "Come to watch your pals get cremated?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            383,
+            1087,
+            456
+        ],
+        "text": "Dear old Dad!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

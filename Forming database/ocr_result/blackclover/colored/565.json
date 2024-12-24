@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            75,
+            55,
+            247,
+            178
+        ],
+        "text": "As if a one-armed guy who can't even use magic could win!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            111,
+            308,
+            162,
+            289
+        ],
+        "text": "FOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            148,
+            665,
+            285,
+            774
+        ],
+        "text": "What a joke!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

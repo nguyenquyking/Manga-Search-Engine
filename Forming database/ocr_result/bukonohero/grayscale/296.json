@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            81,
+            315,
+            258,
+            490
+        ],
+        "text": "Whether you knew it or not, this (most likely) unsanctioned, free-spirited, early visit of yours!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            125,
+            580,
+            255,
+            734
+        ],
+        "text": "One for all... the accumulated power that could foil all my designs.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            330,
+            50,
+            459,
+            175
+        ],
+        "text": "Placing this incomplete body on the front line...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            812,
+            53,
+            897,
+            182
+        ],
+        "text": "...was a gamble I was forced to make.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            766,
+            359,
+            851,
+            511
+        ],
+        "text": "...was the one scenario I hated to imagine!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            684,
+            692,
+            751,
+            766
+        ],
+        "text": "Once it was mine...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            711,
+            544,
+            922,
+            675
+        ],
+        "text": "...All the other conspiring forces of the world\u2014including New Order\u2014would have been ants before me.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1080,
+            630,
+            1119,
+            766
+        ],
+        "text": "TRANSLATION: CALEB COOK\nLETTERING: JOHN HUNT",
+        "panel_id": "4",
+        "type": "credit"
+    }
+]

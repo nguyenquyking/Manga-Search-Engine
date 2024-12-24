@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            56,
+            182,
+            113,
+            315
+        ],
+        "text": "BIG MOM'S BACK!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            481,
+            115,
+            580
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            640,
+            139,
+            719
+        ],
+        "text": "PERFORMANCE\nFLOOR,\nSKULL\nDOME",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            113,
+            342,
+            106,
+            418
+        ],
+        "text": "VWOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            755,
+            80,
+            894,
+            213
+        ],
+        "text": "...UP TOP,\nWHERE\nKAIDO\nIS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            599,
+            871,
+            742
+        ],
+        "text": "DON'T\nWORRY!!\nI'M ONLY\nINTERESTED\nIN GOING...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

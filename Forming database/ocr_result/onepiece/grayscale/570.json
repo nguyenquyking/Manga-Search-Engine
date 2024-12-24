@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            45,
+            906,
+            147,
+            1001
+        ],
+        "text": "Did something happen, Lady Black Maria?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            1096,
+            112,
+            1310
+        ],
+        "text": "Stupid Skeleton!!  Through the ice blocks!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            1334,
+            108,
+            1414
+        ],
+        "text": "And who made that scream?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            1428,
+            115,
+            1517
+        ],
+        "text": "Huh?! What was that awful sound?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            202,
+            595,
+            281,
+            774
+        ],
+        "text": "Orchestra!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            409,
+            914,
+            468,
+            1056
+        ],
+        "text": "Lady Black Maria?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            1179,
+            440,
+            1244
+        ],
+        "text": "GRRRRR",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            563,
+            1351,
+            606,
+            1398
+        ],
+        "text": "Did she...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            613,
+            1097,
+            661,
+            1154
+        ],
+        "text": "What?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            737,
+            1428,
+            749,
+            1481
+        ],
+        "text": "Glare",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            747,
+            909,
+            834,
+            1025
+        ],
+        "text": "I appreciate you lining up for me! Yo ho ho!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            917,
+            1088,
+            1025
+        ],
+        "text": "And now, the phrase d'armes!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            999,
+            1367,
+            1072,
+            1509
+        ],
+        "text": "Eek!! A demon?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            73,
+            115,
+            128
+        ],
+        "text": "Craak!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1102,
+            1174,
+            1117,
+            1243
+        ],
+        "text": "Kraash!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            970,
+            89,
+            1043,
+            244
+        ],
+        "text": "Gyaaaaa!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

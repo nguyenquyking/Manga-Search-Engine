@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            38,
+            54,
+            111,
+            135
+        ],
+        "text": "At least I can take out that one...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            96,
+            463,
+            163,
+            549
+        ],
+        "text": "I ought to thank him!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            29,
+            581,
+            119,
+            729
+        ],
+        "text": "In that case... Sure thing, whoever you are!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            391,
+            614,
+            443,
+            721
+        ],
+        "text": "I super got",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            212,
+            460,
+            309
+        ],
+        "text": "Just a moment!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            497,
+            425,
+            540
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            177,
+            618,
+            242
+        ],
+        "text": "ZADOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            603,
+            575,
+            714,
+            723
+        ],
+        "text": "Nari-Kabura Arrow!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

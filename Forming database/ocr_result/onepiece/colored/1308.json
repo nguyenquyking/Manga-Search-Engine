@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            75,
+            22,
+            199,
+            175
+        ],
+        "text": "OPEN THE GATE!\nST. CHARLOS HAS BEEN INJURED!!\nHE REQUIRES IMMEDIATE MEDICAL ASSISTANCE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            207,
+            153,
+            306
+        ],
+        "text": "OH!\nWHAT IN THE WORLD HAS HAPPENED?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            351,
+            170,
+            437
+        ],
+        "text": "YOU HAVEN'T\nHEARD...\nTHE LAST\nOF ME...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            608,
+            175,
+            692
+        ],
+        "text": "PLEASE,\nST. CHARLOS,\nBE CALM!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            245,
+            608,
+            334,
+            695
+        ],
+        "text": "IT WILL\nUPSET\nYOUR\nWOUNDS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            155,
+            498,
+            399
+        ],
+        "text": "THUD...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            546,
+            29,
+            638,
+            138
+        ],
+        "text": "OH!\nCHARLOS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            32,
+            866,
+            120
+        ],
+        "text": "F...\nFATHER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            143,
+            867,
+            247
+        ],
+        "text": "ST.\nROSWARD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            285,
+            928,
+            399
+        ],
+        "text": "I HEARD\nTHERE WAS\nAN INCIDENT,\nAND I CAME\nTO GET\nYOU!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            596,
+            894,
+            699
+        ],
+        "text": "ARE YOU\nSAFE, MY\nBOY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1039,
+            328,
+            1066,
+            416
+        ],
+        "text": "WORLD NOBLE\nCELESTIAL DRAGON\nST ROSWARD",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

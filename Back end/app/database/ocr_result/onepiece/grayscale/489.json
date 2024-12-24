@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            101,
+            54,
+            239,
+            193
+        ],
+        "text": "WHAT ARE YOU DOING, MOMO?! JUST FLY!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            634,
+            139,
+            720
+        ],
+        "text": "HEY!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            380,
+            81,
+            488,
+            192
+        ],
+        "text": "ARE YOU STILL AFRAID OF HEIGHTS?! EVEN AS AN ADULT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            211,
+            474,
+            292
+        ],
+        "text": "I DON'T CARE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            483,
+            474,
+            736
+        ],
+        "text": "I... I KNOW THAT!! I MEAN TO! B-BUT... MY BODY WILL NOT MOVE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            590,
+            648,
+            742
+        ],
+        "text": "D-DO YOU REALIZE HOW HIGH UP I AM... JUST FROM LIFTING MY HEAD?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            572,
+            57,
+            666,
+            225
+        ],
+        "text": "SILENCE!! HOLD YOUR TONGUE!! A W-WARRIOR FEARS NOTHING!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            57,
+            922,
+            140
+        ],
+        "text": "I KNOW THAT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            163,
+            942,
+            301
+        ],
+        "text": "IF I DON'T STOP KAIDO, HE'LL TAKE OUT EVERYBODY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            330,
+            928,
+            412
+        ],
+        "text": "WE'RE IN A RUSH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            443,
+            945,
+            542
+        ],
+        "text": "I KNOW, I KNOW!! DO NOT RUSH ME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            582,
+            953,
+            723
+        ],
+        "text": "THEN WHAT DID YOU GET BIG FOR?! YOU'RE A DRAGON, SO FLY!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1031,
+            159,
+            1084,
+            236
+        ],
+        "text": "SO FLY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1054,
+            1,
+            1088,
+            152
+        ],
+        "text": "HUFF, GIVE ME A HUFF... MOMENT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

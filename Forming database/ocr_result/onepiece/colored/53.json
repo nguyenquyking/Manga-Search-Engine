@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            270,
+            1489,
+            423,
+            1622
+        ],
+        "text": "BEEOOP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            855,
+            630,
+            945,
+            778
+        ],
+        "text": "BOYOING",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            975,
+            1483,
+            1065,
+            1726
+        ],
+        "text": "HRGGG...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1070,
+            101,
+            1193,
+            340
+        ],
+        "text": "WHOAAA!!",
+        "panel_id": "1",
+        "type": "exclamation"
+    },
+    {
+        "text_box": [
+            1278,
+            787,
+            1406,
+            1088
+        ],
+        "text": "\u30ba\u30c9\u30fc\u30f3",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1379,
+            536,
+            1478,
+            681
+        ],
+        "text": "HNNNG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1406,
+            1206,
+            1505,
+            1307
+        ],
+        "text": "FWAP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1674,
+            136,
+            1734,
+            681
+        ],
+        "text": "ONE! TWO! THREE!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1890,
+            138,
+            2691,
+            495
+        ],
+        "text": "\u30ba\u30a6\u30fc!!  ZWOOP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2349,
+            626,
+            2338,
+            782
+        ],
+        "text": "\u30ba\u30a6\u30fc",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1967,
+            1427,
+            2125,
+            1629
+        ],
+        "text": "ZERO!!!",
+        "panel_id": "3",
+        "type": "exclamation"
+    }
+]

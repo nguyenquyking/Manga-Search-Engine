@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            113,
+            465,
+            172,
+            587
+        ],
+        "text": "WHAM!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            147,
+            420,
+            156,
+            562
+        ],
+        "text": "BAKO ON!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            825,
+            427,
+            918,
+            612
+        ],
+        "text": "RAAAAAAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1243,
+            262,
+            1297,
+            356
+        ],
+        "text": "CHK...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1260,
+            563,
+            1288,
+            623
+        ],
+        "text": "HUFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1488,
+            396,
+            1548,
+            471
+        ],
+        "text": "HUFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

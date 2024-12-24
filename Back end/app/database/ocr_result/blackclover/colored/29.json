@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            80,
+            127,
+            293,
+            293
+        ],
+        "text": "I wonder how it could be useful to us! I'm getting excited just thinking about it!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            137,
+            331,
+            289,
+            468
+        ],
+        "text": "What's that?! I've never heard of it!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            720,
+            159,
+            853
+        ],
+        "text": "Sealing magic?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            328,
+            481,
+            468
+        ],
+        "text": "How fascinating! Spectacular!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            601,
+            410,
+            720,
+            500
+        ],
+        "text": "...Stop grinning like you just said something witty.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            640,
+            222,
+            705,
+            288
+        ],
+        "text": "Also, your clothes are odd.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            718,
+            84,
+            787,
+            198
+        ],
+        "text": "But I made these! Aren't they cool?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            664,
+            554,
+            770,
+            702
+        ],
+        "text": "Not at all! You shouldn't shut the doors to your own potential!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            750,
+            722,
+            846
+        ],
+        "text": "Magic that just opens and closes things is...shameful...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            863,
+            333,
+            956,
+            447
+        ],
+        "text": "The invention of magic tools.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            923,
+            489,
+            991,
+            574
+        ],
+        "text": "Can you add magic power to objects?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            754,
+            1003,
+            844
+        ],
+        "text": "Right now, I'm making magic tools.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            964,
+            117,
+            1149,
+            365
+        ],
+        "text": "Something that would enable the underprivileged who have no magical power or an attribute for magic, to use several types of them...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1097,
+            495,
+            1132,
+            547
+        ],
+        "text": "Well... yeah...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1089,
+            751,
+            1164,
+            853
+        ],
+        "text": "I'm sure your magic will come in handy!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1157,
+            31,
+            1248,
+            157
+        ],
+        "text": "More so, a tool to balance society.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            33,
+            1484,
+            97,
+            1553
+        ],
+        "text": "...WHEN\nYOU\nTRANSFORM.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            123,
+            153,
+            218,
+            286
+        ],
+        "text": "TWICE'S\nBLOOD,\nTHAT IS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            257,
+            1440,
+            387,
+            1539
+        ],
+        "text": "IF THE\nPERSON'S\nSOMEONE\nCLOSE TO\nYOUR\nHEART...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            464,
+            1326,
+            570,
+            1455
+        ],
+        "text": "...YOU'LL BE\nABLE TO USE\nTHEIR QUIRK\nBY DRINKING\nTHEIR BLOOD.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            786,
+            1326,
+            902,
+            1423
+        ],
+        "text": "...I MADE\nSURE TO\nGRAB THE\nORIGINAL\nBODY'S\nBLOOD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            791,
+            1483,
+            875,
+            1558
+        ],
+        "text": "BEFORE\nMACHIA\nWHISKED\nUS\nAWAY...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1022,
+            36,
+            1071,
+            133
+        ],
+        "text": "THAT'LL\nBE US.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            467,
+            1072,
+            592
+        ],
+        "text": "AND\nTHE ONES\nHAVING\nTHE LAST\nLAUGH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            892,
+            1056,
+            1025
+        ],
+        "text": "WE'LL HELP\nTHAT SAD,\nSAD PARADE\nTO KEEP\nMARCHING.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

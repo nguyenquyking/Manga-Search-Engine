@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            19,
+            102,
+            85,
+            189
+        ],
+        "text": "I had convinced myself of that...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            4,
+            281,
+            77,
+            382
+        ],
+        "text": "I'm no longer an active player on the board.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            112,
+            180,
+            220,
+            262
+        ],
+        "text": "So I am sorry for any anxiety I may have caused...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            26,
+            450,
+            160,
+            686
+        ],
+        "text": "The battle that will decide it all is close at hand.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            343,
+            273,
+            412,
+            378
+        ],
+        "text": "It's nearly time to muster all our forces.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            75,
+            589,
+            316
+        ],
+        "text": "...to see them along on that journey.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            203,
+            577,
+            319
+        ],
+        "text": "...wherever that inner flame leads them...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            342,
+            574,
+            411
+        ],
+        "text": "To follow these kids...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            365,
+            473,
+            416,
+            564
+        ],
+        "text": "...I acquired new intel.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            519,
+            460,
+            571,
+            556
+        ],
+        "text": "...to join this fight with them.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            595,
+            414,
+            670
+        ],
+        "text": "I'll skip the details, but...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            579,
+            594,
+            688
+        ],
+        "text": "I'll crawl through the mud if that's what it takes...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            527,
+            784,
+            658
+        ],
+        "text": "And we'll have some answers soon enough.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            111,
+            804,
+            292
+        ],
+        "text": "These days... my own body limits how much I can contribute...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            802,
+            28,
+            842,
+            100
+        ],
+        "text": "All Might!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            75,
+            1108,
+            177
+        ],
+        "text": "I got all messed up because I didn't have you around, so...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            957,
+            528,
+            1055,
+            684
+        ],
+        "text": "Those Tonkatsu bento boxes gave me the strength to go on!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

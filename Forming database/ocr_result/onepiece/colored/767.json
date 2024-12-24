@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            66,
+            59,
+            181,
+            181
+        ],
+        "text": "...Can scarcely believe that it is you, Sir Hyogoro...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            628,
+            150,
+            711
+        ],
+        "text": "And I too...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            382,
+            59,
+            470,
+            184
+        ],
+        "text": "Come on now, Straw Hat, don't be like that!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            214,
+            468,
+            325
+        ],
+        "text": "You're the one I'm doubting, Caribou!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            356,
+            469,
+            436
+        ],
+        "text": "Indeed! It was the work of Lady Toki's sorcery...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            475,
+            487,
+            636
+        ],
+        "text": "You say that you traveled across 20 years of time, from that fateful day to now?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            667,
+            466,
+            743
+        ],
+        "text": "I... I doubt my very ears!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            62,
+            570,
+            137
+        ],
+        "text": "Kee hee hee!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            622,
+            61,
+            720,
+            224
+        ],
+        "text": "I thought you had the keys to my cuffs, Raizo! Why did they have to be this guy's?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            245,
+            912,
+            343
+        ],
+        "text": "What?! You need a ride home?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            782,
+            372,
+            812,
+            505
+        ],
+        "text": "Kee hee hee-hee",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            802,
+            559,
+            924,
+            727
+        ],
+        "text": "Is all this hate really necessary? C'mon, I know I can help you out! I'm your underling now, Boss!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            561,
+            1111,
+            724
+        ],
+        "text": "And all I'm askin' for in exchange...is a little itty-bitty ride on the ship back home, see??",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            237,
+            1134,
+            349
+        ],
+        "text": "I've realized the error of my ways! I'm a changed man!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

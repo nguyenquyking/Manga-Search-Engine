@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            81,
+            54,
+            211,
+            150
+        ],
+        "text": "You mean that fella passed out over there? Did it?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            361,
+            176,
+            427
+        ],
+        "text": "...like Lord Oden's special trick!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            646,
+            124,
+            737
+        ],
+        "text": "Why, that looked...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            61,
+            469,
+            181
+        ],
+        "text": "That \"Kid\" brat also has the color of the Supreme King...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            402,
+            433,
+            495
+        ],
+        "text": "You too...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            57,
+            615,
+            177
+        ],
+        "text": "But we don't need all of these Supreme Kings running around...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            87,
+            732,
+            183
+        ],
+        "text": "AAAUUGH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            700,
+            538,
+            781,
+            696
+        ],
+        "text": "I'll deal with Trafalgar later...\nNow it is time to drink again.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1048,
+            61,
+            1122,
+            183
+        ],
+        "text": "I've sobered up, blast it...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

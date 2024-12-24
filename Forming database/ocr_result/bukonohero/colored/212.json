@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            110,
+            187,
+            160,
+            291
+        ],
+        "text": "IN THAT CASE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            642,
+            98,
+            721,
+            247
+        ],
+        "text": "...I GOTTA BULK UP MY ARMOR.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            829,
+            569,
+            841,
+            651
+        ],
+        "text": "BWRMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            978,
+            226,
+            1335,
+            373
+        ],
+        "text": "TIME... ...FOR A BLOOD FRENZY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            553,
+            1110,
+            643
+        ],
+        "text": "LET'S SAVE THAT KID!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1214,
+            729,
+            1276,
+            809
+        ],
+        "text": "YO! NO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

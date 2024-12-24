@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            401,
+            383,
+            413,
+            523
+        ],
+        "text": "Translation: Taylor Engel",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            401,
+            518,
+            413,
+            738
+        ],
+        "text": "Lettering: Annaliese \"Ace\" Christman",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            533,
+            578,
+            603,
+            727
+        ],
+        "text": "Arrrgggh!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            628,
+            835,
+            720
+        ],
+        "text": "Trash!!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            477,
+            1035,
+            633
+        ],
+        "text": "Magicless scum!!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            33,
+            952,
+            191
+        ],
+        "text": "My body! You-\nAaa-\nAAA-\naAA-\nrrgh\n!!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            27,
+            174,
+            217,
+            280
+        ],
+        "text": "KOFF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            412,
+            117,
+            512,
+            265
+        ],
+        "text": "...KIKU!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            139,
+            800,
+            222,
+            953
+        ],
+        "text": "JUST SURVIVE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            121,
+            1297,
+            249,
+            1459
+        ],
+        "text": "CASTLE BASEMENT",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1438,
+            262,
+            1396,
+            360
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1678,
+            720,
+            1703,
+            1157
+        ],
+        "text": "KRAAASH!!!...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

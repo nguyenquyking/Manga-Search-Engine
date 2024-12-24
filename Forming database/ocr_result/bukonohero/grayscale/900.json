@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            214,
+            72,
+            259,
+            140
+        ],
+        "text": "...were apprehended.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            291,
+            109,
+            390
+        ],
+        "text": "...and Mr. Compress...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            207,
+            673,
+            243,
+            754
+        ],
+        "text": "Gigantomachia...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            417,
+            564,
+            503,
+            712
+        ],
+        "text": "Gunga Mountain Villa",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

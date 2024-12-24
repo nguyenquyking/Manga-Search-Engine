@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            72,
+            51,
+            129,
+            187
+        ],
+        "text": "The castle's already burning down as it is...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            171,
+            54,
+            243,
+            146
+        ],
+        "text": "I figured you'd treat your men better.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            96,
+            490,
+            114,
+            549
+        ],
+        "text": "AAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            243,
+            619,
+            303,
+            727
+        ],
+        "text": "GYAAAA!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            413,
+            49,
+            493,
+            150
+        ],
+        "text": "What are you, anyway?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            397,
+            498,
+            540
+        ],
+        "text": "Did I hear something about a hundred million, just for a tip-off?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            581,
+            478,
+            714
+        ],
+        "text": "If they're distracting you, why not come up here?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            44,
+            839,
+            168
+        ],
+        "text": "DADADADAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            957,
+            187,
+            966,
+            254
+        ],
+        "text": "ZWOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            762,
+            444,
+            866,
+            541
+        ],
+        "text": "...to a man about to die!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            735,
+            568,
+            743,
+            629
+        ],
+        "text": "GRRG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1039,
+            601,
+            1104,
+            719
+        ],
+        "text": "Nothing that's going to matter...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            161,
+            107,
+            238,
+            242
+        ],
+        "text": "...Midoriya is our friend.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            104,
+            343,
+            227,
+            498
+        ],
+        "text": "No matter how great a burden one for all may be...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            109,
+            573,
+            217,
+            662
+        ],
+        "text": "...and he expected that letter to put us at ease.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            672,
+            160,
+            771
+        ],
+        "text": "He never opened up to us about one for all...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            571,
+            447,
+            647
+        ],
+        "text": "That came as a shock to us.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            252,
+            941,
+            405
+        ],
+        "text": "And we can't very well be expected to go smiling into the future...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            94,
+            1046,
+            242
+        ],
+        "text": "...Knowing that our friend is walking this thorny path alone.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            921,
+            605,
+            1120,
+            748
+        ],
+        "text": "We of Class A intend to find him, follow him, and work alongside him.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

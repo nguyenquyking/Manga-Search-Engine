@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            125,
+            68,
+            139,
+            136
+        ],
+        "text": "PLUMEDE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            20,
+            286,
+            209,
+            324
+        ],
+        "text": "BRR\nBRR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            480,
+            607,
+            551,
+            706
+        ],
+        "text": "DIE\nWITH ME,\nPLEASE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1031,
+            134,
+            1065,
+            185
+        ],
+        "text": "WHAT\n...?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            300,
+            1085,
+            373
+        ],
+        "text": "YOU'D\nHAVE\nNOWHERE\nTO\nRETURN\nTO IN ANY\nCASE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            514,
+            1041,
+            570
+        ],
+        "text": "DON'T\nWORRY,\nTHOUGH.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            646,
+            1008,
+            734
+        ],
+        "text": "AS I\nSAID,\nYOU WILL\nBE THE\nONES TO\nDIE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "text_box": [
+            649,
+            410,
+            689,
+            456
+        ],
+        "text": "BOOF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

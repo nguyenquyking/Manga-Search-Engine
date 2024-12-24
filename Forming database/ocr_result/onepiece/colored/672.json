@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            86,
+            64,
+            162,
+            169
+        ],
+        "text": "O...OLIN'S CALLIN' FOR ME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            274,
+            144,
+            401
+        ],
+        "text": "LET'S EAT IT TOGETHER!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            468,
+            156,
+            592
+        ],
+        "text": "I SMELL THE SCENT OF OSHIRUKO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            630,
+            159,
+            713
+        ],
+        "text": "COME QUICK, OTAMA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            415,
+            157,
+            517,
+            274
+        ],
+        "text": "THE OTHER BIG QUESTION WAS HOW WE WERE GOING TO GET INSIDE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            421,
+            316,
+            504,
+            403
+        ],
+        "text": "AND... THE GATE IS WIDE OPEN NOW!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            542,
+            57,
+            625,
+            177
+        ],
+        "text": "IT MEANS WE CAN GO IN AND RESCUE BIG BRO NOW!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            584,
+            519,
+            731
+        ],
+        "text": "WHAT?! HOW IS THERE OSHIRUKO INSIDE?! THAT WAS A COMPLETE AND TOTAL BLUFF...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            59,
+            924,
+            146
+        ],
+        "text": "WE MUST USE OUR UTMOST VIGILANCE, CHOPPER-EMON!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            174,
+            894,
+            352
+        ],
+        "text": "UDON IS UNDER THE CONTROL OF QUEEN, A LEAD PERFORMER OF THE BEASTS PIRATES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            388,
+            848,
+            472
+        ],
+        "text": "I... I SUPPOSE THERE'S NO CHOICE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            487,
+            819,
+            566
+        ],
+        "text": "AWWW!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            778,
+            601,
+            884,
+            720
+        ],
+        "text": "OTAMA, LORD MOMONOSUKE, YOU MUST HIDE OUT HERE AND WAIT FOR US.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            388,
+            986,
+            488
+        ],
+        "text": "OF COURSE THERE ISN'T. AFTER ALL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1050,
+            388,
+            1147,
+            504
+        ],
+        "text": "...YOU MUST NOT BE SPOTTED HERE, LORD MOMONOSUKE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1022,
+            47,
+            1137,
+            156
+        ],
+        "text": "WHAT IS WITH YOU GUYS AND TYING THOSE TOWELS UNDER YOUR NOSES?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            102,
+            50,
+            128,
+            114
+        ],
+        "text": "Hoy!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            178,
+            46,
+            204,
+            100
+        ],
+        "text": "Hoy!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            357,
+            21,
+            422,
+            101
+        ],
+        "text": "HOY\nHOY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            146,
+            580,
+            252,
+            704
+        ],
+        "text": "BODHI-\nSATTVA\nSLAP!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            537,
+            20,
+            624,
+            127
+        ],
+        "text": "YOU'RE\nNOT GONNA\nWIN JUST BY\nRUNNIN'!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            535,
+            166,
+            596,
+            268
+        ],
+        "text": "BWA HA\nHA! HANG IN\nTHERE, LI'L",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            309,
+            597,
+            412
+        ],
+        "text": "THAT GUY'S\nSLIPPERY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            644,
+            597,
+            695
+        ],
+        "text": "HUH\n?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            311,
+            757,
+            400
+        ],
+        "text": "HE'S\nDODGING\nALL OF\nURASHIMA'S\nSLAPS!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            837,
+            25,
+            903,
+            148
+        ],
+        "text": "HEY, ISN'T\nTHAT AGAINST\nTHE RULES?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            831,
+            182,
+            892,
+            342
+        ],
+        "text": "EYE-\nSPLITTER!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            852,
+            591,
+            936,
+            704
+        ],
+        "text": "EAR-\nSPLITTER\n!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            987,
+            661,
+            1068,
+            707
+        ],
+        "text": "N3-4!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

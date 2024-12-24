@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            288,
+            92,
+            553,
+            319
+        ],
+        "text": "DON'T LET IT GO ANY FARTHER!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            198,
+            1102,
+            644,
+            1281
+        ],
+        "text": "GNRR-RRRR-RRRR-RRRR-RRRR-RRRR-RRGH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            765,
+            82,
+            801,
+            222
+        ],
+        "text": "Shiuny",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            776,
+            982,
+            803,
+            1244
+        ],
+        "text": "COLOR CLOVERS",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1322,
+            386,
+            1377,
+            504
+        ],
+        "text": "THE DEMON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1646,
+            86,
+            1808,
+            227
+        ],
+        "text": "...IS CHARGING STRAIGHT FOR THE ROYAL CAPITAL!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1682,
+            754,
+            1770,
+            939
+        ],
+        "text": "...EVACUATE THE CITIZENS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1291,
+            1112,
+            1484,
+            1273
+        ],
+        "text": "WHILE CAPTAIN KAISER AND THE PURPLE ORCAS ARE SLOWING IT DOWN...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

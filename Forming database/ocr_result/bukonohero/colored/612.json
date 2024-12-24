@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            121,
+            292,
+            208,
+            408
+        ],
+        "text": "HAND OVER ONE FOR ALL, IZUKU MIDORIYA.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            666,
+            241,
+            787
+        ],
+        "text": "...OF DEATH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1383,
+            355,
+            1399,
+            431
+        ],
+        "text": "SHWAP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

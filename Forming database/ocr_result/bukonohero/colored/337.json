@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            824,
+            417,
+            852,
+            476
+        ],
+        "text": "FWSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1177,
+            395,
+            1257,
+            530
+        ],
+        "text": "\u30ac\u30c3",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1269,
+            551,
+            1295,
+            581
+        ],
+        "text": "?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1293,
+            150,
+            1366,
+            279
+        ],
+        "text": "POWER... SUDDENLY...\nALL GONE...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

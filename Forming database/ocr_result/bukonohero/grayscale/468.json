@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            34,
+            70,
+            171,
+            220
+        ],
+        "text": "FWOO!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            136,
+            468,
+            153,
+            559
+        ],
+        "text": "RELEASE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            603,
+            681,
+            642,
+            756
+        ],
+        "text": "HOW CAN I...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            942,
+            212,
+            1063,
+            254
+        ],
+        "text": "KIRISHIMA!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            938,
+            649,
+            997,
+            747
+        ],
+        "text": "...STICK THIS LANDING?",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            145,
+            198,
+            248,
+            367
+        ],
+        "text": "An era when his control spread unchecked.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            178,
+            787,
+            280,
+            943
+        ],
+        "text": "The height of All For One's prosperity.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            543,
+            313,
+            652,
+            443
+        ],
+        "text": "But our leader had misgivings about the future.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            528,
+            663,
+            636,
+            798
+        ],
+        "text": "Those who were under his control didn't even realize it.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            860,
+            775,
+            988,
+            938
+        ],
+        "text": "In order to strike back against All For One's control...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1210,
+            202,
+            1315,
+            344
+        ],
+        "text": "...He gathered allies and fought.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            36,
+            502,
+            90,
+            556
+        ],
+        "text": "Quite\nthe ace\nup his\nsleeve!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            617,
+            172,
+            748
+        ],
+        "text": "And guess what? Right now, my prerecorded life story is broadcasting nationwide and",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            406,
+            82,
+            486,
+            180
+        ],
+        "text": "I've been pondering all this ever since that day!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            383,
+            342,
+            496,
+            446
+        ],
+        "text": "How could I make you hurt?! How to best stomp all over your life?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            369,
+            517,
+            449,
+            594
+        ],
+        "text": "Man, I'm having a blast!! Sorry, where was I?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            116,
+            712,
+            242
+        ],
+        "text": "...I'd crawl to Natsuo, crying my eyes out. Not that you ever knew, right?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            613,
+            604,
+            695,
+            716
+        ],
+        "text": "I couldn't figure out why I even existed, and every day...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            874,
+            164,
+            986,
+            283
+        ],
+        "text": "...You got bumped up to number one! Suddenly, I was rooting for your happiness.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            398,
+            1093,
+            512
+        ],
+        "text": "...I thought killing him might do the trick! But then\u2014who would've guessed...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            599,
+            952,
+            745
+        ],
+        "text": "When you finally achieved success with your little puppet Shoto...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

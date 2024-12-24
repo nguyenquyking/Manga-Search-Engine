@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            363,
+            737,
+            613,
+            911
+        ],
+        "text": "DARK CLOAKED BLACK SCYTHE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1185,
+            590,
+            1202,
+            673
+        ],
+        "text": "You...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

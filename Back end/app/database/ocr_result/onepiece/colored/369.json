@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            213,
+            188,
+            621,
+            243
+        ],
+        "text": "ONE PIECE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            423,
+            292,
+            696,
+            475
+        ],
+        "text": "95\u5dfb\u304c\u59cb\u307e\u308b\u3088!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            817,
+            199,
+            957,
+            230
+        ],
+        "text": "\u5c3e\u7530\u6804\u4e00\u90ce",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            787,
+            296,
+            909,
+            511
+        ],
+        "text": "LINE\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\n350\u4e07",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            956,
+            285,
+            983,
+            423
+        ],
+        "text": "URL\u306f\u3053\u3061\u3089\uff01\nLINE: https://goo.gl/a8rsxD",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1168,
+            250,
+            1182,
+            508
+        ],
+        "text": "\u80cc\u8868\u7d19\u30fb\u30ab\u30d0\u30fc\u6298\u308a\u8fd4\u3057",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

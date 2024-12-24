@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            237,
+            2210,
+            335,
+            2395
+        ],
+        "text": "RAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            332,
+            985,
+            370,
+            1180
+        ],
+        "text": "Hee Hee Hee!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            1675,
+            456,
+            1842
+        ],
+        "text": "ZHWOOOOOP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            772,
+            777,
+            832,
+            859
+        ],
+        "text": "HUFF, HUFF!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            140,
+            945,
+            275
+        ],
+        "text": "Straw Hat... You Survived!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            757,
+            1080,
+            855
+        ],
+        "text": "AHA HA HA HA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1146,
+            115,
+            1170,
+            277
+        ],
+        "text": "THANK YOU.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1042,
+            1865,
+            1133,
+            2012
+        ],
+        "text": "WAAAA!!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1011,
+            2240,
+            1150,
+            2397
+        ],
+        "text": "HI-YAAAAA!!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1272,
+            1025,
+            1349,
+            1120
+        ],
+        "text": "OOOG!!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1267,
+            1257,
+            1267,
+            1370
+        ],
+        "text": "WHOMP!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1320,
+            125,
+            1473,
+            305
+        ],
+        "text": "BLAST BREATH!!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1362,
+            590,
+            1367,
+            687
+        ],
+        "text": "BOOM!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1312,
+            1930,
+            1360,
+            2017
+        ],
+        "text": "FLOMP!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1692,
+            1682,
+            1729,
+            1820
+        ],
+        "text": "BWAH!!",
+        "panel_id": "7",
+        "type": "sound_effect"
+    }
+]

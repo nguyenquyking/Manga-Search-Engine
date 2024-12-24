@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            62,
+            284,
+            79,
+            338
+        ],
+        "text": "UNDINE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            570,
+            180,
+            707
+        ],
+        "text": "I WANTED HER...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            378,
+            490,
+            496
+        ],
+        "text": "BUT AS A RESULT... SHE WAS CURSED, AND THEN KIDNAPPED.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            668,
+            29,
+            730,
+            158
+        ],
+        "text": "I WAS WRONG!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            589,
+            843,
+            684
+        ],
+        "text": "...TO STAY KIND.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1039,
+            184,
+            1068,
+            266
+        ],
+        "text": "YES...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

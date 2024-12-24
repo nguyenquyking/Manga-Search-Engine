@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            78,
+            34,
+            175,
+            163
+        ],
+        "text": "Yeah, but Ace isn't going to show up, no matter how long she waits.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            196,
+            175,
+            329
+        ],
+        "text": "Why would you say such a thing to her, even if it is the truth?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            584,
+            144,
+            669
+        ],
+        "text": "Are you an ogre?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            261,
+            28,
+            360,
+            145
+        ],
+        "text": "There is better timing! A better way to break the news!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            448,
+            14,
+            553,
+            168
+        ],
+        "text": "I'm Luffy, the guy who's gonna be the Pirate King!! And who are you?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            218,
+            537,
+            337
+        ],
+        "text": "Have you no concept of sensitivity?! Who are you?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            20,
+            890,
+            161
+        ],
+        "text": "A pirate?! I don't like them as a general rule!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            390,
+            919,
+            646
+        ],
+        "text": "KATANA BLACKSMITH\nTENGUYAMA HITETSU\n(CUTE GIRL KOKESHI DOLL COLLECTOR)",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            983,
+            36,
+            1122,
+            205
+        ],
+        "text": "I am a blacksmith, and I too have been awaiting someone for a very long time.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            572,
+            1087,
+            699
+        ],
+        "text": "I am Hitetsu.",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

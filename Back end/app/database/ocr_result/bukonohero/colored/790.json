@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            101,
+            656,
+            284,
+            844
+        ],
+        "text": "LUNA FALL!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            788,
+            56,
+            772,
+            157
+        ],
+        "text": "SKWOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

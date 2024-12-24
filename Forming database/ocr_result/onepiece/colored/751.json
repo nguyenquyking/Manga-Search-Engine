@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            81,
+            47,
+            145,
+            193
+        ],
+        "text": "SHE DEFIED THE WILL OF SHOGUN OROCHI!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            190,
+            13,
+            295,
+            162
+        ],
+        "text": "SHE IS TO BE \"TRIED\" AS A CRIMINAL AND BURNED AT THE STAKE AT THE PRISONERS' QUARTERS THERE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            582,
+            160,
+            695
+        ],
+        "text": "WHY ARE YOU HEADING TO RASETSU TOWN?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            379,
+            43,
+            462,
+            152
+        ],
+        "text": "TONOYASU IS THE WITCHING HOUR BOY?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            171,
+            454,
+            256
+        ],
+        "text": "WHY DID THIS HAVE TO HAPPEN?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            380,
+            288,
+            452,
+            405
+        ],
+        "text": "TONOYASU'S BEING CRUCIFIED!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            375,
+            450,
+            472,
+            570
+        ],
+        "text": "LOOK! IT'S SHOWING THE MAIN GATE OF THE PRISONERS' QUARTERS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            614,
+            463,
+            684
+        ],
+        "text": "EBISU TOWN",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            499,
+            17,
+            552,
+            95
+        ],
+        "text": "IT'S YASU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            33,
+            861,
+            134
+        ],
+        "text": "WHAT DO YOU MEAN? WHO IS HE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            167,
+            860,
+            283
+        ],
+        "text": "THE THIEVING PART IS THE LEAST OF HIS WORRIES!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            765,
+            320,
+            873,
+            405
+        ],
+        "text": "THAT HAIRSTYLE JOGS MY MEMORY NOW...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            765,
+            450,
+            878,
+            541
+        ],
+        "text": "WHAT DOES THIS MEAN?! I DON'T GET IT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            580,
+            866,
+            696
+        ],
+        "text": "IT SOUNDS LIKE TONOYASU WAS A THIEF.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            453,
+            1155,
+            533
+        ],
+        "text": "WASN'T HE SUPPOSED TO BE A SAINT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

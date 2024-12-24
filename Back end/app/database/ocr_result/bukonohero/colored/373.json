@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            814,
+            83,
+            924,
+            248
+        ],
+        "text": "I'd better take Shigaraki down since he's already on his last",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            686,
+            283,
+            841,
+            410
+        ],
+        "text": "There's no way we can handle fighting both that giant and Shigaraki!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1121,
+            72,
+            1263,
+            180
+        ],
+        "text": "They refuse to give our broken body the slightest reprieve...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1124,
+            280,
+            1263,
+            379
+        ],
+        "text": "So strong... Surge and half-cold half-hot.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1103,
+            599,
+            1103,
+            648
+        ],
+        "text": "FWSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

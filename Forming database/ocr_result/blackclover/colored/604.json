@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            179,
+            124,
+            644,
+            171
+        ],
+        "text": "YUMMMMMMM!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            66,
+            334,
+            244,
+            651
+        ],
+        "text": "\u3080\u3057\u3083\u308a\n\u3080\u3057\u3083\u308a",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            143,
+            1089,
+            707,
+            1133
+        ],
+        "text": "WHOOOOOOOOOA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            824,
+            517,
+            1064,
+            689
+        ],
+        "text": "You said the Spade Kingdom Resistance members made these with magic?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            1114,
+            1125,
+            1265
+        ],
+        "text": "And now my wounds heal up and my strength comes back!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1099,
+            92,
+            1236,
+            222
+        ],
+        "text": "When we meet,\nI'll have to thank them!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1434,
+            101,
+            1635,
+            255
+        ],
+        "text": "...About 10 percent of the time, his idea is sheer genius.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1434,
+            521,
+            1579,
+            616
+        ],
+        "text": "When he gets like this...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1472,
+            733,
+            1558,
+            868
+        ],
+        "text": "C'mere a second, Liebe!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1425,
+            1026,
+            1558,
+            1172
+        ],
+        "text": "Oh! Eating something sweet gave me an idea!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

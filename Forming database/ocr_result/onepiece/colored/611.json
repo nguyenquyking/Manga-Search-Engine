@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            64,
+            131,
+            156,
+            283
+        ],
+        "text": "...It'll be a place where you can eat as much as you want, every single day!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            399,
+            153,
+            492
+        ],
+        "text": "By the time we leave this country...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            620,
+            133,
+            699
+        ],
+        "text": "Big Bro...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            68,
+            476,
+            234
+        ],
+        "text": "He was a great man!! But the day Kaido killed him 20 years ago...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            274,
+            453,
+            367
+        ],
+        "text": "I already heard about",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            571,
+            486,
+            703
+        ],
+        "text": "If we can't make that happen, this will always be hell!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            28,
+            591,
+            153
+        ],
+        "text": "...Was the day this country stopped working, right?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            55,
+            862,
+            167
+        ],
+        "text": "...To fight Kaido and win!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            667,
+            570,
+            807,
+            685
+        ],
+        "text": "We came here...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

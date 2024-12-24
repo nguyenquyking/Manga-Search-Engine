@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            82,
+            119,
+            100,
+            171
+        ],
+        "text": "GOOD.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            340,
+            631,
+            399,
+            741
+        ],
+        "text": "THAT'S WHY WE HAVE YOUR BACK.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            593,
+            388,
+            665,
+            498
+        ],
+        "text": "...THAT OUR POWER PASSED TO YOU TWO.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            610,
+            621,
+            734
+        ],
+        "text": "IT'S FORTUNATE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            201,
+            941,
+            317
+        ],
+        "text": "SORRY...FOR TESTING YOU LIKE THAT.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            551,
+            990,
+            589
+        ],
+        "text": "FWAHH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

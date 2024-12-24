@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            104,
+            551,
+            156,
+            650
+        ],
+        "text": "Grab the cash! The food too!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            74,
+            495,
+            147
+        ],
+        "text": "Seems like fate's taking it easy on us!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            403,
+            604,
+            491,
+            692
+        ],
+        "text": "We get to walk around in broad daylight!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            471,
+            262,
+            511,
+            452
+        ],
+        "text": "Shian Prison Escapees\nCider House",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            621,
+            231,
+            713,
+            308
+        ],
+        "text": "The civilian's fighting back, huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            18,
+            889,
+            116
+        ],
+        "text": "A support item?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            802,
+            384,
+            875,
+            493
+        ],
+        "text": "Not on my watch!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

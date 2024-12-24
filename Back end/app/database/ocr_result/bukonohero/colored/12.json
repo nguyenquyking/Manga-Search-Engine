@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            360,
+            367,
+            440,
+            616
+        ],
+        "text": "DEMON\nDIE\nTOGA THE TERRIBLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            808,
+            178,
+            880,
+            283
+        ],
+        "text": "\"We did our best, but nothing worked.\"",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            929,
+            10,
+            972,
+            125
+        ],
+        "text": "\"The girl is demonic...\"",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

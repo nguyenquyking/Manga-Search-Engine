@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            46,
+            392,
+            116,
+            459
+        ],
+        "text": "\"Which shoes do you want?\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            337,
+            433,
+            418
+        ],
+        "text": "\"Those! Gotta be those!\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            373,
+            723,
+            442
+        ],
+        "text": "\"The red ones!\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

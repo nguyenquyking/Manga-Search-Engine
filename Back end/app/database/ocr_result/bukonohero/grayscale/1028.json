@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            26,
+            395,
+            90,
+            472
+        ],
+        "text": "Sorry for the rough handling!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            232,
+            143,
+            283,
+            234
+        ],
+        "text": "That did the trick! Thanks!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            281,
+            716,
+            303,
+            739
+        ],
+        "text": "ZSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            468,
+            277,
+            499,
+            376
+        ],
+        "text": "My husband's bedridden!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            142,
+            581,
+            231
+        ],
+        "text": "And he's too heavy for me to carry!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            656,
+            518,
+            740
+        ],
+        "text": "Hey, you two! I need help!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            405,
+            724,
+            518
+        ],
+        "text": "Already too close for comfort!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            278,
+            779,
+            360
+        ],
+        "text": "Our place is down here! Hurry!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            696,
+            709,
+            753
+        ],
+        "text": "SWIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            907,
+            187,
+            922,
+            233
+        ],
+        "text": "Okay!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            276,
+            1012,
+            368
+        ],
+        "text": "Get those two to safety, Froppy!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            65,
+            1110,
+            172
+        ],
+        "text": "Be careful! Can't have you getting hurt.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            118,
+            88,
+            282,
+            267
+        ],
+        "text": "BIG MOM",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            132,
+            1015,
+            186,
+            1121
+        ],
+        "text": "BUH...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            177,
+            540,
+            304
+        ],
+        "text": "WHAT'S THAT?\nIS IT SOMETHING\nYUMMY?",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            90,
+            1392,
+            192,
+            1469
+        ],
+        "text": "EXCAVATION\nLABOR\nCAMP\nUDON",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            458,
+            1377,
+            550,
+            1474
+        ],
+        "text": "THE GATE AT\nTHE FRONT\nENTRANCE\nHAS BEEN\nDESTROYED!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            498,
+            1243,
+            601,
+            1346
+        ],
+        "text": "THE SECOND\nAND THIRD\nGATES ARE\nRUINED\nTOO!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            636,
+            1413,
+            682,
+            1485
+        ],
+        "text": "IS THAT...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            868,
+            50,
+            994,
+            197
+        ],
+        "text": "SHE'S AN\nEMPEROR OF\nTHE SEA LIKE\nKAIDO!! WHY IS\nSHE HERE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            884,
+            311,
+            950,
+            434
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            866,
+            481,
+            969,
+            583
+        ],
+        "text": "AM I\nDREAMING\nRIGHT\nNOW?!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            890,
+            623,
+            937,
+            709
+        ],
+        "text": "WHAAAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            817,
+            974,
+            937
+        ],
+        "text": "THEY\nSAID THEY\nSANK HER\nSHIP!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            866,
+            983,
+            950,
+            1123
+        ],
+        "text": "WHAT IS BIG\nMOM DOING\nHERE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            1220,
+            977,
+            1469
+        ],
+        "text": "WHAT OTHER\nHAG COULD\nDESTROY THOSE\nSTEEL GATES,\nTHOUGH...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            1372,
+            977,
+            1486
+        ],
+        "text": "SHE LOOKS\nFAMILIAR, BUT\nIT CAN'T BE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1048,
+            1209,
+            1100,
+            1292
+        ],
+        "text": "IT HAS\nTO BE...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            34,
+            159,
+            40,
+            199
+        ],
+        "text": "WAHH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            68,
+            620,
+            148,
+            723
+        ],
+        "text": "WHY DIDN'T YOU STOP HIM?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            240,
+            608,
+            280,
+            668
+        ],
+        "text": "HUH, REI?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            222,
+            93,
+            306,
+            236
+        ],
+        "text": "DAMMIT, THAT'S ALL I ASKED YOU TO DO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            452,
+            464,
+            495
+        ],
+        "text": "WAHH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            490,
+            227,
+            599,
+            325
+        ],
+        "text": "GET OUT, SHOTO!\nIT'S NONE OF YOUR BUSINESS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            495,
+            672,
+            564,
+            773
+        ],
+        "text": "DON'T BULLY MOMMY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            384,
+            732,
+            488
+        ],
+        "text": "STOP IT! DON'T BE MEAN TO HER!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            77,
+            924,
+            134
+        ],
+        "text": "I... CAN'T STOP HIM.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            194,
+            907,
+            305
+        ],
+        "text": "BUT I MADE MY CHOICE, AND I WALKED THAT PATH OF MY OWN ACCORD.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            323,
+            874,
+            397
+        ],
+        "text": "YES, MY OPTIONS WERE LIMITED.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            466,
+            922,
+            548
+        ],
+        "text": "WHAT THE HELL DO YOU KNOW, MOM?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1027,
+            201,
+            1094,
+            350
+        ],
+        "text": "I HAD HOPED, IF NOTHING ELSE, THAT I WOULD KEEP SMILING, YET...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

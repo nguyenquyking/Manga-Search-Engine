@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            143,
+            1014,
+            335,
+            1187
+        ],
+        "text": "From this point on, over seven days, the advent of Qliphoth will begin.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            742,
+            133,
+            772,
+            271
+        ],
+        "text": "Inside...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            973,
+            463,
+            1032,
+            589
+        ],
+        "text": "Seven Levels.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1440,
+            1005,
+            1568,
+            1194
+        ],
+        "text": "Seven Gates will open, gradually.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1843,
+            75,
+            1875,
+            387
+        ],
+        "text": "Team: @ColorClovers",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

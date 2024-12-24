@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            97,
+            1020,
+            423,
+            1327
+        ],
+        "text": "CRACK\nCRACK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1021,
+            87,
+            1196,
+            290
+        ],
+        "text": "Hey!!\nThat guy's\nnot one of\nours!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            761,
+            1166,
+            954
+        ],
+        "text": "What\nhappened,\nApoo?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1540,
+            1052,
+            1751,
+            1316
+        ],
+        "text": "That's\nCaptain\nKid!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

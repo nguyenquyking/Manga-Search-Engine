@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            19,
+            80,
+            26,
+            110
+        ],
+        "text": "KRAKL",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            146,
+            48,
+            198,
+            125
+        ],
+        "text": "I'm on Okutu Island!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            214,
+            190,
+            285
+        ],
+        "text": "I'm sorry! Himiko Toga nabbed me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            351,
+            112,
+            410
+        ],
+        "text": "Dammit, Class A! What're you doing?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            180,
+            371,
+            234,
+            434
+        ],
+        "text": "Where are you?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            596,
+            149,
+            702
+        ],
+        "text": "Midoriya?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            240,
+            161,
+            251,
+            202
+        ],
+        "text": "KZT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            424,
+            445,
+            436,
+            487
+        ],
+        "text": "KRAK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            338,
+            594,
+            368,
+            690
+        ],
+        "text": "Requesting a warp!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            448,
+            606,
+            496,
+            721
+        ],
+        "text": "KZT KZT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            561,
+            26,
+            630,
+            213
+        ],
+        "text": "You've realized it, haven't you?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            633,
+            353,
+            722,
+            471
+        ],
+        "text": "Monoma can only activate one copied quirk at a time.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            595,
+            568,
+            684,
+            641
+        ],
+        "text": "We have to warp Midoriya back to us!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            842,
+            17,
+            891,
+            119
+        ],
+        "text": "...Growing, spreading hands...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            835,
+            128,
+            891,
+            213
+        ],
+        "text": "Those innumerable...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            905,
+            276,
+            1013,
+            440
+        ],
+        "text": "Switching from Erasure to Warp Gate to retrieve Midoriya would take around ten seconds...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1023,
+            561,
+            1059,
+            621
+        ],
+        "text": "No, we can't.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

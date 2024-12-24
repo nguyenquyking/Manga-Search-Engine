@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            138,
+            178,
+            228,
+            325
+        ],
+        "text": "To take advantage of the situation...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            114,
+            612,
+            300,
+            751
+        ],
+        "text": "The enemy still has not heard of the samurai's approach.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            488,
+            165,
+            587,
+            334
+        ],
+        "text": "...The plan evolves on the spot.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            108,
+            911,
+            252,
+            1065
+        ],
+        "text": "Team Kin'emon, Eastern Forces",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            105,
+            1172,
+            241,
+            1320
+        ],
+        "text": "On the east side of Onigashima...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            388,
+            1254,
+            442,
+            1347
+        ],
+        "text": "Present Location",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            857,
+            126,
+            1013,
+            324
+        ],
+        "text": "...They split into two groups at the halfway point of the path.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            751,
+            416,
+            864,
+            1013
+        ],
+        "text": "SKREE SKREE SKREE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            822,
+            1074,
+            997,
+            1298
+        ],
+        "text": "Rather than sending all of the samurai to the rear entrance...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1537,
+            237,
+            1732,
+            532
+        ],
+        "text": "In this way, they plan to execute a pincer attack on Kaido and Orochi.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1520,
+            720,
+            1691,
+            990
+        ],
+        "text": "...Where they will blend among the enemy and await the attack on Kaido!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1512,
+            1117,
+            1710,
+            1321
+        ],
+        "text": "Half of them peel off to infiltrate the skull dome from the side...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1879,
+            1202,
+            1946,
+            1317
+        ],
+        "text": "Present Location",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

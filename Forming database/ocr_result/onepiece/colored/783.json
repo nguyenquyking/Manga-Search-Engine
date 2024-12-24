@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            70,
+            115,
+            160,
+            238
+        ],
+        "text": "This... Haki must be a foreign concept.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            372,
+            164,
+            497
+        ],
+        "text": "And I know it was the same color of Armament Haki I can use...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            582,
+            145,
+            681
+        ],
+        "text": "I've seen it done before...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            342,
+            242,
+            415
+        ],
+        "text": "Sumo Strike!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            214,
+            540,
+            211,
+            587
+        ],
+        "text": "DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            424,
+            52,
+            534,
+            239
+        ],
+        "text": "...And it will not break a sheet of paper if you do not wish it so! It is all according to the desire of the swordsman!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            428,
+            272,
+            525,
+            400
+        ],
+        "text": "A good katana will cut through steel when you want it to.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            434,
+            473,
+            529,
+            701
+        ],
+        "text": "Straw Hat fellow! In Wano too, there is an invisible power that stems from the body and can be infused with the blade.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            864,
+            32,
+            915,
+            125
+        ],
+        "text": "Hey! Gramps!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            860,
+            292,
+            922,
+            396
+        ],
+        "text": "But take a look for yourself!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            461,
+            945,
+            577
+        ],
+        "text": "...And I do not know if I can properly teach it...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            859,
+            596,
+            951,
+            699
+        ],
+        "text": "I was known for using the mighty blade in the past...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

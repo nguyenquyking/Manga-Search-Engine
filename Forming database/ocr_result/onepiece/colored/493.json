@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            74,
+            57,
+            192,
+            173
+        ],
+        "text": "...I will refrain from meeting the others.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            253,
+            54,
+            343,
+            211
+        ],
+        "text": "Sentiment is forbidden before a battle...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            82,
+            567,
+            166,
+            704
+        ],
+        "text": "I'll admit, I'm worried out of my mind for poor Otoko.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            587,
+            286,
+            697
+        ],
+        "text": "But for now, Kawamatsu...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            88,
+            546,
+            193
+        ],
+        "text": "...to protect Wano!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            446,
+            530,
+            518
+        ],
+        "text": "...and find a way...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            603,
+            505,
+            716
+        ],
+        "text": "Please join your strength with the others...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            648,
+            57,
+            704,
+            139
+        ],
+        "text": "Princess! Please rise!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            854,
+            157,
+            916,
+            266
+        ],
+        "text": "Is this true?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            848,
+            470,
+            906,
+            580
+        ],
+        "text": "Whaaat!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            861,
+            622,
+            952,
+            722
+        ],
+        "text": "Amigasa Village,\nKuri,\nWano",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            958,
+            43,
+            1086,
+            180
+        ],
+        "text": "Lady Hiyori survived?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

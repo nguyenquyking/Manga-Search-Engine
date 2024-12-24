@@ -1,0 +1,255 @@
+[
+    {
+        "text_box": [
+            46,
+            111,
+            152,
+            186
+        ],
+        "text": "YOU\nSTAY\nOUT OF\nTHIS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            230,
+            164,
+            338
+        ],
+        "text": "MARCO!!\nWHAT DOES\nHE THINK\nHE'S DOING\nHERE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            395,
+            79,
+            490,
+            188
+        ],
+        "text": "YOU KNOW\nTHE ENEMY\nISN'T GOING\nTO BOTHER\nSAVING YOU!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            214,
+            478,
+            355
+        ],
+        "text": "HEY!! STEAL\nTHOSE ANTI-\nBODIES BACK, ON\nTHE DOUBLE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            524,
+            62,
+            588,
+            159
+        ],
+        "text": "OH...\nY-YOU THINK\nSO...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            467,
+            243,
+            620
+        ],
+        "text": "GYAAAA\n!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            135,
+            918,
+            137,
+            989
+        ],
+        "text": "FWOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            113,
+            1266,
+            240,
+            1481
+        ],
+        "text": "PHOENIX\nPYREAPPLE\n!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            637,
+            448,
+            752,
+            588
+        ],
+        "text": "IT\nBURNNNS\n!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            678,
+            1346,
+            749,
+            1464
+        ],
+        "text": "AAAAGH\n!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            770,
+            123,
+            861,
+            236
+        ],
+        "text": "...TO\nPRODUCE A\nBUNCH OF\nANTIBODIES!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            263,
+            869,
+            354
+        ],
+        "text": "THANK\nYOU! I CAN\nUSE THIS\nMOMENT OF\nRESPITE...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            435,
+            935,
+            515
+        ],
+        "text": "THANKS!!\nARE YOU\nALL RIGHT,\nMIYAGI?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            539,
+            965,
+            631
+        ],
+        "text": "BUT IF THEY\nRUN OUT OF\nSTAMINA,\nTHEY'LL TURN\nRIGHT BACK\nINTO THOSE\nMONSTERS!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            656,
+            944,
+            736
+        ],
+        "text": "THERE,\nI'VE GOT\nTHEIR BODY\nHEAT BACK\nUP, LIKE\nYOU SAID.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            834,
+            843,
+            940,
+            956
+        ],
+        "text": "BOSS\nOHMASA'S\nCONSCIOUS\nAGAIN!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            838,
+            1092,
+            889,
+            1179
+        ],
+        "text": "WHERE...\nAM I...?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            1268,
+            855,
+            1329
+        ],
+        "text": "AHHH",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            851,
+            1372,
+            880,
+            1497
+        ],
+        "text": "HUH?\nBURNS,",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            873,
+            1453,
+            890,
+            1475
+        ],
+        "text": "IT...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            1212,
+            1106,
+            1332
+        ],
+        "text": "I FEEL THE\nCHILL MELTING\nAWAY!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            1379,
+            1101,
+            1497
+        ],
+        "text": "IT'S...\nACTUALLY NOT\nTHAT HOT.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            928,
+            962,
+            1564
+        ],
+        "text": "RAHHH\nOOOH!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

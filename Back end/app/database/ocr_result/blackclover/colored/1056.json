@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            137,
+            184,
+            199,
+            266
+        ],
+        "text": "GRUNCH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            996,
+            171,
+            1117,
+            318
+        ],
+        "text": "My body! You-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            934,
+            923,
+            1175
+        ],
+        "text": "Arrrgggh!!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1229,
+            66,
+            1520,
+            239
+        ],
+        "text": "Aaa-AAA-aAA-rrgh!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1331,
+            1012,
+            1450,
+            1155
+        ],
+        "text": "Trash!!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1504,
+            781,
+            1613,
+            1020
+        ],
+        "text": "Magicless scum!!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

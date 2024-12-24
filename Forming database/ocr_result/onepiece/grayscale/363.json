@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            46,
+            80,
+            139,
+            196
+        ],
+        "text": "THE ENORMOUS FIRE MONSTER IS HEADING TO THE BASEMENT!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            49,
+            438,
+            73,
+            524
+        ],
+        "text": "AAAAAA!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            45,
+            623,
+            130,
+            731
+        ],
+        "text": "ANNOUNCEMENT TO ALL SECTORS, FROM THE SECOND FLOOR!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            239,
+            106,
+            259,
+            168
+        ],
+        "text": "WHAT?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            111,
+            435,
+            172
+        ],
+        "text": "WHOSE?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            377,
+            656,
+            452
+        ],
+        "text": "NO, THIS IS HAIR!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            629,
+            306,
+            669,
+            359
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            512,
+            663,
+            554,
+            757
+        ],
+        "text": "HUH?! A CUSHION?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            743,
+            174,
+            764,
+            223
+        ],
+        "text": "CRAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            741,
+            331,
+            811,
+            396
+        ],
+        "text": "HERE THEY COME!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1053,
+            53,
+            1114,
+            140
+        ],
+        "text": "HOLD ON, WHAT IS THAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            221,
+            974,
+            272
+        ],
+        "text": "HUH?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            462,
+            1104,
+            531
+        ],
+        "text": "WE'LL JUST HAVE TO FIGHT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

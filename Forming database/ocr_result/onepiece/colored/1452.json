@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            88,
+            51,
+            139,
+            156
+        ],
+        "text": "A FLAVOR BOMB...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            625,
+            258,
+            728
+        ],
+        "text": "AH, YES!\nTHAT'S IT!\nTHAT'S\nJUST THE\nSPARK\u2661",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            211,
+            43,
+            284,
+            161
+        ],
+        "text": "...IN AN AMUSEMENT PARK!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            380,
+            53,
+            466,
+            134
+        ],
+        "text": "IN MY STOMACH,\nYOU WILL\nSEE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            642,
+            628,
+            724,
+            736
+        ],
+        "text": "A GREAT BIG FLAVOR",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            687,
+            43,
+            746,
+            187
+        ],
+        "text": "CEREMONY!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

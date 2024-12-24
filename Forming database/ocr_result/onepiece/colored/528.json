@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            99,
+            651,
+            136,
+            733
+        ],
+        "text": "BANDIT'S BRIDGE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            204,
+            114,
+            300,
+            224
+        ],
+        "text": "I CANNOT BELIEVE THEY ARE STILL HUNTING MORE REMNANTS!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            343,
+            78,
+            447,
+            166
+        ],
+        "text": "AND WHO WAS THAT ENORMOUS WARRIOR-MONK?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            228,
+            589,
+            286,
+            681
+        ],
+        "text": "WE OUGHT TO MOVE FROM HERE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            573,
+            55,
+            642,
+            157
+        ],
+        "text": "I AM NOT A CHILD ANYMORE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            567,
+            236,
+            615,
+            311
+        ],
+        "text": "EXCUSE ME!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            573,
+            619,
+            664,
+            729
+        ],
+        "text": "DO WATCH YOUR STEP IN THE DEEP SNOW...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            48,
+            774,
+            317
+        ],
+        "text": "...KAWA-MATSU!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            910,
+            73,
+            921,
+            101
+        ],
+        "text": "...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            868,
+            160,
+            954,
+            241
+        ],
+        "text": "BUT WHY ARE YOU HERE NOW?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            877,
+            269,
+            957,
+            383
+        ],
+        "text": "THERE ARE SO MANY THINGS TO TALK TO YOU ABOUT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            873,
+            429,
+            969,
+            563
+        ],
+        "text": "BUT A GROWN-UP WOMAN DOES NOT PUFF OUT HER CHEEKS LIKE A BLOWFISH.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            599,
+            954,
+            717
+        ],
+        "text": "KAPPAPA!! OH, IS THAT SO?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1078,
+            427,
+            1131,
+            490
+        ],
+        "text": "OH, YOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            72,
+            31,
+            128,
+            128
+        ],
+        "text": "Well, I may not be able to see it...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            27,
+            236,
+            114
+        ],
+        "text": "...But he's got quite a creation on his hands.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            169,
+            156,
+            278
+        ],
+        "text": "You came a long way for this. How's old Vegapunk doing?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            378,
+            130,
+            509
+        ],
+        "text": "...But it's the system I actually mean to destroy...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            599,
+            126,
+            703
+        ],
+        "text": "Heh heh, I might be crashing the meeting...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            326,
+            324,
+            408
+        ],
+        "text": "That was mighty tasty... Much obliged!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            285,
+            30,
+            325,
+            107
+        ],
+        "text": "Ooh... Meaning?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            415,
+            22,
+            512,
+            163
+        ],
+        "text": "Heh... Be that as it may, why don't you try the food? It's quite tasty here.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            421,
+            218,
+            554,
+            343
+        ],
+        "text": "...For the Seven Warlords of the Sea!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            573,
+            524,
+            703
+        ],
+        "text": "There's no longer any need...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            38,
+            738,
+            152
+        ],
+        "text": "Or are you still in the middle of your fast?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            631,
+            211,
+            728,
+            325
+        ],
+        "text": "Ra ha ha ha!! Buddy, you're crazy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            97,
+            934,
+            237
+        ],
+        "text": "And that's why I haven't had a bite...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            25,
+            1083,
+            154
+        ],
+        "text": "...For three darn years!! Ra ha ha!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1039,
+            270,
+            1123,
+            468
+        ],
+        "text": "Marine HQ\nAdmiral\nGreen Bull",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            823,
+            564,
+            938,
+            679
+        ],
+        "text": "Ra ha ha!! Well, if a pretty lady asks me to open wide...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            993,
+            575,
+            1099,
+            679
+        ],
+        "text": "...I suppose I'd chow down!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

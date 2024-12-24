@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            118,
+            736,
+            207,
+            887
+        ],
+        "text": "MY PARANORMAL SINGULARITY THEORY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            310,
+            762,
+            449,
+            861
+        ],
+        "text": "THEY SAID IT WAS IRRATIONAL NONSENSE BASED ON WEAK EVIDENCE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            331,
+            52,
+            510,
+            181
+        ],
+        "text": "...NOBODY WANTED TO HEAR ABOUT ANOTHER TERRIBLE COLLAPSE IN THE FAR-OFF FUTURE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            299,
+            285,
+            483,
+            642
+        ],
+        "text": "IN THOSE DAYS, WHEN THE WORLD WAS STRUGGLING TO END THE TURMOIL AND RECLAIM PEACE... EVERYONE IGNORED ME.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            692,
+            53,
+            902,
+            224
+        ],
+        "text": "...THE QUIRK SINGULARITY THEORY IS CONSIDERED FRINGE THINKING RESERVED FOR CULTS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            811,
+            624,
+            831,
+            766
+        ],
+        "text": "NOWADAYS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1083,
+            205,
+            1124,
+            305
+        ],
+        "text": "RIGHT. OF COURSE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            395,
+            1203,
+            507
+        ],
+        "text": "HE'D HAVE TO BE OVER 120 YEARS OLD AT THIS POINT.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1107,
+            590,
+            1197,
+            705
+        ],
+        "text": "THEY SAID HE DIED A FEW YEARS LATER...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1034,
+            754,
+            1202,
+            859
+        ],
+        "text": "THE SCHOLAR WHO PRESENTED IT WENT MISSING SOON AFTER...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

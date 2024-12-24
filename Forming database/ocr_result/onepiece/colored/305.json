@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            42,
+            573,
+            138,
+            887
+        ],
+        "text": "And now... I'm feeling a bit tired...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            541,
+            135,
+            654
+        ],
+        "text": "Oh! Careful, Robin!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            278,
+            712,
+            317,
+            829
+        ],
+        "text": "FLUMP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            553,
+            73,
+            730,
+            347
+        ],
+        "text": "That's a month's worth of food for me!! You better replace every last morsel, or I'm gonna have a problem!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            572,
+            713,
+            735
+        ],
+        "text": "Are you sure you understand?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            933,
+            669,
+            1049
+        ],
+        "text": "Tokage Port, Udon",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1015,
+            92,
+            1177,
+            297
+        ],
+        "text": "Hey, Straw Hat! Now that your strength is back, tell us what's happening on Onigashima!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1225,
+            88,
+            1357,
+            242
+        ],
+        "text": "What's going on with the Captain, Bepo, and the others?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1461,
+            68,
+            1582,
+            238
+        ],
+        "text": "Brghrgl-Durburgly-Urmsmack Gulp!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            675,
+            1188,
+            870
+        ],
+        "text": "My swamp-swamp power is bottomless... She's a hungry gal! Kee hee hee hee!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            925,
+            1183,
+            1041
+        ],
+        "text": "I can't believe how much you were carrying around.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1199,
+            404,
+            1357,
+            782
+        ],
+        "text": "CHOMP CHOMP!! MUNCH!! SCARF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

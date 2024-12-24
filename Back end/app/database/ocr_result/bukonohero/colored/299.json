@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            578,
+            13,
+            612,
+            88
+        ],
+        "text": "HEART\nIS POWER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            677,
+            8,
+            784,
+            86
+        ],
+        "text": "AND THE MORE\nFIERCELY HE\nEMBRACES\nTHAT SOURCE\nIN HIS\nHEART...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            484,
+            220,
+            556,
+            330
+        ],
+        "text": "HE FOUND HIMSELF SOME\nTRULY DECENT\nALLIES...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

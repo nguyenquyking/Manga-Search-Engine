@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            20,
+            948,
+            49,
+            1001
+        ],
+        "text": "BADUM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            171,
+            1378,
+            338,
+            1536
+        ],
+        "text": "STRESS: 100 PERCENT",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            809,
+            319,
+            1108,
+            683
+        ],
+        "text": "CRUMBLE CRUMBLE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            857,
+            1445,
+            928,
+            1539
+        ],
+        "text": "OR SO IT SHOULD BE...",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1102,
+            1365,
+            1104,
+            1428
+        ],
+        "text": "BADUM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

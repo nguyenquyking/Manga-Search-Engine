@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            475,
+            552,
+            631,
+            657
+        ],
+        "text": "AS IF!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            3,
+            812,
+            84
+        ],
+        "text": "OF COURSE...\nWITH ANTI-MAGIC,\nTHEN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            873,
+            402,
+            934,
+            485
+        ],
+        "text": "ANTI-MAGIC...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            525,
+            953,
+            657
+        ],
+        "text": "One Hoox",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

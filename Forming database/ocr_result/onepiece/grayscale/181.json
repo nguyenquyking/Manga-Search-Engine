@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            25,
+            63,
+            131,
+            191
+        ],
+        "text": "What do you mean?! Straw Hat is fighting Kaido right now!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            423,
+            84,
+            474
+        ],
+        "text": "?!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            59,
+            546,
+            170,
+            672
+        ],
+        "text": "Eliminate Straw Hat Luffy at once!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            151,
+            270,
+            180,
+            336
+        ],
+        "text": "RAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            309,
+            63,
+            408,
+            196
+        ],
+        "text": "You want me to interfere with Kaido's battle?! That's impossible!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            496,
+            63,
+            599,
+            171
+        ],
+        "text": "These orders are meant to prevent the worst-case scenario, you understand.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            487,
+            227,
+            534,
+            291
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            492,
+            336,
+            589,
+            450
+        ],
+        "text": "It's a world-class battle, which is why it's so dangerous...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            495,
+            626,
+            578,
+            732
+        ],
+        "text": "They know full well it's impossible.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            685,
+            498,
+            730,
+            552
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            658,
+            69,
+            717,
+            179
+        ],
+        "text": "I can't die with nothing to show for it...!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            70,
+            910,
+            186
+        ],
+        "text": "There's no escape!! The whole castle's burning!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            838,
+            240,
+            906,
+            325
+        ],
+        "text": "Castle Basement",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            820,
+            430,
+            887,
+            540
+        ],
+        "text": "What is it about that crew...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            817,
+            595,
+            906,
+            717
+        ],
+        "text": "Though it's a scenario we only know through rumor and hearsay...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

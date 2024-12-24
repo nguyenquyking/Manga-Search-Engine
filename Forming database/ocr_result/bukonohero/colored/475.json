@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            578,
+            1017,
+            669,
+            1029
+        ],
+        "text": "fish/meat",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1393,
+            315,
+            1418,
+            648
+        ],
+        "text": "Next chapter hits Sept. 6!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

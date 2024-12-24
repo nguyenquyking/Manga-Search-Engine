@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            114,
+            193,
+            194,
+            327
+        ],
+        "text": "ELIMINATE THE MEDDLESOME SIX!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            128,
+            585,
+            156,
+            668
+        ],
+        "text": "UDON, WANO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            438,
+            563,
+            537,
+            697
+        ],
+        "text": "THE PLAGUE ROUNDS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            765,
+            96,
+            859,
+            214
+        ],
+        "text": "...AREN'T HITTING HIM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            955,
+            8,
+            1044,
+            120
+        ],
+        "text": "WHERE ARE YOU AIMING?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            308,
+            1030,
+            395
+        ],
+        "text": "KNOCK IT OFF!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            599,
+            1108,
+            704
+        ],
+        "text": "I TOLD YOU-- IT CAN BE ANY OF THEM!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

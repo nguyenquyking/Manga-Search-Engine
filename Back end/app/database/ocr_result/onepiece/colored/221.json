@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            42,
+            123,
+            101,
+            327
+        ],
+        "text": "CHOMP!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            65,
+            614,
+            117,
+            699
+        ],
+        "text": "WAS A FOOL OF A LORD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            738,
+            111,
+            819
+        ],
+        "text": "YOUR FATHER...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            334,
+            485,
+            378,
+            556
+        ],
+        "text": "WAAAA\nAAHH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            477,
+            73,
+            587,
+            262
+        ],
+        "text": "YOU\nRUINED WANO!!\nIF IT WEREN'T\nFOR YOU...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            61,
+            912,
+            164
+        ],
+        "text": "THEY\nWOULD BOTH\nBE...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            187,
+            832,
+            291
+        ],
+        "text": "FATHER\nAND MOTHER\n...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            536,
+            711,
+            622,
+            843
+        ],
+        "text": "WHAT ARE\nYOU DOING,\nBRAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1179,
+            46,
+            1254,
+            283
+        ],
+        "text": "YAMATO!?\nMOMO-\nNOSUKE-\nKUN--",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

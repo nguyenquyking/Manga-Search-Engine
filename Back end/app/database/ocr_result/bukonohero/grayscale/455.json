@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            76,
+            32,
+            176,
+            135
+        ],
+        "text": "...But how could you have known at the time of the school festival how his quirk",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            65,
+            143,
+            163,
+            261
+        ],
+        "text": "This upgrade seems designed to deal with decay transmitting through objects...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            283,
+            425,
+            336,
+            479
+        ],
+        "text": "Yeah, come to think of it...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            373,
+            370,
+            400,
+            588
+        ],
+        "text": "Alluded to in Volume 8, after the supplementary licensing course",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            452,
+            299,
+            539,
+            385
+        ],
+        "text": "Indeed, there was no existing evidence for such a thing.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            622,
+            98,
+            677,
+            190
+        ],
+        "text": "I relied on my intuition.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            855,
+            54,
+            944,
+            152
+        ],
+        "text": "That work of his continues to this very day.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            825,
+            214,
+            966,
+            354
+        ],
+        "text": "The Principal's major contributions to quirk morality education have made him a man of worldwide renown.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            840,
+            411,
+            964,
+            539
+        ],
+        "text": "That's gotta be way more than a few hundred million yen! You got deep pockets, sir!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            840,
+            608,
+            928,
+            725
+        ],
+        "text": "That is why I covered the expenses myself out of pocket.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1068,
+            22,
+            1082,
+            71
+        ],
+        "text": "Whoa...",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            81,
+            584,
+            140,
+            739
+        ],
+        "text": "That's a long way to Shiketsu!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

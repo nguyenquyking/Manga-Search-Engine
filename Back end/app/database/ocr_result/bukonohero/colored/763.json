@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            109,
+            152,
+            152,
+            235
+        ],
+        "text": "DIE,\nHAWKS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            448,
+            54,
+            553,
+            168
+        ],
+        "text": "BUT YOU\nDON'T GET\nTO TELL ME\nTHAT I WAS\n\"UNLUCKY.\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            91,
+            1030,
+            175
+        ],
+        "text": "I WAS\nHAPPY!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            965,
+            541,
+            1004,
+            668
+        ],
+        "text": "BEING HERE\nWITH THEM...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

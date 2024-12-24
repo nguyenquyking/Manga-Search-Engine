@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            22,
+            242,
+            59,
+            297
+        ],
+        "text": "JET...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            48,
+            606,
+            167,
+            767
+        ],
+        "text": "YOU'RE A FECKLESS,\nHALF-BAKED\nPUPPET!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            421,
+            583,
+            581
+        ],
+        "text": "YOU'LL\nNEVER MAKE\nA DAMN\nTHING OF\nYOURSELF!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

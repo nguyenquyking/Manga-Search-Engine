@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            67,
+            44,
+            132,
+            140
+        ],
+        "text": "WHO IS THAT GIANT WOMAN?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            206,
+            108,
+            244
+        ],
+        "text": "?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            321,
+            105,
+            405
+        ],
+        "text": "AAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            63,
+            476,
+            154,
+            576
+        ],
+        "text": "GET AWAY FROM LUFFYTARO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            616,
+            114,
+            704
+        ],
+        "text": "A KAPPA...!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            421,
+            66,
+            496,
+            188
+        ],
+        "text": "SHOW THEM ALL WHO YOU ARE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            519,
+            20,
+            552,
+            53
+        ],
+        "text": "?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            389,
+            481,
+            513
+        ],
+        "text": "WHAT? IS THAT...BOSS HYOGORO?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            611,
+            470,
+            696
+        ],
+        "text": "KIKU! RAIZO!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            524,
+            351,
+            541,
+            423
+        ],
+        "text": "GRAMPS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            789,
+            96,
+            856,
+            199
+        ],
+        "text": "...TO SHOW THEM WHO YOU ARE!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            775,
+            225,
+            859,
+            342
+        ],
+        "text": "...THEN YOU MUST REMOVE YOUR DISGUISE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            789,
+            411,
+            903,
+            533
+        ],
+        "text": "...OR WHO FOUGHT ONCE BEFORE AND WERE LAID LOW...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            786,
+            564,
+            888,
+            697
+        ],
+        "text": "IF YOU WANT TO INSPIRE AND LEAD THOSE WHOSE SPIRITS WERE BROKEN...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            970,
+            425,
+            1052,
+            556
+        ],
+        "text": "MURMUR\nMURMUR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1082,
+            240,
+            1131,
+            342
+        ],
+        "text": "YES, OF COURSE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

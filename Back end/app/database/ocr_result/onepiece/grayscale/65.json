@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            392,
+            76,
+            467,
+            194
+        ],
+        "text": "THIS IS BAD...\nI HAVE TO\nSTOP HIM!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            545,
+            96,
+            616,
+            190
+        ],
+        "text": "PANT\nPANT...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            400,
+            927,
+            465,
+            1037
+        ],
+        "text": "WHAT EVER\nHAPPENED TO\nCHOPPER...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            544,
+            964,
+            563,
+            1019
+        ],
+        "text": "PANT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            968,
+            463,
+            1118,
+            585
+        ],
+        "text": "YOU\nPIRATES\nSURE KEEP\nFRIGHTENING\nPETS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            902,
+            1001,
+            990
+        ],
+        "text": "THAT THING\nIS YOUR\nFRIEND?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1219,
+            299,
+            1308,
+            389
+        ],
+        "text": "YOU CAN\nGO TRY TO\nSTOP THAT\nMONSTER IF\nYOU LIKE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1312,
+            649,
+            1369,
+            747
+        ],
+        "text": "HOW\nRUDE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1225,
+            926,
+            1249,
+            1020
+        ],
+        "text": "CHOPPER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1400,
+            67,
+            1486,
+            161
+        ],
+        "text": "...BUT MY\nMISSION IS\nTO STOP\nYOU.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

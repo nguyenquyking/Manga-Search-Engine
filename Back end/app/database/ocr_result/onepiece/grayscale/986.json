@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            16,
+            377,
+            53,
+            488
+        ],
+        "text": "Memes",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            59,
+            321,
+            72,
+            543
+        ],
+        "text": "(please don't take them seriously)",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            115,
+            53,
+            139,
+            272
+        ],
+        "text": "Basically Kaido:",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            89,
+            624,
+            132,
+            830
+        ],
+        "text": "Goda foreshadowing\nKaido's hybrid form:",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            653,
+            508,
+            698,
+            839
+        ],
+        "text": "Now we know why Kaido never trained\nhis legs when he was young...",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            730,
+            51,
+            760,
+            155
+        ],
+        "text": "ARIGATO,\nLINLIN...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            105,
+            956,
+            374
+        ],
+        "text": "THE STRONGEST FISH IN THE POND\nTHE KOIDO",
+        "panel_id": "5",
+        "type": "caption"
+    }
+]

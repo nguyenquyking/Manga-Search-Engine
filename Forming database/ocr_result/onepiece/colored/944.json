@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            52,
+            57,
+            152,
+            110
+        ],
+        "text": "Did bream always look like that?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            195,
+            132,
+            269
+        ],
+        "text": "They are sea bream!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            342,
+            146,
+            416
+        ],
+        "text": "What kind of fish are these?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            448,
+            132,
+            530
+        ],
+        "text": "So you're a fish-monger?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            653,
+            109,
+            695
+        ],
+        "text": "Oh, my...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            51,
+            270,
+            90
+        ],
+        "text": "Florp",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            354,
+            59,
+            441,
+            174
+        ],
+        "text": "You're stickin' out like a sore thumb! The kids are gathering 'round!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            357,
+            191,
+            436,
+            306
+        ],
+        "text": "Kanjuro!! What are you supposed to be?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            342,
+            420,
+            410
+        ],
+        "text": "...Sir Franosuke?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            613,
+            422,
+            719
+        ],
+        "text": "Hmm? Where are you rushing off to...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            592,
+            644,
+            651,
+            742
+        ],
+        "text": "Now how will I cook this...?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            796,
+            47,
+            859,
+            95
+        ],
+        "text": "Ew, what's that?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            69,
+            1072,
+            178
+        ],
+        "text": "I got big trouble!! My leads dried up!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            982,
+            449,
+            1056,
+            628
+        ],
+        "text": "Vassal of the Kozuki Clan\nEvening Shower\nKanjuro",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

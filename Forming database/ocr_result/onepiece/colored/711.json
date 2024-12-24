@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            99,
+            101,
+            192,
+            180
+        ],
+        "text": "Use that mouth of yours and smile! Smile!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            219,
+            168,
+            333
+        ],
+        "text": "You gotta smile, or that good fortune will get away!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            436,
+            162,
+            580
+        ],
+        "text": "Don't blame them for laughing!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            609,
+            160,
+            722
+        ],
+        "text": "Please, I beg of you...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            502,
+            478,
+            574,
+            590
+        ],
+        "text": "Get back behind the gate!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            616,
+            582,
+            738
+        ],
+        "text": "Hey! Stop that, little girl!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            138,
+            846,
+            291
+        ],
+        "text": "Daddy, look! I have good medicine for you! Aha ha ha!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            68,
+            1026,
+            139
+        ],
+        "text": "Come back right now!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            255,
+            1005,
+            350
+        ],
+        "text": "Don't, Toko!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            380,
+            1024,
+            492
+        ],
+        "text": "She slipped through the gate!! Get her back!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            940,
+            648,
+            1008,
+            733
+        ],
+        "text": "Toko?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

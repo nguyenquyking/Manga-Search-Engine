@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            42,
+            102,
+            121,
+            242
+        ],
+        "text": "Why would you serve such a wretched man, Fukurokuju?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            135,
+            64,
+            177,
+            123
+        ],
+        "text": "Weez, Weez!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            240,
+            51,
+            297,
+            123
+        ],
+        "text": "Put out the flames!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            490,
+            100,
+            589
+        ],
+        "text": "Why Kurozumi Orochi...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            49,
+            648,
+            133,
+            727
+        ],
+        "text": "Third Floor of the Castle",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            239,
+            625,
+            280,
+            696
+        ],
+        "text": "There's a fire!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            295,
+            133,
+            400
+        ],
+        "text": "FWOOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            111,
+            450,
+            137,
+            495
+        ],
+        "text": "Huff,",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            435,
+            191,
+            430,
+            246
+        ],
+        "text": "POOF!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            407,
+            606,
+            504,
+            732
+        ],
+        "text": "Ninpo: Clone Jutsu!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            52,
+            606,
+            153
+        ],
+        "text": "Kaaaa!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            788,
+            257,
+            796,
+            327
+        ],
+        "text": "Krak!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            808,
+            53,
+            940,
+            207
+        ],
+        "text": "Ninpo: Earlobe Crackers!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            618,
+            1045,
+            732
+        ],
+        "text": "We shinobi exist to serve the Shogun, whomever he is!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

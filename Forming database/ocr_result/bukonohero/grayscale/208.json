@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            115,
+            52,
+            231,
+            168
+        ],
+        "text": "WALKING AWAY AT THE SPEED OF \"NOPE\"!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            109,
+            302,
+            146,
+            368
+        ],
+        "text": "SO, NO CAN DO!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            258,
+            229,
+            744
+        ],
+        "text": "Again, sorry!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            580,
+            254,
+            757
+        ],
+        "text": "WITH THAT LEVEL OF DAMAGE, I'D NEED TO REMAKE THEM BASICALLY FROM SCRATCH, AND WE LACK THE CONDENSIUM FOR THE COMPRESSION MECHANISM.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            361,
+            240,
+            408,
+            320
+        ],
+        "text": "200P ZOOP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            366,
+            337,
+            444,
+            426
+        ],
+        "text": "WITHOUT THE SPEC DOCS? NO CAN DO.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            75,
+            441,
+            141
+        ],
+        "text": "HOW FRANK.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            607,
+            439,
+            702
+        ],
+        "text": "HATSUME! WHAT ABOUT MY ARMOR?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            582,
+            285,
+            643,
+            421
+        ],
+        "text": "\u30ac\u30c1\u30e3\u30c1\u30e3\nKACHAK CHAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            638,
+            86,
+            709,
+            160
+        ],
+        "text": "WHAT ARE YOU WORKING ON?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            658,
+            545,
+            700,
+            618
+        ],
+        "text": "WE'RE IN HATSUME'S CLASS.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            662,
+            683,
+            756
+        ],
+        "text": "DON'T SWEAT IT! WE CAN MAKE WHAT YOU NEED.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            552,
+            913,
+            628
+        ],
+        "text": "THANK YOU! WE'RE IN YOUR DEBT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            55,
+            899,
+            140
+        ],
+        "text": "ENTER",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            965,
+            235,
+            973,
+            308
+        ],
+        "text": "KLAK KLAK",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            961,
+            375,
+            1085,
+            503
+        ],
+        "text": "HATSUME TAKES TO TINKERING LIKE A FISH TO WATER, SO I ASSUMED SHE WOULD OFFER US AID.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1009,
+            670,
+            1070,
+            764
+        ],
+        "text": "HOW CURIOUS, THOUGH...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

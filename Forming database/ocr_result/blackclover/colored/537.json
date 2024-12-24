@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            85,
+            643,
+            295,
+            796
+        ],
+        "text": "As things stand, you aren't making full use of the devil's power.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            183,
+            108,
+            341,
+            274
+        ],
+        "text": "You're only using power that trickles down from the devil.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            188,
+            1023,
+            261,
+            1151
+        ],
+        "text": "So we're gonna be training?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            631,
+            276,
+            847,
+            496
+        ],
+        "text": "You'll make a contract with a devil and formally make its power your own.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            860,
+            122,
+            1108,
+            286
+        ],
+        "text": "It's a forbidden ceremony that puts a devil's power at your command.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            814,
+            1048,
+            999,
+            1235
+        ],
+        "text": "What we are about to perform is a devil-binding ritual.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1354,
+            242,
+            1484,
+            417
+        ],
+        "text": "Ordinarily, you'd use a relic linked to the devil, as I have.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1516,
+            97,
+            1730,
+            272
+        ],
+        "text": "The connection temporarily makes it possible to summon the devil to our world.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1450,
+            655,
+            1553,
+            809
+        ],
+        "text": "This ritual requires a connection to a devil.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1320,
+            1119,
+            1535,
+            1255
+        ],
+        "text": "Afterward, you'll be able to draw out that power as well.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

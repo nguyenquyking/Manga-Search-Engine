@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            138,
+            266,
+            224,
+            319
+        ],
+        "text": "...I'd win on sheer grit, but I-",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            89,
+            326,
+            151,
+            429
+        ],
+        "text": "If I had magic that was just as awesome...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            60,
+            457,
+            121,
+            470
+        ],
+        "text": "Aaaaargh!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            77,
+            550,
+            127,
+            647
+        ],
+        "text": "I don't think I can do the double-it-and-kick-back thing.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            654,
+            164,
+            718
+        ],
+        "text": "Me and that attribute are totally...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            241,
+            505,
+            329,
+            568
+        ],
+        "text": "How do I beat an opponent with stupid magic...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            237,
+            496,
+            299
+        ],
+        "text": "Who's \"Your Man?\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            382,
+            496,
+            424
+        ],
+        "text": "FWUMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            474,
+            623,
+            622,
+            722
+        ],
+        "text": "Yo, Zora, my man!! How 'bout this array?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            49,
+            956,
+            178
+        ],
+        "text": "Although it's probably gonna take a ludicrous amount of time and patience to make.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            444,
+            866,
+            561
+        ],
+        "text": "This had never even occurred to me... but it just might work!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            929,
+            333,
+            1022,
+            405
+        ],
+        "text": "Well, that's really intriguing!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

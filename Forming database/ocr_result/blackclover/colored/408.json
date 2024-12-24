@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            214,
+            212,
+            315,
+            283
+        ],
+        "text": "Let's not kill Lolo-Pechka after all!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            209,
+            481,
+            243,
+            530
+        ],
+        "text": "Meg\u00edcula!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            573,
+            469,
+            674
+        ],
+        "text": "I just had a fantastic idea.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            24,
+            815,
+            72
+        ],
+        "text": "?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            943,
+            104,
+            1042,
+            182
+        ],
+        "text": "The thing is, I remembered something.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            299,
+            962,
+            396
+        ],
+        "text": "Let's take her to the Spade Kingdom!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            600,
+            603,
+            693,
+            666
+        ],
+        "text": "Aw, who cares about that?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

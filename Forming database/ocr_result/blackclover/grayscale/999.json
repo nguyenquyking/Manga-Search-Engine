@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            27,
+            52,
+            151,
+            149
+        ],
+        "text": "And they're mage defense force kids. That's just embarrassing.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            163,
+            284,
+            256,
+            348
+        ],
+        "text": "Argh, it's Allen! Run for it!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            60,
+            456,
+            139
+        ],
+        "text": "I'm Allen!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            245,
+            641,
+            327
+        ],
+        "text": "Your magic looks way strong!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            630,
+            666,
+            740
+        ],
+        "text": "It's just a different type of magic. So what?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            60,
+            1049,
+            142
+        ],
+        "text": "And then the Diamond Kingdom keeps invading.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            999,
+            179,
+            1083,
+            265
+        ],
+        "text": "There's a never-ending rebellion going on.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1009,
+            370,
+            1074,
+            462
+        ],
+        "text": "The Spade Kingdom is always snowed in.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            890,
+            460,
+            973,
+            540
+        ],
+        "text": "Everybody's scared, nervous too.",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

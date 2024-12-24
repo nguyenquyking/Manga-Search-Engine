@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            133,
+            84,
+            144,
+            151
+        ],
+        "text": "SLASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            500,
+            62,
+            566,
+            352
+        ],
+        "text": "... Eraser. ...Pretty cool...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            739,
+            585,
+            845
+        ],
+        "text": "You really are...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            200,
+            998,
+            347
+        ],
+        "text": "...are bound to flinch.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            848,
+            605,
+            963,
+            692
+        ],
+        "text": "But even you...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

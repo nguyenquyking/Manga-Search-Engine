@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            41,
+            73,
+            93,
+            169
+        ],
+        "text": "OH YEAH...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            52,
+            281,
+            147,
+            415
+        ],
+        "text": "...THERE WAS A GREAT MAN WHO SAID THE SAME THING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            462,
+            143,
+            563
+        ],
+        "text": "IN THE JOURNAL OF KOZUKI ODEN...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            626,
+            156,
+            720
+        ],
+        "text": "WORDS THAT STUNNED ODEN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            287,
+            237,
+            405,
+            332
+        ],
+        "text": "OF COURSE I WOULDN'T LAUGH AT HIM... YOUR BROTHER IS INCREDIBLE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            313,
+            62,
+            405,
+            182
+        ],
+        "text": "A GREAT MAN, HUH...? THAT'S GOOD TO HEAR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            509,
+            108,
+            587,
+            223
+        ],
+        "text": "WELL, HE'S ALREADY DEAD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            71,
+            706,
+            162
+        ],
+        "text": "YOU'RE TALKIN' ABOUT A DEAD GUY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            302,
+            594,
+            409
+        ],
+        "text": "HA HA HA. I BET YOU WOULD HAVE GOTTEN ALONG!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            493,
+            558,
+            574,
+            716
+        ],
+        "text": "MAYBE ONE DAY ME AND LUFFY SHOULD SIT DOWN WITH HIM FOR A DRINK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            62,
+            916,
+            198
+        ],
+        "text": "HUH? IT'S JUST A PIECE OF PAPER.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            262,
+            964,
+            361
+        ],
+        "text": "THIS IS YOUR VIVRE CARD.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            901,
+            400,
+            899,
+            441
+        ],
+        "text": "BAM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            846,
+            569,
+            933,
+            663
+        ],
+        "text": "THERE... IT'S DONE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

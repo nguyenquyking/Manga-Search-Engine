@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            41,
+            43,
+            114,
+            132
+        ],
+        "text": "THREE-SWORD STYLE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            363,
+            73,
+            467
+        ],
+        "text": "IMPERIAL...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            30,
+            613,
+            109,
+            726
+        ],
+        "text": "SORRY, FRANKY... YOU GOTTA STAND BACK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            317,
+            49,
+            342,
+            123
+        ],
+        "text": "ULTRA...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            314,
+            622,
+            374,
+            712
+        ],
+        "text": "YOU GOT IT.\nGOOD LUCK, MAN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            606,
+            562,
+            728
+        ],
+        "text": "...ARCHER!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            662,
+            44,
+            733,
+            173
+        ],
+        "text": "...TIGER HUNT!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            895,
+            247,
+            903,
+            317
+        ],
+        "text": "KABOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            914,
+            127,
+            924,
+            146
+        ],
+        "text": "WHAM!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1116,
+            98,
+            1138,
+            135
+        ],
+        "text": "THUD!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

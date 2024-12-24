@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            70,
+            119,
+            141,
+            226
+        ],
+        "text": "A direct request from All Might, yes...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            415,
+            104,
+            559,
+            236
+        ],
+        "text": "...An international deployment effort takes a staggering amount of procedure and paperwork...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            251,
+            488,
+            323
+        ],
+        "text": "Even in the best of times...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            455,
+            525,
+            525,
+            648
+        ],
+        "text": "But this sort of dispatch can't happen in a day.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            352,
+            815,
+            500
+        ],
+        "text": "Any large-scale deployment tends to encourage the major crime syndicates to stir up trouble...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            297,
+            1044,
+            441
+        ],
+        "text": "...But this time is worse than ever. Countries all over the world are in turmoil, almost as if those syndicates are working together.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            153,
+            932,
+            265
+        ],
+        "text": "According to Interpol, the man known as All For One...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            62,
+            1049,
+            190
+        ],
+        "text": "...has underworld connections in a number of countries...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            631,
+            933,
+            765
+        ],
+        "text": "The strength of our heroes is directly tied to domestic power.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            949,
+            542,
+            1092,
+            660
+        ],
+        "text": "When they go abroad, a nation is less able to deter attacks, and the balance crumbles.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

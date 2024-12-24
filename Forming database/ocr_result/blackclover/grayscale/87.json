@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            70,
+            669,
+            267,
+            716
+        ],
+        "text": null,
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            217,
+            810,
+            312,
+            951
+        ],
+        "text": "...In the pecking order!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            179,
+            1497,
+            257,
+            1578
+        ],
+        "text": "Know your place...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            145,
+            1659,
+            497,
+            1781
+        ],
+        "text": "Its effect can warp space and trap high-speed light magic, and it even ignored that!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            478,
+            1968,
+            625,
+            2062
+        ],
+        "text": "The spear from the other world! It just...!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            886,
+            889,
+            950,
+            1051
+        ],
+        "text": "BOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            934,
+            1676,
+            1056,
+            1740
+        ],
+        "text": "DWAAAAH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            825,
+            1964,
+            852,
+            2002
+        ],
+        "text": "HU...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1313,
+            1695,
+            1433,
+            1817
+        ],
+        "text": "I don't know which devil that power belongs to, but...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1296,
+            2015,
+            1369,
+            2071
+        ],
+        "text": "Neh heh heh.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            109,
+            667,
+            174,
+            745
+        ],
+        "text": "AAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            219,
+            53,
+            270,
+            114
+        ],
+        "text": "GFHK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            390,
+            57,
+            499,
+            195
+        ],
+        "text": "HOW DARE YOU USE VIRUSES AS A WEAPON!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            594,
+            489,
+            743
+        ],
+        "text": "THEY'RE PRISONERS!\nTHEY'VE BARELY\nHAD ANY REAL\nFOOD TO EAT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            491,
+            328,
+            542,
+            456
+        ],
+        "text": "RUBBER-RUBBER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            595,
+            706,
+            722
+        ],
+        "text": "HEAVY\nSTAMP!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            961,
+            60,
+            1026,
+            149
+        ],
+        "text": "AAAGH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

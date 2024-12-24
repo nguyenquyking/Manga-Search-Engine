@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            98,
+            118,
+            193,
+            203
+        ],
+        "text": "Call me Toya.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            590,
+            192,
+            729
+        ],
+        "text": "I have a great name.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            941,
+            443,
+            1104,
+            568
+        ],
+        "text": "You're that dumbstruck? Really...? I know my face ain't exactly what it was... but I was sure my own kin would've figured it out.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            204,
+            499,
+            222
+        ],
+        "text": "0",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

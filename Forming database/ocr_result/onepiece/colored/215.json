@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            66,
+            733,
+            150,
+            832
+        ],
+        "text": "FLOWER CAPITAL,\nWANO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            889,
+            78,
+            928,
+            188
+        ],
+        "text": "FORGIVE ME,\nMASTER!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            231,
+            915,
+            324
+        ],
+        "text": "WHERE ARE\nYOU GOING,\nOTAMA?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            382,
+            878,
+            419
+        ],
+        "text": "...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            852,
+            480,
+            906,
+            623
+        ],
+        "text": "ARE YOU\nHAVING\nFUN?\nOTOKO,",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

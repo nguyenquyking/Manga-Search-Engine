@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            160,
+            149,
+            180,
+            223
+        ],
+        "text": "RAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            676,
+            198,
+            779,
+            371
+        ],
+        "text": "CURSES!! If he didn't have Kaido backing him up, that fool of a lord would be nothing!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            62,
+            775,
+            118
+        ],
+        "text": "GRRRG...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            683,
+            610,
+            760,
+            720
+        ],
+        "text": "Gu hu hu\nHu ha ha\nHa ha!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1005,
+            116,
+            1104,
+            274
+        ],
+        "text": "Pipe down!! Orochi can hear a pin drop. Kaido's army will come after us!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            577,
+            1111,
+            728
+        ],
+        "text": "Mwa ha ha ha!! You're all so weak!! Does the word samurai mean nothing anymore?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

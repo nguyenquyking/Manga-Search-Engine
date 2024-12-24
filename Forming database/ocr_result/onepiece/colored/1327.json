@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            64,
+            247,
+            117,
+            319
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            90,
+            599,
+            162,
+            682
+        ],
+        "text": "MINGLING COURTYARD,\nPANGAEA CASTLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            151,
+            38,
+            222,
+            148
+        ],
+        "text": "PLEASE\nSTOP, ST. CHARLOS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            97,
+            381,
+            202
+        ],
+        "text": "WHY ARE\nYOU DOING\nTHIS?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            621,
+            423,
+            718
+        ],
+        "text": "MWUH\nHUH HUH\nHUH!\u2661",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            22,
+            488,
+            119
+        ],
+        "text": "PLEASE,\nSTOP!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            614,
+            806,
+            714
+        ],
+        "text": "THAT'S\nRIGHT! PUT\nTHE CHAINS\nON HER!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            892,
+            68,
+            990,
+            152
+        ],
+        "text": "STOP,\nREBECCA!!\nTHEY'RE\nCELESTIAL\nDRAGONS!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            205,
+            974,
+            274
+        ],
+        "text": "SHIRA-\nHOSHI!\nNO!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            316,
+            996,
+            436
+        ],
+        "text": "HANG ON! WHAT\nDO YOU THINK\nYOU'RE DOING,\nPRINCESS OF\nALABASTA?!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            939,
+            621,
+            1040,
+            722
+        ],
+        "text": "SHIRA-\nHOSHI!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

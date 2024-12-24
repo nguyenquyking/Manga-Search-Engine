@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            107,
+            558,
+            246,
+            651
+        ],
+        "text": "But there's no way I can sleep in a situation like THIS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            148,
+            807,
+            305,
+            934
+        ],
+        "text": "There's a place I'd like to go with you tomorrow. Get some solid sleep tonight.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            305,
+            508,
+            356,
+            580
+        ],
+        "text": "I hate spoiled people.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1265,
+            271,
+            1457,
+            830
+        ],
+        "text": "TAK",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            102,
+            881,
+            192,
+            1006
+        ],
+        "text": "PERFORMANCE FLOOR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            192,
+            169,
+            281,
+            306
+        ],
+        "text": "MAKE SURE THE STRAW HATS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            280,
+            777,
+            348,
+            903
+        ],
+        "text": "ONWARD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            497,
+            831,
+            596,
+            1022
+        ],
+        "text": "...GET THROUGH THE CASTLE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            710,
+            922,
+            744,
+            1021
+        ],
+        "text": "AIEE!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            984,
+            71,
+            1044,
+            273
+        ],
+        "text": "AAAAA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1004,
+            858,
+            1144,
+            1009
+        ],
+        "text": "DON'T GET AHEAD OF YOURSELVES!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            645,
+            1120,
+            808
+        ],
+        "text": "MEASLY YAKUZA AND PRISONERS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1168,
+            303,
+            1236,
+            393
+        ],
+        "text": "GWAA!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

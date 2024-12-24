@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            45,
+            746,
+            111,
+            810
+        ],
+        "text": "WHAT NOW?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            118,
+            153,
+            184,
+            274
+        ],
+        "text": "THE KID'S GPS SIGNAL IS GONE?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            442,
+            834,
+            463,
+            931
+        ],
+        "text": "DAMMIT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            518,
+            533,
+            562
+        ],
+        "text": "FWP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            74,
+            72,
+            170,
+            214
+        ],
+        "text": "NO WONDER MY 'DANGER SENSE'",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            279,
+            47,
+            324,
+            172
+        ],
+        "text": "WAS GOING HAYWIRE.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            853,
+            84,
+            995,
+            225
+        ],
+        "text": "THAT VOICE... COULD IT BE...?",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1026,
+            110,
+            1070,
+            384
+        ],
+        "text": "MY HERO ACADEMIA\nCHAP. 307\nEND",
+        "panel_id": "2",
+        "type": "caption"
+    }
+]

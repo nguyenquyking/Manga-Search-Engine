@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            119,
+            124,
+            548,
+            755
+        ],
+        "text": "8000\u30d9\u30ea\u30fc\n\u4e00\u822c\u6d41\u901a\u4fa1\u683c",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            268,
+            398,
+            305,
+            593
+        ],
+        "text": "WANTED\nONLY ALIVE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            555,
+            396,
+            576,
+            542
+        ],
+        "text": "WANTED\nONLY ALIVE",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            642,
+            165,
+            761,
+            659
+        ],
+        "text": "WANTED",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1099,
+            292,
+            1307,
+            733
+        ],
+        "text": "ONLY ALIVE\nMORIKING\nB 500\nPETSHOP",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1258,
+            282,
+            1309,
+            471
+        ],
+        "text": "Catch that bug in anyway\npossible the reward is given to the person\nwho presents how you caught it.",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1316,
+            66,
+            1331,
+            157
+        ],
+        "text": "\u300e\u68ee\u6797\u738b\u8005\u30e2\u30ea\u30ad\u30f3\u30b0\u300f",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1327,
+            507,
+            1374,
+            868
+        ],
+        "text": "\u6700\u65b0\u30b3\u30df\u30c3\u30af\u30b93\u5dfb\u767a\u58f2\u4e2d\u3067\u3059!!\n\u9577\u8c37\u5ddd\u5148\u751f\n\u304c\u7b54\u3048\u307e\u304f\u308b\u8cea\u554f\u30b3\u30fc\u30ca\u30fc\u3082\u5927\u5145\u5b9f\u3060\u305e\u3063!!!",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

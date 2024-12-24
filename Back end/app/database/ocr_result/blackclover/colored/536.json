@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            192,
+            1815,
+            423,
+            1851
+        ],
+        "text": "AAAAAH?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            261,
+            2452,
+            364,
+            2562
+        ],
+        "text": "HUH?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1396,
+            1465,
+            1572,
+            1585
+        ],
+        "text": "FOR THE NEXT TWO DAYS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1560,
+            404,
+            1656,
+            668
+        ],
+        "text": "AS A RESULT,\nYOU'LL GROW\nEXPONENTIALLY.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1583,
+            893,
+            1755,
+            1151
+        ],
+        "text": "...I'LL\nTEACH YOU\nEVERYTHING\nI KNOW ABOUT\nDEVIL MAGIC.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1581,
+            1810,
+            1629,
+            1896
+        ],
+        "text": "WHERE...?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1198,
+            2141,
+            1555,
+            2178
+        ],
+        "text": "WAAAAAAUGH!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

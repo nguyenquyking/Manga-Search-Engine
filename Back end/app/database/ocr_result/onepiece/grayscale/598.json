@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            51,
+            134,
+            124,
+            228
+        ],
+        "text": "Why are the Headliners doing this?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            45,
+            326,
+            93,
+            426
+        ],
+        "text": "AAAH! No, Stop!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            530,
+            112,
+            594
+        ],
+        "text": "Right-Brain Tower",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            50,
+            636,
+            129,
+            700
+        ],
+        "text": "Skull Dome, Onigashima",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            383,
+            66,
+            493,
+            251
+        ],
+        "text": "Hey, Armored Division! Just because you're under the effect of enemy powers doesn't mean this isn't treason!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            381,
+            335,
+            487,
+            499
+        ],
+        "text": "Ga ha ha ha!! So you came back, huh?! You guys were his underlings, right?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            384,
+            557,
+            468,
+            711
+        ],
+        "text": "Leave these guys to us!! You take out Sasaki, Iron Bro!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            458,
+            269,
+            493,
+            324
+        ],
+        "text": "Weez Weez!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            700,
+            204,
+            812,
+            314
+        ],
+        "text": "I'd say the same to you!! Your resilience is proving to be obnoxious!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            451,
+            796,
+            576
+        ],
+        "text": "I swear I've dealt you the finishing blow a couple times already!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            701,
+            610,
+            771,
+            724
+        ],
+        "text": "Huff, huff... Man, you're tough",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            51,
+            1096,
+            159
+        ],
+        "text": "Now get out of my way!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

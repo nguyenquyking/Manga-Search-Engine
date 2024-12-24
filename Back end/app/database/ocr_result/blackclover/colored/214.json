@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            57,
+            1128,
+            48,
+            1453
+        ],
+        "text": "EVEN IN HAGE VILLAGE...!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            306,
+            1123,
+            335,
+            1206
+        ],
+        "text": "THIS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            155,
+            253,
+            246,
+            359
+        ],
+        "text": "THIS NEWSPAPER...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            491,
+            253,
+            524,
+            820
+        ],
+        "text": "CHAPTER 218: THE WORST OF THE WORST",
+        "panel_id": "3",
+        "type": "chapter_title"
+    },
+    {
+        "text_box": [
+            718,
+            1351,
+            778,
+            1461
+        ],
+        "text": "A...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            1217,
+            1065,
+            1370
+        ],
+        "text": "AS...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1091,
+            68,
+            1461,
+            293
+        ],
+        "text": "ASTA'S\nIN IT!!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1565,
+            341,
+            2203,
+            1533
+        ],
+        "text": "Mostly illegible newspaper text.  A few words are visible, but the majority is unreadable.",
+        "panel_id": "6",
+        "type": "background"
+    }
+]

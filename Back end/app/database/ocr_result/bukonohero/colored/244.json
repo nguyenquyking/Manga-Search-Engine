@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            131,
+            63,
+            284,
+            256
+        ],
+        "text": "I COULD BE...\nTHE LAST ONE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            533,
+            129,
+            588,
+            231
+        ],
+        "text": "NOW, IZUKU...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            533,
+            701,
+            599,
+            797
+        ],
+        "text": "THAT'S\nTHE REAL\nISSUE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1150,
+            108,
+            1256,
+            353
+        ],
+        "text": "CAN YOU\nKILL TOMURA\nSHIGARAKI?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1106,
+            743,
+            1182,
+            834
+        ],
+        "text": "TELL\nME.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1399,
+            504,
+            1419,
+            844
+        ],
+        "text": "Next chapter hits Mar. 14!",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

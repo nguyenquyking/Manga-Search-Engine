@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            80,
+            48,
+            574,
+            363
+        ],
+        "text": "STOMP TROMP\nSTOMP TROMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            372,
+            1413,
+            547,
+            1664
+        ],
+        "text": "WA HA HA\nHA HA\nGYA HA HA\nHA",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            74,
+            894,
+            296
+        ],
+        "text": "It seems they haven't\ngiven a single\nthought to the\npossibility of\nenemy attack!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1061,
+            2196,
+            1255,
+            2421
+        ],
+        "text": "WHOA!!\nSO\nTHIS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1117,
+            524,
+            1436,
+            780
+        ],
+        "text": "...IS\nONIGA-\nSHIMA\n!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1436,
+            76,
+            1568,
+            304
+        ],
+        "text": "THAT MEANS\nKANJURO HASN'T\nREPORTED\nIN YET.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1662,
+            84,
+            1824,
+            296
+        ],
+        "text": "OUR SNEAK\nATTACK\nIS STILL\nPOSSIBLE!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1670,
+            448,
+            1814,
+            619
+        ],
+        "text": "WE'RE IN\nKAIDO'S\nLAIR!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1630,
+            1740,
+            1770,
+            1853
+        ],
+        "text": "I'VE\nNEVER\nSEEN IT\nBEFORE.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1653,
+            1927,
+            1743,
+            2060
+        ],
+        "text": "IT'S\nHUGE!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

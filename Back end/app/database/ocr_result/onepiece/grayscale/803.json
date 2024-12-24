@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            77,
+            59,
+            194,
+            180
+        ],
+        "text": "You're so much older now!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            602,
+            167,
+            723
+        ],
+        "text": "I've missed you!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            254,
+            49,
+            345,
+            131
+        ],
+        "text": "Wa ha ha ha ha!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            14,
+            741,
+            112
+        ],
+        "text": "Be-Beng!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            815,
+            50,
+            875,
+            169
+        ],
+        "text": "Lord Oden!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            616,
+            919,
+            715
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1122,
+            217,
+            1136,
+            483
+        ],
+        "text": "Next chapter hits Mar. 28!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

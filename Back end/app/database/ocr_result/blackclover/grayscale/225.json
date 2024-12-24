@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            265,
+            467,
+            552,
+            650
+        ],
+        "text": "...and you're\ngoing\nto give\nhim\nback!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1169,
+            362,
+            1288,
+            520
+        ],
+        "text": "The Black Bulls!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            403,
+            1909,
+            536,
+            2071
+        ],
+        "text": "Asta is ours...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

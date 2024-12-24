@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            37,
+            635,
+            156,
+            718
+        ],
+        "text": "OH NO!!\nHE TOOK\nTHE FULL\nBRUNT OF\nTHE BLAST\nBREATH!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            29,
+            293,
+            47
+        ],
+        "text": "SHWOOOO...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            566,
+            370,
+            696,
+            388
+        ],
+        "text": "SKREE\nSKREE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            528,
+            615,
+            563,
+            683
+        ],
+        "text": "ZIP!\nPFF!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            780,
+            614,
+            826,
+            697
+        ],
+        "text": "THAT\nDOES IT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            81,
+            917,
+            263
+        ],
+        "text": "BOOF!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            989,
+            435,
+            981,
+            524
+        ],
+        "text": "VROOOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

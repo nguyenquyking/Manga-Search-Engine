@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            20,
+            727,
+            120,
+            1026
+        ],
+        "text": "THOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            88,
+            410,
+            217,
+            559
+        ],
+        "text": "Well, this got nasty. Something's gotta change, or else...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            195,
+            110,
+            553,
+            992
+        ],
+        "text": "THOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            556,
+            659,
+            662,
+            749
+        ],
+        "text": "There's no way to get up there!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            360,
+            899,
+            485
+        ],
+        "text": "The light is... vanishing...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1086,
+            99,
+            1097,
+            145
+        ],
+        "text": "Ghk...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1336,
+            451,
+            1395,
+            574
+        ],
+        "text": "Lumiere!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1400,
+            954,
+            1440,
+            1002
+        ],
+        "text": "!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

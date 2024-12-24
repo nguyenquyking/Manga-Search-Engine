@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            311,
+            53,
+            377,
+            122
+        ],
+        "text": "...My body just knew.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            287,
+            181,
+            382,
+            316
+        ],
+        "text": "The second this guy came into view...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            887,
+            161,
+            983,
+            276
+        ],
+        "text": "My rabbit survival instincts told me...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1126,
+            20,
+            1173,
+            104
+        ],
+        "text": "This thing!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1109,
+            162,
+            1176,
+            294
+        ],
+        "text": "...that this dude is bad news!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1214,
+            159,
+            1396,
+            236
+        ],
+        "text": "PLIP\nPLIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

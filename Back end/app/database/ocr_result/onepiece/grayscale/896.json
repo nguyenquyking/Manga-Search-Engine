@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            125,
+            490,
+            212,
+            699
+        ],
+        "text": "DRACONIC SUPER-FILLET SALMON",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            220,
+            492,
+            258,
+            712
+        ],
+        "text": "ALSO CALLED \"DRAGON SALMON\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            337,
+            570,
+            452,
+            703
+        ],
+        "text": "THEY'RE A TYPE OF SALMON WHOSE LONG, SINUOUS BODY BRINGS TO MIND THE IMAGINARY DRAGON.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            353,
+            86,
+            469,
+            199
+        ],
+        "text": "...AND IS THOUGHT TO BRING GOOD FORTUNE TO THOSE LUCKY ENOUGH TO EAT IT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            357,
+            241,
+            458,
+            375
+        ],
+        "text": "THEIR FLESH IS CONSIDERED FAR MORE TENDER AND DELICIOUS THAN EVEN BEEF TENDERLOIN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            351,
+            414,
+            470,
+            525
+        ],
+        "text": "ONLY DURING THEIR MATING SEASON DO THEY GATHER, SWIMMING IN SCHOOLS OF HUNDREDS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            614,
+            127,
+            701,
+            229
+        ],
+        "text": "THERE ISN'T A SOUL ON MY ISLAND WHO COULD DO IT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            548,
+            715,
+            650
+        ],
+        "text": "BUT DRESSING AND FILLETING THEM TAKES EXACTING SKILL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            652,
+            678,
+            712
+        ],
+        "text": "YEP. DRAGON SALMON.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            78,
+            1054,
+            185
+        ],
+        "text": "EVEN IF I HADN'T GOTTEN HURT, I NEVER COULD'VE DONE IT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            259,
+            1036,
+            333
+        ],
+        "text": "HEH... LOOKS LIKE THEY WERE RIGHT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            802,
+            419,
+            890,
+            486
+        ],
+        "text": "MY FRIENDS LAUGHED AT ME OVER IT TOO.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            530,
+            904,
+            661
+        ],
+        "text": "SO I PLUNKED DOWN A LOT OF MONEY TO BUY AS MANY AS I COULD TO PRACTICE ON, RIGHT?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

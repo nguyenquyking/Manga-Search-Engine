@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            45,
+            321,
+            116,
+            418
+        ],
+        "text": "I'm kicking myself for not realizing...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            181,
+            149,
+            755
+        ],
+        "text": "Of course",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            132,
+            91,
+            208,
+            288
+        ],
+        "text": "...that that was your S.O.S. to me!\nAnd the reason...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            143,
+            416,
+            244
+        ],
+        "text": "...You failed all for one!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            345,
+            298,
+            408,
+            406
+        ],
+        "text": "...Clearly isn't because...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            311,
+            602,
+            390,
+            704
+        ],
+        "text": "...You're bawling your eyes out now...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            66,
+            793,
+            166
+        ],
+        "text": "...was crushed! That's all!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            176,
+            703,
+            239
+        ],
+        "text": "Her spirit...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            703,
+            276,
+            808,
+            379
+        ],
+        "text": "But even she didn't sell her whole soul!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            597,
+            627,
+            661,
+            735
+        ],
+        "text": "I happen to know a hero...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            547,
+            826,
+            687
+        ],
+        "text": "...who got manipulated by him.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            68,
+            1072,
+            186
+        ],
+        "text": "Doing wrong doesn't make you a villain for the rest of your life!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            920,
+            329,
+            1030,
+            456
+        ],
+        "text": "\"If I had known, maybe things would've worked out differently.\"",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1021,
+            644,
+            1062,
+            727
+        ],
+        "text": "Midoriya, kid!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

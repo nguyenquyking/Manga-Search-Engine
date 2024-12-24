@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            208,
+            103,
+            283,
+            278
+        ],
+        "text": "Speak of the little devils!\nIt's them!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            855,
+            25,
+            872,
+            83
+        ],
+        "text": "KCHK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1233,
+            52,
+            1254,
+            127
+        ],
+        "text": "THERE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            448,
+            898,
+            541
+        ],
+        "text": "QUICK!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            862,
+            609,
+            901,
+            731
+        ],
+        "text": "Gimme my equipment!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            784,
+            887,
+            888
+        ],
+        "text": "MISTER!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            595,
+            1109,
+            717
+        ],
+        "text": "Huh? So aggressive...\nYou're making this old man blush...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1269,
+            460,
+            1295,
+            514
+        ],
+        "text": "EEP!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1316,
+            817,
+            1339,
+            876
+        ],
+        "text": "BWAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

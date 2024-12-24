@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            78,
+            22,
+            232,
+            148
+        ],
+        "text": "THE FUTURE OF WANO RESTS UPON HIS SHOULDERS!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            482,
+            150,
+            572
+        ],
+        "text": "HE'S GOING TO DROWN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            595,
+            194,
+            703
+        ],
+        "text": "WHITE-BEARD!! PULL UP LORD ODEN NOW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            402,
+            138,
+            457
+        ],
+        "text": "DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            366,
+            32,
+            472,
+            109
+        ],
+        "text": "IF YOU WANT TO STOP HIM, TALK HIM DOWN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            380,
+            166,
+            460,
+            268
+        ],
+        "text": "IT WOULD BE EXPOSING MY FAMILY TO RISK.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            355,
+            294,
+            474,
+            395
+        ],
+        "text": "I CAN'T JUST LET A DANGEROUS MAN LIKE HIM STEP ON BOARD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            373,
+            438,
+            463,
+            538
+        ],
+        "text": "AND HE STILL MADE IT OUT TO SEA.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            572,
+            451,
+            695
+        ],
+        "text": "YOU SAW HOW MANY TIMES I REFUSED HIM, BOY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            525,
+            435,
+            612,
+            535
+        ],
+        "text": "SO WE'RE GOING TO PLAY BY MY RULES.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            49,
+            591,
+            133
+        ],
+        "text": "YOU HAVE THREE DAYS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            15,
+            837,
+            106
+        ],
+        "text": "YOU SAID IT... I HEARD YOU!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            706,
+            221,
+            753,
+            282
+        ],
+        "text": "BWUH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            712,
+            325,
+            806,
+            449
+        ],
+        "text": "...I'LL LET YOU COME UP ON BOARD THE SHIP!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            501,
+            810,
+            658
+        ],
+        "text": "LISTEN UP, ODEN!! IF YOU CAN CLING TO THAT CHAIN FOR THREE WHOLE DAYS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            966,
+            8,
+            1038,
+            105
+        ],
+        "text": "I DON'T BREAK MY WORD.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            952,
+            220,
+            993,
+            276
+        ],
+        "text": "THAT'S RIGHT.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            312,
+            1120,
+            428
+        ],
+        "text": "GLOBBA GA-BURGLE-BLUB!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

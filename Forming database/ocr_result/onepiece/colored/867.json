@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            52,
+            50,
+            108,
+            177
+        ],
+        "text": "Mil Fleurs!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            218,
+            139,
+            306
+        ],
+        "text": "Let's get out of the castle alive!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            492,
+            121,
+            595
+        ],
+        "text": "Keep up what you're doing!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            617,
+            134,
+            717
+        ],
+        "text": "Bonekichi, you've done wonderfully! Thank you!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            168,
+            457,
+            252,
+            537
+        ],
+        "text": "Yo ho ho!! Am I \"killing it\"?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            337,
+            49,
+            400,
+            129
+        ],
+        "text": "Aaah!!!",
+        "panel_id": "2",
+        "type": "exclamation"
+    },
+    {
+        "text_box": [
+            453,
+            30,
+            534,
+            125
+        ],
+        "text": "More Sorcery?!",
+        "panel_id": "2",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            413,
+            196,
+            408,
+            267
+        ],
+        "text": "WHOOSH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            363,
+            579,
+            469,
+            711
+        ],
+        "text": "Gigan-Tesco Mano!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            549,
+            670,
+            565,
+            695
+        ],
+        "text": "?!",
+        "panel_id": "2",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            686,
+            43,
+            782,
+            169
+        ],
+        "text": "Are they an alliance of ghoulish spirits?!",
+        "panel_id": "2",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            872,
+            47,
+            986,
+            152
+        ],
+        "text": "I suppose there's no use hiding anymore. Let's go!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            408,
+            958,
+            503
+        ],
+        "text": "Now both Robin and Brook are in trouble!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            566,
+            952,
+            661
+        ],
+        "text": "What should we do, Shinobu?!",
+        "panel_id": "3",
+        "type": "question"
+    }
+]

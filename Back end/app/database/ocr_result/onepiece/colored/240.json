@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            36,
+            93,
+            201,
+            255
+        ],
+        "text": "I AM THE MAN WHO WILL BE SHOGUN OF WANO!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            59,
+            290,
+            182,
+            416
+        ],
+        "text": "KOZUKI MOMONOSUKE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            627,
+            72,
+            669,
+            194
+        ],
+        "text": "Momonosuke-kun!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            1572,
+            757,
+            1712
+        ],
+        "text": "Straw Hat! How are you still breathing?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            703,
+            1388,
+            824,
+            1531
+        ],
+        "text": "And who is this dragon?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            839,
+            61,
+            963,
+            217
+        ],
+        "text": "This world doesn't need another dragon!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            839,
+            269,
+            951,
+            403
+        ],
+        "text": "Wororo!! You're the brat?! How unexpected!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            969,
+            947,
+            1125,
+            1096
+        ],
+        "text": "I'm the man who'll be King of the Pirates!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            1308,
+            1116,
+            1453
+        ],
+        "text": "It doesn't matter what you do, I'm not gonna die!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            1507,
+            1043,
+            1595
+        ],
+        "text": "Could it be...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            1641,
+            1053,
+            1724
+        ],
+        "text": "A Peach Dragon...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1103,
+            3,
+            1170,
+            139
+        ],
+        "text": "Head to head, a clash of dragons!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1188,
+            550,
+            1264,
+            626
+        ],
+        "text": "My name is...!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1185,
+            761,
+            1254,
+            818
+        ],
+        "text": "My na-",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1235,
+            247,
+            1287,
+            502
+        ],
+        "text": "Ch. 1025 ONE PIECE",
+        "panel_id": "6",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1249,
+            885,
+            1294,
+            972
+        ],
+        "text": "BREAK NEXT WEEK",
+        "panel_id": "6",
+        "type": "background"
+    }
+]

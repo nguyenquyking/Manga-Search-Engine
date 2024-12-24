@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            69,
+            41,
+            140,
+            190
+        ],
+        "text": "IF YOU LEAVE THE SUMO RING WITH THIS ON...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            579,
+            154,
+            698
+        ],
+        "text": "NOW, THOSE COLLARS AROUND YOUR NECKS?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            218,
+            577,
+            282,
+            694
+        ],
+        "text": "IMAGINE THIS STONE PILLAR IS YOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            421,
+            51,
+            489,
+            141
+        ],
+        "text": "WHOA!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            774,
+            43,
+            855,
+            199
+        ],
+        "text": "DAMMIT! JUST LIKE THE CELESTIAL DRAGONS' COLLARS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            789,
+            253,
+            880,
+            370
+        ],
+        "text": "...AND SLICE YOUR HEAD RIGHT OFF YOUR NECK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            406,
+            871,
+            515
+        ],
+        "text": "THE CLAWS ON THE INSIDE WILL DEPLOY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            42,
+            1119,
+            198
+        ],
+        "text": "YOU CAN GIVE THAT UP! THEY'RE NOT MADE TO BE REMOVABLE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            252,
+            948,
+            387
+        ],
+        "text": "KSHING!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

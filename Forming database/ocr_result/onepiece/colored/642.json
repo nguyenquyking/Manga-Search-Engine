@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            78,
+            88,
+            159,
+            212
+        ],
+        "text": "LET'S GO TO ONIGASHIMA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            583,
+            145,
+            713
+        ],
+        "text": "RAAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            100,
+            389,
+            112,
+            475
+        ],
+        "text": "RAAAAAHHHH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            517,
+            77,
+            598,
+            166
+        ],
+        "text": "FULL SPEED AHEAD!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            418,
+            577,
+            511
+        ],
+        "text": "SET SAILS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            516,
+            549,
+            560,
+            627
+        ],
+        "text": "MAKE IT QUICK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            651,
+            572,
+            729
+        ],
+        "text": "LOAD HER ON THE SHIP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            938,
+            117,
+            993,
+            238
+        ],
+        "text": "WHAAAAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            289,
+            954,
+            356
+        ],
+        "text": "LET'S GO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            400,
+            1006,
+            508
+        ],
+        "text": "AH, YES. ALAS, IF ONLY WE DID NOT AGREE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            532,
+            1002,
+            631
+        ],
+        "text": "MOMO, THE GATE IS CLOSING!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1050,
+            406,
+            1132,
+            454
+        ],
+        "text": "...TO WAIT HERE FOR...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1126,
+            674,
+            1154,
+            723
+        ],
+        "text": "GRRRG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

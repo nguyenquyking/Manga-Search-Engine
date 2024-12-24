@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            333,
+            50,
+            402,
+            694
+        ],
+        "text": "Q: I think that Captain Belo Betty of the Revolutionary Army's Eastern Forces is awesome and cool and beautiful! Is she based on Marianne, the figure from Delacroix's *Liberty Leading the People*?",
+        "panel_id": "1",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            403,
+            488,
+            424,
+            545
+        ],
+        "text": "--Yuito",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            51,
+            490,
+            532
+        ],
+        "text": "A: That's right. The painting where she's leading them like a tour bus guide! That was the image I was going for with Betty! She's very popular.",
+        "panel_id": "2",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            504,
+            87,
+            596,
+            703
+        ],
+        "text": "Q: This is a question for Odaacchi!! How is it that transponder snails look like their owners? Sometimes they look like the person on the other end of the call, and sometimes they talk to people while looking like their owner! They are very mysterious creatures!",
+        "panel_id": "3",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            600,
+            428,
+            618,
+            506
+        ],
+        "text": "--Omame",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            52,
+            795,
+            698
+        ],
+        "text": "A: First of all, transponder snails have the ability to mimic the appearance of others. So they can disguise themselves with the features and looks of people who are close to them. When they're talking to someone else, they can pick up the expressions of the people they're talking to. But which one they choose, if any at all, is entirely up to the individual snail's mood. They're living things, not machines, so there are no hard rules on how they work.",
+        "panel_id": "4",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            807,
+            51,
+            854,
+            710
+        ],
+        "text": "Q: Hello, Odacchi! I noticed something about the people Franky tracks down while searching for the mansion plans in chapter 929. Kumagoro, Kobei, Kisegawa,",
+        "panel_id": "5",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            856,
+            87,
+            997,
+            338
+        ],
+        "text": "Tokijiro, Rakuda... These are all names from famous rakugo stories! The line about Orochi having \"tuna for sashimi\" is also from a rakugo routine. You really do love your rakugo!",
+        "panel_id": "5",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            1002,
+            188,
+            1018,
+            335
+        ],
+        "text": "--The Eel Flatterer",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            50,
+            1134,
+            709
+        ],
+        "text": "A: That's right! I'm a huge fan of the traditional form of comic storytelling known as rakugo. I've been stuffing this story arc full of little references! You don't need to know any of them; I'm just including them as Easter eggs for those in the know to recognize and enjoy!",
+        "panel_id": "6",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            1135,
+            691,
+            1180,
+            751
+        ],
+        "text": "112",
+        "panel_id": "6",
+        "type": "page_number"
+    }
+]

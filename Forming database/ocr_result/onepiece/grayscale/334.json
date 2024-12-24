@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            101,
+            586,
+            183,
+            715
+        ],
+        "text": "...QUEEN!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            482,
+            440,
+            512,
+            531
+        ],
+        "text": "KA-BAAAM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            672,
+            155,
+            741,
+            241
+        ],
+        "text": "WHAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            712,
+            991,
+            760
+        ],
+        "text": "KRUNCH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            11,
+            775,
+            59,
+            991
+        ],
+        "text": "GREIISH",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            87,
+            1123,
+            184,
+            1239
+        ],
+        "text": "THIS IS WHAT\nYOU GET WHEN\nYOU DON'T\nBACK OFF!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            146,
+            1601,
+            236,
+            1721
+        ],
+        "text": "WAAA!!\nHIC",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            296,
+            1079,
+            339,
+            1193
+        ],
+        "text": "THUNDER...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            466,
+            1513,
+            536,
+            1583
+        ],
+        "text": "BA...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            559,
+            1641,
+            712,
+            1726
+        ],
+        "text": "PANT...\nPANT...\nDON'T GET\nAHEAD OF\nYOURSELF!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            767,
+            1079,
+            798,
+            1186
+        ],
+        "text": "GREIISH",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            822,
+            1232,
+            896,
+            1316
+        ],
+        "text": "GUA...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            852,
+            917,
+            882,
+            1000
+        ],
+        "text": "SHISH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            787,
+            172,
+            932,
+            116
+        ],
+        "text": "GREIISH",
+        "panel_id": "5",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1118,
+            77,
+            1177,
+            181
+        ],
+        "text": "UGH!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1162,
+            773,
+            1225,
+            884
+        ],
+        "text": "YOU\nDRUNK!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1176,
+            933,
+            1227,
+            998
+        ],
+        "text": "TAKE\nTHAT,",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

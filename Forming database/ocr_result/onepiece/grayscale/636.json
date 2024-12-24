@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            42,
+            47,
+            152,
+            167
+        ],
+        "text": "ALL MY FRIENDS WHO ATE THE MILLET DUMPLINGS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            362,
+            62,
+            406
+        ],
+        "text": "ALL--!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            29,
+            520,
+            93,
+            594
+        ],
+        "text": "BE STRONG, OTAMA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            21,
+            614,
+            64,
+            683
+        ],
+        "text": "YOU CAN DO IT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            381,
+            67,
+            467,
+            181
+        ],
+        "text": "PLEASE!! LISTEN UP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            530,
+            60,
+            635,
+            188
+        ],
+        "text": "WHAT'S WITH THAT BRAT?! KNOCK HER OFF THAT BALCONY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            632,
+            507,
+            708
+        ],
+        "text": "SHE'S YELLIN' AGAIN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            675,
+            595,
+            732
+        ],
+        "text": "HUH?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            263,
+            640,
+            339
+        ],
+        "text": "RAAAAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            901,
+            64,
+            1056,
+            199
+        ],
+        "text": "...FOR BIG BRO LUFFY AND MOMONOSUKE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            910,
+            565,
+            1049,
+            717
+        ],
+        "text": "YOU GOTTA CHANGE SIDES AND FIGHT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

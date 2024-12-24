@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            344,
+            201,
+            415,
+            302
+        ],
+        "text": "They say he appears without a sound.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            571,
+            103,
+            662,
+            207
+        ],
+        "text": "And that he's got a whole mess of quirks in him.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            739,
+            294,
+            848,
+            380
+        ],
+        "text": "That sounds like... all for one's ability, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            198,
+            865,
+            266
+        ],
+        "text": "Or like a Nomu even?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            941,
+            296,
+            1049,
+            396
+        ],
+        "text": "But apparently he goes around helping people.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            998,
+            73,
+            1084,
+            214
+        ],
+        "text": "The rumors say he's caked with blood and filth, which cover up his many scars.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

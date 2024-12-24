@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            67,
+            192,
+            114,
+            278
+        ],
+        "text": "TSK... DAMMIT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            308,
+            120,
+            406
+        ],
+        "text": "OH! OTSURU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            46,
+            199,
+            137
+        ],
+        "text": "BREW UP SOME OF THE EVIL-PURGING HERBS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            114,
+            601,
+            171,
+            703
+        ],
+        "text": "OKIKUU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            44,
+            453,
+            141
+        ],
+        "text": "THERE'S NOT A MOMENT TO WASTE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            366,
+            339,
+            423,
+            390
+        ],
+        "text": "OH NO!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            618,
+            480,
+            701
+        ],
+        "text": "OTAMA DRANK FROM THE POISONED RIVER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            655,
+            31,
+            742,
+            180
+        ],
+        "text": "SHOULD WE GO GET THEM BEFORE TROUBLE STARTS?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            422,
+            744,
+            549
+        ],
+        "text": "YOU KNOW I'M RIGHT! IT'S THE STRAW HATS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            608,
+            691,
+            688
+        ],
+        "text": "ATOP A MOUNTAIN",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            801,
+            29,
+            861,
+            144
+        ],
+        "text": "YOU'RE GONNA STICK OUT IF YOU DO, BEPO!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            74,
+            551,
+            229,
+            703
+        ],
+        "text": "...Set off across the barren ground, crunching like winter frost under their soles.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            74,
+            1301,
+            186,
+            1472
+        ],
+        "text": "Meanwhile, seven samurai with red scabbards, one shinobi, and one little lord...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            100,
+            314,
+            204,
+            433
+        ],
+        "text": "When we win the fight, we'll build fancier graves!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            77,
+            878,
+            202
+        ],
+        "text": "You already wield Kitetsu III. That is one of mine.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            316,
+            872,
+            446
+        ],
+        "text": "Boy... do you find that Enma fits comfortably in your hand?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            235,
+            818,
+            294
+        ],
+        "text": "Hmm?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1022,
+            48,
+            1125,
+            183
+        ],
+        "text": "It works much like a cursed blade does. The weak cannot control it...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            915,
+            51,
+            960,
+            138
+        ],
+        "text": "What, really?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            906,
+            548,
+            1020,
+            656
+        ],
+        "text": "They cast nine shadows, crisp upon the earth.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1105,
+            557,
+            1140,
+            636
+        ],
+        "text": "Ka-Klang!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            910,
+            995,
+            1093,
+            1129
+        ],
+        "text": "...These are not vengeful ghosts come to repay the slaughter of their liege after 20 years.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            924,
+            1194,
+            983,
+            1273
+        ],
+        "text": "...Burns bright and hot.",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            926,
+            1402,
+            991,
+            1482
+        ],
+        "text": "The sun at its zenith...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1041,
+            1191,
+            1119,
+            1275
+        ],
+        "text": "Despite the lingering clouds...",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

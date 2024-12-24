@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            22,
+            18,
+            148,
+            142
+        ],
+        "text": "Besides, I don't believe you! You've never had a problem with warping before!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            197,
+            136,
+            274
+        ],
+        "text": "It's not really my concern. Just tell him to bear it!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            36,
+            357,
+            141,
+            464
+        ],
+        "text": "He develops a dreadful case of tonsillitis with every warping!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            511,
+            91,
+            552
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            27,
+            635,
+            116,
+            723
+        ],
+        "text": "Trying to kill my little Johnny, are you?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            49,
+            482,
+            206
+        ],
+        "text": "Contact me once you get the Liberation Army to stop tracking you.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            547,
+            525,
+            720
+        ],
+        "text": "I try not to get too close... ...with those who might give away my location to third parties.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            667,
+            469,
+            757,
+            581
+        ],
+        "text": "Isn't he meant to be All For One's successor?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            613,
+            732,
+            715
+        ],
+        "text": "So will Shigaraki's death sit well with you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            898,
+            81,
+            1024,
+            210
+        ],
+        "text": "Which is exactly why he needs to be pushed into a corner.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

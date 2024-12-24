@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            84,
+            42,
+            180,
+            153
+        ],
+        "text": "...Do you mean Portgas D. Ace?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            236,
+            32,
+            282,
+            116
+        ],
+        "text": "Is that it, Tama?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            596,
+            181,
+            699
+        ],
+        "text": "When you say you're waiting for Ace...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            260,
+            491,
+            334
+        ],
+        "text": "Yeah.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            406,
+            534,
+            477
+        ],
+        "text": "...You know him...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            609,
+            546,
+            691
+        ],
+        "text": "Koff... Big Bro, are you sayin'...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            921,
+            542,
+            1017,
+            698
+        ],
+        "text": "Ace is dead.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1052,
+            46,
+            1100,
+            102
+        ],
+        "text": "?!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

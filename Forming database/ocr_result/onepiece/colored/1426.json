@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            57,
+            238,
+            96,
+            332
+        ],
+        "text": "MASTER PEROSPERO...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            382,
+            111,
+            436
+        ],
+        "text": "MAMA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            557,
+            100,
+            609
+        ],
+        "text": "MAMA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            649,
+            141,
+            726
+        ],
+        "text": "FLUFFY ISLAND",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            666,
+            76,
+            769,
+            190
+        ],
+        "text": "I'VE NEVER SEEN SUCH BLISS ON HER FACE BEFORE, PERORIN!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            580,
+            625,
+            640,
+            730
+        ],
+        "text": "SHE'S BACK TO THE OLD MAMA.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            696,
+            630,
+            758,
+            735
+        ],
+        "text": "WHAT KIND OF CAKE DID THEY BAKE?",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            918,
+            50,
+            972,
+            137
+        ],
+        "text": "HAPPINESS.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            876,
+            342,
+            962,
+            466
+        ],
+        "text": "FIRST OF ALL, BEGE MUST STILL BE NEARBY...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            876,
+            527,
+            958,
+            713
+        ],
+        "text": "MAMA! YOU'RE THE CAPTAIN, SO I'M GOING TO GIVE YOU A STATUS REPORT, ALL RIGHT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

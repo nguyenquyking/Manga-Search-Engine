@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            77,
+            622,
+            113,
+            695
+        ],
+        "text": "THIS ARENA...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            266,
+            110,
+            342,
+            236
+        ],
+        "text": "...WAS CONSTRUCTED SOLELY TO DEFEAT YOU.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            595,
+            331,
+            685,
+            447
+        ],
+        "text": "IT SHALL BE YOUR COFFIN IN THE SKY.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            802,
+            60,
+            930,
+            197
+        ],
+        "text": "ROGER THAT! LET'S FILL IN THOSE GAPS, EVERYONE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            459,
+            1090,
+            567
+        ],
+        "text": "PLATES F10-35 AND G10-45 HAVE BEEN DAMAGED.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            986,
+            581,
+            1053,
+            640
+        ],
+        "text": "KEH HEH HEH...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            362,
+            7,
+            543,
+            137
+        ],
+        "text": "The closer we are, the more intuitively she can shoot and the less need there is for her to calculate my position.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            356,
+            349,
+            500,
+            444
+        ],
+        "text": "The shot that hit me in the back came from the side with a wicked curve.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            788,
+            140,
+            840,
+            199
+        ],
+        "text": "So how about...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            709,
+            227,
+            772,
+            300
+        ],
+        "text": "Quicker shots in succession.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            384,
+            822,
+            455
+        ],
+        "text": "Being closer means...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            989,
+            225,
+            1085,
+            316
+        ],
+        "text": "Even the fourth can't help me react fast enough.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            713,
+            648,
+            838,
+            731
+        ],
+        "text": "She wants to stop me and capture me alive, right?",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            903,
+            479,
+            1052,
+            547
+        ],
+        "text": "But after I blocked that shot, she decided to get closer!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

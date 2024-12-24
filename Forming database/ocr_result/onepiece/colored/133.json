@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            85,
+            70,
+            111,
+            227
+        ],
+        "text": "CIPHER POL...?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            530,
+            63,
+            605,
+            174
+        ],
+        "text": "FOR BEING A MEMBER OF A NOTORIOUS CREW,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            211,
+            601,
+            317
+        ],
+        "text": "WE TECHNICALLY AREN'T MEANT TO LET YOU OFF THE HOOK...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            494,
+            574,
+            590
+        ],
+        "text": "LET'S JUST PRETEND WE NEVER SAW EACH OTHER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            684,
+            562,
+            795
+        ],
+        "text": "...YES, WE'RE FROM THE AEGIS 0 BRANCH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            713,
+            48,
+            813,
+            188
+        ],
+        "text": "BUT WE'VE CURRENTLY GOT OUR EYES SET ON THE STRAW HATS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            763,
+            684,
+            819,
+            800
+        ],
+        "text": "I HEARD YOU WERE ON THE ISLAND, IZO...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            481,
+            1010,
+            572
+        ],
+        "text": "STOP, NOT ANOTHER STEP...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            925,
+            731,
+            980,
+            831
+        ],
+        "text": "I'M SURE WE'LL MEET AGAIN...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1024,
+            68,
+            1075,
+            126
+        ],
+        "text": "!!?",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1189,
+            67,
+            1238,
+            137
+        ],
+        "text": "CPO.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

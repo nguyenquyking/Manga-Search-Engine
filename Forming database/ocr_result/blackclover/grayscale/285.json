@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            169,
+            673,
+            300,
+            833
+        ],
+        "text": "Mister Gordon's dad, you're a recovery mage?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            253,
+            336,
+            367
+        ],
+        "text": "Yes... Starting in my generation, at any rate.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            480,
+            564,
+            608,
+            660
+        ],
+        "text": "I could have sworn you were cursing people to death.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            905,
+            612,
+            980
+        ],
+        "text": "I had no idea...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            566,
+            280,
+            769,
+            413
+        ],
+        "text": "Learn to communicate, wouldja?! People are obviously gonna get the wrong idea!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            396,
+            1256,
+            523
+        ],
+        "text": "Let me assist you with a spell that helps with gathering curses, a relic of our ancestor.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            883,
+            1184,
+            983
+        ],
+        "text": "I see... I understand.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1281,
+            749,
+            1411,
+            879
+        ],
+        "text": "Our magic is just the thing for searching for curses.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1334,
+            486,
+            1416,
+            546
+        ],
+        "text": "Yessss! Thank you very much, sir!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1504,
+            103,
+            1523,
+            132
+        ],
+        "text": "97",
+        "panel_id": "4",
+        "type": "page_number"
+    }
+]

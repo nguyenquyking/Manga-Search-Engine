@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            62,
+            84,
+            96,
+            212
+        ],
+        "text": "MMM!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            56,
+            280,
+            103,
+            394
+        ],
+        "text": "GULP!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            49,
+            445,
+            98,
+            547
+        ],
+        "text": "CHOMP!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            54,
+            615,
+            100,
+            720
+        ],
+        "text": "FWUF!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            396,
+            63,
+            459,
+            147
+        ],
+        "text": "IT TASTES JUST LIKE A DREAM!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            386,
+            247,
+            440,
+            314
+        ],
+        "text": "WHAT'S THIS FLAVOR?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            389,
+            444,
+            461
+        ],
+        "text": "WHAT'S THIS?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            394,
+            497,
+            420,
+            749
+        ],
+        "text": "MMM! GULP CHOMP FWUF!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            721,
+            70,
+            798,
+            229
+        ],
+        "text": "IT GETS DEAD PUPPIES DANCING MERRY",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            738,
+            352,
+            816,
+            488
+        ],
+        "text": "THIS TASTE IS FAR FROM ORDINARY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            562,
+            811,
+            720
+        ],
+        "text": "BUT I COULDN'T HAVE DIVINED IT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1039,
+            573,
+            1119,
+            703
+        ],
+        "text": "WHY, I CAN'T EVEN DEFINE IT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

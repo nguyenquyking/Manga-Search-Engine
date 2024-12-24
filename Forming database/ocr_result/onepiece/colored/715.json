@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            14,
+            52,
+            36,
+            285
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            67,
+            520,
+            245,
+            661
+        ],
+        "text": "\"The D-livery of Fan mail will always call Oda!\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            115,
+            224,
+            211,
+            281
+        ],
+        "text": "You rang?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            310,
+            49,
+            352,
+            248
+        ],
+        "text": "Q: I'm starting the SBS!\n--Normal Is Best",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            361,
+            48,
+            430,
+            442
+        ],
+        "text": "A: Whoa!! It's so normal!! You can't get more normal!!\nI wasn't expecting this.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            446,
+            49,
+            488,
+            471
+        ],
+        "text": "Q: Odacchi! You're not supposed to tie breast-bands around your head as a disguise!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            496,
+            395,
+            510,
+            475
+        ],
+        "text": "--Takataka",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            523,
+            47,
+            578,
+            443
+        ],
+        "text": "A: Huh? Oh, come now! Wa ha ha ha! You joker, you! Wa ha ha ha ha!! Wa ha ha ha ha ha...huh? I hear police sirens...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            590,
+            48,
+            680,
+            449
+        ],
+        "text": "Q: I have a very important announcement, Oda Sensei. On page 23 of volume 87, isn't Sanji kicking Big Mom? What happened to the Sanji who wouldn't kick a woman?!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            686,
+            292,
+            703,
+            451
+        ],
+        "text": "--Momotaro Hunter",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            717,
+            48,
+            884,
+            498
+        ],
+        "text": "A: Actually, I got several letters pointing this out. You're wrong! In that scene, Big Mom is throwing a punch at Reiju, and Luffy and Sanji are trying to block it. But how can you stop a punch from Big Mom just by standing there? You can't! So he had to kick just to neutralize the force of her fist! That's a defensive act, and not kicking a woman! Sanji's ironclad oath hasn't been broken!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            898,
+            49,
+            918,
+            363
+        ],
+        "text": "Q: I just have one thing to say to Sanji.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            925,
+            88,
+            980,
+            608
+        ],
+        "text": "\"If it's a mixed bath already, you don't need to use your stealth function!!\"",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            206,
+            1008,
+            274
+        ],
+        "text": "--Toshiy",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1015,
+            48,
+            1032,
+            366
+        ],
+        "text": "A: Well, Sanji? Did you hear that?",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            48,
+            1116,
+            553
+        ],
+        "text": "Sanji: Toshiy, don't you know that it's not acceptable to ogle a naked woman, just because the bath happens to be mixed-use?! But if I go invisible, I can ogle all I...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1119,
+            48,
+            1150,
+            430
+        ],
+        "text": "A: Stop right there, Sanji!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1146,
+            86,
+            1167,
+            670
+        ],
+        "text": "Peeping at women is a crime, young boys! C'mon, it's SBS time!",
+        "panel_id": "7",
+        "type": "dialogue"
+    }
+]

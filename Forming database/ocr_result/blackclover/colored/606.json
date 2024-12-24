@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            76,
+            1104,
+            196,
+            1247
+        ],
+        "text": "Doesn't being such a goody-goody get tiring?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            286,
+            502,
+            433,
+            596
+        ],
+        "text": "Moron! What's tiring about being free?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            381,
+            972,
+            551,
+            1159
+        ],
+        "text": "Heh heh! What about you, brother? Doesn't doing your own thing get tiring?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            959,
+            88,
+            1137,
+            240
+        ],
+        "text": "It's already been two days?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            757,
+            498,
+            852,
+            596
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1129,
+            1171,
+            1226,
+            1279
+        ],
+        "text": "It's about time...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1467,
+            454,
+            1659,
+            569
+        ],
+        "text": "I totally didn't even notice!! Oh crud!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1598,
+            797,
+            1724,
+            944
+        ],
+        "text": "...to meet up with the rest.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1690,
+            113,
+            1766,
+            201
+        ],
+        "text": "No choice then...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            690,
+            1120,
+            747,
+            1179
+        ],
+        "text": "SKRT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            135,
+            464,
+            206,
+            519
+        ],
+        "text": "?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            613,
+            737,
+            725,
+            902
+        ],
+        "text": "HELL SPIDER!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            759,
+            374,
+            900,
+            652
+        ],
+        "text": "WHF WHF",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1027,
+            20,
+            1114,
+            128
+        ],
+        "text": "...Some phantom voice, whispering in my head!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1026,
+            151,
+            1084,
+            237
+        ],
+        "text": "You don't get to be...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1260,
+            387,
+            1325,
+            463
+        ],
+        "text": "This is my power.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1310,
+            307,
+            1352,
+            365
+        ],
+        "text": "My body.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1277,
+            514,
+            1370,
+            644
+        ],
+        "text": "You're will is too strong, Master.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            678,
+            1037,
+            881
+        ],
+        "text": "\"Little brother\"? That wasn't me saying that.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

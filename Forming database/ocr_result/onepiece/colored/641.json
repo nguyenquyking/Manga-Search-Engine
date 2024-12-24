@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            56,
+            63,
+            110,
+            121
+        ],
+        "text": "Yes, Sir!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            159,
+            28,
+            240,
+            143
+        ],
+        "text": "Is the ship ready?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            27,
+            357,
+            103
+        ],
+        "text": "You bet!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            548,
+            181,
+            694
+        ],
+        "text": "Get out some 100 percent pure seastone cuffs and chains!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            249,
+            552,
+            356,
+            693
+        ],
+        "text": "Wrap it around her 100 times and give her 100 wild animal sedatives!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            14,
+            595,
+            172
+        ],
+        "text": "Transport Big Mom to Onigashima!! Double-maximum security protocol!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            226,
+            525,
+            338
+        ],
+        "text": "Every second is precious!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            442,
+            404,
+            573,
+            514
+        ],
+        "text": "If this monster wakes up, we're all dead!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            463,
+            560,
+            576,
+            701
+        ],
+        "text": "Leave only a bare minimum of jailers!! Everyone else on the ship!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            42,
+            894,
+            165
+        ],
+        "text": "Babanuki!! I'm putting all of Udon under your command!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            133,
+            1077,
+            216
+        ],
+        "text": "Yes, sir!! But I'm worried about one man in partic...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            11,
+            1111,
+            109
+        ],
+        "text": "Let's get moving!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            775,
+            520,
+            907,
+            696
+        ],
+        "text": "She's busted down every door in the place!! Lock down Udon with the emergency gates!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            966,
+            539,
+            1086,
+            689
+        ],
+        "text": "Throw all the prisoners in cells and get this place in order!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

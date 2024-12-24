@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            51,
+            48,
+            155,
+            180
+        ],
+        "text": "BACK IN THE DAYS WHEN THE NAVY HAD HIM HELD CAPTIVE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            60,
+            398,
+            100,
+            496
+        ],
+        "text": "SPEAKING OF KAIDO...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            58,
+            627,
+            128,
+            716
+        ],
+        "text": "GUEST PARLOR,\nINSIDE THE CASTLE",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            306,
+            59,
+            407,
+            209
+        ],
+        "text": "...BUT HE WAS NEVER HAPPY WITH THE RESULTS, AND CONSIDERED IT A FAILURE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            303,
+            306,
+            406,
+            433
+        ],
+        "text": "THE GOVERNMENT DEMANDED THAT HE GIVE THEM THE FRUIT...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            312,
+            500,
+            417,
+            705
+        ],
+        "text": "...VEGAPUNK EXTRACTED KAIDO'S BLOODLINE ELEMENTS AND USED THEM TO CREATE AN ARTIFICIAL DEVIL FRUIT...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            456,
+            61,
+            564,
+            175
+        ],
+        "text": "HE HAD IT STORED AT PUNK HAZARD EVER SINCE THEN.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            674,
+            69,
+            777,
+            200
+        ],
+        "text": "...THANK GOODNESS IT WAS ONLY A FAILURE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            313,
+            766,
+            442
+        ],
+        "text": "I WAS JUST THINKING TO MYSELF...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            661,
+            499,
+            762,
+            602
+        ],
+        "text": "PUNK HAZARD WAS DEMOLISHED IN THAT EXPLOSION.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            653,
+            638,
+            755,
+            712
+        ],
+        "text": "WHY ARE YOU BRINGING THAT UP NOW?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            491,
+            1107,
+            634
+        ],
+        "text": "BUT ACCORDING TO G-5'S REPORTS, ONE OF THE LABS THERE WAS STILL FUNCTIONING AT THE TIME.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            649,
+            1109,
+            730
+        ],
+        "text": "WELL, LET'S HOPE THE FRUIT GOT BLOWN UP WHEN THAT HAPPENED...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

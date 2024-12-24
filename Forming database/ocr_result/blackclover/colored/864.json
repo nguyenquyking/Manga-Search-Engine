@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            95,
+            456,
+            162,
+            556
+        ],
+        "text": "Heh heh...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            320,
+            360,
+            475
+        ],
+        "text": "I'm gonna win that one...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            623,
+            1114,
+            879
+        ],
+        "text": "I'm really looking forward to fighting you sometime!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1054,
+            386,
+            1092,
+            536
+        ],
+        "text": "Luck!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1434,
+            233,
+            1632,
+            450
+        ],
+        "text": "I actively added commoners to my brigade.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1427,
+            583,
+            1635,
+            784
+        ],
+        "text": "Even so, I was so strong I worked my way up to captain.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1427,
+            864,
+            1496,
+            1066
+        ],
+        "text": "I'm a commoner.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1771,
+            48,
+            2069,
+            333
+        ],
+        "text": "But when that nutcase Yami let a peasant into his, I thought \"He's gotta be out of his skull.\"",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1820,
+            538,
+            1991,
+            689
+        ],
+        "text": "I won't lose to nobles or to royals.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

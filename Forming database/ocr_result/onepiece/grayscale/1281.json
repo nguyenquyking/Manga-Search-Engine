@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            79,
+            118,
+            241,
+            408
+        ],
+        "text": "They better go top speed, cuz we're nearly at the back door!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            71,
+            554,
+            237,
+            843
+        ],
+        "text": "I suppose Kitty must have grown up just like doggy has!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            1009,
+            235,
+            1301
+        ],
+        "text": "Sounds like he hasn't changed. I just hope he arrives in time, Kappa Pa Pa!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            103,
+            1056,
+            352
+        ],
+        "text": "...A typical ship can only approach the island from the entrance.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            838,
+            1152,
+            941,
+            1343
+        ],
+        "text": "Because of the twisting currents...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1298,
+            185,
+            1458,
+            421
+        ],
+        "text": "...So we can fulfill Lord Oden's desire together!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1274,
+            711,
+            1436,
+            882
+        ],
+        "text": "I wish for us all to be there...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1259,
+            1038,
+            1416,
+            1248
+        ],
+        "text": "Let's hope that Kin'emon and Denjiro...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1760,
+            82,
+            1911,
+            319
+        ],
+        "text": "Just please be safe until then, Lord Momonosuke!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1730,
+            408,
+            1978,
+            583
+        ],
+        "text": "BLUB BLUB",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1831,
+            1029,
+            2021,
+            1270
+        ],
+        "text": "...have made their way around to the rear as planned...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

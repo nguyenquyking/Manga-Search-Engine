@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            79,
+            73,
+            196,
+            174
+        ],
+        "text": "...than I ever have a burden I forced on him!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            232,
+            217,
+            312
+        ],
+        "text": "...has borne so much more...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            75,
+            672,
+            96,
+            723
+        ],
+        "text": "That",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            95,
+            668,
+            116,
+            724
+        ],
+        "text": "boy...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            305,
+            228,
+            317,
+            254
+        ],
+        "text": "EEK!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            392,
+            285,
+            477,
+            388
+        ],
+        "text": "And still, he idolizes me!!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            380,
+            432,
+            451,
+            502
+        ],
+        "text": "...I'll be there, changing fate by your side.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            368,
+            693,
+            417,
+            775
+        ],
+        "text": "\"Whatever happens to you...\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            117,
+            1037,
+            207
+        ],
+        "text": "...is the day I die!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            949,
+            598,
+            1059,
+            706
+        ],
+        "text": "The day anything happens to that kid...",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

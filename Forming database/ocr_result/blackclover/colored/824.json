@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            127,
+            45,
+            171,
+            110
+        ],
+        "text": "THIRTY MINUTES,\nHM...? ",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            46,
+            299,
+            91,
+            346
+        ],
+        "text": "OR\nBLACK\nMODE\nEITHER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            159,
+            533,
+            224,
+            636
+        ],
+        "text": "I WON'T\nBE ABLE TO\nUSE IT AGAIN\nFOR 30",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            637,
+            195,
+            733
+        ],
+        "text": "THE\nEXCRUCIATING\nFULL-BODY\nPAIN THAT'S\nTHE KICK-\nBACK FROM\nUNION!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            25,
+            579,
+            126
+        ],
+        "text": "I\nDOUBT\nTHE\nOTHERS\nWILL\nMANAGE\nTO LAST\n30 MIN-\nUTES!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            384,
+            598,
+            643,
+            726
+        ],
+        "text": "THE\nDARK\nTRIAD\nCURRENTLY\nHAS\nPOWER\nON THE\nLEVEL\nOF THE\nHIGHEST\nDEVIL\nCLASS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            899,
+            17,
+            1016,
+            80
+        ],
+        "text": "RIGHT\nNOW\nTHE\nWORST\nSITUA-\nTION\nIS-",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            899,
+            169,
+            1054,
+            263
+        ],
+        "text": "EVEN\nIF UNION\nISN'T AN\nOPTION\nANTI-\nMAGIC IS\nBOUND\nTO BE\nUSEFUL.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            873,
+            301,
+            1007,
+            410
+        ],
+        "text": "...BEFORE\nTHE NEXT\nGATE\nOPENS,\nIS DEFEAT\nTHE DARK\nTRIAD!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            863,
+            603,
+            1055,
+            724
+        ],
+        "text": "MORRIS IS\nCAUSING THE\nGATES OF THE\nUNDERWORLD\nTO OPEN\nFASTER.\nHE'S ALSO\nA PROBLEM,\nBUT... THE\nFIRST THING\nWE NEED\nTO DO",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

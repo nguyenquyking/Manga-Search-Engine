@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            143,
+            226,
+            240,
+            568
+        ],
+        "text": "ZRRM\nBOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            101,
+            731,
+            180,
+            820
+        ],
+        "text": "WE'RE\nNOT\nDONE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            648,
+            419,
+            756,
+            564
+        ],
+        "text": "I PLACED\nEXPLOSIVES\nDEEP UNDER\nTHE SOFTENED\nGROUND.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            732,
+            275,
+            798,
+            392
+        ],
+        "text": "IF HE\nSINKS EVEN\nLOWER...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            998,
+            42,
+            1111,
+            169
+        ],
+        "text": "BUT THAT\nWOULD\nSURELY\nKILL US.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1027,
+            439,
+            1146,
+            565
+        ],
+        "text": "...WE\nSTILL\nSTAND A\nCHANCE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1216,
+            259,
+            1395,
+            380
+        ],
+        "text": "THIS GUY'S\nA PRO AT\nDIGGING\nUNDER-\nGROUND!\nMIGHT EVEN\nBE FASTER\nTHAT WAY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

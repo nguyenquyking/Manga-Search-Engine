@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            468,
+            115,
+            557,
+            267
+        ],
+        "text": "...The news reaches even farther.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            451,
+            729,
+            507,
+            840
+        ],
+        "text": "Unexpectedly...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            686,
+            163,
+            754,
+            438
+        ],
+        "text": "GUNGA MOUNTAIN RESORT",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            874,
+            341,
+            952,
+            456
+        ],
+        "text": "What's with that face?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            77,
+            1257,
+            218
+        ],
+        "text": "Don't listen to him, Endeavor!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1184,
+            257,
+            1202,
+            347
+        ],
+        "text": "Sorrow?",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1173,
+            410,
+            1212,
+            481
+        ],
+        "text": "Is that relief?",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

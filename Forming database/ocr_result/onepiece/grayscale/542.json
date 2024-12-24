@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            52,
+            75,
+            169,
+            184
+        ],
+        "text": "...against a raid of 5,400 from the Samurai-Pirate Alliance!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            48,
+            629,
+            174,
+            726
+        ],
+        "text": "Over 30,000 members of the Animal Kingdom Pirates squared off...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            381,
+            69,
+            476,
+            176
+        ],
+        "text": "...and the inspired efforts of the Samurai and Pirates.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            364,
+            620,
+            471,
+            735
+        ],
+        "text": "But the gap slowly closed thanks to Otama's millet dumpling strategy...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            333,
+            239,
+            543,
+            558
+        ],
+        "text": "Black Maria\nPage One\nUlti\nSasaki\nWho's-Who",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            700,
+            496,
+            722,
+            607
+        ],
+        "text": "BE-BE-BENG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1012,
+            191,
+            1094,
+            320
+        ],
+        "text": "...are down and out!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            996,
+            449,
+            1106,
+            628
+        ],
+        "text": "Now the enemy's fearsome Tobi Roppo...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

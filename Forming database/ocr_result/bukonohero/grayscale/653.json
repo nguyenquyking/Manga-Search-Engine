@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            70,
+            43,
+            172,
+            188
+        ],
+        "text": "...I'll take the fight to her!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            17,
+            499,
+            244
+        ],
+        "text": "KCHNK\nKCHNK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            524,
+            533,
+            612,
+            627
+        ],
+        "text": "Blocking two of my shots?\nThat's a first.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1027,
+            112,
+            1080,
+            228
+        ],
+        "text": "Gotta get to the boss...\nQuick...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            532,
+            836,
+            595
+        ],
+        "text": "The\nBoss...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

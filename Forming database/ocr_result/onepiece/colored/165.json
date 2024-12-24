@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            75,
+            727,
+            128,
+            826
+        ],
+        "text": "SORRY, ZANKI!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            161,
+            370,
+            250,
+            468
+        ],
+        "text": "NICE KNOWING YOU, DRAKE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            999,
+            405,
+            1054,
+            513
+        ],
+        "text": "AS EXPECTED OF A MAN WITH HIS REPUTATION...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1209,
+            312,
+            1266,
+            373
+        ],
+        "text": "HE WAS QUITE A HANDFUL.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1172,
+            55,
+            1233,
+            135
+        ],
+        "text": "PURU RURU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1183,
+            189,
+            1253,
+            261
+        ],
+        "text": "APOO IS RUNNING AWAY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

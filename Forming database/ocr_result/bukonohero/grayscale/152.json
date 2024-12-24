@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            41,
+            64,
+            184,
+            179
+        ],
+        "text": "I DON'T THINK SO... THE WORLD WOULD NEVER GO ALONG WITH THAT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            32,
+            373,
+            192,
+            650
+        ],
+        "text": "FOOSH\n...ROCK THAT BALANCE SOMEWHERE.\nIT DIDN'T MATTER HOW.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            30,
+            679,
+            119,
+            730
+        ],
+        "text": "HE ONLY HAD TO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            267,
+            105,
+            393,
+            741
+        ],
+        "text": "THE WORLD...\n...STILL HAS US!\nBESIDES...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            599,
+            110,
+            703,
+            300
+        ],
+        "text": "WHICH IS WHY...\n...IT ALL HAS TO END HERE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            648,
+            613,
+            714
+        ],
+        "text": "TRUE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            277,
+            964,
+            341
+        ],
+        "text": "ALAS,\nI HAD TO...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            644,
+            970,
+            727
+        ],
+        "text": "I'M SORRY.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            77,
+            1038,
+            196
+        ],
+        "text": "...PROTECT MAMAN AND PAPA.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            174,
+            440,
+            222,
+            1026
+        ],
+        "text": "Land of Wano (Kurozumi Clan)",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            302,
+            444,
+            498,
+            789
+        ],
+        "text": "Kurozumi Orochi\nThe ruler of Wano, using Kaido's help. He cunningly schemed to overthrow his archenemy, the Kozuki Clan.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            520,
+            450,
+            546,
+            616
+        ],
+        "text": "Shogun of Wano",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            881,
+            139,
+            976,
+            290
+        ],
+        "text": "Fukurokuju\nLeader, Orochi Oniwabanshu",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            885,
+            364,
+            963,
+            732
+        ],
+        "text": "Orochi Oniwabanshu\nShogun of Wano's Private Ninja Squad",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            887,
+            940,
+            976,
+            1118
+        ],
+        "text": "Napping Kyoshiro\nMoney Changer for the Kurozumi Clan",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            885,
+            1163,
+            967,
+            1344
+        ],
+        "text": "Kurozumi Kanjuro\nOrochi's Spy",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1328,
+            573,
+            1373,
+            878
+        ],
+        "text": "Big Mom Pirates",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1442,
+            442,
+            1520,
+            692
+        ],
+        "text": "Big Mom\n(Emperor of the Sea)",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1535,
+            457,
+            1622,
+            796
+        ],
+        "text": "One of the Four Emperors. Uses the Soul-Soul Fruit that extracts life span from others.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1689,
+            475,
+            1708,
+            696
+        ],
+        "text": "Captain, Big Mom Pirates",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1885,
+            110,
+            1911,
+            545
+        ],
+        "text": "no-show because of Orochi's schemes...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1937,
+            110,
+            2026,
+            1332
+        ],
+        "text": "Twenty years ago, Orochi and Kaido set a trap that cost Kozuki Oden his life. In order to avenge his death, the Akazaya rush into battle rather than waiting for the Straw Hats to arrive. But they were shocked by what they learned next!! Kanjuro, whom they believed was their companion, was actually a spy for Orochi!! The rest of the",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2034,
+            110,
+            2058,
+            673
+        ],
+        "text": "samurai are stunned, but then Luffy appears at last...",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

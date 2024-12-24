@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            136,
+            112,
+            263,
+            251
+        ],
+        "text": "Stop it, you fools!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            276,
+            102,
+            403,
+            260
+        ],
+        "text": "This is Orochi's man!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            179,
+            1141,
+            356,
+            1337
+        ],
+        "text": "Ahh!! There you are, Kanjuro!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            576,
+            97,
+            768,
+            276
+        ],
+        "text": "Everyone who took me for an enemy and attacked...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1194,
+            93,
+            1419,
+            316
+        ],
+        "text": "...met an untimely end by my weapon! My apologies!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            555,
+            1154,
+            712,
+            1332
+        ],
+        "text": "It has been a very long time since we last met, Lord Orochi!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            794,
+            1153,
+            976,
+            1323
+        ],
+        "text": "This mansion is so large, I got a bit lost.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1576,
+            109,
+            1723,
+            450
+        ],
+        "text": "He cut his ropes and attempted to escape along the way, so I had to pacify him!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1594,
+            639,
+            1721,
+            776
+        ],
+        "text": "...The son of Oden!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1566,
+            868,
+            1749,
+            1039
+        ],
+        "text": "As you requested, it is Koziki Momonosuke...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1559,
+            1134,
+            1708,
+            1323
+        ],
+        "text": "Hey! What's that in your other hand...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1933,
+            103,
+            2088,
+            285
+        ],
+        "text": "Don't worry, the boy still breathes!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

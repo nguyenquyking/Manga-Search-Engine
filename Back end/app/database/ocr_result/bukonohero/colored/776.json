@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            61,
+            273,
+            89,
+            342
+        ],
+        "text": "You people...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            119,
+            170,
+            153,
+            247
+        ],
+        "text": "...ain't heroes.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            43,
+            599,
+            160,
+            717
+        ],
+        "text": "When neither side will give up...\nSomebody has to die.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            318,
+            182,
+            408,
+            265
+        ],
+        "text": "You throw us to the wolves.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            59,
+            441,
+            156
+        ],
+        "text": "All of us down-trodden folks!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            507,
+            427,
+            684
+        ],
+        "text": "None of ya!\nNever were.\nNever are.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            571,
+            102,
+            659,
+            232
+        ],
+        "text": "She wrapped me up in her hankie, all gentle-like.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            603,
+            289,
+            653,
+            365
+        ],
+        "text": "...Little Toga, she...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            586,
+            397,
+            669,
+            483
+        ],
+        "text": "You don't know or care, but...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            31,
+            881,
+            199
+        ],
+        "text": "She probably won't do me that kindness again...but that's okay...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            375,
+            810,
+            444
+        ],
+        "text": "Toga...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            505,
+            864,
+            566
+        ],
+        "text": "...That this is the second time!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            578,
+            853,
+            638
+        ],
+        "text": "Betcha didn't know this either.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            645,
+            802,
+            700
+        ],
+        "text": "But, well...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            925,
+            521,
+            1053,
+            623
+        ],
+        "text": "The second time I managed to screw everyone over.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

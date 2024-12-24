@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            182,
+            82,
+            324,
+            236
+        ],
+        "text": "What's the meaning of this?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            894,
+            168,
+            999
+        ],
+        "text": "Hey...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            212,
+            558,
+            348
+        ],
+        "text": "Back in the Flower Capital...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            476,
+            387,
+            588,
+            505
+        ],
+        "text": "Why don't you ask yourself?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            465,
+            540,
+            588,
+            707
+        ],
+        "text": "That's what I'd like to know, Drake!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            82,
+            739,
+            209
+        ],
+        "text": "...You let Trafalgar Law escape, didn't you? We had someone watching.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1153,
+            85,
+            1296,
+            284
+        ],
+        "text": "It's an embarrassment that this guy was ever among our ranks!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1172,
+            339,
+            1241,
+            502
+        ],
+        "text": "It was you, trash!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1152,
+            579,
+            1264,
+            735
+        ],
+        "text": "Aha... Now I know who you wanted to kill...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1150,
+            823,
+            1280,
+            997
+        ],
+        "text": "I figured it couldn't be anyone but you. What is your purpose?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

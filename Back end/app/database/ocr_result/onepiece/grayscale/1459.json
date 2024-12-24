@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            45,
+            119,
+            75,
+            488
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            542,
+            75,
+            839
+        ],
+        "text": "Takahisa Fujimoto, Nara",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            187,
+            1186,
+            216,
+            1262
+        ],
+        "text": "Ganryu",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            341,
+            921,
+            371,
+            1003
+        ],
+        "text": "Lowwing",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            470,
+            436,
+            496,
+            522
+        ],
+        "text": "Mille Pine",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            829,
+            1200,
+            848,
+            1268
+        ],
+        "text": "Yamon",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            844,
+            829,
+            866,
+            928
+        ],
+        "text": "Max Marx",
+        "panel_id": "6",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            980,
+            456,
+            1002,
+            571
+        ],
+        "text": "Mr. Momora",
+        "panel_id": "7",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1162,
+            653,
+            1183,
+            686
+        ],
+        "text": "Elio",
+        "panel_id": "8",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1175,
+            1124,
+            1200,
+            1175
+        ],
+        "text": "Yuey",
+        "panel_id": "9",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1319,
+            129,
+            1341,
+            280
+        ],
+        "text": "Jackson Burner",
+        "panel_id": "10",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1546,
+            849,
+            1566,
+            953
+        ],
+        "text": "CB Gallant",
+        "panel_id": "11",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1661,
+            601,
+            1682,
+            686
+        ],
+        "text": "Nozudon",
+        "panel_id": "12",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1987,
+            221,
+            2010,
+            309
+        ],
+        "text": "Langram",
+        "panel_id": "13",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            2000,
+            751,
+            2019,
+            797
+        ],
+        "text": "Taro",
+        "panel_id": "14",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            2015,
+            479,
+            2039,
+            548
+        ],
+        "text": "Doringo",
+        "panel_id": "15",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            2015,
+            1044,
+            2036,
+            1118
+        ],
+        "text": "Donkino",
+        "panel_id": "16",
+        "type": "caption"
+    }
+]

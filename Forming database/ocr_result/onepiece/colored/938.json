@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            60,
+            131,
+            152,
+            252
+        ],
+        "text": "PLEASE, SANGORO!! TAKE RESPONSIBILITY FOR YOUR ACTIONS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            305,
+            123,
+            396
+        ],
+        "text": "SHOW YOURSELF, SANGORO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            426,
+            150,
+            521
+        ],
+        "text": "WHAT SHOP SHOULD I TRY NEXT? I'M IN THE MOOD FOR FRUIT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            562,
+            154,
+            690
+        ],
+        "text": "HEE HEE HEE!! BUT IF HE'S A COWARD, HE'LL NEVER SHOW HIS FACE AT ALL...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            132,
+            32,
+            198,
+            99
+        ],
+        "text": "HEY! WAIT, SANJI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            283,
+            523,
+            401
+        ],
+        "text": "THEN CALL FOR SANGORO THE SOBA COOK, ALL OF YOU AT ONCE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            426,
+            606,
+            523,
+            696
+        ],
+        "text": "DON'T DO THIS! WE'VE DONE NOTHING TO DESERVE IT!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            577,
+            804,
+            696
+        ],
+        "text": "I'M RIGHT HERE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

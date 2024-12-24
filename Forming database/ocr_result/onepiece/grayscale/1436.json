@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            73,
+            105,
+            272,
+            267
+        ],
+        "text": "BENG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            846,
+            882,
+            991,
+            1045
+        ],
+        "text": "Whoa!! Look at this filthy beggar!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            584,
+            1008,
+            748
+        ],
+        "text": "Do you really live in the capital?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1831,
+            116,
+            1982,
+            352
+        ],
+        "text": "...Kyoshiro the Mad!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1846,
+            815,
+            2036,
+            908
+        ],
+        "text": "You can call me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1488,
+            1019,
+            1645,
+            1134
+        ],
+        "text": "What's your name, sir?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1509,
+            1203,
+            1620,
+            1373
+        ],
+        "text": "Hey! Let us follow you!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            55,
+            57,
+            187,
+            179
+        ],
+        "text": "I never would've thought this would be your resting place.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            90,
+            622,
+            136,
+            704
+        ],
+        "text": "Pedro's dead...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            67,
+            511,
+            169
+        ],
+        "text": "All because he came to help get me back...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            594,
+            68,
+            664,
+            206
+        ],
+        "text": "Don't feel responsible for it, Sanji!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            263,
+            676,
+            376
+        ],
+        "text": "Pedro chose to do that of his own free will!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            416,
+            662,
+            505
+        ],
+        "text": "It's okay! It's okay, Sanji!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            576,
+            548,
+            607,
+            666
+        ],
+        "text": "Shk shk",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            900,
+            60,
+            964,
+            133
+        ],
+        "text": "So please...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            188,
+            977,
+            298
+        ],
+        "text": "If Pedro hadn't been here...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            904,
+            344,
+            944,
+            551
+        ],
+        "text": "Rub rub shk shk",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            908,
+            587,
+            993,
+            722
+        ],
+        "text": "Youiteia and your friends saved Mokomo Dukedom.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1032,
+            175,
+            1117,
+            298
+        ],
+        "text": "...Then everyone would've died back there!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1044,
+            621,
+            1124,
+            713
+        ],
+        "text": "He came here to repay that favor!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            974,
+            821,
+            1060,
+            990
+        ],
+        "text": "The magic you use is intriguing.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1393,
+            433,
+            1432,
+            559
+        ],
+        "text": "Wha...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

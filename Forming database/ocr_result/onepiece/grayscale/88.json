@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            64,
+            51,
+            147,
+            176
+        ],
+        "text": "I CANNOT HELP BUT FEEL THAT FATE IS AT WORK.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            234,
+            66,
+            278,
+            157
+        ],
+        "text": "I CANNOT HELP...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            513,
+            117,
+            593
+        ],
+        "text": "MY HEART IS DANCING.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            37,
+            634,
+            144,
+            708
+        ],
+        "text": "IT'S AS THOUGH YOU'RE RIGHT THERE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            430,
+            169,
+            510,
+            252
+        ],
+        "text": "THE MAN WHO WILL SURPASS YOU...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            431,
+            302,
+            499,
+            410
+        ],
+        "text": "I'M MONKEY D. LUFFY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            486,
+            484,
+            554
+        ],
+        "text": "WHO AM I?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            631,
+            528,
+            713
+        ],
+        "text": "...BUT PUT MY HOPES IN HIM...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            737,
+            49,
+            878,
+            190
+        ],
+        "text": "...KING OF THE PIRATES!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            749,
+            576,
+            818,
+            716
+        ],
+        "text": "...AND BECOME...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

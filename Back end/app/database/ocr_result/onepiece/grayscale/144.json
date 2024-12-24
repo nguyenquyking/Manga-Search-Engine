@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            6,
+            102,
+            24,
+            153
+        ],
+        "text": "HAAKK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            46,
+            378,
+            88,
+            446
+        ],
+        "text": "YOU'RE\nA LIAR!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            634,
+            200,
+            739
+        ],
+        "text": "WELL,\nAT LEAST ONE OF YOU\nHAS SOME MOXIE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            350,
+            246,
+            419,
+            358
+        ],
+        "text": "GET\nBACK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            530,
+            50,
+            599,
+            183
+        ],
+        "text": "DON'T LOSE\nYOUR COMPOSURE!\nNOT BEFORE IT'S\nALL OVER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            494,
+            748,
+            554
+        ],
+        "text": "AAAH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            638,
+            670,
+            640,
+            752
+        ],
+        "text": "BOOM!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            794,
+            69,
+            818,
+            168
+        ],
+        "text": "LUFFY...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            70,
+            1085,
+            177
+        ],
+        "text": "UNLIKE\nOROCHI,\nI AM NO\nPUSH-\nOVER!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            577,
+            1099,
+            712
+        ],
+        "text": "ONIGASHIMA\nWILL SOON\nLAND UPON\nTHE FLOWER\nCAPITAL, AS\nORIGINALLY\nPLANNED!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

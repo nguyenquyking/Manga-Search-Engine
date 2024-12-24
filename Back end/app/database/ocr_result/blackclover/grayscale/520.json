@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            198,
+            128,
+            315,
+            236
+        ],
+        "text": "HE BELONGS TO THE BLACK BULLS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            222,
+            843,
+            292,
+            940
+        ],
+        "text": "He's a vice captain.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            296,
+            473,
+            391
+        ],
+        "text": "Master Julius...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            129,
+            760,
+            259
+        ],
+        "text": "Although I didn't know he was a devil host either.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            617,
+            852,
+            736,
+            975
+        ],
+        "text": "He's been in the Spade Kingdom, spying.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            322,
+            1185,
+            439
+        ],
+        "text": "If it's Yami's brigade, the vice captain could be literally anyone, but...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1011,
+            903,
+            1113,
+            1001
+        ],
+        "text": "The Black Bulls' vice captain?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1292,
+            309,
+            1385,
+            438
+        ],
+        "text": "This guy... I've seen him before...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1310,
+            696,
+            1420,
+            794
+        ],
+        "text": "A spy in the Spade Kingdom...?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

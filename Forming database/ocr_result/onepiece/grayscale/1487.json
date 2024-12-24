@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            84,
+            885,
+            261,
+            1262
+        ],
+        "text": "LORD ODEN?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            159,
+            1080,
+            203,
+            1285
+        ],
+        "text": "LORD ODEN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            781,
+            123,
+            961,
+            368
+        ],
+        "text": "...did not abate until the rains arrived a full five days later.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            762,
+            993,
+            943,
+            1287
+        ],
+        "text": "The fighting was so fierce that the fires that burned Udon's thick forests...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1313,
+            277,
+            1486,
+            558
+        ],
+        "text": "...to await their punishment for the crime of rebellion against the Shogun.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1317,
+            936,
+            1505,
+            1291
+        ],
+        "text": "The daimyo of Kuri, Kozuki Oden, and his nine followers were imprisoned in the Flower Capital...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1479,
+            92,
+            1702,
+            256
+        ],
+        "text": "Unaware of the reason behind this act, the populace's reaction was cold.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1782,
+            72,
+            1905,
+            198
+        ],
+        "text": "A little late, don't you think...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1756,
+            237,
+            1902,
+            371
+        ],
+        "text": "After what a disappointment he was...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

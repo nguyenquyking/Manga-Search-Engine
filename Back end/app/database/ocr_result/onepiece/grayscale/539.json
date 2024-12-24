@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            72,
+            67,
+            135,
+            216
+        ],
+        "text": "He and Shimotsuki Ushimaru are",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            137,
+            70,
+            176,
+            212
+        ],
+        "text": "like two peas in a pod!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            256,
+            58,
+            336,
+            209
+        ],
+        "text": "Right down to their sword handling, it's uncanny!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            698,
+            163,
+            828
+        ],
+        "text": "Right, I see it too... It's peculiar. He may be a foreign pirate,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            224,
+            702,
+            328,
+            831
+        ],
+        "text": "But he reminds me so much of the former Daimyo of Ringo when he was young!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            64,
+            579,
+            219
+        ],
+        "text": "And this young man was the one to finally return Shusui to Wano!! It must be fate or something...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            438,
+            699,
+            587,
+            849
+        ],
+        "text": "Ushimaru-sama was a fantastic swordsman, a direct descendant of the God of the Blade, Shimotsuki Ryuma!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            703,
+            99,
+            819,
+            252
+        ],
+        "text": "...was a one-eyed samurai!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            722,
+            711,
+            807,
+            850
+        ],
+        "text": "After all, Ryuma...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

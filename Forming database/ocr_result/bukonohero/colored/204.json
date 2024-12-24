@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            155,
+            224,
+            216,
+            311
+        ],
+        "text": "Serious suckage, yo.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            218,
+            769,
+            257,
+            843
+        ],
+        "text": "That sucked.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            62,
+            635,
+            482
+        ],
+        "text": "Grr Grr One little hit from my vibrate quirk and that whole tower would be rubble!! Gah, I would've dragged 'em outta there by force, if we were allowed!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            472,
+            854,
+            510,
+            928
+        ],
+        "text": "Suuuck City!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            769,
+            337,
+            809,
+            411
+        ],
+        "text": "That sucked.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            287,
+            1064,
+            358
+        ],
+        "text": "You two gotta run!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1005,
+            104,
+            1058,
+            223
+        ],
+        "text": "He's nearby!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            562,
+            1027,
+            664
+        ],
+        "text": "Psst. Call from Makabe.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1204,
+            81,
+            1244,
+            127
+        ],
+        "text": "Huh?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1259,
+            448,
+            1339,
+            577
+        ],
+        "text": "How long're the cell towers even gonna last?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

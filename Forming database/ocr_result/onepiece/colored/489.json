@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            70,
+            310,
+            250,
+            518
+        ],
+        "text": "THE DISSOLUTION OF THE SEVEN WARLORDS SYSTEM!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            198,
+            562,
+            253,
+            658
+        ],
+        "text": "YAHOOO!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            247,
+            99,
+            324,
+            209
+        ],
+        "text": "THEY'RE ALL GONNA GET ARRESTED SOON!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            271,
+            229,
+            279,
+            287
+        ],
+        "text": "RAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            306,
+            240,
+            376,
+            313
+        ],
+        "text": "...IN THE BATTLE OF MARINEFORD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            339,
+            370,
+            401
+        ],
+        "text": "BUT THEY DID A WHOLE LOT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            442,
+            376,
+            561
+        ],
+        "text": "ENOUGH OF THESE PILLAGERS ACTING LIKE HOTSHOTS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            592,
+            78,
+            675,
+            213
+        ],
+        "text": "...THE MATTER WAS PUT TO A MAJORITY VOTE AND PASSED!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            547,
+            577,
+            702,
+            732
+        ],
+        "text": "AFTER AN IMPASSIONED ARGUMENT FROM TWO KINGS WHOSE NATIONS HAD SUFFERED BECAUSE OF THE SEVEN WARLORDS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            823,
+            60,
+            942,
+            209
+        ],
+        "text": "THAT MEANS YOU ARE NOTHING BUT A PIRATE AGAIN, BUGGY!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            266,
+            966,
+            387
+        ],
+        "text": "YOU NO LONGER HAVE ANY TIES TO THE WORLD GOVERNMENT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            422,
+            956,
+            587
+        ],
+        "text": "ALL OF YOUR PRIVILEGES AS THE SEVEN WARLORDS HAVE BEEN AUTOMATICALLY REVOKED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            646,
+            900,
+            714
+        ],
+        "text": "AND THEREFORE--!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            637,
+            1130,
+            738
+        ],
+        "text": "EMPTEE BLUFFS ISLAND,\nNEW WORLD",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

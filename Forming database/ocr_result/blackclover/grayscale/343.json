@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            105,
+            93,
+            342,
+            258
+        ],
+        "text": "...so that it can invade and conquer other countries, including the Clover Kingdom and the Heart Kingdom!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            364,
+            379,
+            508,
+            524
+        ],
+        "text": "The Devil Megicula is controlling the Spade Kingdom.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            417,
+            744,
+            555
+        ],
+        "text": "It is using the citizens to build its power...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            124,
+            752,
+            268,
+            951
+        ],
+        "text": "The Heart Princess must know that as well as I do.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            937,
+            134,
+            1091,
+            311
+        ],
+        "text": "Before my power weakens, I want to invade the Spade Kingdom preemptively.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            808,
+            1084,
+            919
+        ],
+        "text": "If nothing changes, my curse will kill me in a year.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1276,
+            172,
+            1468,
+            279
+        ],
+        "text": "We'll need all the combat power we can get!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1316,
+            807,
+            1425,
+            900
+        ],
+        "text": "We have half a year!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

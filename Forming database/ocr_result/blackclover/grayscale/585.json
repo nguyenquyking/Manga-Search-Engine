@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            222,
+            52,
+            476,
+            206
+        ],
+        "text": "GET OUT! GET AWAY FROM LIEBE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            871,
+            454,
+            980
+        ],
+        "text": "WHO DO YOU THINK YOU ARE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            266,
+            720,
+            606
+        ],
+        "text": "RGH She's... absorbing my magic...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            705,
+            55,
+            776,
+            129
+        ],
+        "text": "No... D... don't...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            688,
+            857,
+            870,
+            983
+        ],
+        "text": "Foolish human. Even if I'm nearly powerless here, a nobody like you could never...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            384,
+            833,
+            735
+        ],
+        "text": "RGH ...!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            883,
+            319,
+            929,
+            413
+        ],
+        "text": "Insolent wretch...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            908,
+            46,
+            1425,
+            306
+        ],
+        "text": "RGH ...I'M NOT LETTING GO!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1276,
+            832,
+            1332,
+            922
+        ],
+        "text": "THIS TIME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

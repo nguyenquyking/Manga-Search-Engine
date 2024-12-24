@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            99,
+            125,
+            237,
+            300
+        ],
+        "text": "And sure enough, if I had named myself...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            155,
+            390,
+            311,
+            632
+        ],
+        "text": "I would have revealed myself to you at once...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            429,
+            432,
+            632,
+            607
+        ],
+        "text": "...But I chose to stay your enemy, just in case!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            609,
+            126,
+            641,
+            308
+        ],
+        "text": "Denjiro?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            685,
+            660,
+            972
+        ],
+        "text": "BENG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            127,
+            1169,
+            222,
+            1308
+        ],
+        "text": "Indeed it is!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            1134,
+            546,
+            1320
+        ],
+        "text": "I suppose you do not recognize me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            822,
+            73,
+            1013,
+            279
+        ],
+        "text": "Instead, I retained Orochi's trust to the very end...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            814,
+            316,
+            1002,
+            506
+        ],
+        "text": "...and ensured that Orochi had me killed!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            786,
+            679,
+            846,
+            794
+        ],
+        "text": "Denjiro!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            797,
+            1137,
+            997,
+            1313
+        ],
+        "text": "...The betrayer in your midst would have passed it on...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1220,
+            80,
+            1412,
+            368
+        ],
+        "text": "Add another 1,200 soldiers to the total!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1356,
+            498,
+            1423,
+            989
+        ],
+        "text": "RAAAAAAH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1203,
+            1074,
+            1436,
+            1304
+        ],
+        "text": "...And thus I was able to liberate a thousand samurai...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1591,
+            1100,
+            1760,
+            1311
+        ],
+        "text": "...From the Rasetsu prisoners' quarters!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1654,
+            60,
+            1760,
+            249
+        ],
+        "text": "Yeaaah!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

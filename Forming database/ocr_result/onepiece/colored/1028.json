@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            100,
+            619,
+            162,
+            728
+        ],
+        "text": "THE NEXT DAY, UDON, WANO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            196,
+            59,
+            290,
+            185
+        ],
+        "text": "MAKE TOUGHER, STRONGER WEAPONS, AND THE CAPITAL WILL FLOURISH!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            238,
+            510,
+            306,
+            613
+        ],
+        "text": "STRIKE! STRIKE THE IRON!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            415,
+            76,
+            471,
+            176
+        ],
+        "text": "CARRY THOSE SUPPLIES, ON THE DOUBLE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            233,
+            463,
+            353
+        ],
+        "text": "IF YOU WANT TO REST, YOU'LL DIE BY MY HAND!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            373,
+            446,
+            453
+        ],
+        "text": "...STRIKE THE IRON!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            402,
+            516,
+            453,
+            578
+        ],
+        "text": "IF YOU WANT TO LIVE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            617,
+            505,
+            722
+        ],
+        "text": "YOUR LIVES BELONG TO SHOGUN OROCHI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            249,
+            843,
+            344
+        ],
+        "text": "OH, AND WE GOTTA REMOVE THE BONES FIRST.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            746,
+            365,
+            841,
+            499
+        ],
+        "text": "DUNNO. ALL I KNOW IS THAT WE THROW IN ONE POISON FISH A DAY, THAT'S ALL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            530,
+            831,
+            621
+        ],
+        "text": "SO WHAT'S IN THIS CAGE, HUH...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            754,
+            655,
+            810,
+            744
+        ],
+        "text": "A POISONOUS FISH!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            247,
+            994,
+            368
+        ],
+        "text": "I HEAR THE FISH WERE MEANT FOR EXECUTIONS--ONLY THIS ONE'S LIVIN' OFF OF 'EM.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            969,
+            54,
+            1029,
+            203
+        ],
+        "text": "OOH, HERE COMES THE FAMOUS NEW GUY!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1039,
+            247,
+            1141,
+            378
+        ],
+        "text": "IS IT ONE OF THEM SHARKODILE THINGS? WHY WOULD WE BE NICE ENOUGH TO REMOVE THE BONES?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

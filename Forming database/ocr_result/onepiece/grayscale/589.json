@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            42,
+            124,
+            113,
+            246
+        ],
+        "text": "WE KNOW!!\nWE'LL GO LOOKING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            285,
+            114,
+            417
+        ],
+        "text": "MEEEEAT!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            52,
+            448,
+            128,
+            582
+        ],
+        "text": "HUH...? IS THAT... STRAW HAT?! WHAT HAPPENED TO THE BIG BATTLE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            27,
+            616,
+            125,
+            723
+        ],
+        "text": "I'M NOT LOSING THE NEXT ROUND!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            169,
+            49,
+            274,
+            186
+        ],
+        "text": "IF YOU GUYS DON'T WIN, I'LL NEVER BE ABLE TO LEAVE THIS ISLAND!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            319,
+            65,
+            365,
+            186
+        ],
+        "text": "GET IT TOGETHER!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            115,
+            577,
+            241
+        ],
+        "text": "TAKE ME BACK UP THERE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            622,
+            525,
+            713
+        ],
+        "text": "MOMO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            622,
+            69,
+            685,
+            132
+        ],
+        "text": "HUH...?!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            263,
+            719,
+            619
+        ],
+        "text": "\u30b4\u30b4\u30b4\nGRRG",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            951,
+            60,
+            1084,
+            174
+        ],
+        "text": "TURN\nINTO A\nDRAGON...\nAND FLY\nME UP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            262,
+            986,
+            324
+        ],
+        "text": "DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1120,
+            306,
+            1136,
+            567
+        ],
+        "text": "Next chapter hits Aug. 9!",
+        "panel_id": "2",
+        "type": "caption"
+    }
+]

@@ -1,0 +1,255 @@
+[
+    {
+        "text_box": [
+            81,
+            31,
+            169,
+            150
+        ],
+        "text": "...IS DEAD!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            52,
+            477,
+            156,
+            583
+        ],
+        "text": "AHA HA HA HA HA HA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            326,
+            148,
+            431
+        ],
+        "text": "MY DADDY...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            33,
+            626,
+            158
+        ],
+        "text": "THEY'VE BEEN ROBBED OF EVERY EXPRESSION BUT SMILES... LAUGHING IS ALL THEY CAN DO ANYMORE!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            436,
+            203,
+            547,
+            297
+        ],
+        "text": "...CAN'T ACTUALLY SHOW WHEN THEY'RE SAD OR SUFFERING!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            441,
+            329,
+            530,
+            407
+        ],
+        "text": "THE PEOPLE OF EBISU WHO ALWAYS LAUGH...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            451,
+            440,
+            519,
+            547
+        ],
+        "text": "NO!! THEY'RE ALL CRYING!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            442,
+            563,
+            518,
+            624
+        ],
+        "text": "WHAT'S WRONG WITH--?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            45,
+            894,
+            180
+        ],
+        "text": "THE \"SMILE\" FRUITS!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            738,
+            342,
+            861,
+            490
+        ],
+        "text": "IT'S BECAUSE OF THOSE THINGS THEY BROUGHT HERE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            735,
+            525,
+            822,
+            641
+        ],
+        "text": "AND IT'S ALL... BECAUSE OF KAIDO AND OROCHI...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            827,
+            516,
+            859,
+            864
+        ],
+        "text": "NO...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            919,
+            906,
+            1051
+        ],
+        "text": "WHAT'S SO FUNNY ABOUT THAT?!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            1082,
+            860,
+            1170
+        ],
+        "text": "SOMEONE JUST DIED...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            1212,
+            889,
+            1323
+        ],
+        "text": "HEY... WHAT'S WRONG WITH YOU?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            799,
+            1371,
+            900,
+            1466
+        ],
+        "text": "HEEEE! HA HA HA HA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            1355,
+            216,
+            1485
+        ],
+        "text": "PWAAA HA HA HA HA!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            273,
+            798,
+            400,
+            878
+        ],
+        "text": "AAAA HA HA HA HA!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            295,
+            1368,
+            391,
+            1482
+        ],
+        "text": "TONOYASU JUST UP AN' DIED!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            544,
+            799,
+            618,
+            877
+        ],
+        "text": "KYA HA HA HA HA!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            1319,
+            690,
+            1482
+        ],
+        "text": "WA HA HA! LORD YASUIE!! HE'S DEAD!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            47,
+            1078,
+            124
+        ],
+        "text": "?",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1149,
+            28,
+            1170,
+            305
+        ],
+        "text": "93",
+        "panel_id": "7",
+        "type": "page_number"
+    }
+]

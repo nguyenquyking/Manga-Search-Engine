@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            822,
+            802,
+            997,
+            952
+        ],
+        "text": "My ear-piece... ...is going haywire?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1350,
+            813,
+            1356,
+            893
+        ],
+        "text": "KSHNK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

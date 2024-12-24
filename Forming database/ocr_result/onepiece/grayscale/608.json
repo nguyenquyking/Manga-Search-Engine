@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            160,
+            569,
+            275,
+            723
+        ],
+        "text": "GENERAL CANNON!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            745,
+            132,
+            812,
+            196
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            173,
+            1112,
+            297
+        ],
+        "text": "KOFF!! Show a bit more respect to the very symbol of fear...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1054,
+            55,
+            1110,
+            140
+        ],
+        "text": "The Tobi Roppo of the Animal Kingdom Pirates!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

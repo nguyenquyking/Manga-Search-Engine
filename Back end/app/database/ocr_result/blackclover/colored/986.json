@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            193,
+            190,
+            208,
+            307
+        ],
+        "text": "FUOOOH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            504,
+            132,
+            832,
+            328
+        ],
+        "text": "YOU HAVE NO SPELL THAT COULD DEFEAT ME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            1247,
+            675,
+            1481
+        ],
+        "text": "IN THE END, THOUGH, YOU HAVE NO WAY TO ATTACK ME.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1035,
+            791,
+            1206,
+            925
+        ],
+        "text": "GET CHARGED UP AS FAST AS YOU CAN!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            1260,
+            1268,
+            1579
+        ],
+        "text": "THAT GUY'S MANA IS COMPLETELY OUT OF OUR LEAGUE!! I'M NOT GOING TO LAST LONG...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1417,
+            573,
+            1522,
+            736
+        ],
+        "text": "I'M WORKING ON IT!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1713,
+            70,
+            1747,
+            392
+        ],
+        "text": "@COLORCLOVERS",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1816,
+            124,
+            1953,
+            326
+        ],
+        "text": "BUT YOUR STRENGTH WAS DIFFERENT.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1813,
+            583,
+            2156,
+            1031
+        ],
+        "text": "IF I DID MY BEST, THAT WAS ALL IT TOOK. AS LONG AS I WAS THERE, MY BRIGADE WAS THE STRONGEST.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1801,
+            1340,
+            1963,
+            1528
+        ],
+        "text": "THAT'S RIGHT. MY SPATIAL MAGIC WAS INVINCIBLE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

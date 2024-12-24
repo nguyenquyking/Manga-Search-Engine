@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            244,
+            66,
+            390,
+            182
+        ],
+        "text": "...Every last human and elf!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            241,
+            813,
+            328,
+            970
+        ],
+        "text": "Not until it swallows...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            646,
+            467,
+            769,
+            540
+        ],
+        "text": "Neh heh heh heh!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            790,
+            836,
+            946
+        ],
+        "text": "Dammit! This is one nasty piece of work!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            62,
+            1212,
+            206
+        ],
+        "text": "Vicious magic, incoming!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

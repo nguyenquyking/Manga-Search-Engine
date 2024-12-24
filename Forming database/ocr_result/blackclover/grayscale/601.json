@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            249,
+            62,
+            428,
+            218
+        ],
+        "text": "Make the devil your servant. Then you can use his power at will.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            248,
+            804,
+            419,
+            957
+        ],
+        "text": "You'll be able to make a contract with that devil from a position of total dominance.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            109,
+            945,
+            301
+        ],
+        "text": "Once you do, the devil will serve you as your familiar, obeying all your orders and observing the rules you set.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            757,
+            940,
+            840
+        ],
+        "text": "Just think \"Obey me.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            675,
+            847,
+            808,
+            965
+        ],
+        "text": "The devil has no right to refuse.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1128,
+            28,
+            1228,
+            179
+        ],
+        "text": "In that case... I see.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1294,
+            797,
+            1452,
+            943
+        ],
+        "text": "That is the path you should take in order to become the ultimate warrior.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

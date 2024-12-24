@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            67,
+            76,
+            141,
+            145
+        ],
+        "text": "JUST GIMME THAT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            194,
+            108,
+            256
+        ],
+        "text": "RAAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            62,
+            256,
+            87,
+            352
+        ],
+        "text": "Enough!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            428,
+            153,
+            542
+        ],
+        "text": "...SO MAYBE SHE'LL GET PUSHED AROUND BY A FIERCE ENEMY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            597,
+            164,
+            694
+        ],
+        "text": "BUT THEN, OLIN IS JUST A NICE VERSION OF BIG MOM...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            176,
+            138,
+            194,
+            183
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            243,
+            431,
+            261,
+            469
+        ],
+        "text": "Shh",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            282,
+            364,
+            300,
+            399
+        ],
+        "text": "Huh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            828,
+            132,
+            934
+        ],
+        "text": "Oh Geez, I can already hear shouting...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            1369,
+            198,
+            1482
+        ],
+        "text": "WE HAVE PLENTY OF OSHIRUKO, BUT IT'S ALL MINE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            268,
+            884,
+            306,
+            948
+        ],
+        "text": "I'm scared...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            1019,
+            491,
+            1143
+        ],
+        "text": "YOU WON'T GET A DROP OF IT, OLD HAG!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            793,
+            582,
+            950
+        ],
+        "text": "...OSHI-RUKOOO!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            469,
+            21,
+            544,
+            174
+        ],
+        "text": "MASTER QUEEN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            535,
+            1065,
+            541,
+            1136
+        ],
+        "text": "DOOM!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            949,
+            811,
+            1062,
+            931
+        ],
+        "text": "Bu-HURGLE!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            998,
+            1015,
+            1078,
+            1216
+        ],
+        "text": "DRAGON-DRAGON FRUIT\nANCIENT MODEL\nBRACHIOSAURUS",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1030,
+            1378,
+            1120,
+            1482
+        ],
+        "text": "IF ONLY YOU KNEW THAT IT'S ALL GONE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

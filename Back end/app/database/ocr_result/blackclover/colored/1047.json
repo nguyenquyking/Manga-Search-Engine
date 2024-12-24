@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            522,
+            917,
+            687,
+            1221
+        ],
+        "text": "...OVERWHELMING POWER...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1628,
+            479,
+            1661,
+            627
+        ],
+        "text": "Pointless.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

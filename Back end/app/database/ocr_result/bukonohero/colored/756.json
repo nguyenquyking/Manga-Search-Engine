@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            145,
+            97,
+            174,
+            223
+        ],
+        "text": "TOGA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            131,
+            632,
+            138,
+            709
+        ],
+        "text": "ZWSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            347,
+            788,
+            397,
+            844
+        ],
+        "text": "CHOMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            467,
+            70,
+            489,
+            171
+        ],
+        "text": "NOOO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1013,
+            135,
+            1190,
+            286
+        ],
+        "text": "TOGA, YOUR USUAL EVASIVE TECHNIQUES DIDN'T WORK. THESE FOUL THINGS MUST HAVE SENSORY CAPABILITIES!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1076,
+            378,
+            1153,
+            561
+        ],
+        "text": "ATSUHIRO SAKO, HIMIKO TOGA...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1233,
+            390,
+            1393,
+            564
+        ],
+        "text": "YOU'RE UNDER ARREST, SO I'M SWALLOWING YOU UP!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

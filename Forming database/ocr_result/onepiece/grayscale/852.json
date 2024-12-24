@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            17,
+            296,
+            20,
+            658
+        ],
+        "text": "DUN DUN DUN",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            53,
+            29,
+            66,
+            109
+        ],
+        "text": "DUN DUN",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            690,
+            320,
+            716,
+            533
+        ],
+        "text": "HUFF\nDA DA DA DA DA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            824,
+            1065,
+            885,
+            1201
+        ],
+        "text": "AAAAAAH\n!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            227,
+            1100,
+            294
+        ],
+        "text": "HUFF\n!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

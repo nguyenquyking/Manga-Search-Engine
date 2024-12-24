@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            86,
+            26,
+            156,
+            112
+        ],
+        "text": "IT IS A MYSTERIOUS TIE THAT BINDS THEM.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            66,
+            353,
+            134,
+            472
+        ],
+        "text": "I'M GRATEFUL. MY SISTER IS NOT USED TO SOCIAL GATHERINGS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            52,
+            501,
+            120,
+            583
+        ],
+        "text": "REBECCA LOOKS LIKE SHE'S HAVING FUN!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            610,
+            138,
+            698
+        ],
+        "text": "SEE HOW PRINCESS VIVI AND THE MERMAID GET ALONG...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            20,
+            438,
+            78
+        ],
+        "text": "IT'S HIM!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            376,
+            209,
+            408,
+            259
+        ],
+        "text": "OH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            291,
+            488,
+            361
+        ],
+        "text": "HEY! OVER THERE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            301,
+            636,
+            373
+        ],
+        "text": "IS THAT REBECCA FROM DRESS-ROSA?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            8,
+            674,
+            80
+        ],
+        "text": "SAI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            101,
+            677,
+            183
+        ],
+        "text": "YES, CHIN JAO'S GRANDSON!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            619,
+            214,
+            675,
+            251
+        ],
+        "text": "THE NAME'S SAI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            665,
+            420,
+            711
+        ],
+        "text": "HMM?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            32,
+            951,
+            191
+        ],
+        "text": "MAAA HA HA HA!! WELL, WELL, WELL! PRINCESS VIVI!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            879,
+            276,
+            940,
+            351
+        ],
+        "text": "HEY, SAME TO YOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            382,
+            968,
+            473
+        ],
+        "text": "HOW COME YOU'RE HERE? YOU'RE A PIRATE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            533,
+            949,
+            673
+        ],
+        "text": "YO, BROTHER!! YOU'RE HERE TOO, LEO!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            225,
+            1101,
+            307
+        ],
+        "text": "AFTER THIS JOB, I'M CUTTIN' TIES WITH MY COUNTRY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1092,
+            529,
+            1142,
+            666
+        ],
+        "text": "I'M DOING SECRET GUARD DUTY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1208,
+            695,
+            1331,
+            836
+        ],
+        "text": "Thank you, Magic Knight of the present.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1329,
+            72,
+            1416,
+            215
+        ],
+        "text": "Wait there for your companions' return!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1265,
+            1599,
+            1366,
+            1712
+        ],
+        "text": "Sealing magic, inverse release.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

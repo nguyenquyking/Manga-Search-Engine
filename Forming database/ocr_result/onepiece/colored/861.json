@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            94,
+            45,
+            268,
+            92
+        ],
+        "text": "It is the question segment!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            90,
+            440,
+            112,
+            459
+        ],
+        "text": "B",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            332,
+            48,
+            498,
+            400
+        ],
+        "text": "Q: In the SBS of the previous volume, you mentioned other hidden kanji banners for Jango, Hyozo, Kaido, and so on. I spotted a \"Gedatsu\" banner too. There's a sign for \"Pagaya\" in chapter 931, and more for Kuroobi and Gaimon in chapter 934.",
+        "panel_id": "2",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            502,
+            304,
+            522,
+            397
+        ],
+        "text": "--Odamania",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            534,
+            51,
+            645,
+            709
+        ],
+        "text": "A: I asked my staff, since they're the ones who drew these details in. They confirmed that the sumo names on the banners include Dancing Jango-zeki (Zeki is a sumo title), Hyozo Ocean-zeki, Morgan Axe-zeki, Marineford-zeki, Gedatsu-zeki, Iceburg-zeki, and Wiper-zeki. In chapter 917 there's a Hamburg-zeki, and in chapter 931, the sign says \"Restaurant Pagaya.\"",
+        "panel_id": "3",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            660,
+            327,
+            738,
+            485
+        ],
+        "text": "NORTH In chapter\nDOES! 934, graves\nreading\nKuroobi\nand Gaimon.",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            768,
+            89,
+            816,
+            631
+        ],
+        "text": "That's what they told me. You're all crazy, readers and assistants alike!! LOL",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            852,
+            86,
+            922,
+            476
+        ],
+        "text": "Mixed bathing... Oda Sensei, mixed bathing... How can I get to...mixed bathing...the bathhouse in...mixed bathing...the Flower Capital?",
+        "panel_id": "4",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            926,
+            338,
+            944,
+            476
+        ],
+        "text": "--Hayato-no-yasu",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            961,
+            50,
+            1164,
+            700
+        ],
+        "text": "A: Disgusting! Your vulgar desire is exuding from your every word!! This is high culture, I'll have you know! There are still natural hot springs where mixed bathing is practiced in Japan today. But back in the Edo period, it was totally the norm. And since the land of Wano is modeled after that period, I had no choice but to draw a bathhouse scene... I promise, it was against my will. Totally out of my hands. They made me do it!\nOh, excuse me, can you pass the tissue? I need to stop this nosebleed.",
+        "panel_id": "5",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            1137,
+            691,
+            1176,
+            747
+        ],
+        "text": "58",
+        "panel_id": "5",
+        "type": "page_number"
+    }
+]

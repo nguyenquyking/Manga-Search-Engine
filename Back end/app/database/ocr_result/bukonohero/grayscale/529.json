@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            77,
+            228,
+            113,
+            308
+        ],
+        "text": "So please!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            49,
+            558,
+            119
+        ],
+        "text": "Get away from me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            689,
+            257,
+            757,
+            362
+        ],
+        "text": "I'm begging you!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            929,
+            70,
+            1041,
+            160
+        ],
+        "text": "I'm fine!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            215,
+            1014,
+            301
+        ],
+        "text": "I mean it!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            199,
+            421,
+            313,
+            544
+        ],
+        "text": "...There's no real danger or malice here.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            499,
+            420,
+            732,
+            563
+        ],
+        "text": "Danger sense would've alerted me otherwise, but you guys aren't setting it off at all!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            93,
+            614,
+            255,
+            719
+        ],
+        "text": "I get it! I know you're all just worried about me!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            847,
+            602,
+            1032,
+            731
+        ],
+        "text": "You're worried, deep down in your hearts. I know that for a fact, because...",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

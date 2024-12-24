@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            140,
+            332,
+            262,
+            443
+        ],
+        "text": "BUT YOU'RE A TOUGH NUT TO CRACK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            303,
+            1040,
+            423
+        ],
+        "text": "BROS! GIMME A TASTE OF THOSE LASERS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            54,
+            1023,
+            172
+        ],
+        "text": "\"THE LASERS...\"",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

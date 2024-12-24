@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            230,
+            44,
+            344,
+            150
+        ],
+        "text": "He's a fine,\nsturdy\nguy.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            195,
+            492,
+            384,
+            604
+        ],
+        "text": "He's a kid, but even the cruelest fates bounce right off him.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            564,
+            33,
+            732,
+            142
+        ],
+        "text": "He's good-natured, and the best partner ever!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            478,
+            672,
+            591
+        ],
+        "text": "He actually treats me as a senior member.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            569,
+            706,
+            756,
+            814
+        ],
+        "text": "...While I'm saving her, I might as well save him too.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            500,
+            836,
+            596,
+            928
+        ],
+        "text": "Marie would be sad, so...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            915,
+            431,
+            1000,
+            534
+        ],
+        "text": "...and eat lots and lots more!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            881,
+            851,
+            992,
+            959
+        ],
+        "text": "He's going to live lots and lots longer...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1220,
+            260,
+            1308,
+            388
+        ],
+        "text": "He's dumb and noisy and reckless...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1275,
+            135,
+            1401,
+            244
+        ],
+        "text": "...But I, a royal, acknowledge him, and this country",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1220,
+            454,
+            1414,
+            585
+        ],
+        "text": "...But I don't mind conceding a little bit and saying he's pretty close to a true magic knight.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1324,
+            35,
+            1408,
+            124
+        ],
+        "text": "There's no deeper meaning there, all right?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1192,
+            869,
+            1280,
+            960
+        ],
+        "text": "He's a selfish, lousy brat...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

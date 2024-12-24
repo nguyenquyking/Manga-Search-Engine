@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            233,
+            31,
+            314,
+            111
+        ],
+        "text": "Hurry and go defeat the Dark Triad.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            271,
+            156,
+            341
+        ],
+        "text": "I don't matter though.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            171,
+            385,
+            230,
+            472
+        ],
+        "text": "...But now all the cards are in place!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            625,
+            140,
+            705
+        ],
+        "text": "You're extremely late...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            62,
+            768,
+            167
+        ],
+        "text": "Thanks to you, I got stronger.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            666,
+            648,
+            764,
+            727
+        ],
+        "text": "Don't tell me you don't matter.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

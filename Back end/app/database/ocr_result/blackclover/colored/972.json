@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            121,
+            136,
+            323,
+            403
+        ],
+        "text": "DEMON-DESTROYER\nCAN'T DO A\nTHING ABOUT\nINJURIES!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            497,
+            85,
+            558,
+            169
+        ],
+        "text": "DAM-MIT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            64,
+            882,
+            212
+        ],
+        "text": "ISN'T THERE\nANYTHING\nWE CAN\nDO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            674,
+            542,
+            812,
+            679
+        ],
+        "text": "THEY\nSAVED\nME, BUT\nI... I...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            266,
+            1133,
+            512,
+            1285
+        ],
+        "text": "MY\nMAGIC...\nCAN'T\nHEAL...\nWOUNDS\nLIKE\nTHAT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            995,
+            863,
+            1078
+        ],
+        "text": "NO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1182,
+            368,
+            1310,
+            506
+        ],
+        "text": "THERE'S\nNOTHING\nTO BE\nDONE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1144,
+            1137,
+            1281,
+            1298
+        ],
+        "text": "THIS\nCAN'T BE\nHAPPEN-\nING...!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1543,
+            636,
+            1774,
+            821
+        ],
+        "text": "WE\nDEFEATED\nA SUPREME\nDEVIL. WE\nSHOULD BE\nCONTENT\nWITH THAT.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1764,
+            972,
+            1961,
+            1124
+        ],
+        "text": "WE\nCAN'T\nJUST LET\nTHEM\nDIE LIKE\nTHIS!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1656,
+            1176,
+            1892,
+            1296
+        ],
+        "text": "THEY\nDID THE\nRIGHT\nTHING.\nTHEY\nWORKED\nSO\nHARD.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1873,
+            294,
+            1963,
+            411
+        ],
+        "text": "VICE\nCAPTAIN\nNACHT!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

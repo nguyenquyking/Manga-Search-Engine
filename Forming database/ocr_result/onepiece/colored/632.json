@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            186,
+            368,
+            195,
+            430
+        ],
+        "text": "BAKOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            477,
+            4,
+            588,
+            176
+        ],
+        "text": "AAAA\nLUFFY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            524,
+            305,
+            584,
+            395
+        ],
+        "text": "LUFFY-TARO!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            54,
+            835,
+            193
+        ],
+        "text": "WE\nWARNED\nYOU!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            318,
+            885,
+            601
+        ],
+        "text": "TWIK!\nTWIK-TWIK...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

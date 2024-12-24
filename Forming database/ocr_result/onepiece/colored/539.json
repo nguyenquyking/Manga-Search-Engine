@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            88,
+            23,
+            194,
+            154
+        ],
+        "text": "Hopefully, if all the swords we hid together still remain...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            219,
+            144,
+            354
+        ],
+        "text": "It's been 13 years. I cannot imagine I would",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            397,
+            174,
+            532
+        ],
+        "text": "I'm sure that Onimaru grew disillusioned with me after I did not return.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            590,
+            151,
+            692
+        ],
+        "text": "So you came here to see that fox?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            262,
+            33,
+            343,
+            133
+        ],
+        "text": "...We can arm a few hundred warriors...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            48,
+            528,
+            172
+        ],
+        "text": "...But he left this door open...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            459,
+            209,
+            526,
+            309
+        ],
+        "text": "The big guy just vanished...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            453,
+            602,
+            528,
+            704
+        ],
+        "text": "Oh! Zorojuro!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            101,
+            826,
+            159
+        ],
+        "text": "RRRR!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            770,
+            258,
+            827,
+            355
+        ],
+        "text": "This is the passage to the underground.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            750,
+            503,
+            837,
+            575
+        ],
+        "text": "Should I chase him, or go in?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            757,
+            625,
+            825,
+            697
+        ],
+        "text": "What does it mean?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            58,
+            1096,
+            117
+        ],
+        "text": "RRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1088,
+            289,
+            1124,
+            329
+        ],
+        "text": "?",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            123,
+            680,
+            204,
+            827
+        ],
+        "text": "THIS IMPENDING VOID ERA...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            204,
+            501,
+            364,
+            651
+        ],
+        "text": "...WILL GIVE RISE TO A MORE PERFECT DEMON LORD...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1057,
+            186,
+            1302,
+            441
+        ],
+        "text": "THIS WILL BE THE STORY OF HOW I BECOME THE GREATEST DEMON LORD OF ALL!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1398,
+            539,
+            1418,
+            876
+        ],
+        "text": "Next chapter hits Jan. 24!",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

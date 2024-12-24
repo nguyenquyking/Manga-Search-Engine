@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            298,
+            90,
+            378,
+            157
+        ],
+        "text": "...with multiple quirks, dressed in rags.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            251,
+            358,
+            330,
+            481
+        ],
+        "text": "Th... There are rumors of a guy...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            530,
+            559,
+            619,
+            659
+        ],
+        "text": "They say he's either an agent of the villains...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            597,
+            97,
+            645,
+            189
+        ],
+        "text": "...or maybe a true hero.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            833,
+            382,
+            907,
+            499
+        ],
+        "text": "Say you get to rest here for now...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            575,
+            921,
+            620
+        ],
+        "text": "So tell us.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            33,
+            1048,
+            177
+        ],
+        "text": "Will we get to go back to our old lives eventually?",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

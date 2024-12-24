@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            93,
+            569,
+            145,
+            704
+        ],
+        "text": "Hey, it's me, Shuichi Iguchi, a.k.a. Spinner!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            424,
+            245,
+            441,
+            308
+        ],
+        "text": "Yikes!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            29,
+            470,
+            101
+        ],
+        "text": "My shoes!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            394,
+            619,
+            499
+        ],
+        "text": "Stop the van! Pull back! Pull back!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            115,
+            882,
+            257
+        ],
+        "text": "What you're seeing is me hanging on to the politician's van for dear life after Twice protected me.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1003,
+            40,
+            1091,
+            177
+        ],
+        "text": "Not too long ago, it seemed like our tale was at a dead end, but now...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            998,
+            574,
+            1104,
+            702
+        ],
+        "text": "Something big had happened up ahead wherever this van was headed.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

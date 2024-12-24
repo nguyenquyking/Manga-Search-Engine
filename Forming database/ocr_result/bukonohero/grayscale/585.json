@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            51,
+            392,
+            136,
+            457
+        ],
+        "text": "AND WHAT CAN I SAY?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            99,
+            687,
+            233
+        ],
+        "text": "I'M OPTIMISTIC TO A FAULT.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            597,
+            617,
+            687,
+            698
+        ],
+        "text": "I WASN'T ALONE IN THIS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            121,
+            896,
+            165
+        ],
+        "text": "NO... NO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1012,
+            74,
+            1115,
+            186
+        ],
+        "text": "THIS WASN'T THE DEAL. YOU WEREN'T SUPPOSED TO GET CAUGHT.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            625,
+            972,
+            751
+        ],
+        "text": "DEKU!! THERE'S NO ONE ELSE BESIDES HIM, RIGHT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

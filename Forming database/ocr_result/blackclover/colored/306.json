@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            104,
+            1610,
+            213,
+            1756
+        ],
+        "text": "SPATIAL MAGIC",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            466,
+            1252,
+            624,
+            1413
+        ],
+        "text": "FALLEN ANGEL\nF LAPPING",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            915,
+            956,
+            937,
+            1060
+        ],
+        "text": "FWSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1134,
+            708,
+            1241,
+            814
+        ],
+        "text": "IT\nMAY BE\nTHIRD-RATE\nMAGIC,\nBUT...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1164,
+            1157,
+            1185,
+            1201
+        ],
+        "text": "OH...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

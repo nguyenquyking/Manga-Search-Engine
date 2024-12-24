@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            347,
+            98,
+            437,
+            171
+        ],
+        "text": "We're just helpless...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            354,
+            413,
+            377,
+            504
+        ],
+        "text": "Really...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1244,
+            62,
+            1292,
+            173
+        ],
+        "text": "Midnight Sensei?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1234,
+            597,
+            1256,
+            732
+        ],
+        "text": "...Creati?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1061,
+            780,
+            1127,
+            883
+        ],
+        "text": "Can you hear me...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

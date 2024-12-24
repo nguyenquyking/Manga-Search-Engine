@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            108,
+            674,
+            332,
+            1012
+        ],
+        "text": "Sea Dragon's Roar",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            760,
+            109,
+            1062,
+            259
+        ],
+        "text": "WE CAN'T BACK DOWN AFTER YOU DID ALL THAT SHOWING OFF!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1158,
+            96,
+            1288,
+            179
+        ],
+        "text": "...SO SHE CAN'T PULL ME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1187,
+            841,
+            1292,
+            980
+        ],
+        "text": "I'LL KEEP MY ANTI-MAGIC IN RESERVE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1420,
+            457,
+            1508,
+            966
+        ],
+        "text": "BLOB GLOB",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

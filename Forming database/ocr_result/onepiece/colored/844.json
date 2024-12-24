@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            66,
+            53,
+            169,
+            186
+        ],
+        "text": "Of all the rotten timing!! I have the key right here, Sir Luffy!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            94,
+            229,
+            164,
+            307
+        ],
+        "text": "No way! Shut up!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            339,
+            128,
+            476
+        ],
+        "text": "...and all will be forgiven!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            535,
+            138,
+            673
+        ],
+        "text": "I'm telling you, all you have to do is join Kaido's pirate crew...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            54,
+            541,
+            193
+        ],
+        "text": "And now the legendary mob boss is a little old man, shriveled with malnutrition...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            586,
+            41,
+            692,
+            168
+        ],
+        "text": "...fated to die a miserable, forgotten death!! Mwa ha ha ha!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            416,
+            580,
+            499,
+            716
+        ],
+        "text": "This should be a familiar refrain to you, Hyogoro!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            594,
+            690,
+            720
+        ],
+        "text": "Years ago, Kaido and Orochi spent quite a lot of time trying to woo you to our side.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            42,
+            1122,
+            136
+        ],
+        "text": "Please! For me!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1024,
+            347,
+            1122,
+            458
+        ],
+        "text": "But spare this young man, I beg of you!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1034,
+            637,
+            1104,
+            726
+        ],
+        "text": "Do what you will to me!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

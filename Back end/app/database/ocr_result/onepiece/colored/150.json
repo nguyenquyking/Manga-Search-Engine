@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            55,
+            1260,
+            153,
+            1414
+        ],
+        "text": "GOMU GOMU NO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            153,
+            898,
+            237,
+            1134
+        ],
+        "text": "...GATLING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            1625,
+            559,
+            1726
+        ],
+        "text": "ROC...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            1304,
+            947,
+            1439
+        ],
+        "text": "GUNDARI!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            111,
+            1158,
+            317
+        ],
+        "text": "METEOR SHOWER!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

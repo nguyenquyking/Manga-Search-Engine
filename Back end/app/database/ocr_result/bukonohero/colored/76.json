@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            18,
+            31,
+            35,
+            113
+        ],
+        "text": "AURA MIGHT",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            17,
+            202,
+            34,
+            271
+        ],
+        "text": "ALL MIGHT",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            330,
+            196,
+            455
+        ],
+        "text": "BUT I NEVER EXPERIENCED ANY SORT OF SYNCING WITH THE VESTIGE'S THOUGHTS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            520,
+            162,
+            687
+        ],
+        "text": "THE VESTIGE OF ME WITHIN ONE FOR ALL SEEMS TO HAVE ACCESS TO MY THOUGHTS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            49,
+            488,
+            178
+        ],
+        "text": "...WHEN I WAS CLOSE ENOUGH TO TOUCH HIM. WHATEVER MY VESTIGE WAS THINKING AND FEELING SORT OF FLOWED INTO ME.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            369,
+            540,
+            464,
+            687
+        ],
+        "text": "EXCEPT RECENTLY WHEN I TOUCHED THE BOY... OR, RATHER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            634,
+            19,
+            760,
+            128
+        ],
+        "text": "...THAT ALL FOR ONE CAN SYNC TO A GREATER DEGREE THAN ONE FOR ALL...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            159,
+            693,
+            255
+        ],
+        "text": "EVEN IF WE SUPPOSE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            303,
+            728,
+            409
+        ],
+        "text": "\"MORE LIKE FEELINGS FLOWING FROM YOU.\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            568,
+            699,
+            657
+        ],
+        "text": "\"IT'S NOT WORDS, EXACTLY.\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            25,
+            1101,
+            111
+        ],
+        "text": "...THEY USED THOSE RADIO WAVES TO COMMUNICATE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            138,
+            1104,
+            211
+        ],
+        "text": "THAT COULD VERY WELL BE, BUT IN THIS CASE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            247,
+            1092,
+            340
+        ],
+        "text": "STRANGER THINGS, RIGHT? KIND OF LIKE A TWIN CONNECTION",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            494,
+            1093,
+            721
+        ],
+        "text": "...DO WE REALLY BELIEVE THAT HIS REAL BODY, LOCKED UP 500 METERS BELOW SEA LEVEL... COULD RECEIVE SUCH SPECIFIC THOUGHTS FROM THE VESTIGE IN SHIGARAKI?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1120,
+            370,
+            1142,
+            473
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

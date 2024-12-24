@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            77,
+            407,
+            149,
+            487
+        ],
+        "text": "Wow! That one is way longer than that other one.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            119,
+            86,
+            172,
+            151
+        ],
+        "text": "I can totally see that working!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            407,
+            52,
+            506,
+            163
+        ],
+        "text": "It's a tool specifically designed for cutting fish for sushi and sashimi.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            496,
+            379,
+            567,
+            462
+        ],
+        "text": "Right? This is a Yanagiba knife.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            141,
+            739,
+            215
+        ],
+        "text": "Watch! With this knife I'll be able to-",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            669,
+            286,
+            783,
+            371
+        ],
+        "text": "...cutting the fibers without crushing them or letting any tasty juices escape!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            693,
+            426,
+            771,
+            488
+        ],
+        "text": "...will slice the flesh cleanly...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            719,
+            615,
+            812,
+            706
+        ],
+        "text": "A firm but gentle pull of the long, sharp blade from hilt to tip...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

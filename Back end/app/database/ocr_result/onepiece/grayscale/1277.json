@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            149,
+            113,
+            336,
+            339
+        ],
+        "text": "I'm sorry, my lord! I've been around Kin'emon for many years...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            105,
+            381,
+            263,
+            583
+        ],
+        "text": "But that was your information!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            113,
+            619,
+            345
+        ],
+        "text": "...But I've never known him to be so thorough!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            1134,
+            339,
+            1347
+        ],
+        "text": "You failed to stop their operation?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            110,
+            601,
+            205,
+            1045
+        ],
+        "text": "STOMP TROMP\nSTOMP TROMP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            864,
+            244,
+            952,
+            417
+        ],
+        "text": "Fukuro-kuju!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            807,
+            511,
+            950,
+            728
+        ],
+        "text": "There is no reason yet to fear, Shogun Orochi.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1082,
+            119,
+            1259,
+            303
+        ],
+        "text": "There is not a single ship to be seen at the dock!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            1127,
+            1038,
+            1366
+        ],
+        "text": "So their fleet is coming here to Onigashima?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            548,
+            1060,
+            702
+        ],
+        "text": "Zwip!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1486,
+            123,
+            1658,
+            362
+        ],
+        "text": "Straw Hat Luffy, Pirate Hunter Zoro...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1766,
+            123,
+            1985,
+            362
+        ],
+        "text": "...Eustass \"Captain\" Kid, and Murder Machine Killer.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1492,
+            1029,
+            1656,
+            1368
+        ],
+        "text": "But the trio of battleships we sent out have not yet returned!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1911,
+            1068,
+            2052,
+            1386
+        ],
+        "text": "And four pirates have been sighted on the performance floor outside.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            85,
+            166,
+            210,
+            308
+        ],
+        "text": "He used you, but don't let it end with that!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            559,
+            209,
+            689
+        ],
+        "text": "So please, tell us what you know!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            259,
+            59,
+            308,
+            154
+        ],
+        "text": "You're a hero!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            886,
+            75,
+            978,
+            217
+        ],
+        "text": "You're Lady Nagant!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            864,
+            485,
+            1004,
+            633
+        ],
+        "text": "Leave us with some hope to hold on to!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

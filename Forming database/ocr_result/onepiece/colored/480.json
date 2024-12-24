@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            93,
+            55,
+            199,
+            190
+        ],
+        "text": "...And with the roar of the conference still hanging in the air...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            69,
+            577,
+            199,
+            688
+        ],
+        "text": "It stands one week after the conclusion of the Reverie...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            531,
+            186,
+            546,
+            234
+        ],
+        "text": "RAAAAA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            552,
+            42,
+            654,
+            112
+        ],
+        "text": "...to travel back to their homes.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            534,
+            623,
+            693,
+            708
+        ],
+        "text": "...The heads of nations depart...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            765,
+            117,
+            846,
+            218
+        ],
+        "text": "I need the perfect headline for this!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            241,
+            861,
+            324
+        ],
+        "text": "How can so many events be happening at once?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            353,
+            850,
+            443
+        ],
+        "text": "It's one thing after another!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            621,
+            822,
+            707
+        ],
+        "text": "Earlier in time, however...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            780,
+            494,
+            856,
+            567
+        ],
+        "text": "At the World Economic Journal",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            894,
+            48,
+            982,
+            152
+        ],
+        "text": "But which one gets the cover, boss?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            482,
+            997,
+            582
+        ],
+        "text": "Tap tap tap!  Tap tap tap!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            922,
+            176,
+            988,
+            378
+        ],
+        "text": "Stomp! Flomp!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

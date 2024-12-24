@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            88,
+            537,
+            174,
+            723
+        ],
+        "text": "KABOOM!!\nTHE MIRROR-WORLD",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            132,
+            190,
+            226,
+            277
+        ],
+        "text": "I'LL ADMIT, BROTHER, I DIDN'T WANT TO SEE YOU LOSE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            210,
+            102,
+            286,
+            179
+        ],
+        "text": "...LYING ON YOUR BACK LIKE THIS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            212,
+            567,
+            229,
+            615
+        ],
+        "text": "RAHH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            372,
+            624,
+            402,
+            682
+        ],
+        "text": "SHH...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            385,
+            281,
+            471,
+            353
+        ],
+        "text": "CLINK\nCLAK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            410,
+            76,
+            420,
+            103
+        ],
+        "text": "...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            679,
+            413,
+            738,
+            489
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            692,
+            589,
+            758,
+            704
+        ],
+        "text": "WHY DID YOU SWITCH TO YOUR BACK?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            703,
+            74,
+            768,
+            206
+        ],
+        "text": "BUT, BRULEE...\nWHEN IT COMES TO MY LIFE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            710,
+            249,
+            720,
+            274
+        ],
+        "text": "...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1056,
+            68,
+            1132,
+            176
+        ],
+        "text": "...THAT I NEVER PUT MY BACK ON THE GROUND!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1065,
+            203,
+            1125,
+            308
+        ],
+        "text": "...IT WAS NOTHING BUT A LIE...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1050,
+            393,
+            1136,
+            490
+        ],
+        "text": "YES...I WONDER WHY!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1060,
+            572,
+            1123,
+            714
+        ],
+        "text": "DIDN'T YOU FALL FACE-FIRST ORIGINALLY?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

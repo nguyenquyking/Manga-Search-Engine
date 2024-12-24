@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            104,
+            413,
+            193,
+            708
+        ],
+        "text": "The Blank Page Brigade",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            260,
+            410,
+            340,
+            683
+        ],
+        "text": "This volume's topic:\nWhat's your favorite Chinese dish?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            312,
+            122,
+            428,
+            296
+        ],
+        "text": "Egg foo young\nwith crab\nS\u014dta\nHishikawa",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            380,
+            851,
+            520,
+            974
+        ],
+        "text": "VROOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            865,
+            598,
+            931,
+            747
+        ],
+        "text": "ANTI-SPEED\nVIOLATION",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            956,
+            879,
+            1046,
+            1026
+        ],
+        "text": "Pot stickers\nSeiya\nMiyamoto",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1116,
+            836,
+            1206,
+            989
+        ],
+        "text": "Pepper steak\nMasayoshi\nSatosho",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1464,
+            230,
+            1528,
+            413
+        ],
+        "text": "Soup dumplings\nYagasa",
+        "panel_id": "5",
+        "type": "caption"
+    }
+]

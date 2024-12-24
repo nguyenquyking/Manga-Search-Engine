@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            40,
+            228,
+            200,
+            348
+        ],
+        "text": "We should assume that a man in possession of that same Quirk could receive and interpret those waves.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            56,
+            394,
+            151,
+            511
+        ],
+        "text": "...to give the Nomu very specific commands.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            48,
+            666,
+            144,
+            780
+        ],
+        "text": "\"These radio waves can be used as signals...\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            285,
+            546,
+            409,
+            702
+        ],
+        "text": "And the waveform data on that storage media resembles a conversation.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            571,
+            286,
+            593,
+            326
+        ],
+        "text": "Oh.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            729,
+            95,
+            872,
+            192
+        ],
+        "text": "He could have rigged the results we were bound to get...as a bluff.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            230,
+            882,
+            351
+        ],
+        "text": "B-but based on the research from Central Hospital, I thought we had...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            697,
+            440,
+            804,
+            577
+        ],
+        "text": "\"Make him complete in 38 days.\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            959,
+            275,
+            1000,
+            339
+        ],
+        "text": "...Two months? No?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            585,
+            688,
+            660,
+            779
+        ],
+        "text": "Then it's already been decoded?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            953,
+            669,
+            1006,
+            763
+        ],
+        "text": "What were they saying...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

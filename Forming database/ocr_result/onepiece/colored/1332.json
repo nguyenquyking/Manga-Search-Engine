@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            72,
+            50,
+            154,
+            167
+        ],
+        "text": "WHO WAS THAT?! HE HIT A CELESTIAL DRAGON!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            212,
+            25,
+            300,
+            114
+        ],
+        "text": "I DUNNO, B-BUT I'M OUTTA HERE, YA",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            97,
+            451,
+            217
+        ],
+        "text": "UNHAND THAT PRINCESS,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            257,
+            459,
+            355
+        ],
+        "text": "A CELESTIAL DRAGON?!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            402,
+            473,
+            510,
+            568
+        ],
+        "text": "AS A FELLOW CELESTIAL DRAGON, I BEG YOUR FORGIVENESS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            596,
+            498,
+            707
+        ],
+        "text": "HUFF, HUFF... FORGIVE ME FOR THIS EMBARRASSING SPECTACLE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            87,
+            873,
+            259
+        ],
+        "text": "BUT IN FACT, I OWE THE RYUGU KINGDOM A GREAT PERSONAL DEBT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            782,
+            306,
+            890,
+            415
+        ],
+        "text": "YOU MAY HAVE FORGOTTEN ME ALREADY, NEPTUNE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            541,
+            883,
+            692
+        ],
+        "text": "I APOLOGIZE, EVERYONE!! THIS CLOWN HAS INJECTED FEAR INTO AN OCCASION FOR SOCIALIZING AND GOOD CHEER...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            52,
+            1128,
+            171
+        ],
+        "text": "I HAVE BEEN AWAITING THE DAY OF YOUR ARRIVAL FOR SO VERY LONG!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

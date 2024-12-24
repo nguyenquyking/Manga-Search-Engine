@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            64,
+            455,
+            99,
+            706
+        ],
+        "text": "BELOVED...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            405,
+            37,
+            448,
+            258
+        ],
+        "text": "...by Mana!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            590,
+            154,
+            693,
+            266
+        ],
+        "text": "\"We'll die without even making you take a single step.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            28,
+            871,
+            86
+        ],
+        "text": "Was that what you said?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            491,
+            598,
+            546
+        ],
+        "text": "FWASH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1041,
+            124,
+            1038,
+            170
+        ],
+        "text": "00000",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

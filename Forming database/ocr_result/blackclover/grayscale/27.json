@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            265,
+            98,
+            288,
+            178
+        ],
+        "text": "FATHER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            52,
+            388,
+            123
+        ],
+        "text": "WHERE ARE YOU?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            261,
+            444,
+            357
+        ],
+        "text": "NOBODY'S HERE...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            190,
+            766,
+            347,
+            867
+        ],
+        "text": "I HAVEN'T TOLD ANYONE ABOUT THE CEREMONY, SO IT MUST HAVE BEEN COINCIDENCE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            883,
+            233,
+            957
+        ],
+        "text": "WHY DID FATHER CALL ME TODAY?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            545,
+            827,
+            648,
+            912
+        ],
+        "text": "I HAVE TO HURRY AND LEAVE FOR THE WEDDING!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1088,
+            847,
+            1124,
+            959
+        ],
+        "text": "\"Bind.\"",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

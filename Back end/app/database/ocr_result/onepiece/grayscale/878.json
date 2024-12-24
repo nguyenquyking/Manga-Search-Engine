@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            306,
+            606,
+            385,
+            730
+        ],
+        "text": "BAGUA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            56,
+            866,
+            152
+        ],
+        "text": "OOH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            342,
+            913,
+            434
+        ],
+        "text": "ROLL ROLL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

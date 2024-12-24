@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            133,
+            156,
+            295,
+            332
+        ],
+        "text": "...that your dancing's gotten so much better, Oden.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            388,
+            276,
+            495
+        ],
+        "text": "I was just telling him...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            144,
+            570,
+            282,
+            767
+        ],
+        "text": "Well, don't put yourself in danger, Hyo.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            133,
+            829,
+            270,
+            974
+        ],
+        "text": "I'd never work for a man like him.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            1182,
+            317,
+            1353
+        ],
+        "text": "That damned Orochi just won't give up!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            103,
+            531,
+            279
+        ],
+        "text": "Please, Ma'am, spare me!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            714,
+            156,
+            879,
+            322
+        ],
+        "text": "...and nothing in Wano changed.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            714,
+            411,
+            833,
+            574
+        ],
+        "text": "Four years passed...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            736,
+            781,
+            814,
+            901
+        ],
+        "text": "Bwa-choo!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            760,
+            648,
+            898,
+            756
+        ],
+        "text": "This snow's a bit nippy.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            773,
+            972,
+            864,
+            1098
+        ],
+        "text": "The fool of a lord is back again.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            727,
+            1163,
+            855,
+            1340
+        ],
+        "text": "Three years passed...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            952,
+            311,
+            1043,
+            453
+        ],
+        "text": "That Oden's so obnoxious.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1298,
+            133,
+            1483,
+            318
+        ],
+        "text": "...Orochi made his move on Kuri.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1302,
+            937,
+            1464,
+            1095
+        ],
+        "text": "The Shogun has come to Kuri!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1311,
+            1173,
+            1466,
+            1326
+        ],
+        "text": "In the fifth year...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1615,
+            120,
+            1753,
+            288
+        ],
+        "text": "It's Shogun Orochi!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            240,
+            452,
+            306,
+            561
+        ],
+        "text": "...My craft going boom should blow him to bits!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            688,
+            93,
+            836,
+            194
+        ],
+        "text": "Do it now, Star!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            731,
+            559,
+            751,
+            723
+        ],
+        "text": "HEXAMENDLEO",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

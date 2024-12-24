@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            287,
+            54,
+            680,
+            250
+        ],
+        "text": "GIVE HER BACK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            1647,
+            425,
+            1834
+        ],
+        "text": "SH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            740,
+            2465,
+            933,
+            2698
+        ],
+        "text": "P",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1566,
+            51,
+            1766,
+            250
+        ],
+        "text": "NOT GOOD! I CAN'T DODGE THIS IN MIDAIR...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1926,
+            1866,
+            2097,
+            2010
+        ],
+        "text": "CHF",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            101,
+            455,
+            151,
+            515
+        ],
+        "text": "Rgh...!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            217,
+            570,
+            320,
+            765
+        ],
+        "text": "OOO ALREADY A DEVIL?",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

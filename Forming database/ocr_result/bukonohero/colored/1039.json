@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            122,
+            0,
+            235,
+            130
+        ],
+        "text": "HOW ARE YOU GONNA CONTROL THEM TO BEGIN WITH? WHAT SORT OF ORGANIZATION ARE YOU AIMING FOR?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            137,
+            196,
+            224
+        ],
+        "text": "SO WHAT IF YOU EXPAND YOUR FORCES?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            365,
+            218,
+            479
+        ],
+        "text": "THERE'S ANOTHER TERM FOR A GOAL WITHOUT A PLAN TO BACK IT UP. AND THAT'S \"PIPE DREAM.\" YOU PRESENT ME WITH A PIPE DREAM, I'M NOT GONNA BE THRILLED.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            599,
+            244,
+            711
+        ],
+        "text": "A PLAN? DIDN'T YOU COME HERE...TO MAKE BUDDY BUDDY WITH US?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            2,
+            552,
+            158
+        ],
+        "text": "ALL THREE WERE FIRST-RATE PAWNS AT YOUR DISPOSAL, BUT YOU LOST THEM ALL IMMEDIATELY. DIDN'T YOU? DIDN'T KNOW HOW TO USE 'EM?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            173,
+            570,
+            267
+        ],
+        "text": "AND THE ESCAPED DEATH ROW INMATE MOONFISH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            384,
+            476,
+            485
+        ],
+        "text": "AND THEN IT HAPPENED WITH THE GLEE KILLER MUSCULAR",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            618,
+            513,
+            702
+        ],
+        "text": "IT STARTED WITH THE HERO KILLER, STAIN.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            680,
+            19,
+            760,
+            164
+        ],
+        "text": "I DIDN'T COME HERE TO BECOME",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            395,
+            740,
+            524
+        ],
+        "text": "IN ORDER TO REALIZE YOUR GOALS, YOU NEED A PLAN.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            372,
+            948,
+            501
+        ],
+        "text": "AND I HAVE A PLAN.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            648,
+            585,
+            790,
+            694
+        ],
+        "text": "PLUS, YOU CAN'T EVEN HANDLE THE TEN YOU HAVE REMAINING PROPERLY, AND YET YOU'RE TALKING ABOUT EXPANDING?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1054,
+            382,
+            1152,
+            524
+        ],
+        "text": "TWICE... NEXT TIME, CONFIRM THEIR INTENTIONS BEFORE BRINGING ANYONE HERE.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            553,
+            1150,
+            661
+        ],
+        "text": "WHAT'S THE POINT OF AMASSING POWER THAT YOU CAN'T CONTROL?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

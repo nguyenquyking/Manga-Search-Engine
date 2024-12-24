@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            50,
+            76,
+            160,
+            235
+        ],
+        "text": "THE MAN\nWHO WILL BE\nSHOGUN OF\nWANO!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            56,
+            255,
+            141,
+            376
+        ],
+        "text": "KOZUKI\nMOMONOSUKE!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            403,
+            72,
+            417,
+            119
+        ],
+        "text": "BENG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            741,
+            48,
+            833,
+            210
+        ],
+        "text": "BUT THE\nWORLD DOESN'T\nNEED TWO\nDRAGONS!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            232,
+            820,
+            371
+        ],
+        "text": "WORO RO RO...\nWHAT A\nSURPRISE!\nTHAT LITTLE\nBOY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            531,
+            1387,
+            664,
+            1488
+        ],
+        "text": "HOW\nDID YOU\nSURVIVE,\nSTRAW\nHAT?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            1208,
+            729,
+            1350
+        ],
+        "text": "WHO\nIS THAT\nDRAGON?!\nNAME YOUR-\nSELF!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            853,
+            834,
+            980,
+            959
+        ],
+        "text": "I'M THE\nMAN WHO\nWILL BE\nKING OF THE\nPIRATES!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            842,
+            1157,
+            970,
+            1257
+        ],
+        "text": "NOTHING\nYOU DO\nIS GOING\nTO KILL\nME!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            1315,
+            921,
+            1401
+        ],
+        "text": "HUH...?\nCOULD IT\nBE--?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            1431,
+            922,
+            1514
+        ],
+        "text": "A PINK\nDRAGON\n!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            683,
+            891,
+            733
+        ],
+        "text": "AND...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            487,
+            1108,
+            550
+        ],
+        "text": "MY\nNAME\nIS...!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1039,
+            669,
+            1090,
+            719
+        ],
+        "text": "AND\nMY...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1100,
+            882,
+            1098,
+            947
+        ],
+        "text": "DOOM!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1126,
+            47,
+            1140,
+            194
+        ],
+        "text": "To be continued!",
+        "panel_id": "7",
+        "type": "narration"
+    }
+]

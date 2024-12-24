@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            490,
+            92,
+            596,
+            238
+        ],
+        "text": "YOU PEOPLE\nWHO SWEEP IT\nALL UNDER THE\nRUG AND SHY\nAWAY FROM THE\nINEVITABLE FUTURE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            670,
+            55,
+            722,
+            152
+        ],
+        "text": "...COULDN'T\nPOSSIBLY\nCOMPREHEND.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1022,
+            396,
+            1072,
+            471
+        ],
+        "text": "I NEED\nSOME\nSPARES!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

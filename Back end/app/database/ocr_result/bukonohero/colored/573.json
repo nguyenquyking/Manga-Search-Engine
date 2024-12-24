@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            103,
+            525,
+            165,
+            842
+        ],
+        "text": "VANISHING",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            749,
+            245,
+            822,
+            418
+        ],
+        "text": "FIST!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1107,
+            214,
+            1150,
+            282
+        ],
+        "text": "RAHHHH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1252,
+            78,
+            1317,
+            191
+        ],
+        "text": "YOU GOTTA\nHOLD 'IM\nBACK!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1297,
+            331,
+            1340,
+            416
+        ],
+        "text": "HANG IN\nTHERE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1110,
+            561,
+            1169,
+            696
+        ],
+        "text": "AT THAT\nMOMENT...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

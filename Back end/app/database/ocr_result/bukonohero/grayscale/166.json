@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            566,
+            157,
+            587,
+            214
+        ],
+        "text": "Yeah.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            673,
+            499,
+            734
+        ],
+        "text": "The next day...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            471,
+            442,
+            591,
+            579
+        ],
+        "text": "Didja hear the principal's announcement this morning?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            711,
+            323,
+            717,
+            381
+        ],
+        "text": "VRRRM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            772,
+            563,
+            962,
+            745
+        ],
+        "text": "Apparently Tomura Shigaraki is gonna make a big move in just four days...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            105,
+            133,
+            278,
+            296
+        ],
+        "text": "...and proceeded to a city of ship-builders.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            280,
+            394,
+            315,
+            515
+        ],
+        "text": "No, the",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            401,
+            397,
+            508
+        ],
+        "text": "South Pole!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            300,
+            884,
+            373,
+            1056
+        ],
+        "text": "The North Pole!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            1169,
+            306,
+            1306
+        ],
+        "text": "With the help of Ganfor, the god atop the clouds...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            365,
+            1104,
+            524,
+            1275
+        ],
+        "text": "...we descended safely back to the sea below...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            451,
+            97,
+            589,
+            345
+        ],
+        "text": "Knock it off, both of you!! Do you ever stop squabbling?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            86,
+            768,
+            406
+        ],
+        "text": "Ooh! Ah!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            889,
+            113,
+            1092,
+            414
+        ],
+        "text": "That's the kind I need the most!!! Why didn't you say something?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            639,
+            1013,
+            881
+        ],
+        "text": "Red ones, though.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            1042,
+            1101,
+            1337
+        ],
+        "text": "What did you say?! Those stones are in your countries too?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1566,
+            144,
+            1719,
+            344
+        ],
+        "text": "We're going to gather all four of them!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1568,
+            398,
+            1715,
+            614
+        ],
+        "text": "I've got it in my grasp!! Where is this guiding me?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1559,
+            709,
+            1738,
+            908
+        ],
+        "text": "...and I've got a hunch about where another one is!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1555,
+            1007,
+            1753,
+            1324
+        ],
+        "text": "So I've got one Road Poneglyph sheet that I stole already from Linlin...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1853,
+            675,
+            1967,
+            820
+        ],
+        "text": "Way to go, Captain!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

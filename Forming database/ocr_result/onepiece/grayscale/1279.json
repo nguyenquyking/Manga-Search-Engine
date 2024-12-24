@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            71,
+            151,
+            278,
+            482
+        ],
+        "text": "BUT NOT EVERYONE ELSE?\nNO SHIPS? KIN'EMON...\nIS EVERYONE ELSE\nALL RIGHT?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            159,
+            612,
+            272,
+            771
+        ],
+        "text": "FIND\nA WAY TO\nSURVIVE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            1177,
+            187,
+            1389
+        ],
+        "text": "LUFFY'S\nHERE ON THE\nISLAND!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            358,
+            607,
+            509,
+            732
+        ],
+        "text": "WE'LL\nGO AND\nRESCUE\nYOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            129,
+            885,
+            466
+        ],
+        "text": "THAT'S RIGHT... I\nMUSTN'T FORGET...\nTHIS IS THE\nENEMY'S LEADER!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            723,
+            587,
+            775,
+            669
+        ],
+        "text": "AH!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            714,
+            1114,
+            838,
+            1363
+        ],
+        "text": "GIVE ME\nMOMONOSUKE,\nBLACK MARIA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1458,
+            136,
+            1710,
+            434
+        ],
+        "text": "I WILL KILL THE\nLAST SURVIVING\nKOZUKI HERE...\nAND BRING THEIR\nHISTORY TO ITS\nMISERABLE END!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1468,
+            1131,
+            1650,
+            1378
+        ],
+        "text": "ARRANGE A\nCRUCIFIXION\nSTAND ON\nTHE STAGE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1730,
+            924,
+            1909,
+            1067
+        ],
+        "text": "STOMP TROMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1833,
+            131,
+            2052,
+            436
+        ],
+        "text": "AND THEN THIS\nWHOLE ORDEAL\nIS BEHIND ME!!!\nGUHU HU HU HWA\nHA HA HA!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1982,
+            480,
+            2006,
+            807
+        ],
+        "text": "STOMP TROMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

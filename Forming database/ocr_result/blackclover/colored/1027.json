@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            181,
+            38,
+            373,
+            254
+        ],
+        "text": "...has unique magic that's been passed down through the generations.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            174,
+            968,
+            344,
+            1139
+        ],
+        "text": "The Spade Kingdom's royal family...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            632,
+            26,
+            820,
+            175
+        ],
+        "text": "His mother, Ciel, had Moon Magic.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            633,
+            1040,
+            853,
+            1169
+        ],
+        "text": "His father, Loyce, had Sun Magic.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1198,
+            117,
+            1245,
+            1084
+        ],
+        "text": "And the one who inherited their blood...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1348,
+            845,
+            1344,
+            894
+        ],
+        "text": "ZZT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1716,
+            294,
+            1773,
+            919
+        ],
+        "text": "...Yuno Grinberryall, has...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1639,
+            962,
+            1665,
+            1116
+        ],
+        "text": "MIURKAART",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

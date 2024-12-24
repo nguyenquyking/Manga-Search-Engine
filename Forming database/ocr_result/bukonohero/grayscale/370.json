@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            48,
+            102,
+            148,
+            224
+        ],
+        "text": "Such a warm welcome, before I've even arrived... You're that free to do as you please, mister?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            86,
+            1025,
+            206
+        ],
+        "text": "Are you the villain they call All For One?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            435,
+            533,
+            438,
+            649
+        ],
+        "text": "FWOOOOOSH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

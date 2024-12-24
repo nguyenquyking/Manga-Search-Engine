@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            516,
+            95,
+            629,
+            287
+        ],
+        "text": "WE JUST GOTTA GO TOE-TO-TOE WITH HISTORY'S DEADLIEST VILLAIN EVER!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            751,
+            51,
+            897,
+            174
+        ],
+        "text": "NONE OF THE ESCAPED CONVICTS OR LIBERATION FRONT PEOPLE CAME ALONG FOR THE RIDE. I'M ALONE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            63,
+            1065,
+            159
+        ],
+        "text": "AND, HEY\u2014 DON'T TAKE OVER MY HEAD THIS TIME, ME.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            203,
+            1036,
+            287
+        ],
+        "text": "BUT IT DOESN'T MATTER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            754,
+            434,
+            823,
+            532
+        ],
+        "text": "THE HORIZON IS SO FAR BELOW...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            895,
+            331,
+            949,
+            415
+        ],
+        "text": "THIS PLACE IS FLOATING.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            929,
+            437,
+            964,
+            510
+        ],
+        "text": "I'M IN THE SKY.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

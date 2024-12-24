@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            54,
+            48,
+            153,
+            207
+        ],
+        "text": "HAH!! We'll see! Pirates stab each other in the back\u2014that's just our style!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            260,
+            161,
+            367
+        ],
+        "text": "No, that's just what you would do!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            450,
+            125,
+            522
+        ],
+        "text": "Mwa ha ha ha ha!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            29,
+            548,
+            151,
+            725
+        ],
+        "text": "He's gonna use the antibodies on himself and make his escape!! You'll be left holding the bag!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            209,
+            557,
+            226,
+            620
+        ],
+        "text": "RAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            419,
+            78,
+            515,
+            175
+        ],
+        "text": "Boss!! Don't go!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            228,
+            502,
+            314
+        ],
+        "text": "Take your time catching up.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            340,
+            490,
+            397
+        ],
+        "text": "Hah... Don't rush.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            465,
+            517,
+            628
+        ],
+        "text": "Don't worry, Boss Hyogoro!! I'll be joining you soon!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            666,
+            476,
+            729
+        ],
+        "text": "Boss!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            661,
+            749,
+            725
+        ],
+        "text": "Boss!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            691,
+            230,
+            735,
+            295
+        ],
+        "text": "Fare-well!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            501,
+            809,
+            584
+        ],
+        "text": "CLANG!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            919,
+            629,
+            998,
+            718
+        ],
+        "text": "Wait!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1069,
+            65,
+            1116,
+            155
+        ],
+        "text": "Gulp...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

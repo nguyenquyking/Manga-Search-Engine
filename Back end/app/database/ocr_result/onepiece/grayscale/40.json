@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            79,
+            43,
+            120,
+            135
+        ],
+        "text": "KEEP HER STEADY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            337,
+            155,
+            418
+        ],
+        "text": "LET THE SKY BOATS FLY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            34,
+            443,
+            121,
+            505
+        ],
+        "text": "AND THERE THEY GO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            557,
+            99,
+            651
+        ],
+        "text": "SEND THEM OFF TO THE DECEASED!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            157,
+            82,
+            219
+        ],
+        "text": "RAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            322,
+            160,
+            335,
+            273
+        ],
+        "text": "STOMP TROMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            527,
+            310,
+            590,
+            392
+        ],
+        "text": "...WE'LL BE WORKED LIKE SLAVES AGAIN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            522,
+            420,
+            579,
+            475
+        ],
+        "text": "AND TOMORROW...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            625,
+            588,
+            715
+        ],
+        "text": "THE FESTIVAL IS COMING TO AN END...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            690,
+            74,
+            738,
+            182
+        ],
+        "text": "KEEP HER STEADY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            678,
+            616,
+            725,
+            724
+        ],
+        "text": "KEEP HER STEADY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            698,
+            467,
+            701,
+            586
+        ],
+        "text": "STOMP TROMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            796,
+            422,
+            825,
+            478
+        ],
+        "text": "RAAAAA...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1016,
+            77,
+            1094,
+            177
+        ],
+        "text": "...TO LIVE ANOTHER YEAR...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            584,
+            1046,
+            676
+        ],
+        "text": "I HOPE I GET...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

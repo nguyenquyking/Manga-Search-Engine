@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            121,
+            122,
+            174,
+            436
+        ],
+        "text": "VRRRM\nVRRRM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            548,
+            47,
+            636,
+            168
+        ],
+        "text": "I'D BETTER\nDESTROY IT,\nJUST TO BE\nSAFE!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            503,
+            538,
+            569,
+            644
+        ],
+        "text": "WHAT'S\nTHAT\nMACHINE?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            619,
+            481,
+            731,
+            595
+        ],
+        "text": "THE TUBES\nMUST'VE\nSHIELDED\nIT FROM\nDAMAGE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            955,
+            281,
+            1119,
+            669
+        ],
+        "text": "TMP\nTMP\nTMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1286,
+            74,
+            1350,
+            214
+        ],
+        "text": "...MOCKED ME\nAND MY\nTHEORY.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1246,
+            257,
+            1289,
+            346
+        ],
+        "text": "...THE\nWORLD...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1240,
+            826,
+            1307,
+            914
+        ],
+        "text": "SEVENTY\nYEARS\nAGO...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

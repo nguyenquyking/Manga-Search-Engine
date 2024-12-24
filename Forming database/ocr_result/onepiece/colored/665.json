@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            82,
+            359,
+            112,
+            426
+        ],
+        "text": "\u3042\u3042\u3042\u3042\u3042\nRAAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            465,
+            79,
+            489,
+            184
+        ],
+        "text": "CAPTAIN!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            481,
+            224,
+            501,
+            334
+        ],
+        "text": "\u2026TRAFALGAR.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            622,
+            567,
+            744
+        ],
+        "text": "I THOUGHT THAT YOU\nWOULD SHOW\nUP...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            877,
+            57,
+            990,
+            219
+        ],
+        "text": "ONLY A FOOL\nWOULD PLACE ALL\nOF THE HOSTAGES\nWHERE YOU CAN\nSEE THEM.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            274,
+            986,
+            395
+        ],
+        "text": "YOU COULD\nEASILY HELP\nTHEM ESCAPE\nWITH YOUR\nPOWERS.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            482,
+            940,
+            585
+        ],
+        "text": "A POLAR\nBEAR...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            635,
+            946,
+            726
+        ],
+        "text": "THERE\nWAS ONE\nMORE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

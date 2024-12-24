@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            87,
+            326,
+            243,
+            460
+        ],
+        "text": "Langris's magic gouges through space itself!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            636,
+            258,
+            731
+        ],
+        "text": "I used mana method to boost our speed!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            308,
+            16,
+            467,
+            179
+        ],
+        "text": "No matter how powerful they are, your defenses...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            899,
+            465,
+            1054,
+            737
+        ],
+        "text": "...won't mean a thing!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

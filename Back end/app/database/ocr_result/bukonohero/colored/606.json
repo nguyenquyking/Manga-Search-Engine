@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            402,
+            306,
+            470,
+            400
+        ],
+        "text": "I'M NOT GONNA LOSE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            489,
+            429,
+            653
+        ],
+        "text": "EVEN HIGHER THAN HIM, THE \"CHOSEN ONE\"",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            364,
+            742,
+            476,
+            888
+        ],
+        "text": "I'LL TAKE HIS GROWTH AND MAKE IT MY OWN, ALL TO RISE HIGHER.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            673,
+            872,
+            833
+        ],
+        "text": "I CAN'T AFFORD TO STAY A LOSER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

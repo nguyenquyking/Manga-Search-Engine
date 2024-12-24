@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            161,
+            81,
+            267,
+            213
+        ],
+        "text": "YOU JUST\nBIT ONE OF\nTHE FOUR\nEMPERORS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            67,
+            557,
+            229
+        ],
+        "text": "DOES ANYTHING IN THE\nWORLD STILL\nSEEM SCARY\nTO YOU?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            403,
+            520,
+            507,
+            616
+        ],
+        "text": "AFTER\nDOING\nTHAT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            874,
+            43,
+            988,
+            185
+        ],
+        "text": "STOP\nONIGASHIMA\nIN ITS\nTRACKS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            351,
+            959,
+            448
+        ],
+        "text": "THEN\nGO!! YOU\nCAN FLY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1222,
+            70,
+            1263,
+            159
+        ],
+        "text": "THERE'S\nNO WAY...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1199,
+            193,
+            1272,
+            310
+        ],
+        "text": "YEAH, BUT\nTHAT DRAGON\nCOULDN'T HAVE\nBEEN...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1205,
+            354,
+            1267,
+            444
+        ],
+        "text": "DID HE\nJUST SAY\nMOMO?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1193,
+            549,
+            1249,
+            630
+        ],
+        "text": "NO!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1202,
+            762,
+            1227,
+            801
+        ],
+        "text": "N-",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

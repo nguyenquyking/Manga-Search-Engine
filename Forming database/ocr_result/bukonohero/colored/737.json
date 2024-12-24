@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            76,
+            557,
+            79,
+            636
+        ],
+        "text": "DOOOOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            378,
+            109,
+            385,
+            142
+        ],
+        "text": "BAM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1009,
+            266,
+            1021,
+            307
+        ],
+        "text": "BAM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            520,
+            548,
+            593,
+            725
+        ],
+        "text": "JAKU HOSPITAL",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

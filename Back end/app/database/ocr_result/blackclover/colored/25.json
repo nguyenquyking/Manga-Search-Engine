@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            196,
+            528,
+            315,
+            674
+        ],
+        "text": "Just before my death, I had her seal me with her \"Object Imprisonment\" magic, and fell dormant.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            389,
+            49,
+            513,
+            180
+        ],
+        "text": "And with the power of the magic stones, I was able to awaken, albeit not completely...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            722,
+            452,
+            736,
+            507
+        ],
+        "text": "She's...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            880,
+            179,
+            974,
+            250
+        ],
+        "text": "Ah, what're you doing grabbing my hand like...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            374,
+            984,
+            473
+        ],
+        "text": "For 500 years... I was no more than the bird you all now call \"Nero\"...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            493,
+            990,
+            609
+        ],
+        "text": "What a subtle yet immense magic power...! Are they elves, or something greater?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            952,
+            122,
+            1022,
+            211
+        ],
+        "text": "Tha-",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

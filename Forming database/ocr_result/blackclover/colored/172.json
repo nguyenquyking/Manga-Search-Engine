@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            388,
+            19,
+            418,
+            366
+        ],
+        "text": "Twitter:@ColorClovers",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            388,
+            646,
+            419,
+            853
+        ],
+        "text": "@Jatesque",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1062,
+            111,
+            1170,
+            186
+        ],
+        "text": "Is finally over, huh...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1066,
+            674,
+            1146,
+            743
+        ],
+        "text": "This long fight...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

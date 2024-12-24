@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            34,
+            241,
+            104,
+            339
+        ],
+        "text": "GUM-GUM...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            319,
+            216,
+            340,
+            326
+        ],
+        "text": "ELEPHANT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            277,
+            593,
+            375,
+            733
+        ],
+        "text": "WHAT?!\nWAIT, LUFFY,\nNO!! I CANNOT\nDO THIS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            755,
+            602,
+            791,
+            724
+        ],
+        "text": "GUN!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            897,
+            86,
+            942,
+            232
+        ],
+        "text": "BITE KAIDO\nAND HOLD ON!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            297,
+            954,
+            370
+        ],
+        "text": "HEY,\nMOMO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            41,
+            1106,
+            123
+        ],
+        "text": "I CAN'T,\nI CAN'T,\nI CAN'T,\nI CAN'T!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

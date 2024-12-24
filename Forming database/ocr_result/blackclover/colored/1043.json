@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            167,
+            611,
+            318,
+            710
+        ],
+        "text": "...the power to destroy a devil.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            398,
+            47,
+            736,
+            290
+        ],
+        "text": "THOOM\nIn the face of overwhelming power...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            798,
+            479,
+            946,
+            731
+        ],
+        "text": "...every thing is pointless.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

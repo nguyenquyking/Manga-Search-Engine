@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            50,
+            117,
+            140,
+            207
+        ],
+        "text": "Two days after Midoriya returned to U.A.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            650,
+            114,
+            731
+        ],
+        "text": "The next day",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            243,
+            78,
+            393,
+            315
+        ],
+        "text": "Originally, tomorrow was the day Shigaraki would have his perfected body.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            387,
+            643,
+            439,
+            749
+        ],
+        "text": "A deadline extension?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            782,
+            120,
+            865,
+            256
+        ],
+        "text": "...bought us this time.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            323,
+            870,
+            446
+        ],
+        "text": "As a parting gift, Star and Stripe...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            600,
+            883,
+            736
+        ],
+        "text": "But now he'll be out of commission for at least a week.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            502,
+            1107,
+            603
+        ],
+        "text": "We'll use this time to our advantage.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

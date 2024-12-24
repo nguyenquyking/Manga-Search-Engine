@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            349,
+            48,
+            456,
+            275
+        ],
+        "text": "THANKS, LIEBE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            263,
+            916,
+            437,
+            1137
+        ],
+        "text": "BEING ALL ON MY OWN HURT. YOU RESCUED ME FROM THAT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            126,
+            738,
+            324
+        ],
+        "text": "@VAL_CLOVER",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1595,
+            38,
+            1617,
+            100
+        ],
+        "text": "I... am...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            930,
+            122,
+            950,
+            362
+        ],
+        "text": "@COLORCLOVERS",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1042,
+            327,
+            1163,
+            458
+        ],
+        "text": "Ngh... Ghk!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1271,
+            71,
+            1326,
+            151
+        ],
+        "text": "LIEBE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1379,
+            248,
+            1408,
+            307
+        ],
+        "text": "Aah...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1533,
+            391,
+            1603,
+            476
+        ],
+        "text": "WHAT'S WRONG?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            1090,
+            1093,
+            1167
+        ],
+        "text": "BADMP",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

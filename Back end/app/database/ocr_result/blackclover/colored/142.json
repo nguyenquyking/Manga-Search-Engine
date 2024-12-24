@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            41,
+            234,
+            89,
+            294
+        ],
+        "text": "WE... WON!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            351,
+            540,
+            367,
+            657
+        ],
+        "text": "Psycho PP",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            481,
+            653,
+            498,
+            661
+        ],
+        "text": "Huff",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            812,
+            69,
+            941,
+            105
+        ],
+        "text": "......",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

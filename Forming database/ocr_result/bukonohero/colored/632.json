@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            178,
+            88,
+            267,
+            214
+        ],
+        "text": "He's heading for the evacuees!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            476,
+            415,
+            540,
+            563
+        ],
+        "text": "Expand the battle perimeter!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            669,
+            84,
+            781,
+            220
+        ],
+        "text": "Start evacuating the city outskirts too!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1097,
+            284,
+            1171,
+            392
+        ],
+        "text": "No way... Funkman's... really gone!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1054,
+            451,
+            1256,
+            611
+        ],
+        "text": "Hurry!! Every second counts, cuz that thing is coming, and when it gets here, it's all over!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1131,
+            21,
+            1252,
+            166
+        ],
+        "text": "Mourn later!! This evacuation's a race against time!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

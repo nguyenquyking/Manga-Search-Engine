@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            73,
+            114,
+            140,
+            216
+        ],
+        "text": "And I'm going to prove it.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            576,
+            117,
+            684
+        ],
+        "text": "But I've changed.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            617,
+            468,
+            742
+        ],
+        "text": "Until nobody has to worry about me anymore.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            707,
+            159,
+            761,
+            214
+        ],
+        "text": "How about this?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            287,
+            732,
+            323
+        ],
+        "text": "But hey.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            677,
+            432,
+            802,
+            535
+        ],
+        "text": "All the evacuees haven't necessarily had a change of heart?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            724,
+            608,
+            810,
+            744
+        ],
+        "text": "What a man's man! Making my tear ducts cry uncle over here!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            382,
+            858,
+            438
+        ],
+        "text": "Yeah. Guess not...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            959,
+            100,
+            1049,
+            211
+        ],
+        "text": "Now, I'm not saying the situation's the same, but...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

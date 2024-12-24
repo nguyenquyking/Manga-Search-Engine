@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            110,
+            524,
+            148,
+            576
+        ],
+        "text": "NOW THEN.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            333,
+            99,
+            427,
+            172
+        ],
+        "text": "EACH OF YOU,\nFOLLOW\nTHE PLAN.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            795,
+            42,
+            927,
+            147
+        ],
+        "text": "...BUT AS I WATCHED YOUR ABILITIES AND WHAT YOU DID, I BEGAN THINKING THAT IT WOULD BE BETTER TO COOPERATE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            251,
+            820,
+            334
+        ],
+        "text": "YES, I HADN'T ACTUALLY INTENDED TO GET TOO INVOLVED WITH YOUR RESISTANCE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            802,
+            357,
+            916,
+            447
+        ],
+        "text": "...AND YOU'VE BEEN IN CONTACT WITH THE RESISTANCE SINCE YOU LEFT OUR COUNTRY?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            805,
+            558,
+            909,
+            639
+        ],
+        "text": "YOU'RE SAYING YOU WERE UNDER COVER IN THE SPADE KINGDOM...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

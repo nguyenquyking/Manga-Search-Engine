@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            665,
+            145,
+            824,
+            255
+        ],
+        "text": "That... is the Heart Kingdom!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1019,
+            815,
+            1128,
+            944
+        ],
+        "text": "Their water sources, the city and the forest are all mixed together?!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

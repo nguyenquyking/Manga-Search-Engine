@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            90,
+            266,
+            53,
+            382
+        ],
+        "text": "NGHK!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            330,
+            4,
+            452,
+            236
+        ],
+        "text": "THE ONLY THING I'VE FIGURED OUT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            157,
+            359,
+            365,
+            501
+        ],
+        "text": "SO THAT I CAN TEST MY THEORIES",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            39,
+            926,
+            430,
+            1124
+        ],
+        "text": "MY ONLY OPTION... IS TO KEEP GETTING CLOSER... WHILE BARELY SLASHING THROUGH THESE ATTACKS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            589,
+            926,
+            893,
+            1144
+        ],
+        "text": "IS THAT HE CAN'T USE HIS POWER WORD...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            670,
+            3,
+            1004,
+            209
+        ],
+        "text": "TO DEFEND AGAINST MY DARK MAGIC",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

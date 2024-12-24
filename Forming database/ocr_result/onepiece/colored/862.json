@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            198,
+            83,
+            243,
+            166
+        ],
+        "text": "Such a shame...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            174,
+            527,
+            250,
+            657
+        ],
+        "text": "Shogun Orochi! Please, my lord, calm your anger!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            98,
+            540,
+            218
+        ],
+        "text": "I do not wish to crush your head between my jaws.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            49,
+            634,
+            118
+        ],
+        "text": "So beg!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            729,
+            46,
+            838,
+            154
+        ],
+        "text": "Pray for your life, with all of your heart...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            614,
+            528,
+            722
+        ],
+        "text": "What a shame to waste your beauty!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            533,
+            841,
+            703
+        ],
+        "text": "Zoan Type (Mythical) Snake-Snake Fruit\n(Model: Yamata-No-Orochi)",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            957,
+            71,
+            968,
+            101
+        ],
+        "text": "...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            942,
+            595,
+            1070,
+            736
+        ],
+        "text": "...And perhaps I shall lessen your sentence!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

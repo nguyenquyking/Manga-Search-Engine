@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            36,
+            86,
+            55,
+            225
+        ],
+        "text": "\u30a6\u30bd\u30c3\u30d7\u30ae\u30e3\u30e9\u30ea\u30fc\u6d77\u8cca\u56e3",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            38,
+            483,
+            153,
+            574
+        ],
+        "text": "\u77e5\u308c\u306a\u3044!!\n\u304a\u524d\u304b\u3082",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            693,
+            288,
+            716
+        ],
+        "text": "\uff08\u57fc\u7389\u770c \u3072\u307c\u30a2\u30a4\u30a2\u30f3\u3055\u3093\uff09",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            255,
+            125,
+            232,
+            677
+        ],
+        "text": "WE ARE USOPP GALLERY PIRATES",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            348,
+            69,
+            398,
+            328
+        ],
+        "text": "\u5927\u8cde\u3060\u30fc!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            470,
+            108,
+            504,
+            250
+        ],
+        "text": "\u30b5\u30a4\u30f3\u8272\u7d19\u8d08\u5448!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            948,
+            83,
+            967,
+            203
+        ],
+        "text": "\u307f\u3093\u306a\u30cb\u30b3\u30cb\u30b3\n\u3048\u3073\u3059\u753a!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            762,
+            701,
+            980,
+            717
+        ],
+        "text": "\u7121\u6575\u306e\u5263\u864e\u58eb\u5f93!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1128,
+            117,
+            1148,
+            147
+        ],
+        "text": "\u3048",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1152,
+            709,
+            1173,
+            753
+        ],
+        "text": "208",
+        "panel_id": "5",
+        "type": "page_number"
+    }
+]

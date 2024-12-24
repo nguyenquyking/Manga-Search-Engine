@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            133,
+            224,
+            124,
+            282
+        ],
+        "text": "KRASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            147,
+            876,
+            147,
+            956
+        ],
+        "text": "ZABWAM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            582,
+            501,
+            650,
+            636
+        ],
+        "text": "Huh?! Our secret passage!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1100,
+            1094,
+            1100,
+            1176
+        ],
+        "text": "RMMMMBL",
+        "panel_id": "7",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1116,
+            1310,
+            1119,
+            1362
+        ],
+        "text": "SNAP",
+        "panel_id": "7",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            30,
+            408,
+            119,
+            552
+        ],
+        "text": "I had to break through all these flies, desperate to protect their kings!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            314,
+            61,
+            391,
+            187
+        ],
+        "text": "We're both injured... Sounds fair to me, doesn't it?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            226,
+            391,
+            351
+        ],
+        "text": "You intend to stop me on your own, King of the Day?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            336,
+            384,
+            385,
+            490
+        ],
+        "text": "Hurry on ahead!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            327,
+            593,
+            378,
+            740
+        ],
+        "text": "Raizo! Cat!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            601,
+            65,
+            699,
+            234
+        ],
+        "text": "...so that you cannot create any new victims, Jack!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            616,
+            494,
+            674,
+            593
+        ],
+        "text": "I choose it to keep you occupied...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            596,
+            614,
+            695,
+            741
+        ],
+        "text": "I don't choose this fight to settle the scores of the past.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            59,
+            864,
+            181
+        ],
+        "text": "Go and protect Lord Momonosuke, my friends!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

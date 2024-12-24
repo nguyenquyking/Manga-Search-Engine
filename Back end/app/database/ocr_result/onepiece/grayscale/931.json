@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            44,
+            90,
+            78,
+            625
+        ],
+        "text": "\"\u30de\u30c3\u30b7\u30e5\u30eb-MASHLE-\"\u756a\u5916\u7de8",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            49,
+            820,
+            81,
+            896
+        ],
+        "text": "\u7532\u672c\u4e00",
+        "panel_id": "1",
+        "type": "author"
+    },
+    {
+        "text_box": [
+            162,
+            158,
+            253,
+            187
+        ],
+        "text": "\u30e9\u30a4\u30b8\u30f3\u30b0",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            511,
+            129,
+            638,
+            486
+        ],
+        "text": "\u3042\u3063\u3058\u3083\u3042\n\u3069\u3046\u305e\n\u3046\u3063\u8239\u9154\u3044\n\u30db\u30ed\u30ed\u30ed\u30ed\u30ed\uff5e",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            532,
+            232,
+            659,
+            282
+        ],
+        "text": "\u3054\u3081\u3093\u5e30\u308b",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            131,
+            772,
+            161
+        ],
+        "text": "\u3048\uff1f",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            832,
+            686,
+            862
+        ],
+        "text": "5\u5e74\u5f8c",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1089,
+            130,
+            1188,
+            158
+        ],
+        "text": "\u4eba\u306e\u5922\u306f\n\u7d42\u308f\u3089\u306d\u3048",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            910,
+            833,
+            953,
+            865
+        ],
+        "text": "\u30c9\u30c3\u30c8\u306f\n\u4e00\u4eba\u3067\u30b0\u30e9\u30f3\u30c9\n\u30e9\u30a4\u30f3\u3092\u76ee\u6307\n\u3057\u3066\u3044\u305f",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1339,
+            88,
+            1363,
+            597
+        ],
+        "text": "\"\u30de\u30c3\u30b7\u30e5\u30eb-MASHLE-\"\u756a\u5916\u7de8\u2026\u304a\u308f\u308a",
+        "panel_id": "5",
+        "type": "title"
+    }
+]

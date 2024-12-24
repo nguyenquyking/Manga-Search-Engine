@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            176,
+            557,
+            191,
+            610
+        ],
+        "text": "BWAM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            792,
+            304,
+            809,
+            388
+        ],
+        "text": "TOMURA...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            440,
+            834,
+            501
+        ],
+        "text": "BUT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            819,
+            683,
+            891,
+            741
+        ],
+        "text": "DID HE STEAL IT?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            533,
+            958,
+            581
+        ],
+        "text": "NO, HE COULDN'T!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

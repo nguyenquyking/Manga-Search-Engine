@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            130,
+            124,
+            263,
+            258
+        ],
+        "text": "NO LONGER ALONE... I AM...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            419,
+            738,
+            508,
+            847
+        ],
+        "text": "AND I WILL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            111,
+            1150,
+            243
+        ],
+        "text": "...TAKE BACK EVERYTHING!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

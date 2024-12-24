@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            26,
+            451,
+            135,
+            596
+        ],
+        "text": "Their numbers just",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            108,
+            609,
+            190,
+            734
+        ],
+        "text": "Curse you!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            495,
+            29,
+            524,
+            151
+        ],
+        "text": "GROWING!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            667,
+            51,
+            792,
+            153
+        ],
+        "text": "NO!!! They found us!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            875,
+            85,
+            899,
+            127
+        ],
+        "text": "Har!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

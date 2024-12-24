@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            62,
+            356,
+            80,
+            430
+        ],
+        "text": "MAMAN",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            83,
+            137,
+            104,
+            190
+        ],
+        "text": "PAPA",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            243,
+            51,
+            346,
+            206
+        ],
+        "text": "My being quirkless caused you no small amount of dismay.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            512,
+            48,
+            617,
+            187
+        ],
+        "text": "...and never wanted for anything in your own upbringings.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            510,
+            557,
+            614,
+            687
+        ],
+        "text": "Both of you came from wealthy, privileged families...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            777,
+            423,
+            814,
+            483
+        ],
+        "text": "That's why...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            800,
+            622,
+            864,
+            707
+        ],
+        "text": "And the two of you...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            800,
+            107,
+            875,
+            216
+        ],
+        "text": "They say he can give quirks to others.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            869,
+            345,
+            921,
+            449
+        ],
+        "text": "...hoping against all hope...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            899,
+            546,
+            1044,
+            674
+        ],
+        "text": "...fretted over my being different from the other children, even more than I did.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            998,
+            317,
+            1068,
+            437
+        ],
+        "text": "...and wishing only for my happiness...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1008,
+            91,
+            1079,
+            202
+        ],
+        "text": "...you dared to believe a dubious rumor.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

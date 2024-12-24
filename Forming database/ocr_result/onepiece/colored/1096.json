@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            70,
+            231,
+            171,
+            349
+        ],
+        "text": "EVEN THE SHOGUNATE THREW IN THE TOWEL ON THIS VICIOUS PLACE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            430,
+            174,
+            532
+        ],
+        "text": "...TO STEAL AND ATTACK AND SHED BLOOD, DAY AFTER DAY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            64,
+            565,
+            182,
+            718
+        ],
+        "text": "CRIMINALS AND RONIN BANISHED FROM OTHER TOWNS AND REGIONS BANDED TOGETHER THERE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            80,
+            89,
+            168,
+            196
+        ],
+        "text": "AND THAT WAS NONE OTHER THAN KURI.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            168,
+            33,
+            206,
+            69
+        ],
+        "text": "?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            446,
+            212,
+            542,
+            337
+        ],
+        "text": "...AND IDENTIFIED THE MOST DANGEROUS OF ALL THE WICKED MEN THERE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            451,
+            399,
+            518,
+            511
+        ],
+        "text": "...STRODE INTO THAT VERY KURI...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            442,
+            545,
+            534,
+            611
+        ],
+        "text": "THE YOUNG LORD ODEN...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            447,
+            676,
+            458,
+            701
+        ],
+        "text": "\u2026",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            472,
+            31,
+            555,
+            177
+        ],
+        "text": "HE FOUGHT AGAINST ASHURA DOJI, THE \"DEMON CHILD\", AND WAS VICTORIOUS.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            628,
+            41,
+            732,
+            158
+        ],
+        "text": "SOON HE HAD ASSUMED COMMAND OF ALL OF THOSE RUFFIANS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            830,
+            46,
+            934,
+            213
+        ],
+        "text": "...BURSTING WITH FREEDOM AND LAUGHTER. ULTIMATELY, SHOGUN SUKIYAKI DECIDED...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            832,
+            558,
+            936,
+            704
+        ],
+        "text": "HE GAVE THEM WORK TO DO, AND THEY BUILT UP A TOWN, AND THEN A CASTLE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1006,
+            47,
+            1130,
+            228
+        ],
+        "text": "...TO GIVE HIM THE TITLE OF DAIMYO OF KURI, AT THE YOUNG AGE OF 20.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1006,
+            534,
+            1134,
+            711
+        ],
+        "text": "HE EVEN CREATED THE PARADISE FARM FOR THE PEOPLE. IT WAS A LIVELY AND BUSTLING TOWN...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

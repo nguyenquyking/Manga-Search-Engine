@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            92,
+            164,
+            285,
+            403
+        ],
+        "text": "It's just a prophecy! And every power depends on how you use it!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            397,
+            141,
+            527,
+            391
+        ],
+        "text": "Who could have guessed that Poseidon would be a mermaid...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            133,
+            1101,
+            390,
+            1362
+        ],
+        "text": "You're saying your daughter's going to be a weapon that'll destroy the world one day?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            122,
+            915,
+            368
+        ],
+        "text": "Why would you take an interest in this, Roger? I'm disappointed in you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            404,
+            857,
+            509
+        ],
+        "text": "Ten years from now...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            702,
+            630,
+            771,
+            804
+        ],
+        "text": "In ten!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            693,
+            1046,
+            876,
+            1278
+        ],
+        "text": "Hey Sharley, when is this mermaid princess going to be born?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1386,
+            217,
+            1527,
+            408
+        ],
+        "text": "She will not be hairy!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1356,
+            457,
+            1566,
+            656
+        ],
+        "text": "We're not coming back in the future to kidnap your hairy daughter!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1378,
+            715,
+            1540,
+            923
+        ],
+        "text": "Wa ha ha! Feel better now? Don't worry...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1350,
+            1058,
+            1587,
+            1311
+        ],
+        "text": "It's not the weapon we're after, Neptune. It's the people who called it a weapon...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1915,
+            1016,
+            2056,
+            1327
+        ],
+        "text": "Specifically, the vast treasure those people left behind somewhere!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

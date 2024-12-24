@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            0,
+            416,
+            31,
+            495
+        ],
+        "text": "FWASH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            216,
+            653,
+            167,
+            1000
+        ],
+        "text": "@LyUmaho/@CloverColors",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1103,
+            737,
+            1182,
+            979
+        ],
+        "text": "KRAKKADOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1430,
+            575,
+            1471,
+            649
+        ],
+        "text": "WHAT IN...?!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            56,
+            496,
+            196,
+            636
+        ],
+        "text": "You like the sky that much?\nGood! Cuz after I steal One For All, I'll send you straight to heaven!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            322,
+            78,
+            429,
+            219
+        ],
+        "text": "Same goes for that old fool and the others down there!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            38,
+            1029,
+            202
+        ],
+        "text": "You're not gonna hurt them anymore!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

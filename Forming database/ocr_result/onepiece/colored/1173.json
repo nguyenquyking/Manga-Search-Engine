@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            72,
+            143,
+            154,
+            306
+        ],
+        "text": "Well, don't move!! I can crush her in my jaws at any moment!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            86,
+            345,
+            174,
+            440
+        ],
+        "text": "It sounds like you want this kid back...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            595,
+            153,
+            703
+        ],
+        "text": "If you're bold enough to fight back against us...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            204,
+            581,
+            316,
+            704
+        ],
+        "text": "...Then I assume you must be followers of the thief named Shutenmaru!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            264,
+            138,
+            312,
+            194
+        ],
+        "text": "Big bro...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            19,
+            332,
+            107
+        ],
+        "text": "His tummy's a lion.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            409,
+            22,
+            480,
+            93
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            126,
+            476,
+            193
+        ],
+        "text": "And there's a fire in town.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            404,
+            211,
+            486,
+            283
+        ],
+        "text": "Captain, Hawkins is at the gate.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            382,
+            469,
+            479
+        ],
+        "text": "Bakura is just ahead of us!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            509,
+            456,
+            608
+        ],
+        "text": "I'm nearly there!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            632,
+            498,
+            699
+        ],
+        "text": "Master Holdem is...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1021,
+            172,
+            1093,
+            338
+        ],
+        "text": "I have no intention of giving her back,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            392,
+            1122,
+            524
+        ],
+        "text": "I'm gonna save you now, Tama!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            594,
+            1135,
+            688
+        ],
+        "text": "Don't leave me behind, Captain!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

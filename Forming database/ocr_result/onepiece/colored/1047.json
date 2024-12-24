@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            38,
+            51,
+            78,
+            258
+        ],
+        "text": "JUMP COMICS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            102,
+            184,
+            133,
+            364
+        ],
+        "text": "\u5dfb\u4e5d\u5341\u4e8c \"\u82b1\u9b41\u5c0f\u7d2b\u767b\u5834\"",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1119,
+            250,
+            1167,
+            519
+        ],
+        "text": "\u5c3e\u7530\u6804\u4e00\u90ce",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

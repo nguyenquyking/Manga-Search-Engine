@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            39,
+            253,
+            241,
+            411
+        ],
+        "text": "I was dispatched to an eccentric prince, whose talents and magic stood out, even amongst the royals.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            137,
+            768,
+            345,
+            914
+        ],
+        "text": "\"Magic that just opens and closes things is useless,\" so even I, being a noble, was appointed as a servant...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            434,
+            67,
+            507,
+            160
+        ],
+        "text": "...I wonder how cocky this guy will be.",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            608,
+            280,
+            709,
+            412
+        ],
+        "text": "Sorry, I can't greet you properly. I'm in the middle of researching ancient magic.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            101,
+            898,
+            207
+        ],
+        "text": "Oh! By the way, what type of magic do you have?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            722,
+            824,
+            876
+        ],
+        "text": "Heyo, welcome!! You're Sekre, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1227,
+            130,
+            1250,
+            859
+        ],
+        "text": "But the prince was different than I expected.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

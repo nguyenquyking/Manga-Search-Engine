@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            27,
+            165,
+            60,
+            231
+        ],
+        "text": "BADUM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            108,
+            363,
+            174,
+            477
+        ],
+        "text": "How'd you know my name...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            214,
+            733,
+            248,
+            798
+        ],
+        "text": "BADUM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            297,
+            7,
+            324,
+            80
+        ],
+        "text": "Who...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            742,
+            442,
+            874
+        ],
+        "text": "Who...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            526,
+            118,
+            605,
+            258
+        ],
+        "text": "...Are you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1107,
+            13,
+            1226,
+            142
+        ],
+        "text": "I gotta... protect everyone!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            559,
+            898,
+            621
+        ],
+        "text": "Huff",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1273,
+            533,
+            1293,
+            594
+        ],
+        "text": "Huff",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            991,
+            821,
+            995,
+            902
+        ],
+        "text": "BWOOM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1395,
+            396,
+            1406,
+            482
+        ],
+        "text": "Wahhh",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

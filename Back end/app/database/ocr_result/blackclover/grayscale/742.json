@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            28,
+            112,
+            137,
+            188
+        ],
+        "text": "THIS MAGIC IS FAR TOO VAST!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            398,
+            51,
+            484,
+            150
+        ],
+        "text": "I CAN'T NEGATE IT COMPLETELY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            28,
+            903,
+            195,
+            1094
+        ],
+        "text": "Scale Magic: Scale Regulate",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            109,
+            1165,
+            162,
+            1290
+        ],
+        "text": "LUDICROUSLY STRONG!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            1423,
+            101,
+            1517
+        ],
+        "text": "IT'S MAGIC...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            1263,
+            456,
+            1328
+        ],
+        "text": "And yet it's not beautiful!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            634,
+            34,
+            687,
+            83
+        ],
+        "text": "THAT SPELL!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            575,
+            239,
+            709,
+            456
+        ],
+        "text": "IS TO STRIKE BACK WITH MAGIC THAT'S EQUALLY PHENOMENAL!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            939,
+            654,
+            1136
+        ],
+        "text": "THE ONLY WAY TO FIGHT PHENOMENAL MAGIC...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            561,
+            533,
+            565,
+            556
+        ],
+        "text": "VUMM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1000,
+            468,
+            1039,
+            517
+        ],
+        "text": "BASSSSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1015,
+            131,
+            1033,
+            186
+        ],
+        "text": "THAT'S...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            833,
+            1477,
+            831,
+            1506
+        ],
+        "text": "FLASH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            937,
+            1494,
+            965,
+            1539
+        ],
+        "text": "AAAAA",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

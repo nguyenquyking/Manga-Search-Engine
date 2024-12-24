@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            175,
+            67,
+            263,
+            240
+        ],
+        "text": "Ahh...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            362,
+            246,
+            478,
+            446
+        ],
+        "text": "I can't wait...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1133,
+            32,
+            1425,
+            292
+        ],
+        "text": "...to fight that boy again!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1654,
+            177,
+            1782,
+            366
+        ],
+        "text": "AND NONE OF THE OTHER PREPARATIONS HAVE BEEN NEGLECTED...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

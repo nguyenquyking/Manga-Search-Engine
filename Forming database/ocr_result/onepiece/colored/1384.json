@@ -1,0 +1,244 @@
+[
+    {
+        "text_box": [
+            210,
+            105,
+            284,
+            200
+        ],
+        "text": "LET'S TURN THE WORLD UPSIDE DOWN TOGETHER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            207,
+            350,
+            255,
+            429
+        ],
+        "text": "I'M ROGER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            356,
+            421,
+            428
+        ],
+        "text": "THIS MEETING IS FATE, RAYLEIGH!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            437,
+            240,
+            700
+        ],
+        "text": "Reverie Arc\nVoyage Record",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            261,
+            521,
+            291,
+            700
+        ],
+        "text": "The Pirate King",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            300,
+            544,
+            426,
+            682
+        ],
+        "text": "Gol D.\nRoger",
+        "panel_id": "2",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            429,
+            497,
+            486,
+            752
+        ],
+        "text": "At the time that the King of the Pirates\nRoger met his right-hand man, Rayleigh,\nhe was wearing a simple straw hat.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            505,
+            138,
+            529,
+            360
+        ],
+        "text": "Emperor of the Sea",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            540,
+            172,
+            589,
+            328
+        ],
+        "text": "Shanks",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            613,
+            49,
+            756,
+            173
+        ],
+        "text": "In Windmill Village in the East Blue, Shanks\npassed down his straw hat to the\nnext generation, a boy named Luffy!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            502,
+            634,
+            728,
+            760
+        ],
+        "text": "CH,\nIT'S YOU\nMOUNTAIN\nBANDITS\nAGAIN!\nShanks\nwore the\nstraw\nhat ever\nsince\nhe was\na cabin\nboy on\nRoger's\nship.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            804,
+            89,
+            858,
+            150
+        ],
+        "text": "THIS\nBACKPACK HAS\nMY PRECIOUS\nLUNCHBOXES\nIN IT!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            829,
+            320,
+            862,
+            361
+        ],
+        "text": "WHAT\nWAS THAT\nFOR?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            469,
+            833,
+            658
+        ],
+        "text": "And now...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            864,
+            470,
+            890,
+            674
+        ],
+        "text": "Worst Generation",
+        "panel_id": "5",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            898,
+            394,
+            962,
+            746
+        ],
+        "text": "Monkey D. Luffy",
+        "panel_id": "5",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            975,
+            402,
+            1035,
+            744
+        ],
+        "text": "Luffy never lets the straw hat Shanks gave him\nleave his side. Now his pirate moniker is \"Straw\nHat\"!! The hat has become Luffy's trademark.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1057,
+            404,
+            1075,
+            637
+        ],
+        "text": "A Straw Hat Pirate Side Story...?",
+        "panel_id": "6",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1092,
+            326,
+            1162,
+            708
+        ],
+        "text": "There's another pirate who's worn a straw hat aside from these\nthree. He's Demaro Black, aka. Fake Luffy. He fooled many pirates\nand marines, and it seems that the straw hat was doing most of\nthe heavy lifting!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1095,
+            64,
+            1140,
+            101
+        ],
+        "text": "...AND\nBUST US\nOUT OF\nHERE!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            248,
+            1161,
+            306
+        ],
+        "text": "CARIBOU!\nCARIBOU! GET\nTHAT SOLDIER\nFROM BEFORE!\nUSE HIM AS\nA HUMAN\nSHIELD...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1165,
+            713,
+            1177,
+            729
+        ],
+        "text": "84",
+        "panel_id": "7",
+        "type": "page_number"
+    }
+]

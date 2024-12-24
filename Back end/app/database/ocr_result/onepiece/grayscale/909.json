@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            353,
+            101,
+            440,
+            177
+        ],
+        "text": "Pokin' his nose in where it don't belong...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            250,
+            372,
+            288
+        ],
+        "text": "Tch!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            119,
+            490,
+            133,
+            538
+        ],
+        "text": "Zoro?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            91,
+            561,
+            107,
+            592
+        ],
+        "text": "Uh?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            580,
+            274,
+            626,
+            303
+        ],
+        "text": "000",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            622,
+            316,
+            706,
+            408
+        ],
+        "text": "The tool I need just happens to be lying right here!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            601,
+            430,
+            667,
+            491
+        ],
+        "text": "Now this is convenient.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            659,
+            654,
+            677,
+            706
+        ],
+        "text": "Whoa!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

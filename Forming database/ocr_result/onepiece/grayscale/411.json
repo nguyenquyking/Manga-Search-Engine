@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            57,
+            58,
+            124,
+            164
+        ],
+        "text": "Let's start with the first",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            638,
+            166,
+            735
+        ],
+        "text": "Mwahahaha!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            454,
+            79,
+            520,
+            185
+        ],
+        "text": "Hey, Trafalgar!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            682,
+            639,
+            760,
+            725
+        ],
+        "text": "You're mine, kid!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            73,
+            878,
+            186
+        ],
+        "text": "Have your powers awakened?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            969,
+            86,
+            1104,
+            213
+        ],
+        "text": "...But the stamina consumption is extreme, and it ensures I'll lose the battle!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            981,
+            617,
+            1078,
+            727
+        ],
+        "text": "I'm still not used to it... I'll do it if I'm on my last legs...",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

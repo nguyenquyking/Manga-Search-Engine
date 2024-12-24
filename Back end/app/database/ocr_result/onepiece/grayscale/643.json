@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            9,
+            263,
+            16,
+            334
+        ],
+        "text": "RAAAAAAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            62,
+            346,
+            123,
+            425
+        ],
+        "text": "So is it true, Miyagi...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            24,
+            593,
+            129,
+            705
+        ],
+        "text": "Aye... I'll be fine... You just focus on yourself, Sonny...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            299,
+            597,
+            356,
+            728
+        ],
+        "text": "Uh, okay... But I can't help but worry...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            64,
+            359,
+            184
+        ],
+        "text": "Did you have this medicine on Zou the whole durm time?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            202,
+            487,
+            300
+        ],
+        "text": "Yes, but only temporarily. And in return...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            416,
+            618,
+            567,
+            742
+        ],
+        "text": "I don't know enough about it to give it to him... Does it really have ultra-regenerative effects?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            520,
+            218,
+            651,
+            767
+        ],
+        "text": "Ka Dink!  Baby Geezer!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            657,
+            535,
+            777,
+            778
+        ],
+        "text": "BABY GEEZER\nCHOPPER\n(CRUMBLE BALL SIDE EFFECTS)",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            681,
+            183,
+            760,
+            294
+        ],
+        "text": "...You suffer twice as much later...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            102,
+            907,
+            219
+        ],
+        "text": "...is being able to fight now!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            819,
+            283,
+            888,
+            401
+        ],
+        "text": "The only thing that matters...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            803,
+            464,
+            872,
+            566
+        ],
+        "text": "Ah... You heard that?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            806,
+            620,
+            904,
+            737
+        ],
+        "text": "There's no time for debate. Just give it to me!! Huff, huff...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            636,
+            1088,
+            734
+        ],
+        "text": "I don't care what happens to me later...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1108,
+            335,
+            1135,
+            393
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

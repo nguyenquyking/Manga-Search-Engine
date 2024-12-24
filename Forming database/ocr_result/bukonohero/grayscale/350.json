@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            8,
+            89,
+            22,
+            137
+        ],
+        "text": "PWAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            194,
+            98,
+            240,
+            170
+        ],
+        "text": "HIS BODY IS HEALING!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            261,
+            17,
+            358,
+            83
+        ],
+        "text": "NO WONDER JAPAN LOST TO THIS GUY!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            59,
+            577,
+            122,
+            718
+        ],
+        "text": "\"THE LASER IS HOLDABLE!\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            436,
+            282,
+            488,
+            358
+        ],
+        "text": "IS THIS MY CHANCE?",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            437,
+            606,
+            509,
+            712
+        ],
+        "text": "THE VACUUM SHE CREATED IS GONE?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            528,
+            509,
+            618,
+            619
+        ],
+        "text": "DOES NEW ORDER HAVE A LIMITATION OF SOME SORT?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            504,
+            178,
+            555,
+            263
+        ],
+        "text": "TWNG\nTWNG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            954,
+            42,
+            1061,
+            183
+        ],
+        "text": "USING MONSTROUS STRENGTH FOR MIDAIR MOBILITY!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

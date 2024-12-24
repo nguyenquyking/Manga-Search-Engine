@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            70,
+            31,
+            150,
+            139
+        ],
+        "text": "...had to\nbe sold into\na job in the\ncapital.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            64,
+            159,
+            162,
+            240
+        ],
+        "text": "His only\ndaughter,\na girl\nnamed\nToko...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            64,
+            337,
+            169,
+            444
+        ],
+        "text": "It's not what\nyou think. The\nwages from\nmanual labor\nare less than\nbeans.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            486,
+            165,
+            580
+        ],
+        "text": "He's going\naround\nhanding out\nshares of\nfood.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            605,
+            146,
+            699
+        ],
+        "text": "Tonoyasu's\na really\ngenerous\nguy.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            19,
+            301,
+            141
+        ],
+        "text": "Most of her\nearnings, she\nsends back\nto Yasu.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            457,
+            34,
+            576,
+            213
+        ],
+        "text": "...He says it's not\nright to keep it to\nhimself, and he goes\naround to hand out\nthe food to those\nwho can't work.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            462,
+            254,
+            552,
+            358
+        ],
+        "text": "Since Toko\nsends him\nall that\nmoney...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            460,
+            397,
+            542,
+            513
+        ],
+        "text": "Now that\nyou mention it,\nshe laughed\na lot too.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            593,
+            514,
+            665
+        ],
+        "text": "I'm not\na man!\nAha ha!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            644,
+            39,
+            734,
+            140
+        ],
+        "text": "Without\neating any\nof it\nhimself.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            714,
+            573,
+            759,
+            682
+        ],
+        "text": "You mean...\nHer?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            829,
+            39,
+            1122,
+            149
+        ],
+        "text": "BENG!\nHe's\nour\nsain.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            871,
+            577,
+            962,
+            696
+        ],
+        "text": "His face\nand stature\nmay look\nfoolish...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1023,
+            558,
+            1128,
+            698
+        ],
+        "text": "...But he's\nbeen a beloved\nfixture around\nhere for years\nand years.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

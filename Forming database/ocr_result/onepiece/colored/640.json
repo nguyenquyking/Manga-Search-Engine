@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            66,
+            57,
+            159,
+            187
+        ],
+        "text": "Why, you're Queen from Kaido's crew...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            214,
+            123,
+            296
+        ],
+        "text": "What's this...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            332,
+            122,
+            434
+        ],
+        "text": "Why didn't that knock the hag",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            468,
+            121,
+            541
+        ],
+        "text": "W-wait... Are you kidding me?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            616,
+            174,
+            722
+        ],
+        "text": "That's right! I remember everything now!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            193,
+            367,
+            213,
+            435
+        ],
+        "text": "SWISH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            498,
+            53,
+            570,
+            123
+        ],
+        "text": "Aga-ga-ga-ga!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            499,
+            153,
+            558,
+            209
+        ],
+        "text": "I'm gonna die.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            508,
+            235,
+            555,
+            368
+        ],
+        "text": "Wuh-oh! Aiiie...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            391,
+            636,
+            486
+        ],
+        "text": "She's not acting like she was before!! What happened?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            464,
+            653,
+            674,
+            758
+        ],
+        "text": "I'm a goner!! Nope-nope-nope-nope-nope! Forget this monster!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            323,
+            919,
+            345
+        ],
+        "text": "?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            526,
+            870,
+            595
+        ],
+        "text": "\u30c9\u30b7\u30e3\u30f3!! (Doshan!!)",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1042,
+            48,
+            1060,
+            102
+        ],
+        "text": "...?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

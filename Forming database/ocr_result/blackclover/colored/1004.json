@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            753,
+            262,
+            823,
+            610
+        ],
+        "text": "THE WEAK SHOULD\nBE DISCARDED.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            856,
+            47,
+            889,
+            135
+        ],
+        "text": "THEN",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            906,
+            69,
+            921,
+            105
+        ],
+        "text": "...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1003,
+            227,
+            1038,
+            321
+        ],
+        "text": "BIG\nBROTHER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            447,
+            981,
+            535
+        ],
+        "text": "IF EVEN AN\nORDINARY\nDEVIL HAD\nPOWER\nLIKE\nTHAT...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            855,
+            550,
+            1001,
+            754
+        ],
+        "text": "OVERWHELMING\nPOWER IS...\n...EVERYTHING.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

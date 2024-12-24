@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            81,
+            84,
+            160,
+            185
+        ],
+        "text": "WHAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            334,
+            175,
+            532
+        ],
+        "text": "...They also featured a young Whitebeard, Big Mom and Kaido!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            593,
+            180,
+            701
+        ],
+        "text": "In addition to their captain, Rocks...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            542,
+            59,
+            656,
+            187
+        ],
+        "text": "The Golden Lion, the Silver Axe, Captain John, Wang Zhi...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            237,
+            656,
+            380
+        ],
+        "text": "There are other Rocks members who went on to carve out a name for themselves...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            422,
+            638,
+            497
+        ],
+        "text": "I... I can't believe this!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            530,
+            539,
+            642,
+            716
+        ],
+        "text": "Yes, it's true... The three of them were part of the same pirate crew years ago!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            41,
+            854,
+            162
+        ],
+        "text": "This can't be real! How can something this huge be lost to history?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            942,
+            44,
+            1099,
+            178
+        ],
+        "text": "They opened hostilities directly against the world government, like some kind of terrorist organization.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            950,
+            202,
+            1072,
+            328
+        ],
+        "text": "The ambition of their captain, Rocks, was to be \"King of the World.\"",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            950,
+            578,
+            1106,
+            734
+        ],
+        "text": "Well, they got along so terribly, not one of them actually wants to tell the tale...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

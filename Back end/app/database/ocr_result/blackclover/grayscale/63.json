@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            137,
+            56,
+            168,
+            138
+        ],
+        "text": "LICHT...!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            59,
+            870,
+            140
+        ],
+        "text": "LICHT... I...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            766,
+            889,
+            963
+        ],
+        "text": "FROM WITHIN MY SOUL'S DEEP SLUMBER, I SAW EVERYTHING. PATRY.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1043,
+            502,
+            1241,
+            610
+        ],
+        "text": "IN THE MIDST OF THAT HOPELESSNESS, THE ONE WHO KEPT ME FROM HURTING INNOCENT PEOPLE...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1273,
+            847,
+            1412,
+            963
+        ],
+        "text": "FIVE HUNDRED YEARS AGO, WE WERE UNDONE BY THE DEVIL'S PLAN.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1356,
+            253,
+            1510,
+            337
+        ],
+        "text": "...AND FROM CAUSING EVEN MORE DESPAIR, WAS LUMIERE.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

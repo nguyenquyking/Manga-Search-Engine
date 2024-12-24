@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            118,
+            1058,
+            246,
+            1285
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            358,
+            784,
+            382,
+            984
+        ],
+        "text": "CRASH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            449,
+            97,
+            568,
+            344
+        ],
+        "text": "DET DET DET",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            900,
+            110,
+            1030,
+            298
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            370,
+            1000,
+            601
+        ],
+        "text": "OROCHIIII!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            792,
+            1004,
+            944
+        ],
+        "text": "IF YOU GET ANGRY OVER SOMETHING TRIVIAL LIKE THIS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            872,
+            1031,
+            1006,
+            1376
+        ],
+        "text": "NO, ODEN!! DON'T DO IT!!! WAIT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1242,
+            673,
+            1324,
+            807
+        ],
+        "text": "...THE ENEMY WILL ONLY...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1632,
+            1056,
+            1753,
+            1290
+        ],
+        "text": "GYAAAAAA!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

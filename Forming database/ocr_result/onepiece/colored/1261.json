@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            78,
+            40,
+            106,
+            120
+        ],
+        "text": "Wha...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            84,
+            182,
+            168,
+            332
+        ],
+        "text": "A pirate by the name of Ace!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            570,
+            162,
+            703
+        ],
+        "text": "...for a man who promised he would come back to her.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            493,
+            57,
+            573,
+            166
+        ],
+        "text": "...has disembarked and come ashore.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            490,
+            181,
+            579,
+            283
+        ],
+        "text": "It's all but certain that a group of indeterminate number...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            506,
+            420,
+            589,
+            510
+        ],
+        "text": "What shall we do, Headliner?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            521,
+            591,
+            646
+        ],
+        "text": "I'm guessing the signal we lost was from the beach of Kuri.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            726,
+            610,
+            795,
+            703
+        ],
+        "text": "Do not send the message...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            38,
+            870,
+            160
+        ],
+        "text": "I will go.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            603,
+            975,
+            705
+        ],
+        "text": "...up to Kaido yet.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            182,
+            1119,
+            461
+        ],
+        "text": "Beasts Pirates\nHeadliner\nBasil Hawkins",
+        "panel_id": "3",
+        "type": "caption"
+    }
+]

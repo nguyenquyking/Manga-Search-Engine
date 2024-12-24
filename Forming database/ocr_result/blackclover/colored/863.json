@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            156,
+            480,
+            230,
+            585
+        ],
+        "text": "Captain Yami and I worked together...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            219,
+            65,
+            306,
+            180
+        ],
+        "text": "...and we only barely managed to take this guy down!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            696,
+            129,
+            729
+        ],
+        "text": "!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            578,
+            62,
+            682,
+            217
+        ],
+        "text": "You're completely awesome!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            597,
+            647,
+            651,
+            772
+        ],
+        "text": "Mister Magna...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            966,
+            224,
+            984,
+            291
+        ],
+        "text": "Magna",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            465,
+            1009,
+            504
+        ],
+        "text": "What a man!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            905,
+            518,
+            936,
+            574
+        ],
+        "text": "You're so",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            648,
+            988,
+            742
+        ],
+        "text": "Heh! Heh! Heh! Sure I am. Don't sell your seniors short.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            558,
+            1009,
+            632
+        ],
+        "text": "Weez\nWeez",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

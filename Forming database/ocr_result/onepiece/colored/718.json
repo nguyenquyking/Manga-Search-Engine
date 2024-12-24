@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            100,
+            9,
+            222,
+            115
+        ],
+        "text": "He showed up at the hour of the rat. Just like the rat he is!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            343,
+            31,
+            406,
+            120
+        ],
+        "text": "Then why would he steal...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            327,
+            164,
+            411,
+            253
+        ],
+        "text": "I'm not the hero you think I am!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            326,
+            294,
+            409,
+            380
+        ],
+        "text": "I'm sorry to have lied to you!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            317,
+            122,
+            387
+        ],
+        "text": "Wait, so it's not true?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            165,
+            300,
+            240,
+            396
+        ],
+        "text": "I thought the timing didn't match up!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            565,
+            216,
+            708
+        ],
+        "text": "...He was once known as the Daimyo of Hakumai!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            274,
+            524,
+            366,
+            647
+        ],
+        "text": "Shimotsuki Yasui!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            399,
+            633,
+            470,
+            700
+        ],
+        "text": "Lord Yasui!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            223,
+            802,
+            345,
+            919
+        ],
+        "text": "Though he has sunk to being a sycophant by trade in Ebisu Town...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            264,
+            1364,
+            373,
+            1477
+        ],
+        "text": "This man was caught stealing in the capital last night!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            661,
+            308,
+            744,
+            399
+        ],
+        "text": "Lord Yasui!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            741,
+            530,
+            846,
+            687
+        ],
+        "text": "That was a lie!! I figured that if I was going to die...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            900,
+            500,
+            930,
+            535
+        ],
+        "text": "?!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            945,
+            31,
+            1076,
+            153
+        ],
+        "text": "...Has turned into rapt attention toward Yasui's execution.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            925,
+            288,
+            1006,
+            404
+        ],
+        "text": "The uproar over Komurasaki's funeral...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            744,
+            810,
+            855,
+            934
+        ],
+        "text": "...The Witching Hour boy, the thief who strikes at the third hour of the bull in",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            745,
+            951,
+            858,
+            1062
+        ],
+        "text": "He also admitted to being a figure of ill repute within the capital...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            741,
+            1105,
+            878,
+            1275
+        ],
+        "text": "...He is hereby sentenced to death in disgrace alongside the oiran Komurasaki!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            741,
+            1313,
+            877,
+            1471
+        ],
+        "text": "For his terrible past crimes of leading an army in rebellion against Shogun Orochi...",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1062,
+            562,
+            1144,
+            659
+        ],
+        "text": "...I might as well grab your attention!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    }
+]

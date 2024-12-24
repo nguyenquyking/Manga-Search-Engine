@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            166,
+            61,
+            254,
+            114
+        ],
+        "text": "I'M\nON\nIT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            106,
+            372,
+            196,
+            463
+        ],
+        "text": "WORK ON\nCHARGING\nUP POWER\nINSIDE\nME...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            289,
+            353,
+            310,
+            434
+        ],
+        "text": "\u2026BELL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            699,
+            77,
+            753
+        ],
+        "text": "YEAH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            266,
+            655,
+            375,
+            751
+        ],
+        "text": "BUT\nWE CAN'T\nBEAT HIM\nWITH STAR\nMAGIC\nALONE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

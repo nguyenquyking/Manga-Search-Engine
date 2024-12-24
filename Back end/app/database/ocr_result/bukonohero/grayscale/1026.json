@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            13,
+            392,
+            68,
+            572
+        ],
+        "text": "FLOAT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            337,
+            602,
+            401,
+            718
+        ],
+        "text": "THE GIANT VILLAIN IS IN SIGHT!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            423,
+            157,
+            468,
+            224
+        ],
+        "text": "HE'S FAST!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            877,
+            103,
+            934,
+            231
+        ],
+        "text": "HURRY UP WITH THE EVACUATION!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

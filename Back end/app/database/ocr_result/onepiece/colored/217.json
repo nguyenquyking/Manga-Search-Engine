@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            55,
+            698,
+            144,
+            838
+        ],
+        "text": "THE TWO DRAGONS ARE SQUARING OFF!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            520,
+            88,
+            637,
+            199
+        ],
+        "text": "KAIDO-SAMA,\nTHE AZURE\nSEIRYU...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            764,
+            86,
+            854,
+            172
+        ],
+        "text": "I WOULD\nACTUALLY\nBE USEFUL\nTO THE\nOTHERS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            217,
+            832,
+            315
+        ],
+        "text": "IF I COULD\nTURN INTO A\nMONSTER\nLIKE THAT,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            750,
+            571,
+            848,
+            688
+        ],
+        "text": "...IS BEING\nCHALLENGED\nBY THE PINK\nDRAGON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            946,
+            395,
+            1019,
+            516
+        ],
+        "text": "...RIDDEN BY\n\"STRAW HAT\"\nLUFFY!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1011,
+            102,
+            1033,
+            147
+        ],
+        "text": "...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1147,
+            74,
+            1231,
+            239
+        ],
+        "text": "BUT THERE'S\nNO DOUBT IT'S\nHOSTILE!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1107,
+            450,
+            1194,
+            596
+        ],
+        "text": "SO YAMATO\nMUST'VE BEEN\nTHE ONE KEEPING\nKAIDO-SAN\nBUSY...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1111,
+            720,
+            1242,
+            820
+        ],
+        "text": "THE\nDRAGON'S\nIDENTITY\nIS STILL\nUNKNOWN...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

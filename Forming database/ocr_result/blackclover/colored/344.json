@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            137,
+            55,
+            314,
+            238
+        ],
+        "text": "THERE ARE FIVE SPIRIT GUARDIANS IN TIER 0 WHO WILL MAKE YOU STRONGER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            137,
+            728,
+            306,
+            875
+        ],
+        "text": "PLEASE, GATHER THOSE WITH THE POTENTIAL TO FIGHT THE DEMON...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            523,
+            57,
+            683,
+            209
+        ],
+        "text": "AND AFTER HALF A YEAR, WE SHALL ATTACK TOGETHER!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            573,
+            749,
+            686,
+            880
+        ],
+        "text": "...I WANT YOU ALL TO TRAIN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

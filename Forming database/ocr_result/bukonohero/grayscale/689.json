@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            45,
+            86,
+            180,
+            308
+        ],
+        "text": "...was when One For All was truly born.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            45,
+            408,
+            218,
+            667
+        ],
+        "text": "...the moment you reached your hand out to me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            997,
+            253,
+            1033,
+            326
+        ],
+        "text": "Listen up, boy.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            54,
+            264,
+            187,
+            375
+        ],
+        "text": "SH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            110,
+            963,
+            125,
+            1064
+        ],
+        "text": null,
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            587,
+            663,
+            617,
+            783
+        ],
+        "text": null,
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            781,
+            230,
+            900,
+            1287
+        ],
+        "text": "SKREE SKREE SKREE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1563,
+            1144,
+            1712,
+            1321
+        ],
+        "text": "THE FALLS ON THE OUTSIDE OF WANO...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1749,
+            260,
+            1890,
+            404
+        ],
+        "text": "HANG ON, BROTHERS AND SISTERS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1909,
+            113,
+            2019,
+            251
+        ],
+        "text": "YAAAA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2090,
+            208,
+            2095,
+            224
+        ],
+        "text": null,
+        "panel_id": "3",
+        "type": "background"
+    }
+]

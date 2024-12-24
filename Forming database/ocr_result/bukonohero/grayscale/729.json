@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            105,
+            91,
+            180,
+            139
+        ],
+        "text": "I'LL\nDEMOLISH\nHIM.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            79,
+            471,
+            172
+        ],
+        "text": "...IN\nTHE FREE\nWORLD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            358,
+            439,
+            407,
+            494
+        ],
+        "text": "I LOVE\nIT OUT\nHERE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            883,
+            246,
+            930,
+            309
+        ],
+        "text": "WAIT\n!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            43,
+            1108,
+            168
+        ],
+        "text": "YOU CAN'T\nSTAND UP TO\nTHAT BLOOD-\nCRAZED\nVILLAIN!\nYOU HAVE TO RUN!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            499,
+            1118,
+            607
+        ],
+        "text": "OUR\nTOWN'S\nALREADY\nTORN\nAPART!\nNO MORE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

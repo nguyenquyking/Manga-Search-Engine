@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            122,
+            42,
+            248,
+            177
+        ],
+        "text": "...Well, even the pros would get slaughtered by things that are far removed from humanity.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            556,
+            147,
+            674
+        ],
+        "text": "Someone witnessed the carnage yesterday not far from here.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            207,
+            494,
+            287,
+            604
+        ],
+        "text": "When you're up against someone driven solely by violence...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            421,
+            76,
+            550,
+            202
+        ],
+        "text": "All you heroes act so high and mighty, thinking you can force people to live their lives one way or another.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            428,
+            458,
+            493,
+            560
+        ],
+        "text": "We don't got faith in heroes, only ourselves.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            602,
+            456,
+            665
+        ],
+        "text": "Like I said...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            134,
+            780,
+            243
+        ],
+        "text": "Look, we ain't seeing eye to eye, so go home, kid.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            707,
+            524,
+            768,
+            651
+        ],
+        "text": "We're simply more proficient at combat than you fine people.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            70,
+            1046,
+            178
+        ],
+        "text": "Our days of relying on heroes are over.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            917,
+            322,
+            996,
+            443
+        ],
+        "text": "Oh, yeah? Look what's come of trusting smooth lines like that.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1043,
+            520,
+            1093,
+            633
+        ],
+        "text": "Please allow us to protect you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            53,
+            292,
+            126,
+            363
+        ],
+        "text": "Keh... Keh... Keh...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            320,
+            107,
+            425,
+            247
+        ],
+        "text": "...can sometimes be useful.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            309,
+            951,
+            434,
+            1119
+        ],
+        "text": "So even the arbitrary acts of eccentrics...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            448,
+            583,
+            474,
+            606
+        ],
+        "text": "Remembered something.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            870,
+            789,
+            1099
+        ],
+        "text": "Using the wisdom of the Heart Kingdom...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            663,
+            178,
+            692,
+            248
+        ],
+        "text": "AAAAA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1117,
+            72,
+            1353,
+            324
+        ],
+        "text": "...I discovered a way to accelerate the Tree of Qliphoth's growth!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1603,
+            132,
+            1729,
+            254
+        ],
+        "text": "...I'd be blessed with abilities like this.",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1581,
+            951,
+            1736,
+            1104
+        ],
+        "text": "To think that, in exchange for being born blind...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

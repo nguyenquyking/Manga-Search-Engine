@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            126,
+            665,
+            268,
+            826
+        ],
+        "text": "Kanju-rooo!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            157,
+            939,
+            391,
+            1182
+        ],
+        "text": "It shouldn't have made sense to you! None of it, this entire time!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            157,
+            2155,
+            378,
+            2434
+        ],
+        "text": "Why didn't you suspect your own until it came to this?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            944,
+            727,
+            1182
+        ],
+        "text": "Hey, it's true, just like Lord Orochi said! There's a little boat heading for Onigashima!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            641,
+            460,
+            798,
+            611
+        ],
+        "text": "Ka ka ka! I could have kept my secret...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            664,
+            115,
+            844,
+            401
+        ],
+        "text": "...and sunk to the bottom of the sea with you, true to my role to the very end!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            821,
+            1013,
+            975,
+            1172
+        ],
+        "text": "Wa ha ha!! Look at these idiots!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            875,
+            647,
+            915,
+            824
+        ],
+        "text": "CLUNK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            969,
+            92,
+            1128,
+            322
+        ],
+        "text": "But Lord Orochi stopped me. He said, \"Well done, the final act is finished.\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1301,
+            151,
+            1372,
+            424
+        ],
+        "text": "What?! Lord Momonosuke!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1338,
+            473,
+            1405,
+            606
+        ],
+        "text": "Kin'emon!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1274,
+            642,
+            1440,
+            826
+        ],
+        "text": "Once I bring Momonosuke to Onigashima, that is!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1735,
+            143,
+            1845,
+            401
+        ],
+        "text": "Why is Kanjuro back at the port?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1572,
+            995,
+            1616,
+            1175
+        ],
+        "text": "Indeed.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1616,
+            1377,
+            1795,
+            1633
+        ],
+        "text": "And our spy is among them! Is that you?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1572,
+            2260,
+            1824,
+            2460
+        ],
+        "text": "I can't believe it! It really is all those Akazaaya samurai!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

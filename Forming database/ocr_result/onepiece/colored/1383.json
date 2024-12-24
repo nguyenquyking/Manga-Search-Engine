@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            42,
+            44,
+            369,
+            210
+        ],
+        "text": "She seeks to live under the \"Sun\" to honor the wishes of her late mother!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            411,
+            186,
+            502,
+            282
+        ],
+        "text": "SPLASH\nIF WE\nSHOULD\nEVER MEET\nAGAIN!--\nWHOA\nWHAT?",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            465,
+            398,
+            499,
+            436
+        ],
+        "text": "LUFFY!\nIF WE\nSHOULD\nEVER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            424,
+            244,
+            681
+        ],
+        "text": "Reverie Arc\nVoyage Record 6\nFish-man Island",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            286,
+            442,
+            375,
+            721
+        ],
+        "text": "Princess of Ryugu Kingdom\nShirahoshi",
+        "panel_id": "3",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            397,
+            455,
+            469,
+            736
+        ],
+        "text": "A giant smelt mermaid, daughter of Neptune.\nShe's quick to tears, but grows quickly after meeting Luffy. Now she's coming to the surface for the Reverie!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            490,
+            458,
+            675,
+            741
+        ],
+        "text": "...who seeks amity\nbetween\nhuman and fish-\nman!!\nFish-man Island's\nbenevolent\nleader",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            568,
+            220,
+            620,
+            444
+        ],
+        "text": "After Luffy saved Fish-man Island,\nshe made a promise with him to go on\na walk in a forest when they reunite.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            642,
+            226,
+            722,
+            420
+        ],
+        "text": "King of Ryugu Kingdom\nNeptune",
+        "panel_id": "4",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            732,
+            250,
+            799,
+            465
+        ],
+        "text": "King of Fish-man Island. He's attending the Reverie to bring about the dream of his late wife: a world in which fish-men can live under the sun.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            801,
+            26,
+            960,
+            178
+        ],
+        "text": "He heads to\nthe Reverie\nto fulfill the\ndream of\nliving on the\nsurface!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            718,
+            480,
+            792,
+            732
+        ],
+        "text": "Late Queen of Ryugu Kingdom\nOtohime",
+        "panel_id": "5",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            798,
+            481,
+            848,
+            744
+        ],
+        "text": "Shirahoshi's mother, who risked her life seeking understanding with humankind. She was felled by an assassin before her wish could come true.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            868,
+            416,
+            1004,
+            526
+        ],
+        "text": "Neptune's three sons\nare going\nalong to\nprotect\ntheir sister\nShira-\nhoshi!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            994,
+            480,
+            1045,
+            712
+        ],
+        "text": "She protected Myosgard the Celestial Dragon with her own body when his abused slaves struck back.",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1071,
+            62,
+            1087,
+            273
+        ],
+        "text": "Fish-man Island Background",
+        "panel_id": "6",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1099,
+            53,
+            1170,
+            524
+        ],
+        "text": "The Straw Hat Crew reaches Fish-man Island! Awaiting them there was the New Fish-man Pirates, who seek to overturn the country out of their hatred of humankind. In order to save Shirahoshi and his friends on Fish-man Island, Luffy fights back against Captain Hody of the New Fish-man Pirates.",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

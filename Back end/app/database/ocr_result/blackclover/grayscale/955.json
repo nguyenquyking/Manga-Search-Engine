@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            65,
+            583,
+            215,
+            722
+        ],
+        "text": "HMPH!! I'M NOWHERE NEAR THROUGH FIGHTING!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            330,
+            590,
+            408,
+            699
+        ],
+        "text": "True Briar Magic:",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            665,
+            32,
+            812,
+            251
+        ],
+        "text": "Crimson Vine Spear",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

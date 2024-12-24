@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            176,
+            52,
+            222,
+            125
+        ],
+        "text": "HACCHA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            417,
+            49,
+            528,
+            169
+        ],
+        "text": "HEY!! YAMATO JUST TOOK MOMONOSUKE DOWN THAT HOLE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            246,
+            471,
+            353,
+            543
+        ],
+        "text": "DID THAT MYSTERY PERSON DO THAT?! WHO WAS THAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            238,
+            705,
+            278,
+            751
+        ],
+        "text": "HUH...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            479,
+            532,
+            541
+        ],
+        "text": "OH, NO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            50,
+            719,
+            166
+        ],
+        "text": "IT IS IMPERATIVE THAT YOU SURVIVE!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            646,
+            298,
+            693,
+            398
+        ],
+        "text": "YOU MUST SURVIVE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            519,
+            713,
+            607
+        ],
+        "text": "DOWN THE HOLE AND AFTER THEM!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            647,
+            708,
+            742
+        ],
+        "text": "QUIT WASTING TIME!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            84,
+            901,
+            218
+        ],
+        "text": "...TO THE DAWN!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            251,
+            899,
+            388
+        ],
+        "text": "YOU ARE THE ONE WHO MUST GUIDE THE WORLD...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            820,
+            426,
+            867,
+            519
+        ],
+        "text": "MOMONOSUKE...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1033,
+            666,
+            1060,
+            717
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

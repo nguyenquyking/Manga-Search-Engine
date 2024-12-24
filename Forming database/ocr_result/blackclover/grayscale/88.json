@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            158,
+            161,
+            177,
+            203
+        ],
+        "text": "GHK...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            436,
+            393,
+            563,
+            420
+        ],
+        "text": "AAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1225,
+            86,
+            1337,
+            176
+        ],
+        "text": "THANK YOU VERY MUCH-",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

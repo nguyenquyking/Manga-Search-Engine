@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            117,
+            26,
+            472,
+            284
+        ],
+        "text": "AND STALL THEM HERE IN THIS DARK PRISON!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            119,
+            485,
+            314,
+            708
+        ],
+        "text": "KEEP EVADING UNTIL I DIE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            891,
+            233,
+            916,
+            280
+        ],
+        "text": "Why...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            361,
+            885,
+            407
+        ],
+        "text": "And yet...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            879,
+            435,
+            919,
+            487
+        ],
+        "text": "But then...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            156,
+            1043,
+            255
+        ],
+        "text": "Why don't you run away??",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1065,
+            476,
+            1104,
+            531
+        ],
+        "text": "You're fast.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            614,
+            1043,
+            733
+        ],
+        "text": "Yes, good.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            937,
+            674,
+            958,
+            728
+        ],
+        "text": "Good.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

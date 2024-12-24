@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            51,
+            29,
+            119,
+            286
+        ],
+        "text": "MY HERO ACADEMIA",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            153,
+            41,
+            172,
+            315
+        ],
+        "text": "No. 325 - THE BONDS OF ONE FOR ALL",
+        "panel_id": "1",
+        "type": "chapter_title"
+    },
+    {
+        "text_box": [
+            183,
+            38,
+            230,
+            196
+        ],
+        "text": "BY KOHEI HORIKOSHI\nTRANSLATION: CALEB COOK",
+        "panel_id": "1",
+        "type": "credits"
+    },
+    {
+        "text_box": [
+            139,
+            544,
+            159,
+            672
+        ],
+        "text": "MIDORIYA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            670,
+            26,
+            768,
+            122
+        ],
+        "text": "I had to try because I wanna be like you!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            215,
+            701,
+            330
+        ],
+        "text": "But then! That lady stood up and said that stuff!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            613,
+            386,
+            761,
+            471
+        ],
+        "text": "SORRY!\nSo sorry!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            558,
+            709,
+            695
+        ],
+        "text": "I'm sorry! I was... too scared... to run over here!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            67,
+            1062,
+            136
+        ],
+        "text": "That's why...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

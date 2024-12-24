@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            227,
+            114,
+            472,
+            273
+        ],
+        "text": "THERE'S NO WAY TO DODGE THEIR ATTACKS!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            837,
+            361,
+            1000
+        ],
+        "text": "THEIR KI... I CAN'T SENSE THEM AT ALL!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            692,
+            141,
+            785,
+            255
+        ],
+        "text": "WHAT A SHAME.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            684,
+            889,
+            779,
+            1009
+        ],
+        "text": "YOU DID HAVE POTENTIAL, AND YET...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

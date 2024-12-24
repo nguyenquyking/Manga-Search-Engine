@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            150,
+            867,
+            179,
+            1015
+        ],
+        "text": "I MESSED UP...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            656,
+            742,
+            728,
+            895
+        ],
+        "text": "I CAN'T MOVE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            934,
+            902,
+            1027
+        ],
+        "text": "What... is that guy?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1137,
+            200,
+            1377,
+            330
+        ],
+        "text": "The Tree of Qliphoth will link this world to the underworld. To create it, they need...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1312,
+            107,
+            1484,
+            196
+        ],
+        "text": "Arcane Stage Dark Magic and World Tree Magic-",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1139,
+            644,
+            1268,
+            781
+        ],
+        "text": "...the Captain of the Golden Dawn!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

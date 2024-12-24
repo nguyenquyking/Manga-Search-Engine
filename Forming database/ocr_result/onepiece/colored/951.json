@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            84,
+            29,
+            164,
+            186
+        ],
+        "text": "The only thing I might want is an even greater power...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            91,
+            218,
+            133,
+            287
+        ],
+        "text": "Gu hu hu...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            578,
+            186,
+            697
+        ],
+        "text": "Listen. Wano is fully self-sufficient. We have everything we need.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            252,
+            589,
+            312,
+            700
+        ],
+        "text": "Don't our people look so happy?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            238,
+            33,
+            330,
+            137
+        ],
+        "text": "I asked for a battleship this time...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            417,
+            332,
+            487,
+            439
+        ],
+        "text": "That's impossible!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            595,
+            542,
+            703
+        ],
+        "text": "...But next time, it'll cost you Dr. Vegapunk!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            452,
+            222,
+            469,
+            270
+        ],
+        "text": "BLAM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            710,
+            577,
+            798,
+            700
+        ],
+        "text": "I didn't ask you if it was possible or not.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            747,
+            107,
+            847,
+            249
+        ],
+        "text": "The whole lot of you together could not bring our nation to its knees.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            576,
+            979,
+            701
+        ],
+        "text": "Celestial Dragons? Marines? You must know...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            575,
+            1132,
+            703
+        ],
+        "text": "...that the country of Wano does not fear these things.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            51,
+            1128,
+            172
+        ],
+        "text": "I have Kaido backing me up!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

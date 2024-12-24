@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            209,
+            467,
+            291,
+            574
+        ],
+        "text": "Hey... Aren't you-?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            419,
+            400,
+            534,
+            489
+        ],
+        "text": "But your magic was...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            84,
+            711,
+            155
+        ],
+        "text": "ZZZT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            877,
+            488,
+            976,
+            605
+        ],
+        "text": "That man is gone.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1467,
+            90,
+            1610,
+            216
+        ],
+        "text": "I'd like to move on to the main topic.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1734,
+            280,
+            1799,
+            381
+        ],
+        "text": "Please, everyone sit.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1444,
+            1064,
+            1633,
+            1171
+        ],
+        "text": "Now then. We're short on time...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

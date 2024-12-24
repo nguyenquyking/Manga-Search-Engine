@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            328,
+            464,
+            414,
+            616
+        ],
+        "text": "...VANICA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            443,
+            512,
+            458,
+            606
+        ],
+        "text": "@Ritoxriot",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1102,
+            1206,
+            1229,
+            1390
+        ],
+        "text": "YOU LOSE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            1292,
+            761,
+            1392
+        ],
+        "text": "FUOOOH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            925,
+            1800,
+            918,
+            1878
+        ],
+        "text": "FUASH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1145,
+            1878,
+            1149,
+            1948
+        ],
+        "text": "FUOOOH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

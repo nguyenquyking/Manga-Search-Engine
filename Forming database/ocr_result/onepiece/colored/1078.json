@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            100,
+            14,
+            160,
+            103
+        ],
+        "text": "His name is Straw Hat Luffy.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            78,
+            123,
+            180,
+            192
+        ],
+        "text": "A pirate should have come here...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            593,
+            186,
+            699
+        ],
+        "text": "At last we meet, leader of thieves.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            514,
+            32,
+            573,
+            168
+        ],
+        "text": "Beast Pirates Lead Performer\nJACK",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            801,
+            44,
+            868,
+            122
+        ],
+        "text": "Here's your answer.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            298,
+            854,
+            375
+        ],
+        "text": "In that case...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            435,
+            882,
+            545
+        ],
+        "text": "The only reason we have let you live at all...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            595,
+            901,
+            705
+        ],
+        "text": "If I tell you I don't know the guy...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1045,
+            422,
+            1128,
+            561
+        ],
+        "text": "...is because Kaido wishes to have you as a subordinate.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1074,
+            598,
+            1130,
+            703
+        ],
+        "text": "...Will it change your attitude?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            117,
+            1332,
+            183,
+            1751
+        ],
+        "text": "GUM-GUM...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            786,
+            952,
+            915,
+            1193
+        ],
+        "text": "CONQUERER OF THREE WORLDS...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            803,
+            630,
+            920,
+            860
+        ],
+        "text": "RAGNA-RAKU!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            1337,
+            945,
+            1470
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1751,
+            235,
+            1661,
+            441
+        ],
+        "text": "KA-RUNCH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2095,
+            145,
+            2223,
+            362
+        ],
+        "text": "WHAAAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2059,
+            456,
+            2182,
+            652
+        ],
+        "text": "GYAAAAAAA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2046,
+            1524,
+            2185,
+            1769
+        ],
+        "text": "AAAAGH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1565,
+            1543,
+            1696,
+            1784
+        ],
+        "text": "OWWWW!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            97,
+            535,
+            238,
+            667
+        ],
+        "text": "...People were placing that responsibility...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            845,
+            106,
+            993,
+            295
+        ],
+        "text": "...on the shoulders of one man in particular.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

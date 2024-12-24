@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            113,
+            956,
+            268,
+            1039
+        ],
+        "text": "I was wary, but even so...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            124,
+            380,
+            244
+        ],
+        "text": "I thought there was no way I'd lose to humans.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            199,
+            375,
+            325,
+            519
+        ],
+        "text": "It appears... I misjudged...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            487,
+            203,
+            529,
+            999
+        ],
+        "text": "Is that why I let myself take an interest...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            819,
+            212,
+            839,
+            319
+        ],
+        "text": "\u2026humans\u2026",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            865,
+            772,
+            999
+        ],
+        "text": "...your true strength...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1114,
+            251,
+            1148,
+            968
+        ],
+        "text": "...in the power of human emotions...? ",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "text_box": [
+            105,
+            286,
+            211,
+            455
+        ],
+        "text": "...But she's still changing...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            80,
+            517,
+            228,
+            744
+        ],
+        "text": "I was planning to introduce you to Linlin...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            1052,
+            220,
+            1192
+        ],
+        "text": "Today is all about mingling freely!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            1384,
+            274,
+            1564
+        ],
+        "text": "Sure, sounds good. We'll go to the hall later.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            205,
+            122,
+            318,
+            248
+        ],
+        "text": "We can do that later.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            182,
+            2035,
+            320,
+            2158
+        ],
+        "text": "Hey, all of you.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            324,
+            2247,
+            403,
+            2398
+        ],
+        "text": "GYAHAHAHA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            380,
+            2024,
+            460,
+            2339
+        ],
+        "text": "STOMP TROMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            583,
+            2004,
+            721,
+            2155
+        ],
+        "text": "Ever so long time, no see!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            560,
+            2283,
+            725,
+            2460
+        ],
+        "text": "Eeeeek! It's Master Kaido himself! What an honor!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            829,
+            1994,
+            956,
+            2145
+        ],
+        "text": "You know that's not how a fancy lady actually talks, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1086,
+            2347,
+            1207,
+            2462
+        ],
+        "text": "Are you enjoying your drinks?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1347,
+            2014,
+            1499,
+            2219
+        ],
+        "text": "I only wanna drink with you, Kaido!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1330,
+            2273,
+            1497,
+            2465
+        ],
+        "text": "I got nothing to gain from drinking with scrubs!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1382,
+            128,
+            1501,
+            325
+        ],
+        "text": "Huh?! Then who asked for us?",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1368,
+            419,
+            1499,
+            578
+        ],
+        "text": "...It wasn't me who summoned you here.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1363,
+            645,
+            1491,
+            775
+        ],
+        "text": "I know, I know. But the thing is...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1367,
+            852,
+            1505,
+            998
+        ],
+        "text": "Knock it off!!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1370,
+            1049,
+            1489,
+            1195
+        ],
+        "text": "C'mon, get it together already!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1365,
+            1374,
+            1499,
+            1607
+        ],
+        "text": "...Something's come up. That's why you were forced to wait.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1357,
+            1699,
+            1495,
+            1863
+        ],
+        "text": "But while we've been carrying on...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1616,
+            163,
+            1714,
+            302
+        ],
+        "text": "It was me!!",
+        "panel_id": "7",
+        "type": "dialogue"
+    }
+]

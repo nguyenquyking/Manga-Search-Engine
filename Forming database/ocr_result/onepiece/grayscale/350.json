@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            32,
+            75,
+            122,
+            196
+        ],
+        "text": "Do you have all three swords yet?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            57,
+            400,
+            85,
+            471
+        ],
+        "text": "Zing! Zing!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            172,
+            619,
+            249,
+            759
+        ],
+        "text": "Imperial slings and arrows!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            356,
+            428,
+            359,
+            566
+        ],
+        "text": "Gak Gak Gak Gak",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            385,
+            624,
+            458,
+            717
+        ],
+        "text": "Enma!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            761,
+            428,
+            788,
+            530
+        ],
+        "text": "Aaah!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            91,
+            851,
+            168
+        ],
+        "text": "Zoro-Juro...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            607,
+            827,
+            661
+        ],
+        "text": "Kadoom!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1013,
+            71,
+            1092,
+            168
+        ],
+        "text": "...I was told not to say \"Sunacchi.\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

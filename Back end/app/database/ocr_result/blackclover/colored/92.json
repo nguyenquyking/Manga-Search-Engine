@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            100,
+            64,
+            156,
+            186
+        ],
+        "text": "FIRST MAGIC EMPEROR!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            694,
+            20,
+            819,
+            154
+        ],
+        "text": "So our magic has no effect on that demon's magic at all!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            316,
+            769,
+            377
+        ],
+        "text": "Damn it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            6,
+            1028,
+            135
+        ],
+        "text": "He's on a completely different level...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            934,
+            259,
+            1045,
+            380
+        ],
+        "text": "I have the same four-leaf light magic, but...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1147,
+            17,
+            1255,
+            126
+        ],
+        "text": "As I am now, the only thing I can do is...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1127,
+            756,
+            1138,
+            773
+        ],
+        "text": "RGH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            137,
+            21,
+            219,
+            136
+        ],
+        "text": "I KNOW YOU'RE TOUGH...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            411,
+            73,
+            528,
+            178
+        ],
+        "text": "IF YOU GO OUT THERE NOW, YOU WON'T BE ANY HELP.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            567,
+            31,
+            666,
+            114
+        ],
+        "text": "YOU'LL JUST DIE OR GET IN THE WAY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            585,
+            439,
+            682,
+            533
+        ],
+        "text": "THAT SPELL'S NOT COMPLETE YET!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

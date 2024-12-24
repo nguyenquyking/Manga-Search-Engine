@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            68,
+            137,
+            137,
+            202
+        ],
+        "text": "Let me handle the rest.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            61,
+            66,
+            309,
+            675
+        ],
+        "text": "Go find a recovery mage and get yourselves healed!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            167,
+            632,
+            251,
+            697
+        ],
+        "text": "Thanks to you two, I made it in time.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            54,
+            541,
+            154
+        ],
+        "text": "Seriously, what are you?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            446,
+            610,
+            553,
+            709
+        ],
+        "text": "A four-leaf grimoire and a second grimoire...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            816,
+            266,
+            962,
+            364
+        ],
+        "text": "The Vice Captain of the Golden Dawn.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

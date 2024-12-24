@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            233,
+            166,
+            212,
+            259
+        ],
+        "text": "BAKOOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            646,
+            59,
+            716,
+            120
+        ],
+        "text": "NOT THAT AGAIN!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            796,
+            231,
+            845,
+            347
+        ],
+        "text": "DON'T YOU DARE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1007,
+            47,
+            1104,
+            150
+        ],
+        "text": "YOU'RE NOT TAKING THESE SWORDS AWAY!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

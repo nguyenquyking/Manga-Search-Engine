@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            187,
+            181,
+            256,
+            303
+        ],
+        "text": "SLICE",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            208,
+            576,
+            305,
+            728
+        ],
+        "text": "BOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            92,
+            863,
+            225,
+            995
+        ],
+        "text": "FALLEN SNOW SCYTHES!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            262,
+            809,
+            299,
+            961
+        ],
+        "text": "DA DA DA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            608,
+            763,
+            689,
+            962
+        ],
+        "text": "SLICING ROUNDS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            788,
+            840,
+            892,
+            1001
+        ],
+        "text": "HRRR",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1153,
+            595,
+            1244,
+            719
+        ],
+        "text": "...SO WHY CAN THEY CUT ME?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1345,
+            760,
+            1560,
+            1002
+        ],
+        "text": "NONE OF THESE ATTACKS BEAR A RESEMBLANCE TO ODEN'S BLADES. ENOUGH NONSENSE!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

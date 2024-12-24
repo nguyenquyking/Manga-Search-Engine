@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            323,
+            402,
+            362,
+            506
+        ],
+        "text": "LUFFY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            411,
+            547,
+            499
+        ],
+        "text": "YAMA-BRO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            711,
+            47,
+            806,
+            169
+        ],
+        "text": "THANKS A BUNCH, WE OWE YOU BIG TIME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            694,
+            368,
+            811,
+            508
+        ],
+        "text": "YOU WERE KEEPING KAIDO BUSY FOR US?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            1011,
+            861,
+            1212
+        ],
+        "text": "JET CULVERIN!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            705,
+            1482,
+            877,
+            1634
+        ],
+        "text": "WHITE SNAKE RUSH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            945,
+            317,
+            988,
+            492
+        ],
+        "text": "WHAT A RELIEF!! ...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1235,
+            640,
+            1268,
+            716
+        ],
+        "text": "HUH?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

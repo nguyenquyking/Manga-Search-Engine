@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            124,
+            218,
+            180,
+            466
+        ],
+        "text": "THUD",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            387,
+            391,
+            440,
+            505
+        ],
+        "text": "Where's SHOTO?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            380,
+            580,
+            400,
+            713
+        ],
+        "text": "ENDEAVOR!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            560,
+            382,
+            636,
+            507
+        ],
+        "text": "It's just us two here!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            129,
+            756,
+            186
+        ],
+        "text": "RAHHH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1292,
+            451,
+            1317,
+            532
+        ],
+        "text": "HRM...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

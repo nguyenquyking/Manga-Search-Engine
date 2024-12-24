@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            60,
+            609,
+            97,
+            718
+        ],
+        "text": "CHOMP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            67,
+            357,
+            76,
+            427
+        ],
+        "text": "GRRRMM...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            78,
+            156,
+            140,
+            334
+        ],
+        "text": "PURGA\nTHREE... SWORDS?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            811,
+            145,
+            893
+        ],
+        "text": "GUESS I\nCAN MAKE\nDO WITH\nTHIS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            282,
+            57,
+            312,
+            130
+        ],
+        "text": "TORY",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            306,
+            361,
+            349,
+            494
+        ],
+        "text": "THREE SWORD\nSTYLE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            861,
+            673,
+            992
+        ],
+        "text": "ONI\nGIRI\n!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            1120,
+            608,
+            1176
+        ],
+        "text": "HUH\n?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            1381,
+            398,
+            1463
+        ],
+        "text": "HRG...",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            709,
+            1422,
+            781,
+            1504
+        ],
+        "text": "I CAN'T\nPULL IT\nLOOSE!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            1336,
+            926,
+            1404
+        ],
+        "text": "WHOOSH!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

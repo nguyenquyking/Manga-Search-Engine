@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            364,
+            62,
+            409,
+            168
+        ],
+        "text": "WE MUST BRUTALIZE.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            642,
+            575,
+            709,
+            700
+        ],
+        "text": "TH-TH-THOSE ARE OUR ORDERS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            722,
+            868,
+            783
+        ],
+        "text": "BWAM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

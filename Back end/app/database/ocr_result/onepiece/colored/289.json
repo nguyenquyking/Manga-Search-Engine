@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            397,
+            176,
+            413,
+            382
+        ],
+        "text": "@LITTLEXGARDEN",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            393,
+            912,
+            418,
+            1019
+        ],
+        "text": "@Leta_xixi",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            960,
+            197,
+            1069,
+            378
+        ],
+        "text": "SNOW CONE",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

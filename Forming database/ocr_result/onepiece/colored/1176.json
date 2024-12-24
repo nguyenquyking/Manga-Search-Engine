@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            84,
+            28,
+            181,
+            166
+        ],
+        "text": "You belong to the Warrior Class!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            255,
+            26,
+            325,
+            156
+        ],
+        "text": "Wano has a strict class system!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            564,
+            168,
+            693
+        ],
+        "text": "Kill all of her relatives, and leave her with nowhere",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            242,
+            561,
+            337,
+            694
+        ],
+        "text": "Make it so her only option to survive is to rely on your generosity!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            423,
+            98,
+            466,
+            172
+        ],
+        "text": "Heh heh heh...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            493,
+            23,
+            574,
+            127
+        ],
+        "text": "Oh yeah! You're right!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            529,
+            616,
+            691
+        ],
+        "text": "If the star of the national sport is begging for the favor of the lower class, it sets a poor example for the rest!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            717,
+            22,
+            784,
+            105
+        ],
+        "text": "I want you to cook it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            710,
+            143,
+            783,
+            244
+        ],
+        "text": "That has been our pet for years and years...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            715,
+            286,
+            795,
+            400
+        ],
+        "text": "Yokozuna! Did the taste displease you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            435,
+            777,
+            509
+        ],
+        "text": "...with Okiku!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            639,
+            774,
+            707
+        ],
+        "text": "I can do what I please...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            19,
+            876,
+            76
+        ],
+        "text": "What?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            168,
+            1105,
+            252
+        ],
+        "text": "Raccoon dog is my favorite.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1080,
+            287,
+            1136,
+            400
+        ],
+        "text": "I noticed that raccoon dog there...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1112,
+            451,
+            1155,
+            538
+        ],
+        "text": "Thwop",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

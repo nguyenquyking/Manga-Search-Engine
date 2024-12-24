@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            66,
+            332,
+            97,
+            744
+        ],
+        "text": "\u2605COLORING CORNER\u2605",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1125,
+            722,
+            1164,
+            768
+        ],
+        "text": "110",
+        "panel_id": "1",
+        "type": "page_number"
+    }
+]

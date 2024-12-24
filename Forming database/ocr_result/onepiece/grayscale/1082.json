@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            236,
+            72,
+            345,
+            174
+        ],
+        "text": "KAPPA STYLE!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            862,
+            786,
+            1038,
+            982
+        ],
+        "text": "RIVER OF SEA!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1288,
+            523,
+            1372,
+            625
+        ],
+        "text": "HUH?! THEIR ATTACKS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1385,
+            124,
+            1473,
+            227
+        ],
+        "text": "...ARE HURTING KAIDO?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            90,
+            393,
+            187,
+            597
+        ],
+        "text": "RUB RUB RUB",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            915,
+            136,
+            932,
+            208
+        ],
+        "text": "SHIELD!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

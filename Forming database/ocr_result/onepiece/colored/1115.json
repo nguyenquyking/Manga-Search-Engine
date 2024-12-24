@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            66,
+            152,
+            154,
+            228
+        ],
+        "text": "YOU SPEAK TOO LOUDLY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            258,
+            150,
+            352
+        ],
+        "text": "K...K-KYOSHIRO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            535,
+            152,
+            617
+        ],
+        "text": "SHOGUN OROCHI SURE IS A COWARD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            655,
+            118,
+            715
+        ],
+        "text": "HIC! URP...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            124,
+            45,
+            214,
+            120
+        ],
+        "text": "SHUD-DUP, YA JACK-ASS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            324,
+            52,
+            501,
+            196
+        ],
+        "text": "STANDING BEFORE HIS BURNING CASTLE IN HER DYING MOMENTS 20 YEARS AGO, ODEN'S WIFE SPOKE THUS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            324,
+            240,
+            450,
+            371
+        ],
+        "text": "DON'T BE A WIMP! SO WHAT IF ANYONE HEARS? IT'S ONLY THE TRUTH.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            114,
+            832,
+            262
+        ],
+        "text": "KUROZUMI CLAN'S MONEY CHANGER NAPPING KYOSHIRO",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            900,
+            52,
+            998,
+            223
+        ],
+        "text": "...AND CAST NINE SHADOWS ON THE NIGHT WOVEN OF 20 YEARS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1047,
+            62,
+            1147,
+            231
+        ],
+        "text": "AND YOU SHALL KNOW THE BRILLIANCE OF THE DAWN.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            897,
+            593,
+            1128,
+            722
+        ],
+        "text": "\"YOU ARE THE MOON UNAWARE OF THE DAWN... MAY YOUR PURPOSE BE FULFILLED...\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

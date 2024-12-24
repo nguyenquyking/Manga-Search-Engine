@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            85,
+            1313,
+            298,
+            1553
+        ],
+        "text": "WE NEEDED TO GROW STRONGER TOGETHER",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            336,
+            622,
+            427,
+            751
+        ],
+        "text": "...HAVE BEATEN YOU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            893,
+            625,
+            990
+        ],
+        "text": "THE HUMANS WHO REFUSED TO GIVE UP...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

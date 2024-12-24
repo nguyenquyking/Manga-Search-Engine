@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            104,
+            45,
+            292,
+            202
+        ],
+        "text": "I somehow managed to shape the power, but... I don't think I can keep this up very long...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            228,
+            452,
+            360,
+            569
+        ],
+        "text": "You see this, Yuno!? You bastard!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            598,
+            48,
+            791,
+            168
+        ],
+        "text": "You better hold out long enough for us to cut down that guy, Asta!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            534,
+            449,
+            601,
+            570
+        ],
+        "text": "Let's end this in an instant!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            33,
+            663,
+            157,
+            841
+        ],
+        "text": "He's pushed himself further than anyone else in this country.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            661,
+            664,
+            837,
+            814
+        ],
+        "text": "He's an idiot who is the worst at giving up.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

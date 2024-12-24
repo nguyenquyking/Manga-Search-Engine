@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            624,
+            78,
+            704,
+            206
+        ],
+        "text": "THE... LIMIT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            919,
+            119,
+            984,
+            244
+        ],
+        "text": "What a shame.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            988,
+            927,
+            1028,
+            1002
+        ],
+        "text": "Asta!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

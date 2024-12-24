@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            16,
+            6,
+            202,
+            170
+        ],
+        "text": "My magic is able to fight against the devil...so I'll send my mana to everyone through the sword!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            17,
+            566,
+            206,
+            746
+        ],
+        "text": "The Demon-Dweller Sword is a sword that is connected to those it is bonded to. It can absorb mana within itself and also give that mana out to others.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            798,
+            64,
+            1126,
+            139
+        ],
+        "text": "Fusion Magic - Demon-Dweller Sword Protecting Light",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

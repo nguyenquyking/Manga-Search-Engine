@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            71,
+            161,
+            201,
+            285
+        ],
+        "text": "ROBIN!!\nPLEASE\nSNAP OUT\nOF IT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            895,
+            190,
+            1017
+        ],
+        "text": "BANQUET\nHALL,\nTHIRD\nFLOOR",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            490,
+            269,
+            603,
+            627
+        ],
+        "text": "\u3070\u30fc\u3093!!\nOh,\nROBIN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            50,
+            657,
+            226
+        ],
+        "text": "DON'T LISTEN\nTO THAT VOICE,\nROBIN, LISTEN\nTO OURS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            903,
+            133,
+            971,
+            334
+        ],
+        "text": "PROFESSOR\nCLOVER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            527,
+            967,
+            697
+        ],
+        "text": "MOTHER\n!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1354,
+            58,
+            1448,
+            188
+        ],
+        "text": "IT'S BEEN\nSO LONG,\nMY DEAR!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1380,
+            465,
+            1481,
+            556
+        ],
+        "text": "COME\nHERE,\nROBIN!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

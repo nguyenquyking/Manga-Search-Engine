@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            78,
+            86,
+            160,
+            171
+        ],
+        "text": "...of entering the land of Wano.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            85,
+            593,
+            176,
+            725
+        ],
+        "text": "Incidentally, there are actually two methods...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            208,
+            41,
+            306,
+            154
+        ],
+        "text": "One is the risky method of being pulled up by koi fish.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            438,
+            66,
+            542,
+            179
+        ],
+        "text": "From there, a gondola will haul up the crew and cargo.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            440,
+            377,
+            530,
+            492
+        ],
+        "text": "At the end of the cave is Mogura Port.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            423,
+            575,
+            534,
+            714
+        ],
+        "text": "The other is to split a waterfall and pass through caves.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            924,
+            50,
+            1002,
+            146
+        ],
+        "text": "Upon reaching the top of the shaft...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            804,
+            570,
+            830,
+            676
+        ],
+        "text": "FSSSHH...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1036,
+            551,
+            1136,
+            720
+        ],
+        "text": "Naturally, there is no safe passage without the permission of Kaido and Orochi.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            90,
+            53,
+            164,
+            126
+        ],
+        "text": "Isn't that right, Undine?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            423,
+            186,
+            486
+        ],
+        "text": "It's a stage only spirit hosts can attain.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            217,
+            285,
+            306,
+            386
+        ],
+        "text": "One that purifies malice and destroys devils-",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            116,
+            572,
+            215,
+            714
+        ],
+        "text": "Using half of her body, Vanica has physically manifested the supreme devil, Megicula.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            535,
+            170,
+            586,
+            237
+        ],
+        "text": "But in that case...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            31,
+            660,
+            150
+        ],
+        "text": "Instead of relying on Asta and the other arcane stage mages...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            903,
+            78,
+            1028,
+            222
+        ],
+        "text": "...Shouldn't you have trained Captain Fuegoleon and Yuno too?! They're spirit hosts!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            330,
+            1032,
+            475
+        ],
+        "text": "SAINT STAGE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            670,
+            588,
+            784,
+            700
+        ],
+        "text": "While arcane stage mages could finish her off, there's another possibility.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

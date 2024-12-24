@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            245,
+            226,
+            296,
+            287
+        ],
+        "text": "Mamaaa!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            282,
+            664,
+            330,
+            746
+        ],
+        "text": "Gyaaaa!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            369,
+            119,
+            432,
+            204
+        ],
+        "text": "Prometheus, Hera!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            81,
+            614,
+            187
+        ],
+        "text": "What are you doing?! Save me!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            70,
+            783,
+            174
+        ],
+        "text": "Big Mom?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            208,
+            847,
+            273
+        ],
+        "text": "What?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1007,
+            55,
+            1115,
+            149
+        ],
+        "text": "Why isn't she making any noise?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

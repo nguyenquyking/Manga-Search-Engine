@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            66,
+            627,
+            158,
+            788
+        ],
+        "text": "KAIDO-SAN!! The Oni Princess has been throwing a nonstop tantrum for a week!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            136,
+            113,
+            163,
+            140
+        ],
+        "text": "!?",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            260,
+            91,
+            325,
+            186
+        ],
+        "text": "My name is Oden!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            695,
+            54,
+            756,
+            154
+        ],
+        "text": "My name is... Huff, huff...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            518,
+            382,
+            540,
+            486
+        ],
+        "text": "Kozuki Oden!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            525,
+            542,
+            627
+        ],
+        "text": "I'm Oden!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            468,
+            676,
+            557,
+            803
+        ],
+        "text": "Let me out of these chains, Daddy!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            68,
+            982,
+            147
+        ],
+        "text": "Do this?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            874,
+            423,
+            929,
+            506
+        ],
+        "text": "Yamato... Did you...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            847,
+            693,
+            894,
+            745
+        ],
+        "text": "Huff huff",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            907,
+            560,
+            952,
+            613
+        ],
+        "text": "Huff huff",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            912,
+            748,
+            939,
+            842
+        ],
+        "text": "Oden!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

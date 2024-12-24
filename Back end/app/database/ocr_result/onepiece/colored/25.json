@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            177,
+            132,
+            431,
+            641
+        ],
+        "text": "\u308f\u3042\u3041\nRAAA\nCRUSH\nKAIDO, AND\nDON'T WORRY\nABOUT US!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            1022,
+            385,
+            1174
+        ],
+        "text": "RAAAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            213,
+            1471,
+            412,
+            1752
+        ],
+        "text": "GO AHEAD,\nSTRAW\nHAAAT!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            893,
+            220,
+            912,
+            267
+        ],
+        "text": "...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1098,
+            244,
+            1327,
+            379
+        ],
+        "text": "AND\nWHAT'S\nWRONG\nWITH\nTHAT?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1117,
+            1456,
+            1415,
+            1763
+        ],
+        "text": "ARE ALL OF\nYOU SAMURAI\nINSANE?! EVERY\nLAST ONE OF\nUS IS GOING\nTO DIE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1920,
+            196,
+            1972,
+            402
+        ],
+        "text": "SPLAASH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1644,
+            1335,
+            1775,
+            1473
+        ],
+        "text": "I DON'T\nWANNA\nDIE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1644,
+            1583,
+            1775,
+            1750
+        ],
+        "text": "CASTLE\nBASE-\nMENT",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1890,
+            1451,
+            2051,
+            1755
+        ],
+        "text": "DSSHHHH\nI DON'T\nWANNA\nDIE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1901,
+            820,
+            1912,
+            848
+        ],
+        "text": "YEOW!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2431,
+            1365,
+            2655,
+            1684
+        ],
+        "text": "I REFUSE TO\nDIE!! NOT ME!!\nI'M GONNA LIVE,\nNO MATTER IT\nTAKES!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2450,
+            201,
+            2573,
+            495
+        ],
+        "text": "WHAAA?!\nWATER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

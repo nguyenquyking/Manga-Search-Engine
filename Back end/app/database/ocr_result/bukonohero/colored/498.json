@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            77,
+            380,
+            147,
+            703
+        ],
+        "text": "THE SHORTEST ROUTE TO MASTER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            470,
+            91,
+            540,
+            200
+        ],
+        "text": "MADE THE WRONG CHOICE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            541,
+            389,
+            659
+        ],
+        "text": "...IS TOO MUCH OF A DETOUR.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            327,
+            811,
+            394,
+            956
+        ],
+        "text": "\"STOPPING TO DEAL WITH GNATS...\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1100,
+            405,
+            1247,
+            582
+        ],
+        "text": "SHORTEST ROUTE MEANS KEEPING GNATS FROM GETTING UP AGAIN.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            915,
+            688,
+            925,
+            756
+        ],
+        "text": "GLARE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

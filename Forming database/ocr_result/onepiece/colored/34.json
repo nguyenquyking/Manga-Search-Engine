@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            87,
+            138,
+            311,
+            361
+        ],
+        "text": "It's literally a drop in a bucket--and we need a lot more than a bucket!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            133,
+            430,
+            245,
+            615
+        ],
+        "text": "AAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            398,
+            381,
+            398,
+            555
+        ],
+        "text": "\u3042\u3042\nAAA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            142,
+            1543,
+            245,
+            1711
+        ],
+        "text": "BASEMENT",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            478,
+            1435,
+            669,
+            1749
+        ],
+        "text": "SPECIAL ATTACK!\nGREEN STAR-SPRINKLER!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            969,
+            138,
+            1204,
+            351
+        ],
+        "text": "Were you gonna include my name in that list too, Boss?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            739,
+            1207,
+            1014
+        ],
+        "text": "I wanna save Kin and Kiku, and while we're at it, I wanna save myself!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            1066,
+            969,
+            1253
+        ],
+        "text": "Grp!!\n\u304f\u308f\u3063!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            972,
+            1528,
+            1172,
+            1764
+        ],
+        "text": "Shut up!!\nI gotta do something!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1305,
+            1551,
+            1458,
+            1773
+        ],
+        "text": "I made a promise to Izo!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1682,
+            222,
+            1849,
+            443
+        ],
+        "text": "Zoro's life is in danger!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1666,
+            561,
+            1871,
+            787
+        ],
+        "text": "I gotta get this guy to Chopper!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1677,
+            898,
+            1885,
+            1111
+        ],
+        "text": "Where am I supposed to go?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1666,
+            1208,
+            1909,
+            1442
+        ],
+        "text": "How is there this much fire in the castle?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1729,
+            1577,
+            1871,
+            1736
+        ],
+        "text": "RIGHT-BRAIN TOWER",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            2049,
+            130,
+            2223,
+            364
+        ],
+        "text": "We're all gonna burn before that happens!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2371,
+            125,
+            2595,
+            383
+        ],
+        "text": "You keep whinin' like that, and I'll show you a burn!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2089,
+            518,
+            2144,
+            705
+        ],
+        "text": "FWOOOM!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2204,
+            409,
+            2226,
+            626
+        ],
+        "text": "\u30c9\u30c9\u30c9\u30c9",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2464,
+            920,
+            2568,
+            1120
+        ],
+        "text": "Help us, Bro!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1936,
+            1320,
+            2111,
+            1865
+        ],
+        "text": "\u30c9\u30c9\u30c9\u30c9\nSTOMP\nSTOMP STOMP",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

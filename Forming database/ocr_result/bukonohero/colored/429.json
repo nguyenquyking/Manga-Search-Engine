@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            37,
+            530,
+            84,
+            756
+        ],
+        "text": "SAIRO CITY, OSAKA PREFECTURE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            242,
+            281,
+            435
+        ],
+        "text": "THE VILLAIN IS RAMPAGING THROUGH SAIRO AS IF NOTHING'S EVEN THERE!! HE'S DESTROYING EVERYTHING...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            789,
+            499,
+            945,
+            618
+        ],
+        "text": "AHH! DID YOU SEE THAT? AH! RUN! RUN, MA'AM! YOU HAVE TO RUN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            967,
+            60,
+            1100,
+            220
+        ],
+        "text": "I SMELL TWO...? ",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1038,
+            279,
+            1101,
+            423
+        ],
+        "text": "MASTER'S SCENT...",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

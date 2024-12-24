@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            61,
+            40,
+            128,
+            201
+        ],
+        "text": "I DON'T NEED A SINGLE OUNCE OF YOUR LUCK!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            101,
+            260,
+            131,
+            331
+        ],
+        "text": "GO TO HELL.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            400,
+            109,
+            484
+        ],
+        "text": "\u2026KILLER.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            45,
+            632,
+            123,
+            721
+        ],
+        "text": "BEST OF LUCK TO YOU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            143,
+            378,
+            490
+        ],
+        "text": "DOOM!! DOOM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            441,
+            134,
+            446,
+            181
+        ],
+        "text": "RAAAAH!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            470,
+            542,
+            511,
+            618
+        ],
+        "text": "SECOND FLOOR",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            607,
+            68,
+            657,
+            135
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            632,
+            590,
+            731,
+            727
+        ],
+        "text": "GYAAA!! THE DINO-MAN JUMPED ON THE TAIL!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            605,
+            461,
+            616,
+            510
+        ],
+        "text": "DADUM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            899,
+            173,
+            978,
+            308
+        ],
+        "text": "WHAT'LL IT TAKE TO KNOCK HIM OUT, AND HOW MANY SHOTS OF IT?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            32,
+            1093,
+            133
+        ],
+        "text": "AND WHEN WILL YOU FINALLY GIVE UP?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1064,
+            182,
+            1104,
+            304
+        ],
+        "text": "HIS TOUGHNESS IS OUT OF THIS WORLD!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

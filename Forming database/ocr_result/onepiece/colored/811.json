@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            42,
+            55,
+            52,
+            114
+        ],
+        "text": "SWOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            60,
+            57,
+            74,
+            119
+        ],
+        "text": "\u30d0",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            306,
+            196,
+            397,
+            263
+        ],
+        "text": "READY\nTO TRY\nTHIS\nTIME?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            551,
+            93,
+            670
+        ],
+        "text": "He's pretty",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            157,
+            475,
+            172,
+            495
+        ],
+        "text": "\u30cf\u30c3",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            491,
+            137,
+            553,
+            553
+        ],
+        "text": "KLAANG!!\nCLANG!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            711,
+            572,
+            728,
+            623
+        ],
+        "text": "CHING!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            854,
+            363,
+            924,
+            530
+        ],
+        "text": "CLANG!!\nKCHING!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            800,
+            661,
+            816,
+            704
+        ],
+        "text": "RATTLE\nRATTLE",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            898,
+            513,
+            1140,
+            687
+        ],
+        "text": "GANK!!\nTHUP...\nKLINK!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

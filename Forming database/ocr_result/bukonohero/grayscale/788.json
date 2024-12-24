@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            70,
+            57,
+            198,
+            196
+        ],
+        "text": "But by fighting back themselves, they're only wreaking more damage and destruction.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            44,
+            217,
+            169,
+            329
+        ],
+        "text": "...and the citizens who've lost faith in heroes are taking up arms.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            606,
+            141,
+            731
+        ],
+        "text": "Villains are more daring than ever...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            344,
+            592,
+            507,
+            719
+        ],
+        "text": "Our government has put in requests for relief workers and heroes from around the world...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            531,
+            109,
+            709,
+            257
+        ],
+        "text": "...But with the Safety Commission essentially shut down, the paperwork needed to dispatch heroes isn't getting done.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            997,
+            63,
+            1049,
+            175
+        ],
+        "text": "...Your only option is to fight on.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            203,
+            978,
+            294
+        ],
+        "text": "Just as your wife said...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1043,
+            338,
+            1093,
+            427
+        ],
+        "text": "...In just the past two days.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            474,
+            1086,
+            532
+        ],
+        "text": "All of that...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

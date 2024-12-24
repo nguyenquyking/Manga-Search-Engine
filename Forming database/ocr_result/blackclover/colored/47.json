@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            45,
+            565,
+            158,
+            698
+        ],
+        "text": "WE MADE THESE FOR PEACE AND EQUALITY... USE MY MAGIC TOOLS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            186,
+            148,
+            264
+        ],
+        "text": "SEKRE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            338,
+            33,
+            361,
+            132
+        ],
+        "text": "I SEE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            535,
+            560,
+            640,
+            596
+        ],
+        "text": "WE'LL",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            653,
+            233,
+            669,
+            257
+        ],
+        "text": null,
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

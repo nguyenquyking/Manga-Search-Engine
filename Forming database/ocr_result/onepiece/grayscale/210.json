@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            26,
+            333,
+            79,
+            539
+        ],
+        "text": "WHAM!! S!!! ?",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            48,
+            597,
+            109,
+            708
+        ],
+        "text": "ASSIGN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            59,
+            54,
+            95,
+            234
+        ],
+        "text": "N!!! WHAM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            528,
+            618,
+            553,
+            723
+        ],
+        "text": "NWAH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            64,
+            905,
+            112
+        ],
+        "text": "MAMA,\nLOOK",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            86,
+            1099,
+            172
+        ],
+        "text": "I CAN'T\nGET\nLOOSE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1057,
+            509,
+            1077,
+            568
+        ],
+        "text": "I CAN'T...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

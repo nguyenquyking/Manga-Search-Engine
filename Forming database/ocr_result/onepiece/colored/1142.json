@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            109,
+            40,
+            148,
+            136
+        ],
+        "text": "PARADISE FARM",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            106,
+            464,
+            157,
+            558
+        ],
+        "text": "TIME TO HARVEST!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            79,
+            611,
+            159,
+            688
+        ],
+        "text": "FAR END OF BAKURA TOWN",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            372,
+            29,
+            442,
+            133
+        ],
+        "text": "LOAD IT UP ONTO THE CART!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            892,
+            54,
+            969,
+            155
+        ],
+        "text": "I CAN'T EVEN BUY ENOUGH WATER WITH THIS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            209,
+            966,
+            370
+        ],
+        "text": "P-PLEASE... THIS ISN'T ENOUGH TO FEED MY FAMILY FOR A WHOLE WEEK...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            434,
+            972,
+            540
+        ],
+        "text": "...SLIP OUT THROUGH THE BACK WAY TO OKOBORE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            568,
+            949,
+            667
+        ],
+        "text": "ONCE YOU'RE DONE UNLOADING...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            93,
+            1120,
+            175
+        ],
+        "text": "NO TALKING BACK!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            426,
+            1126,
+            508
+        ],
+        "text": "F...FIVE PIECES OF SILVER...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

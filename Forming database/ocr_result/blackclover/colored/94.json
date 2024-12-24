@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            24,
+            25,
+            145,
+            169
+        ],
+        "text": "CONTAIN IT...MAKE IT TAKE FORM...GRASP THE FEELING",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            494,
+            6,
+            588,
+            137
+        ],
+        "text": "GRGH...\nUOOOH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            453,
+            215,
+            562,
+            407
+        ],
+        "text": "JUST LIKE EVERYONE ELSE'S MAGIC...I SHOULD BE ABLE TO...DO SOMETHING",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            76,
+            483,
+            185,
+            554
+        ],
+        "text": "RGH...\nUGUGU\nUGH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            600,
+            592,
+            720
+        ],
+        "text": "THOUGH AT THIS POINT, YOUR POWER IS LIKE A DROP IN THE OCEAN, REALLY...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            339,
+            734,
+            583,
+            849
+        ],
+        "text": "HN HN...\nEVEN THE CORRUPT ELF WHO WAS CHOSEN BY THE FOUR-LEAF CAN DO SOMETHING AFTER ALL...\nBRAVO!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            721,
+            86,
+            738,
+            140
+        ],
+        "text": "...NO...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            808,
+            20,
+            847,
+            95
+        ],
+        "text": "IT'LL BE FINE...!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            352,
+            886,
+            479
+        ],
+        "text": "THIS IS A LONG SHOT, BUT...I CAN TRY USING MY SEALING MAGIC TO SUPPRESS ASTA'S POWER...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            735,
+            676,
+            787,
+            699
+        ],
+        "text": "OW\nMM...\nOW",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            750,
+            776,
+            826,
+            861
+        ],
+        "text": "ARE YOU ALL RIGHT, PRINCE...!?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1160,
+            5,
+            1194,
+            90
+        ],
+        "text": "ASTA!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            522,
+            1105,
+            616
+        ],
+        "text": "ANTI-MAGIC IS AMAZING! I WON'T BE ABLE TO USE MY MAGIC FOR A LITTLE WHILE...",
+        "panel_id": "5",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1124,
+            356,
+            1242,
+            487
+        ],
+        "text": "...WHAT ARE YOU DOING? ALWAYS MESSING AROUND...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1166,
+            600,
+            1236,
+            689
+        ],
+        "text": "...LOOKS LIKE YOU'RE NOT ALL RIGHT...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            41,
+            20,
+            226,
+            335
+        ],
+        "text": "I'M NOT LETTING YOU GO! NO MATTER WHAT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            30,
+            894,
+            231
+        ],
+        "text": "I CAN'T LET YOU GO THROUGH THAT ANYMORE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1213,
+            87,
+            1280,
+            384
+        ],
+        "text": "WHAT KIND OF HERO DO YOU WANT TO BE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1211,
+            1045,
+            1252,
+            1121
+        ],
+        "text": "So...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1568,
+            212,
+            1728,
+            415
+        ],
+        "text": "AND SAVES EVERYONE!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1628,
+            677,
+            1721,
+            798
+        ],
+        "text": "ALWAYS WINS,",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1572,
+            1048,
+            1712,
+            1252
+        ],
+        "text": "THE KIND OF HERO THAT WIPES AWAY EVERYONE'S WORRIES,",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

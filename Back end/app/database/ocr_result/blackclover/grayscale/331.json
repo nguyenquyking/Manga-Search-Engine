@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            128,
+            49,
+            276,
+            206
+        ],
+        "text": "So this is the magic of the Heart Kingdom's Princess!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            128,
+            396,
+            457,
+            543
+        ],
+        "text": "An all-encompassing benevolence, combined with delicacy that doesn't miss a single thing...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            825,
+            479,
+            903,
+            556
+        ],
+        "text": "Come now, Lolo-Pechka.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            78,
+            953,
+            185
+        ],
+        "text": "Change into something proper, would you?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            656,
+            1140,
+            789
+        ],
+        "text": "And she's controlling the water everywhere at will!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1379,
+            635,
+            1481,
+            718
+        ],
+        "text": "She's watering whole forests at a time!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1412,
+            848,
+            1561,
+            974
+        ],
+        "text": "She acquired information from all over the country simultaneously!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1027,
+            1354,
+            1168,
+            1461
+        ],
+        "text": "Whoa! Michely, honey, it's not safe to run around like that!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1193,
+            1139,
+            1308,
+            1254
+        ],
+        "text": "Old Mister Kakalasa's cough is better. That's wonderful.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1107,
+            1970,
+            1204,
+            2056
+        ],
+        "text": "There you go, have some water.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1369,
+            1288,
+            1496,
+            1546
+        ],
+        "text": "My, my. Look at how splendid the Totohl fruits are. Dweh heh heh heh!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1371,
+            1862,
+            1491,
+            1970
+        ],
+        "text": "Ooh, the zozo squirrels are as chipper as ever today.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1328,
+            202,
+            1504,
+            354
+        ],
+        "text": "The current princess has inherited nearly all the power of past princesses.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            73,
+            36,
+            153,
+            137
+        ],
+        "text": "I WILL DO ANYTHING!!\nLET ME STAY HERE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            196,
+            133,
+            311
+        ],
+        "text": "YOU DO NOT LIKE THAT!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            66,
+            380,
+            178,
+            469
+        ],
+        "text": "I AM HOPING TO TRAVEL\nTO WANO, AND...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            497,
+            157,
+            582
+        ],
+        "text": "MY NAME IS TOKI!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            617,
+            118,
+            706
+        ],
+        "text": "AND WHO ARE YOU?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            331,
+            62,
+            374,
+            128
+        ],
+        "text": "AS YOU WISH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            456,
+            74,
+            507,
+            154
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            450,
+            377,
+            502,
+            437
+        ],
+        "text": "YAAA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            456,
+            585,
+            511,
+            699
+        ],
+        "text": "ENEMY ATTACK!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            608,
+            445,
+            708,
+            534
+        ],
+        "text": "WAIT, ODEN,\nWE HAVEN'T\nPLUNDERED\nANYTHING\nYET!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            764,
+            347,
+            786,
+            403
+        ],
+        "text": "BAAAAM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            780,
+            593,
+            855,
+            675
+        ],
+        "text": "WHAT\nIS THIS\nPLACE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            977,
+            349,
+            998,
+            416
+        ],
+        "text": "WOW!!",
+        "panel_id": "3",
+        "type": "exclamation"
+    },
+    {
+        "text_box": [
+            1033,
+            45,
+            1124,
+            144
+        ],
+        "text": "IT WAS A\nWORLD I'D\nNEVER\nSEEN!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1056,
+            421,
+            1132,
+            522
+        ],
+        "text": "WAIT, ODEN!!\nWE HAVE TO\nSCOUT IT OUT\nFIRST!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1060,
+            579,
+            1135,
+            693
+        ],
+        "text": "I'VE NEVER\nSEEN ANYTHING\nLIKE THESE\nBUILDINGS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

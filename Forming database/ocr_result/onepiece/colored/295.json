@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            138,
+            909,
+            289,
+            1069
+        ],
+        "text": "THAT DAMAGE STILL HURTS YOUR REAL BODY, DOESN'T IT?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            177,
+            159,
+            203,
+            270
+        ],
+        "text": "SLASH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            444,
+            847,
+            459,
+            973
+        ],
+        "text": "SLASH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            584,
+            936,
+            757,
+            1062
+        ],
+        "text": "ALL YOU'VE DONE IS GIVEN ME AN EASIER TARGET TO HIT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            592,
+            748,
+            720
+        ],
+        "text": "BIGGER ARMS, AND MORE OF THEM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            537,
+            1024,
+            717
+        ],
+        "text": "MARIA-NETTE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            926,
+            997,
+            950,
+            1116
+        ],
+        "text": "ZWISH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            999,
+            160,
+            999,
+            265
+        ],
+        "text": "SHWIP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1325,
+            814,
+            1404,
+            1039
+        ],
+        "text": "AH, SO YOU NOTICED THE POISON ON MY FEET?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1507,
+            808,
+            1523,
+            879
+        ],
+        "text": "SWISH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

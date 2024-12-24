@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            137,
+            75,
+            246,
+            252
+        ],
+        "text": "THIS IS TRUE TERROR!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            140,
+            715,
+            432,
+            938
+        ],
+        "text": "DEATH IS CREEPING UP ON ME FROM THE DARKNESS, AND I CAN'T SENSE A THING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            32,
+            911,
+            213
+        ],
+        "text": "BOTH ASTA AND I WANT MORE POWER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            430,
+            956,
+            558
+        ],
+        "text": "WHY CAN'T WE UNITE?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            779,
+            996,
+            970
+        ],
+        "text": "OUR BACKS ARE REALLY AGAINST THE WALL, SO WHY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            39,
+            1206,
+            183
+        ],
+        "text": "IF I'M GOING TO AVENGE LICITA...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1083,
+            833,
+            1236,
+            962
+        ],
+        "text": "IF I'M GOING TO SAVE CAPTAIN YAMI...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

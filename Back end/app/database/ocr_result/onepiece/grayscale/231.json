@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            35,
+            272,
+            127,
+            484
+        ],
+        "text": "SHOCK WILLE!!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            612,
+            630,
+            683,
+            730
+        ],
+        "text": "BWUEH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            785,
+            109,
+            847,
+            170
+        ],
+        "text": "HMM?! WHAT'S THIS?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            390,
+            869,
+            451
+        ],
+        "text": "VENGEANCE FOR MAMA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            558,
+            802,
+            631
+        ],
+        "text": "THWUMP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1045,
+            83,
+            1084,
+            178
+        ],
+        "text": "I'M... BEING PULLED...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            43,
+            815,
+            918,
+            965
+        ],
+        "text": "NO... NOT THAT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            990,
+            938,
+            1081
+        ],
+        "text": "THE PENETRATION DOESN'T HURT. THE REAL PAIN IS FROM...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            819,
+            1097,
+            930,
+            1172
+        ],
+        "text": "HUFF, HUFF... I KNOW THE LAST ONE HAD AN EFFECT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            1204,
+            826,
+            1274
+        ],
+        "text": "TRAFFY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            1315,
+            838,
+            1398
+        ],
+        "text": "MAMAAA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            769,
+            1414,
+            818,
+            1509
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1017,
+            1216,
+            1098,
+            1298
+        ],
+        "text": "WHAT'S WITH THAT HUGE SWORD?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1037,
+            1372,
+            1088,
+            1505
+        ],
+        "text": "BIG MOM'S DEAD!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

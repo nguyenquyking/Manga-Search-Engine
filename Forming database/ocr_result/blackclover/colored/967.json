@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            665,
+            87,
+            812,
+            212
+        ],
+        "text": "HAVE NO F-F-FEAR!! I DIDN'T SEE A TH-TH-THING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            646,
+            522,
+            768,
+            658
+        ],
+        "text": "I'M SORRY! I'M SORRY! I'M NAKED! I'M SORRY!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            207,
+            399,
+            325,
+            531
+        ],
+        "text": "Ah!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            785,
+            726,
+            917,
+            900
+        ],
+        "text": "QUEEN LOLOPECHKA! YOU'RE AWAKE, YOUR MAJESTY?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            197,
+            1237,
+            228,
+            1293
+        ],
+        "text": "UH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1125,
+            187,
+            1241,
+            324
+        ],
+        "text": "LOLO-PECH-KAAA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1096,
+            649,
+            1176,
+            734
+        ],
+        "text": "Undine used up all her power.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1184,
+            959,
+            1224,
+            1053
+        ],
+        "text": "NOTHING! I DID NOTHING!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1698,
+            91,
+            1753,
+            232
+        ],
+        "text": "NOELLE... UNDINE...!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1600,
+            646,
+            1726,
+            858
+        ],
+        "text": "LOLOPECHKA! I'M SO GLAD YOU'RE ALIVE!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1388,
+            1035,
+            1398,
+            1118
+        ],
+        "text": "PAAAF",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1564,
+            1190,
+            1801,
+            1317
+        ],
+        "text": "WHAT ARE YOU DOING, DORK-STA?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1362,
+            75,
+            1362,
+            164
+        ],
+        "text": "FUASH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

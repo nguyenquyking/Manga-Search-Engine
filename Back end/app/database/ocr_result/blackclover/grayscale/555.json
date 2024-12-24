@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            169,
+            151,
+            297,
+            288
+        ],
+        "text": "...The twist tends to make others find them more likable.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            148,
+            431,
+            305,
+            572
+        ],
+        "text": "When nasty-looking people or those who have done evil suddenly do something good...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            409,
+            131,
+            499,
+            216
+        ],
+        "text": "I hate that.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            289,
+            926,
+            481,
+            1029
+        ],
+        "text": "If you don't want to be judged by the way you look...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            572,
+            797,
+            668,
+            915
+        ],
+        "text": "...Then don't look like that.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            881,
+            108,
+            1054,
+            261
+        ],
+        "text": "...Who are good from the beginning.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            902,
+            884,
+            1048,
+            1028
+        ],
+        "text": "The greatest people are those...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1321,
+            188,
+            1430,
+            322
+        ],
+        "text": "Even so, if you want to save his worthless hide...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1288,
+            822,
+            1440,
+            943
+        ],
+        "text": "You are just a bunch of good-for-nothings that Yami recruited.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            81,
+            52,
+            169,
+            144
+        ],
+        "text": "...Clearly you actually killed someone.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            603,
+            143,
+            699
+        ],
+        "text": "Whether this is really him or not...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            288,
+            10,
+            353,
+            117
+        ],
+        "text": "At least a few more of those high-end Nomu...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            291,
+            187,
+            328,
+            285
+        ],
+        "text": "and probably...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            277,
+            312,
+            381,
+            432
+        ],
+        "text": "Detnerat...with its deep ties to industry.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            280,
+            463,
+            378,
+            550
+        ],
+        "text": "Feel Good Inc., with total control of the network.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            283,
+            608,
+            413,
+            729
+        ],
+        "text": "An army's worth of soldiers, united under a single, commanding will.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            574,
+            45,
+            676,
+            185
+        ],
+        "text": "...Have amassed power on par with those very heroes.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            571,
+            209,
+            619,
+            333
+        ],
+        "text": "...You, Shigaraki...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            583,
+            392,
+            687,
+            541
+        ],
+        "text": "Even in this superpowered society overflowing with heroes...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            591,
+            610,
+            624,
+            698
+        ],
+        "text": "You could do whatever you want...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            890,
+            41,
+            952,
+            133
+        ],
+        "text": "Maybe even greater.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1025,
+            594,
+            1041,
+            705
+        ],
+        "text": "...Shigaraki!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

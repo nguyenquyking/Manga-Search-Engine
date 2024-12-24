@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1007,
+            113,
+            1025,
+            154
+        ],
+        "text": "HFF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            275,
+            672,
+            284,
+            733
+        ],
+        "text": "00000",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1025,
+            79,
+            1110,
+            189
+        ],
+        "text": "Why don't you come out, instead of lurking and watching?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

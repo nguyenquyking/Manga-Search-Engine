@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            42,
+            137,
+            105,
+            272
+        ],
+        "text": "...that you actually have a chance...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            32,
+            300,
+            125,
+            371
+        ],
+        "text": "...If you pry them away from me...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            480,
+            112,
+            548
+        ],
+        "text": "What's this?! You think...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            590,
+            89,
+            723
+        ],
+        "text": "Punk...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            338,
+            561,
+            364,
+            723
+        ],
+        "text": "Pistols!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            69,
+            113,
+            112
+        ],
+        "text": "CLANG!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            388,
+            169,
+            409,
+            228
+        ],
+        "text": "CLANK!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            483,
+            571,
+            607,
+            724
+        ],
+        "text": "...of beating me?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

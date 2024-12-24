@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            90,
+            59,
+            133,
+            148
+        ],
+        "text": "Poor Shoto...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            238,
+            21,
+            436,
+            857
+        ],
+        "text": "GLOMP\nBOOM\nBOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            520,
+            47,
+            598,
+            174
+        ],
+        "text": "No fun for you.\nJust pain.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            722,
+            530,
+            852
+        ],
+        "text": "Aw, your friends are having a blast down there.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            702,
+            8,
+            732,
+            261
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            779,
+            44,
+            960,
+            218
+        ],
+        "text": "The guy's about to watch his puppet masterpiece burn up and die in the fire of his failed experiment, and he can't do anything!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1044,
+            28,
+            1204,
+            240
+        ],
+        "text": "Ngh...\nI said look!\nHe's totally broken inside!!\nHa ha ha ha!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            622,
+            1011,
+            719
+        ],
+        "text": "But...\nYou're...\nBurning up... too!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1273,
+            453,
+            1340,
+            555
+        ],
+        "text": "Cuz look at that face.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1129,
+            768,
+            1239,
+            899
+        ],
+        "text": "Seriously, it's great that you were raised with love.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1305,
+            752,
+            1392,
+            892
+        ],
+        "text": "I'm fine, because I'm really happy right now.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            35,
+            614,
+            113,
+            666
+        ],
+        "text": "THE MAGIC STONES",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            88,
+            12,
+            312,
+            105
+        ],
+        "text": "SEALING MAGIC: ETERNAL PRISON!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            112,
+            288,
+            232,
+            424
+        ],
+        "text": "I DON'T CARE...!!! WITH THESE MAGIC STONES I'LL RAISE MY MAGIC TO ITS LIMIT...!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            165,
+            562,
+            372,
+            669
+        ],
+        "text": "...HN HN HN... BUT IF ONE UNLOVED BY MANA USED THOSE FOR EVEN THE LOWEST LEVELS OF MAGIC, WOULD THEY STILL BE HUMAN, I WONDER...?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            396,
+            11,
+            545,
+            162
+        ],
+        "text": "Nochii SHE DOESN'T EVEN CARE ABOUT THE BACKLASH FROM USING FORBIDDEN MAGIC!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            477,
+            173,
+            558,
+            238
+        ],
+        "text": "THIS LITTLE GIRL...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            506,
+            255,
+            556,
+            421
+        ],
+        "text": "A SEALING-TYPE MAGIC...!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            787,
+            570,
+            848,
+            636
+        ],
+        "text": "...THIS IS...!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            967,
+            99,
+            1040,
+            179
+        ],
+        "text": "I'LL BIDE MY TIME IN THE SOUL OF THE FOURTH LEAF...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1082,
+            6,
+            1141,
+            97
+        ],
+        "text": "AND SOW THE SEEDS OF SORROW AND DESPAIR...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            543,
+            1096,
+            702
+        ],
+        "text": "HER SEAL IS TROUBLESOME... BUT IF I WERE ABLE TO REINCARNATE, THEN...!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1140,
+            436,
+            1213,
+            498
+        ],
+        "text": "\"COME\"...!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1169,
+            208,
+            1222,
+            248
+        ],
+        "text": "WHAT ARE YOU-",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            85,
+            365,
+            138,
+            450
+        ],
+        "text": "...Do you rage like this?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            519,
+            92,
+            572
+        ],
+        "text": null,
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            424,
+            278,
+            459,
+            370
+        ],
+        "text": "Regrets... such as?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            374,
+            430,
+            445,
+            540
+        ],
+        "text": "I just wanna live without regrets.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            701,
+            197,
+            736,
+            278
+        ],
+        "text": "...Goto Imasuji?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            292,
+            754,
+            376
+        ],
+        "text": "Was there really no other path for you...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            429,
+            748,
+            539
+        ],
+        "text": "Such as not indulging and having fun every chance I get!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            950,
+            342,
+            984,
+            465
+        ],
+        "text": "NOPE!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

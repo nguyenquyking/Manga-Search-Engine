@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            48,
+            143,
+            154,
+            291
+        ],
+        "text": "It was all made possible by a 16-year-old young lady.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            58,
+            625,
+            149,
+            713
+        ],
+        "text": "Great! Let's make it fly!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            318,
+            266,
+            362,
+            353
+        ],
+        "text": "...and yet another program...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            299,
+            509,
+            401,
+            573
+        ],
+        "text": "...plus a mechanism to counter your decay quirk...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            283,
+            714,
+            431,
+            774
+        ],
+        "text": "The shelter and evacuation system created by the principal...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            448,
+            73,
+            534,
+            168
+        ],
+        "text": "To miniaturize the segmented blocks and launch them like drones.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            605,
+            284,
+            697,
+            393
+        ],
+        "text": "...The tight turnaround for the construction...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            645,
+            610,
+            770,
+            740
+        ],
+        "text": "The remaining problems were a lack of materials due to the ravaged economy...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            956,
+            118,
+            1080,
+            237
+        ],
+        "text": "...required for the mechanical systems and electromagnetic barrier.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            966,
+            636,
+            1038,
+            735
+        ],
+        "text": "...and the prodigious amount of energy...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

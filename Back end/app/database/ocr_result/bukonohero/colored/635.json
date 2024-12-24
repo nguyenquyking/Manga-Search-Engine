@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            72,
+            213,
+            251,
+            402
+        ],
+        "text": "FIRST WE HEAR \"ONE FOR ALL,\" AND THEN THAT HE'S HEADING OUR WAY... THAT AIN'T EXACTLY SOLID PROOF, BUT STILL...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            765,
+            107,
+            847,
+            301
+        ],
+        "text": "...YOU KNOW YOU'D BETTER START MOVING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            655,
+            657,
+            862,
+            853
+        ],
+        "text": "YEAH, I GOTTA PRIORITIZE THE PEOPLE'S SAFETY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1067,
+            144,
+            1136,
+            229
+        ],
+        "text": "I'LL BE RIGHT BACK!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1061,
+            456,
+            1101,
+            585
+        ],
+        "text": "I... FORGOT SOMETHING!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1270,
+            746,
+            1317,
+            841
+        ],
+        "text": "HUH? WHERE ARE YOU GOING?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

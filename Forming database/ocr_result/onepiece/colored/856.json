@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            79,
+            28,
+            158,
+            143
+        ],
+        "text": "Let's get in touch with that thing you've got.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            186,
+            169,
+            319
+        ],
+        "text": "Orobi's group should have been there when it happened. They okay?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            345,
+            163,
+            439
+        ],
+        "text": "And where's your tact?! Where's your delicacy?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            459,
+            142,
+            543
+        ],
+        "text": "Says here the funeral's tomorrow.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            60,
+            574,
+            151,
+            687
+        ],
+        "text": "The death of a beautiful woman is a loss for the entire world, idiot!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            375,
+            13,
+            458,
+            146
+        ],
+        "text": "The snail, you mean?! These smart snails are Wano's version of transponders.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            181,
+            464,
+            248
+        ],
+        "text": "I'm worried too.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            546,
+            28,
+            631,
+            155
+        ],
+        "text": "Nothing about Straw Hat... but... Eustass Kid?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            206,
+            613,
+            338
+        ],
+        "text": "You bet he is! Can't wait to see him again!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            370,
+            636,
+            513
+        ],
+        "text": "Yeah, he's probably shaken it off by now. He'll be ready to rage!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            544,
+            544,
+            638,
+            703
+        ],
+        "text": "Women's bath... Traffy! Are there any articles about Udon, where Luffytar\u014d is?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            15,
+            822,
+            58
+        ],
+        "text": "Huh?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            25,
+            983,
+            110
+        ],
+        "text": "Would you focus on what's important already?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            146,
+            976,
+            243
+        ],
+        "text": "By the way, do you know where I can find a bath-house?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            291,
+            979,
+            420
+        ],
+        "text": "So it makes sense that he'd be here too, but they're clearly not in the same position...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            444,
+            970,
+            559
+        ],
+        "text": "Hawkins is here, and they're in the same alliance.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            600,
+            973,
+            694
+        ],
+        "text": "Women's bath... He's in Wano too?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1045,
+            286,
+            1117,
+            366
+        ],
+        "text": "According to this, he broke out of jail.",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            77,
+            35,
+            259,
+            183
+        ],
+        "text": "...But then I decided it would be more entertaining to tell you, and watch you struggle to attack me.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            65,
+            550,
+            227,
+            722
+        ],
+        "text": "It would have been satisfying to allow you to kill Kid yourself without realizing what you'd done...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            385,
+            59,
+            512,
+            205
+        ],
+        "text": "...is by personally killing your own captain!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            611,
+            494,
+            715
+        ],
+        "text": "The only way you can finish me off...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            733,
+            94,
+            826,
+            207
+        ],
+        "text": "I like your style!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            241,
+            796,
+            347
+        ],
+        "text": "Fwa fwa fwah!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            720,
+            542,
+            830,
+            673
+        ],
+        "text": "Go on, then... put on a show for me!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            211,
+            192,
+            238,
+            363
+        ],
+        "text": "Hawkins!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            302,
+            90,
+            362,
+            167
+        ],
+        "text": "What's going on, Kid?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            306,
+            197,
+            360,
+            319
+        ],
+        "text": "You seem to be in much better spirits now!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            310,
+            355,
+            367,
+            487
+        ],
+        "text": "In Strawman cards, \"The Tower\" means...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            550,
+            101,
+            627,
+            175
+        ],
+        "text": "And its hidden meaning is...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            543,
+            404,
+            642,
+            484
+        ],
+        "text": "...the collapse of the old and brittle.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            684,
+            65,
+            727,
+            174
+        ],
+        "text": "\"A new way forward.\"",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            687,
+            406,
+            744,
+            500
+        ],
+        "text": "My body feels much lighter...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            585,
+            1042,
+            661,
+            1204
+        ],
+        "text": "Spin & Sonic!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            771,
+            852,
+            845,
+            981
+        ],
+        "text": "You did it!! Way to go, Killer!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            421,
+            887,
+            501
+        ],
+        "text": "Get going",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            595,
+            888,
+            644
+        ],
+        "text": "Huff, huff...",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            870,
+            54,
+            932,
+            189
+        ],
+        "text": "Partner!!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1123,
+            43,
+            1140,
+            203
+        ],
+        "text": "To be continued!",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

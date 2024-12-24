@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            48,
+            655,
+            129,
+            742
+        ],
+        "text": "PERFORMANCE\nFLOOR,\nINSIDE THE\nDOME",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            258,
+            50,
+            362,
+            173
+        ],
+        "text": "...OF THE\nONIWABANSHU\nAND MIMAWARI-\nGUMI ARE\nDOWN!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            254,
+            608,
+            346,
+            716
+        ],
+        "text": "I DON'T\nBELIEVE IT!!\nVIRTUALLY\nALL THE\nCAPTAINS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            515,
+            76,
+            542,
+            289
+        ],
+        "text": "BENG!\nCOMMANDER",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            518,
+            423,
+            575,
+            512
+        ],
+        "text": "KAZE-\nKAGE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            522,
+            635,
+            577,
+            733
+        ],
+        "text": "DAIKOKU\n!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            589,
+            659,
+            651
+        ],
+        "text": "BENG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            856,
+            69,
+            954,
+            231
+        ],
+        "text": "I THINK I CAN\nSEE WHY PEOPLE\nFEARED WANO\nSO MUCH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            858,
+            288,
+            938,
+            361
+        ],
+        "text": "...BUT\nSTILL\nUSED ITS\nPOWER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            867,
+            383,
+            946,
+            480
+        ],
+        "text": "HE\nRESISTED\nTHE EFFECTS\nOF THE\nICE ONI...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            543,
+            949,
+            694
+        ],
+        "text": "SO THAT'S\nTHE POWER OF\nTHE LEGENDARY\nYAKUZA, HUH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

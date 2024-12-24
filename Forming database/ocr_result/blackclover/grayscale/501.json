@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            328,
+            898,
+            355,
+            995
+        ],
+        "text": "Nacht",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1246,
+            40,
+            1425,
+            985
+        ],
+        "text": "Black Clover",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1440,
+            465,
+            1544,
+            982
+        ],
+        "text": "27 THE DEVIL-BINDING RITUAL",
+        "panel_id": "1",
+        "type": "subtitle"
+    },
+    {
+        "text_box": [
+            1486,
+            135,
+            1513,
+            420
+        ],
+        "text": "YUKI TABATA",
+        "panel_id": "1",
+        "type": "author"
+    }
+]

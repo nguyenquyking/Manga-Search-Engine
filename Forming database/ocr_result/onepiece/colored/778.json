@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            166,
+            174,
+            212,
+            256
+        ],
+        "text": "ALPACA-MAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            70,
+            243,
+            156
+        ],
+        "text": "MADILLO-MAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            176,
+            482,
+            250,
+            548
+        ],
+        "text": "YEAH!! GET 'EM!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            638,
+            183,
+            704
+        ],
+        "text": "EXCAVATION\nLABOR\nCAMP\nUDON",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            429,
+            59,
+            489,
+            139
+        ],
+        "text": "PACA CA CA!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            448,
+            486,
+            579
+        ],
+        "text": "WISH I COULD\nSUMO WRESTLE\nTOO...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            739,
+            51,
+            854,
+            162
+        ],
+        "text": "C'MON,\nMADILLO-\nMAN! PUT\nTHE PISTOLS\nAWAY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            631,
+            798,
+            729
+        ],
+        "text": "YOU'RE\nDONE FOR\nNOW, BOYS!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            876,
+            603,
+            960,
+            741
+        ],
+        "text": "THESE ARE\nSEASTONE\nBULLETS! ONLY\nMADE IN WANO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            999,
+            69,
+            1099,
+            187
+        ],
+        "text": "GIFTERS\nMADILLO-\nMAN\nARMADILLO\nSMILE FRUIT",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1068,
+            274,
+            1107,
+            367
+        ],
+        "text": "AN\nARMADILLO\n?",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

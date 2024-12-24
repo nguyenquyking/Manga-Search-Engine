@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            90,
+            330,
+            195,
+            451
+        ],
+        "text": "But I never experienced any sort of syncing with the Vestige's thoughts.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            518,
+            161,
+            686
+        ],
+        "text": "The Vestige of me within One For All seems to have access to my thoughts.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            43,
+            491,
+            176
+        ],
+        "text": "...When I was close enough to touch him. Whatever my Vestige was thinking and feeling sort of flowed into me.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            539,
+            464,
+            687
+        ],
+        "text": "Except recently when I touched the boy... or, rather...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            13,
+            762,
+            126
+        ],
+        "text": "...That All For One can sync to a greater degree than one for all...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            641,
+            155,
+            696,
+            251
+        ],
+        "text": "Even if we suppose...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            302,
+            729,
+            404
+        ],
+        "text": "\"More like feelings flowing from you.\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            648,
+            568,
+            701,
+            654
+        ],
+        "text": "\"It's not words, exactly.\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            980,
+            20,
+            1104,
+            106
+        ],
+        "text": "...They used those radio waves to communicate.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            983,
+            135,
+            1110,
+            207
+        ],
+        "text": "That could very well be, but in this case...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            243,
+            1096,
+            337
+        ],
+        "text": "Stranger things, right? Kind of like a twin connection...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            492,
+            1098,
+            721
+        ],
+        "text": "...Do we really believe that his real body, locked up 500 meters below sea level... could receive such specific thoughts from the Vestige in Shigaraki?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

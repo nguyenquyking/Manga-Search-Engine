@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            66,
+            46,
+            99,
+            131
+        ],
+        "text": "WOOF!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            200,
+            16,
+            255,
+            100
+        ],
+        "text": "ZORO-JURO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            575,
+            142,
+            689
+        ],
+        "text": "PULL IT\nRIGHT OUTTA\nTOWN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            183,
+            545,
+            195,
+            603
+        ],
+        "text": "HOP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            489,
+            6,
+            612,
+            122
+        ],
+        "text": "IT'S FUNNY,\nYA CAN'T EVEN\nPULL OUT\nMY MILLET\nDUMPLINGS\nTHAT WAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            459,
+            302,
+            510,
+            374
+        ],
+        "text": "I...I'M\nFINE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            294,
+            651,
+            380
+        ],
+        "text": "HE ONLY\nTUGGED ON\n'EM WITH\nHIS PLIERS\nA BIT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            466,
+            628,
+            495,
+            703
+        ],
+        "text": "HUH?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            614,
+            638,
+            703
+        ],
+        "text": "SAY, WHAT\nHAPPENED\nTO YOUR\nCHEEKS?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            739,
+            38,
+            798,
+            224
+        ],
+        "text": "THEN ROAR!!\nLION FIRE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            940,
+            279,
+            1012,
+            357
+        ],
+        "text": "HM?!\nYOU DARE\nCHALLENGE\nME?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            967,
+            408,
+            1022,
+            480
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            566,
+            769,
+            641
+        ],
+        "text": "GRRR...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1086,
+            549,
+            1143,
+            650
+        ],
+        "text": "PLIERS\n...?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

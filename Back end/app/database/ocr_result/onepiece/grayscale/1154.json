@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            126,
+            101,
+            222,
+            257
+        ],
+        "text": "CAPTURING MASTER YAMATO WILL NO LONGER EARN YOU...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            313,
+            142,
+            655
+        ],
+        "text": "RAAAAAAAA!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            137,
+            823,
+            244,
+            970
+        ],
+        "text": "OUR INTERNAL POWER STRUGGLE IS ON HOLD!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            300,
+            105,
+            400,
+            258
+        ],
+        "text": "...THE RIGHT TO CHALLENGE ONE OF THE LEAD PERFORMERS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            545,
+            91,
+            664,
+            261
+        ],
+        "text": "...SO I WAS GOING TO HAVE YOU GIVE ME A PIGGY-BACK RIDE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            539,
+            303,
+            664,
+            419
+        ],
+        "text": "YAMATO CLIMBED UP THE WALL TO GET AWAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            550,
+            483,
+            689,
+            603
+        ],
+        "text": "OH!! PAY-PAY !!\u2661",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            648,
+            664,
+            784
+        ],
+        "text": "OF COURSE!! JUST LOOK AROUND YOU, SIS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            536,
+            827,
+            652,
+            970
+        ],
+        "text": "WHAT?! ARE YOU SERIOUS?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            713,
+            110,
+            785,
+            198
+        ],
+        "text": "NO WAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            817,
+            86,
+            913,
+            190
+        ],
+        "text": "YES WAY!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            417,
+            1147,
+            569
+        ],
+        "text": "KAIDO'S UP ON THE ROOF.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1040,
+            679,
+            1161,
+            809
+        ],
+        "text": "WHO ARE YOU CALLING BRATS?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            845,
+            1152,
+            986
+        ],
+        "text": "SHUT UP, YOU LITTLE BRATS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1425,
+            102,
+            1540,
+            278
+        ],
+        "text": "YOU MUST USE WHATEVER YOU CAN TO STOP THEM.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1417,
+            364,
+            1529,
+            531
+        ],
+        "text": "THE ENEMY'S ASCENDING THE CASTLE TO GET UP THERE.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            214,
+            305,
+            361,
+            435
+        ],
+        "text": "I don't want you to close off your own potential.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            128,
+            878,
+            352,
+            977
+        ],
+        "text": "I gave everything I had 500 years ago. I should have ended then.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            273,
+            741,
+            455,
+            874
+        ],
+        "text": "However, thanks to you, I was able to protect the future. That's enough.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            641,
+            89,
+            812,
+            218
+        ],
+        "text": "Both for the Magic Knights, and for the Clover Kingdom you defend!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            644,
+            851,
+            772,
+            979
+        ],
+        "text": "I'm looking forward to futures beyond this one.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            221,
+            1104,
+            372
+        ],
+        "text": "I couldn't be more satisfied!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            590,
+            1136,
+            782
+        ],
+        "text": "I was able to meet my own descendants as well.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

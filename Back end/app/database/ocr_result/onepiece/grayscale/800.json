@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            56,
+            57,
+            97,
+            146
+        ],
+        "text": "I... I am hurting...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            169,
+            107,
+            284
+        ],
+        "text": "I hope it's not hurting you back there, Momonosuke!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            307,
+            97,
+            429
+        ],
+        "text": "DUT! DUT! DUT!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            38,
+            457,
+            117,
+            527
+        ],
+        "text": "Each floor of the castle...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            156,
+            432,
+            253,
+            530
+        ],
+        "text": "...has its open spacious area under the roof.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            654,
+            141,
+            744
+        ],
+        "text": "Right-brain tower, inside the dome",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            330,
+            82,
+            354,
+            134
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            328,
+            184,
+            416,
+            274
+        ],
+        "text": "No, Lord Momonosuke!! You've been so brave!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            335,
+            314,
+            435,
+            407
+        ],
+        "text": "...and weak... and foolish... I hate myself!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            334,
+            452,
+            417,
+            542
+        ],
+        "text": "I'm so stupid... and frivolous...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            332,
+            602,
+            417,
+            698
+        ],
+        "text": "Everyone thinks too highly of me...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            605,
+            68,
+            630,
+            225
+        ],
+        "text": "Whaaat?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            58,
+            817,
+            178
+        ],
+        "text": "An eel?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            886,
+            84,
+            935,
+            225
+        ],
+        "text": "Lord Momonosuke!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            283,
+            1072,
+            371
+        ],
+        "text": "Whoa!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            589,
+            1070,
+            736
+        ],
+        "text": "I am not brave!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

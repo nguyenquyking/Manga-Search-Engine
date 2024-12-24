@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            37,
+            277,
+            62,
+            344
+        ],
+        "text": "OOF!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            44,
+            592,
+            195,
+            729
+        ],
+        "text": "AND WE'RE CALLED \"LEAD PERFORMERS\" BECAUSE NOBODY GETS THE BETTER OF US!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            404,
+            251,
+            450
+        ],
+        "text": "ZAP!!\nDA-DA-DA-DOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            352,
+            35,
+            417,
+            130
+        ],
+        "text": "I DIDN'T SAY IT FELT BAD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            158,
+            430,
+            256
+        ],
+        "text": "YOU BETTER NOT DRAG ME DOWN ON THIS ONE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            295,
+            461,
+            350
+        ],
+        "text": "...MY BODY'S FELT A LITTLE OFF...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            381,
+            386,
+            463,
+            541
+        ],
+        "text": "I DUNNO. EVER SINCE THE SECOND TIME I PUT ON THE RAID SUIT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            682,
+            423,
+            719
+        ],
+        "text": "?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            518,
+            35,
+            565,
+            100
+        ],
+        "text": "JUST WEIRD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            542,
+            609,
+            586,
+            708
+        ],
+        "text": "WHAT'S UP WITH YOU?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            33,
+            882,
+            126
+        ],
+        "text": "THERE'S ONE YOU OWE ME!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            561,
+            770,
+            654
+        ],
+        "text": "MY BODY, YOU IDIOT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            659,
+            672,
+            741,
+            730
+        ],
+        "text": "WHAT, YOUR EYE-BROW?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1070,
+            613,
+            1107,
+            699
+        ],
+        "text": "CHK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

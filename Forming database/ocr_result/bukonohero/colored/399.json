@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            128,
+            630,
+            204,
+            774
+        ],
+        "text": "We're the same, Ochaco...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            266,
+            55,
+            344,
+            180
+        ],
+        "text": "I've always felt that.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            486,
+            39,
+            589,
+            219
+        ],
+        "text": "So Izuku must've given this to you, right?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            20,
+            838,
+            301
+        ],
+        "text": "That makes us the same, right?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            951,
+            163,
+            1149,
+            284
+        ],
+        "text": "But when I go at her head-on, she just dodges.",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            297,
+            1040,
+            387
+        ],
+        "text": "Waste time on her!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            971,
+            400,
+            1021,
+            471
+        ],
+        "text": "Can't...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1107,
+            617,
+            1186,
+            775
+        ],
+        "text": "...'Cuz I know you like Izuku.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1282,
+            37,
+            1329,
+            150
+        ],
+        "text": "So instead...",
+        "panel_id": "7",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1312,
+            207,
+            1340,
+            275
+        ],
+        "text": "I've...",
+        "panel_id": "7",
+        "type": "dialogue"
+    }
+]

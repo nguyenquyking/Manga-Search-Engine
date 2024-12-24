@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            73,
+            33,
+            170,
+            126
+        ],
+        "text": "THE ONLY ONE WHO DECIDES WHERE I'LL DIE...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            141,
+            139,
+            207
+        ],
+        "text": "SHUT UP!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            132,
+            575,
+            286,
+            689
+        ],
+        "text": "ALL OF YOU ARE GOING TO DIE!! ONE BY ONE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            300,
+            573,
+            407
+        ],
+        "text": "...IS ME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            786,
+            19,
+            843,
+            101
+        ],
+        "text": "HUH?! WHAT WAS THAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1029,
+            49,
+            1095,
+            287
+        ],
+        "text": "DOOM!! OSHIRUKO...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            936,
+            399,
+            1042,
+            488
+        ],
+        "text": "WE JUST LOST SIGNAL FROM THE GUARDS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            510,
+            1002,
+            587
+        ],
+        "text": "IT CAME FROM OUTSIDE THE GATES...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            605,
+            1011,
+            706
+        ],
+        "text": "WHAT WAS THAT SOUND?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            163,
+            26,
+            308,
+            159
+        ],
+        "text": "If you come this way, I'll kill you, Linlin!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            102,
+            566,
+            295,
+            700
+        ],
+        "text": "I'm the one who's got a score to settle with that kid!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            564,
+            133,
+            677,
+            453
+        ],
+        "text": "C'mon, let's just get along... like old times!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            583,
+            584,
+            680,
+            692
+        ],
+        "text": "I'd like to see you try! I'm just letting you know.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            586,
+            1105,
+            690
+        ],
+        "text": "Got that? Straw Hat's head is mine!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

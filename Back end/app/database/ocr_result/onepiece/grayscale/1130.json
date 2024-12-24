@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            580,
+            394,
+            689,
+            495
+        ],
+        "text": "\"1\"\n(ACE)",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            619,
+            758,
+            727
+        ],
+        "text": "I'LL\nSTAND\nBY YOUR\nSIDE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            611,
+            906,
+            764,
+            1014
+        ],
+        "text": "I, WHO\nWAS ONCE\nUNNAMED,\nSHALL BE\nKNOWN\nAS \"2\"\n(DEUCE)",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            892,
+            161,
+            1009,
+            295
+        ],
+        "text": "AND THAT'S\nTHE TALE OF\nHOW THE SPADE\nPIRATES WERE\nFORMED!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            891,
+            376,
+            990,
+            493
+        ],
+        "text": "I DON'T\nWANT YOUR\nUNCALLED\nFOR ADDI-\nTIONS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            731,
+            1016,
+            836
+        ],
+        "text": "\"MASKED\nDEUCE\"",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            915,
+            863,
+            1000,
+            965
+        ],
+        "text": "IT'S\nA GOOD\nPEN NAME,\nISN'T IT",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1096,
+            83,
+            1185,
+            223
+        ],
+        "text": "RIDING IN\nA FIERCE OCEAN\nFULL OF STRONG\nADVERSARIES",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1140,
+            825,
+            1209,
+            941
+        ],
+        "text": "GATHERING\nMEMBERS AS\nWE WENT",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1304,
+            739,
+            1440,
+            856
+        ],
+        "text": "YOU'RE\nTHE ONE\nWHO SNEAKS\nOUT EVERY\nNIGHT TO\nEAT IT, YOU\nBASTARD!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1337,
+            575,
+            1436,
+            687
+        ],
+        "text": "THIS IS\nA PARTY,\nDON'T BE\nSO STINGY\n!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1324,
+            968,
+            1416,
+            1034
+        ],
+        "text": "WHY\nISN'T\nTHERE\nANY\nMEAT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1396,
+            106,
+            1496,
+            213
+        ],
+        "text": "THE\nGRAND-\nLINE",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

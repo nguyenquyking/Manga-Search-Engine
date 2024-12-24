@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            138,
+            701,
+            254,
+            929
+        ],
+        "text": "MEANWHILE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            566,
+            690,
+            832,
+            946
+        ],
+        "text": "BACK AT THE RUINS OF JAKU HOSPITAL",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            827,
+            294,
+            801,
+            395
+        ],
+        "text": "ZOOOOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

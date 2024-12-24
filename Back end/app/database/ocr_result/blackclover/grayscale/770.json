@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            91,
+            179,
+            109,
+            242
+        ],
+        "text": "I swear...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            310,
+            28,
+            390,
+            93
+        ],
+        "text": "...I'll slash you up!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            121,
+            327,
+            175,
+            442
+        ],
+        "text": "You're fighting me, remember?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            643,
+            119,
+            698
+        ],
+        "text": "Hey...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            648,
+            152,
+            683,
+            241
+        ],
+        "text": "Interesting!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            815,
+            283,
+            887,
+            356
+        ],
+        "text": "Wagner, did you complete your mission?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            536,
+            888,
+            621
+        ],
+        "text": "...But I'll just have to bet on him!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            654,
+            928,
+            728
+        ],
+        "text": "Jack's going to have a rough time on his own...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            68,
+            1025,
+            139
+        ],
+        "text": "All right...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

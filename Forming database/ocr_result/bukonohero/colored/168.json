@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            82,
+            175,
+            168,
+            313
+        ],
+        "text": "There was a time when you were my target.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            88,
+            722,
+            131,
+            808
+        ],
+        "text": "All for one...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            342,
+            83,
+            473,
+            227
+        ],
+        "text": "I have a specific request for you, unlike those others.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            623,
+            68,
+            779,
+            275
+        ],
+        "text": "...I expect that a certain U.A. student will leave school and operate solo.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            623,
+            712,
+            689,
+            798
+        ],
+        "text": "In the days to come...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1036,
+            249,
+            1144,
+            399
+        ],
+        "text": "...So bide your time until they're split up enough.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1005,
+            455,
+            1184,
+            583
+        ],
+        "text": "He's likely to have a number of big shots watching over him from a distance...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            690,
+            1091,
+            856
+        ],
+        "text": "I want you to capture him and bring him to me.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1266,
+            30,
+            1353,
+            141
+        ],
+        "text": "Hang on. Why the heck should I?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1290,
+            202,
+            1379,
+            334
+        ],
+        "text": "Perhaps a rainy day is your best bet?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

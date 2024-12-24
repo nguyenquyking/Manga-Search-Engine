@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            212,
+            576,
+            237,
+            618
+        ],
+        "text": "SHNK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            834,
+            74,
+            977,
+            207
+        ],
+        "text": "You'd better show me a good time!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            745,
+            637,
+            913,
+            743
+        ],
+        "text": "I'm not gonna forgive you if you let this end fast!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            358,
+            1101,
+            648
+        ],
+        "text": "THOOM THOOM THOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

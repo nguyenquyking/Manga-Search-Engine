@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            99,
+            43,
+            204,
+            141
+        ],
+        "text": "...IN CASE WE HAVE TO SPLIT UP AND RUN AWAY!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            323,
+            152,
+            416
+        ],
+        "text": "WE SHOULD DECIDE ON A PLACE TO MEET...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            91,
+            575,
+            212,
+            736
+        ],
+        "text": "IF WE GET SUCKED INTO THIS, WE'RE NOT GOING TO BE ABLE TO STAY IN THE CAPITAL ANYMORE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            442,
+            149,
+            522,
+            240
+        ],
+        "text": "SEE, IN THIS COUNTRY, PEOPLE CALL A SMILING FACE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            334,
+            397,
+            413,
+            477
+        ],
+        "text": "TONOYASU GAVE HIS LIFE FOR THIS!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            453,
+            372,
+            518,
+            468
+        ],
+        "text": "YOU'RE ONLY GOING TO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            310,
+            602,
+            354,
+            725
+        ],
+        "text": "TWO-SWORD STYLE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            594,
+            150,
+            680,
+            402
+        ],
+        "text": "720-POUND PHOENIX!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            600,
+            586,
+            664,
+            695
+        ],
+        "text": "...AN EBISU SMILE, MY FRIEND!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            57,
+            739,
+            80
+        ],
+        "text": "WHOOSH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            827,
+            587,
+            914,
+            682
+        ],
+        "text": "IT'S WHAT GIVES THIS TOWN THE NAME OF EBISU!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

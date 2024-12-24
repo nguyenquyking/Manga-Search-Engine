@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            61,
+            92,
+            124,
+            204
+        ],
+        "text": "...invaded One For All...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            59,
+            629,
+            138,
+            739
+        ],
+        "text": "(When Shigaraki's consciousness...)",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            291,
+            95,
+            381,
+            196
+        ],
+        "text": "I felt it inside all that rage.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            303,
+            606,
+            385,
+            754
+        ],
+        "text": "(When he was focusing so hard on his own dream...)",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            912,
+            355,
+            1024,
+            470
+        ],
+        "text": "I felt a little boy... crying.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

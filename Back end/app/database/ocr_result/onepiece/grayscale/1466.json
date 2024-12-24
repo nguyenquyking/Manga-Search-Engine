@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            99,
+            94,
+            241,
+            299
+        ],
+        "text": "It ought to be the other way around, Lord Oden!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            578,
+            226,
+            785
+        ],
+        "text": "No, Lord Oden!! Stop this!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            251,
+            2316,
+            397,
+            2470
+        ],
+        "text": "Huh?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            631,
+            115,
+            779,
+            309
+        ],
+        "text": "We should be the ones to hold you up!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            777,
+            727,
+            927,
+            983
+        ],
+        "text": "Lord Oden!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1200,
+            314,
+            1399,
+            496
+        ],
+        "text": "Shut up and stay there!!! This is an order!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1647,
+            256,
+            1741,
+            417
+        ],
+        "text": "Lord Oden!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

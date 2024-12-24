@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            827,
+            18,
+            875,
+            128
+        ],
+        "text": "HEART\nIS POWER.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            691,
+            319,
+            794,
+            470
+        ],
+        "text": "HE FOUND HIMSELF SOME\nTRULY DECENT\nALLIES...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            970,
+            12,
+            1120,
+            122
+        ],
+        "text": "AND THE MORE\nFIERCELY HE\nEMBRACES\nTHAT SOURCE\nIN HIS\nHEART...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1107,
+            1318,
+            1112,
+            1323
+        ],
+        "text": "FWM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

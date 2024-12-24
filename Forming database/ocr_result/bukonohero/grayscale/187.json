@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            155,
+            64,
+            191,
+            159
+        ],
+        "text": "He's still Shigaraki?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            344,
+            163,
+            432
+        ],
+        "text": "...as he conquers the Quirk Doomsday Theory.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            59,
+            511,
+            137,
+            621
+        ],
+        "text": "Worry not. Tomura is recovering well...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            320,
+            403,
+            393
+        ],
+        "text": "Spinner.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            476,
+            524,
+            556
+        ],
+        "text": "Of course.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            328,
+            683,
+            364,
+            723
+        ],
+        "text": "Why, yes.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            86,
+            867,
+            230
+        ],
+        "text": "Plenty of Heteromorphs hold deep grudges against the so-called heroes.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            806,
+            267,
+            965,
+            429
+        ],
+        "text": "No matter how hard the heroes and the government have tried to illuminate our society, the light can't reach every dark corner.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            689,
+            588,
+            741,
+            682
+        ],
+        "text": "I'm pretty sure you know...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            835,
+            518,
+            952,
+            663
+        ],
+        "text": "...What proportion of villain-designated criminals are Heteromorphs.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            94,
+            435,
+            131,
+            515
+        ],
+        "text": "Thought so.",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            132,
+            89,
+            208,
+            221
+        ],
+        "text": "But I don't know anything more than that.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            124,
+            722,
+            253,
+            868
+        ],
+        "text": "The curse is most likely a type of forbidden magic that gets power from the next world.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            551,
+            279,
+            681,
+            420
+        ],
+        "text": "I believe its effects have affected one of your members...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            529,
+            743,
+            717,
+            888
+        ],
+        "text": "But if we're talking about forbidden magic curses... I know of one far stronger than mine...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            70,
+            118,
+            141,
+            204
+        ],
+        "text": "You're as astounding as the rumors say.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            36,
+            540,
+            37,
+            581
+        ],
+        "text": "BLUP",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            367,
+            561,
+            431,
+            615
+        ],
+        "text": "What do you want?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            99,
+            528,
+            176
+        ],
+        "text": "For now, I don't suppose you could put on some clothes?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            147,
+            896,
+            219
+        ],
+        "text": "...But I'm curious about the lot that nabbed them.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            332,
+            884,
+            417
+        ],
+        "text": "I couldn't care less that those half-wits got kidnapped...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            795,
+            459,
+            824,
+            539
+        ],
+        "text": "Yami and Vengeance,",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            482,
+            835,
+            517
+        ],
+        "text": "hm?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            685,
+            567,
+            706,
+            610
+        ],
+        "text": "Oho...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            65,
+            55,
+            176,
+            213
+        ],
+        "text": "Is it time to stake everything on turning this around?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            606,
+            158,
+            740
+        ],
+        "text": "A woman afflicted by powerful despair...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            108,
+            364,
+            128,
+            474
+        ],
+        "text": "Endeavor.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            203,
+            508,
+            291,
+            644
+        ],
+        "text": "...Still clinging desperately to life.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            344,
+            110,
+            360,
+            483
+        ],
+        "text": "Edgeshot (w/ Kamino Pizza)",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            343,
+            610,
+            363,
+            908
+        ],
+        "text": "Kamui Woods (Rookie)",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            473,
+            155,
+            560,
+            324
+        ],
+        "text": "...Informing the others about Midoriya and One For All...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            618,
+            41,
+            726,
+            198
+        ],
+        "text": "...and throw an all-encompassing net at this investigation.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            430,
+            713,
+            583,
+            872
+        ],
+        "text": "Maybe we should expand this beyond us and bring in every last remaining hero...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            948,
+            69,
+            1087,
+            235
+        ],
+        "text": "We should put together a task force before the pool of colleagues we can count on has dried up...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            901,
+            307,
+            1083,
+            486
+        ],
+        "text": "The cops are up to their eyeballs with other problems, and there've been no eyewitness accounts of the League for a while.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            554,
+            1123,
+            727
+        ],
+        "text": "...That the brunt of hunting down the League will be left to Midoriya.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            931,
+            766,
+            1041,
+            905
+        ],
+        "text": "That business with Lady Nagant made it clear...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1260,
+            49,
+            1356,
+            196
+        ],
+        "text": "Right. Desutegoro quit two days ago.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            832,
+            443,
+            858,
+            804
+        ],
+        "text": "Mt. Lady (Get-It-Done Gal)",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            799,
+            704,
+            822,
+            913
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "caption"
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            97,
+            254,
+            257,
+            502
+        ],
+        "text": "YOU CAN'T\nJUST REVEAL\nALL THIS STUFF\nRIGHT NOW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            365,
+            106,
+            527,
+            325
+        ],
+        "text": "IT'S TOO\nMUCH FOR MY\nEMOTIONS TO\nPROCESS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            155,
+            627,
+            198,
+            754
+        ],
+        "text": "MURMUR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            97,
+            1131,
+            254,
+            1339
+        ],
+        "text": "SO...LORD\nODEN'S BEEN\nKEEPING US\nSAFE ALL\nTHIS TIME?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            712,
+            154,
+            805,
+            355
+        ],
+        "text": "FUKURO-KUJU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            663,
+            659,
+            784,
+            832
+        ],
+        "text": "BE NG!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1032,
+            434,
+            1218,
+            640
+        ],
+        "text": "THE EXECUTION\nWILL EVENTUALLY\nFINISH, AND\nTHAT WILL BE\nTHE LASTING\nMESSAGE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            714,
+            1111,
+            864,
+            1350
+        ],
+        "text": "THE TRUTH WILL\nONLY CAUSE\nCONFUSION,\nSHINOBU.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            956,
+            1111,
+            1146,
+            1357
+        ],
+        "text": "ALL THEY NEED\nTO KNOW IS THAT\nTHE FOOL OF A\nLORD WHO DEFIED\nTHE SHOGUN\nWILL DIE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1084,
+            925,
+            1149,
+            1068
+        ],
+        "text": "SNAG!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1371,
+            280,
+            1507,
+            429
+        ],
+        "text": "I WILL\nNOT\nFOLLOW\nYOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1375,
+            525,
+            1578,
+            839
+        ],
+        "text": "I'VE DECIDED TO\nJOIN MY FATE TO\nTHEIRS, LIFE OR\nDEATH!! I AM LORD\nODEN'S VASSAL!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1384,
+            931,
+            1574,
+            1124
+        ],
+        "text": "...THAT\nSPEAKING UP\nWOULD COME\nAT A GREAT\nCOST.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1401,
+            1166,
+            1512,
+            1313
+        ],
+        "text": "I'M\nSURE YOU\nKNEW...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1622,
+            364,
+            1676,
+            512
+        ],
+        "text": "GRRG...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1650,
+            139,
+            1799,
+            312
+        ],
+        "text": "IF ANYTHING\nSHOULD\nHAPPEN TO\nTHEM...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1881,
+            152,
+            2054,
+            361
+        ],
+        "text": "...THEN\nI WILL DIE\nALONG WITH\nKOZUKI!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

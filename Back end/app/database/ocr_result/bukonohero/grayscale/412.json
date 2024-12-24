@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            62,
+            78,
+            136,
+            149
+        ],
+        "text": "It's hard to explain, but...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            304,
+            269,
+            378,
+            358
+        ],
+        "text": "I feel as if I'm the only one...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            382,
+            83,
+            526,
+            213
+        ],
+        "text": "...who's become more and more distant from heroes, from heroism.",
+        "panel_id": "2",
+        "type": "thought"
+    }
+]

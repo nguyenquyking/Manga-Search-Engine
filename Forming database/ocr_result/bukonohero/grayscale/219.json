@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            310,
+            165,
+            368,
+            244
+        ],
+        "text": "We never had a way to reach out to him.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            378,
+            104,
+            449,
+            199
+        ],
+        "text": "We only had communication when he came to us.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            319,
+            621,
+            369,
+            693
+        ],
+        "text": "Mrs. and Mr. Aoyama...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            396,
+            540,
+            458,
+            660
+        ],
+        "text": "Why didn't you inform All For One about our raid in Kamino?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            533,
+            614,
+            619,
+            714
+        ],
+        "text": "Probably so that he couldn't be tracked down in case you were caught.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            333,
+            689,
+            425
+        ],
+        "text": "We can't find all for one.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            645,
+            173,
+            731,
+            286
+        ],
+        "text": "That's the current situation, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            689,
+            544,
+            723,
+            638
+        ],
+        "text": "Detective Tsukauchi!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            878,
+            251,
+            967,
+            342
+        ],
+        "text": "They still get to make the opening move.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            970,
+            46,
+            1100,
+            270
+        ],
+        "text": "That's why our side is calling up every able body we got\u2014sheer numbers will give us a fighting chance.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1055,
+            417,
+            1072,
+            463
+        ],
+        "text": "Oh...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            125,
+            123,
+            289,
+            352
+        ],
+        "text": "Well, he saw Eustass Kid and his crew...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            125,
+            463,
+            252,
+            633
+        ],
+        "text": "Where did Luffy go?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            99,
+            728,
+            263,
+            907
+        ],
+        "text": "I can't believe this was on the Sunny the whole time!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            90,
+            960,
+            228,
+            1085
+        ],
+        "text": "You look so cool, Chobro!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            1157,
+            244,
+            1336
+        ],
+        "text": "Yay! Now we can travel safely!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            99,
+            520,
+            270
+        ],
+        "text": "...Run right toward the front door, so...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            699,
+            174,
+            883,
+            485
+        ],
+        "text": "That's only going to make things worse!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            652,
+            898,
+            900
+        ],
+        "text": "Don't worry, I'll go and bring them back!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            1111,
+            883,
+            1340
+        ],
+        "text": "They have no idea what Kin'emon's plan is!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1432,
+            168,
+            1594,
+            472
+        ],
+        "text": "He's only going to get lost!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1423,
+            702,
+            1645,
+            1005
+        ],
+        "text": "Luffy's only going to make things worse!! I'll go stop him!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1442,
+            1134,
+            1568,
+            1347
+        ],
+        "text": "But then Roronoa Zoro said...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

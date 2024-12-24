@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            50,
+            378,
+            202,
+            507
+        ],
+        "text": "IF YOU CAN'T BEAT THESE EIGHT SHINING GENERAL GUYS, YOU'RE NOT WORTH BOTHERING WITH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            636,
+            58,
+            656,
+            177
+        ],
+        "text": "@NixkSenpai",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            637,
+            406,
+            654,
+            535
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            743,
+            44,
+            866,
+            173
+        ],
+        "text": "Corpse Hunting Briar Trees",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            745,
+            504,
+            834,
+            639
+        ],
+        "text": "Briar Creation Magic:",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

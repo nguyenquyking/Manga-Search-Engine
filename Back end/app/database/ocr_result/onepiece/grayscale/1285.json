@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            86,
+            164,
+            192,
+            325
+        ],
+        "text": "DIRECT HIT!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            112,
+            475,
+            267,
+            658
+        ],
+        "text": "TEAM KIN'EMON,\nEASTERN\nFORCES",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            120,
+            673,
+            162,
+            941
+        ],
+        "text": "KABOOM!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            142,
+            1222,
+            213,
+            1357
+        ],
+        "text": "MEANWHILE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            561,
+            635,
+            712,
+            815
+        ],
+        "text": "...STRAW\nHAT\nCREW!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            611,
+            1182,
+            818,
+            1368
+        ],
+        "text": "HAND\nOVER YOUR\nCAPTAIN TO\nME RIGHT\nNOW...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            708,
+            156,
+            920,
+            495
+        ],
+        "text": "EEYAAAAA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1630,
+            185,
+            1751,
+            300
+        ],
+        "text": "RIGHT\nBEHIND\nYOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1607,
+            404,
+            1756,
+            561
+        ],
+        "text": "NOW IS\nTHE TIME!!\nLET US MOVE\nONWARD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1574,
+            669,
+            1764,
+            835
+        ],
+        "text": "WE ARE\nIN YOUR\nDEBT, SIR\nUSOPP AND\nCHOPPER!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1665,
+            928,
+            1745,
+            1035
+        ],
+        "text": "WEEZ,\nWEEZ...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1550,
+            1080,
+            1725,
+            1340
+        ],
+        "text": "THEY FLED IN\nTERROR, BUT MADE\nSURE TO DO IT\nIN THE OPPOSITE\nDIRECTION!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

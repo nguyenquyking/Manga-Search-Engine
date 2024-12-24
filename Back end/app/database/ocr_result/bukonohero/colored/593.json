@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            98,
+            746,
+            163,
+            871
+        ],
+        "text": "Why don't we call them...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            161,
+            87,
+            277,
+            253
+        ],
+        "text": "...Near High-Ends?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            9,
+            692,
+            94
+        ],
+        "text": "The worst case!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            611,
+            323,
+            689,
+            442
+        ],
+        "text": "You two keep hidden!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            592,
+            698,
+            724,
+            874
+        ],
+        "text": "Dang it! Two of 'em are heading right for Eraser!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            892,
+            27,
+            897,
+            101
+        ],
+        "text": "RMMBL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            888,
+            490,
+            954,
+            592
+        ],
+        "text": "Got your eyes on me, huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1232,
+            83,
+            1330,
+            227
+        ],
+        "text": "Well then, who's watching you?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

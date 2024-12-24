@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            53,
+            103,
+            109,
+            222
+        ],
+        "text": "Is that Luffy?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            223,
+            319,
+            266,
+            395
+        ],
+        "text": "Straw Hat...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            26,
+            785,
+            41,
+            827
+        ],
+        "text": "Thud",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            17,
+            879,
+            144,
+            1036
+        ],
+        "text": "Thump! Is that Supreme King Haki?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            1045,
+            139,
+            1127
+        ],
+        "text": "Hey, what's wrong?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            249,
+            1223,
+            289,
+            1313
+        ],
+        "text": "Krumbl!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            361,
+            878,
+            375,
+            981
+        ],
+        "text": "Krunch!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            485,
+            523,
+            522,
+            589
+        ],
+        "text": "Zgoosh",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            754,
+            379,
+            801,
+            451
+        ],
+        "text": "Aaah!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            1378,
+            907,
+            1481
+        ],
+        "text": "Whaaa?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1006,
+            384,
+            1093,
+            450
+        ],
+        "text": "Um, Kaido?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            666,
+            136,
+            746
+        ],
+        "text": "Where's it coming from?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            52,
+            37,
+            335,
+            199
+        ],
+        "text": "THE OTHER 90 PERCENT OF THE TIME! IT'S CRAP.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            76,
+            255,
+            296,
+            318
+        ],
+        "text": "BA-BAAM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            88,
+            640,
+            557,
+            679
+        ],
+        "text": "COMBINE!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            700,
+            210,
+            806,
+            297
+        ],
+        "text": "What's your problem?! You get to be on top, so quit whining!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            349,
+            868,
+            462
+        ],
+        "text": "If something like this could do that, we wouldn't be having trouble in the first place, 90 percent idiot.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            700,
+            616,
+            901,
+            687
+        ],
+        "text": "THIS IS NO TIME TO SCREW AROUND, YOU 90 PERCENT IDIOT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            469,
+            988,
+            597
+        ],
+        "text": "I'm not screwing around! Fighting like this will bring our hearts and bodies closer to being in unison.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            622,
+            961,
+            678
+        ],
+        "text": "What's a 90 percent idiot?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

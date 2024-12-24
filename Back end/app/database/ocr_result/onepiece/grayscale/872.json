@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            73,
+            578,
+            196,
+            729
+        ],
+        "text": "BLAST BREATH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            193,
+            54,
+            382,
+            252
+        ],
+        "text": "SLICE!\nFLAME-REND!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            589,
+            54,
+            633,
+            126
+        ],
+        "text": "WHAT'S THAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            470,
+            687,
+            557
+        ],
+        "text": "ONE-SWORD STYLE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            617,
+            607,
+            678,
+            723
+        ],
+        "text": "ZORO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            907,
+            84,
+            960,
+            202
+        ],
+        "text": "FLYING DRAGON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1020,
+            234,
+            1096,
+            340
+        ],
+        "text": "THAT'S NO ORDINARY SWORD!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            527,
+            1001,
+            620
+        ],
+        "text": "LOOK OUT, KAIDO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

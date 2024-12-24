@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            74,
+            210,
+            141,
+            292
+        ],
+        "text": "KAIDO?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            630,
+            99,
+            680
+        ],
+        "text": "HUFF, HUFF...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            769,
+            47,
+            780,
+            83
+        ],
+        "text": ".....",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            746,
+            315,
+            771,
+            393
+        ],
+        "text": "AAAAAH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            46,
+            957,
+            199
+        ],
+        "text": "NO, IT'S A SIDE EFFECT OF THAT CANNONBALL-LIKE TECHNIQUE!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1041,
+            88,
+            1099,
+            212
+        ],
+        "text": "HE WON'T BE ABLE TO USE HAKI FOR ABOUT",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1025,
+            239,
+            1040,
+            281
+        ],
+        "text": "WEEZ...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            875,
+            603,
+            943,
+            728
+        ],
+        "text": "STRAW HAT?! WHEN DID HE GET YOU?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1056,
+            608,
+            1076,
+            662
+        ],
+        "text": "WEEZ!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            905,
+            498,
+            924,
+            548
+        ],
+        "text": "THUMP!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

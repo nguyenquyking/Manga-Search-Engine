@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            84,
+            540,
+            111,
+            627
+        ],
+        "text": "AAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            338,
+            87,
+            382,
+            209
+        ],
+        "text": "Don't do it, Trafalgar!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            474,
+            180,
+            486,
+            259
+        ],
+        "text": "SHWIP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            496,
+            26,
+            582,
+            146
+        ],
+        "text": "Only in Wano can you find the artisans capable...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            636,
+            36,
+            698,
+            153
+        ],
+        "text": "...of fashioning it this small.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            487,
+            418,
+            570,
+            525
+        ],
+        "text": "The Seastone throughout the world...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            631,
+            419,
+            692,
+            529
+        ],
+        "text": "...was born here, in this country.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            656,
+            595,
+            706,
+            684
+        ],
+        "text": "Not him again!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            162,
+            903,
+            280
+        ],
+        "text": "Straw Sword!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            964,
+            568,
+            1009,
+            711
+        ],
+        "text": "A Seastone... nail?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

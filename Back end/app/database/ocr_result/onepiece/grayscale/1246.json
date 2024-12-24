@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            66,
+            1141,
+            254,
+            1296
+        ],
+        "text": "PERFORMANCE STAGE,\nSKULL DOME",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            110,
+            894,
+            248,
+            1033
+        ],
+        "text": "ON THE VERY\nDAY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            136,
+            133,
+            304,
+            384
+        ],
+        "text": "...THAT KOZUKI\nODEN DIED!!\nTHIS LITTLE\nWHELP...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            113,
+            598,
+            349
+        ],
+        "text": "...VANISHED\nFROM THE\nFLAMING RUINS\nOF ODEN\nCASTLE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            587,
+            596,
+            650
+        ],
+        "text": "GYA\nHA\nHA!\nHA",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            797,
+            349,
+            887,
+            482
+        ],
+        "text": "BA",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            900,
+            77,
+            1103,
+            332
+        ],
+        "text": "YOU SEE,\nODEN'S WIFE,\nTOKI, WAS A\nWITCH...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1242,
+            90,
+            1386,
+            335
+        ],
+        "text": "...CAPABLE OF\nSENDING HER\nVENGEANCE INTO\nTHE FUTURE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            844,
+            1104,
+            1028,
+            1327
+        ],
+        "text": "WHERE\nDID HE GO?!\nTO THE\nFUTURE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1146,
+            1056,
+            1451,
+            1324
+        ],
+        "text": "HE CROSSED\n20 YEARS OF TIME\nAND APPEARED IN\nPRESENT-DAY\nWANO, THE VERY\nSAME AGE AS\nWHEN HE\nVANISHED!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1626,
+            151,
+            1749,
+            469
+        ],
+        "text": "THE NAME KOZUKI\nIS EXTINCT! IT DIED\nOUT AGES AGO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1643,
+            564,
+            1823,
+            786
+        ],
+        "text": "YOU CAN FIND\nLITTLE KIDS\nWITH TOPKNOTS\nALL OVER\nTHE PLACE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1574,
+            800,
+            1764,
+            1330
+        ],
+        "text": "STOMP TROMP\nSTOMP TROMP\nIS\nTHAT EVEN\nPOSSIBLE?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

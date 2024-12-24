@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            156,
+            187,
+            177,
+            330
+        ],
+        "text": "Arghhhh!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            875,
+            279,
+            927,
+            345
+        ],
+        "text": "Kill, Kill...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1008,
+            75,
+            1051,
+            150
+        ],
+        "text": "Hate them!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            227,
+            1065,
+            277
+        ],
+        "text": "Kill them all!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            823,
+            435,
+            887,
+            511
+        ],
+        "text": "All will be well.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            621,
+            907,
+            711
+        ],
+        "text": "Worry not, my other self.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            396,
+            1094,
+            517
+        ],
+        "text": "Your quirk factors are simply worn and weary after that fracas within you.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

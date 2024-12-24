@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            132,
+            97,
+            434,
+            247
+        ],
+        "text": "Now it's time for what everyone's been waiting for: The announcement of the 3rd popularity contest's results! Ba-ha!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            167,
+            726,
+            218,
+            839
+        ],
+        "text": "BA-HA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            284,
+            615,
+            432,
+            746
+        ],
+        "text": "It's me, Sekke, the one that didn't show up in the latest volume! Sorry about that, everyone!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            94,
+            700,
+            253
+        ],
+        "text": "Last time, I jumped up all the way to 20th place! Perhaps this time, I'll jump up into the top ten, huh? Ba-ha!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            577,
+            392,
+            605,
+            467
+        ],
+        "text": "Staaaare",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            569,
+            609,
+            587,
+            649
+        ],
+        "text": "Ba-ha!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            582,
+            684,
+            687,
+            840
+        ],
+        "text": "What's this? I didn't notice you, you beautiful lady! My name is Sekke!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            160,
+            920,
+            219
+        ],
+        "text": "16th Place: Nero",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1047,
+            98,
+            1138,
+            194
+        ],
+        "text": "I wonder if it's because I changed back to my original form...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            858,
+            753,
+            952,
+            828
+        ],
+        "text": "54th Place: Sekke",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1058,
+            635,
+            1141,
+            749
+        ],
+        "text": "54th Place",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1245,
+            154,
+            1274,
+            724
+        ],
+        "text": "Finally, the results are on the next page!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

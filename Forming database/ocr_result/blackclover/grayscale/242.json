@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            116,
+            353,
+            161,
+            385
+        ],
+        "text": "Ha ha ha...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            164,
+            282,
+            249,
+            338
+        ],
+        "text": "Well, you see, it...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            132,
+            425,
+            307,
+            544
+        ],
+        "text": "You always were rather childlike. But now you're an actual child!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            203,
+            105,
+            340,
+            170
+        ],
+        "text": "You don't have to explain!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            164,
+            919,
+            228,
+            996
+        ],
+        "text": "Uh... Wha... Huh?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            276,
+            779,
+            425,
+            905
+        ],
+        "text": "I'm fine, but this is...? Huh?! What's the meaning of this?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            552,
+            623,
+            702,
+            763
+        ],
+        "text": "The kingdom's in shambles... and that form of yours... Honestly!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            644,
+            357,
+            774,
+            448
+        ],
+        "text": "You really are a preposterous person!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            890,
+            740,
+            997
+        ],
+        "text": "Show me your memories later, please!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1076,
+            141,
+            1124,
+            256
+        ],
+        "text": "...You're alive!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1030,
+            622,
+            1104,
+            707
+        ],
+        "text": "I'm so glad...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1494,
+            959,
+            1513,
+            988
+        ],
+        "text": "44",
+        "panel_id": "4",
+        "type": "page_number"
+    }
+]

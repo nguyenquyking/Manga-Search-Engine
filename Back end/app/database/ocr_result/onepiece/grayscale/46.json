@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            190,
+            1818,
+            345,
+            2074
+        ],
+        "text": "DEATH DESTROYER...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            400,
+            540,
+            488
+        ],
+        "text": "HUH?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            710,
+            385,
+            700,
+            495
+        ],
+        "text": "CLENCH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            884,
+            480,
+            888,
+            574
+        ],
+        "text": "RUMBLE!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1190,
+            788,
+            1420,
+            1056
+        ],
+        "text": "THUNDER BAGUA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

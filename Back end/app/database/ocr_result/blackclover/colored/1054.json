@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1271,
+            309,
+            1377,
+            451
+        ],
+        "text": "Sorry, but no can do.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1555,
+            176,
+            1773,
+            338
+        ],
+        "text": "No matter how far beneath you we are...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1095,
+            373,
+            1665,
+            946
+        ],
+        "text": "SKUD\nSNNAP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

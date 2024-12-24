@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            41,
+            53,
+            77,
+            110
+        ],
+        "text": "Because...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            38,
+            339,
+            95,
+            398
+        ],
+        "text": "Not at all, my dear.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            310,
+            175,
+            360
+        ],
+        "text": "Why not...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            640,
+            172,
+            732
+        ],
+        "text": "Doesn't it feel bad when everybody says mean things about you, Father?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            139,
+            55,
+            176,
+            129
+        ],
+        "text": "...I have all of you!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            270,
+            226,
+            365,
+            349
+        ],
+        "text": "In fact, speaking as Shogun, I think your father deserves...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            271,
+            373,
+            365,
+            482
+        ],
+        "text": "Actually...!! I realize now that Oden was a great samurai!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            272,
+            631,
+            338,
+            725
+        ],
+        "text": "Really?! Then we'll be together forever!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            61,
+            1091,
+            202
+        ],
+        "text": "Hold your tongue, you knave!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            582,
+            1057,
+            743
+        ],
+        "text": "My name is Koziki Hiyori!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

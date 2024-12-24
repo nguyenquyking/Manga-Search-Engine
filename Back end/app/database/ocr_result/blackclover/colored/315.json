@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            46,
+            654,
+            123,
+            752
+        ],
+        "text": "He sent the runes into the sky...!?",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            258,
+            0,
+            299,
+            86
+        ],
+        "text": "This... magic!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            438,
+            6,
+            512,
+            129
+        ],
+        "text": "This is bad...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1010,
+            49,
+            1173,
+            184
+        ],
+        "text": "The vast amounts of mana found in nature!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1030,
+            661,
+            1134,
+            800
+        ],
+        "text": "Humans cannot hope to match...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

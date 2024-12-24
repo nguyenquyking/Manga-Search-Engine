@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            45,
+            73,
+            130,
+            169
+        ],
+        "text": "SO WE'LL BOTH HAVE TO MAKE DO.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            38,
+            302,
+            121,
+            392
+        ],
+        "text": "NOR IS THERE ANY POISONOUS GAS!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            34,
+            435,
+            114,
+            491
+        ],
+        "text": "...ANY MOONS DOWN HERE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            30,
+            649,
+            111,
+            721
+        ],
+        "text": "YOU AREN'T GOING TO SEE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            369,
+            42,
+            449,
+            144
+        ],
+        "text": "YOUR MISTAKE WAS BETRAYING ME...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            375,
+            197,
+            437,
+            277
+        ],
+        "text": "GU HU HU... YOU FOOLS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            369,
+            312,
+            469,
+            421
+        ],
+        "text": "WE HAVE TO DOUSE IT, BEFORE IT GOES OUT OF CONTROL!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            555,
+            443,
+            658
+        ],
+        "text": "THERE'S A FIRE IN THE CASTLE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            57,
+            551,
+            115
+        ],
+        "text": "KAIDO!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            641,
+            54,
+            782,
+            303
+        ],
+        "text": "OH!! OROCH--RAAAH GWAH!! SHUNK!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            660,
+            588,
+            746,
+            723
+        ],
+        "text": "I'LL BURN IT ALL DOWN!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            580,
+            973,
+            713
+        ],
+        "text": "YOU'LL ALL DIE, UP HERE IN THE SKY WHERE THERE'S NOWHERE TO RUN!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            946,
+            62,
+            1098,
+            217
+        ],
+        "text": "THAT WAS THE LAST MISTAKE YOU'LL EVER MAKE!! I'LL SLAUGHTER EVERY LAST ONE OF YOU!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1014,
+            552,
+            1095,
+            665
+        ],
+        "text": "GU HU HA HA HA HA!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

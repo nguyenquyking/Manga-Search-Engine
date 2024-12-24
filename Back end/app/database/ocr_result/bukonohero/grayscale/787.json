@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            64,
+            149,
+            85,
+            209
+        ],
+        "text": "I KNOW...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            272,
+            135,
+            364
+        ],
+        "text": "IT'S HELL OUT THERE, YOU KNOW.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            400,
+            95,
+            490
+        ],
+        "text": "ENDEAVOR.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            314,
+            590,
+            416,
+            706
+        ],
+        "text": "SHIGARAKI, DABI, HIMIKO TOGA, SPINNER, SKEPTIC...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            494,
+            83,
+            561,
+            213
+        ],
+        "text": "...AND SEVEN NEAR HIGH-END NOMU ARE ALL ON THE LOOSE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            506,
+            543,
+            593,
+            675
+        ],
+        "text": "...PLUS 132 OF THE LIBERATION FRONT MEMBERS WHO ESCAPED...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            721,
+            34,
+            906,
+            181
+        ],
+        "text": "AND MANY HEROES HAVE CHOSEN TO RETIRE, SPURRED ON BY THIS NASTY CLIMATE.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            764,
+            536,
+            890,
+            699
+        ],
+        "text": "FURTHERMORE, SHIGARAKI AND THE NOMU SMASHED UP TARTARUS AND SIX OTHER PRISONS, FREEING OVER 10,000 CONVICTS.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            934,
+            269,
+            1076,
+            440
+        ],
+        "text": "WITH THE CORE MEMBERS OF THE HEROES PUBLIC SAFETY COMMISSION DEAD OR IN THE HOSPITAL, THEY'VE LOST THE POWER TO ORGANIZE HEROES.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

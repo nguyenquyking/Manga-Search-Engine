@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            128,
+            530,
+            182,
+            921
+        ],
+        "text": "...BECOME...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            372,
+            39,
+            428,
+            401
+        ],
+        "text": "...A MURDERER!!!",
+        "panel_id": "1",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            91,
+            563,
+            198,
+            722
+        ],
+        "text": "THE BREAKTHROUGH YOU AND MIC HAD WAS THE INSPIRATION...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            270,
+            71,
+            441,
+            254
+        ],
+        "text": "...TO SHIP SOME NOMU-KUROGIRI TO CENTRAL HOSPITAL IN SECRET AND BEGIN RESTORATIVE RESEARCH.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            555,
+            200,
+            681,
+            318
+        ],
+        "text": "...BUT IF YOU HADN'T REACHED THROUGH TO SHIRAKUMO'S SPIRIT THAT DAY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            597,
+            77,
+            709,
+            193
+        ],
+        "text": "...NO PLACE ON THIS PLANET WOULD BE AN IMPENETRABLE STRONGHOLD ANY LONGER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            650,
+            677,
+            760
+        ],
+        "text": "THE COPY OF HIS QUIRK WAS PULVERIZED BY MIRKO...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            841,
+            319,
+            946,
+            445
+        ],
+        "text": "...BUT THERE REMAINS A WISP OF HOPE FOR US.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            682,
+            883,
+            746
+        ],
+        "text": "IT MAY BE FAINT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            960,
+            632,
+            1014,
+            729
+        ],
+        "text": "...AND AS ELUSIVE AS A CLOUD...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

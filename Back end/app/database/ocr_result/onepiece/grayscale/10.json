@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            87,
+            838,
+            96,
+            917
+        ],
+        "text": "KAPOW!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            103,
+            1312,
+            253,
+            1481
+        ],
+        "text": "...AS THEY WANT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            766,
+            144,
+            897,
+            258
+        ],
+        "text": "STOMP TROMP\nI want\nto see\nMommy.",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            950,
+            95,
+            1025,
+            277
+        ],
+        "text": "WA HA HA HA HA!!\n\u3064\u308f\u306f\u306f\u306f\u306f\u306f\u2026!!\nSTOMP TROMP",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            1154,
+            78,
+            1177,
+            369
+        ],
+        "text": "TWITTER: @OfficialEaero",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1236,
+            80,
+            1263,
+            263
+        ],
+        "text": "@ColorClovers",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1362,
+            447,
+            1350,
+            535
+        ],
+        "text": "Waugh!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1682,
+            698,
+            1656,
+            808
+        ],
+        "text": "GRUNCH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

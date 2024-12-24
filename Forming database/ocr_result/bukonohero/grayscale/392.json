@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            452,
+            309,
+            551,
+            431
+        ],
+        "text": "NO. 327\u2014REST!!\nBY KOHEI HORIKOSHI\nTRANSLATION: CALEB COOK\nLETTERING: JOHN HUNT",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            669,
+            91,
+            706,
+            158
+        ],
+        "text": "Oh, right...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            696,
+            360,
+            803,
+            479
+        ],
+        "text": "Her and a few others crashed as soon as that sense of relief hit.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            681,
+            486,
+            715,
+            568
+        ],
+        "text": "Already snoozing.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            643,
+            709,
+            749
+        ],
+        "text": "Where's Uraraka...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            218,
+            965,
+            313
+        ],
+        "text": "Yeah, that stuff about One For All?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            985,
+            377,
+            1072,
+            452
+        ],
+        "text": "And I'm really sorry for the trouble.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            223,
+            1100,
+            303
+        ],
+        "text": "We got your message.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            944,
+            663,
+            1016,
+            744
+        ],
+        "text": "I'm so grateful to all of you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

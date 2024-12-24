@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            161,
+            140,
+            305,
+            362
+        ],
+        "text": "The Entire Garden's Gone!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            125,
+            690,
+            262,
+            924
+        ],
+        "text": "There's no getting out this way...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            1021,
+            232,
+            1150
+        ],
+        "text": "Whoa!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            1244,
+            251,
+            1442
+        ],
+        "text": "Pleasure Hall,\nLeftbrain Tower",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            308,
+            400,
+            412,
+            544
+        ],
+        "text": "Grrrmm...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            663,
+            1610,
+            849,
+            1661
+        ],
+        "text": "Kshunk...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1161,
+            95,
+            1464,
+            387
+        ],
+        "text": "Break down the wall or we're gonna die!! You want a working arm, or do you want to live?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1193,
+            696,
+            1398,
+            851
+        ],
+        "text": "Don't complain about how hot it is!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1196,
+            1234,
+            1248,
+            1420
+        ],
+        "text": "Ibi Bibi",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1226,
+            1524,
+            1319,
+            1683
+        ],
+        "text": "Basement",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1680,
+            164,
+            1734,
+            346
+        ],
+        "text": "IBIBIII~~~!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2453,
+            190,
+            2611,
+            450
+        ],
+        "text": "Oh yeah?! You wanna fight?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1674,
+            1558,
+            1753,
+            1736
+        ],
+        "text": "IBI?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2333,
+            1438,
+            2557,
+            1725
+        ],
+        "text": "What is that size good for if you won't use it?! Moron!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

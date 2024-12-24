@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            66,
+            295,
+            169,
+            409
+        ],
+        "text": "He kept saying \"Kill, Kill\" and stuff...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            653,
+            343,
+            763
+        ],
+        "text": "This guy wasn't fighting seriously in the first place.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            298,
+            67,
+            382,
+            152
+        ],
+        "text": "...But he was holding back.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            518,
+            154,
+            599,
+            251
+        ],
+        "text": "In that case, we can get along!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            511,
+            646,
+            656,
+            750
+        ],
+        "text": "You're the type who can't kill people, aren't you?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            976,
+            143,
+            1090,
+            250
+        ],
+        "text": "That's why I want us to be equals!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            913,
+            387,
+            1057,
+            508
+        ],
+        "text": "You can hate or be sad for somebody else's sake, right?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

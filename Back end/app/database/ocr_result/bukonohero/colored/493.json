@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            27,
+            529,
+            297,
+            729
+        ],
+        "text": "ONE MORE GOOD HIT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            490,
+            642,
+            685,
+            945
+        ],
+        "text": "WITH ALL I'VE GOT!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            686,
+            88,
+            734,
+            214
+        ],
+        "text": "GIVE IT... ALL I'VE GOT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            612,
+            1234,
+            851
+        ],
+        "text": "ONE MORE SHOULD BE ENOUGH TO...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1121,
+            211,
+            1154,
+            291
+        ],
+        "text": "SHF...",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

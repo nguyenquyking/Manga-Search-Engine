@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            311,
+            39,
+            700,
+            290
+        ],
+        "text": "Or the Magic Knights will bear the brunt of the responsibility. One or the other.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            321,
+            1084,
+            542,
+            1328
+        ],
+        "text": "Either you will be judged as the demon...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1060,
+            15,
+            1394,
+            250
+        ],
+        "text": "Now, where is that \"demon\" that you were talking about...?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            989,
+            588,
+            1339,
+            744
+        ],
+        "text": "One lowly peasant or the ones who defend the nation... It is obvious which side the scales will lean toward.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1050,
+            1138,
+            1335,
+            1332
+        ],
+        "text": "And you are not someone who has the privilege of interrupting someone who is speaking.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1570,
+            602,
+            1744,
+            750
+        ],
+        "text": "Like I said, we beat the demon!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1656,
+            419,
+            1941,
+            592
+        ],
+        "text": "And that's because Nero's been working her ass off all these years-",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1624,
+            826,
+            1943,
+            1037
+        ],
+        "text": "That nature of yours shows in the weighing. Simple, frank, easy to handle...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

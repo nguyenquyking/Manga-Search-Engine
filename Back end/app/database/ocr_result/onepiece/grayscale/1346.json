@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            97,
+            221,
+            265,
+            460
+        ],
+        "text": "ATTACK THIS ISLAND HOWEVER YOU SEE FIT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            86,
+            537,
+            252,
+            715
+        ],
+        "text": "YOU ARE MIGHTY PIRATES, I CAN TELL.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            928,
+            257,
+            1137
+        ],
+        "text": "I CALL IT KIN'S CLOTHING COMPANY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            88,
+            1188,
+            244,
+            1373
+        ],
+        "text": "IT IS ONE OF THE GREATEST APPLICATIONS OF MY GARB-GARB POWER!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            128,
+            570,
+            316
+        ],
+        "text": "...BUT THE ENEMY IS MYRIAD! THEY HAVE OVER FIVE TIMES OUR NUMBER.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            702,
+            319,
+            784,
+            872
+        ],
+        "text": "WHOA! OOH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            738,
+            1157,
+            918,
+            1378
+        ],
+        "text": "I WOULD RECOMMEND MAKING USE OF THAT TRANSFORMATION!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1518,
+            141,
+            1704,
+            358
+        ],
+        "text": "...YOU WILL RETURN TO YOUR ORIGINAL CLOTHES, MY COMRADES!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1820,
+            123,
+            2047,
+            398
+        ],
+        "text": "AVOID ANY UNNECESSARY CONFLICT AS WE MAKE OUR WAY TO THE PLACE OF THE ULTIMATE BATTLE!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1524,
+            1162,
+            1699,
+            1372
+        ],
+        "text": "BEWARE THAT IT IS ONLY MY JUTSU CREATING THE EFFECT.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1831,
+            1136,
+            1998,
+            1362
+        ],
+        "text": "IF THAT GARB SHOULD BE REMOVED OR DAMAGED...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

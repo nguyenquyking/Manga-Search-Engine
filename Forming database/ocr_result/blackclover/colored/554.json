@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            167,
+            139,
+            456,
+            391
+        ],
+        "text": "I figured I'd hit it and get smashed to pieces, but...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            165,
+            538,
+            446,
+            766
+        ],
+        "text": "...threw me at the gate of the underworld.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            162,
+            1000,
+            457,
+            1187
+        ],
+        "text": "One day, a ticked-off higher devil...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            583,
+            586,
+            728,
+            711
+        ],
+        "text": "Gleh\nHeh",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            620,
+            1022,
+            665,
+            1077
+        ],
+        "text": "Gleh",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            961,
+            419,
+            1049,
+            1018
+        ],
+        "text": "Since I had no magic, I went right through!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1169,
+            180,
+            1379,
+            390
+        ],
+        "text": "...I'd ended up in the human world.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1171,
+            914,
+            1289,
+            1180
+        ],
+        "text": "Completely out of the blue...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            54,
+            129,
+            90,
+            248
+        ],
+        "text": "YOUR STRENGTH...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            302,
+            194,
+            370
+        ],
+        "text": "AS IF WE WERE FLYING WITH YOU.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            605,
+            148,
+            726
+        ],
+        "text": "IT WAS AS IF YOU WERE SPURRING US ON WITH THAT WIND.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            188,
+            32,
+            245,
+            136
+        ],
+        "text": "...WASN'T SELF-CENTERED.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            343,
+            39,
+            425,
+            207
+        ],
+        "text": "...AND MADE US STRONGER.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            340,
+            527,
+            485,
+            706
+        ],
+        "text": "THE WAY YOU HATED LOSING INSPIRED EVERYONE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1006,
+            86,
+            1065,
+            161
+        ],
+        "text": "...BUT I ADMIT IT.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            999,
+            599,
+            1041,
+            702
+        ],
+        "text": "IT'S GALLING...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

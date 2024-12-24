@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            340,
+            50,
+            436,
+            519
+        ],
+        "text": "Q: I was watching One Piece Film Gold, and in the scene where they come face to face, Sakazuki says to Lucci, \"Well, well, look who thinks he's Mr. Pervert.\" What exactly did he mean by that?",
+        "panel_id": "1",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            441,
+            410,
+            465,
+            519
+        ],
+        "text": "--Domu Kon",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            475,
+            50,
+            573,
+            527
+        ],
+        "text": "A: Well, people grow more perverted every day, and even Rob Lucci is no exception to that rule. I believe this was the scene where Lucci is printing out some perverted pictures, and Sakazuki asks if he can have one...",
+        "panel_id": "2",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            577,
+            87,
+            626,
+            383
+        ],
+        "text": "It was \"Perfect\"!!!\nHe said \"Mr. Perfect\"!!!",
+        "panel_id": "2",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            648,
+            52,
+            818,
+            492
+        ],
+        "text": "Q: A question for Odaacchi. On Zou, Kin'emon seemed unfamiliar with the concept of the Transponder Snail, but now that we're in the Wano arc, there are cylindrical Transponder Snail lookalikes! Does that mean Wano developed a new means of communication within the last 20 years?",
+        "panel_id": "3",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            826,
+            225,
+            846,
+            487
+        ],
+        "text": "--Toppi Fleet Commander Ohta",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            864,
+            51,
+            1122,
+            490
+        ],
+        "text": "A: That's right. As Usopp explains in chapter 934, these are river snails that send mental signals. They became common in the 20 years since Kin'emon's group vanished, and now they're a common tool used around Wano. They also have Light-Scroll Snails that are similar to Visual Transponder Snails. The one weakness is that their signal strength is a bit weaker than a Transponder Snail's...\nAnd that's it! See you in next volume's SBS!!",
+        "panel_id": "4",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            998,
+            491,
+            1168,
+            743
+        ],
+        "text": "GLUB...\nUDO\nTHE SNAIL, YOU MEAN?! THESE SMART SNAILS ARE WANO'S VERSION OF TRANSPONDERS.\n126",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

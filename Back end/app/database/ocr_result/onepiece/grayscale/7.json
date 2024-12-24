@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            50,
+            112,
+            111,
+            241
+        ],
+        "text": "HOLD STRONG!\nDON'T GET\nSWEPT AWAY!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            27,
+            297,
+            105,
+            386
+        ],
+        "text": "WHERE'S\nTHIS WATER\nCOMING\nFROM?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            435,
+            100,
+            515
+        ],
+        "text": "OSOME!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            38,
+            634,
+            90,
+            699
+        ],
+        "text": "EEEEK!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            393,
+            234,
+            460,
+            335
+        ],
+        "text": "...SO\nBRAVE AND\nSTRONG...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            387,
+            549,
+            427,
+            621
+        ],
+        "text": "YOU HAVE\nBEEN...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            400,
+            649,
+            463,
+            729
+        ],
+        "text": "TREASURE\nREPOSITORY,\n2ND\nFLOOR",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            732,
+            168,
+            783,
+            256
+        ],
+        "text": "...LADY\nHIYORI!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            540,
+            808,
+            651
+        ],
+        "text": "...FOR\nALL OF\nTHESE MANY\nYEARS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            762,
+            678,
+            769,
+            760
+        ],
+        "text": "FWOOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            659,
+            361,
+            673,
+            429
+        ],
+        "text": "BE-BENG",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

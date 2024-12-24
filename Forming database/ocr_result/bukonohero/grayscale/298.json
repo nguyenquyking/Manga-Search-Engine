@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            28,
+            657,
+            83,
+            763
+        ],
+        "text": "She took the hit for my sake!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            253,
+            538,
+            281,
+            632
+        ],
+        "text": "You...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            272,
+            98,
+            376,
+            224
+        ],
+        "text": "You total idiot!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            476,
+            575,
+            580,
+            705
+        ],
+        "text": "I'm done for... It exceeded the cap...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            543,
+            216,
+            562,
+            308
+        ],
+        "text": "of my endurance boost?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            772,
+            572,
+            905,
+            750
+        ],
+        "text": "I've stolen it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            152,
+            862,
+            217
+        ],
+        "text": "Idiot, you say?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            964,
+            101,
+            1060,
+            249
+        ],
+        "text": "I have to agree there!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

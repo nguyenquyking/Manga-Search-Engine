@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            364,
+            61,
+            388,
+            347
+        ],
+        "text": "Twitter - Colorclovers",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            366,
+            751,
+            390,
+            869
+        ],
+        "text": "lcveberry",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

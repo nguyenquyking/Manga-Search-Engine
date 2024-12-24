@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            155,
+            517,
+            241,
+            627
+        ],
+        "text": "Then tell me this... Why, on that day...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            158,
+            792,
+            246,
+            955
+        ],
+        "text": "A ridiculous delusion? Such a sad way to see it...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            911,
+            633,
+            1068,
+            773
+        ],
+        "text": "...Knowing full well of my ties to your \"mortal enemy\"...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

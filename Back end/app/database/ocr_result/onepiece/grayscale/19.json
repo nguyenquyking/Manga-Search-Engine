@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            67,
+            58,
+            158,
+            173
+        ],
+        "text": "Kin, Kiku!! I didn't mean to drop you!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            564,
+            105,
+            646
+        ],
+        "text": "AAAH! Sorry!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            309,
+            55,
+            380,
+            175
+        ],
+        "text": "Strike down Kaido for us!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            298,
+            425,
+            383,
+            519
+        ],
+        "text": "You can do it, Straw Hat fellow!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            305,
+            642,
+            368,
+            746
+        ],
+        "text": "You're still breathing, right?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            567,
+            648,
+            629,
+            745
+        ],
+        "text": "You better not be dead!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            547,
+            66,
+            622,
+            138
+        ],
+        "text": "Until he's gone...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            733,
+            71,
+            804,
+            160
+        ],
+        "text": "Capture every last one of them!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            717,
+            190,
+            790,
+            265
+        ],
+        "text": "The vassals have escaped!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            735,
+            430,
+            782,
+            503
+        ],
+        "text": "Lord Oden!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            886,
+            332,
+            911,
+            406
+        ],
+        "text": "RAAAAAH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            712,
+            634,
+            768,
+            723
+        ],
+        "text": "Huff... Huff...!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1021,
+            577,
+            1099,
+            717
+        ],
+        "text": "...None of this is truly over!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

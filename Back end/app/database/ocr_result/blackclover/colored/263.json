@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            69,
+            152,
+            140,
+            238
+        ],
+        "text": "Nozel didn't tell you about that?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            413,
+            72,
+            518,
+            133
+        ],
+        "text": "You can't speak it out loud.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            403,
+            436,
+            435,
+            509
+        ],
+        "text": "SHHH.",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            829,
+            537,
+            867,
+            630
+        ],
+        "text": "You'll be cursed.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

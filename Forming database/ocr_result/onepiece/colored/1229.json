@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            50,
+            64,
+            103,
+            129
+        ],
+        "text": "Hey, Tama!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            150,
+            21,
+            218,
+            176
+        ],
+        "text": "We're going to the doctor! Do you think this dog knows the way there?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            479,
+            145,
+            527
+        ],
+        "text": "Oh... Big Bro.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            572,
+            87,
+            643
+        ],
+        "text": "BLINK...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            302,
+            44,
+            396,
+            190
+        ],
+        "text": "Ace is coming! He is!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            306,
+            562,
+            404,
+            698
+        ],
+        "text": "Yer a liar, Big Bro!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            470,
+            594,
+            553,
+            697
+        ],
+        "text": "Hey, knock it off! We're gonna fall.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            450,
+            27,
+            582,
+            171
+        ],
+        "text": "He can't!! Everyone in the world knows about the Battle of Marineford!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            687,
+            53,
+            792,
+            178
+        ],
+        "text": "Don't worry, we'll be back! And with a bigger crew!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            239,
+            768,
+            330
+        ],
+        "text": "But you're only five years old, Tama!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            709,
+            577,
+            784,
+            704
+        ],
+        "text": "But... But I made him a promise...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            436,
+            990,
+            557
+        ],
+        "text": "Ace! Take me to sea with ya!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1027,
+            55,
+            1099,
+            168
+        ],
+        "text": "Then will you let me join?",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

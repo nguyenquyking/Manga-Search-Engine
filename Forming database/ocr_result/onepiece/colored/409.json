@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            56,
+            309,
+            104,
+            372
+        ],
+        "text": "WA HA HA!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            72,
+            553,
+            192,
+            651
+        ],
+        "text": "IT PAINS ME TO HAVE TO GIVE THIS TO YOU NOW, OF ALL MOMENTS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            160,
+            285,
+            228,
+            381
+        ],
+        "text": "SO I'M DISOWNED, EH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            172,
+            19,
+            244,
+            115
+        ],
+        "text": "BANISHED FROM THE CAPITAL!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            34,
+            446,
+            167
+        ],
+        "text": "...IS UNABLE TO CONTAIN MY GREATNESS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            338,
+            476,
+            426,
+            561
+        ],
+        "text": "NO, THE FLOWER CAPITAL ITSELF--!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            361,
+            586,
+            464,
+            703
+        ],
+        "text": "A LAUGHABLE MOVE, SHOGUN!! ALL THIS MEANS IS THAT YOU...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            19,
+            702,
+            174
+        ],
+        "text": "I SHALL CROSS TO A NEW RIVERBANK!! WHEREVER THE SUN SETS, THAT SHALL BE MY BED!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            564,
+            577,
+            628,
+            700
+        ],
+        "text": "DISOWN AWAY!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            864,
+            50,
+            936,
+            133
+        ],
+        "text": "AHH, I'M HUNGRY NOW...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            33,
+            1107,
+            183
+        ],
+        "text": "THE MOUNTAIN GOD INCIDENT HAPPENED WHEN ODEN WAS JUST 18 YEARS OLD...",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            93,
+            618,
+            244,
+            818
+        ],
+        "text": "Shoto!! Once my fire burns you to ash...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            277,
+            85,
+            301,
+            242
+        ],
+        "text": "...I wonder...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1149,
+            73,
+            1257,
+            295
+        ],
+        "text": "...What kind of face Dad'll make?!",
+        "panel_id": "1",
+        "type": "thought"
+    }
+]

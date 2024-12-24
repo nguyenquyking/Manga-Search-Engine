@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            132,
+            446,
+            153,
+            499
+        ],
+        "text": "HERE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            172,
+            725,
+            216,
+            788
+        ],
+        "text": "WE'RE HERE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            222,
+            389,
+            300,
+            467
+        ],
+        "text": "BUT THERE'S NOTHING-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            241,
+            62,
+            281,
+            142
+        ],
+        "text": "SHADOW MAGIC.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            865,
+            830,
+            977,
+            950
+        ],
+        "text": "DARK GARDEN INVITATION.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

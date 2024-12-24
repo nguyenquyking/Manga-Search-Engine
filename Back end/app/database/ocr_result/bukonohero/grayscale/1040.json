@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            30,
+            50,
+            138,
+            187
+        ],
+        "text": "THE RULE IS THAT ONLY THE WILL OF ONE FOR ALL'S WIELDER CAN AFFECT IT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            89,
+            438,
+            198,
+            545
+        ],
+        "text": "GOOD, TOMURA! YOUR HATRED IS MAKING ITS MARK!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            187,
+            17,
+            330,
+            113
+        ],
+        "text": "...BUT YOUR RAGE IS STARTING TO EAT AWAY AT THAT VERY RULE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            582,
+            351,
+            675,
+            462
+        ],
+        "text": "WHOOPS... I NEARLY FORGOT! YOU HATE ME TOO!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            105,
+            1004,
+            187
+        ],
+        "text": "BUT STILL NOT ENOUGH, IT SEEMS.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1078,
+            346,
+            1104,
+            410
+        ],
+        "text": "FREEZE",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1009,
+            519,
+            1098,
+            637
+        ],
+        "text": "ALL THE BETTER!! HOW FITTING, FOR THE SYMBOL OF TERROR...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

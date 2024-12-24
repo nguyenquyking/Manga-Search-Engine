@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            1131,
+            96,
+            1183,
+            158
+        ],
+        "text": "Li...cht...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1233,
+            426,
+            1259,
+            474
+        ],
+        "text": "Te...tia...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1179,
+            590,
+            1205,
+            598
+        ],
+        "text": "...",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

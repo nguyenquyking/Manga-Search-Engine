@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            85,
+            144,
+            220,
+            305
+        ],
+        "text": "YOU'VE GOT THE COMMON TRASH, ALL TOO DEPENDENT ON BEING PROTECTED.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            487,
+            671,
+            575,
+            767
+        ],
+        "text": "IT'S A CORRUPT, VICIOUS CYCLE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            380,
+            795,
+            533,
+            937
+        ],
+        "text": "AND THE BRAVE GUARDIANS WHO CREATED THE TRASH THAT NEED CODDLING.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            875,
+            368,
+            983,
+            524
+        ],
+        "text": "THIS WHOLE SYSTEM YOU'VE BUILT HAS ALWAYS REJECTED ME.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            865,
+            568,
+            928,
+            700
+        ],
+        "text": "EVERYTHING I'VE WITNESSED...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1194,
+            123,
+            1272,
+            209
+        ],
+        "text": "SIMPLE ENOUGH, YEAH?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1279,
+            549,
+            1368,
+            674
+        ],
+        "text": "THAT'S WHY I TOOK THIS POWER FOR MYSELF.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1250,
+            719,
+            1317,
+            816
+        ],
+        "text": "THAT'S WHY I DESTROY.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1184,
+            851,
+            1249,
+            957
+        ],
+        "text": "NOW I'M READY TO REJECT IT.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

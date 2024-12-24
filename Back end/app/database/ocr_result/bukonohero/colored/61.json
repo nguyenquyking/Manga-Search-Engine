@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            80,
+            141,
+            86,
+            196
+        ],
+        "text": "THOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            276,
+            3,
+            290,
+            127
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "2",
+        "type": "background"
+    }
+]

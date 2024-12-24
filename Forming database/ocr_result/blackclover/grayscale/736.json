@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            109,
+            648,
+            131,
+            711
+        ],
+        "text": null,
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            345,
+            385,
+            358,
+            741
+        ],
+        "text": "Translation: Taylor Engel  Lettering: Annaliese \"Ace\" Christman",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            383,
+            313,
+            477,
+            409
+        ],
+        "text": "I'LL NEED TIME TO RELEASE MY FULL POWER!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            406,
+            191,
+            539,
+            259
+        ],
+        "text": "You aren't a magic knight, and I'm sorry to ask, but...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            315,
+            843,
+            398
+        ],
+        "text": "Until then, please... hold on, all of you!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            743,
+            115,
+            820,
+            204
+        ],
+        "text": "...I need your power. Please help us!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            317,
+            839,
+            730
+        ],
+        "text": "In this body, I'm really no match for that thing!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            899,
+            113,
+            903,
+            172
+        ],
+        "text": "WHUDD",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            895,
+            630,
+            902,
+            689
+        ],
+        "text": "WHUDD",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

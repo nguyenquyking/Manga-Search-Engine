@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            193,
+            1462,
+            332,
+            1608
+        ],
+        "text": "You have to do as he says! We'll be killed otherwise!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            963,
+            1367,
+            1024,
+            1524
+        ],
+        "text": "Yuga!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

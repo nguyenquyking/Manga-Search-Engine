@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            58,
+            195,
+            196,
+            316
+        ],
+        "text": "DID YOU GET...\nFATTER\nOVERNIGHT\n?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            336,
+            166,
+            704
+        ],
+        "text": "\u3071\u30fc\u3093\nARE WE GONNA START\nTODAY'S\nSUMO YET,\nOR WHAT?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            247,
+            787,
+            389
+        ],
+        "text": "Uh, do you think we should\nanounce that\nall of his Oshi-\nRuko vanished\novernight too?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            676,
+            432,
+            792,
+            549
+        ],
+        "text": "Whatever,\nthat doesn't\nmatter! I've\ngot to find\nout the truth\nof this news!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            685,
+            578,
+            783,
+            701
+        ],
+        "text": "I warned\nyou that they\nwould notice\nif you overate,\nSir Luffy!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            754,
+            77,
+            1092,
+            217
+        ],
+        "text": "KSHA!!\nA VISUAL\nTRAN-\nSPONDER\nSNAIL?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            259,
+            1134,
+            382
+        ],
+        "text": "NO WAY!\nWho knows what\nhe'll do if he\nsuffers that\nkind of double\nshock?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1100,
+            465,
+            1143,
+            658
+        ],
+        "text": "HOW DOES THAT IDIOT\nKEEP SURVIVING?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

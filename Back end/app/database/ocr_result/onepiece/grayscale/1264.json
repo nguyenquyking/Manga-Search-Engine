@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            92,
+            191,
+            133,
+            361
+        ],
+        "text": "WHOA!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            194,
+            277,
+            239,
+            423
+        ],
+        "text": "FSH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            606,
+            696,
+            663,
+            737
+        ],
+        "text": "BAM!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1157,
+            1182,
+            1296,
+            1376
+        ],
+        "text": "AAAGH!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1449,
+            128,
+            1557,
+            375
+        ],
+        "text": "YIKES!! THAT WAS LADY ULTI'S HEADBUTT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1902,
+            116,
+            2054,
+            288
+        ],
+        "text": "HIS SKULL MUST BE PULVERIZED!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1896,
+            334,
+            2118,
+            563
+        ],
+        "text": "IT'S JUST LIKE A CANNON!! SHE LEFT A HOLE IN THE FLOOR...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1587,
+            1056,
+            1656,
+            1344
+        ],
+        "text": "CRASH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

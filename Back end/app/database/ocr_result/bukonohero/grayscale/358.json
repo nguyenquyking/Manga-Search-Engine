@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            380,
+            211,
+            430,
+            294
+        ],
+        "text": "@eYuler",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            553,
+            121,
+            678,
+            221
+        ],
+        "text": "...His hatred accumulated.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            605,
+            421,
+            651,
+            529
+        ],
+        "text": "Slowly...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            613,
+            715,
+            737,
+            807
+        ],
+        "text": "It all began at that home.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            136,
+            109,
+            295,
+            352
+        ],
+        "text": "It's like he's being sucked right into the entrance!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            460,
+            83,
+            555,
+            231
+        ],
+        "text": "Sir Sanji!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            234,
+            941,
+            486
+        ],
+        "text": "I will find a way to escape on my own!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            818,
+            720,
+            965,
+            993
+        ],
+        "text": "We'll make up a team to search for Lord Momonosuke!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            812,
+            1084,
+            961,
+            1301
+        ],
+        "text": "We'll go and infiltrate the building too, Kin'emon.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1442,
+            149,
+            1632,
+            377
+        ],
+        "text": "Look, someone's coming out of the Pleasure Hall!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1460,
+            501,
+            1632,
+            732
+        ],
+        "text": "I am grateful to you... to be honest, my mind has scarcely been present.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1445,
+            796,
+            1598,
+            961
+        ],
+        "text": "You can focus on the fight, Kin'emon!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1451,
+            1062,
+            1591,
+            1316
+        ],
+        "text": "You're worried sick about him, aren't you? Let us handle it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1691,
+            177,
+            1734,
+            329
+        ],
+        "text": "SWISH...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1948,
+            502,
+            2034,
+            640
+        ],
+        "text": "Please do it!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

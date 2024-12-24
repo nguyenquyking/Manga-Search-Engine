@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            100,
+            282,
+            180,
+            381
+        ],
+        "text": "No, he can't possibly have-",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            476,
+            160,
+            553
+        ],
+        "text": "Don't tell me!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            100,
+            592,
+            260,
+            699
+        ],
+        "text": "I'm certainly not as awkward as the owner of this body...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            161,
+            181,
+            184,
+            226
+        ],
+        "text": "Sis!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            241,
+            247,
+            273,
+            287
+        ],
+        "text": "Sis...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            244,
+            361,
+            328,
+            482
+        ],
+        "text": "Has Yami picked up on my feelings?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            43,
+            353,
+            100
+        ],
+        "text": "What is it, Sol-",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            680,
+            799,
+            824,
+            915
+        ],
+        "text": "The Black Bulls Captain is here.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1212,
+            619,
+            1521,
+            965
+        ],
+        "text": "Yami-IIII?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

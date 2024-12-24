@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            111,
+            114,
+            162,
+            194
+        ],
+        "text": "\u9285\u50cf\uff1f",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            132,
+            350,
+            129,
+            562
+        ],
+        "text": "\u3084\u3063\u305f\u30fc!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            73,
+            342,
+            79,
+            545
+        ],
+        "text": "\u30eb\u30d5\u30a3\u306e\u5922\uff01\n\u30d5\u30a1\u30f3\u306e\u5922!!",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            582,
+            365,
+            677,
+            587
+        ],
+        "text": "\u5c3e\u7530\u6804\u4e00\u90ce\u306e\u6545\u90f7\u30fb\u718a\u672c\u306b\n\u30eb\u30d5\u30a3\u306e\u9285\u50cf\u304c\u7acb\u3063\u305f\u305e!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            670,
+            181,
+            683,
+            270
+        ],
+        "text": "\u3012862-8570",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            691,
+            635,
+            702,
+            668
+        ],
+        "text": "\u718a\u672c\u770c\u5e81HP",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            714,
+            91,
+            765,
+            195
+        ],
+        "text": "6\u4e01\u76ee18\u756a1\u53f7\n\u718a\u672c\u770c\u5e81HP",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            826,
+            86,
+            879,
+            371
+        ],
+        "text": "\u3055\u3089\u306b\n\u6771\u4eac\u30ac\u30fc\u30eb\u30ba\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u304c\n\u718a\u672c\u306b\u4e0a\u9678!!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            914,
+            95,
+            964,
+            357
+        ],
+        "text": "\u718a\u672c\u306b\u56fd\u5185\u6700\u5927\u7d1a\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u30d5\u30a7\u30b9\n\u4e0a\u9678!! \u9ea6\u308f\u3089\u306e\u4e00\u5473\u3082\u30c1\u30e3\u30ea\u30c6\u30a3\u30fc\n\u4f01\u753b\u306e\u70ba\u306b\u3001\u30a4\u30d9\u30f3\u30c8\u3092\u76db\u308a\u4e0a\u3052\u308b!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1022,
+            112,
+            1053,
+            351
+        ],
+        "text": "\u30b3\u30e9\u30dc\u30ab\u30d5\u30a7\u3082\n\u718a\u672c\u306b\u30aa\u30fc\u30d7\u30f3\u4e88\u5b9a!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1082,
+            107,
+            1104,
+            581
+        ],
+        "text": "\u7d9a\u5831\u306f\u6771\u4eac\u30ac\u30fc\u30eb\u30ba\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u516c\u5f0f\u30b5\u30a4\u30c8\u3092\u30c1\u30a7\u30c3\u30af!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1111,
+            106,
+            1134,
+            588
+        ],
+        "text": "http://girlswalker.com/tgc/kumamoto/2019/",
+        "panel_id": "6",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1152,
+            695,
+            1166,
+            723
+        ],
+        "text": "220",
+        "panel_id": "6",
+        "type": "background"
+    }
+]

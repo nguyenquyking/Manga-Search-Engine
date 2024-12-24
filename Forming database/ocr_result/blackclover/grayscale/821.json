@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            48,
+            87,
+            98,
+            122
+        ],
+        "text": "GLOWR",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            57,
+            385,
+            184,
+            490
+        ],
+        "text": "You are the ultimate prey.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            554,
+            29,
+            699,
+            142
+        ],
+        "text": "We can't wait to hear you scream.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            181,
+            1044,
+            476
+        ],
+        "text": "Their magic's far too massive. It feels as if it might drive me insane!!!",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            865,
+            206,
+            948,
+            498
+        ],
+        "text": "Their power is more than just one plus one... Dammit!!",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

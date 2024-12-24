@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            108,
+            110,
+            427,
+            384
+        ],
+        "text": "If I fail to defeat him, there will be no others who can stop Kaido for a long time.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            503,
+            270,
+            663
+        ],
+        "text": "Toki, I have reached my limit.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            776,
+            220,
+            999
+        ],
+        "text": "My Lady... I've received word of Lord Oden's death...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            92,
+            1108,
+            324,
+            1291
+        ],
+        "text": "...to be carried on by the players of the next stage.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            382,
+            676,
+            520,
+            853
+        ],
+        "text": "They say it was a tremendous end...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            786,
+            345,
+            1019,
+            619
+        ],
+        "text": "In other words, in another 20 years, the primary figures of this great war...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            835,
+            122,
+            1069,
+            286
+        ],
+        "text": "...will muscle their way into the new world!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            781,
+            825,
+            1017,
+            1121
+        ],
+        "text": "...there will likely be a massive war, terrible enough to split the seas themselves.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            779,
+            1175,
+            935,
+            1314
+        ],
+        "text": "Over 20 years ahead of us...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1674,
+            116,
+            1838,
+            332
+        ],
+        "text": "A long winter will settle over Wano...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1678,
+            1052,
+            1846,
+            1301
+        ],
+        "text": "They are the ones who can strike down Kaido!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

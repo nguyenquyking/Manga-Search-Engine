@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            249,
+            811,
+            347,
+            936
+        ],
+        "text": "IF IT'S NOT GOING TO WORK ANYWAY...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            417,
+            128,
+            500,
+            230
+        ],
+        "text": "...THEN DIE HERE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            955,
+            90,
+            1155,
+            158
+        ],
+        "text": "LIEBE!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

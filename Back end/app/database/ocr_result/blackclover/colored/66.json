@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            468,
+            160,
+            557,
+            249
+        ],
+        "text": null,
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1021,
+            1103,
+            1036,
+            1436
+        ],
+        "text": "@UCHIHHAFAMILLE",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

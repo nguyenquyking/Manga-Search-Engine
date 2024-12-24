@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            140,
+            55,
+            186,
+            156
+        ],
+        "text": "WHAT HAPPENED",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            264,
+            6,
+            338,
+            131
+        ],
+        "text": "They're flying back this way!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            121,
+            552,
+            196,
+            696
+        ],
+        "text": "YAGURA RYUO!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            178,
+            308,
+            175,
+            418
+        ],
+        "text": "Wha-Wha-Wham",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            313,
+            561,
+            380,
+            670
+        ],
+        "text": "AAAAH!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            577,
+            155,
+            614,
+            233
+        ],
+        "text": "THAT TECHNIQUE...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            583,
+            273,
+            674,
+            395
+        ],
+        "text": "IT SEEMS THAT KAWAMATSU HAS NOT LOST A STEP AFTER ALL THIS TIME!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            588,
+            423,
+            660,
+            513
+        ],
+        "text": "IF YOUR FEET COME OFF THE GROUND, YOU'LL LOSE.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            586,
+            638,
+            644,
+            707
+        ],
+        "text": "WHAT?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            630,
+            41,
+            639,
+            78
+        ],
+        "text": "AAAA...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            746,
+            17,
+            810,
+            76
+        ],
+        "text": "THANK GOODNESS!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            969,
+            38,
+            1087,
+            149
+        ],
+        "text": "...THEY CALL THIS KAPPA STYLE!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            908,
+            593,
+            1042,
+            703
+        ],
+        "text": "LIKE SWIMMING AGAINST THE RAPIDS OF THE GREAT RIVER...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1110,
+            556,
+            1128,
+            612
+        ],
+        "text": "GLINT!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            218,
+            52,
+            907,
+            452
+        ],
+        "text": "...AND STALL THEM HERE IN THIS DARK PRISON",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            216,
+            875,
+            613,
+            1305
+        ],
+        "text": "KEEP EVADING UNTIL I DIE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1609,
+            366,
+            1725,
+            528
+        ],
+        "text": "Jib... Why...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1604,
+            678,
+            1667,
+            756
+        ],
+        "text": "And yet...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1663,
+            811,
+            1734,
+            900
+        ],
+        "text": "But then...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1842,
+            302,
+            1961,
+            478
+        ],
+        "text": "Why don't you run away??",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2004,
+            885,
+            2069,
+            979
+        ],
+        "text": "You're fast.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1771,
+            1245,
+            1805,
+            1337
+        ],
+        "text": "Good.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1963,
+            1014,
+            2006,
+            1212
+        ],
+        "text": "Jib... Yes, good.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

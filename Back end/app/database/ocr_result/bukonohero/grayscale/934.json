@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            783,
+            98,
+            836,
+            183
+        ],
+        "text": "The boss fares no better.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            764,
+            284,
+            854,
+            397
+        ],
+        "text": "Such dire straits, and all I can do is tickle my own behind?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            609,
+            849,
+            746
+        ],
+        "text": "This tidy tie-up job prevents me from touching the cables.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            965,
+            569,
+            1074,
+            707
+        ],
+        "text": "And without physical touch, I cannot activate my compress quirk.",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

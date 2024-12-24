@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            144,
+            96,
+            118,
+            208
+        ],
+        "text": "\u30d2\u30e5\u30aa\u30aa\u30aa\nHWOOOOO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            100,
+            408,
+            201,
+            483
+        ],
+        "text": "THIS\nWAY,\nOVER\nHERE!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            278,
+            69,
+            371,
+            149
+        ],
+        "text": "HUH?!\nWHERE\nARE\nWE...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            478,
+            902,
+            503,
+            998
+        ],
+        "text": "WHOA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            802,
+            887,
+            1037
+        ],
+        "text": "Snow\nCreation\nMagic:",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1145,
+            83,
+            1254,
+            408
+        ],
+        "text": "Snowman\nSafehouse",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            70,
+            34,
+            218,
+            194
+        ],
+        "text": "THAT WAS FORGED BY MY FORE-FATHER, KOTETSU! IT IS ONE OF THE MOST FAMOUS WEAPONS IN ALL THE WORLD!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            73,
+            219,
+            184,
+            331
+        ],
+        "text": "IT IS DISRESPECTFUL TO EVEN TOUCH THAT BLADE WITHOUT REVERENCE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            359,
+            139,
+            464
+        ],
+        "text": "NO! WAIT, YOU FOOL!! NOT THAT ONE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            58,
+            622,
+            157,
+            703
+        ],
+        "text": "I'M GONNA BORROW THIS SWORD TOO. NOW I LOOK LIKE A SAMURAI!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            341,
+            349,
+            422,
+            466
+        ],
+        "text": "HANG ON, TAMA! I'M TAKING YOU TO A DOCTOR!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            526,
+            402,
+            597
+        ],
+        "text": "I'M HEADING OUT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            381,
+            619,
+            403,
+            678
+        ],
+        "text": "OKAY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            25,
+            680,
+            181
+        ],
+        "text": "...IS KITETSU II!!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            529,
+            560,
+            708,
+            703
+        ],
+        "text": "IT IS COUNTED AMONG THE 21 EXCELLENT-GRADE SWORDS!! AND ITS NAME...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            811,
+            61,
+            894,
+            163
+        ],
+        "text": "KITETSU...? WHY DOES THAT SOUND FAMILIAR?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            811,
+            225,
+            936,
+            389
+        ],
+        "text": "THE 12 SUPREME-GRADE WEAPONS\nTHE 21 EXCELLENT-GRADE WEAPONS\nTHE 50 FINE-GRADE WEAPONS",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            810,
+            408,
+            1006,
+            559
+        ],
+        "text": "AMONG THE COUNTLESS WEAPONS (SWORDS, SPEARS, ETC.) IN THE WORLD,\nTHESE ARE THE ONES FORGED BY CELEBRATED MASTERS OF THE ART.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            882,
+            606,
+            944,
+            684
+        ],
+        "text": "THE FAMED SWORDS",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

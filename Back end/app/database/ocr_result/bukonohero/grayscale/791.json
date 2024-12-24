@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            65,
+            91,
+            210,
+            216
+        ],
+        "text": "I've already thought up a statement, more or less, but there's one point I'm still fuzzy on...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            262,
+            172,
+            367
+        ],
+        "text": "Now that Dabi's accusation is public, there's no avoiding it.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            62,
+            576,
+            175,
+            697
+        ],
+        "text": "Sorry if I seem pushy, but first, it's your duty to provide the people with an explanation!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            77,
+            456,
+            148
+        ],
+        "text": "That... reminds me...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            366,
+            357,
+            499,
+            463
+        ],
+        "text": "ONE FOR ALL.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            595,
+            57,
+            614,
+            201
+        ],
+        "text": "RAH RAH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            861,
+            166,
+            992,
+            271
+        ],
+        "text": "I guess the only people entering Central Hospital right now are connected to the heroes inside...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            948,
+            347,
+            1022,
+            470
+        ],
+        "text": "What is it, exactly?",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

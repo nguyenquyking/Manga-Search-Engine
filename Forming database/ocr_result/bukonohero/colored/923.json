@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            80,
+            36,
+            212,
+            244
+        ],
+        "text": "WITHOUT FAIL!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            330,
+            189,
+            367,
+            348
+        ],
+        "text": "A GIRL IMPRISONED!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            41,
+            621,
+            305,
+            776
+        ],
+        "text": "THIS TIME WE'LL PROTECT ERI...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1000,
+            127,
+            1096,
+            264
+        ],
+        "text": "Then, due to whatever kind of trouble,\nshe escaped outside!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            990,
+            321,
+            1121,
+            478
+        ],
+        "text": "But if it's as we deduced, that kid is the \"core\" to the plan that the capo wanted to keep under wraps, right?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1090,
+            9,
+            1175,
+            138
+        ],
+        "text": "To top it off, she was spotted by heroes!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1095,
+            515,
+            1195,
+            637
+        ],
+        "text": "Hmph. Yeah, it's all well and good if the kid lives...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

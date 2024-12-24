@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            79,
+            622,
+            154,
+            758
+        ],
+        "text": "Chizome... Akaguro.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            135,
+            168,
+            207,
+            243
+        ],
+        "text": "You... worked with Shigaraki...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            138,
+            70,
+            200,
+            145
+        ],
+        "text": "This is... not for you.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            342,
+            171,
+            423,
+            257
+        ],
+        "text": "So it's something that matters then?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            52,
+            415,
+            125
+        ],
+        "text": "KRASH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            417,
+            596,
+            452,
+            658
+        ],
+        "text": "KABOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            561,
+            314,
+            598,
+            381
+        ],
+        "text": "Stored data...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            739,
+            364,
+            871,
+            492
+        ],
+        "text": "Drop it... That must reach... the right people!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            767,
+            156,
+            856,
+            234
+        ],
+        "text": "Give it back... Not for you.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            72,
+            924,
+            146
+        ],
+        "text": "Must... Do my duty!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            771,
+            611,
+            787,
+            651
+        ],
+        "text": "You...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            875,
+            719,
+            889,
+            780
+        ],
+        "text": "KRASH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            721,
+            551,
+            898,
+            768
+        ],
+        "text": "RMMBL... Killer!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1030,
+            501,
+            1037,
+            520
+        ],
+        "text": null,
+        "panel_id": "4",
+        "type": "other"
+    }
+]

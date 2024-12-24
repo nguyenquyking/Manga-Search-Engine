@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            141,
+            413,
+            467,
+            622
+        ],
+        "text": "I saw Langris and that guy...and dashed out here without thinking.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            208,
+            689,
+            416,
+            870
+        ],
+        "text": "You came to rescue me again?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            196,
+            1293,
+            444,
+            1417
+        ],
+        "text": "What are you doing here...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            40,
+            446,
+            196
+        ],
+        "text": "Nope!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            81,
+            810,
+            407
+        ],
+        "text": "Sorry.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1016,
+            297,
+            1218,
+            509
+        ],
+        "text": "I can't see a guy like that and not stop!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            1246,
+            982,
+            1447
+        ],
+        "text": "That guy abducted our captain.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1115,
+            1050,
+            1232,
+            1204
+        ],
+        "text": "Using spatial magic!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1646,
+            45,
+            1838,
+            351
+        ],
+        "text": "...Mister Yami!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1506,
+            1171,
+            1880,
+            1423
+        ],
+        "text": "I'm going to take a little side trip...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1502,
+            943,
+            1481,
+            1053
+        ],
+        "text": "SHREE",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            2022,
+            909,
+            2047,
+            984
+        ],
+        "text": "ZZT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

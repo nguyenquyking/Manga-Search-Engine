@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            136,
+            261,
+            233,
+            335
+        ],
+        "text": "FUAAAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            380,
+            1050,
+            636,
+            1249
+        ],
+        "text": "WHILE TWILIGHT VALHALLA IS ACTIVE, IT BOOSTS THE MAGIC OF ANY COMPANIONS WITHIN ITS RANGE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1058,
+            114,
+            1335,
+            350
+        ],
+        "text": "...AND MAKES IT SO THEY WON'T DIE, NO MATTER WHAT DAMAGE THEY TAKE!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1362,
+            1071,
+            1646,
+            1289
+        ],
+        "text": "JUST FOR A FEW MINUTES,\nWE'RE INVINCIBLE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1602,
+            584,
+            1656,
+            651
+        ],
+        "text": "IJU, JU!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1719,
+            100,
+            1965,
+            330
+        ],
+        "text": "ONCE IT'S OVER, THE DAMAGE WILL COME BACK, BUT WHO CARES AT THIS POINT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

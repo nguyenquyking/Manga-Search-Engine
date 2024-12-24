@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            41,
+            280,
+            223,
+            414
+        ],
+        "text": "I WILL SAVE YOU.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            578,
+            121,
+            700,
+            295
+        ],
+        "text": "NO MATTER WHAT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            195,
+            816,
+            764
+        ],
+        "text": "dabi_s_wife/ @ColorClovers",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            849,
+            761,
+            1037,
+            932
+        ],
+        "text": "JUST HOLD ON...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1329,
+            190,
+            1369,
+            406
+        ],
+        "text": "...YAMI!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1324,
+            395,
+            1522,
+            1230
+        ],
+        "text": "AS IF I'D LET YOU DIE LIKE THIS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

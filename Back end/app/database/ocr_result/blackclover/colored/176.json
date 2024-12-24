@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            80,
+            77,
+            156,
+            84
+        ],
+        "text": "...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            124,
+            239,
+            288,
+            379
+        ],
+        "text": "You can still do so much...\nI don't want your potential to be unfulfilled on my account...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            644,
+            332,
+            861
+        ],
+        "text": "500 years ago, I should have perished after exhausting all my strength,\nBut thanks to you, I was able to come back and protect the future...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            536,
+            24,
+            647,
+            191
+        ],
+        "text": "Both the Magic Knights, and the Clover Kingdom you defend...!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            536,
+            740,
+            616,
+            860
+        ],
+        "text": "I look forward to the futures that await...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            845,
+            31,
+            923,
+            331
+        ],
+        "text": "I couldn't be happier...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            454,
+            980,
+            653
+        ],
+        "text": "And to have met my descendants, too...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            861,
+            4,
+            1090,
+            244
+        ],
+        "text": "U\nU",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

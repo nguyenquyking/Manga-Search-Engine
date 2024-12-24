@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            164,
+            644,
+            251,
+            751
+        ],
+        "text": "The Red Beasts have been destroyed.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            239,
+            358,
+            420,
+            515
+        ],
+        "text": "Very, very, very good!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            378,
+            56,
+            539,
+            159
+        ],
+        "text": "I'VE BEEN WAITING FOR THIS STUFF!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            536,
+            598,
+            662
+        ],
+        "text": "Both her appearance and her strength are completely unlike what they were in the Heart Kingdom.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            753,
+            56,
+            859,
+            140
+        ],
+        "text": "NOELLE!! FINISH HER WITHIN ONE MINUTE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            351,
+            913,
+            434
+        ],
+        "text": "WE CAN'T TAKE OUR TIME HERE THOUGH.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            925,
+            468,
+            992,
+            532
+        ],
+        "text": "NOELLE IS INCREDIBLE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            644,
+            840,
+            752
+        ],
+        "text": "CHARLOTTE, EVEN IF YOUR BLUE ROSES WEAKENED THAT CURSE-WARDING MAGIC...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

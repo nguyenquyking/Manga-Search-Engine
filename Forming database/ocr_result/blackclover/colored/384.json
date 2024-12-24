@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            824,
+            22,
+            829,
+            192
+        ],
+        "text": "By @Val_Clover",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            923,
+            107,
+            1086,
+            248
+        ],
+        "text": "So all you care about is filling your own desires!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            870,
+            621,
+            1027,
+            769
+        ],
+        "text": "Just one percent more gave her a phenomenal increase in power!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1245,
+            741,
+            1346,
+            799
+        ],
+        "text": "Ah ha ha!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1306,
+            443,
+            1432,
+            571
+        ],
+        "text": "Is that how you killed my mother...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1516,
+            15,
+            1742,
+            177
+        ],
+        "text": "...Acier Silva of the Clover Kingdom?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1544,
+            2062,
+            1789,
+            2222
+        ],
+        "text": "Nice!!! I'm getting all fired up!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1676,
+            588,
+            1734,
+            721
+        ],
+        "text": "52 Percent.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            818,
+            1919,
+            884,
+            2079
+        ],
+        "text": "51 Percent!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

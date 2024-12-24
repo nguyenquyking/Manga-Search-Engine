@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            117,
+            76,
+            112,
+            164
+        ],
+        "text": "HWOOOOO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            598,
+            46,
+            614,
+            182
+        ],
+        "text": "@XVALCLOVER",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            598,
+            613,
+            614,
+            775
+        ],
+        "text": "@COLORCLOVERS",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            667,
+            292,
+            699,
+            334
+        ],
+        "text": "WELL, WELL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            922,
+            163,
+            990,
+            231
+        ],
+        "text": "THEY'VE SHOWN THEMSELVES.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

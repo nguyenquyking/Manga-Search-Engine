@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            104,
+            338,
+            192,
+            995
+        ],
+        "text": "RAAAAAARGH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            249,
+            87,
+            369,
+            246
+        ],
+        "text": "KYO-SHIROOO!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            604,
+            82,
+            763,
+            285
+        ],
+        "text": "Now I don't care about the history of Wano... But the price for betraying me will be steep, indeed.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            614,
+            332,
+            745,
+            488
+        ],
+        "text": "Turns out Kyoshiro was one of Oden's vassals in disguise...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            627,
+            547,
+            707,
+            718
+        ],
+        "text": "I'm a fool... I was tricked by a friend.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            600,
+            770,
+            710,
+            1002
+        ],
+        "text": "We're so sorry, Master Sasaki! We didn't realize you were captured!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            544,
+            872,
+            677
+        ],
+        "text": "Did Big Mom do all of this?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1177,
+            239,
+            1260,
+            468
+        ],
+        "text": "Hmm... What's with all the noise up above...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1267,
+            552,
+            1368,
+            774
+        ],
+        "text": "What kind of power sends that all the way outside?! On the other hand...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1260,
+            837,
+            1372,
+            991
+        ],
+        "text": "Yes, there was a big battle in the dome, and...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1440,
+            531,
+            1528,
+            692
+        ],
+        "text": "...It did knock over the sacred tree so I could escape...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1356,
+            296,
+            1385,
+            470
+        ],
+        "text": "RAAH...",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1392,
+            101,
+            1476,
+            273
+        ],
+        "text": "Ah! That's Master Kaido, sir...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

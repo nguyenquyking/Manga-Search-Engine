@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            243,
+            44,
+            400,
+            190
+        ],
+        "text": "...You've all been suspicious of Captain Vengeance too!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            236,
+            805,
+            364,
+            952
+        ],
+        "text": "It's not just me! Ever since the elf incident...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            668,
+            376,
+            857,
+            463
+        ],
+        "text": "But that's exactly why, even though he's hurting now...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            705,
+            33,
+            913,
+            160
+        ],
+        "text": "...He's constantly fighting, more earnestly than anyone else, as a magic knight!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            753,
+            852,
+            844,
+            951
+        ],
+        "text": "I can't blame you for that.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            530,
+            1062,
+            634
+        ],
+        "text": "After all, he wasn't able to choose between the humans and the elves.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1224,
+            123,
+            1376,
+            252
+        ],
+        "text": "...As I was blacking out, I remember seeing something.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1204,
+            874,
+            1364,
+            944
+        ],
+        "text": "Back then, after that guy got me...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

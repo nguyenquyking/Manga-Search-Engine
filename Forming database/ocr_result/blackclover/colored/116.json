@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            137,
+            129,
+            507,
+            1388
+        ],
+        "text": "Light Whip of Judgment",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            202,
+            262,
+            353,
+            1450
+        ],
+        "text": "Demon Light Creation Magic:",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1000,
+            75,
+            1060,
+            1499
+        ],
+        "text": "Twitter:@ColorClovers     @Jatesque",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1098,
+            197,
+            1296,
+            414
+        ],
+        "text": "THIS TIME I WON'T DOUBT",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1098,
+            1278,
+            1209,
+            1469
+        ],
+        "text": "THE BOND BETWEEN THEM...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            922,
+            1256,
+            894,
+            1360
+        ],
+        "text": "FWASH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1705,
+            613,
+            2108,
+            976
+        ],
+        "text": "WOBB GHK\nKRIKL\nKRIKL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1739,
+            1327,
+            1719,
+            1445
+        ],
+        "text": "THROB",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

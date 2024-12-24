@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            50,
+            152,
+            93,
+            231
+        ],
+        "text": "H... Hiyori!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            52,
+            272,
+            123,
+            375
+        ],
+        "text": "Treasure Repository,\n2nd Floor,\nOnigashima",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            62,
+            566,
+            137,
+            714
+        ],
+        "text": "...There is no power more ridiculous!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            467,
+            61,
+            539,
+            192
+        ],
+        "text": "I... I was being used!!\nBy Kaido!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            59,
+            691,
+            202
+        ],
+        "text": "Come, let's escape his wrath together! Now undo the nails...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            447,
+            614,
+            545,
+            732
+        ],
+        "text": "I... I loved Oden too, you know...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            604,
+            624,
+            667,
+            717
+        ],
+        "text": "Th... Think carefully now!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            74,
+            917,
+            143
+        ],
+        "text": "Did he not?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            791,
+            184,
+            874,
+            276
+        ],
+        "text": "My father upheld his promise to you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            373,
+            871,
+            474
+        ],
+        "text": "...Who do you expect will listen to you now?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            521,
+            871,
+            724
+        ],
+        "text": "After you have kicked dirt upon every samurai to whom you owed a debt...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

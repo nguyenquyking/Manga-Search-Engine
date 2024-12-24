@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            105,
+            575,
+            207,
+            745
+        ],
+        "text": "Young Togata is currently working under Night Eye in his hero internship.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            403,
+            83,
+            481,
+            219
+        ],
+        "text": "As long as Sir's opinion doesn't change, ya know?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            298,
+            509,
+            420
+        ],
+        "text": "So after you graduate you'll pretty much be his sidekick already!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            390,
+            450,
+            497,
+            587
+        ],
+        "text": "It's continued for a whole year now!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            405,
+            667,
+            485,
+            792
+        ],
+        "text": "Really, Togata-senpai?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            538,
+            4,
+            575,
+            77
+        ],
+        "text": "That's so cool!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            875,
+            634,
+            933,
+            771
+        ],
+        "text": "Young Togata, from your perspective...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1063,
+            584,
+            1150,
+            755
+        ],
+        "text": "Do you think young Midoriya can work under Night Eye?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1031,
+            129,
+            1060,
+            210
+        ],
+        "text": "Hmm...",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

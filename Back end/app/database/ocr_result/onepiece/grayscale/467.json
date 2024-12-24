@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            52,
+            446,
+            139,
+            532
+        ],
+        "text": "CLEAR LANCE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            208,
+            561,
+            271,
+            635
+        ],
+        "text": "TWO SWORD STYLE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            169,
+            670,
+            238,
+            726
+        ],
+        "text": "I'M FALLING!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            68,
+            412,
+            210
+        ],
+        "text": "AT LEAST LET ME DIE BY THE SWORD!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            589,
+            55,
+            635,
+            213
+        ],
+        "text": "SHOW A LITTLE RESPECT!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            283,
+            636,
+            343
+        ],
+        "text": "THAT WAS CLOSE!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            580,
+            355,
+            640,
+            451
+        ],
+        "text": "HUFF, HUFF, WEEZ, WEEZ...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            499,
+            660,
+            601,
+            732
+        ],
+        "text": "OOF!\nWHEW...\nHUFF!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            943,
+            591,
+            1076,
+            722
+        ],
+        "text": "I'D ASK THE SAME OF YOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            4,
+            807,
+            68
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1124,
+            50,
+            1141,
+            216
+        ],
+        "text": "To be continued!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

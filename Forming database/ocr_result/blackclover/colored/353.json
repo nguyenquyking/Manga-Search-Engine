@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            53,
+            258,
+            276,
+            397
+        ],
+        "text": "So, to make it up for it, you trash just need to give us what little magic you have! It's all you're good for!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            75,
+            717,
+            228,
+            838
+        ],
+        "text": "You guys can't even use any decent offensive magic!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            353,
+            27,
+            490,
+            161
+        ],
+        "text": "...But you... I'll give you a special role, just for you...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            612,
+            362,
+            731,
+            441
+        ],
+        "text": "Nooooooooo!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            643,
+            23,
+            791,
+            145
+        ],
+        "text": "I can give good work to a low-tier, pretty young thing like yourself...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            323,
+            796,
+            351
+        ],
+        "text": "Big sis!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            999,
+            7,
+            1202,
+            132
+        ],
+        "text": "So be honored! Gehyahya Hya-!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1066,
+            742,
+            1206,
+            843
+        ],
+        "text": "You can give us your body!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

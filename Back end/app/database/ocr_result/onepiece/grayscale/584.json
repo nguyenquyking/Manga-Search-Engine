@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            112,
+            317,
+            143,
+            445
+        ],
+        "text": "COLD\nSOUL!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            209,
+            50,
+            466,
+            161
+        ],
+        "text": "CRAAAK!!!\nTHAT'S\nFREEZING\n!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            564,
+            310,
+            625,
+            428
+        ],
+        "text": "WANYUDO\n!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            574,
+            465,
+            633,
+            552
+        ],
+        "text": "GYAAA\n!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            912,
+            53,
+            943,
+            109
+        ],
+        "text": "AH!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            984,
+            599,
+            1096,
+            736
+        ],
+        "text": "GIVE\nUP AND\nFACE YOUR\nEND!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

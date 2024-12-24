@@ -1,0 +1,244 @@
+[
+    {
+        "text_box": [
+            687,
+            94,
+            832,
+            236
+        ],
+        "text": "BWU-HEAAH!!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            259,
+            506,
+            290,
+            646
+        ],
+        "text": "BA GO GO GONG!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            125,
+            805,
+            289,
+            978
+        ],
+        "text": "BOEUF\nBURST\n!!!!",
+        "panel_id": "2",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            48,
+            1354,
+            114,
+            1486
+        ],
+        "text": "Huh?!\nMaster\nQueen!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            1061,
+            373,
+            1210
+        ],
+        "text": "PALERON\nPOUND!!",
+        "panel_id": "4",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            333,
+            1282,
+            398,
+            1365
+        ],
+        "text": "BASSES\nC\u00d4TE\nBLAST!!",
+        "panel_id": "4",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            503,
+            1064,
+            551,
+            1110
+        ],
+        "text": "AGH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            551,
+            1270,
+            569,
+            1323
+        ],
+        "text": "GONK!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            598,
+            1384,
+            672,
+            1495
+        ],
+        "text": "JUMEAU\nA BIFTECK\nBLITZ!!!",
+        "panel_id": "5",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            635,
+            1072,
+            704,
+            1169
+        ],
+        "text": "TENDRON\nTENDER-\nIZER!!!",
+        "panel_id": "5",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            643,
+            1240,
+            653,
+            1268
+        ],
+        "text": "SHUD!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            719,
+            1440,
+            764,
+            1499
+        ],
+        "text": "GUGH!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            764,
+            1067,
+            810,
+            1176
+        ],
+        "text": "FLANCHET\nFLAYER!!",
+        "panel_id": "5",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            835,
+            1194,
+            859,
+            1241
+        ],
+        "text": "WHUD!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            922,
+            1238,
+            985,
+            1315
+        ],
+        "text": "JARRET\nJARRER!!",
+        "panel_id": "6",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            936,
+            1329,
+            977,
+            1412
+        ],
+        "text": "POIRE\nPOKER!!",
+        "panel_id": "6",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            928,
+            1423,
+            988,
+            1503
+        ],
+        "text": "QUEUE\nCRIPPLER!!",
+        "panel_id": "6",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            850,
+            1401,
+            869,
+            1439
+        ],
+        "text": "WHAM!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1030,
+            1481,
+            1080,
+            1536
+        ],
+        "text": "WHAM!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1043,
+            1070,
+            1106,
+            1124
+        ],
+        "text": "NOW\nFLY,\nSICKO.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1074,
+            1494,
+            1094,
+            1520
+        ],
+        "text": "WHAM!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1120,
+            62,
+            1140,
+            250
+        ],
+        "text": "To be continued!",
+        "panel_id": "7",
+        "type": "narration"
+    }
+]

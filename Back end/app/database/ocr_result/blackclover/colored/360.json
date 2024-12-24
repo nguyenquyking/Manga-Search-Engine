@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            78,
+            726,
+            180,
+            829
+        ],
+        "text": "EVERYTHING'S OKAY NOW!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            325,
+            67,
+            442,
+            138
+        ],
+        "text": "THEIR HEARTS ARE FILLED WITH FEAR...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            354,
+            501,
+            447,
+            627
+        ],
+        "text": "WE LIVE TO GIVE OUR MAGIC POWER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            755,
+            475,
+            861
+        ],
+        "text": "...WE ARE THIS FORTRESS'S DRIVING FORCE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            501,
+            261,
+            614,
+            374
+        ],
+        "text": "...WE CAN'T LEAVE THIS PLACE...!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            118,
+            937,
+            182
+        ],
+        "text": "WE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            422,
+            969,
+            518
+        ],
+        "text": "WHY...HAS IT COME TO THIS...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            891,
+            655,
+            986,
+            731
+        ],
+        "text": "WE'RE IN THE MIDDLE OF THE GRAND MAGIC ZONE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            988,
+            804,
+            1050,
+            890
+        ],
+        "text": "EVEN IF WE COULD PUSH OURSELVES TO MOVE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            553,
+            1180,
+            642
+        ],
+        "text": "WE CAN'T JUST RUN AWAY...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1068,
+            62,
+            1224,
+            185
+        ],
+        "text": "WE NEVER WANTED TO BE PART OF THIS WAR!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

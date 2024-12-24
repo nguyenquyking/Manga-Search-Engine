@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            36,
+            101,
+            135,
+            185
+        ],
+        "text": "...And what awaits you is an unspeakably gruesome death!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            33,
+            196,
+            77,
+            266
+        ],
+        "text": "\"Continue down this path...\"",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            54,
+            513,
+            159,
+            679
+        ],
+        "text": "Your Turn.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            172,
+            325,
+            191,
+            375
+        ],
+        "text": "Fine.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            311,
+            33,
+            459,
+            197
+        ],
+        "text": "What I'm capable of now is on par with you at 100 percent, and with no recoil to boot!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            349,
+            414,
+            370,
+            490
+        ],
+        "text": "Listen!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            322,
+            519,
+            373,
+            579
+        ],
+        "text": "No, I can't just...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            649,
+            308,
+            702
+        ],
+        "text": "FSHHH",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            575,
+            621,
+            593,
+            656
+        ],
+        "text": "So...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            914,
+            62,
+            969,
+            191
+        ],
+        "text": "\"I am here!\"",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            509,
+            1036,
+            669
+        ],
+        "text": "\"I need you to tell the world...\"",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

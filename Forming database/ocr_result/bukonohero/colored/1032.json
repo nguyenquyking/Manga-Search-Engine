@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            58,
+            2,
+            157,
+            171
+        ],
+        "text": "Looks like Bubble Girl, one of his sidekicks, didn't show him enough humor...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            72,
+            393,
+            161,
+            475
+        ],
+        "text": "What the?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            693,
+            177,
+            801
+        ],
+        "text": "St-stop! Oh god, pleeeahe, eheehah!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            266,
+            505,
+            283,
+            696
+        ],
+        "text": "SFX: AHEEHAHAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            800,
+            20,
+            998,
+            195
+        ],
+        "text": "Now it's time for me to open up the rest of the way with my own hands! He says he wants humor...? I'll show him humor!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            800,
+            235,
+            933,
+            387
+        ],
+        "text": "I need to get stronger! I've selfishly had others lead me up to this point!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            802,
+            426,
+            885,
+            594
+        ],
+        "text": "If you don't wanna get turned away at the door...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            803,
+            617,
+            936,
+            778
+        ],
+        "text": "Wh-... Whoa... That intensity, delivered right before...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            49,
+            68,
+            93,
+            145
+        ],
+        "text": "Does it feel...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            57,
+            572,
+            117,
+            688
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            158,
+            50,
+            216,
+            143
+        ],
+        "text": "...like the island's falling?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            365,
+            163,
+            437,
+            247
+        ],
+        "text": "Oniga-shima is going...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            528,
+            186,
+            512,
+            257
+        ],
+        "text": "RAAAAAH...",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            678,
+            58,
+            733,
+            149
+        ],
+        "text": "...to fall!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            311,
+            650,
+            417,
+            729
+        ],
+        "text": "The flame clouds disappeared!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            667,
+            649,
+            733,
+            724
+        ],
+        "text": "We're going down!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            521,
+            701,
+            610
+        ],
+        "text": "SPLAAAASH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            820,
+            43,
+            872,
+            142
+        ],
+        "text": "I'll make...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            826,
+            241,
+            936,
+            372
+        ],
+        "text": "...Can you create, Straw Hat?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            851,
+            609,
+            930,
+            729
+        ],
+        "text": "And what kind of world...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            772,
+            413,
+            785,
+            472
+        ],
+        "text": "GRRKG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            57,
+            545,
+            163,
+            653
+        ],
+        "text": "THE REMNANTS OF THE LIBERATION FRONT.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            398,
+            112,
+            467,
+            218
+        ],
+        "text": "...ESCAPED CONVICTS WHO SERVE ALL FOR ONE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            351,
+            466,
+            477
+        ],
+        "text": "AND THEN THERE ARE THE YET TO BE APPREHENDED...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            146,
+            867,
+            266
+        ],
+        "text": "...LESS THAN HALF OF THOSE ON OUR SIDE REMAIN TO FACE THIS THREAT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            717,
+            281,
+            753,
+            353
+        ],
+        "text": "MEANWHILE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            759,
+            545,
+            846,
+            673
+        ],
+        "text": "IT'S SAFE TO ASSUME THE LIST GOES ON...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            65,
+            1069,
+            196
+        ],
+        "text": "IT PAINS ME TO SAY THIS JUST AFTER STAR'S UNTIMELY DEATH IN THE LINE OF DUTY...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            444,
+            1100,
+            559
+        ],
+        "text": "YES. THEY WILL LIKELY AMASS MORE ALLIES.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

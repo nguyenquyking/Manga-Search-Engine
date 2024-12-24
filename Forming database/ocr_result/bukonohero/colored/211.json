@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            257,
+            219,
+            339,
+            388
+        ],
+        "text": "Sometimes you just have to do what you have to do.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            71,
+            449,
+            173,
+            572
+        ],
+        "text": "Max Force leaves me immobilized for a while! But!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            874,
+            94,
+            922
+        ],
+        "text": "That so?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            159,
+            666,
+            310
+        ],
+        "text": "...It's a rock-hard spirit that refuses to bend or break.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            513,
+            766,
+            649,
+            904
+        ],
+        "text": "If there's anything heroes oughta have at this point...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1167,
+            443,
+            1353,
+            623
+        ],
+        "text": "Your brain'll be a milkshake when I'm done!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            888,
+            741,
+            930,
+            895
+        ],
+        "text": "TREMORING",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

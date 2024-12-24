@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            171,
+            290,
+            257,
+            372
+        ],
+        "text": "OVER 90 PERCENT OF THE PEOPLE ON THIS CONTINENT WILL DIE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            261,
+            198,
+            329,
+            273
+        ],
+        "text": "...AND IT WILL SPELL THE END OF THE WORLD!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            462,
+            93,
+            516,
+            145
+        ],
+        "text": "YOU'LL DESTROY HUMANITY TOO, YOU KNOW!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            539,
+            258,
+            582,
+            320
+        ],
+        "text": "WHY WOULD YOU DO SUCH A DREADFUL THING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            524,
+            337,
+            554,
+            378
+        ],
+        "text": "What?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            694,
+            163,
+            782,
+            229
+        ],
+        "text": "HUMANS WHO ARE WEAK ENOUGH TO DIE DON'T INTEREST ME.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            661,
+            453,
+            784,
+            521
+        ],
+        "text": "I WANT TO GET ALL FIRED UP WITH THE TOUGH GUYS WHO MANAGE TO SURVIVE IN A PLACE LIKE THAT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

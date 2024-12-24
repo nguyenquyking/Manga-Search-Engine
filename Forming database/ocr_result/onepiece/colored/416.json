@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            94,
+            68,
+            115,
+            158
+        ],
+        "text": "AAAAHH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            120,
+            39,
+            236,
+            188
+        ],
+        "text": "STOP, MISS TSURU!! WE'VE KNOWN EACH OTHER SINCE WE WERE KIDS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            228,
+            165,
+            330
+        ],
+        "text": "FESS UP, KIN'EMON!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            97,
+            545,
+            216,
+            704
+        ],
+        "text": "YOU WERE JUST TAKING MONEY FROM MY PURSE AGAIN, WEREN'T YOU?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            36,
+            673,
+            137
+        ],
+        "text": "...I WILL COLLECT WHAT'S MINE BY SELLING YOUR ORGANS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            168,
+            661,
+            270
+        ],
+        "text": "THE NEXT TIME YOU TRY TO STEAL FROM ME...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            562,
+            306,
+            663,
+            409
+        ],
+        "text": "DO YOU KNOW HOW MUCH MONEY YOU OWE ME ALREADY?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            432,
+            645,
+            584
+        ],
+        "text": "SINCE WHEN WERE YOU MY BROTHER?! YOU'RE OUT OF MONEY BECAUSE YOU GAMBLED IT AWAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            570,
+            610,
+            643,
+            705
+        ],
+        "text": "C'MON, YOUR BROTHER-IN-SPIRIT NEEDS SOME CASH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            879,
+            269,
+            996,
+            413
+        ],
+        "text": "W-WELL, OTSURU, THANKS FOR THE FOOD! WE'LL JUST LEAVE THE PAYMENT HERE ON THE TABLE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            882,
+            543,
+            991,
+            692
+        ],
+        "text": "IF YOU CAN'T PAY ME BACK, I'M GOING TO SHAKE YOU DOWN FOR EVERYTHING YOU'VE GOT ON YOU! CLOTHES INCLUDED!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

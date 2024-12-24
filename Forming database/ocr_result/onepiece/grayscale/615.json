@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            56,
+            105,
+            92,
+            197
+        ],
+        "text": "What do you mean?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            36,
+            247,
+            116,
+            397
+        ],
+        "text": "Hey, Nami! Can I be your servant, like before?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            35,
+            459,
+            136,
+            577
+        ],
+        "text": "Yeah. You don't usually make friends on a battle-field.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            34,
+            627,
+            119,
+            736
+        ],
+        "text": "That really is a remarkable power!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            95,
+            105,
+            133,
+            198
+        ],
+        "text": "Absolutely not!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            177,
+            64,
+            245,
+            146
+        ],
+        "text": "Awww!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            440,
+            79,
+            487,
+            160
+        ],
+        "text": "Gyaaaa!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            431,
+            196,
+            506,
+            335
+        ],
+        "text": "Outta the way, losers! I'm Nami's sidekick!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            432,
+            393,
+            468,
+            503
+        ],
+        "text": "Nami!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            441,
+            650,
+            506,
+            738
+        ],
+        "text": "But what do you say to...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            542,
+            499,
+            630
+        ],
+        "text": "...Side-kick?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            606,
+            48,
+            675,
+            187
+        ],
+        "text": "You picked up something remarkable too, I gotta say...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            752,
+            82,
+            882,
+            232
+        ],
+        "text": "There are roughly a thousand of them!! And in the surprise of the betrayal...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            757,
+            266,
+            857,
+            373
+        ],
+        "text": "Some of the Headliners' followers are joining them!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            747,
+            451,
+            836,
+            548
+        ],
+        "text": "Hey! Have you guys gone insane?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            580,
+            843,
+            702
+        ],
+        "text": "Join the Samurai! Strike down Kaido!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            910,
+            233,
+            920,
+            266
+        ],
+        "text": "Raaaaah!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

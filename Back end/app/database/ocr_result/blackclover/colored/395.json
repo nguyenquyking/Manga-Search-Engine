@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            137,
+            787,
+            183,
+            827
+        ],
+        "text": "BLOOSH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            787,
+            1372,
+            828,
+            1459
+        ],
+        "text": "This hideous magic!!! No!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            915,
+            1199,
+            941,
+            1252
+        ],
+        "text": "Lolo-Pechka!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

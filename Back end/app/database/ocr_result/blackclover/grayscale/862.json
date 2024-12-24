@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            370,
+            62,
+            396,
+            110
+        ],
+        "text": "BOOMF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            926,
+            14,
+            998,
+            138
+        ],
+        "text": "IN THE END, OUR ORIGINAL SPECS ARE COMPLETELY DIFFERENT!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            967,
+            323,
+            1096,
+            432
+        ],
+        "text": "YOU'LL STILL TAKE DAMAGE,\nWHILE I'LL CONSTANTLY\nREGENERATE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            847,
+            622,
+            1052,
+            730
+        ],
+        "text": "GO AHEAD!\nSTEAL HALF MY MAGIC\nWITH AN UNDER-\nHANDED\nSPELL,\nTHEN START\nA FIGHT\nON EQUAL\nTERMS.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

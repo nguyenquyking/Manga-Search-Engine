@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            56,
+            145,
+            190,
+            432
+        ],
+        "text": "The only thing the greater figures of the world want from you is your brain!! Not your giant arms and legs!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            50,
+            503,
+            186,
+            620
+        ],
+        "text": "You're the dead weight of your crew!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            651,
+            167,
+            806
+        ],
+        "text": "Remember what I said earlier?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            859,
+            204,
+            1062
+        ],
+        "text": "What are you even good for, demon child?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            59,
+            487,
+            398
+        ],
+        "text": "They don't care about your personality!! You're just a tool to them, as long as you're alive!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            611,
+            105,
+            718,
+            312
+        ],
+        "text": "People will try to kill you, Robin! How about a palm attack?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            370,
+            695,
+            479
+        ],
+        "text": "A slap's not good enough?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            537,
+            752,
+            692
+        ],
+        "text": "You ought to know how to throw a punch if you need it!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            75,
+            887,
+            187
+        ],
+        "text": "With the base of the palm... Wham!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1204,
+            85,
+            1347,
+            237
+        ],
+        "text": "My point is that she can take care of herself.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1193,
+            292,
+            1339,
+            455
+        ],
+        "text": "I know, but we can't help her once we've split up!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1201,
+            531,
+            1307,
+            734
+        ],
+        "text": "Don't force it on her... Robin's joint locks are plenty powerful.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1199,
+            836,
+            1321,
+            1029
+        ],
+        "text": "Want me to teach you my Dragon Claw Fist, Robin?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1549,
+            46,
+            1606,
+            183
+        ],
+        "text": "@LittlexGarden @Assia_Lin",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

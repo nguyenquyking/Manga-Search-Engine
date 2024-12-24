@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            38,
+            67,
+            145,
+            229
+        ],
+        "text": "MY OBLIGATION\nTO STRAW HAT\nDEMANDS THAT I\nPUT AN END TO YOU\nRIGHT HERE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            218,
+            262,
+            274,
+            392
+        ],
+        "text": "I'VE ALREADY\nFIGURED OUT ALL\nYOUR TRICKS!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            631,
+            231,
+            733
+        ],
+        "text": "SCRATCH!!\nBOOM!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            365,
+            54,
+            466,
+            213
+        ],
+        "text": "ANYWAY, THE REAL\nREASON YOU'RE IN\nTROUBLE HERE IS THESE\nTHREE NUMBERS!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            377,
+            257,
+            452,
+            366
+        ],
+        "text": "QUIT SPILLIN'\nMY SECRETS,\nMAN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            370,
+            401,
+            468,
+            544
+        ],
+        "text": "...BUT YOU ACTIVATE\nTHEM THROUGH\nHEARING, AND\nAIM THEM WITH\nSIGHT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            362,
+            593,
+            454,
+            720
+        ],
+        "text": "AT FIRST GLANCE,\nYOUR TECHNIQUES\nSEEM TO HAVE NO\nATTACK VECTOR\nAT ALL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            512,
+            60,
+            575,
+            122
+        ],
+        "text": "CHECK\nIT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            725,
+            520,
+            738,
+            600
+        ],
+        "text": "BAKOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            735,
+            667,
+            772,
+            714
+        ],
+        "text": "???",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            970,
+            58,
+            1045,
+            164
+        ],
+        "text": "YOUNG\nMASTER\nYAMATO?!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

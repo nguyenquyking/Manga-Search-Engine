@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            141,
+            686,
+            231,
+            861
+        ],
+        "text": "WHAT DID YOU PESKY HEROES...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            174,
+            256,
+            181,
+            347
+        ],
+        "text": "ZHOOOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            532,
+            76,
+            618,
+            281
+        ],
+        "text": "...DO TO OUR SAVIOR AND LIBERATOR?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1054,
+            57,
+            1097,
+            142
+        ],
+        "text": "GET CLOSER!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1246,
+            53,
+            1290,
+            139
+        ],
+        "text": "YES, MA'AM!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            975,
+            354,
+            1008,
+            407
+        ],
+        "text": "RSTL",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            885,
+            552,
+            998,
+            631
+        ],
+        "text": "TMP",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            960,
+            715,
+            1048,
+            900
+        ],
+        "text": "AFTER GIGANTOMACHIA, LIBERATION WARRIORS!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1209,
+            707,
+            1276,
+            853
+        ],
+        "text": "OUR REVOLUTION IS AT HAND!!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

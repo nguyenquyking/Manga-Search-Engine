@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            83,
+            440,
+            226,
+            593
+        ],
+        "text": "I CAN'T DIE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            187,
+            80,
+            238,
+            172
+        ],
+        "text": "AND ALSO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            348,
+            488,
+            473
+        ],
+        "text": "I CAN'T...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            648,
+            352,
+            763,
+            470
+        ],
+        "text": "...LET THIS GUY DIE EITHER!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

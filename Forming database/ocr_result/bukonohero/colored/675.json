@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            17,
+            460,
+            32,
+            508
+        ],
+        "text": "SKFF",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            107,
+            648,
+            184,
+            784
+        ],
+        "text": "OUCH... THAT ICY PUNK SURE KNOWS HOW TO LET LOOSE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            317,
+            717,
+            397,
+            795
+        ],
+        "text": "SHOULD WE GET STARTED EARLY?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            51,
+            593,
+            121
+        ],
+        "text": "ZOOSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

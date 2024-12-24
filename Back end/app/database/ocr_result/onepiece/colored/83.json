@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            109,
+            373,
+            112,
+            519
+        ],
+        "text": "GAK GAK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            114,
+            1254,
+            263,
+            1444
+        ],
+        "text": "JUST STAAAHP!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            508,
+            1350,
+            558,
+            1478
+        ],
+        "text": "GAK GAK",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            329,
+            211,
+            419,
+            398
+        ],
+        "text": "DRUNK-EN\nBEGGAR",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            952,
+            114,
+            1071,
+            303
+        ],
+        "text": "...WHO CAN\nSEE THE\nFUTURE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            932,
+            653,
+            1099,
+            896
+        ],
+        "text": "URRP!\nDON'T ASSUME\nYOU'RE THE\nONLY ONE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1238,
+            1285,
+            1385,
+            1500
+        ],
+        "text": "ARE YOU STILL\nDRUNK?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1815,
+            935,
+            2129,
+            1125
+        ],
+        "text": "WEEZ...\nWHAT\nIF I TRY\nCOPYING\nYOU...?!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2186,
+            824,
+            2228,
+            952
+        ],
+        "text": "WEEZ!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    }
+]

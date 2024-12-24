@@ -1,0 +1,343 @@
+[
+    {
+        "text_box": [
+            44,
+            39,
+            74,
+            519
+        ],
+        "text": "The story of ONE PIECE 1>>90",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            111,
+            323,
+            134,
+            437
+        ],
+        "text": "Germa 66",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            312,
+            63,
+            360,
+            136
+        ],
+        "text": "Yonji\nFourth Son of\nVinsmoke",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            313,
+            194,
+            360,
+            270
+        ],
+        "text": "Niji\nSecond Son of\nVinsmoke",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            313,
+            325,
+            362,
+            396
+        ],
+        "text": "Ichiji\nEldest Son of\nVinsmoke",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            312,
+            457,
+            360,
+            556
+        ],
+        "text": "Reiju\nEldest Daughter of\nVinsmoke",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            310,
+            586,
+            362,
+            687
+        ],
+        "text": "Vinsmoke Judge\nKing of Germa\nKingdom",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            111,
+            1056,
+            307,
+            1358
+        ],
+        "text": "Big Mom Pirates\nCharlotte Linlin\nOne of the Four Emperors.\nKnown as Big Mom. Uses the\nSoul-Soul Fruit powers to pull life\nspan from people.\nCaptain, Big Mom Pirates",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            411,
+            311,
+            438,
+            440
+        ],
+        "text": "Sun Pirates",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            614,
+            127,
+            663,
+            196
+        ],
+        "text": "Wadatsumi\nMember,\nSun Pirates",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            613,
+            258,
+            666,
+            363
+        ],
+        "text": "C. Praline (Aladine's Wife)\n21st Daughter of\nCharlotte",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            613,
+            390,
+            662,
+            448
+        ],
+        "text": "Aladine\nFirst Mate,\nSun Pirates",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            606,
+            522,
+            666,
+            626
+        ],
+        "text": "Former Warlord of the Sea\nJinbe\nCaptain of the\nSun Pirates",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            710,
+            168,
+            738,
+            249
+        ],
+        "text": "Minks",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            916,
+            86,
+            964,
+            323
+        ],
+        "text": "Carrot (Bunny Mink)\nTreetop Pedro (Jaguar Mink)\nBattlebeast Tribe,\nKingsbird",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            918,
+            414,
+            963,
+            519
+        ],
+        "text": "C. Chiffon (Bege's Wife)\n22nd Daughter of\nCharlotte",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            918,
+            542,
+            964,
+            649
+        ],
+        "text": "Capone \"Gang\" Bege\nCaptain of the\nFire Tank Pirates",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            711,
+            436,
+            740,
+            635
+        ],
+        "text": "Fire Tank Pirates",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            704,
+            826,
+            756,
+            916
+        ],
+        "text": "C. Cinnamon\n16th Daughter of\nCharlotte",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            702,
+            960,
+            756,
+            1051
+        ],
+        "text": "C. Citron\n15th Daughter of\nCharlotte",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            706,
+            1095,
+            752,
+            1199
+        ],
+        "text": "C. Smoothie (Sweet 3)\n14th Daughter of\nCharlotte",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            703,
+            1229,
+            756,
+            1299
+        ],
+        "text": "C. Mont'dor\n19th Son of\nCharlotte",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            702,
+            1363,
+            753,
+            1448
+        ],
+        "text": "C. Brulee\n8th Daughter of\nCharlotte",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            922,
+            828,
+            973,
+            919
+        ],
+        "text": "Pekoms\nFighter, Big Mom\nPirates",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            921,
+            960,
+            972,
+            1053
+        ],
+        "text": "Count Chicken\nFighter, Big Mom\nPirates",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            922,
+            1094,
+            972,
+            1200
+        ],
+        "text": "\"Gourmet Knight\" Streusen\nHead Chef, Big\nMom Pirates",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            920,
+            1228,
+            972,
+            1334
+        ],
+        "text": "Charlotte Pudding\n35th Daughter of\nCharlotte",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            921,
+            1364,
+            972,
+            1456
+        ],
+        "text": "C. Galette\n18th Daughter of\nCharlotte",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1016,
+            65,
+            1044,
+            232
+        ],
+        "text": "Story \u30fb\u3042\u3089\u3059\u3058\u30fb",
+        "panel_id": "6",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            1050,
+            60,
+            1140,
+            747
+        ],
+        "text": "After two years of hard training, the Straw Hat pirates are back together, first at the Sabaody Archipelago and then\nthrough Fish-Man Island to their next stage: The New World!!\nLuffy and crew head into Big Mom's stronghold and successfully take back Sanji, who was stuck in a political marriage\nwith Big Mom's daughter. They then join forces with Bege in a plot to assassinate Big Mom that ultimately fails. Big\nMom then chases after the fleeing crew. Sanji decides to bake a new cake to placate Mama's rampage, and Luffy",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1034,
+            791,
+            1092,
+            1463
+        ],
+        "text": "enters a one-on-one battle with Katakuri to help the rest of the crew escape. Big Mom reaches the ship just as\nSanji finishes the cake, luring her away... Meanwhile, Luffy triumphs in an extreme battle against Katakuri, and then\nthrows off his pursuers to reach the crew. But the Big Mom Pirates' siege is fierce, and the ship sinks under a hail\nof cannon fire!",
+        "panel_id": "6",
+        "type": "narration"
+    }
+]

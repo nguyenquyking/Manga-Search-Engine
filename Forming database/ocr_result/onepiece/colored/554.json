@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            74,
+            283,
+            104,
+            342
+        ],
+        "text": "Ahh.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            45,
+            433,
+            160
+        ],
+        "text": "A samurai and monk, doing battle in this remote place?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            280,
+            615,
+            378,
+            723
+        ],
+        "text": "Kappa Papada!! What do I find here?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            462,
+            684,
+            494,
+            708
+        ],
+        "text": "Fwapp!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            609,
+            44,
+            736,
+            178
+        ],
+        "text": "And yet neither of you is trying to kill the other! A farcical sight!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            799,
+            260,
+            853,
+            346
+        ],
+        "text": "A fish-man...?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            805,
+            424,
+            832,
+            516
+        ],
+        "text": "HMM?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1058,
+            421,
+            1128,
+            524
+        ],
+        "text": "Why do you know my name?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            593,
+            1128,
+            716
+        ],
+        "text": "Kawa-matsu?! Is that you?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

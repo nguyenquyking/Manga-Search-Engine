@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            158,
+            51,
+            360,
+            252
+        ],
+        "text": "...Of Prime Entertainment?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            68,
+            489,
+            281,
+            695
+        ],
+        "text": "Don't believe for a single moment that you're the only ones giving your lives for a cause.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            974,
+            663,
+            1094,
+            790
+        ],
+        "text": "Well, ready for a taste...",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

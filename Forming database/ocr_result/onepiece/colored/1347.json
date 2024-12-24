@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            78,
+            51,
+            169,
+            174
+        ],
+        "text": "...I'd have charged you a heck of a lot more money for the treatment!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            204,
+            164,
+            317
+        ],
+        "text": "Hee hee hee! Are ya happy? If I'd known you were a princess...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            347,
+            148,
+            473
+        ],
+        "text": "Why, Vivi, you're looking more regal than ever.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            84,
+            522,
+            146,
+            596
+        ],
+        "text": "I'm so glad to see you again!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            637,
+            138,
+            711
+        ],
+        "text": "Dalton! Dr. Kureha!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            62,
+            481,
+            169
+        ],
+        "text": "You're growing into the king role too, Dalton!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            408,
+            319,
+            516,
+            426
+        ],
+        "text": "We are on equal footing now!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            488,
+            526,
+            602
+        ],
+        "text": "Where does a servant like you get off telling me what to do?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            635,
+            530,
+            723
+        ],
+        "text": "Now you hold it right there, Dalton!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            518,
+            39,
+            558,
+            84
+        ],
+        "text": "Er, I try...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            67,
+            924,
+            152
+        ],
+        "text": "Did you read the article about Luffy?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            810,
+            184,
+            930,
+            230
+        ],
+        "text": "Will have my revenge!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            261,
+            910,
+            428
+        ],
+        "text": "The higher you get in the world, the dirtier the business becomes!! You'll learn that soon enough!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            470,
+            924,
+            581
+        ],
+        "text": "It's impossible to run a squeaky-clean country!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            616,
+            900,
+            714
+        ],
+        "text": "Let me give you a life lesson, Dalton, you goody two-shoes!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            968,
+            40,
+            1038,
+            122
+        ],
+        "text": "I nearly stared a hole in the paper!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

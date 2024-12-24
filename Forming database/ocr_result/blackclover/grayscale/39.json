@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            129,
+            639,
+            265,
+            765
+        ],
+        "text": "OUR MAGIC ITEM! THE ONE MEANT FOR PEACE AND EQUALITY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            209,
+            205,
+            264,
+            297
+        ],
+        "text": "SECRET!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            491,
+            52,
+            520,
+            149
+        ],
+        "text": "I SEE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            673,
+            241,
+            769,
+            391
+        ],
+        "text": "TO ABSORB THE MAGIC!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            600,
+            801,
+            745
+        ],
+        "text": "WE'LL USE THE MAGIC ITEM WE MADE.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            275,
+            672,
+            314
+        ],
+        "text": "...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1094,
+            537,
+            1200,
+            629
+        ],
+        "text": "Whoosh",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

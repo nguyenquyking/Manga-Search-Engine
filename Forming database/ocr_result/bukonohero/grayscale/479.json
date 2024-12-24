@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            21,
+            113,
+            30,
+            171
+        ],
+        "text": "VWOO",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            64,
+            491,
+            190,
+            633
+        ],
+        "text": "Every day, more people grow weary of the anti-hero ideology and decide to move into shelters.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            329,
+            68,
+            454,
+            215
+        ],
+        "text": "Meanwhile, most of the violent radicals end up forming gangs that are easy enough to track down.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            561,
+            171,
+            689,
+            311
+        ],
+        "text": "The mass evacuation continues amidst the violence, and personnel are assigned to deal with one effort or the other.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            906,
+            66,
+            986,
+            698
+        ],
+        "text": "Everyone is doing their utmost... to improve this situation.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            949,
+            182,
+            1057,
+            266
+        ],
+        "text": "As for the aid you were providing out there...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            948,
+            53,
+            1093,
+            156
+        ],
+        "text": "...Other heroes and the police are now able to take on that burden.",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

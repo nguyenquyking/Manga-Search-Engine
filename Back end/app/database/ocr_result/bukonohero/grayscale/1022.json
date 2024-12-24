@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            116,
+            156,
+            156,
+            249
+        ],
+        "text": "HEROES INCOMING.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            330,
+            62,
+            438,
+            188
+        ],
+        "text": "NOT QUITE THE HERO ARMY WE MET AT THE VILLA...BUT STILL A GOOD NUMBER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            299,
+            235,
+            381,
+            282
+        ],
+        "text": "KLAK\nKLAK\nKLAK",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            314,
+            414,
+            415,
+            507
+        ],
+        "text": "\"HANDY,\" HE SAYS, BETRAYING HIS SHAMEFUL LACK OF SOPHISTICATION.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            622,
+            405,
+            733
+        ],
+        "text": "A SATELLITE IMAGE? HOW HANDY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            817,
+            216,
+            888,
+            312
+        ],
+        "text": "GO BACK!\nZOOM IN THERE,\nLONG-HAIR!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            978,
+            118,
+            1043,
+            216
+        ],
+        "text": "IS THAT ANY WAY TO ASK A FAVOR OF SOMEONE...?",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            701,
+            394,
+            720,
+            436
+        ],
+        "text": "AH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            704,
+            493,
+            788,
+            582
+        ],
+        "text": "WE MUST KEEP AWARE OF THE APPROACHING ENEMY IF WE HOPE TO-",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            684,
+            607,
+            770,
+            691
+        ],
+        "text": "OUR BEING HERE IS MOSTLY DUE TO LUCK AND HAPPENSTANCE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

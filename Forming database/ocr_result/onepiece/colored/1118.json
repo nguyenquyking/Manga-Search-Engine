@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            84,
+            51,
+            147,
+            138
+        ],
+        "text": "He's been gone for a while.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            88,
+            171,
+            138,
+            228
+        ],
+        "text": "He's gone.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            112,
+            461,
+            175,
+            583
+        ],
+        "text": "I thought he was going to be waiting here!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            90,
+            625,
+            163,
+            713
+        ],
+        "text": "Where's Kin'emon?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            208,
+            47,
+            272,
+            131
+        ],
+        "text": "Gone?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            406,
+            70,
+            471,
+            222
+        ],
+        "text": "You're making it sound like he's a ghost or something!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            422,
+            289,
+            516,
+            426
+        ],
+        "text": "He came out in the dead of night yesterday...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            599,
+            514,
+            703
+        ],
+        "text": "But you might see him at night.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            41,
+            680,
+            131
+        ],
+        "text": "Why does he have a grave here?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            43,
+            901,
+            124
+        ],
+        "text": "I think I have stabilized at last...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            147,
+            884,
+            268
+        ],
+        "text": "I was afraid I wouldn't leave the privy until nightfall again...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            295,
+            876,
+            369
+        ],
+        "text": "Oh, what a day, what a day...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            402,
+            891,
+            495
+        ],
+        "text": "I really shouldn't be telling you about this.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            529,
+            882,
+            688
+        ],
+        "text": "Just be clear about it! Is there some painful truth you're having trouble admitting to me?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            210,
+            1112,
+            304
+        ],
+        "text": "Are they really alive?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1094,
+            60,
+            1146,
+            114
+        ],
+        "text": "Hmm?",
+        "panel_id": "3",
+        "type": "thought"
+    }
+]

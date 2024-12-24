@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            46,
+            52,
+            114,
+            156
+        ],
+        "text": "I told you I'm Oden, right?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            53,
+            184,
+            92,
+            270
+        ],
+        "text": "But don't worry, I",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            41,
+            290,
+            117,
+            384
+        ],
+        "text": "Oh, sorry!! I forgot that.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            400,
+            112,
+            505
+        ],
+        "text": "Whaaaat?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            155,
+            49,
+            242,
+            147
+        ],
+        "text": "That makes even less sense!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            36,
+            552,
+            130,
+            711
+        ],
+        "text": "There was a pirate who was trying to save Wano...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            245,
+            544,
+            310,
+            643
+        ],
+        "text": "Yeah... Kaido is my father.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            257,
+            666,
+            313,
+            731
+        ],
+        "text": "Wait, \"Father\"?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            487,
+            77,
+            559,
+            149
+        ],
+        "text": "You see, he was...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            172,
+            458,
+            229
+        ],
+        "text": "Oh! I didn't know.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            267,
+            472,
+            374
+        ],
+        "text": "Ace died two years ago.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            385,
+            411,
+            492,
+            512
+        ],
+        "text": "But... why would you tell us about that man?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            545,
+            486,
+            628
+        ],
+        "text": "Stop being shy and come over here!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            391,
+            640,
+            458,
+            716
+        ],
+        "text": "I believe I understand the story now.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            630,
+            647,
+            662,
+            729
+        ],
+        "text": "I appreciate your help...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            74,
+            839,
+            252
+        ],
+        "text": "You know, Otama, that event was really painful for Luffy too.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            294,
+            854,
+            418
+        ],
+        "text": "But Big Bro Luffy couldn't give me the bad news gently. He's got no delicacy!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            751,
+            449,
+            853,
+            561
+        ],
+        "text": "...An' that's why I've been workin' to be a kunoichi!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            744,
+            588,
+            851,
+            662
+        ],
+        "text": "Yep, that's right! I believed in Ace...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            889,
+            54,
+            918,
+            126
+        ],
+        "text": "Huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            999,
+            288,
+            1106,
+            411
+        ],
+        "text": "Aw, I'm sorry. That's just what he's like though.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            271,
+            62,
+            331,
+            186
+        ],
+        "text": "THIS IS WHEN...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1169,
+            239,
+            1252,
+            425
+        ],
+        "text": "...WE DESTROY EVERYTHING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            267,
+            1397,
+            370,
+            1585
+        ],
+        "text": "AND BRING THE OTHERS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            217,
+            1679,
+            287,
+            1818
+        ],
+        "text": "TO ME, MACHIA.",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

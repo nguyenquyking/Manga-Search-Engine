@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            163,
+            178,
+            280,
+            317
+        ],
+        "text": "Oh, huh... So his body's like that because he's cursed. I get it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            240,
+            853,
+            342,
+            972
+        ],
+        "text": "Couldn't that be Mister Henry?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            608,
+            156,
+            672,
+            201
+        ],
+        "text": "!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            627,
+            847,
+            737,
+            949
+        ],
+        "text": "I'll expand the range past the kingdom's borders.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            582,
+            892,
+            682
+        ],
+        "text": "Stretching it too far will reduce its accuracy, but...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1102,
+            210,
+            1185,
+            333
+        ],
+        "text": "A devil's curse...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1249,
+            70,
+            1332,
+            230
+        ],
+        "text": "...in the Heart Kingdom?!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1188,
+            833,
+            1249,
+            942
+        ],
+        "text": "That's...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1286,
+            339,
+            1499,
+            715
+        ],
+        "text": "WHROOSH",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            396,
+            133,
+            440,
+            330
+        ],
+        "text": "Very cursed...",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

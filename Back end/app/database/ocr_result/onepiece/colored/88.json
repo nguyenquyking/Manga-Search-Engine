@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            59,
+            2171,
+            259,
+            2393
+        ],
+        "text": "WEAKLINGS WHO SHUN VIOLENCE!! CASUALTIES WHO FOUND GLORY IN DEATH!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            75,
+            2445,
+            255,
+            2630
+        ],
+        "text": "BUT LET ME TELL YOU, THESE WANO FOLK HAVE ACCEPTED DEFEAT INTO THEIR HEARTS.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            434,
+            2141,
+            666,
+            2346
+        ],
+        "text": "I'VE SEEN PLENTY OF THE LOSERS AND VANQUISHED HERE, AND THEY ALL HAVE THEIR EXCUSES!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            125,
+            1707,
+            369,
+            1997
+        ],
+        "text": "OVER-KONG GUN!!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            799,
+            2450,
+            909,
+            2600
+        ],
+        "text": "SHUT UP!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            2133,
+            945,
+            2330
+        ],
+        "text": "SAMURAI ARE STRONG!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1139,
+            956,
+            1095,
+            1057
+        ],
+        "text": "DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1346,
+            937,
+            1544,
+            1172
+        ],
+        "text": "HE'S NOT DONE!! HUFF... GOTTA KNOCK HIM ALL THE WAY OUT WHILE I CAN STILL USE GEAR FOUR!!",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1364,
+            322,
+            1416,
+            857
+        ],
+        "text": "THUNDER ...BELLOW",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1364,
+            2092,
+            1564,
+            2245
+        ],
+        "text": "SO WHICH ARE YOU?!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1368,
+            2322,
+            1564,
+            2581
+        ],
+        "text": "STRONG, OR JUST STUBBORN?! THE VICTOR NEEDS NO EPITHET!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1613,
+            1478,
+            1613,
+            1576
+        ],
+        "text": "DGRSH",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1869,
+            1510,
+            1973,
+            1909
+        ],
+        "text": "\u30ec\u30ac\u30ac\u30ac",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1901,
+            1070,
+            1929,
+            1215
+        ],
+        "text": "DWOOSH!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1957,
+            1770,
+            1985,
+            1890
+        ],
+        "text": "SHRRD!!",
+        "panel_id": "6",
+        "type": "sound_effect"
+    }
+]

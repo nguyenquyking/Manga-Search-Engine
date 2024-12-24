@@ -1,0 +1,211 @@
+[
+    {
+        "text_box": [
+            102,
+            277,
+            140,
+            378
+        ],
+        "text": "Yuno",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            164,
+            164,
+            196,
+            284
+        ],
+        "text": "Member of:\nThe Golden Dawn",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            169,
+            400,
+            190,
+            487
+        ],
+        "text": "Magic: Wind",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            212,
+            134,
+            281,
+            516
+        ],
+        "text": "Asta's best friend, and a good rival who's also been working to become the Wizard King.\nHe controls Sylph, the spirit of wind.",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            648,
+            702,
+            696,
+            817
+        ],
+        "text": "Asta",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            712,
+            681,
+            755,
+            898
+        ],
+        "text": "Member of: The Black Bulls\nMagic: None (Anti-Magic)",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            769,
+            569,
+            833,
+            954
+        ],
+        "text": "He has no magic, but he's working to become the Wizard King through sheer guts and his well-\ntrained body. He fights with anti-magic swords.",
+        "panel_id": "2",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            911,
+            794,
+            980,
+            946
+        ],
+        "text": "Yami\nSukehiro",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            993,
+            835,
+            1048,
+            938
+        ],
+        "text": "Member of:\nThe Black Bulls\nMagic: Dark",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1067,
+            793,
+            1201,
+            981
+        ],
+        "text": "A captain who looks fierce, but is very popular with his\nbrigade, which has a deep-rooted confidence\nin him. Heavy smoker.",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            944,
+            363,
+            982,
+            460
+        ],
+        "text": "Silva",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            993,
+            399,
+            1044,
+            502
+        ],
+        "text": "Member of:\nThe Black Bulls\nMagic: Water",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1065,
+            362,
+            1182,
+            533
+        ],
+        "text": "A royal. She has awakened her latent\nabilities through intense training. She\nlikes Asta.",
+        "panel_id": "4",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1278,
+            365,
+            1312,
+            451
+        ],
+        "text": "Silva",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1329,
+            397,
+            1384,
+            512
+        ],
+        "text": "Member of:\nThe Silver Eagles\nMagic: Mercury",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1396,
+            363,
+            1539,
+            531
+        ],
+        "text": "Noelle's older brother. A captain\nwho values his pride as a royal. Considers\nFuegoleon a friendly rival.",
+        "panel_id": "5",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1228,
+            795,
+            1308,
+            967
+        ],
+        "text": "Charlotte\nRoselei",
+        "panel_id": "6",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1329,
+            832,
+            1382,
+            954
+        ],
+        "text": "Member of:\nThe Blue Rose Knights\nMagic: Briar",
+        "panel_id": "6",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            1400,
+            793,
+            1516,
+            975
+        ],
+        "text": "Has a cool personality.\nAs a rule, she doesn't\nlike men, but she\nseems to make an\nexception for Yami...",
+        "panel_id": "6",
+        "type": "caption"
+    }
+]

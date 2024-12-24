@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            82,
+            69,
+            180,
+            196
+        ],
+        "text": "Our only choice was a desperate escape.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            401,
+            151,
+            494
+        ],
+        "text": "Indeed, at that point we had no allies...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            81,
+            614,
+            184,
+            732
+        ],
+        "text": "It's a wonder the rest of you survived in that situation.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            234,
+            55,
+            337,
+            205
+        ],
+        "text": "We left the execution area and headed straight here, for Oden Castle.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            427,
+            68,
+            543,
+            223
+        ],
+        "text": "At that point, we knew that no matter which of us fell, someone had to reach this castle.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            435,
+            597,
+            541,
+            732
+        ],
+        "text": "Along the way, Dogstorm and Cat Viper began to squabble...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            602,
+            604,
+            705,
+            734
+        ],
+        "text": "When Orochi's men caught them, we gave up their lives for lost!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            600,
+            60,
+            714,
+            237
+        ],
+        "text": "For in his quest to undo the Kozuki clan, Orochi's next target would be young Lord Momonosuke in the castle!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            991,
+            58,
+            1102,
+            194
+        ],
+        "text": "The castle was already burning.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            876,
+            647,
+            933,
+            735
+        ],
+        "text": "However...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1016,
+            606,
+            1113,
+            744
+        ],
+        "text": "...Kaido's forces had beaten us to the punch.",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            1183,
+            67,
+            1236,
+            210
+        ],
+        "text": "@eyuler",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1238,
+            41,
+            1293,
+            223
+        ],
+        "text": "@eyuler",
+        "panel_id": "1",
+        "type": "background"
+    }
+]

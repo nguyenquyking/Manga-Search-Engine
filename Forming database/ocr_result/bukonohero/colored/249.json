@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            90,
+            71,
+            244,
+            245
+        ],
+        "text": "But by fighting back themselves, they're only wreaking more damage and destruction.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            55,
+            273,
+            213,
+            410
+        ],
+        "text": "...and the citizens who've lost faith in heroes are taking up arms.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            105,
+            758,
+            177,
+            914
+        ],
+        "text": "Villains are more daring than ever...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            430,
+            739,
+            632,
+            899
+        ],
+        "text": "Our government has put in requests for relief workers and heroes from around the world...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            665,
+            134,
+            888,
+            322
+        ],
+        "text": "...But with the Safety Commission essentially shut down, the paperwork needed to dispatch heroes isn't getting done.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1246,
+            79,
+            1312,
+            218
+        ],
+        "text": "...Your only option is to fight on.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1154,
+            255,
+            1220,
+            367
+        ],
+        "text": "Just as your wife said...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1303,
+            422,
+            1368,
+            532
+        ],
+        "text": "...in just the past two days.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1313,
+            591,
+            1356,
+            666
+        ],
+        "text": "All of that...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

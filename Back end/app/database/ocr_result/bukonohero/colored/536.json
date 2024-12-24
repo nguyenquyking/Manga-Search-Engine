@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            123,
+            772,
+            244,
+            959
+        ],
+        "text": "...COULDN'T STOP WHATEVER THAT IS?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            712,
+            575,
+            758,
+            631
+        ],
+        "text": "THOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            983,
+            131,
+            1001,
+            205
+        ],
+        "text": "URGH...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1044,
+            338,
+            1129,
+            430
+        ],
+        "text": "WELL, I WAS UNDERGROUND...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1088,
+            516,
+            1151,
+            630
+        ],
+        "text": "WHAT ON EARTH HAPPENED?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1180,
+            277,
+            1280,
+            400
+        ],
+        "text": "...WHEN THE BIG GUY SNATCHED ME UP FOR A RIDE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1120,
+            704,
+            1370,
+            960
+        ],
+        "text": "MY HERO\nACADEMIA\nNO. 278 - DISASTER WALKER\nBY KOHEI HORIKOSHI\nTRANSLATION: CALEB COOK\nLETTERING: JOHN HUNT",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

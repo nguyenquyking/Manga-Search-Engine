@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            116,
+            164,
+            196,
+            263
+        ],
+        "text": "ZEUS!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            129,
+            354,
+            129,
+            377
+        ],
+        "text": "\u3042\u3042\u3042\u3042\u3042",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            256,
+            642,
+            320,
+            753
+        ],
+        "text": "HELP MEEE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            620,
+            143,
+            690,
+            208
+        ],
+        "text": "WEEZ, WEEZ... KOFF!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            644,
+            283,
+            685,
+            375
+        ],
+        "text": "I'M COMI--\nARRGH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            629,
+            441,
+            714,
+            537
+        ],
+        "text": "MAMA!!\nI'M COMING\nTO SAVE\nY-URGH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            634,
+            607,
+            730,
+            718
+        ],
+        "text": "MAMAAAA!!\nWHAT'S\nHAPPENING,\nMAMA?!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            885,
+            53,
+            981,
+            234
+        ],
+        "text": "HOW IS HE STILL\nFIGHTING? THAT LAST\nATTACK HE TOOK COULD\nHAVE SHATTERED EVERY\nBONE IN HIS BODY!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1049,
+            269,
+            1104,
+            355
+        ],
+        "text": "DAMMIT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

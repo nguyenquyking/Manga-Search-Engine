@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            490,
+            232,
+            573,
+            331
+        ],
+        "text": "Why have you been ignoring me?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            470,
+            635,
+            594,
+            751
+        ],
+        "text": "I heard the children out and determined that this meeting was warranted.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            561,
+            538,
+            638,
+            628
+        ],
+        "text": "I'm always open to change based on the facts.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            95,
+            741,
+            125
+        ],
+        "text": "TMP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            777,
+            327,
+            795,
+            397
+        ],
+        "text": "Shoto.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            778,
+            502,
+            861,
+            616
+        ],
+        "text": "...We were going to stop Toya together!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            651,
+            828,
+            760
+        ],
+        "text": "I thought...",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            875,
+            169,
+            997,
+            280
+        ],
+        "text": "Well, it doesn't mean much to me without action.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            981,
+            80,
+            1108,
+            176
+        ],
+        "text": "Why is Midoriya the only one with a free pass?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1000,
+            313,
+            1128,
+            441
+        ],
+        "text": "Your willingness alone means the world to me.",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

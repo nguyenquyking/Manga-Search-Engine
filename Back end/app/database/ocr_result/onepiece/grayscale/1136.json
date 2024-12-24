@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            65,
+            101,
+            217,
+            295
+        ],
+        "text": "STAY AWAY FROM LUFFY, X. DRAKE! EVEN IN THE PIRATE'S WORLD...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            62,
+            370,
+            214,
+            528
+        ],
+        "text": "I DON'T TRUST A GUY WHO TURNS HIS COAT THAT EASY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            51,
+            595,
+            174,
+            765
+        ],
+        "text": "AND YOU THINK WE'RE YOUR NEXT SHELTER?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            845,
+            180,
+            998
+        ],
+        "text": "I'VE BEEN FLUSHED OUT OF THAT POSITION!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            444,
+            119,
+            531,
+            252
+        ],
+        "text": "...THERE IS A CODE OF HONOR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            651,
+            174,
+            755,
+            385
+        ],
+        "text": "SHUT UP, CAPTAIN!! YOU MORON!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            649,
+            419,
+            723,
+            568
+        ],
+        "text": "NO, HE CAN'T!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            652,
+            829,
+            740,
+            957
+        ],
+        "text": "SURE, HE CAN BE ON OUR SIDE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            814,
+            85,
+            919,
+            225
+        ],
+        "text": "HURRY, STRAW HAT!! INTO THE CASTLE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1257,
+            93,
+            1356,
+            321
+        ],
+        "text": "KEEP THOSE TWO AWAY FROM STRAW HAT!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1254,
+            381,
+            1337,
+            485
+        ],
+        "text": "...OF ALL THESE PIRATES.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1252,
+            519,
+            1326,
+            635
+        ],
+        "text": "SEEMS LIKE HE'S THE BOSS...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1236,
+            671,
+            1340,
+            786
+        ],
+        "text": "THAT GUY IN THE STRAW HAT!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1240,
+            852,
+            1323,
+            970
+        ],
+        "text": "I SHOULD HAVE FIGURED...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1433,
+            371,
+            1524,
+            459
+        ],
+        "text": "IT'S HIM AGAIN!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

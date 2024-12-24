@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            82,
+            15,
+            177,
+            120
+        ],
+        "text": "...ONLY LASTS FIVE MINUTES.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            105,
+            294,
+            227,
+            384
+        ],
+        "text": "AT THIS POINT, OUR DEVIL UNION...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            243,
+            116,
+            273,
+            156
+        ],
+        "text": "KHOOOO",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            340,
+            219,
+            333,
+            283
+        ],
+        "text": "FOOOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

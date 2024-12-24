@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            281,
+            568,
+            346,
+            739
+        ],
+        "text": "SKRR\nSLAM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            599,
+            61,
+            762,
+            172
+        ],
+        "text": "EVEN SOMEONE\nWHO'S SUPERHUMAN\nWILL BE HELPLESS,\nIF ONLY FOR\nA BRIEF MOMENT.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            591,
+            198,
+            719,
+            301
+        ],
+        "text": "...THEN A POWERFUL\nELECTRIC CURRENT\nWILL MAKE\nYOU STIFFEN UP.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            858,
+            71,
+            954,
+            178
+        ],
+        "text": "NO MATTER,\nTHIS SCHEME\nWILL BE\nYOUR RUIN,\nJEANIST.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            235,
+            1106,
+            344
+        ],
+        "text": "IS IT A\nMECHANISM\nTO KEEP MY\nDECAY FROM\nSPREADING?",
+        "panel_id": "4",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            1003,
+            394,
+            1117,
+            506
+        ],
+        "text": "THAT ONE SEGMENT OF\nTHE GROUND\nWAS LAUNCHED\nUP HIGH AND\nCRUMBLED IN\nMIDAIR...",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            569,
+            658,
+            693,
+            765
+        ],
+        "text": "AS LONG AS YOUR\nBRAIN AND MUSCLES\nARE STILL\nOPERATING\nYOUR BODY...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

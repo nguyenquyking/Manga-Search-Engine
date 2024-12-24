@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            148,
+            188,
+            178,
+            318
+        ],
+        "text": "Keigo...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            689,
+            65,
+            764,
+            195
+        ],
+        "text": "Takami!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            905,
+            738,
+            1273,
+            910
+        ],
+        "text": "OUTTA MY WAAAY!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1270,
+            73,
+            1285,
+            133
+        ],
+        "text": "YOWCH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

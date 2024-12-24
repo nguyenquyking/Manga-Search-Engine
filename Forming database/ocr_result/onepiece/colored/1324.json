@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            102,
+            61,
+            206,
+            181
+        ],
+        "text": "Before Roger, it was their era!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            98,
+            411,
+            228,
+            561
+        ],
+        "text": "Oh, you mean Rox?! I'd have figured you were too young to know about that, Hina.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            608,
+            190,
+            739
+        ],
+        "text": "...Isn't the reason you're considered a Marine Hero--",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            339,
+            72,
+            432,
+            169
+        ],
+        "text": "But that was over 40 years ago.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            624,
+            61,
+            696,
+            160
+        ],
+        "text": "The past is the past!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            804,
+            380,
+            926,
+            536
+        ],
+        "text": "There's no point worrying!! If they return, they'll be a threat...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            996,
+            381,
+            1116,
+            536
+        ],
+        "text": "...But events will find a way to surpass our imagination anyway!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            804,
+            582,
+            907,
+            728
+        ],
+        "text": "Even without the captain, their strength is growing. Hina is worried.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            39,
+            1122,
+            117
+        ],
+        "text": "Why are you grinning?",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

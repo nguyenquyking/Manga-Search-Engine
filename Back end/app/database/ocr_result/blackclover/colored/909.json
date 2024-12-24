@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            463,
+            90,
+            682,
+            290
+        ],
+        "text": "However, once Vanica and Lolopechka die...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            180,
+            662,
+            397,
+            877
+        ],
+        "text": "I've been with Vanica a long time. I do... sympathize.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            700,
+            1014,
+            900
+        ],
+        "text": "...my manifestation will be complete.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            93,
+            1967,
+            375,
+            2465
+        ],
+        "text": "MEGICULA, IN THE FLESH!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1546,
+            95,
+            1627,
+            275
+        ],
+        "text": "Lolo-Pech...!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1267,
+            375,
+            1243,
+            475
+        ],
+        "text": "BU-BUM",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

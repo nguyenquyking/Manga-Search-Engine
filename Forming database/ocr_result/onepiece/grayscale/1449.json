@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            270,
+            120,
+            468,
+            375
+        ],
+        "text": "HE SURVIVED THE EXECUTION!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            198,
+            905,
+            341,
+            1180
+        ],
+        "text": "YIPPEEE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            944,
+            650,
+            1157
+        ],
+        "text": "IT'S A MIRACLE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            574,
+            161,
+            710,
+            296
+        ],
+        "text": "LORD ODEN DID IT...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1304,
+            123,
+            1486,
+            334
+        ],
+        "text": "LORD ODEN'S WON!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1257,
+            681,
+            1358,
+            780
+        ],
+        "text": "THANK GOODNESS...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1289,
+            1117,
+            1442,
+            1373
+        ],
+        "text": "HE WITHSTOOD THE BOILING!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1827,
+            123,
+            2017,
+            306
+        ],
+        "text": "YOU'RE IN FOR IT NOW, KAIDO!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1723,
+            640,
+            1894,
+            868
+        ],
+        "text": "THE COUNTRY'S ON HIS SIDE AGAIN!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1693,
+            1176,
+            1928,
+            1360
+        ],
+        "text": "HE CLEARED UP THE MISUNDERSTANDING!!!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

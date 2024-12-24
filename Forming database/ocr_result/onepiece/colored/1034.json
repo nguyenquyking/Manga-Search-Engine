@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            73,
+            53,
+            128,
+            137
+        ],
+        "text": "Huff, huff!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            78,
+            190,
+            195,
+            311
+        ],
+        "text": "He was crazy enough to attack Lord Kaido!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            124,
+            628,
+            202,
+            718
+        ],
+        "text": "Aaah!! Run away!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            47,
+            502,
+            125
+        ],
+        "text": "Right,",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            457,
+            380,
+            538,
+            473
+        ],
+        "text": "They must've done something!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            577,
+            656,
+            657,
+            720
+        ],
+        "text": "They've gotta be all right!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            741,
+            86,
+            807,
+            233
+        ],
+        "text": "Rest of you, go back to the mountain!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1045,
+            46,
+            1134,
+            148
+        ],
+        "text": "I got a bad feelin' about this!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1047,
+            187,
+            1120,
+            264
+        ],
+        "text": "What, Shuten-Maru?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

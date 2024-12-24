@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            180,
+            98,
+            251,
+            180
+        ],
+        "text": "STILL FIGURING IT OUT THOUGH...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            427,
+            315,
+            458,
+            386
+        ],
+        "text": "RIGHT AND LEFT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            475,
+            425,
+            563,
+            499
+        ],
+        "text": "IN ORDER TO ACHIEVE A BODY, EVEN DABI CAN'T BURN...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            502,
+            523,
+            598
+        ],
+        "text": "I THINK I CAN CONTROL MY LEFT SIDE JUST AS WELL AS MY RIGHT NOW.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            270,
+            549,
+            340
+        ],
+        "text": "MY ENTIRE BODY, AS ONE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            648,
+            114,
+            737,
+            234
+        ],
+        "text": "...AREN'T THE TOP TWO BAD GUYS KINDA ON THE ROPES NOW?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            369,
+            640,
+            410
+        ],
+        "text": "HMM?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            569,
+            741,
+            675
+        ],
+        "text": "THEY'RE SAYING THIS IS GONNA BE ALL-OUT WAR OR WHATEVER, BUT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            945,
+            495,
+            1070,
+            595
+        ],
+        "text": "CAN'T WE MAKE QUICK WORK OF THOSE VILLAINS ONCE WE FIND 'EM?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            610,
+            1008,
+            736
+        ],
+        "text": "PLUS, WE GOT GIGANTOMACHIA TIED DOWN AND SNOOZING, RIGHT?",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1087,
+            90,
+            1107,
+            234
+        ],
+        "text": "NO. 336 \u2014 VILLAIN",
+        "panel_id": "5",
+        "type": "background"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            32,
+            495,
+            113,
+            590
+        ],
+        "text": "SORRY FOR THE ROUGH HANDLING!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            290,
+            180,
+            354,
+            292
+        ],
+        "text": "That did the trick! Thanks!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            586,
+            348,
+            643,
+            468
+        ],
+        "text": "MY HUSBAND'S BEDRIDDEN!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            646,
+            176,
+            726,
+            289
+        ],
+        "text": "AND HE'S TOO HEAVY FOR ME TO CARRY!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            559,
+            823,
+            648,
+            925
+        ],
+        "text": "HEY, YOU TWO! I NEED HELP!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            839,
+            506,
+            908,
+            647
+        ],
+        "text": "ALREADY TOO CLOSE FOR COMFORT!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            864,
+            346,
+            974,
+            449
+        ],
+        "text": "OUR PLACE IS DOWN HERE! HURRY!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1134,
+            234,
+            1156,
+            291
+        ],
+        "text": "OKAY!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1179,
+            345,
+            1266,
+            460
+        ],
+        "text": "GET THOSE TWO TO SAFETY, FROPPY!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1300,
+            83,
+            1386,
+            214
+        ],
+        "text": "BE CAREFUL! CAN'T HAVE YOU GETTING HURT.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            103,
+            154,
+            183,
+            488
+        ],
+        "text": "Whew, you rang my bell!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            741,
+            274,
+            964
+        ],
+        "text": "Then where is that Haki coming from?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            1071,
+            285,
+            1353
+        ],
+        "text": "Are you kidding? You split his skull open! He's dead!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            534,
+            864,
+            862
+        ],
+        "text": "DWAM!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            740,
+            931,
+            883,
+            1180
+        ],
+        "text": "Gotta be smarter. This is an Emperor's castle!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            1228,
+            885,
+            1376
+        ],
+        "text": "I guess I underestimated you.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1272,
+            138,
+            1367,
+            512
+        ],
+        "text": "HRNK!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1779,
+            1244,
+            1842,
+            1340
+        ],
+        "text": "AH!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

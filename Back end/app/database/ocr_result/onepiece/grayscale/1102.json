@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            102,
+            130,
+            233,
+            271
+        ],
+        "text": "WHO RUMMAGED THROUGH THIS SHIP HERE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            83,
+            387,
+            224,
+            546
+        ],
+        "text": "THERE WAS A SAFE FULL OF FOOD THAT HAD BEEN RECENTLY TAMPERED WITH",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            108,
+            907,
+            168,
+            983
+        ],
+        "text": "I SAW IT!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            24,
+            518,
+            157
+        ],
+        "text": "AND WE'RE THE ONLY ONES ON THIS ISLAND!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            350,
+            852,
+            451,
+            972
+        ],
+        "text": "THERE ARE NO ANIMALS AROUND",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1120,
+            585,
+            1190,
+            662
+        ],
+        "text": "I DON'T KNOW.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

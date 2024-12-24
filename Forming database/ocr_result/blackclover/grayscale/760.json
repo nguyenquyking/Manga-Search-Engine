@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            61,
+            682,
+            356,
+            715
+        ],
+        "text": "RRAAAARGH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            425,
+            42,
+            452,
+            102
+        ],
+        "text": "SKREE",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            853,
+            706,
+            1131,
+            734
+        ],
+        "text": "GRAAUGH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            907,
+            56,
+            1024,
+            92
+        ],
+        "text": "EEEK!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

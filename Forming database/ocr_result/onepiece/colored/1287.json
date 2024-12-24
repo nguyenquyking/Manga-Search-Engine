@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            39,
+            70,
+            148,
+            604
+        ],
+        "text": "ONE PIECE\nWORLD SEEKER",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            172,
+            77,
+            198,
+            217
+        ],
+        "text": "PS4\u7528\u30ac\u30fc\u30e0",
+        "panel_id": "1",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            294,
+            559,
+            450,
+            621
+        ],
+        "text": "\u96c6\u7d50\u3059\u308b\u6226\u529b!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            498,
+            414,
+            554,
+            672
+        ],
+        "text": "2019\u5e74\u51fa\u552e\u4e88\u5b9a\u25cf\u5bfe\u5fdc\u6a5f\u7a2e\uff1aPS4\n\u25cf\u30e1\u30fc\u30ab\uff1a\u30d0\u30f3\u30c0\u30a4\u30ca\u30e0\u30b3\u30a8\u30f3\u30bf\u30fc\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8\n\u25cf\u30b8\u30e3\u30f3\u30eb\uff1a\u30a2\u30af\u30b7\u30e7\u30f3\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u25cf\u4fa1\u683c\uff1a\u672a\u5b9a",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            826,
+            649,
+            966,
+            651
+        ],
+        "text": "\u3042\u3063\u3061\u7121\u3060\u306a\u3063\u3061\u306e\u529b\u304b\uff1f",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            883,
+            202,
+            951,
+            444
+        ],
+        "text": "\u4e0a\u306b\u3055\u307c\u3084\u30b8\u30a7\u30eb\u30de66\u3001\u30eb\u30c3\u30c1\u306b\u30b9\u30e2\u30fc\u30ab\u30fc\u3068\u53c2\u6226\u30ad\u30e3\u30e9\u306f\u7cbe\u826f\u7d19\u3044\uff01\u30ad\u30e3\u30e9\u306e\u52c7\u304d\u3068\u77e5\u80fd\u3067\u5229\u80fd\u3092\u5411\u304b\u3046\uff01",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            954,
+            95,
+            969,
+            165
+        ],
+        "text": "\u3046\u3063\u7121\u306f\u3060\u3059\uff01",
+        "panel_id": "6",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1152,
+            40,
+            1166,
+            72
+        ],
+        "text": "207",
+        "panel_id": "7",
+        "type": "page_number"
+    },
+    {
+        "text_box": [
+            1153,
+            480,
+            1162,
+            681
+        ],
+        "text": "\u24b8\u5c3e\u7530\u667a\u4e00\u90ce\uff1a\u96c6\u8457\u793e\uff1a\u30d5\u30e9\u30a4\u30d7\u30ec\uff1a\u6771\u6625\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\n\u24b8BANDAI NAMCO Entertainment Inc.",
+        "panel_id": "7",
+        "type": "copyright"
+    }
+]

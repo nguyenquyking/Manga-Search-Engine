@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            136,
+            29,
+            199,
+            204
+        ],
+        "text": "...Charlotte Linlin!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            88,
+            529,
+            218,
+            688
+        ],
+        "text": "Captain of the Big Mom Pirates...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            608,
+            12,
+            663,
+            219
+        ],
+        "text": "4,388,000,000 Belly!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            817,
+            29,
+            966,
+            177
+        ],
+        "text": "He earned the respect of ferocious pirates through his individual strength alone...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1022,
+            20,
+            1128,
+            152
+        ],
+        "text": "...until he was worthy of the title of Emperor of the Sea.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            813,
+            413,
+            902,
+            543
+        ],
+        "text": "Lastly, a man who was only an apprentice pirate...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            957,
+            416,
+            1046,
+            552
+        ],
+        "text": "...when he was a member of the Rocks Crew...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

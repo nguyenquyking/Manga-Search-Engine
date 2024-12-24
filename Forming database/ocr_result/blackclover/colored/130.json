@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            328,
+            64,
+            353,
+            146
+        ],
+        "text": "MY...LIMIT...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            109,
+            835,
+            193
+        ],
+        "text": "TOO BAD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            835,
+            895,
+            883
+        ],
+        "text": "ASTA...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

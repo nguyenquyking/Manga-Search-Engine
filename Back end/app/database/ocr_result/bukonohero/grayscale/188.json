@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            44,
+            213,
+            223,
+            343
+        ],
+        "text": "It began with wannabes copying your costume, but now you're a guiding light for heteromorphs everywhere.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            180,
+            353,
+            286,
+            507
+        ],
+        "text": "When the League of Villains was starting out, the world was exposed to your look, your form.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            177,
+            579,
+            259,
+            706
+        ],
+        "text": "We who remain have paved the way.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            376,
+            168,
+            491,
+            271
+        ],
+        "text": "The escaped convicts are one matter, but the common rioters in the street await your lead.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            368,
+            339,
+            476,
+            413
+        ],
+        "text": "But the die is already cast. No going back.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            440,
+            35,
+            548,
+            153
+        ],
+        "text": "Though Re-Destro can no longer pull that trigger, you can.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            375,
+            640,
+            464,
+            722
+        ],
+        "text": "As if I'm a big Messiah? Yeah, right.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            482,
+            547,
+            572,
+            650
+        ],
+        "text": "I'm only here serving some great cause.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            510,
+            473,
+            582,
+            525
+        ],
+        "text": "I'm only here for...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            677,
+            427,
+            725,
+            516
+        ],
+        "text": "The first solid step from you...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            824,
+            616,
+            932,
+            711
+        ],
+        "text": "No matter how an average dude like me feels about it...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            946,
+            556,
+            1055,
+            654
+        ],
+        "text": "...We're past the point of no return here, huh?",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            688,
+            131,
+            721,
+            190
+        ],
+        "text": "No more...",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            720,
+            275,
+            764,
+            321
+        ],
+        "text": "Bring it all down.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            740,
+            32,
+            774,
+            130
+        ],
+        "text": "...Thinking it over.",
+        "panel_id": "3",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            991,
+            42,
+            1062,
+            137
+        ],
+        "text": "I'm only here for your sake, Shigaraki.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1017,
+            398,
+            1100,
+            517
+        ],
+        "text": "...Will give them the necessary courage.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            198,
+            160,
+            455,
+            297
+        ],
+        "text": "A A A A SSSSST",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            465,
+            904,
+            561,
+            996
+        ],
+        "text": "GAJA!! PLEASE RETURN ASTA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            734,
+            377,
+            878,
+            479
+        ],
+        "text": "IF YOU DON'T,\nWE'LL\nHAVE TO\nFIGHT\nYOU!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1035,
+            886,
+            1099,
+            973
+        ],
+        "text": "AN\nATTACK\nSPELL!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1115,
+            581,
+            1361,
+            731
+        ],
+        "text": "AND IT\nLOOKS AS\nTHOUGH\nTHAT SPATIAL\nMAGE CAN\nMAKE\nPASSAGES,\nPROVIDED\nIT'S TO A\nPLACE HE\nCAN SEE.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1299,
+            481,
+            1353,
+            555
+        ],
+        "text": "LET\nME GIVE\nYOU A\nGLIMPSE",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1296,
+            892,
+            1476,
+            985
+        ],
+        "text": "LADY\nMIMOSA\nHAS\nALSO\nGROWN\nTO\nSTAGE\nTHREE.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1408,
+            405,
+            1494,
+            505
+        ],
+        "text": "...OF THE\nDIFFERENCE\nBETWEEN\nOUR\nLEVELS!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            899,
+            144,
+            1416,
+            274
+        ],
+        "text": "A A A A A A",
+        "panel_id": "1",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            57,
+            88,
+            158,
+            259
+        ],
+        "text": "He's gonna swing down his right-hand sword hard!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            90,
+            636,
+            188,
+            742
+        ],
+        "text": "Give me your directions!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            334,
+            130,
+            348,
+            198
+        ],
+        "text": "KACHIING!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            458,
+            59,
+            505,
+            153
+        ],
+        "text": "Swish!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            378,
+            670,
+            432,
+            731
+        ],
+        "text": "Huh?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            628,
+            461,
+            636,
+            480
+        ],
+        "text": "DOOM!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

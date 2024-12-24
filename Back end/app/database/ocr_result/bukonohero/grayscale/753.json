@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            69,
+            244,
+            204,
+            715
+        ],
+        "text": "No. 306 - THE FINAL ACT BEGINS",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            92,
+            1410,
+            124,
+            1514
+        ],
+        "text": "APRIL",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            804,
+            47,
+            846,
+            138
+        ],
+        "text": "A giant villain...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            877,
+            335,
+            951,
+            467
+        ],
+        "text": "Deku left the Hero Academy.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            944,
+            1285,
+            1014,
+            1545
+        ],
+        "text": "MY HERO ACADEMIA",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1119,
+            91,
+            1136,
+            342
+        ],
+        "text": "Next chapter hits Mar. 28!",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

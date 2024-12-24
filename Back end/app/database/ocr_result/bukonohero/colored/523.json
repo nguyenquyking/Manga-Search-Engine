@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            145,
+            247,
+            222,
+            323
+        ],
+        "text": "GO, GO!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            220,
+            63,
+            299,
+            180
+        ],
+        "text": "GOOO!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            129,
+            758,
+            182,
+            896
+        ],
+        "text": "RIGHT ON TARGET!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            943,
+            845,
+            935,
+            905
+        ],
+        "text": "BWAH",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1261,
+            560,
+            1326,
+            708
+        ],
+        "text": "FORGIVE US OUR NUMBERS ADVANTAGE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

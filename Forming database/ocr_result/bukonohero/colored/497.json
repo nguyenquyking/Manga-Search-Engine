@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            140,
+            412,
+            198,
+            521
+        ],
+        "text": "THE FEAR\nKEEPING ME\nIN PLACE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            342,
+            848,
+            384,
+            893
+        ],
+        "text": "SAY\n\"AHHH!\"",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            848,
+            307,
+            918,
+            400
+        ],
+        "text": "I\nGOTTA\nMELT IT\nAWAY!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            845,
+            560,
+            895,
+            637
+        ],
+        "text": "...STILL\nALIVE,\nRIGHT?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            875,
+            791,
+            911,
+            861
+        ],
+        "text": "MID-\nNIGHT'S...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1244,
+            130,
+            1366,
+            231
+        ],
+        "text": "NAP\nTIME!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

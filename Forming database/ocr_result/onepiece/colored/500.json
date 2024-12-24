@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            84,
+            115,
+            164,
+            186
+        ],
+        "text": "IT'S A WASTE OF HARD WORK!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            76,
+            217,
+            160,
+            338
+        ],
+        "text": "WELL, THERE'S NOTHING WRONG WITH AIMING HIGH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            78,
+            362,
+            156,
+            443
+        ],
+        "text": "WE'RE NOT GONNA HAVE THAT MANY.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            73,
+            476,
+            184,
+            580
+        ],
+        "text": "I WANNA BE ABLE TO FERRY 100,000 MEN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            68,
+            632,
+            168,
+            694
+        ],
+        "text": "WE DON'T GOT TIME!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            189,
+            20,
+            278,
+            110
+        ],
+        "text": "LET'S PUT MONEY ON IT. HOW MANY PEOPLE WILL WE GET?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            448,
+            408,
+            524,
+            520
+        ],
+        "text": "...GUN!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            612,
+            27,
+            637,
+            96
+        ],
+        "text": "WHOA!!!",
+        "panel_id": "2",
+        "type": "exclamation"
+    },
+    {
+        "text_box": [
+            428,
+            608,
+            501,
+            703
+        ],
+        "text": "EXCAVATION LABOR CAMP UDON",
+        "panel_id": "2",
+        "type": "background_text"
+    },
+    {
+        "text_box": [
+            552,
+            572,
+            598,
+            641
+        ],
+        "text": "KING KONG...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            830,
+            14,
+            919,
+            156
+        ],
+        "text": "IT'S JUST SOMETHING THE OLD GUY IN MY VILLAGE TOLD ME. I'VE NEVER SAID IT MYSELF BEFORE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            829,
+            193,
+            909,
+            291
+        ],
+        "text": "ZOROJURO, I WAS TOLD NOT TO SAY \"SUNACCHI.\"",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            344,
+            902,
+            427
+        ],
+        "text": "BAMBOO GROVE, AMIGASA VILLAGE",
+        "panel_id": "3",
+        "type": "background_text"
+    },
+    {
+        "text_box": [
+            833,
+            515,
+            892,
+            596
+        ],
+        "text": "YOU STRAINED TOO HARD.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            818,
+            633,
+            900,
+            697
+        ],
+        "text": "WELL, THAT WAS A FAILURE.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            972,
+            40,
+            1017,
+            95
+        ],
+        "text": "WHAT?!",
+        "panel_id": "3",
+        "type": "exclamation"
+    },
+    {
+        "text_box": [
+            1054,
+            516,
+            1138,
+            587
+        ],
+        "text": "THAT WAS A FAILURE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "text_box": [
+            158,
+            408,
+            180,
+            461
+        ],
+        "text": "BWAH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1064,
+            141,
+            1144,
+            294
+        ],
+        "text": "THIS PLACE...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

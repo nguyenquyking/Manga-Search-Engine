@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            153,
+            90,
+            288,
+            182
+        ],
+        "text": "...You really are a lot like Captain Yami!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            168,
+            652,
+            259,
+            744
+        ],
+        "text": "I knew it. Vice Captain Nacht...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            556,
+            90,
+            630,
+            184
+        ],
+        "text": "Yaaaugh! What are you doing?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            558,
+            588,
+            611,
+            670
+        ],
+        "text": "Who is a lot like whom?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            824,
+            66,
+            883,
+            160
+        ],
+        "text": "Ow ow ow! Ow ow! There it is again!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            227,
+            879,
+            344
+        ],
+        "text": "...Reminds me of who I used to be, long ago.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            776,
+            488,
+            818,
+            581
+        ],
+        "text": "Looking at him...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            84,
+            12,
+            251,
+            148
+        ],
+        "text": "That man fought with his loyalty to the queen to whom he'd sworn allegiance.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            77,
+            619,
+            267,
+            717
+        ],
+        "text": "Acier Silva fought with love for her children as her weapon.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            516,
+            47,
+            607,
+            130
+        ],
+        "text": "...which doesn't even exist.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            502,
+            628,
+            628,
+            709
+        ],
+        "text": "And you're fighting with hope...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            950,
+            273,
+            1039,
+            377
+        ],
+        "text": "...why don't you humans give up?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            608,
+            1072,
+            722
+        ],
+        "text": "For the sake of something so petty... When it means you must cling to a thing like that...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

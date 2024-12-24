@@ -1,0 +1,222 @@
+[
+    {
+        "text_box": [
+            93,
+            78,
+            124,
+            126
+        ],
+        "text": "O?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            178,
+            138,
+            282
+        ],
+        "text": "But say it with the honorific \"O\" in front!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            64,
+            319,
+            121,
+            367
+        ],
+        "text": "It's Toko.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            414,
+            130,
+            506
+        ],
+        "text": "What's your name, kid?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            72,
+            570,
+            138,
+            717
+        ],
+        "text": "Ha ha ha! You make me wanna smile too!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            451,
+            47,
+            542,
+            174
+        ],
+        "text": "Everyone always says it's easy to remember! Hee hee!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            457,
+            198,
+            534,
+            285
+        ],
+        "text": "Is that funny? Aha ha ha!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            391,
+            507,
+            461
+        ],
+        "text": "Pffft!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            459,
+            489,
+            550,
+            617
+        ],
+        "text": "Hey, I'm not a man!! Aha ha ha!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            471,
+            640,
+            500,
+            723
+        ],
+        "text": "Otoko.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            624,
+            326,
+            711,
+            403
+        ],
+        "text": "Otoko's just my name!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            792,
+            52,
+            903,
+            238
+        ],
+        "text": "Oh yeah! I'll be passing through here again! Today's the oiran's procession!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            788,
+            283,
+            896,
+            415
+        ],
+        "text": "Oh no, I really am late!! I'm in big trouble!! Aha ha ha!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            462,
+            864,
+            554
+        ],
+        "text": "You bet. Come back anytime!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            790,
+            584,
+            868,
+            717
+        ],
+        "text": "Ahhh, that was so good!! Thanks for the soba!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            47,
+            1114,
+            150
+        ],
+        "text": "Toko, are you a kamuro?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1081,
+            463,
+            1137,
+            523
+        ],
+        "text": "I will!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            424,
+            1021,
+            432
+        ],
+        "text": "Aha ha ha!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            979,
+            729,
+            1032,
+            744
+        ],
+        "text": "Pwooh!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            732,
+            312,
+            745,
+            537
+        ],
+        "text": "*Otoko is Japanese for \"man.\"",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

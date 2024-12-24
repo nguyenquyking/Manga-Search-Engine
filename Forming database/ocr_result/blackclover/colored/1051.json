@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            106,
+            696,
+            86,
+            759
+        ],
+        "text": "WUM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            593,
+            76,
+            641,
+            298
+        ],
+        "text": "GIMINXRAREIT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            725,
+            419,
+            778,
+            547
+        ],
+        "text": "WELCOME TO...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            785,
+            1055,
+            763,
+            1165
+        ],
+        "text": "KABOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1540,
+            104,
+            1621,
+            219
+        ],
+        "text": "...THE WORLD OF DREAMS.",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            30,
+            77,
+            106,
+            151
+        ],
+        "text": "YOU'RE\nDONE\nFOR!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            50,
+            201,
+            90,
+            300
+        ],
+        "text": "FRANKEN-\nSWORD!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            589,
+            229,
+            724
+        ],
+        "text": "YOU MIGHT\nBE TOUGH ALL\nOVER...BUT THAT\nWOUND ON YOUR\nSTOMACH'S\nBLEEDING\nPRETTY BAD!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            383,
+            70,
+            406,
+            146
+        ],
+        "text": "GWEEEN!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            409,
+            610,
+            503,
+            728
+        ],
+        "text": "V-FOR-\nVICTORY\nFLASH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            591,
+            39,
+            629,
+            113
+        ],
+        "text": "AW,\nDAMMIT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            749,
+            336,
+            801,
+            418
+        ],
+        "text": "ARGH!!\nC'MON!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            776,
+            79,
+            874,
+            163
+        ],
+        "text": "I'M NOT\nACTUALLY\nTHAT GOOD\nAT SWORD\nFIGHTING!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

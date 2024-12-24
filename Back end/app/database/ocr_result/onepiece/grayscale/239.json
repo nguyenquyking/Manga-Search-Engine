@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            85,
+            55,
+            188,
+            196
+        ],
+        "text": "YOU'RE TOTALLY DRUNK!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            616,
+            164,
+            743
+        ],
+        "text": "HOH HOH\nHWA HWA HYA\nHYA HYA!! HO\nHO HO!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            219,
+            643,
+            256,
+            736
+        ],
+        "text": "URRRP!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            393,
+            67,
+            466,
+            144
+        ],
+        "text": "Wo Ho\nHO HO HO\nHO HO!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            417,
+            260,
+            462,
+            333
+        ],
+        "text": "HEE HEE...\nDON'T BE\nSTUPID!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            412,
+            376,
+            545,
+            480
+        ],
+        "text": "...FOR\nWHY I\nBEAT\nYOU, GOT\nIT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            419,
+            642,
+            507,
+            752
+        ],
+        "text": "JUST DON'T\nUSE THAT\nAS AN\nEXCUSE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            511,
+            51,
+            567,
+            152
+        ],
+        "text": "I WOULDN'T\nMAKE MYSELF\nWEAKER...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            283,
+            692,
+            389
+        ],
+        "text": "WUH-OH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            666,
+            430,
+            753,
+            545
+        ],
+        "text": "BWA HA\nHA HA HA HA\nHA HA!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            684,
+            571,
+            711,
+            618
+        ],
+        "text": "HIC!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            664,
+            643,
+            747,
+            737
+        ],
+        "text": "IT'S A SIGN\nTHAT I'VE\nACCEPTED\nYOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1040,
+            107,
+            1096,
+            357
+        ],
+        "text": "DRUNKEN\nDRAGON BAGUA!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1017,
+            434,
+            1103,
+            621
+        ],
+        "text": "...SINCE I FOUGHT\nSOMEONE WHO COULD\nTRULY GO TOE TO TOE\nWITH ME!! URRRP!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            645,
+            1090,
+            736
+        ],
+        "text": "I WONDER\nHOW LONG\nIT'S BEEN...",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            790,
+            11,
+            861,
+            139
+        ],
+        "text": "Barely in the time limit!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            768,
+            427,
+            917,
+            620
+        ],
+        "text": "No way...\nYEEAAAHHHH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            783,
+            688,
+            847,
+            818
+        ],
+        "text": "He's so young... but such fury...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1118,
+            785,
+            1233,
+            812
+        ],
+        "text": "Cough!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

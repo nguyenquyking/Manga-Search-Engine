@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            168,
+            162,
+            384,
+            304
+        ],
+        "text": "I'VE ALWAYS BEEN NERVOUS ABOUT THAT. I STILL AM.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            180,
+            608,
+            427,
+            805
+        ],
+        "text": "CAN SOMEONE AS DULL AND CLUMSY AS I AM REALLY RULE THE HEART KINGDOM...?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            120,
+            869,
+            300,
+            1048
+        ],
+        "text": "YOUR OWN POWER WAS TERRIFIC TO BEGIN WITH, LOLO- PECHKA.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            240,
+            1336,
+            578,
+            1597
+        ],
+        "text": "BOTH MY MAGIC AND MY GRIMOIRE HOLD THE SUM OF WHAT FORMER QUEENS ACCUMULATED, SO...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            891,
+            636,
+            1039
+        ],
+        "text": "BESIDES, IT'S NOT AS IF JUST ANYONE COULD INHERIT THOSE THINGS.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1036,
+            317,
+            1228,
+            480
+        ],
+        "text": "AND IN THE END, THEY CURSED ME...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1204,
+            136,
+            1353,
+            286
+        ],
+        "text": "I'M A FAILURE AS A QUEEN.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1072,
+            1374,
+            1260,
+            1593
+        ],
+        "text": "BEFORE, WHEN I FOUGHT VANICA AND MEGICULA...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1293,
+            1190,
+            1399,
+            1334
+        ],
+        "text": "...I WAS AFRAID!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1737,
+            161,
+            1754,
+            179
+        ],
+        "text": "I...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1708,
+            807,
+            1828,
+            965
+        ],
+        "text": "I THINK SAYING A THING LIKE THIS...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1728,
+            1091,
+            1946,
+            1290
+        ],
+        "text": "IT'S STRANGELY EASY FOR ME TO SAY WHAT I FEEL. I WONDER WHY.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1680,
+            1334,
+            1896,
+            1528
+        ],
+        "text": "DWEH HEH HEH... WHEN I'M WITH YOU GUYS, I FORGET MY POSITION AS RULER.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            2049,
+            387,
+            2236,
+            540
+        ],
+        "text": "...WILL MAKE ME EVEN MORE OF A FAILURE, BUT...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

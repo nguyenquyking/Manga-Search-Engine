@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            225,
+            160,
+            1233,
+            1033
+        ],
+        "text": "MAAAAN... BORING MUCH?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            248,
+            653,
+            273,
+            712
+        ],
+        "text": "FINE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            128,
+            324,
+            199
+        ],
+        "text": "WHY YOU...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            371,
+            304,
+            441,
+            395
+        ],
+        "text": "YOU CAN DIE NOW.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            625,
+            101,
+            708,
+            194
+        ],
+        "text": "I'M OVER YOU ALREADY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1153,
+            130,
+            1254,
+            277
+        ],
+        "text": "WITHOUT LOLOPECHKA'S MAGIC, YOU'RE NOTHING SPECIAL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1241,
+            733,
+            1379,
+            872
+        ],
+        "text": "THAT'S ENOUGH OF THAT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

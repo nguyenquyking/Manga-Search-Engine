@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            617,
+            487,
+            732,
+            612
+        ],
+        "text": "BLORCH",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1089,
+            904,
+            1166,
+            1039
+        ],
+        "text": "DEMON-DESTROYER!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1401,
+            140,
+            1510,
+            460
+        ],
+        "text": "REMAINING TIME...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

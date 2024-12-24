@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            168,
+            100,
+            291,
+            234
+        ],
+        "text": "They're all idiots.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            479,
+            280,
+            725
+        ],
+        "text": "Same to you, Roronoa!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            123,
+            787,
+            298,
+            979
+        ],
+        "text": "You're the last one who should be talking, Luffy!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            140,
+            1072,
+            334,
+            1332
+        ],
+        "text": "I should have known!! You just had to go and cause a scene, Jaggy!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            108,
+            481,
+            220
+        ],
+        "text": "Fwa fwa!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            894,
+            480,
+            1021,
+            599
+        ],
+        "text": "Cover your ears!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            956,
+            1088,
+            1064,
+            1296
+        ],
+        "text": "Check it out!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1356,
+            620,
+            1490,
+            885
+        ],
+        "text": "Swish...",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1434,
+            1108,
+            1607,
+            1352
+        ],
+        "text": "BOOM!!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

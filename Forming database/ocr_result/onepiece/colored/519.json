@@ -1,0 +1,178 @@
+[
+    {
+        "text_box": [
+            86,
+            207,
+            164,
+            349
+        ],
+        "text": "THERE HAS BEEN AN ALTERATION TO THE RIDDLE IMAGE YOU HOLD.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            90,
+            495,
+            132,
+            584
+        ],
+        "text": "KIN'EMON SPEAKING.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            103,
+            624,
+            166,
+            718
+        ],
+        "text": "AMIGASA VILLAGE, KURI",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            178,
+            63,
+            276,
+            206
+        ],
+        "text": "LORD YASUIE'S MESSAGE IS TO ADD TWO LINES TO THE STOMACH OF THE VIPER!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            411,
+            47,
+            510,
+            181
+        ],
+        "text": "TELL HIM WE'RE GONNA GET THESE SHIPS BACK IN SUPER-SHAPE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            410,
+            202,
+            504,
+            298
+        ],
+        "text": "YOU TALKIN' TO KIN'EMON?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            427,
+            337,
+            448,
+            400
+        ],
+        "text": "GOOD.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            548,
+            62,
+            585,
+            149
+        ],
+        "text": "WE GOT THIS, MAN!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            399,
+            616,
+            501,
+            715
+        ],
+        "text": "SHIP REPAIR TEAM, ITACHI, PORT KURI",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            606,
+            587,
+            692,
+            699
+        ],
+        "text": "TWO LINES... GOT IT!! I UNDERSTAND NOW!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            787,
+            150,
+            848,
+            254
+        ],
+        "text": "YAKUZA ROUSING TEAM, KIBI",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            780,
+            371,
+            862,
+            475
+        ],
+        "text": "KATANA RETRIEVAL TEAM, RINGO",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            782,
+            585,
+            864,
+            679
+        ],
+        "text": "WEAPONS PREP TEAM, UDON",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1086,
+            149,
+            1138,
+            260
+        ],
+        "text": "UH-HUH! I GET IT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1094,
+            354,
+            1137,
+            483
+        ],
+        "text": "VERY CLEVER, LORD YASUIE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1090,
+            574,
+            1140,
+            701
+        ],
+        "text": "TWO LINES?! OH...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

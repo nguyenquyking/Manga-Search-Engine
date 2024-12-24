@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            133,
+            559,
+            152,
+            649
+        ],
+        "text": "MASTER!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            433,
+            498,
+            468,
+            614
+        ],
+        "text": "AHHH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            669,
+            14,
+            885,
+            175
+        ],
+        "text": "Having Rivet stab activate from his spinal cord with auto-tracking reduces the burden placed on his body and mind... Such measures are necessary given this body's wretched state.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            674,
+            356,
+            834,
+            507
+        ],
+        "text": "After a One For All beating from Izuku Midoriya and a roasting from Endeavor, Tomura's body could fail at any moment.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            948,
+            543,
+            1003,
+            614
+        ],
+        "text": "Superb timing, Machia.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            26,
+            1072,
+            137
+        ],
+        "text": "Now, Machia must be ordered to retreat...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

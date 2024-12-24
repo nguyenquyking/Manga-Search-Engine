@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            192,
+            778,
+            396,
+            931
+        ],
+        "text": "ALL ON MY",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            404,
+            59,
+            502,
+            225
+        ],
+        "text": "I'M GONNA",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            756,
+            53,
+            832,
+            204
+        ],
+        "text": "WIN!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

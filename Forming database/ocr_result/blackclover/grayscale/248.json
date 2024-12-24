@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            148,
+            89,
+            260,
+            983
+        ],
+        "text": "BAM! Like I figured, is it...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            582,
+            101,
+            1577,
+            172
+        ],
+        "text": "AAAAAAAAAAAAAAA!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1019,
+            754,
+            1089,
+            823
+        ],
+        "text": "...A forbidden magic curse...",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

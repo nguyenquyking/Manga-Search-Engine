@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            52,
+            112,
+            146,
+            270
+        ],
+        "text": "HOW COULD YOU SWEAR ALLEGIANCE TO A MAN LIKE HIM, FUKUROKUJU?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            166,
+            63,
+            202,
+            128
+        ],
+        "text": "WHEEZE... WHEEZE...",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            292,
+            57,
+            336,
+            122
+        ],
+        "text": "PUT IT OUT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            562,
+            115,
+            668
+        ],
+        "text": "KUROZUMI OROCHI..!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            63,
+            732,
+            154,
+            817
+        ],
+        "text": "CASTLE INTERIOR - THIRD FLOOR",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            287,
+            715,
+            315,
+            792
+        ],
+        "text": "FIRE!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            458,
+            713,
+            605,
+            814
+        ],
+        "text": "NINPO: CLONE JUTSU!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            638,
+            51,
+            686,
+            167
+        ],
+        "text": "AIYAH!!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            950,
+            69,
+            1059,
+            220
+        ],
+        "text": "NINPO: EARLOBE CRACKERS!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1021,
+            692,
+            1190,
+            844
+        ],
+        "text": "THE ONIWABANSHU MUST ALWAYS SERVE THE CURRENT SHOGUN!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

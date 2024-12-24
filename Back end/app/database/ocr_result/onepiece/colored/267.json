@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            130,
+            59,
+            200,
+            159
+        ],
+        "text": "WE'RE NOT GONNA LET THAT HAPPEN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            588,
+            167,
+            677
+        ],
+        "text": "WE'VE GOT TO BACK UP JACK-SAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            42,
+            738,
+            120,
+            826
+        ],
+        "text": "SECOND FLOOR - TREASURE REPOSITORY",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            310,
+            715,
+            439,
+            844
+        ],
+        "text": "BAR-AAG!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            562,
+            705,
+            696,
+            838
+        ],
+        "text": "YOU MUST BE GETTING TIRED! I'LL PUT YOU TO SLEEP FOREVER, DUKE OF THE DAY!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            730,
+            714,
+            855,
+            837
+        ],
+        "text": "THERE'S NO NEED TO DRAW THIS OUT. I'VE ALREADY FORGIVEN YOU FOR LYING TO ME ABOUT THE SAMURAI...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            579,
+            79,
+            737,
+            218
+        ],
+        "text": "YOUR COUNTRY'S ALREADY PAID THE PRICE FOR SHELTERING HIM!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            868,
+            68,
+            912,
+            641
+        ],
+        "text": "PANT PANT",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1004,
+            201,
+            1066,
+            273
+        ],
+        "text": "PANT PANT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1190,
+            230,
+            1261,
+            365
+        ],
+        "text": "...IF WE SOLD RAIZO OUT!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1004,
+            770,
+            1059,
+            832
+        ],
+        "text": "PANT PANT",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1186,
+            695,
+            1257,
+            843
+        ],
+        "text": "WE WOULDN'T HAVE BEEN ABLE TO LIVE WITH OURSELVES...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

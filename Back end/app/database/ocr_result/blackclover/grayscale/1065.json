@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            73,
+            164,
+            158,
+            252
+        ],
+        "text": "You irritate me.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            56,
+            565,
+            107,
+            634
+        ],
+        "text": "Be quiet.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            409,
+            255,
+            412,
+            308
+        ],
+        "text": "SKREE",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            717,
+            279,
+            772,
+            348
+        ],
+        "text": "Disappear.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            909,
+            655,
+            914,
+            661
+        ],
+        "text": "THOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            114,
+            395,
+            220,
+            514
+        ],
+        "text": "There's a spirited brat sailing the Grand Line",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            108,
+            583,
+            217,
+            671
+        ],
+        "text": "The cherry pie this morning was the best!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            129,
+            694,
+            161,
+            776
+        ],
+        "text": "Oi, Thatch!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            136,
+            299,
+            217,
+            376
+        ],
+        "text": "Gura Rara Rara",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            499,
+            567,
+            580,
+            716
+        ],
+        "text": "A compliment from you? I'm not sure how to feel.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            688,
+            737,
+            774
+        ],
+        "text": "Zeha Hahaha, hey, I'm just being kind!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            663,
+            1026,
+            751
+        ],
+        "text": "Excuse me, Pops",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1118,
+            397,
+            1231,
+            505
+        ],
+        "text": "He turned down an invitation to join the Shichibukai?",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1161,
+            563,
+            1255,
+            638
+        ],
+        "text": "Here's your medicine for tonight",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1228,
+            327,
+            1361,
+            405
+        ],
+        "text": "How long has he been a pirate for?",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1167,
+            1241,
+            1300,
+            1441
+        ],
+        "text": "The second half of the Grand Line\nThe New World",
+        "panel_id": "6",
+        "type": "background"
+    }
+]

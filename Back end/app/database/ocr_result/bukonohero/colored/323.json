@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            154,
+            41,
+            358,
+            187
+        ],
+        "text": "VOILA! The curtain rises on the first and final escape artist performance...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            268,
+            987,
+            292,
+            1037
+        ],
+        "text": "Shp",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            484,
+            911,
+            584,
+            1029
+        ],
+        "text": "...that the true trick is saved till the end.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            644,
+            24,
+            724,
+            183
+        ],
+        "text": "...of Mr. Compress!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            780,
+            8,
+            794,
+            199
+        ],
+        "text": "Next chapter hits Dec. 20!",
+        "panel_id": "4",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            774,
+            863,
+            794,
+            1090
+        ],
+        "text": "Colorist: HEXAMENDLE",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            57,
+            402,
+            177,
+            498
+        ],
+        "text": "Uh, what else would I be here for? I'm here to visit the injured, Thorny-Tsun Princess.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            74,
+            704,
+            195,
+            790
+        ],
+        "text": "Wh-wh-wh-wh- Why are you...?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            126,
+            70,
+            201,
+            159
+        ],
+        "text": "So! Turn him away like you always do!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            111,
+            241,
+            270,
+            353
+        ],
+        "text": "Th-th-th- There's no way I can stay calm in the same room as Yami right now!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            460,
+            197,
+            574,
+            301
+        ],
+        "text": "Of... Of course! I haven't been just sleeping away forever!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            517,
+            62,
+            711,
+            186
+        ],
+        "text": "Wh- Wh-wh- What kind of face am I making right now?! Get it together, Charlotte! You can do this!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            353,
+            552,
+            423
+        ],
+        "text": "So, you doing better already?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            454,
+            701,
+            601,
+            814
+        ],
+        "text": "Well, we're in your debt for saving us... so just this once should be okay.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            848,
+            304,
+            921,
+            356
+        ],
+        "text": "Well, glad you're doing better.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            927,
+            199,
+            1034,
+            320
+        ],
+        "text": "Oh... By the way, I got something to ask you, Thorny-Tsun Princess.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            973,
+            384,
+            1003,
+            446
+        ],
+        "text": "Clumsy...?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            684,
+            1024,
+            821
+        ],
+        "text": "Don't push yourself. Ever since way back, you've been stubborn, clumsy...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1080,
+            627,
+            1164,
+            698
+        ],
+        "text": "And a troublesome woman, too.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

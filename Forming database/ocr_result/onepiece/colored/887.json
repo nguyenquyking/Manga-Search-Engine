@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            74,
+            665,
+            88,
+            695
+        ],
+        "text": "...",
+        "panel_id": "1",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            381,
+            61,
+            517,
+            164
+        ],
+        "text": "I was looking into the flows of money through the Flower Capital.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            408,
+            460,
+            488,
+            568
+        ],
+        "text": "Witching Hour Boy.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            506,
+            430,
+            538,
+            464
+        ],
+        "text": "?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            637,
+            61,
+            677,
+            114
+        ],
+        "text": "Finished.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            748,
+            160,
+            774,
+            222
+        ],
+        "text": "Ooh!",
+        "panel_id": "3",
+        "type": "exclamation"
+    },
+    {
+        "text_box": [
+            802,
+            502,
+            876,
+            594
+        ],
+        "text": "THU\nTHUD",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            624,
+            627,
+            705,
+            722
+        ],
+        "text": "A very clever answer.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            879,
+            655,
+            933,
+            718
+        ],
+        "text": "Seize\nHer!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            998,
+            57,
+            1128,
+            149
+        ],
+        "text": "Witching Hour Boy already appeared in the capital a short while ago!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

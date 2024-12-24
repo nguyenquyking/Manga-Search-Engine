@@ -1,0 +1,189 @@
+[
+    {
+        "text_box": [
+            9,
+            30,
+            135,
+            1145
+        ],
+        "text": "YOU'RE ALL INVITED TO THE FIRST",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            18,
+            1172,
+            107,
+            1733
+        ],
+        "text": "CELEBRATORY BANQUET!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            306,
+            956,
+            508,
+            1098
+        ],
+        "text": "TOTAL NUMBER OF SUBMISSIONS:\n22,807!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            495,
+            963,
+            698,
+            1048
+        ],
+        "text": "THANK YOU\nVERY\nMUCH!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            401,
+            39,
+            518,
+            224
+        ],
+        "text": "5th Place\nMEREOLEONA\nVERMILLION\n1231 VOTES",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            482,
+            305,
+            596,
+            426
+        ],
+        "text": "10th Place\nGAUCHE\nADLAI\n791 VOTES",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            504,
+            508,
+            586,
+            837
+        ],
+        "text": "1st Place\nASTA\n2971 VOTES",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            851,
+            420,
+            1007,
+            571
+        ],
+        "text": "3rd Place\nNOELLE\nSILVA\n1864 VOTES",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            939,
+            665,
+            1003,
+            807
+        ],
+        "text": "8th Place\nMIMOSA\n885 VOTES",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            923,
+            965,
+            1033,
+            1093
+        ],
+        "text": "9th Place\nLUCK\nVOLTIA\n842 VOTES",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            353,
+            1600,
+            468,
+            1740
+        ],
+        "text": "6th Place\nCHARLOTTE\nROSELEI\n1156 VOTES",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            559,
+            1307,
+            664,
+            1450
+        ],
+        "text": "7th Place\nCHARMY\nPAPITTSON\n986 VOTES",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            715,
+            1256,
+            790,
+            1373
+        ],
+        "text": "4th Place\nYUNO\n1628 VOTES",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            975,
+            1463,
+            1128,
+            1745
+        ],
+        "text": "2nd Place\nYAMI SUKEHIRO\n2213 VOTES",
+        "panel_id": "3",
+        "type": "caption"
+    },
+    {
+        "text_box": [
+            962,
+            1197,
+            1068,
+            1411
+        ],
+        "text": "THE CLIMAX OF THE DECISIVE\nBATTLE OF THE SHADOW PALACE,\nAND THE ANNOUNCEMENT OF THE\nPOPULARITY CONTEST RESULTS!!\nPLUS A COLOR COVER AND\nOPENING PAGE!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1085,
+            1093,
+            1103,
+            1294
+        ],
+        "text": "BLACK CLOVER",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1154,
+            1497,
+            1179,
+            1772
+        ],
+        "text": "*Page 211: The Finishing Blow",
+        "panel_id": "5",
+        "type": "caption"
+    }
+]

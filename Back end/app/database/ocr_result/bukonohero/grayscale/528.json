@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            76,
+            636,
+            385,
+            705
+        ],
+        "text": "RAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            901,
+            332,
+            960,
+            413
+        ],
+        "text": "UGHH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            933,
+            90,
+            1019,
+            190
+        ],
+        "text": "STOP! STOP, ALREADY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            992,
+            492,
+            1063,
+            593
+        ],
+        "text": "He pried apart the bindings of Ragnarok!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            195,
+            166,
+            273,
+            315
+        ],
+        "text": "This is a world you entered...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            105,
+            773,
+            270,
+            866
+        ],
+        "text": "We have two days. That's it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            166,
+            955,
+            327
+        ],
+        "text": "...Because you had no magic and wanted strength.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            784,
+            746,
+            972,
+            911
+        ],
+        "text": "Did you think you could get stronger in that time frame by decent methods?",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

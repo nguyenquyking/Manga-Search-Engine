@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            300,
+            33,
+            388,
+            115
+        ],
+        "text": "AIEE!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            542,
+            121,
+            598
+        ],
+        "text": "Mmm?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            256,
+            676,
+            310,
+            750
+        ],
+        "text": "GYAAA!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            541,
+            7,
+            585,
+            115
+        ],
+        "text": "Very Impressive...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            726,
+            340,
+            751,
+            404
+        ],
+        "text": "Huh?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            594,
+            694,
+            655,
+            763
+        ],
+        "text": "Whoa!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            25,
+            772,
+            98
+        ],
+        "text": "What the--?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            896,
+            503,
+            955,
+            617
+        ],
+        "text": "Minus One Life.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1026,
+            760,
+            1128,
+            836
+        ],
+        "text": "Got 'im Already!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            234,
+            1416,
+            297,
+            1483
+        ],
+        "text": "AAAH!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

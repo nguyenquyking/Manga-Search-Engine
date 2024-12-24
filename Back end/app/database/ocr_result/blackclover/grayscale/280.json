@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            268,
+            104,
+            417,
+            285
+        ],
+        "text": "For the sake of that friend, tell me about forbidden magic curses... and about the devils!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            185,
+            890,
+            356,
+            1024
+        ],
+        "text": "I practically abandoned the family, and it may not be my place to ask...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            360,
+            756,
+            508,
+            911
+        ],
+        "text": "...But I have a friend now, and I want to help him, no matter what it takes!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            617,
+            93,
+            742,
+            1065
+        ],
+        "text": "THO OM THO OM THOOM",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1164,
+            274,
+            1321,
+            380
+        ],
+        "text": "...and secret arts that deal with poison, plague... and death.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1102,
+            620,
+            1342,
+            737
+        ],
+        "text": "I'll show you hex research worthy of a family with centuries of expertise as curse mages...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1153,
+            794,
+            1214,
+            866
+        ],
+        "text": "Huh! That's it?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1104,
+            953,
+            1124,
+            1008
+        ],
+        "text": "Sure",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1200,
+            122,
+            1276,
+            203
+        ],
+        "text": "Are you ready...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1504,
+            958,
+            1524,
+            988
+        ],
+        "text": "92",
+        "panel_id": "4",
+        "type": "page_number"
+    }
+]

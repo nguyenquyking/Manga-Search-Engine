@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            185,
+            87,
+            341,
+            324
+        ],
+        "text": "I TOLD YOU, I'M IN A HURRY!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            172,
+            1072,
+            360,
+            1303
+        ],
+        "text": "WAIT!! I'M SERIOUS,\nI MEAN YOU NO HARM!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1248,
+            997,
+            1527,
+            1293
+        ],
+        "text": "WHERE ARE YOU TRYING TO\nTAKE ME?! I DON'T HAVE TIME\nTO WASTE WITH YOU,\nWHOEVER YOU ARE!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1829,
+            83,
+            2017,
+            306
+        ],
+        "text": "JUST HEAR ME OUT!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            2002,
+            401,
+            2090,
+            607
+        ],
+        "text": "RATTLE!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1699,
+            1175,
+            1797,
+            1332
+        ],
+        "text": "HUFF... HUFF!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

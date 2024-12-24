@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            87,
+            139,
+            105,
+            211
+        ],
+        "text": "FATHER.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            381,
+            566,
+            495,
+            669
+        ],
+        "text": "WE DO THIS...\n...TOGETHER.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            285,
+            875,
+            298
+        ],
+        "text": "FSSHH\n#",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            877,
+            8,
+            996,
+            138
+        ],
+        "text": "...BUT...\n...YOUR CLASS\nACHIEVED IT.",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            851,
+            149,
+            941,
+            212
+        ],
+        "text": "THIS\nWAS\nBEYOND\nMY\nPOWER",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1059,
+            611,
+            1076,
+            672
+        ],
+        "text": "YEAH...",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

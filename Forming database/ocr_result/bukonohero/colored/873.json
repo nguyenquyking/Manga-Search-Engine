@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            162,
+            80,
+            336,
+            279
+        ],
+        "text": "Do you really sympathize with us? You came looking to cooperate, but you sure don't act like it.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            204,
+            674,
+            301,
+            822
+        ],
+        "text": "And tell me, why zero casualties today?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            537,
+            114,
+            666,
+            282
+        ],
+        "text": "The more faith they have in me, the juicier the intel I can get. That's to your advantage.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            553,
+            688,
+            708,
+            830
+        ],
+        "text": "I gotta keep up appearances. A hero can't go losing the public's trust.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            59,
+            783,
+            173
+        ],
+        "text": "Try taking the long view, here.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            925,
+            27,
+            1011,
+            217
+        ],
+        "text": "Fine...but you don't get a face-to-face with the boss just yet.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            916,
+            721,
+            1026,
+            836
+        ],
+        "text": "What I do, I do for the League's sake, Dabi.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1215,
+            692,
+            1287,
+            827
+        ],
+        "text": "You'll hear from us, Hawks.",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

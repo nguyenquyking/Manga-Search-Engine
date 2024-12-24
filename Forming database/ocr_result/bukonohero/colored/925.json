@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            116,
+            28,
+            237,
+            232
+        ],
+        "text": "So that we can narrow down the points that could be their base!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            100,
+            628,
+            220,
+            794
+        ],
+        "text": "I would like everyone to investigate their respective areas,",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            403,
+            275,
+            556,
+            440
+        ],
+        "text": "Look. The work district of the heroes here and the list are linked! Heroes that are familiar with those areas were chosen.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            460,
+            682,
+            560,
+            794
+        ],
+        "text": "Ah, I see. That's why they called us minor heroes...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            690,
+            49,
+            883,
+            229
+        ],
+        "text": "While we're sittin' here like this, that girl Eri may be cryin' her eyes out!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            700,
+            609,
+            871,
+            780
+        ],
+        "text": "For All Might's former sidekick, yer really cautious! This is too roundabout!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            441,
+            1172,
+            620
+        ],
+        "text": "And that is why we must analyze and amass our predictions, so that the probability that we can save her is as close as possible to 100%",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1018,
+            644,
+            1098,
+            776
+        ],
+        "text": "We cannot be All Might!",
+        "panel_id": "4",
+        "type": "narration"
+    }
+]

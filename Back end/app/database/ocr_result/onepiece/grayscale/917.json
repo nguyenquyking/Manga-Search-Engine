@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            108,
+            83,
+            220,
+            104
+        ],
+        "text": "NOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            66,
+            432,
+            117,
+            518
+        ],
+        "text": "GLINT\nGLINT",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            182,
+            382,
+            239,
+            412
+        ],
+        "text": "WIBL\nip",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            249,
+            552,
+            291,
+            598
+        ],
+        "text": "ip\nWIBL",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            354,
+            600,
+            431,
+            678
+        ],
+        "text": "\u3082\u304e\u3085\nCHEW\nCHEW",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            516,
+            461,
+            761,
+            733
+        ],
+        "text": "TWITCH\nMM! The fish is so tender,\nit melted into\nsweet waves\nthe moment it\ntouched my\ntongue!\nAnd the\naromatic\nsearing gave\nit, is making\nme dizzy!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            736,
+            70,
+            811,
+            145
+        ],
+        "text": "5000\nLUXURIANT!",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            788,
+            158,
+            943,
+            317
+        ],
+        "text": "Then there's the roughly chopped scallions with their contrasting crunchy texture and tangy bitterness,",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            949,
+            68,
+            1104,
+            205
+        ],
+        "text": "They pair perfectly with the sharp bite of the wasabi, beautifully underscoring the richness of the fish's fatty oils!",
+        "panel_id": "2",
+        "type": "narration"
+    }
+]

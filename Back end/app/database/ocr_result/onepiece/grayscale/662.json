@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            42,
+            70,
+            162,
+            196
+        ],
+        "text": "LADY ULT I JUST WENT DOWN!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            61,
+            481,
+            121,
+            589
+        ],
+        "text": "AAAAAH!!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            269,
+            77,
+            378,
+            192
+        ],
+        "text": "FIRST PAGE ONE, NOW HER!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            464,
+            139,
+            569,
+            253
+        ],
+        "text": "ARE YOU KIDDING ME?! THAT'S NEVER HAPPENED BEFORE!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            488,
+            303,
+            542,
+            410
+        ],
+        "text": "WHAAAAT?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            480,
+            578,
+            590,
+            720
+        ],
+        "text": "TWO OF THE TOBI ROPPO ARE OUT OF THE FIGHT!!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            607,
+            64,
+            678,
+            159
+        ],
+        "text": "HANG ON, ARE WE... LOSING?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            850,
+            59,
+            881,
+            103
+        ],
+        "text": "?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            148,
+            926,
+            274
+        ],
+        "text": "EEEK!! WHAT IS THIS MONSTER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            325,
+            919,
+            400
+        ],
+        "text": "HUH?! WHAT IS THAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            446,
+            945,
+            563
+        ],
+        "text": "WHOOPSIE! THAT WASN'T SUPPOSED TO GO OUT!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            856,
+            614,
+            944,
+            740
+        ],
+        "text": "MISS BAO HUANG!! EVERYONE CAN HEAR YOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

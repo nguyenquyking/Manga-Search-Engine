@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            62,
+            354,
+            99,
+            459
+        ],
+        "text": "INTRUDERS!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            101,
+            592,
+            184,
+            693
+        ],
+        "text": "EVEN IF THERE'S A DIVERSION OUTSIDE THE CASTLE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            266,
+            641,
+            266,
+            707
+        ],
+        "text": "00000",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            303,
+            73,
+            384,
+            167
+        ],
+        "text": "...YOU'LL PROBABLY ENCOUNTER SOME DARK DISCIPLES.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            565,
+            463,
+            654,
+            553
+        ],
+        "text": "WHEN YOU DO, HAVE SOMEONE ACT AS A DECOY...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            928,
+            178,
+            1057,
+            283
+        ],
+        "text": "...AND LET AS MANY PEOPLE AS POSSIBLE GO ON TO STRIKE THE TRIAD!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1025,
+            639,
+            1048,
+            658
+        ],
+        "text": "00000",
+        "panel_id": "2",
+        "type": "sound_effect"
+    }
+]

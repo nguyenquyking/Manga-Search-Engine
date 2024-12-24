@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            35,
+            78,
+            127,
+            204
+        ],
+        "text": "I won't let it go to the Flower Capital!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            199,
+            56,
+            314,
+            161
+        ],
+        "text": "I turned big in order to stop this island!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            44,
+            616,
+            136,
+            730
+        ],
+        "text": "It's a disaster waiting to happen!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            64,
+            472,
+            138
+        ],
+        "text": "The Capital is so close!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            635,
+            53,
+            727,
+            144
+        ],
+        "text": "We will arrive in no more than five minutes!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            398,
+            464,
+            503,
+            590
+        ],
+        "text": "But there's no time!! Just look...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            393,
+            634,
+            501,
+            723
+        ],
+        "text": "That's not going to work, Momonosuke!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            693,
+            638,
+            741,
+            686
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            46,
+            945,
+            218
+        ],
+        "text": "The only thing that can push it back is even stronger flame clouds!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1003,
+            37,
+            1111,
+            231
+        ],
+        "text": "What you speak of is impossible!! I only just learned how to fly!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            859,
+            258,
+            880,
+            340
+        ],
+        "text": "GRRRGGG",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            834,
+            566,
+            930,
+            723
+        ],
+        "text": "Then make more flame clouds!! Kaido created gigantic dragon-like clouds...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            986,
+            584,
+            1112,
+            711
+        ],
+        "text": "...and that's how he's moving this island through the air!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "text_box": [
+            45,
+            127,
+            143,
+            238
+        ],
+        "text": "THIS OVERSIZED BOMB MUST NOT GO OFF!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            75,
+            729,
+            152,
+            833
+        ],
+        "text": "DROPPING IT IS UNTHINKABLE...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            647,
+            63,
+            702,
+            121
+        ],
+        "text": "HUFF... HUFF...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            439,
+            731,
+            616,
+            796
+        ],
+        "text": "HUFF\nHUFF",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            806,
+            144,
+            887,
+            288
+        ],
+        "text": "I MAY BE ABLE TO MINIMIZE THE POTENTIAL DESTRUCTION!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            809,
+            398,
+            874,
+            531
+        ],
+        "text": "I'M HEADING BACK TO THE SKULL DOME!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            815,
+            713,
+            893,
+            808
+        ],
+        "text": "LISTEN,\nMOMONOSUKE-KUN\n!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            995,
+            72,
+            1021,
+            141
+        ],
+        "text": "HUH?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            991,
+            668,
+            1047,
+            729
+        ],
+        "text": "HUFF...\nHUFF...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

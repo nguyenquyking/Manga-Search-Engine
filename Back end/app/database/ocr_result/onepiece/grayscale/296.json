@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            54,
+            50,
+            138,
+            207
+        ],
+        "text": "If Luffy defeats Kaido, his Flame Clouds will disappear...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            45,
+            573,
+            149,
+            690
+        ],
+        "text": "There is another battle being waged here, however.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            226,
+            53,
+            337,
+            203
+        ],
+        "text": "...causing Onigashima to fall upon the capital and explode from its store of gunpowder,",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            217,
+            459,
+            253,
+            595
+        ],
+        "text": "Flame Clouds\nPowder",
+        "panel_id": "1",
+        "type": "label"
+    },
+    {
+        "text_box": [
+            422,
+            184,
+            502,
+            267
+        ],
+        "text": "I will not let you go there!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            36,
+            622,
+            148
+        ],
+        "text": "...as they enjoy the Fire Festival, unaware of the danger nearby!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            433,
+            607,
+            573,
+            712
+        ],
+        "text": "It would mean the deaths of tens of thousands of innocent people...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            709,
+            188,
+            785,
+            248
+        ],
+        "text": "...and heads downward...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            731,
+            319,
+            808,
+            417
+        ],
+        "text": "...seeks to explode Onigashima in midair...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            716,
+            470,
+            809,
+            591
+        ],
+        "text": "The burning spirit of Kanjuro's hatred, on Orochi's orders...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            730,
+            634,
+            787,
+            712
+        ],
+        "text": "Also, a second menace...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            862,
+            436,
+            899,
+            491
+        ],
+        "text": "Burning\nHatred",
+        "panel_id": "3",
+        "type": "label"
+    },
+    {
+        "text_box": [
+            934,
+            51,
+            995,
+            141
+        ],
+        "text": "...with Yamato in pursuit!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1063,
+            670,
+            1074,
+            711
+        ],
+        "text": "Yamato",
+        "panel_id": "3",
+        "type": "label"
+    }
+]

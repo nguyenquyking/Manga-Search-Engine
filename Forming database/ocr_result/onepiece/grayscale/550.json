@@ -1,0 +1,233 @@
+[
+    {
+        "text_box": [
+            49,
+            90,
+            117,
+            261
+        ],
+        "text": "WHERE'S MARCO?! HELP US OUTTA THIS, MAN!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            87,
+            332,
+            130,
+            426
+        ],
+        "text": "...IS VERY STEEP.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            317,
+            87,
+            419,
+            250
+        ],
+        "text": "HE'S REACHED THE LIMIT OF HIS STAMINA!! WE GOTTA FIGHT OUR OWN BATTLE NOW!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            1152,
+            196,
+            1301
+        ],
+        "text": "LISTEN UP, ALL YOU MISERABLE FORMER ANIMAL KINGDOM PIRATES!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            791,
+            141,
+            882
+        ],
+        "text": "THE PRICE FOR TREASON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            70,
+            1408,
+            160,
+            1478
+        ],
+        "text": "PERFORMANCE FLOOR, SKULL DOME",
+        "panel_id": "3",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            199,
+            308,
+            250,
+            402
+        ],
+        "text": "GYAAAA!!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            257,
+            1403,
+            302,
+            1467
+        ],
+        "text": "GYAAA!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            308,
+            1335,
+            361,
+            1393
+        ],
+        "text": "AIEEE!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            456,
+            1208,
+            484,
+            1303
+        ],
+        "text": "AAAAH!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            851,
+            72,
+            913,
+            150
+        ],
+        "text": "KEEP YER CHIN UP, ZOLO!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            836,
+            324,
+            907,
+            415
+        ],
+        "text": "HE'S IN GRAVE CONDITION TO BEGIN WITH!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            848,
+            446,
+            905,
+            529
+        ],
+        "text": "WILL IT STILL TAKE LONGER?",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            857,
+            669,
+            898,
+            743
+        ],
+        "text": "CHOPPER, MIYAGI!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            874,
+            553,
+            940,
+            658
+        ],
+        "text": "IF THE MEDICINE ISN'T WORKING, JUST DRAG THAT GREEN MUMMY TO SAFETY!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            846,
+            1227,
+            913,
+            1348
+        ],
+        "text": "THEY'RE LOOKING FOR ZOLOJURO!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            848,
+            1376,
+            916,
+            1489
+        ],
+        "text": "SANGORO!! ARE YOU ALL RIGHT?!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1020,
+            837,
+            1103,
+            915
+        ],
+        "text": "THEY'LL WIPE OUT THE ENTIRE FLOOR!!!",
+        "panel_id": "6",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1021,
+            953,
+            1112,
+            1128
+        ],
+        "text": "WHO CAN POSSIBLY STOP THEM?! WEEZ, WEEZ!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1028,
+            1389,
+            1119,
+            1484
+        ],
+        "text": "DAMMIT... TWO OF THEM AT THE SAME TIME IS TOO MUCH!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1051,
+            562,
+            1123,
+            636
+        ],
+        "text": "WE GAVE HIM THE MEDICINE!! BUT...",
+        "panel_id": "7",
+        "type": "narration"
+    }
+]

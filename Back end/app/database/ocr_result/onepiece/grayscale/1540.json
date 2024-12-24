@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            552,
+            201,
+            712,
+            1224
+        ],
+        "text": "So Nami likes all fruits, but especially tangerines. Does that mean she likes all other orange-like citrus fruits just as much as tangerines? I don't know, maybe she has a special attachment to tangerines... Please explain!",
+        "panel_id": "1",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            727,
+            679,
+            756,
+            879
+        ],
+        "text": "--Emerald Usa",
+        "panel_id": "1",
+        "type": "signature"
+    },
+    {
+        "text_box": [
+            786,
+            197,
+            1105,
+            1251
+        ],
+        "text": "Hmm! Well, Nami's favorite fruit is tied closely to her upbringing. You see, this is actually revealed in the Arlong arc, from about the second half of Volume 7 through the first half of Volume 10. Nami grew up in a tangerine grove, and she has many memories of them associated with her late mother. That's why she loves them more than any other fruit. Thanks for your letter!",
+        "panel_id": "2",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            1134,
+            198,
+            1166,
+            839
+        ],
+        "text": "Sanadacchi!! Give me all of your Nami figures.",
+        "panel_id": "3",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            1179,
+            609,
+            1211,
+            843
+        ],
+        "text": "--Captain Nobuo",
+        "panel_id": "3",
+        "type": "signature"
+    },
+    {
+        "text_box": [
+            1235,
+            197,
+            1447,
+            894
+        ],
+        "text": "Hey, hey, whoa!!? Who do you think you're talking to?!? Don't do that, especially if it's something dirty! I was just talking about some nice, heartfelt stuff! I'm not putting any of Sanada's gross stuff in this segment this time.",
+        "panel_id": "4",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            1483,
+            129,
+            1576,
+            885
+        ],
+        "text": "Please give me the towel Nami used in the bathhouse!",
+        "panel_id": "5",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            1591,
+            709,
+            1620,
+            879
+        ],
+        "text": "--Sanadacchi",
+        "panel_id": "5",
+        "type": "signature"
+    },
+    {
+        "text_box": [
+            1639,
+            194,
+            1734,
+            810
+        ],
+        "text": "Nooo!!! Get lost, Sanada!! Officer, he's over here!!!",
+        "panel_id": "6",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            1654,
+            930,
+            1704,
+            1281
+        ],
+        "text": "Eiichiro Oda / Shueisha - Fuji TV -\nToei Animation",
+        "panel_id": "6",
+        "type": "credit"
+    },
+    {
+        "text_box": [
+            1771,
+            200,
+            1883,
+            974
+        ],
+        "text": "This might be a weird question, but as the sole feminine member of the Akazaya Nine, does Okiku bathe separately from the others?",
+        "panel_id": "7",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            1898,
+            708,
+            1935,
+            974
+        ],
+        "text": "--Crybaby Kyoshiro",
+        "panel_id": "7",
+        "type": "signature"
+    },
+    {
+        "text_box": [
+            1956,
+            200,
+            2060,
+            902
+        ],
+        "text": "Not at all. She goes in with the group. She's known them since she was a little kid, after all.",
+        "panel_id": "8",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            2056,
+            1307,
+            2106,
+            1370
+        ],
+        "text": "62",
+        "panel_id": "8",
+        "type": "page_number"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "text_box": [
+            156,
+            1271,
+            230,
+            1489
+        ],
+        "text": "DESTROYER OF DEATH...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            346,
+            296,
+            405,
+            349
+        ],
+        "text": "Huh?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            491,
+            294,
+            517,
+            357
+        ],
+        "text": "GRRP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            861,
+            561,
+            950,
+            757
+        ],
+        "text": "\u2026THUNDER BAGUA!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

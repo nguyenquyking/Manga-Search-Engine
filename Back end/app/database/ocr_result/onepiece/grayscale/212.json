@@ -1,0 +1,156 @@
+[
+    {
+        "text_box": [
+            33,
+            224,
+            61,
+            329
+        ],
+        "text": "KRUNCH!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            53,
+            354,
+            107,
+            446
+        ],
+        "text": "It's ALIVE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            46,
+            476,
+            87,
+            564
+        ],
+        "text": "Huh?! It's MOVING!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            36,
+            954,
+            109,
+            1107
+        ],
+        "text": "AAAA! RUN FOR YOUR LIFE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            122,
+            1091,
+            195,
+            1489
+        ],
+        "text": "3,000 LEAGUES OF...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            299,
+            123,
+            346,
+            228
+        ],
+        "text": "MA MAMA! HAAA HA HA!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            302,
+            473,
+            353,
+            556
+        ],
+        "text": "HER ATTACK...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            435,
+            544,
+            485,
+            606
+        ],
+        "text": "WEEZ, WEEZ...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            445,
+            90,
+            509,
+            163
+        ],
+        "text": "DESTROY THOSE LITTLE...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            449,
+            450,
+            512,
+            525
+        ],
+        "text": "KEEP GOING, MISERY!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            351,
+            1318,
+            445,
+            1486
+        ],
+        "text": "...MISERY!!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            649,
+            72,
+            685,
+            169
+        ],
+        "text": "TAKT!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            841,
+            230,
+            832,
+            299
+        ],
+        "text": "DOOM!!",
+        "panel_id": "5",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            891,
+            570,
+            916,
+            627
+        ],
+        "text": "HUH?",
+        "panel_id": "5",
+        "type": "dialogue"
+    }
+]

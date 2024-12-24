@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            44,
+            223,
+            133,
+            340
+        ],
+        "text": "I can truthfully declare that I am Tomura Shigaraki...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            54,
+            593,
+            161,
+            669
+        ],
+        "text": "It's a strange state I find myself in.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            504,
+            39,
+            591,
+            156
+        ],
+        "text": "...But at the same time, there is no doubt that I am also me.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            780,
+            110,
+            804,
+            202
+        ],
+        "text": "EVADE!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            846,
+            282,
+            917,
+            397
+        ],
+        "text": "I've felt like this ever since I reawakened.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            684,
+            591,
+            759,
+            724
+        ],
+        "text": "RADIO WAVES\nPLUS\nAIR CANNON...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            956,
+            569,
+            1006,
+            634
+        ],
+        "text": "...PLUS\nHEAVY\nPAYLOAD",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            996,
+            19,
+            1075,
+            174
+        ],
+        "text": "SHOOM",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

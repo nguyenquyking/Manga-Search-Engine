@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            158,
+            198,
+            237,
+            340
+        ],
+        "text": "You kids think you can do a damn thing about it?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            98,
+            416,
+            259,
+            566
+        ],
+        "text": "And once everyone's crammed in the school, what happens when those devils decide to attack there?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            500,
+            154,
+            556,
+            252
+        ],
+        "text": "Our eyes are wide open now.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            473,
+            713,
+            613,
+            865
+        ],
+        "text": "When they came for my shop, I gave those suckers a taste of their own medicine.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            827,
+            278,
+            945,
+            423
+        ],
+        "text": "If they were only coming for money and valuables, that would be one thing.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1070,
+            286,
+            1192,
+            408
+        ],
+        "text": "But Jailbreaker and those Nomu are a different story.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            852,
+            744,
+            922,
+            938
+        ],
+        "text": "A man's gotta protect his hometown!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1224,
+            542,
+            1370,
+            676
+        ],
+        "text": "We ain't putting our lives in anyone else's hands!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

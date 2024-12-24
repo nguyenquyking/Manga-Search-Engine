@@ -1,0 +1,145 @@
+[
+    {
+        "text_box": [
+            88,
+            43,
+            154,
+            225
+        ],
+        "text": "...and importing strange artificial fruits in return...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            81,
+            263,
+            159,
+            407
+        ],
+        "text": "They began trading the weapons built in this country...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            67,
+            461,
+            147,
+            570
+        ],
+        "text": "...Kaido and Orochi began a new venture.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            75,
+            608,
+            141,
+            684
+        ],
+        "text": "Several years ago...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            306,
+            52,
+            336,
+            136
+        ],
+        "text": "SMILE...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            418,
+            21,
+            514,
+            184
+        ],
+        "text": "The artificial Devil Fruits... We destroyed the factory where they were being made.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            415,
+            370,
+            510,
+            522
+        ],
+        "text": "...But in exchange, the horrible fruit confers the ferocious power of a wild animal.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            411,
+            556,
+            528,
+            693
+        ],
+        "text": "When one eats the fruit, it invites the sea's hatred, leaving you unable to swim...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            639,
+            10,
+            698,
+            112
+        ],
+        "text": "That's what Master Kin told me.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            793,
+            22,
+            890,
+            147
+        ],
+        "text": "But everything that sounds too good to be true contains hidden risks...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            792,
+            193,
+            908,
+            354
+        ],
+        "text": "...In an attempt to create the mightiest pirate crew in existence!!!",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            792,
+            424,
+            909,
+            539
+        ],
+        "text": "...To give his own followers monstrous strength...",
+        "panel_id": "5",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            806,
+            585,
+            903,
+            689
+        ],
+        "text": "By doing this, Kaido was able...",
+        "panel_id": "5",
+        "type": "narration"
+    }
+]

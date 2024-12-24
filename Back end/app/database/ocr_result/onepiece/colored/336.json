@@ -1,0 +1,57 @@
+[
+    {
+        "text_box": [
+            37,
+            78,
+            124,
+            287
+        ],
+        "text": "YOU STAY THERE. I'LL COME TO YOU!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            39,
+            385,
+            119,
+            486
+        ],
+        "text": "ZORO!!\nGET OUT OF\nTHERE!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            40,
+            778,
+            142,
+            876
+        ],
+        "text": "YOUR\nGENERATION\nIS PROVING\nTO BE AN\nANNOYANCE",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            469,
+            336,
+            571,
+            581
+        ],
+        "text": "THUNDER\nBAGUA!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1148,
+            422,
+            1170,
+            472
+        ],
+        "text": "\u30b4\u30ed\u30b4\u30ed",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

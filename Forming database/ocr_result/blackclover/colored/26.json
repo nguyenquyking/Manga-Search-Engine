@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            625,
+            529,
+            679,
+            977
+        ],
+        "text": "Twitter: Black Clover Team",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            663,
+            1229,
+            704,
+            1421
+        ],
+        "text": "@Kin_Clover",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1114,
+            20,
+            1255,
+            147
+        ],
+        "text": "PLEASE\nWAIT FOR\nTHE RETURN\nOF YOUR\nFRIENDS...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1255,
+            165,
+            1233,
+            453
+        ],
+        "text": "THE LEGENDARY FIRST MAGIC EMPEROR\nGOING TO WAR AT THE SPEED OF LIGHT!!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1058,
+            571,
+            1146,
+            719
+        ],
+        "text": "THANK YOU,\nPRESENT-DAY\nMAGIC KNIGHT.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1092,
+            1392,
+            1185,
+            1534
+        ],
+        "text": "REVERSE\nSEAL MAGIC.",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1207,
+            968,
+            1242,
+            1012
+        ],
+        "text": "HUH...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1244,
+            604,
+            1298,
+            866
+        ],
+        "text": "BLACK CLOVER\nPAGE 203\nEND",
+        "panel_id": "3",
+        "type": "background"
+    }
+]

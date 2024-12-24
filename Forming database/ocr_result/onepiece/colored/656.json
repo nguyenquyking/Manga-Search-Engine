@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            76,
+            38,
+            142,
+            121
+        ],
+        "text": "STOP IT!!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            70,
+            356,
+            186,
+            458
+        ],
+        "text": "WHY DID YOU EAT IT ALL, BOY?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            69,
+            530,
+            116,
+            679
+        ],
+        "text": "SHE WAS BEING NICE?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            411,
+            51,
+            488,
+            197
+        ],
+        "text": "GRAMPS!!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            507,
+            191,
+            636,
+            261
+        ],
+        "text": "THAT'S IT!! THERE'S NO SAVING ME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            420,
+            394,
+            444,
+            530
+        ],
+        "text": "BEEP BEEP",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            588,
+            410,
+            612,
+            454
+        ],
+        "text": "AH!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            660,
+            32,
+            694,
+            391
+        ],
+        "text": "BEEP BEEP BEEP BEEP!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            817,
+            386,
+            903,
+            520
+        ],
+        "text": "COME OFF!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            774,
+            567,
+            876,
+            688
+        ],
+        "text": "DAMMIT!! NO, I'M NOT LETTING YOU DIE!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1046,
+            551,
+            1116,
+            717
+        ],
+        "text": "COME OFF!! BEEP BEEP",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

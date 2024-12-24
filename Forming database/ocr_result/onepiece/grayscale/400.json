@@ -1,0 +1,200 @@
+[
+    {
+        "text_box": [
+            64,
+            936,
+            154,
+            1017
+        ],
+        "text": "BI IBI\nBI BI\nBI BI!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            79,
+            114,
+            154,
+            206
+        ],
+        "text": "Ki ZAKI\nKi Ki\nKi",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            129,
+            357,
+            176,
+            490
+        ],
+        "text": "RAAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            196,
+            1290,
+            258,
+            1412
+        ],
+        "text": "I'M GUESSING\nTHAT YOU'RE A\nNAVY SPY.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            359,
+            1309,
+            397,
+            1397
+        ],
+        "text": "CAVE\nCHAMBER",
+        "panel_id": "2",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            420,
+            1111,
+            492,
+            1197
+        ],
+        "text": "BUT THAT\nDOESN'T\nMATTER AT\nTHIS POINT...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            392,
+            123,
+            516,
+            228
+        ],
+        "text": "...AND\nSEIZE IT\nALL AT\nTHE VERY\nEND?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            388,
+            269,
+            504,
+            373
+        ],
+        "text": "WHADDAYA\nTHINK?!\nWANNA\nJOIN WITH\nUS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            547,
+            144,
+            629,
+            221
+        ],
+        "text": "GA FUGA\nGA GA\nGA GA",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            941,
+            244,
+            1074,
+            392
+        ],
+        "text": "WE'RE NOT\nALIGNED WITH\nANYONE HERE!\nWHY WOULD WE\nFIGHT EACH\nOTHER?!",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1102,
+            119,
+            1108,
+            203
+        ],
+        "text": "DA-DOOM!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            610,
+            1105,
+            739,
+            1197
+        ],
+        "text": "...IS\nWHETHER\nYOU WANT\nTO TAKE OUT\nKAIDO OR\nNOT. APPA\nPA PA!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            626,
+            1406,
+            719,
+            1505
+        ],
+        "text": "THE ONLY\nTHING THAT\nMATTERS\nNOW...",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            871,
+            1107,
+            967,
+            1202
+        ],
+        "text": "FINISHING\nTHEM OFF IS\nGONNA BE A\nPIECE OF\nCAKE!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            855,
+            1390,
+            932,
+            1495
+        ],
+        "text": "BY THE\nTIME THE DUST\nSETTLES ON\nTHIS BATTLE...",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1001,
+            1373,
+            1075,
+            1495
+        ],
+        "text": "...THE WINNER\nWILL BE AT\nDEATH'S DOOR,\nWHOEVER IT IS!!",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1038,
+            694,
+            1049,
+            1008
+        ],
+        "text": "INBI\nFUGA\nZANKI",
+        "panel_id": "7",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            1048,
+            1136,
+            1057,
+            1161
+        ],
+        "text": "\u2026",
+        "panel_id": "7",
+        "type": "dialogue"
+    }
+]

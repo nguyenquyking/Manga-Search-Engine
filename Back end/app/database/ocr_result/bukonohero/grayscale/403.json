@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            58,
+            430,
+            113,
+            510
+        ],
+        "text": "That's what we thought.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            317,
+            387,
+            422,
+            515
+        ],
+        "text": "Security records from Tartarus, to be exact.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            299,
+            563,
+            438,
+            720
+        ],
+        "text": "All Might was given some intel by that mad zealot of his, Stain.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            720,
+            42,
+            777,
+            148
+        ],
+        "text": "...would end up a hero ally?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            662,
+            182,
+            782,
+            269
+        ],
+        "text": "Who would've thought that the hero killer...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            643,
+            543,
+            780,
+            714
+        ],
+        "text": "Along with what's basically a deranged love letter to All Might.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            893,
+            511,
+            1031,
+            691
+        ],
+        "text": "Stain wasn't planning to hand over that intel to anyone but the main man himself.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1119,
+            500,
+            1133,
+            672
+        ],
+        "text": "To be continued!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            609,
+            15,
+            637,
+            57
+        ],
+        "text": "?!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1094,
+            59,
+            1130,
+            98
+        ],
+        "text": "?!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1070,
+            173,
+            1138,
+            276
+        ],
+        "text": "ER,\nN-NOTHING,\nSIR...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            933,
+            487,
+            990,
+            570
+        ],
+        "text": "OH, YOU'RE\nGONNA GET\nIT...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1041,
+            489,
+            1138,
+            559
+        ],
+        "text": "HEY!\nWHAT'S\nGOING\nON OVER\nTHERE?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            924,
+            610,
+            1147,
+            703
+        ],
+        "text": "HEH!\nWHO ARE\nTHESE GUYS\nALL OF A\nSUDDEN?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

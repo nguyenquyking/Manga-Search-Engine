@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            91,
+            650,
+            176,
+            730
+        ],
+        "text": "BAKURA TOWN,\nKURI,\nWANO",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            135,
+            106,
+            188,
+            188
+        ],
+        "text": "DAMMIT!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            290,
+            78,
+            341,
+            164
+        ],
+        "text": "SUMO\nEVENT IN\nPROGRESS",
+        "panel_id": "1",
+        "type": "background"
+    },
+    {
+        "text_box": [
+            484,
+            58,
+            628,
+            160
+        ],
+        "text": "...But mark my words, I will have Okiku for my bride!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            486,
+            197,
+            630,
+            289
+        ],
+        "text": "That ronin's strange intensity drove me off...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            727,
+            74,
+            853,
+            237
+        ],
+        "text": "The woman's from Okobore, right?\nThey're lower class! They can't serve under Shogun Orochi.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            736,
+            306,
+            790,
+            380
+        ],
+        "text": "WHAT?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            726,
+            412,
+            826,
+            505
+        ],
+        "text": "Stop filling your head with idiotic worries.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            723,
+            562,
+            807,
+            729
+        ],
+        "text": "I've got status, I've got fame, I've got safe and high-quality food...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            918,
+            92,
+            940,
+            140
+        ],
+        "text": "Chu chu chu!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1006,
+            65,
+            1107,
+            202
+        ],
+        "text": "Take her by force, or burn down her house...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1080,
+            587,
+            1146,
+            717
+        ],
+        "text": "There's no reason she'd ever turn me down!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

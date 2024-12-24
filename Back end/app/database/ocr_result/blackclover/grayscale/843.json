@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            281,
+            67,
+            411,
+            208
+        ],
+        "text": "NOBODIES LIKE YOU SHOULDN'T EVEN BE HERE.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            425,
+            545,
+            570,
+            762
+        ],
+        "text": "TALK ABOUT PEONS...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            629,
+            372,
+            749,
+            446
+        ],
+        "text": "YOU HEARD HIM. THERE'S NOTHING YOU CAN DO-",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            798,
+            62,
+            886,
+            178
+        ],
+        "text": "WE'RE HERE TO TRASH YOU PEOPLE AND RESCUE CAPTAIN YAMI.",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            614,
+            635,
+            701,
+            768
+        ],
+        "text": "AREN'T THESE GUYS YAMI'S PEASANTS?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            894,
+            650,
+            965,
+            728
+        ],
+        "text": "WHY ARE YOU DWEEBS HERE?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            957,
+            569,
+            1001,
+            632
+        ],
+        "text": "GET LOST!",
+        "panel_id": "2",
+        "type": "dialogue"
+    }
+]

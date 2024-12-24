@@ -1,0 +1,35 @@
+[
+    {
+        "text_box": [
+            42,
+            115,
+            55,
+            205
+        ],
+        "text": "SHOOOM",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1081,
+            868,
+            1090,
+            927
+        ],
+        "text": "KRAK",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1388,
+            199,
+            1416,
+            375
+        ],
+        "text": "HEXAMENDLE",
+        "panel_id": "4",
+        "type": "background"
+    }
+]

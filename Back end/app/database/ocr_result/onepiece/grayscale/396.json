@@ -1,0 +1,167 @@
+[
+    {
+        "text_box": [
+            39,
+            1310,
+            75,
+            1527
+        ],
+        "text": "YEEEAAAH!!",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            61,
+            1639,
+            117,
+            1731
+        ],
+        "text": "COME TO\nLIFE!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            393,
+            60,
+            538,
+            225
+        ],
+        "text": "I'LL SHOW\nYOU WHAT IT\nMEANS TO BE\nAN EMPEROR!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            400,
+            325,
+            535,
+            467
+        ],
+        "text": "BRING IT ON\nIF YOU THINK\nYOU HAVE A\nSHOT!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            85,
+            588,
+            132,
+            709
+        ],
+        "text": "NO\nWAY?! BIG\nMOM...?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            465,
+            1596,
+            592,
+            1715
+        ],
+        "text": "SHE'S\nGOTTEN\nEVEN\nBIGGER?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            722,
+            1584,
+            832,
+            1724
+        ],
+        "text": "IT'S BEEN\nDECADES SINCE\nI'VE FELT PAIN\nLIKE THIS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            865,
+            1409,
+            967,
+            1559
+        ],
+        "text": "YOU\nRUNTS AREN'T\nBAD!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            540,
+            723,
+            653,
+            837
+        ],
+        "text": "TRAFALGAR\nLAW!!\n\"CAPTAIN\"\nKID!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            670,
+            577,
+            820,
+            725
+        ],
+        "text": "THE TWO OF\nYOU AND \"STRAW\nHAT\" LUFFY ARE\nSERIOUS ABOUT\nTAKING OUR\nTHRONES!!",
+        "panel_id": "4",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            644,
+            339,
+            860,
+            472
+        ],
+        "text": "I'LL NEED\nTO TAKE DOWN\nMONSTERS\nLIKE YOU...\n...IF I EVER\nWANT TO\nUNCOVER THE\nTRUE HISTORY!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            954,
+            81,
+            1112,
+            232
+        ],
+        "text": "I DON'T\nGIVE A DAMN\nWHAT IT COSTS,\nI'M GONNA TEAR\nHER FROM THAT\nTHRONE!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            962,
+            332,
+            1112,
+            480
+        ],
+        "text": "NO MORE\nHOLDING\nBACK... WE'RE\nGOING ALL\nOUT!!",
+        "panel_id": "5",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            65,
+            940,
+            150,
+            1066
+        ],
+        "text": "NONE OF\nTHIS RIFF-RAFF\nHAVE POWERFUL\nENOUGH SOULS.",
+        "panel_id": "6",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            39,
+            1098,
+            156,
+            1194
+        ],
+        "text": "I'LL USE\nONE YEAR\nOF MY OWN\nLIFESPAN\nTOO.",
+        "panel_id": "6",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            70,
+            615,
+            206,
+            743
+        ],
+        "text": "The curse-warding magic sapped my strength and temporarily dissolved my contract with Lolopechka.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            367,
+            353,
+            445,
+            459
+        ],
+        "text": "It's you, Noelle!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            401,
+            62,
+            571,
+            180
+        ],
+        "text": "You have what it takes to become a host for the water spirit.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            498,
+            503,
+            630,
+            638
+        ],
+        "text": "In order to regain my strength and store up mana, I moved to the grimoire of another qualified mage.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            748,
+            64,
+            798,
+            112
+        ],
+        "text": "Let's move on.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            728,
+            253,
+            809,
+            303
+        ],
+        "text": "Okay, you two, calm down.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            784,
+            346,
+            916,
+            473
+        ],
+        "text": "What was that?! I wouldn't take a spirit like you anyway!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            762,
+            471,
+            792,
+            529
+        ],
+        "text": "Excuse me?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            732,
+            596,
+            873,
+            724
+        ],
+        "text": "Frankly though, I'd prefer not to choose an ill-mannered, belligerent, noisy little girl like you.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            919,
+            658,
+            1013,
+            727
+        ],
+        "text": "It's Lolopechka all the way for me.",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

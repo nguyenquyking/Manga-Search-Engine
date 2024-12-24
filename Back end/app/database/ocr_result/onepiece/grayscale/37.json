@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            76,
+            49,
+            191,
+            188
+        ],
+        "text": "ROGER DIDN'T HAVE ANY FRUIT POWERS!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            84,
+            604,
+            182,
+            720
+        ],
+        "text": "THE WORLD IS CONVENIENT THAT WAY!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            313,
+            71,
+            365,
+            213
+        ],
+        "text": "BECAUSE ONLY HAKI...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            296,
+            353,
+            326,
+            400
+        ],
+        "text": "SWISHING!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            480,
+            389,
+            503,
+            447
+        ],
+        "text": "WHOA!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            881,
+            333,
+            1007,
+            428
+        ],
+        "text": "...CAN TRANSCEND ALL!!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1071,
+            528,
+            1074,
+            741
+        ],
+        "text": "BEEYOOP!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            132,
+            67,
+            325,
+            204
+        ],
+        "text": "...AND THEN I ACTUALLY MET A DEVIL! HOW CRAZY IS THAT, HUH?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            372,
+            160,
+            472,
+            227
+        ],
+        "text": "IS THAT \"FIFTH LEAF\" SUPERSTITION TRUE?",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            154,
+            649,
+            299,
+            807
+        ],
+        "text": "I FOUND A GRIMOIRE WITH A FIVE-LEAF CLOVER THE OTHER DAY...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            575,
+            195,
+            632,
+            355
+        ],
+        "text": "YOU'RE... \n...NOT AFRAID OF ME?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            869,
+            49,
+            990,
+            182
+        ],
+        "text": "AND ANYWAY, IF WE'RE TALKING ABOUT BEING LOATHED, I CAN GIVE YOU A RUN FOR YOUR MONEY.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            828,
+            384,
+            910,
+            479
+        ],
+        "text": "BESIDES, YOU DON'T HAVE MAGIC. YOU'RE ALL FRAIL.",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            825,
+            679,
+            905,
+            773
+        ],
+        "text": "BWA HA HA! WHO'D BE SCARED OF AN INJURED LITTLE KID?!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

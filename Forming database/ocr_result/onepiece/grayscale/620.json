@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            41,
+            51,
+            148,
+            163
+        ],
+        "text": "Anyway, there's something I wanted to ask you!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            67,
+            205,
+            92,
+            274
+        ],
+        "text": "GRRRGG",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            65,
+            638,
+            149,
+            728
+        ],
+        "text": "Ha ha ha! Sorry about that!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            329,
+            52,
+            344,
+            101
+        ],
+        "text": "FWH!!",
+        "panel_id": "2",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            304,
+            686,
+            314,
+            714
+        ],
+        "text": "\u2026",
+        "panel_id": "2",
+        "type": "thought"
+    },
+    {
+        "text_box": [
+            550,
+            419,
+            559,
+            456
+        ],
+        "text": "GA-CHING!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            541,
+            584,
+            684,
+            723
+        ],
+        "text": "Fang Flash!!!!",
+        "panel_id": "3",
+        "type": "attack_name"
+    },
+    {
+        "text_box": [
+            167,
+            120,
+            220,
+            204
+        ],
+        "text": "Iron Body!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    }
+]

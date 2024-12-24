@@ -1,0 +1,68 @@
+[
+    {
+        "text_box": [
+            326,
+            65,
+            404,
+            177
+        ],
+        "text": "Why do I hear Luffy's voice coming from there?!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            328,
+            343,
+            377,
+            424
+        ],
+        "text": "What is that?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            461,
+            78,
+            507,
+            148
+        ],
+        "text": "Is that him?!",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            806,
+            54,
+            858,
+            148
+        ],
+        "text": "Gyaaaah!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            904,
+            170,
+            962,
+            250
+        ],
+        "text": "Gum-Gum...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            853,
+            1301,
+            998,
+            1495
+        ],
+        "text": "...Giant!!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

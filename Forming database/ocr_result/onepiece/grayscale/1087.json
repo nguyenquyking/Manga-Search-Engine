@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            252,
+            106,
+            396,
+            488
+        ],
+        "text": "PARADISE TOTSUKA!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            168,
+            1469,
+            257,
+            1627
+        ],
+        "text": "...WITH THIS CHEAP IMITATION!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            500,
+            1512,
+            560,
+            1610
+        ],
+        "text": "LISTEN TO ME!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            528,
+            1958,
+            609,
+            2051
+        ],
+        "text": "OKAY, FIRST OF ALL...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            657,
+            1889,
+            753,
+            1987
+        ],
+        "text": "HERE'S THE THING ABOUT RYUO...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            96,
+            1938,
+            240,
+            2049
+        ],
+        "text": "YOU WASTE YOUR TIME...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1238,
+            1245,
+            1307,
+            1345
+        ],
+        "text": "?!!",
+        "panel_id": "4",
+        "type": "sound_effect"
+    }
+]

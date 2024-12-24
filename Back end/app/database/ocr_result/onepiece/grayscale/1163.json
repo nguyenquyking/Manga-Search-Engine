@@ -1,0 +1,134 @@
+[
+    {
+        "text_box": [
+            22,
+            136,
+            46,
+            441
+        ],
+        "text": "SBS Question Corner",
+        "panel_id": "1",
+        "type": "title"
+    },
+    {
+        "text_box": [
+            416,
+            92,
+            440,
+            1023
+        ],
+        "text": "Q: The officers of Kaido's pirate crew are all named after cards and card games, aren't they?",
+        "panel_id": "2",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            444,
+            948,
+            472,
+            1025
+        ],
+        "text": "--Akibe",
+        "panel_id": "3",
+        "type": "name"
+    },
+    {
+        "text_box": [
+            488,
+            94,
+            619,
+            1015
+        ],
+        "text": "A: That's right. The three Lead Performers are pretty obvious, but in addition to them, the Tobi Roppo, Numbers, and Headliners are all named for card games, or the cards themselves. The exceptions are Drake, Apoo, and Hawkins, since they came from outside the organization.",
+        "panel_id": "4",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            793,
+            132,
+            817,
+            992
+        ],
+        "text": "Who's-Who\nBlack Maria\nUlti\nPage One\nSasaki\nHoldem\nBabanuki",
+        "panel_id": "5",
+        "type": "list"
+    },
+    {
+        "text_box": [
+            840,
+            147,
+            1048,
+            1022
+        ],
+        "text": "It would fill the entire page if I listed them all. I'm sure for most of these, you're thinking, \"I've never heard of that!\" Well, it turns out there are tons and tons of card games played all over the world. Incidentally, you may remember that Doflamingo's code name was \"Joker\" back in Dressrosa. That's because in my initial plans, he was going to show up in Wano as one of Kaido's powerful allies. Good thing he was beaten in Dressrosa first!!",
+        "panel_id": "6",
+        "type": "explanation"
+    },
+    {
+        "text_box": [
+            1068,
+            94,
+            1155,
+            815
+        ],
+        "text": "Q: I'm a member of the SBS Board of Morals and Ethics. I think that Sanadacchi has gone too far this time. But putting that aside, I really want to eat your millet dumplings, Odacchi!!",
+        "panel_id": "7",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            1164,
+            640,
+            1184,
+            814
+        ],
+        "text": "--Sanadacchi Fan",
+        "panel_id": "8",
+        "type": "name"
+    },
+    {
+        "text_box": [
+            1200,
+            93,
+            1278,
+            831
+        ],
+        "text": "A: Uhh, the kind that pop off of my cheeks? I don't think you want to eat them. They're covered in gross, unshaved stubble. Also, change your pen name.",
+        "panel_id": "9",
+        "type": "answer"
+    },
+    {
+        "text_box": [
+            1292,
+            140,
+            1411,
+            672
+        ],
+        "text": "Question for you, Oda Sensei. The people who've eaten Smile fruits grow horns, right? Why do the Pleasures have only one horn, and the Gifters have two?",
+        "panel_id": "10",
+        "type": "question"
+    },
+    {
+        "text_box": [
+            1420,
+            539,
+            1441,
+            669
+        ],
+        "text": "--Hadock 10",
+        "panel_id": "11",
+        "type": "name"
+    },
+    {
+        "text_box": [
+            1460,
+            94,
+            1564,
+            919
+        ],
+        "text": "A: Well spotted. That's just fashion, actually! It's not enforced, but the rule is that Pleasures can wear one horn, and Gifters and up can wear two horns, if they want.",
+        "panel_id": "12",
+        "type": "answer"
+    }
+]

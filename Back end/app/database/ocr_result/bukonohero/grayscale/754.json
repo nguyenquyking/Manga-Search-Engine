@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            95,
+            124,
+            210,
+            278
+        ],
+        "text": "...and saw someone who looked like he needed saving.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            87,
+            581,
+            151,
+            667
+        ],
+        "text": "You looked at him...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            310,
+            112,
+            372,
+            210
+        ],
+        "text": "That's what you thought.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            518,
+            172,
+            595,
+            274
+        ],
+        "text": "...We're in sync with your emotions.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            519,
+            610,
+            579,
+            720
+        ],
+        "text": "We know that much because...",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            741,
+            68,
+            848,
+            205
+        ],
+        "text": "...But that doesn't mean the kid is hoping to be saved.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            731,
+            254,
+            848,
+            398
+        ],
+        "text": "No doubt he's suffering, what with All For One taking over his meatsuit...",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            717,
+            574,
+            824,
+            700
+        ],
+        "text": "The issue is...he sure didn't look that way to us!",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]

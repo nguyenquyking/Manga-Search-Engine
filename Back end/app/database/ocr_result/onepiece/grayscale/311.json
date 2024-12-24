@@ -1,0 +1,79 @@
+[
+    {
+        "text_box": [
+            84,
+            54,
+            146,
+            155
+        ],
+        "text": "...drops in response!!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            53,
+            633,
+            116,
+            727
+        ],
+        "text": "His defensive ability...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            478,
+            41,
+            545,
+            171
+        ],
+        "text": "Oh... Master King took his mask off...!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            121,
+            938,
+            294
+        ],
+        "text": "What was the reward for tipping off the government?\nA hundred million berries...?",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            838,
+            334,
+            930,
+            455
+        ],
+        "text": "Black wings, white hair, brown skin...",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            849,
+            493,
+            894,
+            589
+        ],
+        "text": "...Were... true...!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            847,
+            620,
+            893,
+            723
+        ],
+        "text": "So the rumors...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

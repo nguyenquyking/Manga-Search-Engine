@@ -1,0 +1,112 @@
+[
+    {
+        "text_box": [
+            48,
+            313,
+            131,
+            406
+        ],
+        "text": "WHY AM I LOSING TO MERE FLAMES?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            52,
+            444,
+            124,
+            533
+        ],
+        "text": "PROMETHEUS?!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            321,
+            627,
+            372,
+            729
+        ],
+        "text": "EEYAAGH!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            346,
+            50,
+            433,
+            168
+        ],
+        "text": "PHOENIX FLAMES HAVE SPECIAL PROPERTIES.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            548,
+            32,
+            632,
+            160
+        ],
+        "text": "GET HIM, PEROSPERO!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            602,
+            368,
+            621,
+            415
+        ],
+        "text": "OOGH!!",
+        "panel_id": "3",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            534,
+            640,
+            610,
+            730
+        ],
+        "text": "ALL RIGHT, THAT'S ENOUGH FROM YOU!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            716,
+            646,
+            766,
+            722
+        ],
+        "text": "RIGHT AWAY...",
+        "panel_id": "4",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            801,
+            565,
+            830,
+            616
+        ],
+        "text": "GRIK GRIK",
+        "panel_id": "4",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            1041,
+            642,
+            1067,
+            731
+        ],
+        "text": "MAMA!!",
+        "panel_id": "4",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            110,
+            104,
+            110,
+            131
+        ],
+        "text": "GRIN",
+        "panel_id": "1",
+        "type": "sound_effect"
+    },
+    {
+        "text_box": [
+            154,
+            324,
+            294,
+            465
+        ],
+        "text": "AND NOW I GET TO KILL YOU AFTER ALL.",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            244,
+            823,
+            274,
+            931
+        ],
+        "text": "TOYA...",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            483,
+            426,
+            548,
+            558
+        ],
+        "text": "LOOK SHARP, SPINNER! BEHIND YOU!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            576,
+            132,
+            621,
+            178
+        ],
+        "text": "HUH?",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1141,
+            70,
+            1252,
+            231
+        ],
+        "text": "BEST JEANIST!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1243,
+            601,
+            1320,
+            718
+        ],
+        "text": "...LUCK IS ON OUR SIDE!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1216,
+            835,
+            1259,
+            924
+        ],
+        "text": "IT SEEMS...",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

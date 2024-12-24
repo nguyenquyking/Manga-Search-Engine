@@ -1,0 +1,90 @@
+[
+    {
+        "text_box": [
+            56,
+            595,
+            129,
+            703
+        ],
+        "text": "HURRY! THERE'S NO TIME!!",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            276,
+            484,
+            330,
+            556
+        ],
+        "text": "YEOW!!",
+        "panel_id": "1",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            484,
+            405,
+            525,
+            472
+        ],
+        "text": "WHAT?! WHAT?!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            720,
+            188,
+            759,
+            250
+        ],
+        "text": "AAAGH!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            846,
+            34,
+            927,
+            138
+        ],
+        "text": "THAT WAS THE GIANT SEA MONK'S HAND!!",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            838,
+            217,
+            932,
+            327
+        ],
+        "text": "THEY'RE UNDERWATER!! I KNEW I SAW SOMETHING!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            843,
+            635,
+            930,
+            703
+        ],
+        "text": "LET'S GET OUTTA HERE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1024,
+            647,
+            1068,
+            705
+        ],
+        "text": "AIEEE!!",
+        "panel_id": "3",
+        "type": "dialogue"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "text_box": [
+            208,
+            133,
+            339,
+            319
+        ],
+        "text": "...but I couldn't have cared less about the humans.",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            209,
+            755,
+            368,
+            970
+        ],
+        "text": "I dunno if it was because I was weak and magicless, or because I was already torn up...",
+        "panel_id": "1",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            596,
+            147,
+            742,
+            278
+        ],
+        "text": "...They loathed and feared me.",
+        "panel_id": "2",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            601,
+            422,
+            660,
+            508
+        ],
+        "text": "We'll be cursed!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            640,
+            664,
+            684,
+            757
+        ],
+        "text": "A devil!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            595,
+            839,
+            712,
+            974
+        ],
+        "text": "But because I was a devil...",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            910,
+            212,
+            1009,
+            328
+        ],
+        "text": "Call the magic knights!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            940,
+            597,
+            993,
+            689
+        ],
+        "text": "It's a devil!!",
+        "panel_id": "2",
+        "type": "dialogue"
+    },
+    {
+        "text_box": [
+            1304,
+            237,
+            1489,
+            347
+        ],
+        "text": "My rotten life was finally about to end.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1158,
+            397,
+            1392,
+            597
+        ],
+        "text": "...until my body wouldn't move anymore. I was ready to die.",
+        "panel_id": "3",
+        "type": "narration"
+    },
+    {
+        "text_box": [
+            1156,
+            814,
+            1355,
+            970
+        ],
+        "text": "Humans with powerful magic chased me, and I ran...",
+        "panel_id": "3",
+        "type": "narration"
+    }
+]
