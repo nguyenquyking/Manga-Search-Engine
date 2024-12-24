@@ -1,8 +1,8 @@
 import streamlit as st
 import requests  # Import requests for API calls
 
-REGISTER_USER_API_URL = "http://127.0.0.1:5000/register-user"
-SET_API_KEY_API_URL = "http://127.0.0.1:5000/set-api-key"
+REGISTER_USER_API_URL = "http://192.168.0.40:5000/register-user"
+SET_API_KEY_API_URL = "http:/192.168.0.40:5000/set-api-key"
 
 st.set_page_config(page_title="Manga Retrieval", page_icon=":material/edit:")
 
