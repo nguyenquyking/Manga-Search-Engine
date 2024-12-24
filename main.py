@@ -1,7 +1,7 @@
 import streamlit as st
 import requests  # Import requests for API calls
 
-REGISTER_USER_API_URL = "http://192.168.0.40:5000/register-user"
+REGISTER_USER_API_URL = " https://6140-171-243-49-202.ngrok-free.app/register-user"
 SET_API_KEY_API_URL = "http:/192.168.0.40:5000/set-api-key"
 
 st.set_page_config(page_title="Manga Retrieval", page_icon=":material/edit:")
