@@ -6,9 +6,9 @@ from PIL import Image
 from io import BytesIO
 
 # Backend API endpoint
-BACKEND_API_URL = "http://127.0.0.1:5000/search-dialouge"  # Update with your backend URL
+BACKEND_API_URL = "http://192.168.0.40:5000/search-dialouge"  # Update with your backend URL
 # Backend API for getting images
-GET_IMAGE_API = "http://127.0.0.1:5000/get-image"
+GET_IMAGE_API = "http://192.168.0.40:5000/get-image"
 
 col1, col2 = st.columns([1, 3])
 with col1:

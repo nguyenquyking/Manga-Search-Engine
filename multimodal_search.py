@@ -6,10 +6,10 @@ import io
 from io import BytesIO
 
 # Backend API endpoint
-BACKEND_API_URL = "http://127.0.0.1:5000/upload-image"  # Update with your backend URL
-SEARCH_SCENE_API_URL = "http://127.0.0.1:5000/search-scene"
-GET_IMAGE_API_URL = "http://127.0.0.1:5000/get-image"
-REFINE_RESULT_API_URL = "http://127.0.0.1:5000/refine-result"
+BACKEND_API_URL = "http://192.168.0.40:5000/upload-image"  # Update with your backend URL
+SEARCH_SCENE_API_URL = "http://192.168.0.40:5000/search-scene"
+GET_IMAGE_API_URL = "http://192.168.0.40:5000/get-image"
+REFINE_RESULT_API_URL = "http://192.168.0.40:5000/refine-result"
 
 col1, col2 = st.columns([1, 3]) 
 with col1:
