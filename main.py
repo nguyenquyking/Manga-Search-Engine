@@ -22,17 +22,27 @@ if "session_state_id_turn" not in st.session_state:
     except requests.exceptions.RequestException as e:
         st.error(f"Error connecting to the server: {e}")
 
-# JavaScript to detect tab closure
+# JavaScript to detect tab closure and send `user_id` to the backend
 js_code = f"""
 <script>
     window.addEventListener("beforeunload", function (event) {{
-        // Call the backend API using the Fetch API
-        navigator.sendBeacon("{BACK_END_URL}{DELETE_USER_DATA_API_URL}", JSON.stringify({{
-            user_id: "{st.session_state.session_state_id_turn}"
-        }}));
+        const data = {{
+            user_id: {st.session_state.session_state_id_turn}
+        }};
+        
+        fetch("{st.session_state.back_end_url}{DELETE_USER_DATA_API_URL}", {{
+            method: 'POST',
+            headers: {{
+                'Content-Type': 'application/json',
+            }},
+            body: JSON.stringify(data),
+            // Using keepalive to ensure the request completes even if the page is unloading
+            keepalive: true
+        }}).catch(error => console.error('Error:', error));
     }});
 </script>
 """
+
 # Embed the JavaScript in the Streamlit app
 st.components.v1.html(js_code)
 
