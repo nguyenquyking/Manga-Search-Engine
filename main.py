@@ -1,9 +1,11 @@
 import streamlit as st
 import requests  # Import requests for API calls
+import atexit  # To handle session end events
 
 BACK_END_URL = "https://badger-prepared-iguana.ngrok-free.app"
 REGISTER_USER_API_URL = "/register-user"
 SET_API_KEY_API_URL = "/set-api-key"
+DELETE_USER_DATA_API_URL = "/delete-user"
 
 st.set_page_config(page_title="Manga Retrieval", page_icon=":material/edit:")
 
@@ -66,6 +68,26 @@ if st.session_state.send_button_visible:
             st.sidebar.error(f"Error connecting to the server: {e}")
 
         st.session_state.send_button_visible = False  # Hide button after click
+
+# Cleanup logic: Call delete_user_data when the session ends
+def cleanup_session():
+    """Call the backend API to delete user data when the session ends."""
+    if "session_state_id_turn" in st.session_state:
+        user_id = st.session_state.session_state_id_turn
+        try:
+            response = requests.post(
+                st.session_state.back_end_url + DELETE_USER_DATA_API_URL,
+                json={"user_id": user_id}
+            )
+            if response.status_code == 200:
+                print(f"User data for user_id {user_id} deleted successfully.")
+            else:
+                print(f"Failed to delete user data: {response.status_code}, {response.text}")
+        except requests.exceptions.RequestException as e:
+            print(f"Error connecting to the server for deleting user data: {e}")
+
+# Register the cleanup function
+atexit.register(cleanup_session)
 
 scene_search = st.Page("multimodal_search.py", title="Scene Search", icon="🔍")
 dialogue_search = st.Page("dialogue_search.py", title="Dialogue Search", icon="💬")
