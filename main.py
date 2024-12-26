@@ -22,30 +22,6 @@ if "session_state_id_turn" not in st.session_state:
     except requests.exceptions.RequestException as e:
         st.error(f"Error connecting to the server: {e}")
 
-# JavaScript to detect tab closure and send `user_id` to the backend
-js_code = f"""
-<script>
-    window.addEventListener("beforeunload", function (event) {{
-        const data = {{
-            user_id: {st.session_state.session_state_id_turn}
-        }};
-        
-        fetch("{st.session_state.back_end_url}{DELETE_USER_DATA_API_URL}", {{
-            method: 'POST',
-            headers: {{
-                'Content-Type': 'application/json',
-            }},
-            body: JSON.stringify(data),
-            // Using keepalive to ensure the request completes even if the page is unloading
-            keepalive: true
-        }}).catch(error => console.error('Error:', error));
-    }});
-</script>
-"""
-
-# Embed the JavaScript in the Streamlit app
-st.components.v1.html(js_code)
-
 # Sidebar input for API key
 st.sidebar.title("Gemini API 🔑")
 
@@ -94,6 +70,30 @@ if st.session_state.send_button_visible:
 
 scene_search = st.Page("multimodal_search.py", title="Scene Search", icon="🔍")
 dialogue_search = st.Page("dialogue_search.py", title="Dialogue Search", icon="💬")
+
+# JavaScript to detect tab closure and send `user_id` to the backend
+js_code = f"""
+<script>
+    window.addEventListener("beforeunload", function (event) {{
+        const data = {{
+            user_id: {st.session_state.session_state_id_turn}
+        }};
+        
+        fetch("{st.session_state.back_end_url}{DELETE_USER_DATA_API_URL}", {{
+            method: 'POST',
+            headers: {{
+                'Content-Type': 'application/json',
+            }},
+            body: JSON.stringify(data),
+            // Using keepalive to ensure the request completes even if the page is unloading
+            keepalive: true
+        }}).catch(error => console.error('Error:', error));
+    }});
+</script>
+"""
+
+# # Embed the JavaScript in the Streamlit app
+# st.components.v1.html(js_code)
 
 pg = st.navigation([scene_search, dialogue_search])
 pg.run()
