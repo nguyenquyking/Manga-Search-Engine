@@ -152,7 +152,7 @@ if st.button("Search"):
         st.stop()
 
     start = time.time()
-    results = call_search_scene_api(image_paths=uploaded_paths, text_inputs=st.session_state.text_inputs, top_k=10)
+    results = call_search_scene_api(image_paths=uploaded_paths, text_inputs=st.session_state.text_inputs, top_k=int(st.session_state.get("top_k", 10)))
     st.write(f"Search took {time.time() - start} seconds.")
     
     if results:
@@ -164,12 +164,12 @@ if st.button("Search"):
 if "results" in st.session_state and st.session_state.results:
     col_subheader, col_button = st.columns([3, 1])
     with col_subheader:
-        st.subheader("Search Results")
+        st.subheader(f"Top {int(st.session_state.get('top_k', 10))} Results")
     with col_button:
         refine_disabled = not any(st.session_state.get("selected_images", []))
         if st.button("Refine Results", disabled=refine_disabled):
             print('images selected:', st.session_state.selected_images)
-            st.session_state.results = call_refine_result_api(st.session_state.get("session_state_id_turn", 0), st.session_state.get("selected_images", []), 10)
+            st.session_state.results = call_refine_result_api(st.session_state.get("session_state_id_turn", 0), st.session_state.get("selected_images", []), top_k=int(st.session_state.get("top_k", 10)))
             st.session_state.selected_images = [False] * len(st.session_state.results)
 
     columns_per_row = 3

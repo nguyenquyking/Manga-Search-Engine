@@ -68,6 +68,21 @@ if st.session_state.send_button_visible:
 
         st.session_state.send_button_visible = False  # Hide button after click
 
+# Sidebar with horizontal layout
+with st.sidebar:
+    # Create two columns
+    col1, col2 = st.columns([1, 2])  # Adjust width ratios as needed
+
+    # First column with two rows
+    with col1:
+        st.text("")  # First row: Empty or placeholder
+        st.text("")  
+        st.text("Top K")  # Second row: Add label
+
+    # Second column with one row
+    with col2:
+        st.session_state.top_k = st.text_input(" ", value="10")  # Store in session_state
+
 scene_search = st.Page("multimodal_search.py", title="Scene Search", icon="🔍")
 dialogue_search = st.Page("dialogue_search.py", title="Dialogue Search", icon="💬")
 

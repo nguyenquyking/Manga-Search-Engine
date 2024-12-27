@@ -74,12 +74,12 @@ if st.button("Search") or st.session_state.get("chosen_suggestion"):
         st.session_state.chosen_suggestion = query
         start = time.time()
         # Call the API
-        ocr_results = search_dialogue_api(query=query, top_k=10)
+        ocr_results = search_dialogue_api(query=query, top_k=int(st.session_state.get("top_k", 10)))
         st.write(f"Search took {time.time() - start} seconds.")
 
         # Display results
         if ocr_results:
-            st.subheader("Top 10 Results")
+            st.subheader(f"Top {int(st.session_state.get('top_k', 10))} Results")
             columns_per_row = 3
             for row_start in range(0, len(ocr_results), columns_per_row):
                 cols = st.columns(columns_per_row)
