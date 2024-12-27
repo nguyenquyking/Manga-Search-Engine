@@ -77,7 +77,7 @@ with st.sidebar:
     with col1:
         st.text("")  # First row: Empty or placeholder
         st.text("")  
-        st.text("Top K")  # Second row: Add label
+        st.text("Top Results")  # Second row: Add label
 
     # Second column with one row
     with col2:
