@@ -62,7 +62,9 @@ def upload_image_to_backend(image_file):
         # Convert Streamlit UploadedFile to file-like object
         file_buffer = io.BytesIO(image_file.read())
         file_buffer.name = image_file.name  # Set the name for the file
-        files = {"file": (image_file.name, file_buffer, image_file.type)}
+        files = {"file": (image_file.name, file_buffer, image_file.type),
+                 "user_id": (None, str(st.session_state.get("session_state_id_turn", 0)))  # Ensure user_id is a string
+            }
         
         # Call the API
         response = requests.post(st.session_state.back_end_url + BACKEND_API_URL, files=files)
