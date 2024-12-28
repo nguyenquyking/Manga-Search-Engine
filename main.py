@@ -1,7 +1,8 @@
+import json
 import streamlit as st
 import requests  # Import requests for API calls
 
-BACK_END_URL = "https://badger-prepared-iguana.ngrok-free.app"
+BACK_END_URL = "http://192.168.1.32:5000"
 REGISTER_USER_API_URL = "/register-user"
 SET_API_KEY_API_URL = "/set-api-key"
 DELETE_USER_DATA_API_URL = "/delete-user"
@@ -22,6 +23,42 @@ if "session_state_id_turn" not in st.session_state:
     except requests.exceptions.RequestException as e:
         st.error(f"Error connecting to the server: {e}")
 
+@st.cache_resource
+def get_img():
+    print("Loading images...")
+    with open('./assets/img_map.json', 'r') as f:
+        index = json.load(f)
+    return index
+
+index = get_img()
+
+st.session_state.index = index
+
+sidebar_pg = f"""
+<style>
+[data-testid="stSidebarNav"] {{
+border-radius: 20px;
+padding: 10px 0px;
+background-color: white;
+margin: 10px;
+}}
+[data-testid="stSidebarNavSeparator"] {{
+padding: 0px;
+margin: 0px 10px;
+}}
+[data-testid="stSidebarUserContent"] {{
+border-radius: 20px;
+padding: 10px;
+background-color: white;
+margin: 5px;
+}}
+[data-testid="stSidebarCollapseButton"] {{
+border-radius: 5px;
+background-color: white;
+}}
+</style>
+"""
+st.markdown(sidebar_pg, unsafe_allow_html=True)
 # Sidebar input for API key
 st.sidebar.title("Gemini API 🔑")
 
