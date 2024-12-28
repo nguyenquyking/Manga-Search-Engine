@@ -2,7 +2,7 @@ import json
 import streamlit as st
 import requests  # Import requests for API calls
 
-BACK_END_URL = "http://192.168.1.32:5000"
+BACK_END_URL = " https://badger-prepared-iguana.ngrok-free.app"
 REGISTER_USER_API_URL = "/register-user"
 SET_API_KEY_API_URL = "/set-api-key"
 DELETE_USER_DATA_API_URL = "/delete-user"
